@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/SAM2WOW/Fukufuku-no-Shima-PSP-Locolization/releases/latest"><img src="https://img.shields.io/github/v/release/SAM2WOW/Fukufuku-no-Shima-PSP-Locolization?label=download%20patch&color=2ea44f" alt="Download the latest patch"></a>
+  <a href="https://github.com/SAM2WOW/fukufuku-no-shima-english-patch/releases/latest"><img src="https://img.shields.io/github/v/release/SAM2WOW/fukufuku-no-shima-english-patch?label=download%20patch&color=2ea44f" alt="Download the latest patch"></a>
   <img src="https://img.shields.io/badge/platform-PSP%20%7C%20PPSSPP%20%7C%20PS%20Vita-0070d1" alt="Platform: PSP, PPSSPP, PS Vita">
   <img src="https://img.shields.io/badge/game%20ID-UCJS--10016-lightgrey" alt="Game ID UCJS-10016">
   <a href="LICENSE-GPL.txt"><img src="https://img.shields.io/badge/license-GPL--3.0-blue" alt="License GPL-3.0"></a>
@@ -42,13 +42,13 @@ game and a free patching tool, and it works on **PPSSPP**, real **PSP** hardware
 > [!NOTE]
 > This is the first public release. The translation was produced with AI assistance and is being proofread.
 > If a line reads oddly, text runs off a window, or something is still in Japanese, please
-> [open an issue](https://github.com/SAM2WOW/Fukufuku-no-Shima-PSP-Locolization/issues) with a screenshot.
+> [open an issue](https://github.com/SAM2WOW/fukufuku-no-shima-english-patch/issues) with a screenshot.
 
 ## 📥 Download
 
-**[⬇ Download Fukufuku.no.Shima.English.xdelta](https://github.com/SAM2WOW/Fukufuku-no-Shima-PSP-Locolization/releases/latest/download/Fukufuku.no.Shima.English.xdelta)** (about 6.6 MB)
+**[⬇ Download Fukufuku.no.Shima.English.xdelta](https://github.com/SAM2WOW/fukufuku-no-shima-english-patch/releases/latest/download/Fukufuku.no.Shima.English.xdelta)** (about 6.6 MB)
 
-Release notes, checksums and older versions are on the [Releases page](https://github.com/SAM2WOW/Fukufuku-no-Shima-PSP-Locolization/releases).
+Release notes, checksums and older versions are on the [Releases page](https://github.com/SAM2WOW/fukufuku-no-shima-english-patch/releases).
 
 The patch does **not** contain the game. You need your own ISO of the original Japanese UMD.
 
@@ -60,7 +60,7 @@ The patch turns your Japanese ISO into an English ISO. It takes about a minute.
 
 - Your ISO of **Fukufuku no Shima (Japan)**, dumped from your own UMD with a PSP running custom firmware
   (see the [ConsoleMods PSP wiki](https://consolemods.org/wiki/PSP:PSP_Mods_Wiki) for how to dump a UMD).
-- The `.xdelta` file from the [latest release](https://github.com/SAM2WOW/Fukufuku-no-Shima-PSP-Locolization/releases/latest).
+- The `.xdelta` file from the [latest release](https://github.com/SAM2WOW/fukufuku-no-shima-english-patch/releases/latest).
 
 ### Step 1 – Check your ISO
 
@@ -216,7 +216,7 @@ The patch doesn't change the save format, so existing saves should load. Back th
 Yes. The patch only changes text and images; nothing is cut.
 
 #### Something is still in Japanese / text runs off the screen
-Please [open an issue](https://github.com/SAM2WOW/Fukufuku-no-Shima-PSP-Locolization/issues) with a screenshot
+Please [open an issue](https://github.com/SAM2WOW/fukufuku-no-shima-english-patch/issues) with a screenshot
 and where it happened.
 
 ## 🔧 Building from source
@@ -225,8 +225,8 @@ You can build the English ISO yourself, for example to try your own translation 
 **Python 3.8+**.
 
 ```
-git clone https://github.com/SAM2WOW/Fukufuku-no-Shima-PSP-Locolization.git
-cd Fukufuku-no-Shima-PSP-Locolization
+git clone https://github.com/SAM2WOW/fukufuku-no-shima-english-patch.git
+cd fukufuku-no-shima-english-patch
 ```
 
 Put `Fukufuku no Shima (Japan).iso` in the folder, then run:
