@@ -102,7 +102,7 @@ EN: Lepus
 JP: 白鳥座
 EN: Cygnus
 
-@1BDEB4 max=12
+@1BDEB4 max=15
 JP: 福福島の住人
 EN: Islander
 
@@ -146,7 +146,7 @@ EN: Brikki Architect Exam
 JP: ブリッキ国コンクリート試験
 EN: Brikki Concrete Exam
 
-@1BE0BC max=20
+@1BE0BC max=23
 JP: ブリッキ国消防士試験
 EN: Brikki Fireftr. Exam
 
@@ -154,7 +154,7 @@ EN: Brikki Fireftr. Exam
 JP: ブリッキ国火薬取扱試験
 EN: Brikki Explosives Exam
 
-@1BE0EC max=20
+@1BE0EC max=23
 JP: ブリッキ国保育士試験
 EN: Brikki Childcare Ex.
 
@@ -186,7 +186,7 @@ EN: Brikki Computing Exam
 JP: ブリッキ国公害対策試験
 EN: Brikki Pollution Exam
 
-@1BE1AC max=24
+@1BE1AC max=27
 JP: ブリッキ国ドライバー試験
 EN: Brikki Driving Exam
 
@@ -198,11 +198,11 @@ EN: Brikki Secr. Exam
 JP: ブリッキ国色彩試験
 EN: Brikki Color Exam
 
-@1BE1F0 max=28
+@1BE1F0 max=31
 JP: ブリッキ国アロマテラピー試験
 EN: Brikki Aromatherapy Exam
 
-@1BE210 max=24
+@1BE210 max=27
 JP: ブリッキ国インテリア試験
 EN: Brikki Interior Exam
 
@@ -210,7 +210,7 @@ EN: Brikki Interior Exam
 JP: サンプル：ゴシック建築とかのゴシック。<n>あれって「ゴート族風の」って意味で、<p>イタリア人が敵対してたゴート人のことを<n>こきおろして言った悪口なんだほ。<p>悪口も言ってみるもんだほ。\n
 EN: Sample: 'Gothic' means<n>'in the style of the Goths,' daho.<p>Italians used it to mock<n>their Goth enemies, daho.<p>Even insults can catch on, daho.
 
-@1BE3B4 max=24
+@1BE3B4 max=27
 JP: 総合運　基本運勢値 = %d\n
 EN: 
 
@@ -238,11 +238,11 @@ EN:
 JP: ラッキーカラー = %d\n
 EN: 
 
-@1BE474 max=25
+@1BE474 max=27
 JP: 今日の運勢ランキング決定\n
 EN: 
 
-@1BE72C max=43
+@1BE72C max=15
 JP: i001ドングリ
 EN: Acorn
 
@@ -250,128 +250,128 @@ EN: Acorn
 JP: 普通のドングリ。<n>この島のどこかにいる、モグラの好物。
 EN: An ordinary acorn.<n>A favorite snack of the moles living somewhere on this island.
 
-@1BEA00 max=47
-JP: i002主任ドングリ
+@1BEA04 max=43
+JP: i002主任ドングリ
 EN: Supervisor Acorn
 
 @1BEA64 max=623
 JP: 質のいいドングリ。<n>普通のドングリでは満足できない<n>ちょっとグルメなモグラ向けの一品。
 EN: A fine-quality acorn.<n>For moles with refined tastes<n>who won't settle for ordinary acorns.
 
-@1BECD8 max=47
-JP: i005課長ドングリ
+@1BECDC max=43
+JP: i005課長ドングリ
 EN: Section Chief Acorn
 
-@1BED3C max=111
+@1BED3C max=623
 JP: 最高級のドングリ。<n>ごくまれにしか見つからない。<n>あらゆるドングリを食べ尽くした<n>偉いモグラも大満足の逸品。
 EN: An ultra-rare, top-grade acorn.<n>A gourmet treat<n>for high-ranking moles<n>who've tried every kind.
 
-@1BEFB0 max=47
-JP: i010フルフルの実
+@1BEFB4 max=43
+JP: i010フルフルの実
 EN: Furufuru Fruit
 
-@1BF014 max=137
+@1BF014 max=623
 JP: この島のみで採れる珍しい果実。<n>ほのかに甘酸っぱく、なかなかの美味。<n>香りがよく、栄養価も高いので<n>食べれば元気が出ること間違いなし。
 EN: A rare fruit found only on this island.<n>Sweet, tart and tasty.<n>Fragrant and nutritious.<n>Sure to perk you up!
 
-@1BF288 max=47
-JP: i011ラルラの実
+@1BF28C max=43
+JP: i011ラルラの実
 EN: Larula Fruit
 
 @1BF2EC max=623
 JP: この島のみで採れる珍しい果実。<n>ほのかに甘酸っぱく、なかなかの美味。<n>香りがよく、栄養価も高いので<n>食べれば元気が出ること間違いなし。
 EN: A rare fruit found only on this island.<n>Sweet, tart and tasty.<n>Fragrant and nutritious.<n>Sure to perk you up!
 
-@1BF560 max=47
-JP: i012テテの実
+@1BF564 max=43
+JP: i012テテの実
 EN: Tete Fruit
 
 @1BF5C4 max=623
 JP: この島のみで採れる珍しい果実。<n>ほのかに甘酸っぱく、なかなかの美味。<n>香りがよく、栄養価も高いので<n>食べれば元気が出ること間違いなし。
 EN: A rare fruit found only on this island.<n>Sweet, tart and tasty.<n>Fragrant and nutritious.<n>Sure to perk you up!
 
-@1BF838 max=47
-JP: i013ポードの実
+@1BF83C max=43
+JP: i013ポードの実
 EN: Podo Fruit
 
-@1BF89C max=137
+@1BF89C max=623
 JP: この島のみで採れる珍しい果実。<n>ほのかに甘酸っぱく、なかなかの美味。<n>香りがよく、栄養価も高いので<n>食べれば元気が出ること間違いなし。
 EN: A rare fruit found only on this island.<n>Sweet, tart and tasty.<n>Fragrant and nutritious.<n>Sure to perk you up!
 
-@1BFB10 max=47
-JP: i014テステスの実
+@1BFB14 max=43
+JP: i014テステスの実
 EN: Tesutesu Fruit
 
 @1BFB74 max=623
 JP: この島のみで採れる珍しい果実。<n>ほのかに甘酸っぱく、なかなかの美味。<n>香りがよく、栄養価も高いので<n>食べれば元気が出ること間違いなし。
 EN: A rare fruit found only on this island.<n>Sweet, tart and tasty.<n>Fragrant and nutritious.<n>Sure to perk you up!
 
-@1BFDE8 max=47
-JP: i015マウマウの実
+@1BFDEC max=43
+JP: i015マウマウの実
 EN: Maumau Fruit
 
 @1BFE4C max=623
 JP: この島のみで採れる珍しい果実。<n>ほのかに甘酸っぱく、なかなかの美味。<n>香りがよく、栄養価も高いので<n>食べれば元気が出ること間違いなし。
 EN: A rare fruit found only on this island.<n>Sweet, tart and tasty.<n>Fragrant and nutritious.<n>Sure to perk you up!
 
-@1C00C0 max=47
-JP: i016トワンの実
+@1C00C4 max=43
+JP: i016トワンの実
 EN: Towan Fruit
 
 @1C0124 max=623
 JP: この島のみで採れる珍しい果実。<n>ほのかに甘酸っぱく、なかなかの美味。<n>香りがよく、栄養価も高いので<n>食べれば元気が出ること間違いなし。
 EN: A rare fruit found only on this island.<n>Sweet, tart and tasty.<n>Fragrant and nutritious.<n>Sure to perk you up!
 
-@1C0398 max=47
-JP: i017ザルツの実
+@1C039C max=43
+JP: i017ザルツの実
 EN: Zalts Fruit
 
-@1C03FC max=137
+@1C03FC max=623
 JP: この島のみで採れる珍しい果実。<n>ほのかに甘酸っぱく、なかなかの美味。<n>香りがよく、栄養価も高いので<n>食べれば元気が出ること間違いなし。
 EN: A rare fruit found only on this island.<n>Sweet, tart and tasty.<n>Fragrant and nutritious.<n>Sure to perk you up!
 
-@1C0670 max=47
-JP: i020カワセミダケ
+@1C0674 max=43
+JP: i020カワセミダケ
 EN: Kingfisher Mushroom
 
 @1C06D4 max=623
 JP: 島に普通に生えている食用のキノコ。<n>西方に住む、ムッツリクロカワセミが<n>出産後に好んで食べることで知られる。<n>たまに毒があることがあるので注意。
 EN: A common edible mushroom on the island.<n>The Sullen Black Kingfisher of the western lands<n>is known to eat it after giving birth.<n>Watch out: some are poisonous!
 
-@1C0948 max=47
-JP: i023ニンギョダケ
+@1C094C max=43
+JP: i023ニンギョダケ
 EN: Mermaid Mushroom
 
 @1C09AC max=623
 JP: 珍味として知られる食用キノコ。<n>淡水人魚の大好物と言われ、これを餌に<n>人魚を釣ったという伝説が各地に残る。<n>栄養価が高いがたまに毒があるものも。
 EN: An edible mushroom prized as a delicacy.<n>Said to be a freshwater mermaid's favorite food.<n>Tales of mermaids caught using it as bait abound.<n>Very nutritious, though some are poisonous.
 
-@1C0C20 max=47
-JP: i024カタストロダケ
+@1C0C24 max=43
+JP: i024カタストロダケ
 EN: Catastroshroom
 
 @1C0C84 max=623
 JP: 古くから魔術の触媒として用いられた<n>幻のキノコ。大魔道師アルフォンセカは<n>これを食べて若返り歌手デビューした。<n>死者をも蘇らすが、不幸を呼ぶことも。
 EN: A mythical mushroom used in magic since ancient times.<n>The archmage Alfonseca ate one, grew young again,<n>and launched a singing career. It can even revive the dead,<n>though it may also bring misfortune.
 
-@1C0EF8 max=47
-JP: i032空き瓶
+@1C0EFC max=43
+JP: i032空き瓶
 EN: i032Empty Bottle
 
 @1C0F5C max=623
 JP: ワインの空き瓶。<n>ビンテージ物の高級ワインが入っていた<n>ようだが、今はただの空き瓶。<n>手紙でも詰めて海に流してしまえ。
 EN: An empty wine bottle.<n>It seems to have held a pricey vintage wine,<n>but now it's just an empty bottle.<n>Stuff a letter in it and chuck it out to sea.
 
-@1C11D0 max=47
-JP: i033古新聞
+@1C11D4 max=43
+JP: i033古新聞
 EN: i033Old Newspaper
 
-@1C14A8 max=47
-JP: i034パズルピース
+@1C14AC max=19
+JP: i034パズルピース
 EN: i034Puzzle Piece
 
-@1C1780 max=47
-JP: i050フォーチュンリーフ
+@1C1784 max=23
+JP: i050フォーチュンリーフ
 EN: i050Fortune Leaf
 
 @1C17E4 max=623
@@ -382,7 +382,7 @@ EN: A four-leaf clover, the classic lucky plant,<n>given a few improvements by a
 JP: i051ザクザクのカギ
 EN: i051Treasure Key
 
-@1C1ABC max=131
+@1C1ABC max=623
 JP: 地下に住む妖精、コボルトは<n>貯蓄好きの生き物として知られている。<n>これは、コボルト中央銀行大金庫の<n>カギ。金運のシンボルである。
 EN: Kobolds are underground fairies<n>known for saving. This key opens<n>their central bank's main vault.<n>A symbol of money luck.
 
@@ -414,7 +414,7 @@ EN: Luxury nail polish supposedly used by Yang Guifei,<n>the legendary beauty of
 JP: i055初恋の桜貝
 EN: i055First Love Shell
 
-@1C261C max=127
+@1C261C max=623
 JP: 世界の幼なじみの歴史に名を残す<n>名幼なじみ、ミス・サウス。<n>彼女の子供のころからの宝物には<n>恋愛成就を助ける力があるという。
 EN: Miss South, a legendary childhood<n>friend, treasured this shell as a girl.<n>They say it helps<n>make love come true.
 
@@ -578,32 +578,32 @@ EN: i080Yellow Soul
 JP: この島に漂う霊気が<n>集まって形を取ったもの。<n>入手した者に経験を与える。<n>黄色いものは凝集度が低い。
 EN: The spiritual energy drifting around this island<n>has gathered together and taken solid form.<n>It grants experience to whoever collects it.<n>Yellow Souls have a low concentration of energy.
 
-@1C6170 max=47
-JP: i081ブルーソウル
+@1C6174 max=43
+JP: i081ブルーソウル
 EN: i081Blue Soul
 
 @1C61D4 max=623
 JP: この島に漂う霊気が<n>集まって形を取ったもの。<n>入手した者に経験を与える。<n>黄色より凝集度が高い。
 EN: The spiritual energy drifting around this island<n>has gathered together and taken solid form.<n>It grants experience to whoever collects it.<n>More concentrated than a Yellow Soul.
 
-@1C6448 max=47
-JP: i082ピンキーソウル
+@1C644C max=43
+JP: i082ピンキーソウル
 EN: i082Pinky Soul
 
 @1C64AC max=623
 JP: この島に漂う霊気が<n>集まって形を取ったもの。<n>入手した者に経験を与える。<n>かなり凝集度が高い貴重なソウル。
 EN: The spiritual energy drifting around this island<n>has gathered together and taken solid form.<n>It grants experience to whoever collects it.<n>A precious Soul with highly concentrated energy.
 
-@1C6720 max=47
-JP: i086レッドソウル
+@1C6724 max=43
+JP: i086レッドソウル
 EN: i086Red Soul
 
 @1C6784 max=623
 JP: この島に漂う霊気が<n>集まって形を取ったもの。<n>入手した者に経験を与える。<n>最高に凝集度が高いと赤くなる。
 EN: The spiritual energy drifting around this island<n>has gathered together and taken solid form.<n>It grants experience to whoever collects it.<n>At its highest concentration, it turns red.
 
-@1C69F8 max=47
-JP: i100グリーンチュニック
+@1C69FC max=43
+JP: i100グリーンチュニック
 EN: i100Green Tunic
 
 @1C6A5C max=623
@@ -1146,172 +1146,172 @@ EN: i200Ponytail
 JP: シンプルなポニーテール。<n>スポーツウェアに似合いそう。
 EN: A simple ponytail.<n>A great match for sportswear.
 
-@1D2B58 max=47
-JP: i201シニヨン
+@1D2B5C max=43
+JP: i201シニヨン
 EN: i201Chignon
 
 @1D2BBC max=623
 JP: コバルトグリーンの髪を<n>ピンクと白のリボンでまとめた。<n>個性を表現したいあなたに。
 EN: Cobalt-green hair tied back with<n>pink and white ribbons.<n>Let your personality shine!
 
-@1D2E30 max=47
-JP: i202マッシュウルフ
+@1D2E34 max=43
+JP: i202マッシュウルフ
 EN: Bowl-Cut Shag
 
 @1D2E94 max=623
 JP: ピンクベージュのカラーを<n>ベースにしたセンターパーツの<n>レイヤースタイル。<n>大人っぽい雰囲気を演出してくれる。
 EN: A layered cut with a center part<n>and a pink-beige base color.<n>A stylish choice for a<n>more grown-up look.
 
-@1D3108 max=47
-JP: i203二つ結び
+@1D310C max=43
+JP: i203二つ結び
 EN: Pigtails
 
 @1D316C max=623
 JP: ブルーの髪飾りでまとめた二つ結び。<n>高い位置で結んで<n>かわいい感じを出している。
 EN: Pigtails tied with blue hair accessories.<n>Worn high on the head<n>for an extra-cute look.
 
-@1D33E0 max=47
-JP: i204ブルーリボン
+@1D33E4 max=43
+JP: i204ブルーリボン
 EN: Blue Ribbon
 
 @1D3444 max=623
 JP: ブルーの髪を、青白ストライプの<n>さわやかなリボンで結んだポニー。<n>清涼感あふれるスタイル。
 EN: Blue hair in a ponytail, tied with<n>a breezy blue-and-white striped ribbon.<n>A refreshingly cool look.
 
-@1D36B8 max=47
-JP: i205イエローカール
+@1D36BC max=43
+JP: i205イエローカール
 EN: Yellow Curls
 
 @1D371C max=623
 JP: トランプの王様を思わせる<n>クラシカルなヘアスタイル。<n>やっぱり金髪がよく似合う。
 EN: A classic hairstyle fit for<n>the king on a playing card.<n>Blond really does suit it best.
 
-@1D3990 max=47
-JP: i206イエローリボン
+@1D3994 max=43
+JP: i206イエローリボン
 EN: Yellow Ribbon
 
 @1D39F4 max=623
 JP: リボンがアクセントの巻き髪。<n>カジュアルな服にも<n>ドレッシーな服にも合いそう。
 EN: Soft curls accented with a ribbon.<n>Just as lovely with casual clothes<n>as with something dressy.
 
-@1D3C68 max=47
-JP: i207フィッシュボーン
+@1D3C6C max=43
+JP: i207フィッシュボーン
 EN: Fishtail Braid
 
 @1D3CCC max=623
 JP: ルビー色の髪を編んだ<n>フィッシュボーンスタイル。<n>厚めの前髪がキュート。
 EN: Ruby-red hair woven into<n>a fishtail braid.<n>The thick bangs add a cute touch.
 
-@1D3F40 max=47
-JP: i208お団子イエロー
+@1D3F44 max=43
+JP: i208お団子イエロー
 EN: Yellow Buns
 
 @1D3FA4 max=623
 JP: イエロー系のカラーリングの<n>まとめ髪でかなり個性的なスタイル。<n>明るい気分になりたいときに。
 EN: A bold updo in<n>sunny shades of yellow.<n>Perfect when you need a little cheer.
 
-@1D4218 max=47
-JP: i209お団子ブルー
+@1D421C max=43
+JP: i209お団子ブルー
 EN: Blue Buns
 
 @1D427C max=623
 JP: 落ち着いたブルーのお団子頭。<n>前からみても、横からみても<n>とても個性的でキュート。
 EN: Hair buns in a soft, muted blue.<n>Full of personality and cute<n>from every angle.
 
-@1D44F0 max=47
-JP: i210ショートボブ
+@1D44F4 max=43
+JP: i210ショートボブ
 EN: Short Bob
 
 @1D4554 max=623
 JP: ワックスで、くしゃっと無造作に<n>スタイリングしたショートボブ。<n>髪の毛を軽くみせる効果があって<n>どんな服でも着こなせそう。
 EN: A short bob tousled with wax<n>for an effortlessly messy look.<n>Light and airy,<n>it goes with just about anything.
 
-@1D47C8 max=47
-JP: i211ショート
+@1D47CC max=43
+JP: i211ショート
 EN: Short Cut
 
 @1D482C max=623
 JP: ヒヨコマークの入った特製キャップを<n>後ろに回してかぶって<n>活発なムードを漂わせるスタイル。
 EN: A special cap with a chick emblem,<n>worn backward<n>for a sporty, energetic look.
 
-@1D4AA0 max=47
-JP: i212ショートレイヤー
+@1D4AA4 max=43
+JP: i212ショートレイヤー
 EN: Short Layers
 
 @1D4B04 max=623
 JP: マニッシュなレイヤースタイル。<n>男の子にも、女の子にも似合う<n>万能なヘアスタイル。
 EN: A boyish layered cut.<n>A versatile hairstyle that looks great<n>on boys and girls alike.
 
-@1D4D78 max=47
-JP: i213レイヤーアッシュ
+@1D4D7C max=43
+JP: i213レイヤーアッシュ
 EN: Ash Layers
 
 @1D4DDC max=623
 JP: シャープな感じのストレートショート。<n>ハイライトをつけて<n>動きのあるスタイルに仕上げている。
 EN: A sleek, straight short cut.<n>Highlights add depth<n>and a lively sense of movement.
 
-@1D5050 max=47
-JP: i214カーキハット
+@1D5054 max=43
+JP: i214カーキハット
 EN: Khaki Hat
 
 @1D50B4 max=623
 JP: つば先にワイヤーの入ったハットが<n>明るい髪色とよく似合って<n>軽快かつスタイリッシュ。
 EN: A hat with a wire-edged brim<n>pairs perfectly with light-colored hair<n>for a breezy, stylish look.
 
-@1D5328 max=47
-JP: i215ホワイトハット
+@1D532C max=43
+JP: i215ホワイトハット
 EN: White Hat
 
 @1D538C max=623
 JP: ハードすぎない<n>ナチュラルな仕上がりのヘアが<n>白い帽子とよくマッチしている。<n>さわやかな郊外向けのスタイル。
 EN: Soft, naturally styled hair<n>pairs beautifully<n>with a white hat.<n>A fresh look for a day in the country.
 
-@1D5600 max=47
-JP: i216モヘアニット
+@1D5604 max=43
+JP: i216モヘアニット
 EN: Mohair Knit Hat
 
 @1D5664 max=623
 JP: 淡いブルーのモヘアの<n>ニットキャップに髪全体を<n>中に入れたスタイル<n>シンプルでシックな印象。
 EN: Hair tucked neatly inside<n>a pale blue<n>mohair knit hat.<n>Simple and chic.
 
-@1D58D8 max=47
-JP: i217ニットキャップ
+@1D58DC max=43
+JP: i217ニットキャップ
 EN: Knit Cap
 
 @1D593C max=623
 JP: ナチュラルカラーのショートヘアに<n>色を合わせたニットキャップの組合せ。<n>カジュアル＆エキゾチックなムードで。
 EN: Short, natural-colored hair<n>paired with a matching knit cap.<n>A casual look with an exotic touch.
 
-@1D5BB0 max=47
-JP: i220星のかけら（黄色）
+@1D5BB4 max=43
+JP: i220星のかけら（黄色）
 EN: Yellow Star Fragment
 
-@1D5E88 max=47
-JP: i221星のかけら（青）
+@1D5E8C max=43
+JP: i221星のかけら（青）
 EN: Blue Star Fragment
 
-@1D6160 max=47
-JP: i222星のかけら（ピンク）
+@1D6164 max=43
+JP: i222星のかけら（ピンク）
 EN: Pink Star Fragment
 
-@1D6438 max=47
-JP: i223星のかけら（オレンジ）
+@1D643C max=43
+JP: i223星のかけら（オレンジ）
 EN: Orange Star Fragment
 
-@1D6710 max=47
-JP: i224星のかけら（紫）
+@1D6714 max=43
+JP: i224星のかけら（紫）
 EN: Purple Star Fragment
 
-@1D69E8 max=47
-JP: i225星のかけら（緑）
+@1D69EC max=43
+JP: i225星のかけら（緑）
 EN: Green Star Fragment
 
-@1D6CC0 max=47
-JP: i226星のかけら（赤）
+@1D6CC4 max=43
+JP: i226星のかけら（赤）
 EN: Red Star Fragment
 
-@1D6F98 max=47
-JP: i240深い森のベッド
+@1D6F9C max=43
+JP: i240深い森のベッド
 EN: i240Deep Forest Bed
 
 @1D6FFC max=623
@@ -1954,27 +1954,27 @@ EN: Part of the "Brown Woodland Nuts"<n>home furnishing collection.<n>Rustic, ea
 JP: i360お金（10円）
 EN: i360Money (10 Yen)
 
-@1E55F0 max=47
-JP: i361お金（50円）
+@1E55F4 max=43
+JP: i361お金（50円）
 EN: i361Money (50 Yen)
 
-@1E58C8 max=47
-JP: i362お金（100円）
+@1E58CC max=43
+JP: i362お金（100円）
 EN: i362Money (100 Yen)
 
-@1E5BA0 max=47
-JP: i363お金（500円）
+@1E5BA4 max=43
+JP: i363お金（500円）
 EN: i363Money (500 Yen)
 
-@1E5E78 max=47
-JP: i400あいまいゼミの抜けがら
+@1E5E7C max=43
+JP: i400あいまいゼミの抜けがら
 EN: i400Wishy-Washy Cicada Shell
 
 @1E5EDC max=623
 JP: 西方のとある地域にしか生息しない<n>「あいまいゼミ」の抜けがら。<n>あいまいゼミは、鳴きかけてはやめ、<n>また鳴きかけてはためらうところから<n>そう呼ばれる。<n>この抜け殻を持っていると、<n>優柔不断さが身につくという。
 EN: The shed shell of a Wishy-Washy Cicada,<n>found only in one region out west.<n>It starts to chirp, then stops,<n>starts again, then thinks better of it.<n>Hence the name.<n>Carry this shell, and they say<n>you'll pick up its indecisive ways.
 
-@1E6154 max=23
+@1E6154 max=43
 JP: i401黄昏のメロンパン
 EN: i401Dusk Melon Bread
 
@@ -2022,7 +2022,7 @@ EN: i406Martian Kotatsu
 JP: 火星で発見されたという噂の<n>ふしぎなコタツ。<n>一見普通のコタツのようだが、<n>内部に小人さんがいて<n>足がぶつかると笛をふいてくれる。<n>足がたくさんある<n>火星人ならではの工夫である。
 EN: A mysterious heated table rumored<n>to have been discovered on Mars.<n>It looks ordinary, but a tiny fellow inside<n>blows a whistle whenever feet collide.<n>A clever solution for Martians,<n>who have so many feet to keep track of.
 
-@1E7264 max=28
+@1E7264 max=43
 JP: i407白熊専用ファンデーション
 EN: i407Polar Bear Foundation
 
@@ -2070,7 +2070,7 @@ EN: i412Flag-Raising Secret Manual
 JP: 「赤上げて、白上げて」という<n>掛け声でおなじみの、旗上げゲーム。<n>その歴史にさんぜんと輝く<n>無敵の王者がいたのをご存知だろうか。<n>五百戦無敗を誇る大名人、木村与五郎。<n>彼が書き残した唯一の秘伝書がこれ。<n>読めば旗上げゲームの<n>奥義に触れることができる。
 EN: "Red flag up! White flag up!"<n>Everyone knows the flag-raising game.<n>But did you know its history boasts<n>an undefeated champion?<n>Master Yogoro Kimura won 500 games straight.<n>This is the only secret manual he ever wrote.<n>Read it, and discover the hidden depths<n>of the art of flag raising.
 
-@1E8374 max=23
+@1E8374 max=43
 JP: i413ナポレオン茶わん
 EN: i413Napoleon Bowl
 
@@ -2118,7 +2118,7 @@ EN: i418Golden Knee
 JP: アルメニアの北にある小さな町、<n>プリプラプロペ市の英雄、<n>マスカット・プリペラ氏。<n>彼は２００７年８月、<n>世界最速の貧乏ゆすりを記録、<n>なんと１分間に５６３回。<n>６２年の生涯を、<n>ひたすら貧乏ゆすりしつづけた末の<n>偉業であった。<n>この金メッキのヒザは、<n>プリペラ氏の驚異のヒザを<n>型取りして制作された記念品。<n>長らく、プリプラプロペ市庁舎に<n>飾られていた。
 EN: Muscat Pripera, hero of Pripraprope,<n>a small town north of Armenia,<n>was a champion leg jiggler.<n>In August 2007,<n>he set the world speed record:<n>563 jiggles in one minute!<n>This feat crowned 62 years<n>of tireless leg jiggling.<n>He truly devoted his life to it.<n>This gold-plated knee<n>was cast from his remarkable joint<n>as a commemorative piece.<n>For many years, it stood on display<n>in Pripraprope's city hall.
 
-@1E9484 max=28
+@1E9484 max=43
 JP: i419豊臣家オリジナルＴシャツ
 EN: i419Toyotomi T-Shirt
 
@@ -2166,7 +2166,7 @@ EN: i424Magic Mirror No. 71
 JP: 世界で一番美しい人を教えてくれる<n>魔法の鏡が有名だが、あれは３２番。<n>世界には、全部で９６枚の<n>魔法の鏡があるといわれている。<n>７１番の魔法の鏡は、<n>世界でいちばんエアコン掃除が<n>うまい人を教えてくれる。
 EN: The famous mirror that names the fairest person<n>in the world is actually No. 32.<n>There are said to be<n>96 magic mirrors in all.<n>Magic Mirror No. 71<n>names the world's greatest expert<n>at cleaning air conditioners.
 
-@1EA594 max=23
+@1EA594 max=43
 JP: i500ウオツリ草
 EN: i500Fishing Grass
 
@@ -2174,12 +2174,12 @@ EN: i500Fishing Grass
 JP: 非常に固いカギ状の葉を持つ。<n>この草を使って<n>釣り場で釣りができる。<n>釣り場から、この草を水に垂らし<n>一晩待つと、いいものが<n>引っかかってくることがある。
 EN: A plant with extremely hard, hook-shaped leaves.<n>You can use it<n>to fish at fishing spots.<n>Dangle it in the water from a fishing spot<n>and leave it overnight.<n>You might hook something nice!
 
-@1EA868 max=15
-JP: i505名刺
+@1EA86C max=43
+JP: i505名刺
 EN: i505Name Card
 
-@1EAB40 max=27
-JP: o310マリアローラの像
+@1EAB44 max=23
+JP: o310マリアローラの像
 EN: o310Marialora Statue
 
 @1EABA4 max=623
@@ -2510,20 +2510,20 @@ EN: Food
 JP: 占い草
 EN: Fortune Grass
 
-@1F1D60 max=23
-JP: 空き瓶
+@1F1D64 max=19
+JP: 空き瓶
 EN: Empty Bottle
 
-@1F1D84 max=7
+@1F1D84 max=19
 JP: 新聞
 EN: Paper
 
-@1F1DA0 max=16
-JP: パズルピース
+@1F1DA4 max=19
+JP: パズルピース
 EN: Puzzle Piece
 
-@1F1DC0 max=18
-JP: 幸運のアイテム
+@1F1DC4 max=19
+JP: 幸運のアイテム
 EN: Lucky Item
 
 @1F1DE4 max=19
@@ -2534,7 +2534,7 @@ EN: Soul Orb
 JP: 上着
 EN: Top
 
-@1F1E24 max=7
+@1F1E24 max=19
 JP: パンツ
 EN: Pants
 
@@ -2546,15 +2546,15 @@ EN: Parts
 JP: 星のかけら
 EN: Star Fragment
 
-@1F1E80 max=23
-JP: ベッド
+@1F1E84 max=19
+JP: ベッド
 EN: Bed
 
 @1F1EA4 max=19
 JP: カーペット
 EN: Carpet
 
-@1F1EC4 max=12
+@1F1EC4 max=19
 JP: クローゼット
 EN: Closet
 
@@ -2570,12 +2570,12 @@ EN: Walls
 JP: カーテン
 EN: Curtains
 
-@1F1F84 max=19
+@1F1F84 max=7
 JP: お金
 EN: Money
 
-@1F1FA0 max=18
-JP: 探し道アイテム
+@1F1FA4 max=14
+JP: 探し道アイテム
 EN: Searching Item
 
 @1F1FC4 max=7
@@ -2594,12 +2594,12 @@ EN: Fish Grass
 JP: 髪型
 EN: Hairstyle
 
-@1F2040 max=8
-JP: 名刺
-EN: Biz Card
+@1F2044 max=7
+JP: 名刺
+EN: Card
 
-@1F2060 max=10
-JP: 牡羊座
+@1F2064 max=7
+JP: 牡羊座
 EN: Aries
 
 @1F206C max=7
@@ -2970,7 +2970,7 @@ EN: Try a change of pace.
 JP: <n>の<PN>さんへの助言。<n>
 EN: <n>Advice for <PN>.<n>
 
-@1F2DC4 max=14
+@1F2DC4 max=15
 JP: <n>そして、<n>
 EN: <n>And then<n>
 
@@ -2986,7 +2986,7 @@ EN: .
 JP: 福福の島クロスワードデータ
 EN: Fukufuku Island Crossword
 
-@1F361C max=42
+@1F361C max=43
 JP: 「福福の島」ダウンロードクロスワードデータ
 EN: Fukufuku Island Download Crossword Data
 
@@ -3002,11 +3002,11 @@ EN: Fukufuku Island Bonus Jigsaw Data
 JP: 最近よく見かける。<n>元気そうだ。
 EN: Seen often lately.<n>Looks well.
 
-@1F37B8 max=58
+@1F37B8 max=59
 JP: ここのところ、毎日<n><PN>を見る。<n>島が気に入ったようだ。
 EN: I see <PN><n>every day now.<n>The island seems a hit.
 
-@1F37F4 max=64
+@1F37F4 max=67
 JP: この島の暮らしが<n>かなり気に入った様子。<n>毎日欠かさず現れる。
 EN: Loves island life.<n>Shows up every<n>single day.
 
@@ -3022,11 +3022,11 @@ EN: Back after a while.<n>Must have been busy.
 JP: 本当に久々に姿を見た。
 EN: Long time no see!
 
-@1F38C0 max=70
+@1F38C0 max=71
 JP: 半月以上姿を見なかった<n>ので、心配していたが<n>今日会えてほっとした。
 EN: Gone over two weeks.<n>I was worried.<n>Glad we met today.
 
-@1F3908 max=66
+@1F3908 max=67
 JP: もうこの島には来ない<n>のではと思っていたが<n>久々に会えて嬉しい。
 EN: Thought they'd left<n>the island for good.<n>Glad they're back.
 
@@ -3038,11 +3038,11 @@ EN: Came and went<n>a few times today.
 JP: 今日は、かなりの回数<n>島に出入りしていた。
 EN: Came and went<n>quite a lot today.
 
-@1F39A4 max=60
+@1F39A4 max=63
 JP: 今日は、ひんぱんに<n>島の中で見かけた。<n>熱心でいいことだ。
 EN: Saw them often<n>on the island today.<n>Love the dedication!
 
-@1F39E4 max=64
+@1F39E4 max=67
 JP: 今日は、いつ、どこでも<n>その姿を見かけた。<n>ヒマなのだろうか？
 EN: Saw them everywhere<n>all day long.<n>Too much free time?
 
@@ -3058,11 +3058,11 @@ EN: <PN>:<n>Over 20 hours<n>on the island.<n>A true islander!
 JP: <PN>、<n>島での滞在時間が<n>３０時間を超えた。<n>もう全員と顔なじみだ。
 EN: <PN>:<n>Over 30 hours<n>on the island.<n>A familiar face to all!
 
-@1F3AFC max=90
+@1F3AFC max=91
 JP: <PN>、<n>島での滞在時間が<n>５０時間を超えた。<n>島生まれと錯覚する<n>ほどのなじみようだ。
 EN: <PN>:<n>Over 50 hours<n>on the island.<n>Fits right in,<n>as if born here!
 
-@1F3B58 max=65
+@1F3B58 max=67
 JP: <PN>、<n>島での滞在時間が<n>７５時間を超えた。<n>次の島長候補だ。
 EN: <PN>:<n>Over 75 hours<n>on the island.<n>Our next island chief?
 
@@ -3070,15 +3070,15 @@ EN: <PN>:<n>Over 75 hours<n>on the island.<n>Our next island chief?
 JP: <PN>、<n>島での滞在時間が<n>１００時間を超えた。<n>もう島のアイドルだ。
 EN: <PN>:<n>Over 100 hours<n>on the island.<n>The island's darling!
 
-@1F3BE4 max=94
+@1F3BE4 max=95
 JP: <PN>、<n>島での滞在時間が<n>２００時間を超えた。<n>もう、この人ぬきで<n>この島は考えられない。
 EN: <PN>:<n>Over 200 hours<n>on the island.<n>Can't imagine this place<n>without them now!
 
-@1F3C44 max=58
+@1F3C44 max=59
 JP: <PN>は、今日<n>レベル５になった。<n>がんばっているようだ。
 EN: <PN> reached<n>level 5 today.<n>Working hard!
 
-@1F3C80 max=60
+@1F3C80 max=63
 JP: <PN>は、今日<n>レベル１０になった。<n>経験を積んで成熟した。
 EN: <PN> reached<n>level 10 today.<n>Wiser with experience.
 
@@ -3094,7 +3094,7 @@ EN: <PN> reached<n>level 30 today.<n>Marian really<n>looks up to them.
 JP: <PN>は、今日<n>レベル４０になった。<n>素晴らしい経験の<n>持ち主である。
 EN: <PN> reached<n>level 40 today.<n>A wealth of<n>experience!
 
-@1F3DA0 max=94
+@1F3DA0 max=95
 JP: <PN>は、今日<n>レベル５０になった。<n>いまや、この島で<n>誰からも頼られる<n>存在になっている。
 EN: <PN> reached<n>level 50 today.<n>Now everyone<n>on the island<n>counts on them.
 
@@ -3106,7 +3106,7 @@ EN: Fainted again.<n>Just careless?
 JP: 今日も失神した。<n>どうも無謀すぎる<n>性格のようだ。
 EN: Fainted again.<n>A reckless streak,<n>it seems.
 
-@1F3E60 max=41
+@1F3E60 max=43
 JP: 今日も失神。３０回め。<n>体が弱いのかも？
 EN: Faint #30 today.<n>Rather frail?
 
@@ -3118,11 +3118,11 @@ EN: Faint #50 today.<n>Is this a hobby?
 JP: 今日も失神。７５回め。<n>失神のプロだ。
 EN: Faint #75 today.<n>A fainting pro!
 
-@1F3EE0 max=62
+@1F3EE0 max=63
 JP: 今日も失神。<n>記念すべき１００回め。<n>人としてどうかと思う。
 EN: Fainted again.<n>A milestone: #100!<n>Is this any way to live?
 
-@1F3F20 max=54
+@1F3F20 max=55
 JP: 今日も失神。<n>ついに２００回め。<n>世界新記録を達成。
 EN: Fainted again.<n>At last, #200!<n>A new world record!
 
@@ -3130,7 +3130,7 @@ EN: Fainted again.<n>At last, #200!<n>A new world record!
 JP: <PN>、今日は<n>凄まじい出費。<n>なんと、<DAYPAY>ｚを<n>使い果たす。新記録！
 EN: <PN> spent<n>a fortune today:<n><DAYPAY>z gone!<n>A new record!
 
-@1F3FA4 max=84
+@1F3FA4 max=87
 JP: <PN>、今日は<n>記念すべき大もうけ。<n>なんと、<DAYINCOME>ｚを<n>稼ぎ、最高記録更新。
 EN: <PN> set a new daily record:<n><DAYINCOME>z earned today!
 
@@ -3182,7 +3182,7 @@ EN: <PN> passed<n>5,000 total steps!
 JP: <PN><n>通算歩数、一万歩に。<n>あきれた健脚だ。
 EN: <PN>: 10,000 steps!<n>What legs!
 
-@1F41CC max=50
+@1F41CC max=51
 JP: <PN><n>通算歩数、五万歩に。<n>鋼鉄の脚、と呼ぼう。
 EN: <PN>: 50,000 steps!<n>Legs of steel!
 
@@ -3206,7 +3206,7 @@ EN: Our 200th chat.<n>Thanks again today!
 JP: 僕と五百回めの会話。<n>もう長いつきあいだ。
 EN: Our 500th chat.<n>We go way back!
 
-@1F42D8 max=52
+@1F42D8 max=55
 JP: 僕と千回めの会話。<n>今日はこっそり<n>お祝いしよう。
 EN: Our 1,000th chat.<n>Let's celebrate in secret!
 
@@ -3214,19 +3214,19 @@ EN: Our 1,000th chat.<n>Let's celebrate in secret!
 JP: 僕と五千回めの会話。<n>自分でも<n>よく覚えてるなと思う。
 EN: Our 5,000th chat.<n>How do I even remember all these?
 
-@1F434C max=66
+@1F434C max=67
 JP: 僕と一万回めの会話。<n>この深い絆は、もう<n>誰にも断ち切れないね。
 EN: Our 10,000th chat.<n>No one could ever break our bond.
 
-@1F4390 max=58
+@1F4390 max=59
 JP: <PN>、島民と<n>通算五十回めの会話。<n>だいぶなじんで来た。
 EN: <PN>: 50 islander chats.<n>Settling in nicely!
 
-@1F43CC max=46
+@1F43CC max=47
 JP: <PN>、島民と<n>通算百回めの会話。<n>社交的だ。
 EN: <PN>: 100 islander chats.<n>So sociable!
 
-@1F43FC max=60
+@1F43FC max=63
 JP: <PN>、島民と<n>通算二百回めの会話。<n>みんなから好かれてる。
 EN: <PN>: 200 islander chats.<n>Everyone likes you!
 
@@ -3234,11 +3234,11 @@ EN: <PN>: 200 islander chats.<n>Everyone likes you!
 JP: <PN>、島民と<n>通算五百回めの会話。<n>モテモテだね。
 EN: <PN>: 500 islander chats.<n>So popular!
 
-@1F4474 max=52
+@1F4474 max=55
 JP: <PN>、島民と<n>通算千回めの会話。<n>島の中心人物だ。
 EN: <PN>: 1,000 islander chats.<n>The island's star!
 
-@1F44AC max=58
+@1F44AC max=59
 JP: <PN>、島民と<n>通算五千回めの会話。<n>僕もよく数えてるな。
 EN: <PN>: 5,000 islander chats.<n>How have I kept count?
 
@@ -3270,11 +3270,11 @@ EN: <PN> cleared the cave 200 times.<n>The ultimate cave fan!
 JP: <PN>、洞窟を<n>３００回目のクリア。<n>洞窟と結婚する勢いだ。
 EN: <PN> cleared the cave 300 times.<n>Marrying the cave next?
 
-@1F46AC max=58
+@1F46AC max=59
 JP: <PN>、洞窟を<n>５００回目のクリア。<n>もはや何も言うまい。
 EN: <PN> cleared the cave 500 times.<n>I'm out of words.
 
-@1F46E8 max=48
+@1F46E8 max=51
 JP: <PN><n>また髪型を変えた。<n>デイジーの上得意だ。
 EN: <PN> changed hair again.<n>Daisy's VIP!
 
@@ -3310,11 +3310,11 @@ EN: <PN><n>Smashed rocks again.<n>Stronger than they look!
 JP: <PN><n>今日も岩を壊していた。<n>破壊力ばつぐんだ。
 EN: <PN><n>Smashed rocks again.<n>What a wallop!
 
-@1F48BC max=58
+@1F48BC max=59
 JP: <PN><n>今日も岩を壊していた。<n>岩石クラッシャーと呼ぼう。
 EN: <PN><n>Smashed rocks again.<n>Call them the Rock Crusher!
 
-@1F48F8 max=59
+@1F48F8 max=58
 JP: <PN><n>今日も岩を壊していた。<n>プロレスラーになれそうだ。
 EN: <PN><n>Smashed rocks again.<n>A future pro wrestler?
 
@@ -3326,11 +3326,11 @@ EN: <PN><n>Smashed rocks again.<n>A first-rate crusher!
 JP: <PN><n>今日も岩を壊していた。<n>今やどんな岩も一撃だ。
 EN: <PN><n>Smashed rocks again.<n>One hit does it now!
 
-@1F49A8 max=56
+@1F49A8 max=59
 JP: <PN><n>今日も岩を壊していた。<n>世界に名だたる岩壊しだ。
 EN: <PN><n>Smashed rocks again.<n>A rock-smashing legend!
 
-@1F49E4 max=52
+@1F49E4 max=55
 JP: <PN><n>今日もギャンブルで勝ち。<n>運が強いみたいだ。
 EN: <PN><n>Won at gambling again.<n>Lucky, aren't they?
 
@@ -3338,11 +3338,11 @@ EN: <PN><n>Won at gambling again.<n>Lucky, aren't they?
 JP: <PN><n>今日もギャンブルで勝ち。<n>はまってるなあ。
 EN: <PN><n>Won at gambling again.<n>Really hooked!
 
-@1F4A50 max=60
+@1F4A50 max=63
 JP: <PN><n>今日もギャンブルで勝ち。<n>いっぱしのギャンブラーだ。
 EN: <PN><n>Won at gambling again.<n>A real gambler now!
 
-@1F4A90 max=54
+@1F4A90 max=55
 JP: <PN><n>今日もギャンブルで勝ち。<n>もう勝ちっぱなしだ。
 EN: <PN><n>Won at gambling again.<n>On a winning streak!
 
@@ -3382,7 +3382,7 @@ EN: <PN><n>Lost at gambling again.<n>Should've quit...
 JP: <PN><n>今日もギャンブルで負け。<n>見てらんない…。
 EN: <PN><n>Lost at gambling again.<n>Hard to watch...
 
-@1F4CB4 max=54
+@1F4CB4 max=55
 JP: <PN><n>今日もギャンブルで負け。<n>とことん向いてない。
 EN: <PN><n>Lost at gambling again.<n>No knack for it.
 
@@ -3402,11 +3402,11 @@ EN: <PN><n>Caught a fish today.<n>Getting the hang of it?
 JP: <PN><n>今日は魚が釣れたようだ。<n>だいぶ上達した。
 EN: <PN><n>Caught a fish today.<n>Much improved!
 
-@1F4DB4 max=60
+@1F4DB4 max=63
 JP: <PN><n>今日も魚が釣れたようだ。<n>すっかり釣りにはまってる。
 EN: <PN><n>Caught fish again.<n>Totally hooked on fishing!
 
-@1F4DF4 max=54
+@1F4DF4 max=55
 JP: <PN><n>今日も魚が釣れたようだ。<n>もう釣りは上級者だ。
 EN: <PN><n>Caught fish again.<n>An expert angler now!
 
@@ -3414,7 +3414,7 @@ EN: <PN><n>Caught fish again.<n>An expert angler now!
 JP: <PN><n>今日も魚が釣れたようだ。<n>立派な釣り名人だ。
 EN: <PN><n>Caught fish again.<n>A true fishing master!
 
-@1F4E64 max=60
+@1F4E64 max=63
 JP: <PN><n>今日も魚が釣れたようだ。<n>漁師としてやっていけそう。
 EN: <PN><n>Caught fish again.<n>Could fish for a living!
 
@@ -3426,27 +3426,27 @@ EN: <PN><n>Caught fish again.<n>One of the world's best!
 JP: <PN><n>ジグソーをクリア。<n>これで<ACC_JIGSAW>個目だ。<n>なかなかやるなあ。
 EN: <PN><n>Jigsaw solved.<n><ACC_JIGSAW> completed!<n>Pretty good!
 
-@1F4F2C max=89
+@1F4F2C max=91
 JP: <PN><n><LAST_CROSS><n>をクリア。<n><ACC_CROSS>個目のクリアだ。<n>頭がいいところを見せた。
 EN: <PN><n><LAST_CROSS><n>solved!<n><ACC_CROSS> completed.<n>What a brain!
 
-@1F4F88 max=82
+@1F4F88 max=83
 JP: <PN><n><LAST_STARPANEL>をクリア。<n><ACC_STARPANEL>個目のクリアだ。<n>素晴らしい。
 EN: <PN><n><LAST_STARPANEL> solved!<n><ACC_STARPANEL> completed.<n>Wonderful!
 
-@1F4FDC max=108
+@1F4FDC max=111
 JP: <PN><n><ACC_ADANA>個目のあだ名<n>をつけられる。<n>今日から、<n><DIARY_UN>として<n>みんなに親しまれるだろう。
 EN: <PN><n>Got nickname #<ACC_ADANA>!<n>From today,<n>everyone will<n>know them as<n><DIARY_UN>.
 
-@1F504C max=89
+@1F504C max=91
 JP: <PN><n><LAST_CERT><n>をクリア。<n><ACC_CERT>個目の資格だ。<n>もうどこでも生きていけそう。
 EN: <PN><n><LAST_CERT><n>passed!<n><ACC_CERT> qualifications!<n>Ready for life anywhere!
 
-@1F50A8 max=86
+@1F50A8 max=87
 JP: <PN><n><LAST_DAN>をクリア。<n><ACC_DAN>個目のクリアだ。<n>探し道にかける青春。美しい。
 EN: <PN><n><LAST_DAN> cleared!<n><ACC_DAN> clears!<n>Youth spent on the Way of Searching!
 
-@1F5100 max=60
+@1F5100 max=63
 JP: <PN><n>クイズに１０回目の合格。<n>博識なところを見せつける。
 EN: <PN><n>Tenth quiz passed!<n>Quite the trivia whiz!
 
@@ -3454,7 +3454,7 @@ EN: <PN><n>Tenth quiz passed!<n>Quite the trivia whiz!
 JP: <PN><n>クイズに５０回目の合格。<n>クイズ番組に出るべきだ。
 EN: <PN><n>Passed 50 quizzes!<n>Time for a TV quiz show!
 
-@1F517C max=62
+@1F517C max=63
 JP: <PN><n>クイズに１００回目の合格。<n>クイズ王を目指してるのか？
 EN: <PN><n>Passed 100 quizzes!<n>Going for Quiz King?
 
@@ -3466,11 +3466,11 @@ EN: <PN><n>Passed 200 quizzes!<n>A life devoted to trivia.
 JP: <PN><n>クイズに３００回目の合格。<n>そんなにクイズ好きなのか。
 EN: <PN><n>Passed 300 quizzes!<n>You really love quizzes, huh?
 
-@1F5238 max=52
+@1F5238 max=55
 JP: <PN><n>クイズに４００回目の合格。<n>歩く百科事典だ。
 EN: <PN><n>Passed 400 quizzes!<n>A walking encyclopedia!
 
-@1F5270 max=58
+@1F5270 max=59
 JP: <PN><n>クイズに５００回目の合格。<n>人間図書館と呼びたい。
 EN: <PN><n>Passed 500 quizzes!<n>A human library!
 
@@ -3478,11 +3478,11 @@ EN: <PN><n>Passed 500 quizzes!<n>A human library!
 JP: <PN><n><LAST_ANGEL>をゲット。<n><ACC_ANGEL>個目の天使だ。<n>今度は仲良くやってほしい。
 EN: <PN><n>Got <LAST_ANGEL>!<n>Angel no. <ACC_ANGEL>.<n>Get along this time!
 
-@1F5308 max=25
+@1F5308 max=27
 JP: <PN><n>今日は姿を見せず。
 EN: <PN><n>Didn't show today.
 
-@1F555C max=22
+@1F555C max=23
 JP: あ、おはよう<PN>さん！
 EN: Oh, morning, <PN>!
 
@@ -3510,7 +3510,7 @@ EN: There's a full moon this week!<n>Red stars will fall that day.
 JP: あ！忘れちゃいけない、今週は<n><PN>の誕生日がやってくるね！<p>ちょっと早いけど、ハッピーバースデイ！<n>きみの幸せを祈ってるよ！
 EN: Oh, I mustn't forget!<n>It's your birthday this week, <PN>!<p>Happy early birthday!<n>Here's to your happiness!
 
-@1F57B0 max=30
+@1F57B0 max=31
 JP: じゃ、今日も楽しく過ごしてね！
 EN: Have fun today!
 
@@ -3518,15 +3518,15 @@ EN: Have fun today!
 JP: と思ったけど・・・特になにもないなぁ<n>とりあえず、今日も楽しく過ごしてね！
 EN: Actually... nothing much to add.<n>Anyway, have fun today!
 
-@1F581C max=118
+@1F581C max=119
 JP: ふーむ、ところで、きみの星座…。<n><HORO>の幸運ランキングだけど…<p>今日のランクは<RANK_HORO>位だよ。<n>参考にしてね！
 EN: As for your star sign...<n><HORO>'s luck ranking is...<p>No. <RANK_HORO> today!<n>Just so you know!
 
-@1F5894 max=149
+@1F5894 max=151
 JP: そうそう！今日はまず、おめでとうと言おう！<n>ハッピーバースデイ、<PN>！<p>きみがいくつかは知らないけど、おめでとう！<n>誕生日ってのは、いいもんだね！
 EN: First, there's something to celebrate!<n>Happy birthday, <PN>!<p>I don't know how old you are, but congrats!<n>Birthdays are wonderful!
 
-@1F592C max=49
+@1F592C max=51
 JP: 今日は、満潮だよ。<n>小島に渡ることはできないね！
 EN: High tide today!<n>You can't reach the islet.
 
@@ -3534,19 +3534,19 @@ EN: High tide today!<n>You can't reach the islet.
 JP: 今日は、干潮だよ。<n>小島に渡ることができるよ。
 EN: Low tide today!<n>You can reach the islet.
 
-@1F5990 max=110
+@1F5990 max=111
 JP: えーと、今日会えそうにないのは…<n>チワワさんと、ペコン王子だね。<p>あと、ペンタゴン兄弟の弟二人もいないなあ。
 EN: Away today:<n>Ms. Chihuahua and Prince Pekon.<p>The Pentagon trio's younger two are out, too.
 
-@1F5A00 max=129
+@1F5A00 max=131
 JP: えーと、今日会えそうにないのは…<n>アメショー先生と、パコン王子だね。<p>他に会えない人はいないみたい。<n>お店もぜんぶ営業中だよ。
 EN: Away today:<n>Professor Amesho and Prince Pakon.<p>Everyone else is around.<n>All the shops are open, too!
 
-@1F5A84 max=141
+@1F5A84 max=143
 JP: えーと、今日会えそうにないのは…<n>チワワさんと、ペコン王子だね。<p>あと、ペンタゴン兄弟の弟二人もいないなあ。<n>ま、明日になったら会えるさ。
 EN: Away today:<n>Ms. Chihuahua and Prince Pekon.<p>The Pentagon trio's younger two are out, too.<n>You'll see them tomorrow.
 
-@1F5B14 max=69
+@1F5B14 max=71
 JP: えーと、今日会えそうにないのは…<n>アメショー先生と、パコン王子だね。
 EN: Away today:<n>Professor Amesho and Prince Pakon.
 
@@ -3554,7 +3554,7 @@ EN: Away today:<n>Professor Amesho and Prince Pakon.
 JP: えーと、今日会えそうにないのは…<n>まず、チワワさんと、ペコン王子。<p>それから、ペンタゴン兄弟も今日は長男だけ。<n>お店はぜんぶ営業中だよ。
 EN: Away today:<n>Ms. Chihuahua and Prince Pekon.<p>Only the eldest of the Pentagon trio is here.<n>All the shops are open!
 
-@1F5BE8 max=108
+@1F5BE8 max=111
 JP: えーと、今日会えそうにないのは…<n>アメショー先生と、パコン王子だね。<p>会いにいっても無駄足になるだろうね。
 EN: Away today:<n>Professor Amesho and Prince Pakon.<p>No point going to visit them today.
 
@@ -3658,11 +3658,11 @@ EN: Trial cleared!<n>Way of Searching: 10th Dan! A legendary master!
 JP: むむ、探し道の課題をクリアしたようだね！<n>探し道将軍！百戦百勝の探し道の鬼だ！
 EN: Trial cleared!<n>Way of Searching: General! Unbeaten in a hundred battles!
 
-@1F63B4 max=85
+@1F63B4 max=87
 JP: むむ、探し道の課題をクリアしたようだね！<n>探し道名人！ついにこの称号を手に入れたよ！
 EN: Trial cleared!<n>Way of Searching: Master! You've finally earned the title!
 
-@1F640C max=85
+@1F640C max=87
 JP: むむ、探し道の課題をクリアしたようだね！<n>探し道の英雄！国民栄誉賞はもらったも同然！
 EN: Trial cleared!<n>Way of Searching: Hero! A national honor is as good as yours!
 
@@ -3674,23 +3674,23 @@ EN: Trial cleared!<n>Way of Searching: Emperor! Even presidents bow to you!
 JP: むむ、探し道の課題をクリアしたようだね！<n>ゴッド・オブ・探し道！それがきみの名だよ！<p>ついに最強の座をゲット！<n>いやー、長い道のりだったね！
 EN: Trial cleared!<n>God of the Way of Searching! That's you!<p>You've reached the top!<n>What a long road it's been!
 
-@1F6544 max=85
+@1F6544 max=87
 JP: あ、また星座パネルを完成させたんだね。<n>もう宇宙に名だたるコレクターと言っていいね！
 EN: Another constellation panel done!<n>Your collection is famous across the cosmos!
 
-@1F659C max=81
+@1F659C max=83
 JP: あ、また星座パネルを完成させたんだね。<n>もう世界最高のコレクターと言っていいね！
 EN: Another constellation panel done!<n>You're the world's greatest collector!
 
-@1F65F0 max=77
+@1F65F0 max=79
 JP: あ、また星座パネルを完成させたんだね。<n>もう、世界で指折りのコレクターだね！
 EN: Another constellation panel complete!<n>You're a world-class collector now!
 
-@1F6640 max=81
+@1F6640 max=83
 JP: あ、また星座パネルを完成させたんだね。<n>もう筋金入りのコレクターと言っていいね！
 EN: Another constellation panel done!<n>You're a die-hard collector now!
 
-@1F6694 max=69
+@1F6694 max=71
 JP: あ、また星座パネルを完成させたんだね。<n>もう一人前のコレクターだね。
 EN: Another constellation panel done!<n>You're a full-fledged collector!
 
@@ -3698,7 +3698,7 @@ EN: Another constellation panel done!<n>You're a full-fledged collector!
 JP: あ、また星座パネルを完成させたんだね。<n>全ての星座パネルを集めたね！<p>きみこそ、伝説のコレクターだよ！<n>コレクターたちのあこがれの的さ！
 EN: Another constellation panel done!<n>You've collected every last one!<p>You're a legendary collector!<n>The envy of collectors everywhere!
 
-@1F6768 max=89
+@1F6768 max=91
 JP: へえ、またジグソーパズルを完成させたんだね。<n>もう、「ジグソーマスター」といっていいね！
 EN: Another jigsaw puzzle finished!<n>I'd say you've earned the title "Jigsaw Master"!
 
@@ -3714,7 +3714,7 @@ EN: Another jigsaw puzzle finished!<n>I'd call you the ultimate amateur!
 JP: へえ、またジグソーパズルを完成させたんだね。<n>腕前は、「なかなかやるな」ってとこかな。
 EN: Another jigsaw puzzle finished!<n>I'd say you're getting pretty good!
 
-@1F68D4 max=89
+@1F68D4 max=91
 JP: へえ、またジグソーパズルを完成させたんだね。<n>きみの腕前は、初心者を脱出したところかな。
 EN: Another jigsaw puzzle finished!<n>You've left the beginner stage behind!
 
@@ -3754,7 +3754,7 @@ EN: As for crosswords...<n>You haven't solved this week's yet.
 JP: さて、クロスワードのほうは…<n>今週のやつは、解決済だね！
 EN: As for crosswords...<n>You've solved this week's!
 
-@1F6BD4 max=57
+@1F6BD4 max=59
 JP: いま、きみは…、おおっ<n>半分以上の資格をゲットしてるね！
 EN: Wow! You've earned<n>over half the qualifications!
 
@@ -3762,7 +3762,7 @@ EN: Wow! You've earned<n>over half the qualifications!
 JP: いま、きみが持ってる資格は…<n>おっ、そこそこ増えたね。
 EN: Your qualifications...<n>Hey, you've earned a fair few!
 
-@1F6C48 max=57
+@1F6C48 max=59
 JP: いま、きみが持ってる資格は…<n>なんだ、まだ１つだけだね。
 EN: Your qualifications...<n>Oh, still just the one.
 
@@ -3782,7 +3782,7 @@ EN: I hear some folks call you<n>"<UN>..."<p>That's your new nickname, huh?<n>..
 JP: 今のきみを、一言でいうなら<n>「小金持ち」ってとこかな。
 EN: In a word, you're<n>"well-off" these days.
 
-@1F6D98 max=57
+@1F6D98 max=59
 JP: 今のきみを、一言でいうなら<n>「ブルジョワ」ってとこかな。
 EN: In a word, you're<n>"bourgeois" these days.
 
@@ -3790,11 +3790,11 @@ EN: In a word, you're<n>"bourgeois" these days.
 JP: 今のきみを、一言でいうなら<n>「富豪」ってとこかな。
 EN: In a word, you're<n>"wealthy" these days.
 
-@1F6E08 max=53
+@1F6E08 max=55
 JP: 今のきみを、一言でいうなら<n>「大富豪」ってとこかな。
 EN: In a word, you're<n>"filthy rich" these days.
 
-@1F6E40 max=53
+@1F6E40 max=55
 JP: 今のきみを、一言でいうなら<n>「超富豪」ってとこかな。
 EN: In a word, you're<n>"mega-rich" these days.
 
@@ -3806,7 +3806,7 @@ EN: Your savings have<n>really shrunk, huh?
 JP: さて…あれ？いつのまにか<n>お金持ちになってない？
 EN: Now... Huh? When did<n>you get so rich?
 
-@1F6EDC max=125
+@1F6EDC max=127
 JP: <PN>さんの、この島での<n>滞在時間が、２００時間を超えたよ！<p>もう、この島で一番有名な人物だよ！<n>僕も鼻が高いよ！うんうん！
 EN: You've spent over 200 hours<n>on this island, <PN>!<p>You're our biggest celebrity now!<n>I'm so proud! Yep, yep!
 
@@ -3818,11 +3818,11 @@ EN: You've spent over 100 hours<n>on this island, <PN>!<p>Wow... You could be<n>
 JP: <PN>さんの、この島での<n>滞在時間が、５０時間を超えたよ。<p>もうすっかり、島の住人だよね。<n>ちょっとした有名人だよ！
 EN: You've spent over 50 hours<n>on this island, <PN>!<p>You're a true islander now.<n>A bit of a celebrity, too!
 
-@1F7048 max=117
+@1F7048 max=119
 JP: <PN>さんの、この島での<n>滞在時間が、２０時間を超えたよ。<p>もうすっかり、島の住人だよね。<n>ちょっとした有名人だよ！
 EN: You've spent over 20 hours<n>on this island, <PN>!<p>You're a true islander now.<n>A bit of a celebrity, too!
 
-@1F70C0 max=125
+@1F70C0 max=127
 JP: <PN>さんの、この島での<n>滞在時間が、１０時間を超えたよ。<p>だいぶ、島になじんできたよね。<n>もう目をつぶっても歩けるでしょ？
 EN: You've spent over 10 hours<n>on this island, <PN>!<p>You're settling in nicely.<n>Know your way with your eyes shut?
 
@@ -3878,7 +3878,7 @@ EN: "Congrats! You've launched this game<n>exactly 10 times!"<p>A mystery messag
 JP: はじめてこの島に来たばかりだから<n>なにもかも珍しいでしょ？<p>ぶらぶら歩いて<n>いろんな人と話すといいよ！
 EN: Your first visit! Everything must<n>seem so new, huh?<p>Take a stroll and<n>chat with everyone!
 
-@1F7620 max=86
+@1F7620 max=87
 JP: だいたい１日ぶりだね！<n>じゃあ溜まった情報を教えちゃおうかな。<p>おほん、まず最初は…
 EN: It's been about a day!<n>Let me catch you up on the news.<p>Ahem! First up...
 
@@ -3906,7 +3906,7 @@ EN: You've been away so long,<n>your cottage is full of cobwebs!<p>Oh well! Anyw
 JP: こんばんは、<PN>さん<n>こんな夜中にどうしたの？
 EN: Evening, <PN>!<n>What brings you out so late?
 
-@1F78B4 max=18
+@1F78B4 max=19
 JP: ハロー、<PN>さん！
 EN: Hello, <PN>!
 
@@ -3922,35 +3922,35 @@ EN: Oh, <PN>!<n>Had dinner yet?
 JP: こんばんは、<PN>さん<n>すっかり夜もふけたねー。
 EN: Evening, <PN>!<n>It's getting pretty late.
 
-@1F7950 max=94
+@1F7950 max=95
 JP: おっと、また僕の話が聞きたいの？<n>さて、新しい情報はあるかな…。<p>おほん、僕の調べによると…
 EN: Back for more of my news?<n>Let's see if there's anything new...<p>Ahem! My sources tell me...
 
-@1F79B0 max=78
+@1F79B0 max=79
 JP: あ、また会ったね。<n><PN>さん、活動的だなあ。<p>ええと、僕の情報網によるとね…
 EN: Hi again!<n>You sure get around, <PN>.<p>Well, my sources tell me...
 
-@1F7A00 max=61
+@1F7A00 max=63
 JP: どうしたの、さっき話したばかりなのに。<n>ま、いいや、ええと…
 EN: What's up? We just talked!<n>Oh well. Let's see...
 
-@1F7A40 max=94
+@1F7A40 max=95
 JP: また僕の話が聞きたいの？<n>僕、頼られてるんだなあ…。うんうん。<p>さて、僕の情報網によるとね…
 EN: More of my stories?<n>You really count on me, huh? Heh.<p>Now, my sources tell me...
 
-@1F7AA0 max=69
+@1F7AA0 max=71
 JP: 元気に島を歩き回ってるみたいだね。<n>じゃあ、最新情報を教えようかな。
 EN: Been busy exploring, huh?<n>Here's the latest news!
 
-@1F7AE8 max=98
+@1F7AE8 max=99
 JP: あ、ちょうどいい時に来てくれたね！<n>おニューな情報があるよ。…たぶん。<p>ええと、なんだったかな…
 EN: Oh, perfect timing!<n>I've got fresh news! ...Probably.<p>Now, what was it again?
 
-@1F7B4C max=357
+@1F7B4C max=359
 JP: やあ！<n>君、なかなかやるなあ！<p>だいぶ、像を集めて<n>結界を解いてるみたいだね！<p>…うん。気に入ったよ！<n>じゃ、特別サービス！<p>僕のご先祖さまの像を<n>もうひとつあげちゃおう！<p>ノックスビルといって<n>すごい力をもったご先祖さまの像さ。<p>僕の千里眼なんて、まだまだ<n>彼の足もとにもおよばないねえ…。<p>はい！じゃ、どうぞ！<n>よかったねえ！パチパチパチ！
 EN: Hey! You're doing great!<p>You've found lots of statues<n>and broken lots of barriers!<p>...Yep, I like you!<n>Time for a special treat!<p>Have another statue<n>of my ancestor!<p>His name's Noxville.<n>He had amazing powers!<p>My all-seeing eyes can't<n>hold a candle to his...<p>Here you go!<n>Lucky you! Clap, clap, clap!
 
-@1F7CB4 max=1630
+@1F7CB4 max=1631
 JP: やあ、<PN>さん！<n>あらためて、はじめまして！<p>僕はノックスっていうんだ。<p>…おいおい、そんなに驚かないでよ。<n>ここじゃ、鳥がしゃべるぐらい当たり前さ。<p>…さて！<p>ここは、「福福島」っていう場所さ。<n>海のまんなかにある、小さな小さな島だよ。<p>ま、ちょっと変わった島でね…。<n>詳しいことは、長老から聞くといいと思うよ。<p>とにかく、ふつうの人は<n>絶対、ここには来られないんだよ。<p>…うん。<n>でも、君はここにいるんだよね。<p>たまーに、いるんだよ。<n>夢の中で、ここに来ちゃう人がさ。<p>何年かに一度で<n>何十年も、誰もこないこともあるけどね。<p>ま、来ちゃったものは仕方ない。<n>しばらく、ここで過ごすといいよ。<p>ここは、占い師とか、ヘンなパズル職人とか<n>いろんなのがいて、楽しいよ。<p>で、僕は、長老に言われて、君の世話を<n>することになったんだ。よろしく！<p>ま、たいしたことはできないけど<n>僕は、千里眼の鳥の一族だからね。<p>この島で、いま何が起きてるのかとか<n>きみがどんなことを達成したか、とか…<p>そういうことを教えてあげられるよ。<n>いつもここにいるから、気軽に話しかけてよ。<p>あと、きみに何かあったときには<n>かわりに日記をつけておいてあげるよ。<p>日記はきみの手帳の中にあるから<n>暇なときにでも読んでみてよ。<p>いいっていいって、こういうの好きなんだ。<p>…さて、じゃあ、さっそく役に立とうかな。<p>はい、これをあげるよ！<p>これはね、僕のご先祖さまの像なんだ。<p>この島は、あちこちに小さな結界が<n>張られていてね…<p>そういう像を、決まったところに置かないと<n>行けない場所がいっぱいあるんだ。<p>で、これが最初の像ってわけ。<p>この木の近くにある台座に像を置くと<n>南に行く扉が現れるよ。<p>扉の先に、マリアンっていう子がいるから<n>彼女に、話しかけるといいよ！<p>うん！じゃあ、おしゃべりはここまで！<n>はい！受け取って！
 EN: Hi, <PN>!<n>Nice to meet you properly!<p>My name's Nox.<p>...Hey, don't look so shocked!<n>Talking birds are normal here.<p>...Right!<p>This is Fukufuku Island,<n>a tiny island out at sea.<p>It's an unusual place...<n>The elder can tell you more.<p>Ordinary people can never<n>come here.<p>...Yep.<n>But here you are.<p>Once in a while, someone<n>visits in a dream.<p>It happens every few years.<n>Sometimes, decades go by.<p>Well, you're here now.<n>Make yourself at home!<p>We've got fortune-tellers,<n>odd puzzle makers... Quite a bunch!<p>The elder asked me to<n>look after you. Happy to help!<p>I can't do much, but I come<n>from a line of all-seeing birds.<p>I know what's going on here<n>and what you've achieved...<p>I can tell you all about it.<n>I'm always here. Come chat!<p>I'll also keep a diary for you<n>whenever something happens.<p>It's in your notebook.<n>Read it when you have time.<p>No need to thank me! I enjoy it.<p>...Now, let's make myself useful.<p>Here, this is for you!<p>It's a statue of my ancestor.<p>This island has little barriers<n>all over the place...<p>Lots of places are sealed off<n>until you put statues in the right spots.<p>So this is your first statue.<p>Put it on the pedestal near this tree<n>and a door leading south will appear.<p>Marian's through that door.<n>Go have a chat with her!<p>Right, that's enough chatter!<n>Here you go!
 
@@ -4050,7 +4050,7 @@ EN: Search Hero
 JP: 探し道皇帝
 EN: Emperor
 
-@1F864C max=20
+@1F864C max=23
 JP: ゴッド・オブ・探し道
 EN: God of Searching
 
@@ -4058,7 +4058,7 @@ EN: God of Searching
 JP: パッケージバージョン i3d_package_version 050121-stable-050617 : 致命的エラー\nリリース版のアプリケーションに、デバッグ版または\n異なるビルドのライブラリがリンクされています。\nリンクするライブラリを修正してください。\n
 EN: Package version i3d_package_version 050121-stable-050617: Fatal error\nThis release application is linked to a debug library or one from a different build.\nCorrect the linked libraries.\n
 
-@21AC48 max=16
+@21AC48 max=17
 JP: 劔丗劔僉{.ﾀ{.@
 EN: 
 
@@ -4362,7 +4362,7 @@ EN: Clothes
 JP: 美容院
 EN: Salon
 
-@220070 max=20
+@220070 max=21
 JP: ﾟ撝@ﾑS{@萢@ﾛI?ﾛﾉ?
 EN: 
 
@@ -4378,7 +4378,7 @@ EN: Could not load crossword data.<n>The data is corrupted.<n>Continue playing?
 JP: アクセスエラーが発生したため<n>クロスワードデータのロードに<n>失敗しました。このまま続けますか？
 EN: Access error: could not load<n>crossword data.<n>Continue playing?
 
-@220660 max=104
+@220660 max=107
 JP: ”メモリースティック”が抜かれたため<n>クロスワードデータのロードに<n>失敗しました。このまま続けますか？
 EN: Memory Stick removed.<n>Could not load crossword data.<n>Continue playing?
 
@@ -4406,7 +4406,7 @@ EN: Message Bch E
 JP: ブラザー橋
 EN: Brother Br.
 
-@220850 max=22
+@220850 max=23
 JP: どこへワープしますか？
 EN: Where will you warp?
 
@@ -4430,15 +4430,15 @@ EN: Wore %s<n>
 JP: 全ての運勢値が%dあがった
 EN: All luck rose by %d.
 
-@220D7C max=12
+@220D7C max=15
 JP: %sをはずした
 EN: Removed %s.
 
-@220D8C max=22
+@220D8C max=23
 JP: 全ての運勢値が%d減った
 EN: All luck fell by %d.
 
-@220DA4 max=22
+@220DA4 max=23
 JP: 運勢値は変わらなかった
 EN: Luck stayed the same.
 
@@ -4450,7 +4450,7 @@ EN: Placed %s<n>
 JP: %sをかけた
 EN: Hung %s
 
-@220DF8 max=12
+@220DF8 max=13
 JP: ﾍﾌ諺囮卅ﾍﾌL>
 EN: 
 
@@ -4466,7 +4466,7 @@ EN: Mode: %s
 JP: 　お金　　%dz
 EN: Money: %dz
 
-@225088 max=16
+@225088 max=19
 JP: 　%s　%d個　(%d)
 EN: %s x%d (%d)
 
@@ -4474,11 +4474,11 @@ EN: %s x%d (%d)
 JP: 　ＮＰＣ　%s
 EN: NPC: %s
 
-@2250AC max=33
+@2250AC max=35
 JP: 　AREA OPEN　段階%d　開放状態(%d)
 EN: AREA OPEN Stage%d State(%d)
 
-@2250D0 max=26
+@2250D0 max=27
 JP: 　NOXFLAG:%s=%d セット(%d)
 EN: NOXFLAG:%s=%d Set(%d)
 
@@ -4490,7 +4490,7 @@ EN: Change Date
 JP: 　　UID:%s
 EN: UID:%s
 
-@225104 max=16
+@225104 max=19
 JP: 現在のゲーム時刻
 EN: Game Time
 
@@ -4498,19 +4498,19 @@ EN: Game Time
 JP: ○%4d年%2d月%2d日 %02d時%02d分
 EN: O%4d/%2d/%2d %02d:%02d
 
-@225138 max=20
+@225138 max=23
 JP: ゲームをはじめた日時
 EN: Game Start Date/Time
 
-@225150 max=46
+@225150 max=47
 JP: 設定するゲーム時刻：無効（切り替えは□ボタン）
 EN: Set game time: OFF (Square to toggle)
 
-@225180 max=46
+@225180 max=47
 JP: 設定するゲーム時刻：有効（切り替えは□ボタン）
 EN: Set game time: ON (Square to toggle)
 
-@2251B0 max=46
+@2251B0 max=47
 JP: 時刻変更：ＬＲでカーソル移動＋△×ボタンで変更
 EN: Set time: L/R move, Triangle/X change
 
@@ -4518,7 +4518,7 @@ EN: Set time: L/R move, Triangle/X change
 JP: NOXFLAG操作方法
 EN: 
 
-@2251F4 max=50
+@2251F4 max=51
 JP: （左右で項目変更・△×でセット値変更・○でセット）
 EN: 
 
@@ -5230,27 +5230,27 @@ EN: Programming
 JP: 有限会社シンク
 EN: SYNC Ltd.
 
-@226F4C max=14
+@226F4C max=15
 JP: ■制作・著作■
 EN: ■Production■
 
-@226F5C max=46
+@226F5C max=47
 JP: 株式会社ソニー・コンピュータエンタテインメント
 EN: Sony Computer Entertainment Inc.
 
-@226FE4 max=57
+@226FE4 max=59
 JP: ロードを行わずにタイトル画面へ<n>戻ってもよろしいですか？
 EN: Return to the title screen<n>without loading?
 
-@227020 max=104
+@227020 max=107
 JP: ”メモリースティック”が抜かれたため<n>クロスワードデータのロードに<n>失敗しました。このまま続けますか？
 EN: Memory Stick removed.<n>Could not load crossword data.<n>Continue playing?
 
-@22708C max=98
+@22708C max=99
 JP: クロスワードデータのロードに<n>失敗しました。データが壊れています。<n>このままゲームを続けますか？
 EN: Could not load crossword data.<n>The data is corrupted.<n>Continue playing?
 
-@2270F0 max=96
+@2270F0 max=99
 JP: アクセスエラーが発生したため<n>クロスワードデータのロードに<n>失敗しました。このまま続けますか？
 EN: Access error: could not load<n>crossword data.<n>Continue playing?
 
@@ -5394,11 +5394,11 @@ EN: Yes
 JP: いいえ
 EN: No
 
-@228000 max=13
+@228000 max=15
 JP: はい<n>いいえ
 EN: Yes<n>No
 
-@22805C max=30
+@22805C max=31
 JP: はい<n>どちらでもない<n>いいえ
 EN: Yes<n>Neither<n>No
 
@@ -5470,11 +5470,11 @@ EN: Money:
 JP: 所持金
 EN: Money
 
-@228B40 max=9
+@228B40 max=7
 JP: なし
 EN: None
 
-@228CE8 max=16
+@228CE8 max=19
 JP: 売却数　01／%02d
 EN: Sell 01/%02d
 
@@ -5482,11 +5482,11 @@ EN: Sell 01/%02d
 JP: 購入数×01
 EN: Buy Qty x01
 
-@228D08 max=18
+@228D08 max=19
 JP: 売却数　%02d／%02d
 EN: Sell Qty %02d/%02d
 
-@228D1C max=12
+@228D1C max=15
 JP: 購入数×%02d
 EN: Buy x%02d
 
@@ -5595,12 +5595,12 @@ EN: Brikki Interior Cert
 JP: ？
 EN: <SKIP>
 
-@2298F8 max=13
+@2298F8 max=11
 // profile-screen window title: max 8 characters wide
 JP: 名前入力
 EN: Name
 
-@22992C max=13
+@22992C max=11
 // profile-screen window title: max 8 characters wide
 JP: 愛称入力
 EN: Nickname
@@ -5625,17 +5625,17 @@ EN: ／
 JP: 日
 EN: 　
 
-@229A44 max=9
+@229A44 max=7
 // profile-screen window title: max 8 characters wide
 JP: 性別
 EN: Gender
 
-@229A8C max=15
+@229A8C max=7
 // profile-screen window title: max 8 characters wide
 JP: 血液型
 EN: Blood
 
-@229C60 max=94
+@229C60 max=95
 JP: 持ち物<n>占い<n>あなたのカルテ<n>ステータス<n>守護天使<n>遊び<n>手帳<n>ネットワーク<n>システム
 EN: Inventory<n>Fortune<n>Profile<n>Status<n>Guardian Angel<n>Games<n>Journal<n>Network<n>System
 
@@ -5643,19 +5643,19 @@ EN: Inventory<n>Fortune<n>Profile<n>Status<n>Guardian Angel<n>Games<n>Journal<n>
 JP: 見る<n>像を見る<n>使う<n>食べる<n>力の解放<n>置く<n>捨てる<n>やめる
 EN: Look<n>View statue<n>Use<n>Eat<n>Unleash<n>Place<n>Discard<n>Quit
 
-@229D24 max=32
+@229D24 max=35
 JP: 今日の占い<n>あだな占い<n>占い草
 EN: Daily<n>Nickname<n>Fortune herb
 
-@229D58 max=94
+@229D58 max=95
 JP: クロスワード<n>ジグソーパズル<n>星座パネル<n>探し道<n>資格試験<n>ボトルメール<n>マイうんちく集
 EN: Crossword<n>Jigsaw puzzle<n>Constell. panel<n>Way of Searching<n>Exams<n>Bottle mail<n>Trivia
 
-@229DB8 max=96
+@229DB8 max=99
 JP: クロスワード<n>ボーナスジグソー<n>星座パネル<n>探し道<n>資格試験<n>ボトルメール<n>マイうんちく集
 EN: Crossword<n>Bonus Jigsaw<n>Constell. Panels<n>Way of Searching<n>Exams<n>Bottle Mail<n>My Trivia
 
-@229E1C max=28
+@229E1C max=31
 JP: ソウル<n>ステータス<n>もどす
 EN: Soul<n>Status<n>Back
 
@@ -5663,11 +5663,11 @@ EN: Soul<n>Status<n>Back
 JP: 福福島へ
 EN: To Fukufuku
 
-@229E58 max=22
+@229E58 max=23
 JP: <n>参加者リスト<n>渡す
 EN: <n>Players<n>Give
 
-@229E70 max=22
+@229E70 max=23
 JP: <n>参加者リスト<n>名刺
 EN: <n>Players<n>Name Card
 
@@ -5683,15 +5683,15 @@ EN: Lab Site<n>Card
 JP: セーブ<n>削除
 EN: Save<n>Delete
 
-@229FC0 max=90
+@229FC0 max=91
 JP: 入れ替え<n>持ち物<n>占い<n>あなたのカルテ<n>ステータス<n>守護天使<n>遊び<n>手帳<n>システム
 EN: Swap<n>Inventory<n>Fortune<n>Profile<n>Status<n>Guardian Angel<n>Games<n>Journal<n>System
 
-@22A02C max=69
+@22A02C max=71
 JP: クローゼット<n>机<n>ベッド<n>カーテン<n>電気スタンド<n>鏡<n>壁紙<n>床
 EN: Wardrobe<n>Desk<n>Bed<n>Curtains<n>Lamp<n>Mirror<n>Wallpaper<n>Floor
 
-@22A074 max=41
+@22A074 max=43
 JP: %sはこれ以上、<n>レベルがあがらないようだ
 EN: %s can't level up<n>any further.
 
@@ -5703,7 +5703,7 @@ EN: Gained %d energy<n>Reached stage %d<n>%s can't level up<n>any further.
 JP: %dのエネルギーを得た<n>%d段階に成長した<n>次の段階に成長するには、<n>%dのエネルギーが必要だ
 EN: Gained %d energy<n>Reached stage %d<n>Next stage needs<n>%d energy.
 
-@22A150 max=72
+@22A150 max=75
 JP: %dのエネルギーを得た<n>次の段階に成長するには、<n>%dのエネルギーが必要だ
 EN: Gained %d energy<n>Next stage needs<n>%d energy.
 
@@ -5759,11 +5759,11 @@ EN: No fortune read yet
 JP: 占い
 EN: Fortune
 
-@22A43C max=12
+@22A43C max=15
 JP: 干支・総合運
 EN: Zodiac: Luck
 
-@22A44C max=12
+@22A44C max=15
 JP: 血液・総合運
 EN: Blood: Luck
 
@@ -5779,7 +5779,7 @@ EN: Amesho's Nickname Study
 JP: アメショーの長所分析
 EN: Amesho's Strength Study
 
-@22A534 max=20
+@22A534 max=23
 JP: 分析を受けていません
 EN: No analysis yet
 
@@ -5791,15 +5791,15 @@ EN: Set<n>View
 JP: アイテム<n>名刺
 EN: Items<n>Cards
 
-@22A5A4 max=20
+@22A5A4 max=23
 JP: ＯＫ<n>設定<n>やめる
 EN: OK<n>Settings<n>Quit
 
-@22A5BC max=24
+@22A5BC max=27
 JP: さんの名刺を捨てますか？
 EN: 's card: discard?
 
-@22A680 max=90
+@22A680 max=91
 JP: これ以上ボトルメールを作成して保存<n>すると、古いものから削除されますが<n>よろしいですか？
 EN: Saving more bottle mail<n>will delete the oldest messages.<n>Continue?
 
@@ -5807,15 +5807,15 @@ EN: Saving more bottle mail<n>will delete the oldest messages.<n>Continue?
 JP: 削除しますか？
 EN: Delete?
 
-@22A6EC max=24
+@22A6EC max=27
 JP: アイテムを添付しますか？
 EN: Attach an item?
 
-@22A708 max=14
+@22A708 max=15
 JP: 保存しますか？
 EN: Save?
 
-@22A718 max=12
+@22A718 max=15
 JP: 福福島の住人
 EN: Islander
 
@@ -5823,7 +5823,7 @@ EN: Islander
 JP: このアイテムはもういっぱいです<n>ストックに空きがないとはずせません
 EN: Stock is full.<n>Make room before removing this item.
 
-@22A888 max=25
+@22A888 max=27
 JP: 着替える<n>メガネをはずす
 EN: Change<n>Remove glasses
 
@@ -5831,7 +5831,7 @@ EN: Change<n>Remove glasses
 JP: 今日の占い
 EN: Daily luck
 
-@22AA44 max=16
+@22AA44 max=19
 JP: ラッキーカラー：
 EN: Lucky Color:
 
@@ -5847,7 +5847,7 @@ EN: Daily tip
 JP: 占いを受けていません
 EN: No fortune read yet
 
-@22AEDC max=16
+@22AEDC max=19
 JP: まだありません。
 EN: None yet.
 
@@ -5855,11 +5855,11 @@ EN: None yet.
 JP: 贈る言葉
 EN: Wise Words
 
-@22BA00 max=50
+@22BA00 max=51
 JP: ガギグゲゴザジズゼゾダデヅデドバビブベボパピプペポ
 EN: gagigugegozazizuzezodadezudedobabibubebopapipupepo
 
-@22BA34 max=40
+@22BA34 max=43
 JP: カキクキコサシスセソタチツテトハヒフヘホ
 EN: kakikukikosasisusesotatitutetohahihuheho
 
@@ -5939,7 +5939,7 @@ EN: Sat
 JP: デイリー福福　%2d月%2d日(%s)　 　　第%03d号
 EN: Daily Fukufuku %2d/%2d(%s) No.%03d
 
-@22EB14 max=17
+@22EB14 max=19
 JP: 星を使う<n>やめる
 EN: Use star<n>Quit
 
@@ -6039,7 +6039,7 @@ EN: Upright
 JP: 逆位置
 EN: Reverse
 
-@22F0E8 max=52
+@22F0E8 max=55
 JP: wｾｿｬ愾ﾁﾊ眩ﾙﾀ&ﾀd;?ﾀd;?ﾀｴﾈ6ﾀ&ﾀﾙﾀﾁﾊ眩ｬ愾wｾｿ
 EN: 
 
@@ -6055,11 +6055,11 @@ EN: Leadership<n>Teamwork<n>Logic<n>Ambition<n>Passion
 JP: せっかち度<n>タフ度<n>ナルシスト度<n>好奇心度<n>正義感度
 EN: Haste<n>Toughness<n>Self-love<n>Curiosity<n>Justice
 
-@22F254 max=70
+@22F254 max=71
 JP: カリスマ度<n>ひょうきん度<n>甘えん坊度<n>見栄っ張り度<n>不思議ちゃん度
 EN: Charisma<n>Humor<n>Clinginess<n>Vanity<n>Eccentricity
 
-@22F2AC max=157
+@22F2AC max=159
 JP: チワワの恋愛診断<n>チワワの仕事診断<n>チワワの性格診断<n>チワワの対人診断<n>アメショーのタイプ分析<n>アメショーのあだな分析<n>アメショーの長所分析<n>贈る言葉
 EN: Ms. Chihuahua: Love<n>Ms. Chihuahua: Work<n>Ms. Chihuahua: Self<n>Ms. Chihuahua: Ties<n>Amesho: Type<n>Amesho: Nickname<n>Amesho: Strengths<n>Words of Wisdom
 
@@ -6067,7 +6067,7 @@ EN: Ms. Chihuahua: Love<n>Ms. Chihuahua: Work<n>Ms. Chihuahua: Self<n>Ms. Chihua
 JP: 心理テスト<n>やめる
 EN: Personality<n>Quit
 
-@22F374 max=13
+@22F374 max=11
 JP: あなたの
 EN: Your
 
@@ -6195,11 +6195,11 @@ EN: Dog
 JP: 亥
 EN: Boar
 
-@22FB04 max=21
+@22FB04 max=23
 JP: %s×%s×%s ＝ %d/%d位
 EN: %s x %s x %s = %d/%d
 
-@22FB1C max=30
+@22FB1C max=31
 JP: ＴＯＰランキング ＝ %s×%s×%s
 EN: TOP = %s x %s x %s
 
@@ -6219,15 +6219,15 @@ EN: 's General Trivia
 JP: の英語的うんちく
 EN: 's English Trivia
 
-@22FF74 max=10
+@22FF74 max=11
 JP: 蝶々の格言
 EN: Wing maxim
 
-@230170 max=101
+@230170 max=103
 JP: 愛称　：<n>生年月日：<n>星座　：<n>性別　：<n>血液型：<n>干支　：<n><n>レベル：<n>ＨＰ　：<n>経験値：
 EN: Nickname:<n>Birth date:<n>Star sign:<n>Gender:<n>Blood type:<n>Zodiac:<n><n>Level:<n>HP:<n>XP:
 
-@2301D8 max=170
+@2301D8 max=171
 JP: 所持金：<n>所持アイテム数：<n><n>ヒヨピースタンプ：<n>星のかけら　：<n>星のかけら　：<n>星のかけら　：<n>星のかけら　：<n>星のかけら　：<n>星のかけら　：<n>星のかけら　：
 EN: Money:<n>Items:<n><n>Hiyopi stamps:<n>Star fragments:<n>Star fragments:<n>Star fragments:<n>Star fragments:<n>Star fragments:<n>Star fragments:<n>Star fragments:
 
@@ -6239,7 +6239,7 @@ EN: Overall:<n>Love:<n>Health:<n>Work:<n>Money:<n>Social:
 JP: チワワの心理診断<n>恋愛診断：<n>仕事診断：<n>性格診断：<n>対人診断：<n><n>アメショーの性格診断<n>タイプ分析：<n>あだな分析：<n>長所分析　：
 EN: Ms. Chihuahua Tests<n>Love:<n>Work:<n>Personality:<n>Social:<n><n>Professor Amesho<n>Type:<n>Nickname:<n>Strengths:
 
-@230350 max=138
+@230350 max=139
 JP: 探し道段位：<n>ジグソーパズル：<n>クロスワード：<n>星座パネル：<n><n>資格試験合格：<n>クイズ合格：<n><n>新聞：<n>守護天使：<n>あだな占い：
 EN: Search rank:<n>Jigsaw puzzles:<n>Crosswords:<n>Star panels:<n><n>Exams:<n>Quizzes:<n><n>Newspaper:<n>Guardian angel:<n>Nickname fortune:
 
@@ -6268,15 +6268,15 @@ EN: <SKIP>
 JP: ＡＢ
 EN: AB
 
-@230568 max=24
+@230568 max=27
 JP: 子丑寅卯辰巳午未申酉戌亥
 EN: RaOxTiRbDrSnHoShMoRoDoBo
 
-@230584 max=68
+@230584 max=71
 JP: %s<n>%d年%02d月%02d日<n>%s<n>%s<n>%s型<n>%s<n><n>%d<n>%03d/%03d<n>%d
 EN: %s<n>%d-%02d-%02d<n>%s<n>%s<n>Type %s<n>%s<n><n>%d<n>%03d/%03d<n>%d
 
-@2305CC max=70
+@2305CC max=71
 JP: %s<n>%d年%02d月%02d日<n>%s<n>%s<n>？？？<n>%s<n><n>%d<n>%03d/%03d<n>%d
 EN: %s<n>%d-%02d-%02d<n>%s<n>%s<n>???<n>%s<n><n>%d<n>%03d/%03d<n>%d
 
@@ -6292,11 +6292,11 @@ EN: Name
 JP: 歴代
 EN: Lineage
 
-@2306FC max=8
+@2306FC max=11
 JP: ：%d代目
 EN: :%d gen.
 
-@230708 max=8
+@230708 max=11
 JP: 滞在時間
 EN: Stay
 
@@ -6326,7 +6326,7 @@ EN: <SKIP>
 JP: 仝
 EN: <SKIP>
 
-@230DA8 max=22
+@230DA8 max=23
 JP: 新規作成<n>修正<n>読む
 EN: New<n>Edit<n>Read
 
@@ -6334,7 +6334,7 @@ EN: New<n>Edit<n>Read
 JP: 宛先あり<n>宛先なし
 EN: To Someone<n>To All
 
-@230DD4 max=29
+@230DD4 max=31
 JP: 宛先<n>本文<n>アイテム<n>終了
 EN: To<n>Message<n>Item<n>Done
 
@@ -6342,15 +6342,15 @@ EN: To<n>Message<n>Item<n>Done
 JP: 添付なし<n>アイテム指定
 EN: None<n>Choose Item
 
-@230E1C max=22
+@230E1C max=23
 JP: 手に入れたボトルメール
 EN: Bottle Mail Received
 
-@230E5C max=18
+@230E5C max=19
 JP: 書いたボトルメール
 EN: My Bottle Mail
 
-@230E70 max=10
+@230E70 max=11
 JP: 定型文%02d
 EN: Preset%02d
 
@@ -6378,15 +6378,15 @@ EN: ---
 JP: 同意する
 EN: Agree
 
-@2318DC max=13
+@2318DC max=11
 JP: 同意しない
 EN: Disagree
 
-@2318F4 max=10
+@2318F4 max=11
 JP: 友達リスト
 EN: Friends
 
-@231910 max=13
+@231910 max=15
 JP: 参加者リスト
 EN: Participants
 
@@ -6398,7 +6398,7 @@ EN: --------
 JP: ーーー
 EN: ---
 
-@231944 max=13
+@231944 max=12
 JP: ーーーーーー
 EN: ------
 
@@ -6510,39 +6510,39 @@ EN: ??
 JP: ？.？.？
 EN: ?.?.?
 
-@231C24 max=12
+@231C24 max=15
 JP: 公開情報設定
 EN: Public info
 
-@231C34 max=56
+@231C34 max=59
 JP: 愛称：\n性別：\n生年月日：\n血液型：\n星座：\n干支：\n相性度：
 EN: Nickname:\nGender:\nBirthday:\nBlood:\nSign:\nZodiac:\nMatch:
 
-@231C70 max=8
+@231C70 max=11
 JP: 必ず公開
 EN: Public
 
-@231C84 max=20
+@231C84 max=23
 JP: 登録：%04d.%02d.%02d
 EN: Since:%04d.%02d.%02d
 
-@2323F0 max=40
+@2323F0 max=43
 JP: 像を入れ替えるには持ち物に空きが必要です
 EN: Need room in your bag to swap statues.
 
-@23241C max=13
+@23241C max=15
 JP: %s<n>を建てた
 EN: Built<n>%s
 
-@23242C max=30
+@23242C max=31
 JP: ここに置ける像は持っていません
 EN: No statues you can place here.
 
-@232480 max=49
+@232480 max=51
 JP: 　ダウンロード中です。<n>しばらくお待ちください。
 EN: Downloading...<n>Please wait.
 
-@232660 max=14
+@232660 max=15
 JP: 今日の配置:%d\n
 EN: 
 
@@ -6566,7 +6566,7 @@ EN:
 JP: 前回の初期化：%d年%d月%d日%d時%d分\n
 EN: 
 
-@232708 max=33
+@232708 max=35
 JP: 初期化開始:fkmiyaInitNPCDayStart\n
 EN: 
 
@@ -6578,19 +6578,19 @@ EN:
 JP: 第%d週\n
 EN: Wk %d\n
 
-@23273C max=16
+@23273C max=19
 JP: 第%d週%d日:%d日\n
 EN: Wk%d Day%d:%d\n
 
-@232750 max=36
+@232750 max=39
 JP: 今日のガイコツ配置マップ:%d (%d,%d)\n
 EN: 
 
-@23278C max=28
+@23278C max=31
 JP: 今日のガイコツの洞窟配置:%d\n
 EN: 
 
-@2327AC max=12
+@2327AC max=15
 JP: ドングリ:%d\n
 EN: Acorns:%d\n
 
@@ -6598,11 +6598,11 @@ EN: Acorns:%d\n
 JP: ドングリ\n
 EN: Acorn\n
 
-@2327E0 max=13
+@2327E0 max=15
 JP: 主任ドングリ\n
 EN: Chief Acorn\n
 
-@2327F0 max=13
+@2327F0 max=15
 JP: 部長ドングリ\n
 EN: Mgr. Acorn\n
 
@@ -6610,11 +6610,11 @@ EN: Mgr. Acorn\n
 JP: キノコ:%d\n
 EN: Shroom:%d\n
 
-@23280C max=13
+@23280C max=15
 JP: カワセミダケ\n
 EN: Kingfisher\n
 
-@23281C max=13
+@23281C max=15
 JP: ニンギョダケ\n
 EN: Mermaid Cap\n
 
@@ -6634,11 +6634,11 @@ EN: Blue\n
 JP: ピンク\n
 EN: Pink\n
 
-@232874 max=13
+@232874 max=15
 JP: パズルピース\n
 EN: Puzzle Piece\n
 
-@232884 max=12
+@232884 max=15
 JP: フルーツ:%d\n
 EN: Fruit:%d\n
 
@@ -6646,31 +6646,31 @@ EN: Fruit:%d\n
 JP: 配置しない\n
 EN: No Placing\n
 
-@232F18 max=9
+@232F18 max=11
 JP: 配置する\n
 EN: Place\n
 
-@232F24 max=30
+@232F24 max=31
 JP: ボトルメール受信しているか:%d\n
 EN: 
 
-@232F64 max=30
+@232F64 max=31
 JP: ボトルメール配布 x:%d y:%d %d\n
 EN: 
 
-@232F84 max=24
+@232F84 max=27
 JP: ボトルメール配布失敗:%d\n
 EN: 
 
-@232FA0 max=30
+@232FA0 max=31
 JP: 空き瓶 配置する lv:%d rate:%d\n
 EN: 
 
-@232FC0 max=20
+@232FC0 max=23
 JP: アイテム配布失敗:%d\n
 EN: 
 
-@2332E0 max=33
+@2332E0 max=35
 JP: メッセージウィンドウが動いている\n
 EN: 
 
@@ -6690,15 +6690,15 @@ EN:
 JP: フェードが動いている\n
 EN: 
 
-@2333EC max=21
+@2333EC max=23
 JP: モーション読み込み中\n
 EN: 
 
-@233404 max=13
+@233404 max=15
 JP: 読み込み完了\n
 EN: Loaded\n
 
-@233414 max=28
+@233414 max=31
 JP: 後読みモーションチェック:%d\n
 EN: 
 
@@ -6706,7 +6706,7 @@ EN:
 JP: 石碑・木の看板\n
 EN: Marker/Sign\n
 
-@2335F0 max=21
+@2335F0 max=23
 JP: もぐやんを探して設定\n
 EN: 
 
@@ -6718,11 +6718,11 @@ EN:
 JP: 前回：%d年%d月%d日%d時%d分\n
 EN: Last: %d/%d/%d %d:%d
 
-@233DA8 max=33
+@233DA8 max=35
 JP: 置く miyaScript.iItemObjectID=%d\n
 EN: 
 
-@233E4C max=21
+@233E4C max=23
 JP: 星座パネル:%d exp:%d\n
 EN: 
 
@@ -6822,11 +6822,11 @@ EN: Master
 JP: 探し道の英雄
 EN: Search Hero
 
-@234E4C max=10
+@234E4C max=11
 JP: 探し道皇帝
 EN: Emperor
 
-@234E58 max=20
+@234E58 max=23
 JP: ゴッド・オブ・探し道
 EN: God of Searching
 
@@ -6886,7 +6886,7 @@ EN:
 JP: ００
 EN: 00
 
-@235180 max=16
+@235180 max=19
 JP: 送信ストック:%d\n
 EN: 
 
@@ -6894,7 +6894,7 @@ EN:
 JP: オープニングクイズ 2択\n
 EN: 
 
-@2353C8 max=14
+@2353C8 max=15
 JP: タイムオーバー
 EN: Time's up!
 
@@ -6938,19 +6938,19 @@ EN: Stars: Social
 JP: 星座・恋愛運
 EN: Stars: Love
 
-@235B6C max=18
+@235B6C max=19
 JP: <ITEM>を置きました
 EN: Placed <ITEM>.
 
-@235B80 max=37
+@235B80 max=39
 JP: ジグソーパズルの<n>ピースを手に入れた
 EN: Got a jigsaw<n>puzzle piece!
 
-@235BA8 max=18
+@235BA8 max=19
 JP: <ITEM>を手に入れた
 EN: Got <ITEM>!
 
-@235BBC max=21
+@235BBC max=23
 JP: <ITEM>を手に入れた<n>
 EN: Got <ITEM>!<n>
 
@@ -6958,7 +6958,7 @@ EN: Got <ITEM>!<n>
 JP: が上がりそうだ
 EN:  may improve.
 
-@235C38 max=20
+@235C38 max=23
 JP: 持ち物がいっぱいです
 EN: Your bag is full.
 
@@ -6966,19 +6966,19 @@ EN: Your bag is full.
 JP: 正解数:%d\n
 EN: Correct:%d
 
-@235CA4 max=61
-JP: 各性格パラメータの分析率:%d %d / %d = %f\n
+@235CB8 max=43
+JP: 各性格パラメータの分析率:%d %d / %d = %f\n
 EN: 
 
-@235CE4 max=45
+@235CE4 max=47
 JP: 補正後の性格パラメータ値:%d %d * (1/%f) = %d\n
 EN: 
 
-@235D14 max=50
+@235D14 max=51
 JP: 性格パラメータ毎のスケール値:%d (%d-%d) / %d = %f\n
 EN: 
 
-@235D48 max=24
+@235D48 max=27
 JP: パラメータ:%d レベル:%d\n
 EN: 
 
@@ -6994,15 +6994,15 @@ EN:
 JP: 現在のスタンプアイテムのランク:work_common2=%d\n
 EN: 
 
-@236204 max=26
+@236204 max=27
 JP: スタンプ数:work_common=%d\n
 EN: 
 
-@236220 max=44
+@236220 max=47
 JP: 現在のスタンプアイテムのランク:item_rank=%d\n
 EN: 
 
-@2362EC max=37
+@2362EC max=39
 JP: うぬぬ、ワシが見たところ、<n>おぬしは
 EN: Hmm, as I see it,<n>you are 
 
@@ -7030,11 +7030,11 @@ EN:
 JP: 宿命数:%d\n
 EN: Destiny:%d
 
-@23648C max=17
+@23648C max=19
 JP: 基本運勢値の算出\n
 EN: 
 
-@2364A0 max=20
+@2364A0 max=23
 JP: 総合運　運勢値 = %d\n
 EN: 
 
@@ -7054,7 +7054,7 @@ EN:
 JP: 金運　運勢値 = %d\n
 EN: 
 
-@236514 max=20
+@236514 max=23
 JP: 対人運　運勢値 = %d\n
 EN: 
 
@@ -7062,20 +7062,20 @@ EN:
 JP: ラッキーカラー = %d\n
 EN: 
 
-@23655C max=26
+@23655C max=27
 JP: 干支占い 基本運勢値の算出\n
 EN: 
 
-@23658C max=28
+@23658C max=31
 JP: 血液型占い 基本運勢値の算出\n
 EN: 
 
-@2365AC max=28
+@2365AC max=31
 JP: 血液型占い プレイヤーを占う\n
 EN: 
 
-@2365E0 max=51
-JP: \t\n星座[%d],%d,%d,%d,%d,%d,%d\n
+@2365F8 max=27
+JP: 星座[%d],%d,%d,%d,%d,%d,%d\n
 EN: 
 
 @236614 max=15
@@ -7086,11 +7086,11 @@ EN:
 JP: 血液型[%d],%d\n
 EN: 
 
-@236634 max=25
-JP: \nプレイヤーの星座[%d]\t%d\n
+@236635 max=26
+JP: プレイヤーの星座[%d]\t%d\n
 EN: 
 
-@236650 max=24
+@236650 max=27
 JP: プレイヤーの干支[%d]\t%d\n
 EN: 
 
@@ -7102,39 +7102,39 @@ EN:
 JP: プレイヤーの集計値\t%d\n
 EN: 
 
-@2366A0 max=22
+@2366A0 max=23
 JP: プレイヤーの総合運\t%d\n
 EN: 
 
-@2366B8 max=25
-JP: \n総合運　基本運勢値 = %d\n
+@2366B9 max=26
+JP: 総合運　基本運勢値 = %d\n
 EN: 
 
-@2366D4 max=24
+@2366D4 max=27
 JP: 恋愛運　基本運勢値 = %d\n
 EN: 
 
-@2366F0 max=24
+@2366F0 max=27
 JP: 健康運　基本運勢値 = %d\n
 EN: 
 
-@23670C max=24
+@23670C max=27
 JP: 仕事運　基本運勢値 = %d\n
 EN: 
 
-@236728 max=24
+@236728 max=27
 JP: 金運　　基本運勢値 = %d\n
 EN: 
 
-@236744 max=24
+@236744 max=27
 JP: 対人運　基本運勢値 = %d\n
 EN: 
 
-@236760 max=23
-JP: \n総合運　運勢値 = %d\n
+@236761 max=22
+JP: 総合運　運勢値 = %d\n
 EN: 
 
-@236778 max=20
+@236778 max=23
 JP: 金運　　運勢値 = %d\n
 EN: 
 
@@ -7146,7 +7146,7 @@ EN: Player rank:%d\n\n
 JP: 金運:%d\n
 EN: Money:%d\n
 
-@2367F0 max=8
+@2367F0 max=11
 JP: 確率:%d\n
 EN: Odds:%d\n
 
@@ -7158,7 +7158,7 @@ EN: Lose\n
 JP: あたり\n
 EN: Win\n
 
-@2369E4 max=16
+@2369E4 max=19
 JP: 星座パネル = %d\n
 EN: 
 
@@ -7166,15 +7166,15 @@ EN:
 JP: 直感で下の２色から<n>気に入った色を選んでください。
 EN: Go with your gut!<n>Choose one of the two colors.
 
-@236B3C max=28
+@236B3C max=31
 JP: 今日のあなたのコンディション
 EN: Your Condition Today
 
-@236BD4 max=25
+@236BD4 max=27
 JP: 今日の運勢ランキング決定\n
 EN: 
 
-@2389F4 max=45
+@2389F4 max=47
 JP: ボーナスジグソーは<n>有効期限を過ぎています。
 EN: This bonus jigsaw puzzle<n>has expired.
 
@@ -7182,31 +7182,31 @@ EN: This bonus jigsaw puzzle<n>has expired.
 JP: 現在：%d年%d月%d日\n
 EN: Now: %d/%d/%d\n
 
-@238B40 max=29
+@238B40 max=31
 JP: ジグソーの期限：%d年%d月%d日\n
 EN: Jigsaw expires: %d/%d/%d\n
 
-@238B60 max=9
+@238B60 max=11
 JP: 期限切れ\n
 EN: Expired\n
 
-@238C84 max=17
+@238C84 max=19
 JP: %d 取得ピース:%d\n
 EN: %d Pieces: %d\n
 
-@238E74 max=10
+@238E74 max=11
 JP: %dｚを得た
 EN: Got %dz.
 
-@238E80 max=17
+@238E80 max=15
 JP: %dｚを失った
 EN: Lost %dz.
 
-@238F30 max=13
+@238F30 max=15
 JP: 情報<n>ソウル
 EN: Info<n>Soul
 
-@238F40 max=98
+@238F40 max=99
 JP: この木を育てることはできないようだ。<n>他のプレイヤーと通信をした後なら<n>育てることができるかも…
 EN: You can't grow this tree yet.<n>Try connecting with another player first...
 
@@ -7214,11 +7214,11 @@ EN: You can't grow this tree yet.<n>Try connecting with another player first...
 JP: 情報<n>収穫する
 EN: Info<n>Harvest
 
-@238FB4 max=76
+@238FB4 max=79
 JP: 現在の育つ木は%d段階<n>次の段階に成長するには、<n>あと%dのエネルギーが必要だ
 EN: Tree growth: stage %d<n>It needs %d more energy<n>to reach the next stage.
 
-@239004 max=26
+@239004 max=27
 JP: アイテムが収穫できる状態だ
 EN: Ready to harvest an item.
 
@@ -7226,15 +7226,15 @@ EN: Ready to harvest an item.
 JP: 周りにアイテムが置いてあるため<n>収穫できません
 EN: Items nearby are<n>blocking the harvest.
 
-@239050 max=82
+@239050 max=83
 JP: 育つ木に%dのエネルギーを与えた<n>次の段階に成長するには、<n>%dのエネルギーが必要だ
 EN: Gave the tree %d energy.<n>It needs %d more energy<n>to reach the next stage.
 
-@2390A4 max=57
+@2390A4 max=59
 JP: 育つ木に%dのエネルギーを与えた<n>育つ木が%d段階に成長した
 EN: Gave the tree %d energy.<n>It grew to stage %d!
 
-@2390E0 max=76
+@2390E0 max=79
 JP: 育つ木に%dのエネルギーを与えた<n>育つ木が%d段階に成長した<n>アイテムが実った
 EN: Gave tree %d energy.<n>Tree grew to stage %d.<n>An item grew!
 
@@ -7246,11 +7246,11 @@ EN: Guardian angel: low HP<n>Can't appear
 JP: 守護天使に%dのエネルギーを与えた<n>守護天使が%d段階に成長した<n>守護天使はこれ以上、<n>レベルがあがらないようだ
 EN: Gave guardian angel %d energy.<n>It grew to stage %d.<n>It cannot gain<n>any more levels.
 
-@239430 max=113
+@239430 max=115
 JP: 守護天使に%dのエネルギーを与えた<n>守護天使が%d段階に成長した<n>次の段階に成長するには、<n>%dのエネルギーが必要だ
 EN: Gave guardian angel %d energy.<n>It grew to stage %d.<n>Energy for next stage:<n>%d
 
-@2394A4 max=82
+@2394A4 max=83
 JP: 守護天使に%dのエネルギーを与えた<n>次の段階に成長するには<n>%dのエネルギーが必要だ
 EN: Gave guardian angel %d energy.<n>Energy for next stage:<n>%d
 
@@ -7290,7 +7290,7 @@ EN: Social
 JP: えらー
 EN: Error
 
-@239658 max=18
+@239658 max=19
 JP: %sが＋%dされました
 EN: %s +%d
 
@@ -7310,15 +7310,15 @@ EN: Empty-handed
 JP: お金
 EN: Money
 
-@2399C0 max=16
+@2399C0 max=19
 JP: 蝶々を捕まえた！
 EN: Got a butterfly!
 
-@2399D4 max=28
+@2399D4 max=31
 JP: 蝶々は何も持っていなかった！
 EN: The butterfly had nothing!
 
-@2399F4 max=22
+@2399F4 max=23
 JP: 蝶々は%sを持っていた！
 EN: Butterfly carried %s!
 
@@ -7402,7 +7402,7 @@ EN: Frog
 JP: 宇宙人
 EN: Alien
 
-@239BB4 max=33
+@239BB4 max=35
 JP: PDP Socket作ったヨ！[%d] PORT=%d\n
 EN: 
 
@@ -7414,11 +7414,11 @@ EN: End co-op and return to<n>Gathering Plaza?
 JP: 集いの広場に戻りますか？
 EN: Back to Gathering Plaza?
 
-@239CEC max=20
+@239CEC max=23
 JP: 福福島に戻りますか？
 EN: To Fukufuku Island?
 
-@239D04 max=20
+@239D04 max=23
 JP: 縁縁島に行きますか？
 EN: Go to En-en Island?
 
@@ -7434,7 +7434,7 @@ EN: Connection error.<n>%s cannot join co-op.
 JP: %sの島から<n>%sが伝わった！
 EN: %s's island sent<n>%s!
 
-@239E44 max=37
+@239E44 max=39
 JP: %sの島から<n>新種の蝶々が飛んできた！
 EN: %s's island:<n>New butterfly species!
 
@@ -7446,11 +7446,11 @@ EN: %s's island sent<n>a new kind of tree seed!
 JP: ネットワーク接続できません
 EN: Cannot connect to network.
 
-@239EE4 max=49
+@239EE4 max=51
 JP: %sさんの部屋が見つかりません<n>部屋を探しています
 EN: %s's room not found.<n>Searching...
 
-@239F18 max=24
+@239F18 max=27
 JP: 部屋選択を中断しますか？
 EN: Cancel room selection?
 
@@ -7470,19 +7470,19 @@ EN: Connection error.
 JP: 作成した部屋を閉じますか？
 EN: Close the room you created?
 
-@239FD4 max=45
+@239FD4 max=47
 JP: ここにいる人たちで<n>協力プレイを始めますか？
 EN: Start co-op with<n>everyone here?
 
-@23A004 max=57
+@23A004 max=59
 JP: %sさんの部屋への参加を確認中です<n>しばらくお待ちください
 EN: Confirming entry to %s's room.<n>Please wait.
 
-@23A040 max=49
+@23A040 max=51
 JP: 通信エラーが発生しました。\n部屋に参加できません。
 EN: Connection error.\nCannot join the room.
 
-@23A074 max=45
+@23A074 max=47
 JP: %sさんが開始の合図をするまで<n>お待ちください
 EN: Please wait for %s<n>to signal the start.
 
@@ -7498,7 +7498,7 @@ EN: Connection error.\nCannot start co-op.
 JP: 通信エラーが発生しました<n>集いの広場に戻ります
 EN: Connection error<n>To Gathering Plaza
 
-@23A190 max=49
+@23A190 max=51
 JP: 協力プレイを続行できません<n>集いの広場に戻ります
 EN: Co-op cannot continue.<n>Back to Gathering Plaza.
 
@@ -7506,19 +7506,19 @@ EN: Co-op cannot continue.<n>Back to Gathering Plaza.
 JP: アイテムを渡したい人に近づいてください
 EN: Approach the item recipient.
 
-@23A298 max=34
+@23A298 max=35
 JP: 名刺を渡したい人に近づいてください
 EN: Approach the card recipient.
 
-@23A2BC max=38
+@23A2BC max=39
 JP: アイテムが受け取られるのを待っています
 EN: Waiting for them to take the item.
 
-@23A2E4 max=34
+@23A2E4 max=35
 JP: 名刺が受け取られるのを待っています
 EN: Waiting for them to take the card.
 
-@23A368 max=31
+@23A368 max=27
 JP: 岩を破壊した<n>%dｚを得た
 EN: Rock destroyed!<n>Got %dz
 
@@ -7526,7 +7526,7 @@ EN: Rock destroyed!<n>Got %dz
 JP: %sさんとの通信が切れました
 EN: Lost connection to %s.
 
-@23A3E0 max=33
+@23A3E0 max=35
 JP: %sさんは<n>集いの広場に帰りました
 EN: %s returned to<n>Gathering Plaza
 
@@ -7534,7 +7534,7 @@ EN: %s returned to<n>Gathering Plaza
 JP: アイテムを渡すのをやめました
 EN: Canceled giving the item.
 
-@23A424 max=33
+@23A424 max=35
 JP: %sさんに<n>アイテムを渡しますか？
 EN: Give the item<n>to %s?
 
@@ -7542,11 +7542,11 @@ EN: Give the item<n>to %s?
 JP: 名刺を渡すのをやめました
 EN: Canceled giving the card.
 
-@23A464 max=29
+@23A464 max=31
 JP: %sさんに<n>名刺を渡しますか？
 EN: Give your card<n>to %s?
 
-@23A484 max=24
+@23A484 max=27
 JP: これ以上名刺を持てません
 EN: Can't hold more cards.
 
@@ -7558,15 +7558,15 @@ EN: Receiving a card<n>from %s...
 JP: %sさんから<n>%sをもらおうとしています
 EN: From %s:<n>Receiving %s...
 
-@23A4F0 max=49
+@23A4F0 max=51
 JP: 持ち物がいっぱいです<n>%sをもらうことは出来ません
 EN: Your bag is full.<n>Cannot accept %s.
 
-@23A524 max=37
+@23A524 max=39
 JP: %sさんに<n>アイテムを渡せませんでした
 EN: Couldn't give %s<n>the item.
 
-@23A54C max=26
+@23A54C max=27
 JP: アイテムを渡せませんでした
 EN: Couldn't give the item.
 
@@ -7582,7 +7582,7 @@ EN: Couldn't receive an item from %s.
 JP: %sさんから<n>%sを受け取りました
 EN: From %s:<n>Got %s.
 
-@23A5D0 max=33
+@23A5D0 max=35
 JP: %sさんに<n>名刺を渡せませんでした
 EN: To %s:<n>Couldn't give card.
 
@@ -7598,19 +7598,19 @@ EN: Gave %s a business card.
 JP: %sさんから<n>名刺を受け取れませんでした
 EN: Couldn't get %s's business card.
 
-@23A650 max=33
+@23A650 max=35
 JP: %sさんから<n>名刺を受け取りました
 EN: From %s:<n>Got a business card.
 
-@23A91C max=46
+@23A91C max=47
 JP: 対戦相手とチャネル設定が不整合になっています。
 EN: Your channel settings don't match.
 
-@23A94C max=68
+@23A94C max=71
 JP: 通信エラーが発生しました。\nワイヤレスLANスイッチがオフになりました。
 EN: Connection error.<n>The WLAN switch is off.
 
-@23A994 max=26
+@23A994 max=27
 JP: 通信エラーが発生しました。
 EN: Connection error.
 
@@ -7622,19 +7622,19 @@ EN: Empty Room
 JP: 参加する部屋を選んでください<n>×ボタンでキャンセルします
 EN: Choose a room to join.<n>Press X to cancel.
 
-@23AA54 max=61
+@23AA54 max=63
 JP: %sさんの部屋は満室のようです<n>部屋に参加することはできません
 EN: %s's room is full.<n>You can't join.
 
-@23AA94 max=32
+@23AA94 max=35
 JP: %sさんの部屋に参加が決まりました
 EN: Joined %s's room.
 
-@23AAB8 max=37
+@23AAB8 max=39
 JP: %sさんの部屋からの<n>応答がありません
 EN: %s's room:<n>No response.
 
-@23AAE0 max=38
+@23AAE0 max=39
 JP: %sさんの部屋からの応答がなくなりました
 EN: Lost contact with %s's room.
 
@@ -7654,35 +7654,35 @@ EN: %s left.
 JP: %sさんの参加を承認しました<n>扉を開けると協力プレイ開始です
 EN: %s may now join.<n>Open the door to start co-op.
 
-@23AC28 max=69
+@23AC28 max=71
 JP: %sさんからの応答がなくなりました<n>引き続きゲストの参加を待っています
 EN: %s stopped responding.<n>Waiting for guests...
 
-@23AC70 max=69
+@23AC70 max=71
 JP: %sさんはマッチングを終了しました<n>引き続きゲストの参加を待っています
 EN: %s ended matchmaking.<n>Waiting for guests...
 
-@23B114 max=22
+@23B114 max=23
 JP: 協力プレイを開始します
 EN: Starting co-op.
 
-@23B300 max=24
+@23B300 max=27
 JP: ウオツリ草が仕掛けてある
 EN: Fishlure Grass is set.
 
-@23B31C max=33
+@23B31C max=35
 JP: 翌日になるまで、<n>待ってください
 EN: Please wait<n>until tomorrow.
 
-@23B340 max=17
+@23B340 max=19
 JP: 上げる<n>そのまま
 EN: Pull up<n>Leave
 
-@23B354 max=24
+@23B354 max=27
 JP: ここで魚釣りが出来そうだ
 EN: You could fish here.
 
-@23B370 max=24
+@23B370 max=27
 JP: ウオツリ草を持っていない
 EN: You have no Fishgrass.
 
@@ -7690,7 +7690,7 @@ EN: You have no Fishgrass.
 JP: 魚が釣れた
 EN: Got a fish!
 
-@23B398 max=26
+@23B398 max=27
 JP: 残念、魚は釣れていなかった
 EN: Too bad! No fish caught.
 
@@ -7698,7 +7698,7 @@ EN: Too bad! No fish caught.
 JP: ウオツリ草を仕掛けました
 EN: You set the Fishgrass.
 
-@23B754 max=8
+@23B754 max=9
 JP: ﾍﾌﾌｽ囮卆
 EN: 
 
@@ -7814,11 +7814,11 @@ EN: %s begins!
 JP: 目標位置：X=%d Y=%d\n
 EN: Target: X=%d Y=%d\n
 
-@23BAB4 max=20
+@23BAB4 max=23
 JP: 探し道アイテム発見！
 EN: Found a search item!
 
-@23BCE0 max=26
+@23BCE0 max=27
 JP: %sの星のかけらを手に入れた
 EN: Got a %s Star Fragment!
 
@@ -7826,11 +7826,11 @@ EN: Got a %s Star Fragment!
 JP: これで%sの星のかけらは<n>%d個になった
 EN: %s star shards:<n>%d total
 
-@23BD24 max=24
+@23BD24 max=27
 JP: しかし、これ以上持てない
 EN: You can't hold any more.
 
-@23BD60 max=8
+@23BD60 max=11
 JP: どどめ色
 EN: Mulberry
 
@@ -7842,11 +7842,11 @@ EN: Yellow
 JP: 青色
 EN: Blue
 
-@23BD7C max=8
+@23BD7C max=11
 JP: ピンク色
 EN: Pink
 
-@23BD88 max=10
+@23BD88 max=11
 JP: オレンジ色
 EN: Orange
 
@@ -7866,27 +7866,27 @@ EN: Red
 JP: ★迷いの洞窟出口がありますね★\n
 EN: 
 
-@23BE58 max=33
+@23BE58 max=35
 JP: ★迷いの洞窟入り口がありますね★\n
 EN: 
 
-@23BE7C max=37
+@23BE7C max=39
 JP: ★★★迷いの洞窟に突入しますた★★★\n
 EN: 
 
-@23BEA4 max=57
+@23BEA4 max=59
 JP: ※ここにくるということは何かミスってますよ！okbMayoi.cで\n
 EN: 
 
-@23BEE0 max=62
+@23BEE0 max=63
 JP: おめでとう。今日は運が良かったね。洞窟の出口までご案内するよ。
 EN: Congratulations! Lucky day! I'll lead you to the cave exit.
 
-@23BF20 max=52
+@23BF20 max=55
 JP: さっきは運が悪かったみたいだね。もういちど入るかい？
 EN: Bad luck last time, huh? Want to try again?
 
-@23BF58 max=50
+@23BF58 max=51
 JP: ここは、まよいの洞窟だよ。運試しに入ってみるかい？
 EN: This is Maze Cave. Want to try your luck?
 
@@ -7898,15 +7898,15 @@ EN:
 JP: はい<n>いいえ
 EN: Yes<n>No
 
-@23C014 max=52
+@23C014 max=55
 JP: とるべき道は二つに一つ。左か右か、さあどっちに行く？
 EN: Two paths: left or right. Which will you take?
 
-@23C04C max=50
+@23C04C max=51
 JP: 左か右かどちらでも、ピンときたほうにすすんでくれ。
 EN: Left or right? Trust your gut and go.
 
-@23C080 max=46
+@23C080 max=47
 JP: これが最後の分かれ道だよ。右か左か選んでくれ。
 EN: The final fork! Choose right or left.
 
@@ -7922,11 +7922,11 @@ EN: %s goes<n>here, it seems.
 JP: %sを置いた！
 EN: Placed %s!
 
-@23C270 max=41
+@23C270 max=43
 JP: %sを置いた！<n>新たな道が開かれたようだ！
 EN: Placed %s!<n>A new path has opened!
 
-@23C29C max=101
+@23C29C max=103
 JP: おめでとう！<n>全ての黄金像が配置されました！<n>福福の島に帰ったら<n>プッカの店に行ってみるといいよ！
 EN: Well done!<n>All gold statues are in place!<n>Back on Fukufuku Island,<n>visit Pukka's General Store!
 
@@ -7934,11 +7934,11 @@ EN: Well done!<n>All gold statues are in place!<n>Back on Fukufuku Island,<n>vis
 JP: ﾊ射捨赦斜叱執失嫉室悉湿漆疾質実蔀篠偲柴磁｡､｡.
 EN: 
 
-@23CD34 max=22
+@23CD34 max=23
 JP: ｻ｡擎ｲｻﾍｻ犧ｻﾏｷｼｬﾈ蠍ｦｽ
 EN: 
 
-@23E480 max=48
+@23E480 max=50
 JP: ﾛI?ﾛﾉ?ﾚI@h!"4ﾚI@ﾚIﾀﾛﾉｿﾛﾉ?ﾛI?ﾛIｿ萢@萢ﾀ
 EN: 
 
@@ -7946,7 +7946,7 @@ EN:
 JP: Z\n<\nZ<Z\n<<\nZ福福先生
 EN: 
 
-@240FE0 max=23
+@240FE0 max=11
 JP: マリアン
 EN: Marian
 
@@ -8466,8 +8466,8 @@ EN: Pentagon 3
 JP: パコン王子
 EN: Prince Pakon
 
-@243EE8 max=23
-JP: ペコン王子
+@243EEC max=79
+JP: ペコン王子
 EN: Prince Pekon
 
 @243F44 max=79
@@ -8562,7 +8562,7 @@ EN: Panda
 JP: ボルト
 EN: Bolt
 
-@244784 max=79
+@244784 max=7
 JP: カッパ
 EN: Kappa
 
@@ -8758,7 +8758,7 @@ EN: Panda
 JP: ボルト
 EN: Bolt
 
-@2458B4 max=79
+@2458B4 max=7
 JP: カッパ
 EN: Kappa
 
@@ -8870,8 +8870,8 @@ EN:
 JP: 33\tC\nｷ催獣ﾍﾃ
 EN: 
 
-@28E161 max=14
-JP: 錚q}xﾃR乘ﾃ
+@28E162 max=13
+JP: 錚q}xﾃR乘ﾃ
 EN: 
 
 @29D872 max=7
@@ -8894,7 +8894,7 @@ EN: Yellow
 JP: オレンジ
 EN: Orange
 
-@2A7254 max=8
+@2A7254 max=7
 JP: ピンク
 EN: Pink
 
@@ -8902,7 +8902,7 @@ EN: Pink
 JP: 茶色
 EN: Brown
 
-@2A7290 max=32
+@2A7290 max=11
 JP: タイトル
 EN: Title
 
@@ -9010,8 +9010,8 @@ EN: Goldfish
 JP: クイズ
 EN: Quiz
 
-@2A77C0 max=11
-JP: 通常
+@2A77C4 max=7
+JP: 通常
 EN: Normal
 
 @2A77D5 max=6
@@ -9026,7 +9026,7 @@ EN:
 JP: ﾓﾒﾒ>澈l>囮?
 EN: 
 
-@2AE924 max=63
+@2AE924 max=47
 JP: 天秤座<n>わし座<n>ペガサス座<n>白鳥座<n>やめる
 EN: Libra<n>Aquila<n>Pegasus<n>Cygnus<n>Quit
 

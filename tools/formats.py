@@ -61,6 +61,14 @@ def column_capacities(d, strings, lo, hi, max_hits=24):
     never overwrite a numeric field that happens to be zero in one record.
     """
     starts = {a: b for a, b in strings}
+    order = sorted(starts)
+    prev_gap, next_gap = {}, {}
+    for i, a in enumerate(order):
+        prev_gap[a] = a - order[i - 1] if i else None
+        next_gap[a] = order[i + 1] - a if i + 1 < len(order) else None
+
+    def same_shape(x, y):
+        return prev_gap[x] == prev_gap[y] or next_gap[x] == next_gap[y]
     caps = {}
     for a, b in strings:
         q = _nz_after(d, b, hi)
@@ -75,7 +83,11 @@ def column_capacities(d, strings, lo, hi, max_hits=24):
             ks = [0]
             for sgn in (1, -1):
                 k = 1
-                while k <= max_hits and (a + sgn * k * S) in starts:
+                # a record only counts if it has the same shape (the previous
+                # string sits at the same distance), so the chain never runs on
+                # into a neighbouring table that happens to share the stride
+                while k <= max_hits and (a + sgn * k * S) in starts \
+                        and prev_gap[a + sgn * k * S] == prev_gap[a]:
                     ks.append(sgn * k)
                     k += 1
             if len(ks) >= 3 and (best is None or len(ks) > len(best[1])):

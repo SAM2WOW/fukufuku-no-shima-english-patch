@@ -18,6 +18,14 @@ class ElfHandler:
     kind = 'elf'
     RELOC_MAX = 63                                   # max bytes for a relocatable string
     DATE_MARKERS = (0x2299C8, 0x2299CC, 0x2299D0)    # 年 月 日 of the birthday entry
+    # Field sizes checked by hand where the automatic table detection cannot
+    # prove them (string offset: bytes available excluding the NUL).
+    CAP_OVERRIDES = {
+        0x2421B4: 79,     # 福福先生: character record, name field ends at the int at +0x50
+        0x1F1FE4: 19,     # 賢者の像: item category record, name ends at the id at +0x14
+        0x1F2024: 19,     # 髪型: same table
+        0x2A74C4: 31,     # 起動回数: stats list, 0x20-byte entries
+    }
 
     # ------------------------------------------------------------ ELF layout
     def _shdrs(self, d):
@@ -106,6 +114,12 @@ class ElfHandler:
             for a, b in find_strings(d, lo, hi, 1):
                 if d[a - 1] != 0:
                     continue
+                # bytes that can never start real text (0xFF.. of an int -1,
+                # float tails, control codes) belong to the previous field
+                while a < b and (d[a] in (0x80, 0xA0, 0xFD, 0xFE, 0xFF) or d[a] < 0x20):
+                    a += 1
+                if b - a < 2:
+                    continue
                 # A lone single-byte char glued in front of the Japanese is the
                 # tail of the previous field (e.g. the 0x41 of float 16.0), not
                 # part of the string: "Aはい" is really "はい". Strings here are
@@ -152,6 +166,7 @@ class ElfHandler:
                     # spill into what could be a zeroed variable.
                     if not in_table:
                         cap = min(cap, ((b + 1 + 3) & ~3) - a - 1)
+                cap = self.CAP_OVERRIDES.get(a, cap)
                 inplace = cap
                 if a in refs and a < seg1_off:
                     cap = max(cap, self.RELOC_MAX)
