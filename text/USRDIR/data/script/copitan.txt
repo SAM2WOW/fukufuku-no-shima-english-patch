@@ -1,0 +1,235 @@
+# source: PSP_GAME/USRDIR/data/script/copitan.scb
+# format: scb
+# width: 44
+
+@5144 max=639
+JP: コピタンが起動するには、<n><HNUM>のエネルギーが必要だ
+EN: Copitan needs <HNUM> energy<n>to activate.
+
+@53C4 max=639
+JP: 与えるソウルを選んでください。
+EN: Choose which Soul to give.
+
+@5644 max=639
+JP: <ITEM>でいいですか？
+EN: Use <ITEM>?
+
+@58C4 max=639
+JP: コピタンに<HNUM2>のエネルギーを与えた<n>次の段階に成長するには、<n><HNUM>のエネルギーが必要だ
+EN: You gave Copitan <HNUM2> energy.<n>He needs <HNUM> energy<n>to reach his next stage.
+
+@5B44 max=639
+JP: コピタンに<HNUM2>のエネルギーを与えた<n>コピタンが起動した<n>星座占いができるようになった
+EN: You gave Copitan <HNUM2> energy.<n>Copitan activated!<n>Star sign fortunes are now available.
+
+@5DC4 max=639
+JP: よう、どうした、まだ何か用かい？<n>それとも俺にフォーリンラブかい？
+EN: Hey, what's up? Need something else?<n>Or have you fallen in love with me?
+
+@6044 max=639
+JP: どうした、まだ何か用かい？ハハハ！<n>ま、気が済むまで何度でも話しかけてくれ。
+EN: What, still need something? Hahaha!<n>Well, chat me up all you like.
+
+@62C4 max=639
+JP: おー。あんたが<PN>かあ。<n>ちわっす、ボンジュール、スシ食いねえだぜ！<p>俺はコピタン。ま、自分で言うのもなんだが<n>ビルビドゥーってオヤジの最高傑作だ。
+EN: Oh, so you're <PN>!<n>Hey, bonjour, and pass the sushi!<p>I'm Copitan. Hate to toot my own horn,<n>but I'm that old guy Bilbidoo's masterpiece.
+
+@6544 max=639
+JP: おう、<PN>じゃねーか。<n>どうだい？今日も俺はカッコいいだろ？
+EN: Hey, if it isn't <PN>!<n>Well? Looking sharp today, aren't I?
+
+@67C4 max=639
+JP: <PN>か。ああ、俺は絶好調さ。<n>今日も道ゆく女たちの視線が熱くて困っちまうぜ。
+EN: Oh, <PN>. Yeah, I'm in top form.<n>Every woman who walks past keeps giving me the eye. It's rough!
+
+@6A44 max=639
+JP: よう、<PN>か。
+EN: Hey, <PN>.
+
+@6CC4 max=639
+JP: おっ、<PN>じゃないか。
+EN: Well, if it isn't <PN>!
+
+@6F44 max=639
+JP: ああ、<PN>か。元気してたか？
+EN: Oh, <PN>. How've you been?
+
+@71C4 max=639
+JP: あ、<PN>じゃないか。待ってたぜ！<n>ま、俺の話を聞いてくれよ！
+EN: Hey, <PN>! Been waiting for you!<n>Come on, hear me out!
+
+@7444 max=639
+JP: <PN>！よく来たな！<n>今日は風が強くて、自慢の髪型が乱れちまうぜ！
+EN: <PN>! Glad you came!<n>This wind's messing up my magnificent hair!
+
+@76C4 max=639
+JP: <PN>！よく来たな！<n>ノストラダムスもお待ちかねだぜ！
+EN: <PN>! Glad you came!<n>Nostradamus has been waiting for you too!
+
+@7944 max=639
+JP: ふう、<PN>か。<n>ま、今日はゆっくりしっぽり話そうぜ。
+EN: Whew, it's you, <PN>.<n>Let's take it easy and have a cozy little chat.
+
+@7BC4 max=639
+JP: マツバラから話は聞いてるよ。<n>ま、これから時々、スマートな会話を楽しもうぜ。<p>ただし、いくら俺がナイスガイな人形だからって<n>惚れちゃいけねえぜ？ワハハハハ！<p>俺の特技は、冥界の人間を呼び出して<n>憑依させてやることさ。ま、短時間だけだがな。<p>冥界の占い師連中は、凄腕ぞろいだからな。<n>おまえさんの友達の運勢を占ってくれるぜ。
+EN: Matsubara told me about you.<n>Let's enjoy some sparkling conversation now and then.<p>Just don't fall for me, okay?<n>I know I'm one charming doll. Wahahaha!<p>My specialty is calling up folks from the afterlife<n>and letting them possess me. Just briefly, though.<p>The fortune-tellers over there are real pros.<n>They can tell your friends' fortunes for you.
+
+@7E44 max=639
+JP: ふう、ビルビドゥーのオヤジにも困ったもんさ。<n>冥界で女遊びに明け暮れてやがる。<p>あんなエロオヤジが、こんなにストイックで<n>ハンサムな俺を作れたなんてなあ。<p>まさにアンビリーバブル、ミラクルだぜ！<n>きっとハンサム神が降臨してたに違いねーぜ。
+EN: Man, that old guy Bilbidoo is hopeless.<n>Spends all his time chasing women in the afterlife.<p>How did a dirty old man like that create<n>a handsome guy with my iron self-control?<p>It's unbelievable! A miracle!<n>The god of good looks must've come down to lend a hand.
+
+@80C4 max=639
+JP: おー、そうだそうだ。思い出したぜ。<n>オヤジに孫がいるの知ってるかい？<p>ジルっていう子で、７歳であっちに行ったんだが<n>時々、門限破ってこっちに遊びに来るそうだ。<p>東の森に、夜になると来てるはずだぜ。<n>いつか会いにいってやってくれや。
+EN: Oh, right! Just remembered.<n>Did you know the old man has a granddaughter?<p>Her name's Jill. She crossed over when she was seven,<n>but sometimes she sneaks out past curfew to visit us.<p>She should be in the eastern forest at night.<n>Go say hi to her sometime, will ya?
+
+@8344 max=639
+JP: はっはっは！<n>おめー、なかなかいいやつだな！<p>うん！そうだな、そのうち<n>俺の中のモテモテ成分を分けてやるぜ！
+EN: Hahaha!<n>You're a pretty good sort!<p>Yeah! Tell you what.<n>One day I'll share some of my irresistible charm with you!
+
+@85C4 max=639
+JP: なぜずっと、ここに座ってるのかって？<n>ふっ、おまえさんにしちゃいい質問だ。<p>それはな、この木のそばの、このポーズが<n>ハンサムな俺を一番ハンサムに見せるからさ。<p>ここにいる俺は、まさにデンジャラス・ハンサム！<n>ふっ、俺ってのは、まったく罪な人形だぜ。
+EN: Why do I sit here all the time?<n>Heh. Pretty good question, coming from you.<p>Because this pose, right beside this tree,<n>makes handsome old me look my absolute handsomest.<p>Here, I'm dangerously handsome!<n>Heh. Being a doll this gorgeous ought to be a crime.
+
+@8844 max=639
+JP: あーもう、うるせえったらありゃしねえぜ！<n>何って、あのガイコツどもだよ。<p>おまえも邪悪な占いの一味だな？とか言って<n>しつこく勧誘してきやがる。冗談じゃねえぜ！<p>俺は正義のナイスガイだっつーの！<n>見りゃ一発でわかるだろっ？つーの！
+EN: Ugh, they just won't give it a rest!<n>Who? Those skeletons!<p>"You're into evil fortune-telling too, right?" they ask.<n>They keep trying to recruit me. Gimme a break!<p>I'm a nice guy on the side of justice!<n>One look should tell you that!
+
+@8AC4 max=639
+JP: なに？マツバラのやつ、俺の性格が<n>オヤジにそっくりだったって言ってたのか？<p>ハッハッハ！そんなわけねえよ！<n>俺の上品さは、オヤジとは正反対だぜ？<p>マツバラも、マジメな俺の舎弟とはいえ<n>ちょっとマジメすぎるんで心配してたが…<p>そんなナイスジョークが言えるようになるとは<n>ちっとは成長したようだな！ハハハ！
+EN: What? Matsubara said my personality<n>was just like the old man's?<p>Hahaha! No way!<n>I've got class! I'm his polar opposite!<p>Matsubara's my earnest little sidekick,<n>but I was worried he took things a bit too seriously...<p>Now he's cracking jokes like that?<n>Looks like the kid's coming along! Hahaha!
+
+@8D44 max=639
+JP: おいおい、俺、大変だったんだぜ？<n>こないだ、洋服屋のカトレアって娘が来てな<p>「あら、これマネキンに使えそうね」とか言って<n>俺を誘拐しようとしやがった。<p>思うに、ありゃ俺に惚れてるね。<n>素直に言えばいいのに、言い出せないんだな。
+EN: Hey, I've been through quite an ordeal!<n>That girl Cattleya from the Clothes Shop came by.<p>"Oh my, he'd make a lovely mannequin," she said,<n>and then she tried to kidnap me!<p>Way I see it, she's fallen for me.<n>She wants to confess, but she just can't find the words.
+
+@8FC4 max=639
+JP: おまえさんギター弾ける？俺は大得意だよ。<n>昔は、美貌の吟遊詩人としてだな…<p>女どもを引き連れて、世界中を旅したもんさ。<n>な、なんだよその疑いの目は。ホントだよ？
+EN: Can you play guitar? I'm a real ace.<n>Back in the day, I was a beautiful wandering minstrel...<p>Traveled the world with women flocking after me.<n>H-hey, what's with that look? It's true!
+
+@9244 max=639
+JP: こないだカラメルのおっさんと会ってなあ<n>久々に、外国語でハイソな会話を交わしたぜ。<p>「アーユーフール？」ってベタ誉めされたから<n>「謝々！」ってスマートに答えてやったぜ。
+EN: Ran into old Caramel the other day.<n>We had a fancy little chat in foreign languages.<p>He showered me with praise: "Are you a fool?"<n>So I gave him a smooth "Xie xie!"
+
+@94C4 max=639
+JP: こないだ冥界に通信入れたら、大騒ぎでさあ。<n>ヒミコって女がオヤジの家に乱入してきたらしい。<p>オヤジはその後、奥さんにボコボコにされて<n>病院送りだとよ。ブルブルブル！
+EN: Called the afterlife the other day. What a commotion!<n>Some woman named Himiko had barged into the old man's house.<p>His wife beat him black and blue afterward.<n>Sent him straight to the hospital! Brrr!
+
+@9744 max=639
+JP: おまえさんも、ずいぶんこの島になじんだなあ。<n>このまま島に住んじまえよ。ずっと俺と会えるぜ？
+EN: You've really settled into island life, huh?<n>Why not move here for good? You could see me every day!
+
+@99C4 max=639
+JP: ソウルを与える<n>占いをする<n>やめる
+EN: Give Soul<n>Get a fortune<n>Quit
+
+@9C44 max=639
+JP: ソウルがありません。
+EN: You have no Soul.
+
+@9EC4 max=639
+JP: 与えるソウルを選んでください。
+EN: Choose which Soul to give.
+
+@A144 max=639
+JP: <ITEM>でいいですか？
+EN: Use <ITEM>?
+
+@A3C4 max=639
+JP: コピタンに<HNUM2>のエネルギーを与えた<n>次の段階に成長するには、<n><HNUM>のエネルギーが必要だ
+EN: You gave Copitan <HNUM2> energy.<n>He needs <HNUM> energy<n>to reach his next stage.
+
+@A644 max=639
+JP: コピタンに<HNUM2>のエネルギーを与えた<n>コピタンに新しい機能が加わった<n>血液型占いができるようになった
+EN: You gave Copitan <HNUM2> energy.<n>Copitan gained a new function!<n>Blood type fortunes are now available.
+
+@A8C4 max=639
+JP: コピタンに<HNUM2>のエネルギーを与えた<n>コピタンに新しい機能が加わった<n>干支占いができるようになった
+EN: You gave Copitan <HNUM2> energy.<n>Copitan gained a new function!<n>Chinese zodiac fortunes are now available.
+
+@AB44 max=639
+JP: コピタンに<HNUM2>のエネルギーを与えた<n>コピタンに新しい機能が加わった<n>友達との相性占いが<n>できるようになった
+EN: You gave Copitan <HNUM2> energy.<n>Copitan gained a new function!<n>You can now check your compatibility<n>with your friends.
+
+@ADC4 max=639
+JP: ソウルを与える<n>占いをする<n>やめる
+EN: Give Soul<n>Get a fortune<n>Quit
+
+@B044 max=639
+JP: ソウルを与える<n>占いをする<n>やめる
+EN: Give Soul<n>Get a fortune<n>Quit
+
+@B2C4 max=639
+JP: 占いをする<n>相性診断<n>やめる
+EN: Get a fortune<n>Compatibility<n>Quit
+
+@B544 max=639
+JP: よし、さっそく試してみるかい、友達の占い？
+EN: All right, wanna try getting a friend's fortune?
+
+@B7C4 max=639
+JP: さて、今日も冥界とつながってるが<n>友達のことを占ってもらうかい？
+EN: Well, we're connected to the afterlife again today.<n>Want someone to tell your friend's fortune?
+
+@BA44 max=639
+JP: さーて、オヤジは今日いるかな？<n>どうだい、友達占いのために呼び出してみるかい？
+EN: Now, is the old man in today?<n>Wanna call him up for a friend's fortune?
+
+@BCC4 max=639
+JP: さーて、お待ちかねの友達占いタイムだな。<n>冥界と連絡をとってやろうか？
+EN: Time for that friend's fortune you've been waiting for!<n>Shall I get in touch with the afterlife?
+
+@BF44 max=639
+JP: オーケー、任せな。<n>じゃ、オヤジのビルビドゥーを呼び出すぜ。<p>…もしもーし。…あれ、おっさんか。<n>オヤジは？…またナンパに行ってるのかよ！<p>しょーがねーなー。じゃ、おっさんでいいや。<n>占いの客が来てるんで、軽く頼むわ。<p>あー、わりい！オヤジはいねーんだわ、いま。<n>あっちで遊びほうけてやがって、困ったもんだぜ。<p>かわりにノストラダムスっておっさんが占うから<n>勘弁してくれや。じゃ、憑依させるぜ。<p>……ガー……<n>…ピー………<p>…あー、いやいやどうもどうも。<p>わしはノストラダムス、中世の生まれでして。
+EN: Okay, leave it to me.<n>I'll call up my old man, Bilbidoo.<p>...Hello? Oh, it's you.<n>Where's the old man? Out chasing women AGAIN?!<p>Oh, fine. You'll do, then.<n>Got a customer here. Do us a quick fortune, will ya?<p>Sorry! The old man's out right now.<n>He's always off fooling around over there.<p>A guy named Nostradamus will fill in.<n>Hope that's okay. Letting him possess me now!<p>...Bzz...<n>...Beep...<p>...Ah, yes. Hello, hello.<p>I am Nostradamus, born in medieval times.
+
+@C1C4 max=639
+JP: オーケー！お安いご用だ、まかしときな。<n>…もしもーし。あ、またおっさんかよ。<p>オヤジは？合コン行ったー？相手は誰よ？<n>清少納言と紫式部？誰だそりゃ？<p>ふー。今日もノストラダムスのおっさんだ。<n>ま、おっさんも有名だったらしいし、いいよな。<p>……ガー……<n>…ピー………<p>…あー、いやいやどうもどうも。<n>わしは今日も留守番でしてな。
+EN: Okay! Piece of cake. Leave it to me.<n>...Hellooo? Oh, it's you again, gramps.<p>Where's the old man? A group date? With who?<n>Sei Shonagon and Murasaki Shikibu? Who're they?<p>Whew. Old Nostradamus again today.<n>Well, he used to be pretty famous too. He'll do.<p>...Bzzzz...<n>...Beeep...<p>...Ah, yes, hello, hello.<n>I'm minding the place again today, you see.
+
+@C444 max=639
+JP: オヤジめ、今日こそはいるだろうな。<n>…もしもーし。オヤジはいるかい？<p>温泉だと？おいおい、温泉なんてあるのか！<n>くそっ、俺もそっちに行きたくなってきたぜ。<p>ふー。というわけでノストラダムスのおっさんだ。<n>オヤジはいま温泉でウハウハらしい。<p>……ガー……<n>…ピー………<p>…あー、いやいやどうもどうも。<n>…ごほん。今日もよろしくお願いいたしますぞ。
+EN: The old man had better be in today.<n>...Hellooo? Is the old man there?<p>A hot spring? Hey, you've got those over there?!<n>Dang, now I wanna come over too!<p>Whew. So, it's old Nostradamus again.<n>The old man's living it up at a hot spring.<p>...Bzzzz...<n>...Beeep...<p>...Ah, yes, hello, hello.<n>...Ahem. A pleasure to see you again.
+
+@C6C4 max=639
+JP: さっそくですが、どちらの占いがよろしいか<n>選んでいただけますかな？
+EN: Shall we get started?<n>Please choose the kind of fortune you'd like.
+
+@C944 max=639
+JP: 星座占い<n>血液型占い<n>やめる
+EN: Star Sign Fortune<n>Blood Type Fortune<n>Quit
+
+@CBC4 max=639
+JP: さっそくですが、どちらの占いがよろしいか<n>選んでいただけますかな？
+EN: Shall we get started?<n>Please choose the kind of fortune you'd like.
+
+@CE44 max=639
+JP: 星座占い<n>血液型占い<n>干支占い<n>やめる
+EN: Star Sign Fortune<n>Blood Type Fortune<n>Chinese Zodiac<n>Quit
+
+@D0C4 max=639
+JP: ま、今日はやめとくか。けっこう疲れるしな、アレ。<n>ハハハ、なーに、俺は２４時間戦えるがな！
+EN: Well, let's call it a day. That stuff wears me out.<n>Ha ha ha! Aw, who am I kidding? I can go 24 hours straight!
+
+@D344 max=639
+JP: なんだなんだ、遠慮すんなよ。<n>ま、でも今日はやめとくか。
+EN: Hey, hey, no need to be shy!<n>Well, let's leave it for today.
+
+@D5C4 max=639
+JP: …………<n>…………<p>…っつーわけだな。<n>ノストラダムスのおっさん、サンキューな！<p>じゃ、また来いよ。洗練された大人の会話で<n>おまえさんを魅了してやるからさ。じゃな！
+EN: ...<n>...<p>...And there you have it.<n>Thanks, old Nostradamus!<p>Come back sometime. I'll dazzle you with<n>my sophisticated grown-up conversation. See ya!
+
+@D844 max=639
+JP: …………<n>…………<p>…っつーわけだな。<n>ノストラダムスのおっさん、サンキューな！<p>ま、いちおう信頼していい占いだと思うぜ。<n>じゃ、また来いよ、俺はここにいるからな。
+EN: ...<n>...<p>...And there you have it.<n>Thanks, old Nostradamus!<p>Well, I'd say you can trust that fortune. Probably.<n>Come back anytime. I'll be right here.
+
+@DAC4 max=639
+JP: …………<n>…………<p>…っつーわけだな。<n>ノストラダムスのおっさん、サンキューな！<p>さーて、じゃ、今日のコピタンタイムはここまでだ。<n>残念だろうが、また会えるさ！バーイ！
+EN: ...<n>...<p>...And there you have it.<n>Thanks, old Nostradamus!<p>All right, that's all for today's Copitan Time!<n>Hate to leave you hanging, but we'll meet again! Bye!
+
+@DD44 max=639
+JP: …………<n>…………<p>…っつーわけだな。<n>ノストラダムスのおっさん、サンキューな！<p>ふー。いいやつだなあ、おっさんは。<n>さて、じゃ、そろそろお開きにしようか。またな！
+EN: ...<n>...<p>...And there you have it.<n>Thanks, old Nostradamus!<p>Whew. What a great guy, that gramps.<n>Well, time to wrap things up. See ya!
+
+@DFC4 max=639
+JP: <<テキストチェック>><n>表示したい会話メッセージのIDを選んでください。
+EN: 

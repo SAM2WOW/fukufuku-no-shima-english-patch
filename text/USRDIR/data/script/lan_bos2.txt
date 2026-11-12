@@ -1,0 +1,91 @@
+# source: PSP_GAME/USRDIR/data/script/lan_bos2.scb
+# format: scb
+# width: 44
+
+@5144 max=639
+JP: なにをしますか？
+EN: What would you like to do?
+
+@53C4 max=639
+JP: 話す<n>やめる
+EN: Talk<n>Quit
+
+@5644 max=639
+JP: 呼ばれて飛び出て、はいこんにちは。<n>大天使ドドリエルの弟、レレミエルです。<p>え？兄と違って腰が低い？<n>はっはっは、兄と違って人格者ですから。<p>で、何かご用かな？
+EN: You rang? And here I am! Hello!<n>I'm Reremiel, Archangel Dodoriel's younger brother.<p>Hm? Much humbler than my brother, you say?<n>Ha ha ha! Well, I am the better person.<p>Now, what can I do for you?
+
+@58C4 max=639
+JP: 遊び方の説明<n>やめる
+EN: How to Play<n>Quit
+
+@5B44 max=639
+JP: 呼ばれて飛び出て、はいこんにちは。<n>大天使ドドリエルの弟、レレミエルです。<p>え？兄と違って腰が低い？<n>はっはっは、兄と違って人格者ですから。<p>で、何かご用かな？
+EN: You rang? And here I am! Hello!<n>I'm Reremiel, Archangel Dodoriel's younger brother.<p>Hm? Much humbler than my brother, you say?<n>Ha ha ha! Well, I am the better person.<p>Now, what can I do for you?
+
+@5DC4 max=639
+JP: 一人で遊ぶ<n>友達と遊ぶ<n>遊び方の説明<n>やめる
+EN: Play Solo<n>Play with Friends<n>How to Play<n>Quit
+
+@6044 max=639
+JP: んじゃ、レッツ・エンジョイ！
+EN: All right, let's have some fun!
+
+@62C4 max=639
+JP: じゃ、まず、自分が「部屋」を作るか、<n>誰かの「部屋」におじゃまするか選んでくれ。
+EN: First, choose whether to create your own "room"<n>or join someone else's.
+
+@6544 max=639
+JP: 自分で「部屋」を作る<n>友達の「部屋」に参加<n>やめる
+EN: Create a Room<n>Join a Friend's Room<n>Quit
+
+@67C4 max=639
+JP: ん、じゃ、また、<n>必要があったら呼び出してくれ。
+EN: All right, then.<n>Just call if you need me again.
+
+@6A44 max=639
+JP: 長文注意！<p>この島では、友達と一緒に遊ぶことができる。<n>もちろん、一人でも遊べるので、<p>まずは一人で遊ぶか友達と遊ぶかを決めてもらわんと<n>いかん。
+EN: Long explanation ahead!<p>On this island, you can play with your friends.<n>Of course, you can also play on your own, so...<p>First, you'll need to decide whether to play solo<n>or with friends.
+
+@6CC4 max=639
+JP: 一人で遊ぶ説明<n>友達と遊ぶ説明
+EN: Solo Play Guide<n>Multiplayer Guide
+
+@6F44 max=639
+JP: じゃ、一人で遊ぶ場合のルールを説明しよう。<p>ここ縁縁島では、<n>「週刊クロスワード」が毎週開催されておる。<p>今週の「週刊クロスワード」を手に入れていたら、<n>この島でそれを遊ぶことができる。<p>「週刊クロスワード」は福福島研究会ＨＰで<n>手に入るぞよ。<p>まー、それが売り…っていうか、<n>それしかない島じゃ。
+EN: Let me explain how to play on your own.<p>Here on En-en Island,<n>we hold a "Weekly Crossword" every week.<p>If you've picked up this week's "Weekly Crossword,"<n>you can solve it here on the island.<p>You can get the "Weekly Crossword" from<n>the Fukufuku Island Research Club website.<p>That's our main attraction... Well,<n>it's our only attraction, really.
+
+@71C4 max=639
+JP: そうじゃ、注意しておかねばならないことがある。<p>一～つ！この扉の先からここに戻ってくるには、<n>メニューから「集いの広場」を選べばよいぞ。<p>二～つ！縁縁島から福福島に帰るときは、<n>一度、「集いの広場」に戻って、<p>メニューから「福福島へ」を選べば、<p>福福島へリンクする扉が出現するぞい。<p>んなところじゃが、もう一度聞くかい？
+EN: Oh, yes. A few things to remember.<p>One! Once you've gone through this door, select<n>"Gathering Plaza" from the menu to return here.<p>Two! To return to Fukufuku Island from En-en Island,<n>first come back to Gathering Plaza.<p>Then select "To Fukufuku Island" from the menu.<p>A door leading to Fukufuku Island will appear.<p>That about covers it. Want to hear it again?
+
+@7444 max=639
+JP: ん、じゃ、また、<n>必要があったら呼び出してくれ。
+EN: All right, then.<n>Just call if you need me again.
+
+@76C4 max=639
+JP: じゃ、友達と遊ぶ場合のルールを説明しよう。<p>ここで友達と遊ぶには、まず最初に、<n>自分がみなを招待する「部屋」を作るか、<p>だれかが作った「部屋」に参加するか決める。<p>ま、どっちに決めてもやることは同じなんで、<n>ノリで決めればいいじゃろう。
+EN: Let me explain how to play with friends.<p>To play together here, first decide whether<n>to create a "room" and invite everyone in...<p>...or join a "room" someone else has created.<p>You'll be doing the same things either way,<n>so just go with whatever takes your fancy.
+
+@7944 max=639
+JP: でだ。<n>この島で何をやるかじゃが、<p>まず、みなの姿が人間の姿じゃないのに、<n>驚くことじゃろう。<p>不思議なことに、この島では、<n>自分の姿はいつもの姿のままに映るのに、<p>友達の姿は、「真の姿」として映るのじゃ。<p>また、わしの力というかサービスとして、<n>お互いの「相性度」がわかるようにしておいだぞ。<p>気まずいことにならんとイイがな。ぷぷぷ。
+EN: Now, then.<n>What can you do on this island?<p>First, you may be surprised to find<n>that your friends don't look human.<p>Strangely enough, on this island,<n>you still look like your usual self to you...<p>...but you see your friends in their "true forms."<p>And thanks to my powers, as a little service,<n>you can also see how compatible you are with each other.<p>Let's hope things don't get awkward. Hee hee!
+
+@7BC4 max=639
+JP: それから、ここには、一人では到底壊せんような<n>でっかい岩がある。<p>みなで協力して壊してみてはどうかな。<n>でだ、注意しておかねばならないことがある。<p>一～つ！岩が壊せる時間には制限がある。<n>時間が来てしまったら、岩は壊せなくなるぞい。<p>制限時間は、友達との相性で決まるぞよ。
+EN: There's also a huge rock here that you could never<n>break all by yourself.<p>Why not work together to smash it?<n>Now, a few things to remember.<p>One! You have a time limit for breaking the rock.<n>Once time runs out, you won't be able to break it.<p>The time limit depends on your compatibility with your friends.
+
+@7E44 max=639
+JP: 二～つ！この扉の先からここに戻ってくるには、<n>メニューから「集いの広場」を選べばよいぞ。<p>三～つ！縁縁島から福福島に帰るときは、<n>一度、「集いの広場」に戻って、<p>メニューの「福福島へ」を選べば、<n>福福島へリンクする扉が出現するぞい。<p>んなところじゃが、もう一度聞くかい？
+EN: Two! Once you've gone through this door, select<n>"Gathering Plaza" from the menu to return here.<p>Three! To return to Fukufuku Island from En-en Island,<n>first come back to Gathering Plaza.<p>Select "To Fukufuku Island" from the menu,<n>and a door leading to Fukufuku Island will appear.<p>That about covers it. Want to hear it again?
+
+@80C4 max=639
+JP: ん、じゃ、また、<n>必要があったら呼び出してくれ。
+EN: All right, then.<n>Just call if you need me again.
+
+@8344 max=639
+JP: ん、じゃ、また、<n>必要があったら呼び出してくれ。
+EN: All right, then.<n>Just call if you need me again.
+
+@85C4 max=639
+JP: <<テキストチェック>><n>表示したい会話メッセージのIDを選んでください。
+EN: 

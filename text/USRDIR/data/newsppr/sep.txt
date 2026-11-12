@@ -1,0 +1,123 @@
+# source: PSP_GAME/USRDIR/data/newsppr/sep.bin
+# format: rec
+# width: 42
+
+@#0
+JP: ■関東大震災記念日：１９２３年、マグニチ<n>ュード７．９の関東大震災発生。発生時が昼<n>食の時間帯に当たり、火災により被害が拡大。<n>■霞ケ浦の日：１９８２年、霞ケ浦の水質を<n>守るための条例が施行されたことを記念して。<n>■くいの日：東日本基礎工業協同組合が制定。<n>■宝塚歌劇団レビュー記念日：１９２７年の<n>日本初レビューを記念して宝塚歌劇団が制定。
+EN: * Great Kanto Earthquake Remembrance Day: In 1923, a magnitude 7.9 earthquake struck the Kanto region.<n>It hit around lunchtime,<n>and fires made the devastation worse.<n>* Lake Kasumigaura Day: Marks the 1982 enactment<n>of an ordinance protecting the lake's water quality.<n>* Foundation Pile Day: Established by the East Japan Foundation Engineering Cooperative.<n>* Takarazuka Revue Anniversary: Established by the Takarazuka Revue<n>to mark Japan's first revue performance in 1927.
+
+@#1
+JP: ■宝くじの日：く、じ、の語呂合わせから、<n>当選しても引き換え忘れてしまう時効宝くじ<n>防止を呼びかけるため制定。<n>■天心忌：美術評論家、岡倉天心の忌日。
+EN: * Lottery Day: A date pun on kuji, meaning 'lottery.'<n>Established to remind winners to claim their prizes<n>before their tickets expire.<n>* Tenshin Memorial Day: The anniversary of art critic Okakura Tenshin's death.
+
+@#2
+JP: ■ドラえもん誕生日：２１１２年、藤子・Ｆ<n>・不二雄氏の「ドラえもん」が誕生。<n>■しんくみの日：東京都信用組合協会が「く<n>み愛の日」として制定。数字の語呂合せ。<n>■草野球の日：く、さ、の語呂合せ。<n>■ホームラン記念日：１９７７年、後楽園球<n>場で巨人の王貞治選手が通算７５６号ホーム<n>ランを打ち、世界最高記録を更新した。
+EN: * Doraemon's Birthday: In 2112, Doraemon, the character created<n>by Fujiko F. Fujio, is born.<n>* Credit Union Day: Established by the Tokyo credit union association as 'Cooperative Love Day,'<n>using a number pun.<n>* Amateur Baseball Day: A date pun on kusa, from kusayakyu, meaning amateur baseball.<n>* Home Run Anniversary: In 1977, the Giants' Sadaharu Oh<n>hit his 756th career home run at Korakuen Stadium,<n>setting a new world record.
+
+@#3
+JP: ■くしの日：く、し、の語呂合わせから、美<n>容関係者が制定。<n>■関西国際空港開港記念日：１９９４年、関<n>西国際空港が開港した。世界初の本格的な海<n>上空港で、日本初の２４時間運用空港。<n>■クラシック音楽の日：数字の語呂合わせか<n>ら、日本音楽マネージャー協会が制定。
+EN: * Comb Day: Established by beauty professionals<n>as a date pun on kushi, meaning 'comb.'<n>* Kansai International Airport Opening Anniversary: The airport opened in 1994.<n>It was the world's first full-scale offshore airport<n>and Japan's first airport to operate around the clock.<n>* Classical Music Day: Established by the Japan Association of Classical Music Managers<n>based on a number pun.
+
+@#4
+JP: ■国民栄誉賞の日：１９７７年、王貞治が、<n>日本初の国民栄誉賞を受賞した日。国民栄誉<n>賞とは、前人未到の偉業を成し遂げ、多くの<n>国民から敬愛され、夢と希望を与えた人に贈<n>られる賞。<n>■石炭の日：１９９２年に通産省の呼びかけ<n>により、日本鉄鋼連盟などの団体により制定。<n>クリーンのく、コールのこ、の語呂合わせ。
+EN: * People's Honor Award Day: In 1977, Sadaharu Oh<n>became the first recipient of Japan's People's Honor Award.<n>The award recognizes people whose unprecedented achievements<n>earn widespread admiration<n>and bring people dreams and hope.<n>* Coal Day: Established in 1992 at the urging of the Ministry of International Trade and Industry<n>by groups including the Japan Iron and Steel Federation.<n>The date plays on ku from 'clean' and ko from 'coal.'
+
+@#5
+JP: ■妹の日：漫画家の畑田国男さんが制定。妹<n>の可憐さを象徴する乙女座の中間の日の前日。<n>■黒の日：京都黒染工業協同組合が制定。<n>■クロスワードの日：クロスワード作家、滝<n>沢てるお氏の提案により廣弘堂出版が制定。<n>■鹿児島黒牛・黒豚の日：鹿児島黒牛黒豚銘<n>柄販売促進協議会が制定。数字の語呂合せ。<n>■黒豆の日：黒豆製品の菊池食品工業が制定。
+EN: * Younger Sister Day: Established by manga artist Kunio Hatada.<n>It falls on the eve of Virgo's midpoint, symbolizing a younger sister's sweet charm.<n>* Black Day: Established by the Kyoto black-dyeing industry cooperative.<n>* Crossword Day: Established by Kokodo Publishing<n>at the suggestion of crossword writer Teruo Takizawa.<n>* Kagoshima Black Beef and Black Pork Day: Established by the council<n>promoting these Kagoshima brands, based on a number pun.<n>* Black Soybean Day: Established by black soybean producer Kikuchi Foods.
+
+@#6
+JP: ■ＣＭソングの日：１９５１年、初めてＣＭ<n>ソングを使ったラジオＣＭがオンエア。<n>■クリーナーの日：メガネクリーナーの製造<n>会社が制定。
+EN: * Advertising Jingle Day: In 1951, the first radio commercial<n>to feature an advertising jingle went on the air.<n>* Cleaner Day: Established by a company<n>that makes eyeglass cleaners.
+
+@#7
+JP: ■ニューヨークの日：１６６４年、マンハッ<n>タン島の南端の港がイギリスの支配下に移っ<n>た際、ヨーク公にちなみニューヨークに。<n>■サンフランシスコ平和条約調印記念日：１<n>９５１年、サンフランシスコで「日本国との<n>平和条約」が調印されたことを記念して。<n>■国際識字デー：１９６５年、イラン国王の、<n>一部軍事費を識字教育に回す提案を記念。
+EN: * New York Day: In 1664, the port at the southern tip of Manhattan<n>came under British control<n>and was renamed New York after the Duke of York.<n>* San Francisco Peace Treaty Signing Anniversary: Marks<n>the signing of the Treaty of Peace with Japan<n>in San Francisco in 1951.<n>* International Literacy Day: Commemorates the Shah of Iran's 1965 proposal<n>to redirect some military spending toward literacy education.
+
+@#8
+JP: ■救急の日：厚生省（現・厚生労働省）が数<n>字の語呂合わせから１９８２年に制定。<n>■温泉の日：数多くの温泉が点在し、「九重<n>九湯」と呼ばれる大分県九重町が制定。<n>■チョロＱの日：玩具メーカーのタカラが<n>「チョロＱ」のＰＲのために制定。<n>■世界占いの日：日本占術協会が１９９９年<n>に制定。
+EN: * Emergency Care Day: Established in 1982 by the Ministry of Health and Welfare,<n>now the Ministry of Health, Labour and Welfare, based on a number pun.<n>* Hot Spring Day: Established by Kokonoe, Oita Prefecture,<n>whose many hot springs are known as the 'Nine Hot Springs of Kokonoe.'<n>* Choro Q Day: Established by toy manufacturer Takara<n>to promote its Choro Q toy cars.<n>* World Fortune-Telling Day: Established in 1999<n>by the Japan divination association.
+
+@#9
+JP: ■下水道の日：建設省（現・国土交通省）が<n>「全国下水道促進デー」として制定。<n>■知的障害者愛護デー：知的障害者への支援<n>対策として、日本知的障害福祉連盟が制定。<n>■屋外広告の日：１９７３年、屋外広告法が<n>国会を通過したことを記念して制定。<n>■カラーテレビ放送記念日：１９６０年、Ｎ<n>ＨＫ等、５局がカラーテレビの本放送を開始。
+EN: * Sewerage Day: Established as National Sewerage Promotion Day by the Ministry of Construction,<n>now part of the Ministry of Land, Infrastructure, Transport and Tourism.<n>* Intellectual Disability Support Day: Established by the Japan intellectual disability welfare federation<n>to encourage support for people with intellectual disabilities.<n>* Outdoor Advertising Day: Established to commemorate<n>the passage of the Outdoor Advertisement Act through the Diet in 1973.<n>* Color TV Broadcasting Anniversary: In 1960, five stations, including NHK,<n>began regular color television broadcasts.
+
+@#10
+JP: ■公衆電話の日：１９００年、日本初の自動<n>公衆電話が設置されたことを記念して。<n>■愛国者の日：２００２年から米国で実施。<n>同時多発テロでたくさんの犠牲者が出た日。<n>■警察相談の日：警察への電話相談番号「＃<n>９１１０」から、警察庁が制定。各種事件の<n>相談を受け付けている。
+EN: * Payphone Day: Commemorates the installation<n>of Japan's first automatic public telephones in 1900.<n>* Patriot Day: Observed in the United States since 2002,<n>remembering those who died in the September 11 terrorist attacks.<n>* Police Consultation Day: Established by the National Police Agency<n>after its telephone advice number, #9110.<n>The service offers advice on a variety of incidents and concerns.
+
+@#11
+JP: ■宇宙の日：科学技術庁と文部省宇宙科学研<n>究所が１９９２年に制定。毛利衛さんがエン<n>デバーで宇宙へ飛びたった日。<n>■水路記念日：１９４７年、海上保安庁制定。<n>■雨の特異日：雨の確率が高い日。<n>■マラソンの日：紀元前４９０年、アテネで<n>フェイディッピデスという兵士が伝令として<n>走り勝利を告げた後、絶命したといわれる日。
+EN: * Space Day: Established in 1992 by the Science and Technology Agency<n>and the Ministry of Education's Institute of Space and Astronautical Science.<n>It marks the day Mamoru Mohri flew into space aboard Endeavour.<n>* Hydrography Day: Established by the Japan Coast Guard in 1947.<n>* Rain-Prone Day: A date with an unusually high chance of rain.<n>* Marathon Day: In 490 BC, a soldier named Pheidippides<n>is said to have run to Athens with news of victory,<n>then died after delivering his message.
+
+@#12
+JP: ■世界の法の日：１９６５年、９月１３日か<n>らワシントンで開催された「法による世界平<n>和第２回世界会議」で宣言。<n>■司法保護記念日：犯罪の予防と犯罪者の更<n>正を見守る保護機関などについて、理解を得<n>る目的で設けられた日。<n>■乃木大将の日：１９１２年、乃木希典大将<n>が明治天皇の大喪の日に殉死した。
+EN: * World Law Day: Proclaimed in 1965<n>at the Second World Conference on World Peace Through Law,<n>which opened in Washington on September 13.<n>* Offender Rehabilitation Day: Established to raise awareness<n>of organizations that help prevent crime<n>and support offenders' rehabilitation.<n>* General Nogi Day: In 1912, General Maresuke Nogi<n>took his own life on the day of Emperor Meiji's funeral.
+
+@#13
+JP: ■セプテンバー・バレンタイン：女性から別<n>れを持ち出してもよい日とされる。<n>■メンズ・バレンタインデー：日本ボディフ<n>ァッション協会制定の、女性に下着を贈る日。<n>■十字架称賛の日：３２０年頃、ゴルゴダの<n>丘でキリストがはりつけにされた十字架を聖<n>ヘレナが発見した日といわれている。
+EN: * September Valentine: Said to be a day<n>when women may initiate a breakup.<n>* Men's Valentine's Day: Established by the Japan Body Fashion Association<n>as a day to give women gifts of underwear.<n>* Exaltation of the Holy Cross: Said to mark the day around AD 320<n>when Saint Helena discovered the cross on which Christ was crucified<n>on the hill of Golgotha.
+
+@#14
+JP: ■老人の日：２００３年から祝日法の改正に<n>より「敬老の日」が９月第３月曜日となった<n>ため、この日を記念日として残す為に制定。<n>■スカウトの日：ボーイスカウトではこの日<n>から新しい年度が始まる。<n>■シャウプ勧告の日：１９４９年、税制改革<n>案「シャウプ勧告」が公表された。<n>■ヒジキの日：三重県ヒジキ協同組合が制定。
+EN: * Senior Citizens' Day: From 2003, a change to the holiday law<n>moved Respect for the Aged Day to September's third Monday.<n>This observance preserves the original date.<n>* Scout Day: The Boy Scouts' new year<n>begins on this day.<n>* Shoup Recommendations Day: In 1949, the tax reform proposals<n>known as the Shoup Recommendations were released.<n>* Hijiki Day: Established by the Mie Prefecture hijiki seaweed cooperative.
+
+@#15
+JP: ■国際オゾン層保護デー：１９９５年の国連<n>総会で決議された国際デーの一つ。<n>■ハイビジョンの日：画面の縦横の比率が９<n>対１６であることから通商産業省が制定。<n>■マッチの日：１９４８年、配給制だったマ<n>ッチの自由販売が認められた。<n>■競馬の日：１９５４年、日本中央競馬会<n>（ＪＲＡ）が発足した。
+EN: * International Day for the Preservation of the Ozone Layer:<n>One of the international observances adopted by the UN General Assembly in 1995.<n>* HDTV Day: Established by the Ministry of International Trade and Industry<n>because HDTV screens have a height-to-width ratio of 9:16.<n>* Match Day: In 1948, matches could once again be sold freely<n>after being subject to rationing.<n>* Horse Racing Day: In 1954, the Japan Racing Association<n>(JRA) was founded.
+
+@#16
+JP: ■モノレール開業記念日：１９６４年、浜松<n>町～羽田空港の日本初旅客用のモノレール、<n>東京モノレールが開業。遊覧用のものでは上<n>野動物園に作られたものが最初。<n>■台風襲来の特異日：過去のデータから、台<n>風襲来の回数が多いとされる日。
+EN: * Monorail Opening Anniversary: In 1964, the Tokyo Monorail opened<n>between Hamamatsucho and Haneda Airport as Japan's first passenger monorail.<n>Japan's first monorail for sightseeing<n>had been built at Ueno Zoo.<n>* Typhoon-Prone Day: Historical records suggest<n>that typhoons strike unusually often on this date.
+
+@#17
+JP: ■満州事変勃発：１９３１年、中国、奉天郊<n>外の柳条湖で、関東軍が満州鉄道の線路を爆<n>破。その後、満洲南部の要地を占拠した。<n>■かいわれ大根の日：１９８６年、日本かい<n>われ協会が、かいわれ大根の良さをアピール<n>しようと制定。
+EN: * Outbreak of the Manchurian Incident: In 1931, the Kwantung Army<n>blew up a section of the South Manchuria Railway at Liutiaohu, near Mukden, China.<n>It then occupied key locations in southern Manchuria.<n>* Radish Sprout Day: Established in 1986<n>by the Japan radish sprout association<n>to spread the word about the appeal of radish sprouts.
+
+@#18
+JP: ■苗字の日：１８７０年、太政官布告により<n>平民も苗字を持つことが許された日。しかし<n>実際には普及せず、国民が姓を名乗ることを<n>義務づける布告が、５年後に改めてなされた。<n>■子規忌：俳人、歌人の正岡子規の忌日。
+EN: * Surname Day: In 1870, a government proclamation<n>allowed commoners to adopt surnames. Few actually did so,<n>and another proclamation five years later<n>made surnames compulsory for all citizens.<n>* Shiki Memorial Day: The anniversary of haiku and tanka poet Masaoka Shiki's death.
+
+@#19
+JP: ■空の日：１９１１年、山田猪三郎氏が開発<n>した山田式飛行船の初飛行を記念。「航空の<n>日」とされていたが、１９９２年に現在の名<n>称に。<n>■お手玉の日：日本のお手玉の会が制定。お<n>手玉の魅力を広くアピールする日。<n>■バスの日：１９０３年、日本で初めてバス<n>会社が本格的に営業したことにちなんで。
+EN: * Sky Day: Commemorates the 1911 maiden flight<n>of the Yamada airship, developed by Inosaburo Yamada.<n>Originally known as Aviation Day,<n>it received its current name in 1992.<n>* Otedama Day: Established by the Japan Otedama Association<n>to celebrate traditional beanbag juggling.<n>* Bus Day: Marks the start of Japan's first<n>full-scale commercial bus service in 1903.
+
+@#20
+JP: ■ファッションショーの日：１９２７年、銀<n>座で日本初のファッションショーが行われた。<n>■国際平和デー（世界停戦日）：１９８１年、<n>国連総会で制定。<n>■秋の全国安全週間：１９４８年から制定し<n>実施。秋は原則として２１日～３０日まで。<n>■世界アルツハイマーデー：１９９４年、国<n>際アルツハイマー病協会の国際会議で採択。
+EN: * Fashion Show Day: In 1927, Japan's first fashion show<n>was held in Ginza.<n>* International Day of Peace (Global Ceasefire Day): Established in 1981<n>by the UN General Assembly.<n>* National Autumn Safety Campaign: Held since 1948.<n>The autumn campaign generally runs from September 21 to 30.<n>* World Alzheimer's Day: Adopted in 1994<n>at an international conference of Alzheimer's Disease International.
+
+@#21
+JP: ■孤児院の日：１８８７年、医師、石井十次<n>が日本初の孤児院「孤児教育会」を創設。<n>■国際ビーチクリーンアップデー：サンフラ<n>ンシスコの海洋自然保護センターが１９８５<n>年から実施。地球環境への影響などを調査。<n>■救世軍日本伝道記念日：１８９５年、救世<n>軍日本支部が設立された。伝道と社会事業を<n>行う。
+EN: * Orphanage Day: In 1887, physician Juji Ishii<n>founded Japan's first orphanage, the Orphan Education Society.<n>* International Coastal Cleanup Day: Organized since 1985<n>by San Francisco's Center for Marine Conservation.<n>The cleanup also studies impacts on the global environment.<n>* Salvation Army Japan Mission Anniversary: In 1895,<n>the Salvation Army established its Japanese branch,<n>carrying out missionary work and social services.
+
+@#22
+JP: ■万年筆の日：１８０９年、イギリスのフォ<n>ルシュが金属製の軸内にインクを貯蔵できる<n>筆記具を考案、特許を取得。<n>■不動産の日：全国宅地建物取引業協会連合<n>会が、１９８４年に制定。数字の語呂合わせ。<n>■海王星の日：１８４６年、ベルリン天文台<n>のガレが海王星を発見。ル・ベリエとアダム<n>スが、共同発見者とされる。
+EN: * Fountain Pen Day: In 1809, Britain's Folsch<n>devised a writing instrument that stored ink inside a metal barrel<n>and obtained a patent for it.<n>* Real Estate Day: Established in 1984 by the national federation<n>of real estate transaction associations, based on a number pun.<n>* Neptune Day: In 1846, Galle discovered Neptune<n>at the Berlin Observatory. Le Verrier and Adams<n>are recognized as co-discoverers.
+
+@#23
+JP: ■畳の日：全国畳産業振興会が制定。<n>■清掃の日：厚生労働省が実施。１９７１年、<n>「廃棄物の処理及び清掃に関する法律」が施<n>行。<n>■みどりの窓口記念日：１９６５年、国鉄<n>（現・ＪＲ）の全国約１５０の駅に、コンピ<n>ュータを使った指定券発売窓口「みどりの窓<n>口」が設置された。
+EN: * Tatami Day: Established by the National Tatami Industry Promotion Association.<n>* Cleaning Day: Observed by Japan's Ministry of Health, Labour and Welfare. The Waste Management and Public Cleansing Act took effect on this day in 1971.<n>* Green Ticket Window Anniversary: In 1965, Japanese National Railways (now JR) introduced computerized reserved-seat ticket counters called "Midori no Madoguchi" at about 150 stations nationwide.
+
+@#24
+JP: ■１０円カレーの日：１９８３年から、日比<n>谷公園内のレストラン「松本楼」で、１０円<n>以上募金した人にカレーを提供。交通遺児育<n>英基金に寄附される。<n>■藤ノ木古墳記念日：１９８５年、奈良県斑<n>鳩町の藤ノ木古墳の石室等が発堀された。
+EN: * 10-Yen Curry Day: Since 1983, Matsumotoro restaurant in Hibiya Park has served curry to anyone donating at least 10 yen. Proceeds go to a scholarship fund for children who have lost parents in traffic accidents.<n>* Fujinoki Tomb Anniversary: In 1985, excavations uncovered the burial chamber and other features of Fujinoki Tomb in Ikaruga, Nara Prefecture.
+
+@#25
+JP: ■伊勢湾台風の日：１９５９年、東海地方等<n>に台風１５号が来襲し、明治以来最大の被害<n>を残した。後に「伊勢湾台風」と呼ばれるよ<n>うになった。<n>■ワープロの日：１９７８年、東芝が世界初<n>の日本語ワープロを発売。<n>■台風襲来の特異日：過去のデータから、台<n>風襲来の回数が多いとされる日。
+EN: * Ise Bay Typhoon Day: In 1959, Typhoon No. 15 struck the Tokai region and other areas, causing the worst typhoon damage since the Meiji era began. It later became known as the Ise Bay Typhoon.<n>* Word Processor Day: In 1978, Toshiba released the world's first Japanese word processor.<n>* Typhoon-Prone Day: Historical records show that typhoons strike unusually often on this date.
+
+@#26
+JP: ■世界観光の日：世界観光機関が制定し、加<n>盟各国で観光推進のための活動が行われる日。<n>■女性ドライバーの日：１９１７年、栃木県<n>の渡辺はまさんが、日本の女性としては初め<n>て自動車の運転免許を取得したことに由来。
+EN: * World Tourism Day: Established by the World Tourism Organization. Member countries hold activities to promote tourism.<n>* Women Drivers' Day: In 1917, Hama Watanabe of Tochigi Prefecture became the first woman in Japan to obtain a driver's license.
+
+@#27
+JP: ■中秋の名月：旧暦八月十五日の月を中秋の<n>名月、芋名月などと呼び、月見をする慣わし。<n>■プライバシーデー：１９６４年、日本でプ<n>ライバシーが争点となった初めての裁判で、<n>判決が下った日。<n>■パソコン記念日：１９７９年、日本電気が<n>パーソナルコンピュータを発売し、パソコン<n>ブームの火附け役となった。
+EN: * Harvest Moon: Traditionally, people gather to admire the moon on the 15th day of the eighth lunar month. It is called the Mid-Autumn Moon or the Taro Moon.<n>* Privacy Day: In 1964, a ruling was issued in Japan's first court case concerning the right to privacy.<n>* Personal Computer Anniversary: In 1979, NEC released a personal computer that helped spark Japan's PC boom.
+
+@#28
+JP: ■クリーニングの日：全国クリーニング環境<n>衛生同業組合連合会が制定。数字の語呂合せ。<n>■招き猫の日：日本招き猫協会が制定。「く<n>る（９）ふ（２）く（９）」（来る福）の語<n>呂合せ。<n>■日中国交正常化の日：１９７２年、日本と<n>中華人民共和国との間の国交正常化共同声明<n>の調印式が北京で行われた。
+EN: * Dry Cleaning Day: Established by Japan's national federation of dry-cleaning trade associations. The date is a Japanese number pun.<n>* Beckoning Cat Day: Established by the Japan Maneki Neko Club. The numbers 9-2-9 suggest "kuru fuku," meaning "good fortune comes."<n>* Japan-China Diplomatic Normalization Day: In 1972, Japan and the People's Republic of China signed a joint statement in Beijing to normalize diplomatic relations.
+
+@#29
+JP: ■くるみの日：「く（９）るみ（３）はまる<n>い（０）」の語呂合せで制定。<n>■クレーンの日：日本クレーン協会とボイラ<n>・クレーン協会が制定。クレーン等安全規則<n>が公布された日。
+EN: * Walnut Day: The date, 9/30, is a Japanese number pun suggesting "kurumi wa marui," meaning "walnuts are round."<n>* Crane Day: Established by the Japan Crane Association and the Japan Boiler and Crane Safety Association. It marks the day safety regulations for cranes and related equipment were issued.

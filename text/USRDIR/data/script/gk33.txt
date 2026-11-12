@@ -1,0 +1,247 @@
+# source: PSP_GAME/USRDIR/data/script/gk33.scb
+# format: scb
+# width: 44
+
+@5144 max=639
+JP: む？見たな？<p>我の姿を見てしまったな？<n>ふははは！哀れなやつめ！<p>我らはガイコツナンバーズ！<n>邪悪な秘密結社なのだ！<p>そして我は、ナンバー<GN>！<n>自分で言うのもなんだが、幹部候補だ！
+EN: Hm? You saw me?<p>You have gazed upon my fearsome form?<n>Fwahaha! You poor fool!<p>We are the Skull Numbers!<n>An evil secret society!<p>And I am Number <GN>!<n>Officer material, if I do say so myself!
+
+@53C4 max=639
+JP: む？おまえは<PN>！<n>最近ウワサの、我らの敵だな？<p>我はガイコツナンバー<GN>！<n>ここで会ったが百年目だ！ふはは！
+EN: Hm? You're <PN>!<n>Our enemy everyone's been talking about!<p>I am Skull Number <GN>!<n>At last, your reckoning is at hand! Fwahaha!
+
+@5644 max=639
+JP: …ヤア！元気かーい！<n>ずいぶん顔色いいじゃん！<p>…と、油断させておいて<n>トウッ！<p>…ふはははは！愚かな奴め！<n>我の絶妙の声色に騙されたな！<p>我はガイコツナンバー<GN>！<n>どうだ、驚いたか、ふははは！<p>もはや貴様に勝ち目はない！<n>大人しく降参するがいい！
+EN: ...Hey there! How's it going?<n>You're looking great!<p>...And with your guard down...<n>HIYAH!<p>...Fwahahaha! You fool!<n>My flawless acting had you completely fooled!<p>I am Skull Number <GN>!<n>Surprised? Fwahaha!<p>You have no hope of victory now!<n>Surrender quietly!
+
+@58C4 max=639
+JP: む！おまえは<PN>！<n>なんだ、また我らにやられに来たか！<p>我はガイコツナンバー<GN>！<n>返り討ちにしてやる！カモーン！
+EN: Ah! It's you, <PN>!<n>Back for another beating, are you?<p>I am Skull Number <GN>!<n>I'll send you packing! Come on!
+
+@5B44 max=639
+JP: 我らの目的は、邪悪な占いによって<n>この世を支配することなのだ！ふはは！<p>具体的には、恐怖の「あだな占い」で<n>全人類を精神的に打ちのめすのだ！<p>…む？聞いたな？<n>我らの正体を聞いてしまったな？<p>聞かれたからには覚悟してもらおう。<n>ふははは！泣け！叫べ！
+EN: Our goal is to rule the world<n>through evil fortune-telling! Fwahaha!<p>Specifically, our dreaded nickname fortunes<n>will crush the spirit of all humanity!<p>...Hm? You heard that?<n>You have learned our true identity?<p>Then prepare to face the consequences!<n>Fwahaha! Weep! Scream!
+
+@5DC4 max=639
+JP: 我らは巨大な秘密結社なのだ！<n>全部で、４０人…いや、５０人…<p>ええと、ひいふうみい…<p>…ふ、ふはは！<n>そんなことはどうでもよい！
+EN: Our secret society is vast!<n>We have forty... No, fifty members...<p>Let's see... One, two, three...<p>...F-Fwahaha!<n>Such details are irrelevant!
+
+@6044 max=639
+JP: ガイコツナンバーズ結成より３０年！<n>我が結社は、着々と版図を広げてきた！<p>あと５０年もあれば<n>この島の四分の一は支配できる！<p>これが何を意味するかわかるか？<n>つまり…<p>この調子でいくと<n>世界征服まであと一歩ということだ！
+EN: Thirty years since the Skull Numbers arose!<n>Our territory has steadily expanded!<p>In just fifty more years,<n>we could rule a quarter of this island!<p>Do you know what that means?<n>It means...<p>At this rate, we're just one step away<n>from world domination!
+
+@62C4 max=639
+JP: 我らの目的は、邪悪な占いによって<n>この世を支配することなのだ！ふはは！<p>具体的には、恐怖の「あだな占い」で<n>全人類を精神的に打ちのめすのだ！<p>…む？聞いたな？<n>我らの正体を聞いてしまったな？<p>聞かれたからには覚悟してもらおう。<n>ふははは！泣け！叫べ！
+EN: Our goal is to rule the world<n>through evil fortune-telling! Fwahaha!<p>Specifically, our dreaded nickname fortunes<n>will crush the spirit of all humanity!<p>...Hm? You heard that?<n>You have learned our true identity?<p>Then prepare to face the consequences!<n>Fwahaha! Weep! Scream!
+
+@6544 max=639
+JP: 我らは巨大な秘密結社なのだ！<n>全部で、４０人…いや、５０人…<p>ええと、ひいふうみい…<p>…ふ、ふはは！<n>そんなことはどうでもよい！
+EN: Our secret society is vast!<n>We have forty... No, fifty members...<p>Let's see... One, two, three...<p>...F-Fwahaha!<n>Such details are irrelevant!
+
+@67C4 max=639
+JP: ガイコツナンバーズ結成より３０年！<n>我が結社は、着々と版図を広げてきた！<p>あと５０年もあれば<n>この島の四分の一は支配できる！<p>これが何を意味するかわかるか？<n>つまり…<p>この調子でいくと<n>世界征服まであと一歩ということだ！
+EN: Thirty years since the Skull Numbers arose!<n>Our territory has steadily expanded!<p>In just fifty more years,<n>we could rule a quarter of this island!<p>Do you know what that means?<n>It means...<p>At this rate, we're just one step away<n>from world domination!
+
+@6A44 max=639
+JP: ふははは、聞いておどろくな！<p>我々は、素晴らしい情報を<n>ゲットしたのだぞ！<p>「ものしり海岸」に、われらの祖先<n>ガイコツスリーパーズの像があるという！<p>それこそ、我らの世界征服の<n>新たなカギとなるアイテムなのだ！<p>もはや勝ったも同然よ！ふははは！
+EN: Fwahaha! Prepare to be amazed!<p>We have acquired<n>some magnificent intelligence!<p>A statue of our ancestors, the Skull Sleepers,<n>stands on Know-It-All Coast!<p>That very statue shall be the new key<n>to our conquest of the world!<p>Victory is as good as ours! Fwahaha!
+
+@6CC4 max=639
+JP: くっ、それにしても…<p>ガイコツ大魔王様さえ<n>万全の体調でおられたら…。<p>花粉症とギックリ腰のせいで<n>我らが魔王様は動けないのだ！<p>くっ、無念だ！
+EN: Grr... If only...<p>If only our mighty Skull Overlord<n>were in perfect health...<p>Hay fever and a bad back<n>have left our lord unable to move!<p>Grr! The injustice!
+
+@6F44 max=639
+JP: ふふふ、その目、その表情…<n>ふふふ、我は見抜いているぞ！<p>おまえももう、我らが占いの虜よ！<p>おとなしく、わが結社に<n>忠誠を誓うのだ！ふはは！
+EN: Heh heh heh... Those eyes! That expression!<n>I can see right through you!<p>You, too, are in thrall to our fortunes!<p>Now swear your allegiance<n>to our society! Fwahaha!
+
+@71C4 max=639
+JP: ふはは！ひとつ教えてやろう！<p>ガイコツナンバーズに<n>給与は出ない！<p>全部ボランティアだ！<n>しかし泣かないぞ！
+EN: Fwahaha! Let me tell you something!<p>The Skull Numbers<n>receive no salary!<p>It's all volunteer work!<n>But I shall not cry!
+
+@7444 max=639
+JP: ふははは！貴様は知るまい！<p>我らがガイコツ大魔王様の<n>鎮座まします場所を！<p>そぞろ山の、洞窟の奥深くで<n>花粉症の治療中であることなど<p>貴様には、思いもつかない<n>秘密なのだ！ふははは！
+EN: Fwahaha! You could never guess...<p>The place where our mighty<n>Skull Overlord resides!<p>Deep in a cave on Wanderlust Mountain,<n>receiving treatment for hay fever...<p>Such a secret would never<n>even cross your mind! Fwahahaha!
+
+@76C4 max=639
+JP: ふはは！ひとつ教えてやろう！<p>我らガイコツナンバーズは<n>人類の歴史のはじめより…<p>名を変え、活動内容を変え<n>暗躍を続けてきたのだ！<p>詳しくは、ガイコツ像に添付された<n>邪悪な文書を読むがいい！<p>そして、邪悪な歴史に震えるがいい！<n>ふはははは！
+EN: Fwahaha! Let me tell you something!<p>Since the dawn of human history,<n>we Skull Numbers have...<p>Changed our name and our activities,<n>working tirelessly in the shadows!<p>For details, read the evil document<n>attached to the skeleton statue!<p>Then tremble at our wicked history!<n>Fwahahaha!
+
+@7944 max=639
+JP: ふははは！聞いて驚くな！<p>貴様が、一度手に入れたアイテムは<n>特殊なものをのぞいて…<p>ポッコという生物の経営する店で<n>買うことができるのだ！<p>だが、我らは給与を貰っていないから<n>カネはいっさい持っていない！<p>つまり、我らには、まるで<n>関係のない情報なのだ！ふはは！
+EN: Fwahaha! Prepare to be amazed!<p>Once you've obtained an item,<n>apart from certain special ones...<p>You can buy it again at a shop<n>run by a creature called Pokko!<p>But since we receive no salary,<n>we have no money whatsoever!<p>In other words, this information<n>is utterly useless to us! Fwahaha!
+
+@7BC4 max=639
+JP: ふははは！懲りないやつめ！<p>ククク、それとも<n>我らに忠誠を誓う気になったか？<p>ちなみに、我が組織に忠誠を誓うと<n>特製ハンカチがもらえるぞ！
+EN: Fwahaha! You never learn!<p>Heh heh heh... Or have you finally<n>decided to swear allegiance to us?<p>Incidentally, joining our organization<n>earns you a special handkerchief!
+
+@7E44 max=639
+JP: ならば、特別サービスで<n>貴様の友達を占ってやろう！
+EN: Then, as a special service,<n>I shall tell your friend's fortune!
+
+@80C4 max=639
+JP: ふはははは！<p>我の必殺ワザ、<UC>占いで<n>貴様を地獄に送ってやろう！
+EN: Fwahahaha!<p>My ultimate technique, <UC> fortune-telling,<n>shall send you straight to the underworld!
+
+@8344 max=639
+JP: ふっ、臆したか！<n>我の勝ちだな！ふはははは！
+EN: Hah! Lost your nerve?<n>Victory is mine! Fwahahaha!
+
+@85C4 max=639
+JP: ふははは！無謀なヤツめ！<n>我が占い、受けてみよ！
+EN: Fwahaha! Reckless fool!<n>Face the might of my fortune-telling!
+
+@8844 max=639
+JP: ふふふ、ズバリ！<p><UC>占いでいうと<n>貴様は<UN>だ！
+EN: Heh heh heh... Behold the truth!<p>According to <UC> fortune-telling,<n>you are <UN>!
+
+@8AC4 max=639
+JP: …………<p>…ぷっ！<UN>だってさ！<n>うわー、ハズカシー！<p>これから貴様が何をやっても<n>「でも<UN>だしー」<p>って言われちゃうのだぞ！<n>やーいやーい、<UN>！<p>…ふふふ、どうやら精神に<n>深い傷を負ったようだな？<p>我らの恐怖、思い知ったか！<n>ふははは！…では、さらばだ！
+EN: ............<p>...Pfft! <UN>!<n>Wow, how embarrassing!<p>Whatever you do from now on,<n>people will say, "Still <UN>, though!"<p>That's what they'll say!<n>Nyah nyah! <UN>!<p>...Heh heh heh. It seems I've dealt<n>a deep wound to your spirit!<p>Now you know true terror!<n>Fwahaha! ...Farewell!
+
+@8D44 max=639
+JP: ククク、ならば<n>貴様の友達の秘密を教えるがいい…。<p>さあ、友達を売れ、フフフフ…。
+EN: Heh heh heh... Then reveal<n>your friend's secrets to me...<p>Go on, betray your friend! Heh heh heh...
+
+@8FC4 max=639
+JP: これで良いのか？ククククク…。
+EN: Is this correct? Heh heh heh...
+
+@9244 max=639
+JP: さあ、友達を売れ、フフフフ…。
+EN: Go on, betray your friend! Heh heh heh...
+
+@94C4 max=639
+JP: これで良いのか？ククククク…。
+EN: Is this correct? Heh heh heh...
+
+@9744 max=639
+JP: さあ、友達を売れ、フフフフ…。
+EN: Go on, betray your friend! Heh heh heh...
+
+@99C4 max=639
+JP: ふふふ、ではゆくぞ？<n>貴様の友達はな…。
+EN: Heh heh heh... Shall we begin?<n>Your friend is...
+
+@9C44 max=639
+JP: <UC>占いでいうと<n><UN>だったのだ！ガーン！
+EN: According to <UC> fortune-telling,<n><UN>! Gasp!
+
+@9EC4 max=639
+JP: ふははは！<p>衝撃の事実に<n>声も出ないようだな！<p>哀れなやつめ！ふはははは！<n>…では、さらばだ！
+EN: Fwahaha!<p>The shocking truth<n>has left you speechless!<p>You poor fool! Fwahahaha!<n>...Farewell!
+
+@A144 max=639
+JP: <<テキストチェック>><n>チェックする項目を選んでください。
+EN: 
+
+@A3C4 max=639
+JP: 会話メッセージ<n>イベント用テキスト
+EN: Dialogue<n>Event Text
+
+@A644 max=639
+JP: 表示したい会話メッセージのIDを選んでください。
+EN: 
+
+@A8C4 max=639
+JP: 表示したいテキストのIDを入力してください。
+EN: 
+
+@14E64 max=359
+JP: 映画
+EN: Movies
+
+@14FCC max=359
+JP: アクション
+EN: Action
+
+@15134 max=359
+JP: つねに元気でパワフルなあなたは、<n>アクション映画のようです。ガン<n>ガン突き進んでいたかと思うと、<n>ちょっとうまくいかなくてすぐに<n>諦めてしまう面もあります。思い<n>通りに行動する反面、強引過ぎな<n>いように気をつけて。
+EN: Lively and full of energy, you're like an<n>action movie! You charge ahead at full<n>speed, but a small setback can make you<n>give up just as fast. You love doing<n>things your own way. Just take care<n>not to push too hard and steamroll<n>everyone else along the way.
+
+@1529C max=359
+JP: ドキュメンタリー
+EN: Documentary
+
+@15404 max=359
+JP: 一度決めたら、どんなことがあろ<n>うともやり遂げようとするあなた<n>は、ドキュメンタリー映画。粘り<n>強いところが、あなたの長所では<n>ありますが、意固地になってガン<n>コものだと思われるときもあるの<n>で、気をつけましょう。
+EN: Once you make up your mind, you see<n>things through, come what may. You're<n>a documentary! Your persistence is<n>one of your strengths, but there's<n>a fine line between being determined<n>and being stubborn. Take care not to<n>dig in your heels just for the sake of it.
+
+@1556C max=359
+JP: ミュージカル
+EN: Musical
+
+@156D4 max=359
+JP: 同時にたくさんのことをやろうと<n>して、しかも普通の人よりそれを<n>上手に器用にこなせるあなたは、<n>ミュージカル映画。楽しくてフレ<n>ンドリーなムード満載です。一方<n>で心配性な内面があり、ときどき<n>自分でも混乱しそう。
+EN: You like to juggle lots of things at<n>once, and you're better at it than most!<n>You're a musical, bursting with fun<n>and friendly energy. Behind the scenes,<n>though, you're something of a worrier.<n>With so much going on, you sometimes<n>get yourself all tangled up!
+
+@1583C max=359
+JP: ラブロマンス
+EN: Romance
+
+@159A4 max=359
+JP: 自分の感情をあまり外に出さない<n>方でありながら、恋人や家族には<n>愛情こまやかなあなたは、ラブロ<n>マンス映画。それでいて、愛に飢<n>えていて、自分がどんなに愛され、<n>どれだけ必要とされているかを確<n>かめずにいられません。
+EN: You tend to keep your feelings to<n>yourself, but you shower your partner<n>and family with affection. You're a<n>romance movie! Still, you crave love<n>in return. You can't help wanting<n>reassurance about just how much<n>you're loved and needed.
+
+@15B0C max=359
+JP: スペクタクル
+EN: Epic
+
+@15C74 max=359
+JP: 夢や理想が大きく、持ち物や環境<n>も大きなものを選ぶことが多いあ<n>なたは、スペクタクル映画。やる<n>こともダイナミックで、情熱的、<n>誰にでも親切なのも特徴です。意<n>外にも失敗を恐れがち。ときには<n>新しいことにチャレンジ！
+EN: Big dreams, grand ideals, big belongings<n>and spacious surroundings... You like<n>life on a grand scale. You're an epic!<n>You're bold in action, passionate,<n>and kind to everyone. Surprisingly,<n>you also tend to fear failure. Try<n>taking on something new now and then!
+
+@15DDC max=359
+JP: サスペンス
+EN: Suspense
+
+@15F44 max=359
+JP: 物事に対して常にカンペキを目指<n>し、神経がピーンとはりつめてい<n>ることが多いあなたはサスペンス<n>映画。自分だけでなく、相手にも<n>カンペキを求めるあまり、ストレ<n>スをためやすいのでは？もっと、<n>おおらかに考えてみては？
+EN: Always striving for perfection, you're<n>often wound tight as a spring. You're<n>a suspense movie! You demand perfection<n>from yourself and everyone around you.<n>Could all those high standards be<n>leaving you stressed out? Try taking<n>a more relaxed view of things.
+
+@160AC max=359
+JP: ファンタジー
+EN: Fantasy
+
+@16214 max=359
+JP: 優雅なもの、きれいなものに囲ま<n>れているのが好きなあなたは、フ<n>ァンタジー映画。普段の行動はエ<n>レガントに見えても、実は、怒り<n>や悲しみを心の奥にじっと隠して<n>いたりするので、突然爆発して周<n>りを驚かすことも。
+EN: You love to surround yourself with<n>beauty and elegance. You're a fantasy<n>movie! Your graceful manner doesn't<n>always tell the whole story, though.<n>You may keep anger and sadness buried<n>deep inside until they suddenly erupt,<n>giving everyone quite a surprise!
+
+@1637C max=359
+JP: ホラー
+EN: Horror
+
+@164E4 max=359
+JP: なんとなく謎めいた雰囲気のある<n>あなたは、ホラー映画です。周り<n>から見るとつかみどころがないの<n>ですが、実は感受性が鋭く、感動<n>や悲しみも人一倍です。本気で怒<n>ると相手を縮み上がらせるくらい<n>強く攻撃することも。
+EN: There's something mysterious about you.<n>You're a horror movie! Others find you<n>hard to read, but you're deeply sensitive.<n>Joy and sorrow move you more than most.<n>When you're truly angry, though,<n>you can lash out so fiercely that<n>the other person quakes in their boots!
+
+@1664C max=359
+JP: ＳＦ
+EN: Sci-Fi
+
+@167B4 max=359
+JP: いつも自由に世界を飛び回ってい<n>たい冒険好きなあなたはＳＦ映画。<n>あえてトラブルに飛び込んでいく<n>ことも多いのですが、実際にやり<n>遂げてしまうパワフルさも持って<n>います。軽はずみな一言で相手を<n>傷つけないように。
+EN: An adventurer who longs to roam the<n>world freely, you're a sci-fi movie!<n>You often leap straight into trouble,<n>but you've got the drive to see things<n>through, too. Just watch what you say:<n>a thoughtless remark could hurt<n>someone more than you realize.
+
+@1691C max=359
+JP: シリアスドラマ
+EN: Serious Drama
+
+@16A84 max=359
+JP: 礼儀正しく、控えめで、大変まじ<n>めで、仕事熱心。まさにあなたは<n>シリアスドラマです。ゼロから成<n>功するサクセスストーリーが似合<n>います。自分に厳しすぎる傾向が<n>あるので、もっとリラックスした<n>気分になることも大切です。
+EN: Polite, modest, serious and hardworking:<n>you're a serious drama! A story about<n>starting with nothing and working your<n>way to success would suit you perfectly.<n>You do tend to be too hard on yourself,<n>though. Making time to relax is<n>an important part of life, too.
+
+@16BEC max=359
+JP: アニメーション
+EN: Animation
+
+@16D54 max=359
+JP: 常識や伝統にとらわれず、個性的<n>なおしゃれを楽しむことが好きで、<n>周りの人をびっくりさせることも<n>好きなあなたは、アニメーション<n>映画のようです。メジャーなもの<n>よりマイナーなものに興味がある<n>のも特徴です。
+EN: You don't let convention or tradition<n>cramp your style. You love expressing<n>yourself through fashion and giving<n>people a surprise. You're an animated<n>movie! You're also more interested in<n>obscure little gems than whatever<n>happens to be popular with the crowd.
+
+@16EBC max=359
+JP: コメディ
+EN: Comedy
+
+@17024 max=359
+JP: ロマンチストで空想家のあなたは、<n>コメディ映画。他人の気持ちに敏<n>感で、誰にでも優しくすることが<n>できます。傷つきやすく、涙もろ<n>いところもありますので、いつも<n>明るい気分でハッピーにすごすこ<n>とが大切です。
+EN: A romantic and a dreamer, you're a<n>comedy movie! You're sensitive to<n>other people's feelings and can show<n>kindness to anyone. You're also easily<n>hurt and quick to shed a tear, so<n>keeping your spirits up and finding<n>joy in each day is important for you.

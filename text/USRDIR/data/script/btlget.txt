@@ -1,0 +1,55 @@
+# source: PSP_GAME/USRDIR/data/script/btlget.scb
+# format: scb
+# width: 44
+
+@5144 max=639
+JP: 空のボトルだった。持ち帰りますか？
+EN: The bottle was empty. Take it home?
+
+@53C4 max=639
+JP: 持ち物がいっぱいで持てません
+EN: Your inventory is full. You can't carry this.
+
+@5644 max=639
+JP: 持ち物がいっぱいです
+EN: Your bag is full.
+
+@58C4 max=639
+JP: <ITEM>を置きました
+EN: Placed <ITEM>.
+
+@5B44 max=639
+JP: 空のボトルを手に入れた
+EN: You got an empty bottle!
+
+@5DC4 max=639
+JP: 持ち帰りますか？
+EN: Take it home?
+
+@6044 max=639
+JP: これ以上ボトルメールを取得すると<n>手に入れたボトルメールが<n>古い順から削除されますが<n>持ち帰ってもよろしいですか？
+EN: If you take any more bottle mail,<n>your saved bottle mail will be deleted,<n>starting with the oldest.<n>Take it home anyway?
+
+@62C4 max=639
+JP: 添付されていたアイテムは<n>持ち物がいっぱいで持てません
+EN: Your inventory is full.<n>You can't carry the attached item.
+
+@6544 max=639
+JP: ボトルメールを手に入れた
+EN: You got bottle mail!
+
+@67C4 max=639
+JP: 持ち物がいっぱいです
+EN: Your bag is full.
+
+@6A44 max=639
+JP: <ITEM>を置きました
+EN: Placed <ITEM>.
+
+@6CC4 max=639
+JP: ボトルメールを手に入れた
+EN: You got bottle mail!
+
+@6F44 max=639
+JP: ボトルメールを手に入れた。
+EN: You got bottle mail!

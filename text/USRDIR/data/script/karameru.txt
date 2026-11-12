@@ -1,0 +1,2483 @@
+# source: PSP_GAME/USRDIR/data/script/karameru.scb
+# format: scb
+# width: 44
+
+@5144 max=639
+JP: オウ！アナタ　モシカシテ<n><PN>サン　ネ？<p>Nice to meet you!<p>ワタシ　ナマエ<n>カラメル　イイマース！
+EN: Oh! You are perhaps<n><PN>-san, yes?<p>Nice to meet you!<p>My name<n>is Count Caramel!
+
+@53C4 max=639
+JP: オー　<PN>　サーン<n>オゲンコ？デースーカ？
+EN: Oh, <PN>-san!<n>How are you doing, yes?
+
+@5644 max=639
+JP: <PN>サーン　ヨクキタネー！
+EN: <PN>-san! So good you come!
+
+@58C4 max=639
+JP: ワタシ　ニホンゴ　ヘタクソ<n>スイマセーン<p>アナタニ　English　デ<n>イロイロ　オシエテ　ソウロウネ！
+EN: My Japanese is very terrible.<n>So sorry, please!<p>I teach you many things<n>in English, with much pleasure!
+
+@5B44 max=639
+JP: ワタシ　トオイ　クニ　ノ<n>キゾク　デース<p>フクフク　センセー<n>my old friend　ネ！<p>タノマレテ　ココニクル　ヒトタチニ<n>チシキ　オシエテマース
+EN: I am nobleman<n>from faraway country!<p>Master Fukufuku,<n>he is my old friend, yes!<p>He ask me to teach knowledge<n>to people who come here!
+
+@5DC4 max=639
+JP: ふう、この話し方は疲れる。<p>昔から、ガイコクジンはこう話す<n>決まりだと言うから、仕方ないが…<p>…オウ！イエイエ　ナンデモナイ<n>コッチノコトデース
+EN: Phew. Talking like this is exhausting.<p>Apparently, foreigners have always been<n>expected to talk this way. What can I do...<p>...Oh! No, no, is nothing!<n>Just talking to myself, yes!
+
+@6044 max=639
+JP: エ？ナゼ　ソンナシャベリカタ<n>スルノカッテ？<p>ヒヨピーサンガ　イッタノデース<n>ガイコクジンハ　コウシャベラナイト<p>ホウリツイハンデ　ケイムショニ<n>オクラレル　デスネ？
+EN: Eh? Why do I speak<n>in this funny way?<p>Hiyopi tell me, yes!<n>If foreigner not speak like this...<p>...is against law,<n>and off to prison you go, yes?
+
+@62C4 max=639
+JP: オーウ　アナタ　イイヒト<n>イイコト　オシエマース<p>「そぞろ山」　ノ　イースト　ニ<n>ワタシノ　ソセンノ　ゾウ　アリマース！<p>エライ　エライ　ゴセンゾサマ　ネ！<n>ミツケルト　good　デスヨ！<p>「そぞろ山」　ノ　イースト　ヨ！<n>ワスレテハ　ダメダーメ！Hahaha!
+EN: Oh! You are kind person!<n>I tell you something good!<p>East of Wanderlust Mountain,<n>there is statue of my ancestor!<p>Very, very great ancestor, yes!<n>Finding him is good for you!<p>East of Wanderlust Mountain, yes!<n>No forgetting, please! Hahaha!
+
+@6544 max=639
+JP: ワタシノクニ　トオイセカイノ<n>トオイ　トオイ　クニデース<p>クニデハ　クッキーヲ<n>money　ニ　シテイマース！<p>ウッカリ　タベテシマウト<n>イチモンナシ　ネ！<p>Hahaha!
+EN: My country is far, far away,<n>in faraway world!<p>In my country, cookies<n>are used for money!<p>Eat them by mistake,<n>and you are penniless, yes!<p>Hahaha!
+
+@67C4 max=639
+JP: ワタシタチ　モトモト　コノ<n>world　ノ　シュッシン　デース！<p>トオイ　オオムカシニ　ワタシタチ<n>イマノ　セカイニ　ナガサレタ　ネ！<p>ソンナワケデ　エイゴ　ペラペーラ！<n>エ？ムリガアル？<p>Hahaha!　ドントウォーリー！<n>ソレハソレ　コレハコレ　ネ！
+EN: We originally come<n>from this world, yes!<p>Long, long ago, we drift away<n>to world where we live now!<p>And so, we speak fluent English!<n>Eh? Sound far-fetched?<p>Hahaha! Don't worry!<n>That is that, and this is this!
+
+@6A44 max=639
+JP: やれやれ、親善大使として<n>この世界に来たはいいが…<p>いっこうに、外交成果が上がっていない<n>気がするんだが…<p>…オウ！イマノハ　キカナカッタコトニ<n>シテクダサーイ！please！
+EN: Good grief. I came to this world<n>as a goodwill ambassador...<p>But I don't seem to be making<n>any diplomatic progress at all...<p>...Oh! You forget what you hear<n>just now, yes? Please!
+
+@6CC4 max=639
+JP: by the way…<p>ヨウセイカイ　ノ　ヒトタチ　ミナ<n>beautiful　デスネー！<p>トクニ　minister ダホー！<n>チョー　ハンサム　ネ！<p>ワタシノ　クニニ　コラレタラ<n>ベリー　モテモテ　マチガイナシ！
+EN: By the way...<p>People of fairy world,<n>all so beautiful, yes!<p>Especially Minister Daho!<n>So very handsome!<p>If he visit my country,<n>he have admirers everywhere!
+
+@7444 max=639
+JP: オホン　オホン　デハ…<n>オモシロイ　ハナシ　シマショーカ！<p>Would you like to listen to me?
+EN: Ahem, ahem! Now then...<n>Shall I tell interesting story?<p>Would you like to listen to me?
+
+@7944 max=639
+JP: ok, today's phrase is …
+EN: OK, today's phrase is...
+
+@8344 max=639
+JP: …ということなんだよ。<n>わかったかな？<p>…あ。<n>オホン　オホン。<p>ワタシノ　ヘタナ　ニホンゴ<n>ワカリマシータ　デスカ？<p>See you, bye bye!
+EN: ...And that's what it means.<n>Does that make sense?<p>...Oh.<n>Ahem, ahem!<p>You understand<n>my terrible Japanese, yes?<p>See you, bye-bye!
+
+@85C4 max=639
+JP: <HEXP>の経験値を獲得
+EN: Gained <HEXP> experience points.
+
+@8D44 max=639
+JP: <<テキストチェック>><n>チェックする項目を選んでください。
+EN: 
+
+@8FC4 max=639
+JP: 会話メッセージ<n>イベント用テキスト
+EN: Dialogue<n>Event Text
+
+@9244 max=639
+JP: 表示したい会話メッセージのIDを選んでください。
+EN: 
+
+@94C4 max=639
+JP: 表示したいテキストのIDを入力してください。
+EN: 
+
+@14F04 max=351
+JP: これは、元気出せよ！っていう意味ですね。<n>がんばって、明るーくいきましょう！
+EN: This means, "Cheer up!"<n>Keep trying, and keep smiling!
+
+@15064 max=287
+JP: Chin up!<n>意味：元気出せよ！
+EN: Chin up!<n>Meaning: Cheer up!
+
+@15224 max=351
+JP: これは、今んところまあまあ順調、ってことです。<n>いい感じで、ぼちぼちという感じですね！
+EN: It means things are going fairly well for now.<n>Nothing spectacular, but ticking along nicely!
+
+@15384 max=287
+JP: So far, so good.<n>意味：今んところまあまあ順調。
+EN: So far, so good.<n>Meaning: Things are going well up to now.
+
+@15544 max=351
+JP: これは、まあ落ち着いて、大丈夫うまくいくよ、<n>っていう意味。あせっちゃダメでーす、何事も。
+EN: It means, "Relax. Things will work out."<n>No need to rush or panic, whatever you're doing!
+
+@156A4 max=287
+JP: Calm down, and everything will be OK!<n>意味：まあ落ち着いて、大丈夫うまくいくよ。
+EN: Calm down, and everything will be OK!<n>Meaning: Relax. Things will work out.
+
+@15864 max=351
+JP: まっすぐ行って、三番目の角を右に行って、<n>ということでーす。<p>外国の人に道を尋ねられても<n>逃げないで教えてあげてくださーい。
+EN: It means to go straight ahead<n>and turn right at the third corner.<p>If a foreign visitor asks for directions,<n>don't run away! Help them out, please!
+
+@159C4 max=287
+JP: "Go straight this way for three blocks,<n>and turn right."<n>意味：まっすぐ行って、三番目の角を右に行って。
+EN: "Go straight this way for three blocks,<n>and turn right."<n>Meaning: Go straight, then take the third right.
+
+@15B84 max=351
+JP: 明日、考えるわ、<n>だって、明日は明日の風が吹くんですもの！<p>って、これは、「風と共に去りぬ」の<n>スカーレットの有名なセリフですねー。
+EN: I'll think about it tomorrow.<n>After all, tomorrow is another day!<p>That's a famous line from Scarlett<n>in Gone with the Wind.
+
+@15CE4 max=287
+JP: "I'll think about that tomorrow.<n>Tomorrow is another day!"<n>意味：明日、考えるわ、<n>だって、明日は明日の風が吹くんですもの！<n>備考：小説「風と共に去りぬ」のセリフ
+EN: "I'll think about that tomorrow.<n>Tomorrow is another day!"<n>Meaning: I'll worry about it tomorrow.<n>Tomorrow brings a fresh start!<n>Note: A line from the novel Gone with the Wind.
+
+@15EA4 max=351
+JP: これは、海には他にも魚がいるよ、<n>ということで、彼だけが男じゃないよ！<p>っていう意味でーす。<p>友達がふられたら、<n>こう言って慰めてあげましょう。
+EN: It says there are more fish in the sea.<n>In other words, he's not the only man out there!<p>That's the idea, yes!<p>If a friend gets dumped,<n>try cheering them up with this.
+
+@16004 max=287
+JP: There are other fish in the sea.<n>意味：海には他にも魚がいる、<n>つまり、彼だけが男じゃない、ということ。
+EN: There are other fish in the sea.<n>Meaning: There are other men out there.<n>He's not your only chance at love!
+
+@161C4 max=351
+JP: これは、かの偉大なるエジソン氏のお言葉。<p>天才は１％のひらめきと、<n>９９％の努力によって成る、<p>という意味でーす。<n>ま、がんばって。
+EN: These are the words of the great Thomas Edison.<p>Genius takes one percent inspiration<n>and ninety-nine percent hard work.<p>That's what it means.<n>Well, keep at it!
+
+@16324 max=287
+JP: "Genius is one percent inspiration<n>and ninety-nine percent perspiration."<n>意味：天才は１％のひらめきと、<n>９９％の努力によって成る。<n>備考：エジソンの言葉
+EN: "Genius is one percent inspiration<n>and ninety-nine percent perspiration."<n>Meaning: Genius is 1% bright ideas<n>and 99% hard work.<n>Note: A quote from Thomas Edison.
+
+@164E4 max=351
+JP: 動くと撃つぞ！！<p>コレを言われたら、<n>その場で止まって手を上げたほうが無難でーす。
+EN: Move and I'll shoot!!<p>If someone says this to you,<n>best stay put and raise your hands!
+
+@16644 max=287
+JP: I'll shoot if you move!!<n>意味：動くと撃つぞ！！
+EN: I'll shoot if you move!!<n>Meaning: Move and I'll shoot!!
+
+@16804 max=351
+JP: はい、これはズバリ、眼科です。<p>外国で目が悪くなったら、<n>総合病院ではこう書いてある看板を探しましょう。<p>ま、Eye doctorでもいいのでーすが。
+EN: Yes, this is the department for eye care.<p>If you have eye trouble abroad,<n>look for this sign in a general hospital.<p>Well, "eye doctor" works too.
+
+@16964 max=287
+JP: Ophthalmology department.<n>意味：眼科
+EN: Ophthalmology department.<n>Meaning: The eye care department.
+
+@16B24 max=351
+JP: これはどうやって食べるの？という意味。<p>こう聞かれたら…例えばそれが焼き鳥なら、<n>Usually with sitimi-pepper<p>と答えましょう。<n>え？七味つけない？甘党ですか？？
+EN: It means, "What's the way to eat this?"<p>If someone asks you this about yakitori,<n>you could say, "Usually with shichimi pepper."<p>That's Japanese seven-spice seasoning.<n>Eh? You don't use it? More of a sweet tooth?
+
+@16C84 max=287
+JP: How do you eat this?<n>意味：これはどうやって食べるの？
+EN: How do you eat this?<n>Meaning: What's the way to eat this?
+
+@16E44 max=351
+JP: これは、今日はいつもと違うけど、どうしたの？<n>と聞く言葉でーす。<p>ストレートに訳すと、<n>ベッドのいつもと違う側から起きたの？<p>という意味ですが、<n>これは、ベッドの反対側から起きちゃったせいで、<p>物事がいつもみたいにうまくいかない、<n>ということわざなんですねーー。<p>お友達が、いつもより不機嫌だったら、<n>こういう風に聞いてあげてくださいー。
+EN: It means, "You're grumpy today.<n>What's wrong?"<p>Literally, it asks if you got up<n>on the other side of the bed.<p>The idea is that getting up<n>on the wrong side...<p>...makes your day go wrong.<n>That's how the saying goes!<p>If a friend is grumpier than usual,<n>try asking them this.
+
+@16FA4 max=287
+JP: Did you get up on the wrong side of the bed?<n>意味：ベッドのいつもと違う側から起きたの？<n>つまり、今日はいつもと違うけど、どうしたの？<n>ということ。
+EN: Did you get up on the wrong side of the bed?<n>Meaning: Did you get out of bed on the wrong side?<n>In other words, why are you<n>so grumpy today?
+
+@17164 max=351
+JP: はい、わかりますねーー。覆水盆に返らず。<p>そのままズバリの意味ですねー。<n>ただ、英語では水ではなく、ミルクなんですねー。
+EN: You know this one! What's done is done.<p>The Japanese saying talks about spilled water.<n>In English, though, it's milk!
+
+@172C4 max=287
+JP: Don't cry over spilt milk.<n>意味：覆水盆に返らず。
+EN: Don't cry over spilt milk.<n>Meaning: There's no undoing what's done.
+
+@17484 max=351
+JP: 見た目は変だけど、筋は通っている、<n>という意味です。<p>この言葉はもともと<p>Though this be madness,<n>yet there is method isn't.<p>というシェークスピアのハムレットの中の<n>せりふを短くしたものなのですー。
+EN: It means something looks crazy,<n>but there's a reason behind it.<p>This saying is shortened from:<p>"Though this be madness,<n>yet there is method in't."<p>That's a line from<n>Shakespeare's Hamlet.
+
+@175E4 max=287
+JP: There is method to his madness.<n>意味：見た目は変だけど、筋は通っている。<n>備考：シェークスピア「ハムレット」の中のセリフ。
+EN: There is method to his madness.<n>Meaning: He seems odd, but there's logic behind it.<n>Note: A line from Shakespeare's Hamlet.
+
+@177A4 max=351
+JP: お店で買い物をしているとき、<n>とっても気に入ったかたちのものがあったけど、<p>他の色がいいなぁ、と思ったとき、<n>こう聞いてくださいー。<p>他の色はありますか？ということですー。
+EN: When you are shopping,<n>you may find something with just the shape you like...<p>But wish for a different color, yes?<n>Then please ask this!<p>It means, "Have you got any other colors?"
+
+@17904 max=287
+JP: Do you have this in another color?<n>意味：他の色はありますか？
+EN: Do you have this in another color?<n>Meaning: Is a different color available?
+
+@17AC4 max=351
+JP: これはレストランや喫茶店で使いますー。<n>二人ですが、席はありますか？<p>という意味です。<p>このtwoのところをthreeにしたり<n>fourにしたりすれば、<p>その時の人数に合わせてこのフレーズが使えますー。
+EN: You use this at a restaurant or cafe, yes?<n>It means, "Are there seats for two people?"<p>A very useful question!<p>You can change "two" to "three"<n>or "four"...<p>And use it for however many people you have!
+
+@17C24 max=287
+JP: Do you have a table for two?<n>意味：二人ですが、席はありますか？
+EN: Do you have a table for two?<n>Meaning: Can you seat two people?
+
+@17DE4 max=351
+JP: これは、便利なフレーズですねー。<p>これ、英語でなんていうの？<n>という意味です。<p>わかんないものがあったら<n>どんどん指差して聞いてみましょう！
+EN: Oh, this is a handy phrase, yes?<p>It means, "What is the English name for this?"<n>Very useful when you do not know a word!<p>Just point at whatever you are curious about<n>and ask away!
+
+@17F44 max=287
+JP: What do you call this in English?<n>意味：これ、英語でなんていうの？
+EN: What do you call this in English?<n>Meaning: What is the English word for this?
+
+@18104 max=351
+JP: 銀行に行って預金口座を開きたいとき、<n>こう言いますねー。
+EN: When you go to a bank to open a savings account,<n>this is what you say, yes?
+
+@18264 max=287
+JP: I'd like to open a savings account.<n>意味：預金口座を開きたいです。<n>備考：銀行にて
+EN: I'd like to open a savings account.<n>Meaning: I want to open an account to save money.<n>Note: Use this at a bank.
+
+@18424 max=351
+JP: そろそろだと思ったよ！<n>ってことですねー。
+EN: It means, "I thought it would happen any moment!"<n>At last, yes?
+
+@18584 max=287
+JP: It's about time!<n>意味：そろそろだと思ったよ！
+EN: It's about time!<n>Meaning: I thought it would happen any moment!
+
+@18744 max=351
+JP: 私、ダイエットするわ！！<n>という決意表明ですねー。<p>これを言ったら、<n>もうちゃんとダイエットしましょう。
+EN: "I am going to lose weight!"<n>Such a firm declaration, yes?<p>Once you say this,<n>you must stick to your diet!
+
+@188A4 max=287
+JP: I'm going on a diet!<n>意味：私、ダイエットするわ！！
+EN: I'm going on a diet!<n>Meaning: I've decided to start a diet!
+
+@18A64 max=351
+JP: クッキーはいかがですか？<n>ということですが、ダイエット中は心を鬼にして<p>No, thank you.<n>といいましょうねー。
+EN: It means, "May I offer you some cookies?"<n>But if you are on a diet, you must be strong!<p>"No, thank you."<n>That is what you must say, yes?
+
+@18BC4 max=287
+JP: Would you like some cookies?<n>意味：クッキーはいかがですか？
+EN: Would you like some cookies?<n>Meaning: May I offer you some cookies?
+
+@18D84 max=351
+JP: カードでお買い物したいときは、<n>レジでこう聞いてくださーい。<p>カード使えますか？ってことですねー。
+EN: If you wish to pay by card,<n>please ask this at the checkout!<p>It means, "Can I pay with a credit card?"
+
+@18EE4 max=287
+JP: Do you accept credit cards?<n>意味：クレジットカードは使えますか？
+EN: Do you accept credit cards?<n>Meaning: Can I pay with a credit card?
+
+@190A4 max=351
+JP: これは、会話の始まりによく使う言葉ですねー。<p>あのさぁ、とか、ねぇねぇ、<n>とかそんなことですねー。
+EN: This is often used to start a conversation, yes?<p>It is like saying, "Hey, listen,"<n>or "Guess what!"
+
+@19204 max=287
+JP: You know what?<n>意味：あのさぁ、ねぇねぇ。
+EN: You know what?<n>Meaning: Hey, listen. Guess what!
+
+@193C4 max=351
+JP: まじっすか？<n>ってことですねー。
+EN: It means, "Seriously?"<n>You are surprised, yes?
+
+@19524 max=287
+JP: You mean it?<n>意味：まじっすか？
+EN: You mean it?<n>Meaning: Seriously?
+
+@196E4 max=351
+JP: これは目玉焼きのことですねー。<n>単純に、Fried eggでもいいですねー。
+EN: This is an egg fried with the yolk facing up, yes?<n>You can also simply say "fried egg."
+
+@19844 max=287
+JP: Sunny side up<n>意味：目玉焼き。
+EN: Sunny side up<n>Meaning: An egg fried with the yolk facing up.
+
+@19A04 max=351
+JP: 成田で飛行機を乗り換えました、ですね。<n>乗り換えてどこに行くのでしょうねー。
+EN: It means you switched flights at Narita, yes?<n>I wonder where your next flight was going!
+
+@19B64 max=287
+JP: I changed planes at Narita.<n>意味：成田で飛行機を乗り換えました。
+EN: I changed planes at Narita.<n>Meaning: I switched to another flight at Narita.
+
+@19D24 max=351
+JP: これは、イギリスの作家<n>オスカー・ワイルドが語った名文句。<p>経験と言うのは、<n>誰しもが自分の失敗に対してつける名前である、<p>ということで、<n>つまりは、失敗も大切な経験である、<p>と言うことですねー。
+EN: This famous saying comes from<n>the British writer Oscar Wilde.<p>Experience, he says,<n>is the name everyone gives to their mistakes.<p>In other words,<n>even our failures are valuable experience...<p>So there is something to learn from them, yes?
+
+@19E84 max=287
+JP: "Experience is the name everyone gives <n>to his mistakes."<n>意味：経験というのは、<n>誰しもが自分の失敗に対してつける名前である。<n>備考：作家オスカー・ワイルドの言葉
+EN: "Experience is the name everyone gives<n>to his mistakes."<n>Meaning: What we call experience<n>is really the mistakes we have made.<n>Note: A saying by the writer Oscar Wilde.
+
+@1A044 max=351
+JP: いったいなんの話をしているの？<p>わけのわからないことを言っている人に対して<n>言う言葉ですねー。
+EN: "What on earth are you talking about?"<p>You say this to someone<n>who is making no sense, yes?
+
+@1A1A4 max=287
+JP: What are you talking about?<n>意味：いったいなんの話をしているの？
+EN: What are you talking about?<n>Meaning: What on earth do you mean?
+
+@1A364 max=351
+JP: もう帰らなきゃ、とか、<n>もう電話を切らなきゃ、というときに、<p>わ、もう、こんな時間！<n>なんて言ったりしますねー。<p>それを英語で言うとこうなるわけですねー。
+EN: When you must head home,<n>or it is time to hang up the phone...<p>You might say, "Oh! Look at the time!"<n>Time flies, yes?<p>Here is how you can say it in English!
+
+@1A4C4 max=287
+JP: Is it that time already?<n>意味：わ、もう、こんな時間！
+EN: Is it that time already?<n>Meaning: Oh! Look at the time!
+
+@1A684 max=351
+JP: かの有名なエジソンさんはこう言いましたねー。<p>だいたいの人はチャンスを見逃してしまう、<n>なぜならチャンスは作業着を着て<p>仕事しているように見えるからね、と。<p>成功への道の第一歩は、案外、<n>地味な形でやってくるもんですからねー。
+EN: The famous Mr. Edison once said this, yes?<p>Most people miss opportunity<n>because it wears overalls...<p>And looks like work!<p>The first step toward success<n>can arrive in a surprisingly plain disguise.
+
+@1A7E4 max=287
+JP: "Opportunity is missed by most people<n>because it is dressed in overalls<n>and looks like work."<n>意味：多くの人はチャンスを見逃してしまう、<n>なぜならチャンスは作業着を着て<n>仕事しているように見えるから。<n>備考：エジソンの言葉
+EN: "Opportunity is missed by most people<n>because it is dressed in overalls<n>and looks like work."<n>Meaning: Most people overlook a chance<n>because it wears work clothes<n>and seems like hard work.<n>Note: A saying by Edison.
+
+@1A9A4 max=351
+JP: もう一軒行きましょうーー！<n>と言われたとき、<p>ちょっとお断りしたかったらこのフレーズですー。<n>明日、早起きしなきゃいけないのー、ってね。
+EN: When someone says, "Let us try another bar!"<n>But you would rather head home...<p>This phrase is a polite way to decline, yes?<n>"I must be up early tomorrow!"
+
+@1AB04 max=287
+JP: I have to get up early tomorrow.<n>意味：明日、早起きしなきゃいけないの。
+EN: I have to get up early tomorrow.<n>Meaning: I need to wake up early tomorrow.
+
+@1ACC4 max=351
+JP: なんのことでしょう？<n>はい、これはホチキスのことです。<p>ホチキスを発明した人の名前が由来しているのです。<n>英語ではホチキスと言っても通じませんねー。
+EN: What does this word mean?<n>Yes, it is what Japanese calls a "hotchkiss"!<p>That name comes from the person who invented it.<n>But English speakers will not know it by that name, yes?
+
+@1AE24 max=287
+JP: Stapler<n>意味：ホチキス
+EN: Stapler<n>Meaning: stapler
+
+@1AFE4 max=351
+JP: 街角で、こんな風に話しかけられたら、<n>それはナンパですねー。<p>一緒にご飯でもいかが？という意味です。
+EN: If someone approaches you on the street with this,<n>they are trying to pick you up, yes?<p>It means, "Would you like to have dinner with me?"
+
+@1B144 max=287
+JP: What's about going to dinner with me?<n>意味：一緒にご飯でもいかが？
+EN: How about going to dinner with me?<n>Meaning: Would you like to have dinner together?
+
+@1B304 max=351
+JP: この辺りで、どこか面白い<n>観光スポットはありませんか？という意味です。<p>上野あたりで外国の方にこう聞かれたら、<n>私ならこう答えます。<p>How about Ameyoko Street.<n>It's a great place to buy souvenirs!<p>だって楽しいですよね、アメ横。
+EN: It means, "Are there any interesting<n>places to visit around here?"<p>If a visitor asked me this near Ueno,<n>here is what I would say!<p>How about Ameyoko Street?<n>It's a great place to buy souvenirs!<p>Ameyoko is such fun, yes?
+
+@1B464 max=287
+JP: "Do you know any interesting sightseeing spots <n>around here?"<n>意味：この辺りで、どこか面白い<n>観光スポットはありませんか？
+EN: "Do you know any interesting sightseeing spots <n>around here?"<n>Meaning: Are there any fun places<n>to visit nearby?
+
+@1B624 max=351
+JP: こいつの首をはねろ！<p>シェークスピア、<n>リチャード三世の中のセリフですねー。<p>あれ？<n>不思議の国のアリスの女王様も<p>言ってましたっけねー。
+EN: Off with his head!<p>A line from Shakespeare's<n>Richard III, yes?<p>Oh?<n>The Queen in Alice in Wonderland...<p>She say this too, no?
+
+@1B784 max=287
+JP: Off with his head!<n>意味：こいつの首をはねろ！<n>備考：シェークスピア「リチャード三世」中のセリフ
+EN: Off with his head!<n>Meaning: Cut off his head!<n>Note: A line from Shakespeare's Richard III.
+
+@1B944 max=351
+JP: 映画「ダーティハリー」の有名なセリフです。<p>Make my dayはその日一日楽しませてくれ、<n>と言う意味ですから、ハリーがこれを言うときは、<p>望むところだ、撃ってみろ、<n>と言うニュアンスになりますねー。
+EN: A famous line from a Dirty Harry movie, yes?<p>'Make my day' means to give someone<n>something to enjoy all day. So when Harry say it...<p>He means, 'Just try shooting.<n>I would enjoy the excuse to shoot back!'
+
+@1BAA4 max=287
+JP: Go ahead. Make my day!<n>意味：その日一日楽しませてくれ、つまり<n>望むところだ、撃ってみろ。<n>備考：映画「ダーティハリー」の主人公のセリフ
+EN: Go ahead. Make my day!<n>Meaning: Give me something to enjoy today!<n>Here, it means: Just try shooting. I dare you.<n>Note: A line spoken by Dirty Harry.
+
+@1BC64 max=351
+JP: 冗談でしょ、有り得ない！<n>ってことですねー。
+EN: You must be joking! Impossible!<n>This is what it means, yes?
+
+@1BDC4 max=287
+JP: No Way!<n>意味：冗談でしょ、有り得ない！
+EN: No Way!<n>Meaning: You're kidding! That's impossible!
+
+@1BF84 max=351
+JP: あなたなしでは生きていけない、<n>つまり、そのくらいあなたが好きってことですね。<p>うーん熱烈ですねー。
+EN: It means, 'I cannot live without you.'<n>This is how much I love you, yes?<p>Ohhh, such passion!
+
+@1C0E4 max=287
+JP: I can't live without you.<n>意味：あなたなしでは生きていけない。
+EN: I can't live without you.<n>Meaning: I need you in my life.
+
+@1C2A4 max=351
+JP: 相手が早口だったり、<n>まわりがうるさかったりして<p>何を言ったかよくわからなかったとき、<n>こう言いますねー。<p>ごめんなさい、よく聞こえませんでした<n>ってことです。
+EN: Perhaps someone speak too fast,<n>or there is too much noise around you...<p>If you cannot understand what they said,<n>this is the phrase to use, yes?<p>It means, 'Sorry,<n>I could not hear you properly.'
+
+@1C404 max=287
+JP: I'm sorry, I didn't catch that.<n>意味：ごめんなさい、よく聞こえませんでした。
+EN: I'm sorry, I didn't catch that.<n>Meaning: Sorry, I didn't hear what you said.
+
+@1C5C4 max=351
+JP: あ痛たた！ってことです。
+EN: It means, 'Ow, ow, ow!'
+
+@1C724 max=287
+JP: ouch!<n>意味：あ痛たた！
+EN: ouch!<n>Meaning: That hurts!
+
+@1C8E4 max=351
+JP: ちょっと皮肉っぽい言い方の、<n>それ、やめていただけます？というフレーズ。<p>病院の待合室なんかで<n>ぎゃーぎゃーうるさい人がいたら<p>言ってみましょう。
+EN: A slightly sarcastic way to say,<n>'Could you please stop that?'<p>If someone is making such a racket<n>in a hospital waiting room...<p>Give this phrase a try, yes?
+
+@1CA44 max=287
+JP: Do you mind?<n>意味：それ、やめていただけます？<n>備考：皮肉っぽい言い回し
+EN: Do you mind?<n>Meaning: Could you please stop that?<n>Note: Said with a touch of sarcasm.
+
+@1CC04 max=351
+JP: これ、ベビーカーのことですね。<p>英語でbaby carというと、<n>なんだか小さな車のおもちゃのこと<p>みたいになっちゃいますねー。
+EN: This is what you push a baby around in, yes?<p>In English, if you say 'baby car,'<n>it sounds more like...<p>A little toy car!
+
+@1CD64 max=287
+JP: Stroller<n>意味：ベビーカー
+EN: Stroller<n>A baby's pushchair
+
+@1CF24 max=351
+JP: 私、主役をやりたいの！<n>っていうことです。<p>学芸会などで率先して出演したいときには<n>ぜひ、こう立候補しましょう。
+EN: It means, 'I want to be the star!'<n>The main part is for me, yes?<p>If you wish to star in the school play,<n>this is how you volunteer!
+
+@1D084 max=287
+JP: I want to play the leading role.<n>意味：私、主役をやりたいの！
+EN: I want to play the leading role.<n>Meaning: I want the starring part!
+
+@1D244 max=351
+JP: あなたは、どんな本が好きですか？<n>ということですねー。<p>私はcomicsが好きですーー。
+EN: It means, 'What sorts of books<n>do you enjoy reading?'<p>Me, I like comics!
+
+@1D3A4 max=287
+JP: What kind of books do you like?<n>意味：あなたは、どんな本が好きですか？
+EN: What kind of books do you like?<n>Meaning: What sorts of books do you enjoy?
+
+@1D564 max=351
+JP: ああ、美しかったダイアナ妃。<n>私は人々の心の女王でありたいけれど、<p>この国の女王であるとは思いません、<n>ということですーー。<p>まさに、みんなの女王、ダイアナ。
+EN: Ah, the beautiful Princess Diana.<n>She wished to be queen in people's hearts...<p>But could not see herself<n>as queen of the country, yes?<p>Diana, truly the people's queen.
+
+@1D6C4 max=287
+JP: "I'd like to be a queen in people's hearts<n>but I don't see myself <n>being Queen of this country."<n>意味：私は人々の心の女王でありたいけれど、<n>この国の女王であるとは思いません。<n>備考：故ダイアナ元妃の言葉
+EN: "I'd like to be a queen in people's hearts<n>but I don't see myself <n>being Queen of this country."<n>Meaning: I hope to win people's love,<n>but I don't expect to become their queen.<n>Note: Words of the late Princess Diana.
+
+@1D884 max=351
+JP: コンパなんかで好みじゃない人を<n>あてがわれそうになったらこう言って断りましょう。<p>彼って私の好みじゃないのよ！
+EN: If someone at a party tries to pair you up<n>with a man you do not fancy, say this!<p>He is not my type!
+
+@1D9E4 max=287
+JP: He is not my type.<n>意味：彼って私の好みじゃないのよ！
+EN: He is not my type.<n>Meaning: He's not the sort of man I fancy!
+
+@1DBA4 max=351
+JP: ジョージィ・ポージィ、プリンにパイ、<n>女の子にはキスしてポイ、<p>男の子たちが来たら逃げちゃった。<n>これは有名なマザーグースの歌の一節。<p>アメリカやイギリスでは、<n>子供たちがみんな<p>一度は聞いたことがある詩なんですねー。
+EN: Georgie Porgie, pudding and pie,<n>kissed the girls and made them cry...<p>Then ran away when the boys came to play!<n>This is a famous Mother Goose rhyme, yes?<p>In America and Britain,<n>just about every child...<p>Has heard this little rhyme at least once!
+
+@1DD04 max=287
+JP: "Georgie Porgie, pudding and pie,<n>kissed the girls and made them cry;<n>when the boys come out to play,<n>Georgie Porgie ran away."<n>意味：ジョージィ・ポージィ、プリンにパイ、女の子<n>にはキスしてポイ、男の子たちが来たら逃げちゃった。<n>備考：「マザーグース」の中の一節
+EN: "Georgie Porgie, pudding and pie,<n>kissed the girls and made them cry;<n>when the boys come out to play,<n>Georgie Porgie ran away."<n>Meaning: Georgie kissed girls, upset them,<n>then fled when the boys arrived.<n>Note: A Mother Goose nursery rhyme.
+
+@1DEC4 max=351
+JP: 夕べはどこに行ってたの？<n>ときかれて、このフレーズ。<p>そんな昔のことは覚えちゃいないね。<p>映画「カサブランカ」の<n>ハンフリー・ボガードの名セリフですね。
+EN: 'Where were you last night?'<n>Someone asks, and this is your answer...<p>'That's so long ago, I don't remember.'<p>A famous Humphrey Bogart line<n>from Casablanca, yes?
+
+@1E024 max=287
+JP: That's so long ago, I don't remember.<n>意味：そんな昔のことは覚えちゃいないね。<n>備考：映画「カサブランカ」の主人公のセリフ
+EN: That's so long ago, I don't remember.<n>Meaning: It was so far back, I've forgotten.<n>Note: A line spoken by the hero of Casablanca.
+
+@1E1E4 max=351
+JP: 一日一個のリンゴで医者要らず。<n>これはアメリカにあることわざなんですねー。
+EN: One apple each day, and no need for a doctor!<n>An American saying, yes?
+
+@1E344 max=287
+JP: An apple a day keeps the doctor away.<n>意味：一日一個のリンゴで医者要らず。<n>備考：アメリカのことわざ
+EN: An apple a day keeps the doctor away.<n>Meaning: Eat an apple daily to stay healthy.<n>Note: An American proverb.
+
+@1E504 max=351
+JP: ねずみは沈み行く船から去っていく…<n>しかし船長は最後まで船とともにいたのでした、<p>ってそれはタイタニック。
+EN: The rats abandon the sinking ship...<n>But the captain stays with his ship to the end!<p>Oh, wait. That was Titanic.
+
+@1E664 max=287
+JP: Rats leave a sinking ship.<n>意味：ねずみは沈み行く船から去っていく…。
+EN: Rats leave a sinking ship.<n>Meaning: Rats flee when a ship starts to sink...
+
+@1E824 max=351
+JP: 人間はどうして他人のものが<n>よく見えるのでしょうねー。<p>これは隣の芝生は青い、という、<n>日本でもよく言われることわざです。
+EN: Why do other people's things<n>always look so much better, hmm?<p>'The grass is always greener.'<n>We have this saying in Japan too, yes?
+
+@1E984 max=287
+JP: "The grass is always greener<n>on the other side of the fence."<n>意味：隣の芝生は青い。
+EN: "The grass is always greener<n>on the other side of the fence."<n>Meaning: What others have always seems better.
+
+@1EB44 max=351
+JP: 耳のロウ？<n>そう、耳垢のことです。
+EN: Wax in your ears?<n>Yes! The stuff that builds up inside them.
+
+@1ECA4 max=287
+JP: Earwax<n>意味：耳垢。
+EN: Earwax<n>Meaning: The waxy stuff inside your ears.
+
+@1EE64 max=351
+JP: 売る人、つまり営業マンのこと。<n>セールスマン、とは言わないのです。
+EN: A person who sells things. A sales rep, yes?<n>The phrase here is 'sales person,' not 'salesman.'
+
+@1EFC4 max=287
+JP: Sales person<n>意味：営業マン。
+EN: Sales person<n>Meaning: Someone whose job is selling things.
+
+@1F184 max=351
+JP: 山手線、渋谷駅でこう聞かれました。<n>この電車は新宿へ行きますか？<p>山手線ならどっちに乗っても、<n>いずれは新宿に着きますねー。
+EN: Someone ask me this at Shibuya Station:<n>'Does this Yamanote Line train go to Shinjuku?'<p>On the Yamanote Line, either direction<n>will get you to Shinjuku eventually, yes?
+
+@1F2E4 max=287
+JP: Does this train go to Shinjuku?<n>意味：この電車は新宿へ行きますか？
+EN: Does this train go to Shinjuku?<n>Meaning: Will this train take me to Shinjuku?
+
+@1F4A4 max=351
+JP: これ、まけてくださいなー。<p>東京ではあまり値引きはしませんが、<n>その他の場所では案外、使える言葉ですねー。
+EN: A little discount, please?<p>In Tokyo, haggling is not so common,<n>but elsewhere, this phrase can come in handy, yes?
+
+@1F604 max=287
+JP: Can you discount this?<n>意味：これ、まけてくださいなー。
+EN: Can you discount this?<n>Meaning: Could you lower the price a little?
+
+@1F7C4 max=351
+JP: 偉い人に初対面でのご挨拶。<p>ならばこのフレーズ、お会いできて嬉しいです。<n>とっても丁寧でいい感じー。
+EN: Meeting someone important for the first time?<p>Then try this phrase: "I'm glad to meet you."<n>So polite! Makes a lovely impression, yes?
+
+@1F924 max=287
+JP: I'm glad to meet you.<n>意味：お会いできて嬉しいです。
+EN: I'm glad to meet you.<n>Meaning: It's a pleasure to meet you.
+
+@1FAE4 max=351
+JP: なんか、中学校の英語の授業で<n>教わるみたいな言葉ですねー。<p>私は紅茶よりコーヒーが好きです。
+EN: Oh, this sounds like something from<n>a school English lesson, yes?<p>I like coffee more than tea.
+
+@1FC44 max=287
+JP: I prefer coffee to tea.<n>意味：私は紅茶よりコーヒーが好きです。
+EN: I prefer coffee to tea.<n>Meaning: I like coffee more than tea.
+
+@1FE04 max=351
+JP: 飛行機酔い？<n>いえいえ、時差ぼけのことです。
+EN: Feeling sick from flying?<n>No, no! This means your body clock is all confused.
+
+@1FF64 max=287
+JP: Jet lag<n>意味：時差ぼけ。
+EN: Jet lag<n>Meaning: Tiredness from crossing time zones.
+
+@20124 max=351
+JP: 次はもっとうまくやります！<p>先生に怒られたり、上司に怒られたりしたときの、<n>反省？言い訳？のフレーズですね。
+EN: Next time, I will do better!<p>Something to say when your teacher or boss scolds you.<n>A promise to improve? Or just an excuse, hmm?
+
+@20284 max=287
+JP: I'll do a better job next time.<n>意味：次はもっとうまくやります！
+EN: I'll do a better job next time.<n>Meaning: I promise to do better next time!
+
+@20444 max=351
+JP: ちょっとちょっといつまで待たせんのよおおーー、<n>と思っていたらやっと到着した相手にいやみな一言。<p>二時のお約束じゃありませんでした？
+EN: You wait and wait... How late can one person be?!<n>When they finally arrive, try this little jab.<p>Wasn't our appointment at two?
+
+@205A4 max=287
+JP: I believe we were supposed to meet at 2:00.<n>意味：二時のお約束じゃありませんでした？<n>備考：嫌味な言い回し
+EN: I believe we were supposed to meet at 2:00.<n>Meaning: Wasn't our appointment at two?<n>Note: Said with a touch of sarcasm.
+
+@20764 max=351
+JP: パニクるな！っていう意味ですね。
+EN: This means, "No panicking!" Yes?
+
+@208C4 max=287
+JP: Don't freak out.<n>意味：パニクるな！
+EN: Don't freak out.<n>Meaning: Don't panic!
+
+@20A84 max=351
+JP: はい、学校で習いましたねーー。<n>人民の、人民による、人民のための政治。<p>はい、これを言ったのは誰でしょう？<n>リンカーン大統領ですね。
+EN: Ah, you learned this in school, yes?<n>Government of the people, by the people, for the people.<p>Now, who said these famous words?<n>President Lincoln, of course!
+
+@20BE4 max=287
+JP: "Government of the people,<n>by the people, for the people."<n>意味：人民の、人民による、人民のための政治。<n>備考：リンカーン大統領の言葉
+EN: "Government of the people,<n>by the people, for the people."<n>Meaning: Government belonging to, run by, and serving the people.<n>Note: Words of President Lincoln.
+
+@20DA4 max=351
+JP: あいにく、違います。<n>何かを、申し訳なく否定するときに使いますね。
+EN: Sadly, the answer is no.<n>A polite way to say no when you feel sorry about it, yes?
+
+@20F04 max=287
+JP: I'm afraid not.<n>意味：あいにく、違います。<n>備考：申し訳なく否定するときに使います。
+EN: I'm afraid not.<n>Meaning: Unfortunately, no.<n>Note: A polite, apologetic way to say no.
+
+@210C4 max=351
+JP: ま、場合によるけど。というような意味ですね。
+EN: This means, "Well, it depends on the situation."
+
+@21224 max=287
+JP: That depends.<n>意味：ま、場合によるけど。
+EN: That depends.<n>Meaning: It depends on the situation.
+
+@213E4 max=351
+JP: ダメ。全然、わからない、という場合にいいますね。
+EN: You say this when you have absolutely no clue.
+
+@21544 max=287
+JP: I have no idea.<n>意味：ダメ。全然、わからない。
+EN: I have no idea.<n>Meaning: I haven't got a clue.
+
+@21704 max=351
+JP: ボクはライ麦畑でつかまえる人になりたいよ。<n>ん？まったく意味がわかりませんね、<p>この文章に隠された深い意味を知りたい人は、<n>サリンジャーの「ライ麦畑でつかまえて」を<p>読んでください。
+EN: I want to catch people in a field of rye.<n>Hmm? What on earth does that mean?<p>If you wish to discover the deeper meaning,<n>pick up J. D. Salinger's "The Catcher in the Rye"<p>and give it a read, yes?
+
+@21864 max=287
+JP: I'd just be the catcher in the rye.<n>意味：ボクはライ麦畑でつかまえる人になりたいよ。<n>備考：サリンジャーの「ライ麦畑でつかまえて」<n>の中のセリフ
+EN: I'd just be the catcher in the rye.<n>Meaning: I'd like to catch people in a field of rye.<n>Note: A line from J. D. Salinger's novel<n>"The Catcher in the Rye."
+
+@21A24 max=351
+JP: 男は気で、女は顔で年をとる…<p>いやー、気が若ければいつまでも<n>若いってことですね。
+EN: A man's age is in his spirit; a woman's is in her face...<p>Ah, so if you stay young at heart,<n>you can stay young forever, yes?
+
+@21B84 max=287
+JP: "A man is as old as he feels,<n>and a woman as old as she looks."<n>意味：男は気で、女は顔で年をとる…。
+EN: "A man is as old as he feels,<n>and a woman as old as she looks."<n>Meaning: A man's age is how he feels; a woman's is how she looks.
+
+@21D44 max=351
+JP: レストランで何を食べようか迷ったとき。<n>あれ、隣の女性がおいしそうなものを食べている！<p>あれが食べたい！ってことありますよねー。<n>そういうときは、ウェイターさんに、<p>そっとこういいます。<n>彼女の食べてるのと同じのください。
+EN: Can't decide what to order at a restaurant?<n>Oh! That lady nearby is eating something delicious!<p>Suddenly, you want the very same thing, yes?<n>Just call over the waiter,<p>and quietly say this:<n>I'll have the same dish as her, please.
+
+@21EA4 max=287
+JP: I'll have what she's having.<n>意味：彼女の食べてるのと同じのください。
+EN: I'll have what she's having.<n>Meaning: I'd like the same thing as her, please.
+
+@22064 max=351
+JP: もう寝ましょう！ってことですが、<n>bedの前にtheはつけないでくださいねー。<p>theをつけると<n>いわゆるお誘いの言葉に変身しますねー。
+EN: This means, "Time to sleep!"<n>But be careful not to put "the" before "bed," yes?<p>Add "the," and suddenly<n>it sounds like a rather different sort of invitation!
+
+@221C4 max=287
+JP: Let's go to bed!<n>意味：もう寝ましょう！
+EN: Let's go to bed!<n>Meaning: Let's go to sleep now!
+
+@22384 max=351
+JP: どーーーーしてこうなっちゃったのか、<n>ちゃんと説明してみなさい！<p>ってお母さんが子供を怒ったりするフレーズですね。<n>上司に怒られるときもこんな風に言われますねー。
+EN: How on earth did this happen?<n>You had better give me a proper explanation!<p>A mother might say this when scolding her child.<n>Or a boss might say it to you. Oh dear!
+
+@224E4 max=287
+JP: Explain yourself!!<n>意味：どーーーーしてこうなっちゃったのか、<n>ちゃんと説明してみなさい！
+EN: Explain yourself!!<n>Meaning: How on earth did this happen?<n>You had better give me a proper explanation!
+
+@226A4 max=351
+JP: イギリスの哲学者、ベーコンのフレーズ。<p>滞ったお金っていうのは肥やしのように臭うけど、<n>撒けばきちんと役に立つ。<p>うーん、すばらしいですね、<n>誰かワタシにもお金撒いて欲しいですね。
+EN: A saying from Bacon, the English philosopher.<p>Money left in a heap stinks like manure,<n>but spread it around, and it does some good!<p>Ah, such wonderful wisdom.<n>I wish someone would spread a little money my way!
+
+@22804 max=287
+JP: "Money is like muck,<n>not good except it be spread."<n>意味：滞ったお金は肥やしのように臭うが、<n>撒けばきちんと役に立つ。<n>備考：哲学者、ベーコンの言葉
+EN: "Money is like muck,<n>not good except it be spread."<n>Meaning: Money in a heap stinks like manure,<n>but spread it around, and it does some good.<n>Note: Words of the philosopher Francis Bacon.
+
+@229C4 max=351
+JP: 何でわかったの？ということですねー。
+EN: This means, "How did you figure that out?"
+
+@22B24 max=287
+JP: How did you know?<n>意味：何でわかったの？
+EN: How did you know?<n>Meaning: How did you figure that out?
+
+@22CE4 max=351
+JP: ちょっとしゃれたレストランで、<n>あるいは、こだわりのメニューがあるようなお店で、<p>こんな風に聞いてみましょう。<n>お勧めはありますか？<p>という意味ですね。
+EN: At a fancy little restaurant,<n>or somewhere with special dishes on the menu,<p>try asking this question.<n>Is there anything you would recommend?<p>That is what this phrase means, yes?
+
+@22E44 max=287
+JP: What do you recommend?<n>意味：お勧めはありますか？
+EN: What do you recommend?<n>Meaning: What would you suggest I try?
+
+@23004 max=351
+JP: 新しい彼ができたのーと言っているお友達に<n>こう聞いてくださいー。<p>誰に似ている？ということですねー。
+EN: Your friend says she has a new boyfriend?<n>Try asking her this question!<p>Does he look like anyone famous, perhaps?
+
+@23164 max=287
+JP: Who does he look like?<n>意味：彼は誰に似ているの？
+EN: Who does he look like?<n>Meaning: Who does he resemble?
+
+@23324 max=351
+JP: 人として最大の罪は憎むことではなく、<n>無関心でいることである。<p>つまりは無関心こそが、<n>非人道的な行為の源なのである。<p>うーーーん、難しいけどその通りですねー。<n>これは劇作家、バーナード・ショーのフレーズです。
+EN: Our greatest sin toward others is not hatred,<n>but indifference.<p>Yes, indifference is the very heart<n>of inhumanity.<p>Hmm... difficult words, but very true, yes?<n>This is from playwright Bernard Shaw.
+
+@23484 max=287
+JP: "The worst sin towards our fellow creatures<n>is not to hate them.<n>But to be indifferent to them:<n>that's the essence of inhumanity."<n>意味：人として最大の罪は憎むことではない。<n>無関心こそが、非人道的な行為の源なのである。<n>備考：劇作家、バーナード・ショーのフレーズ
+EN: "The worst sin towards our fellow creatures<n>is not to hate them.<n>But to be indifferent to them:<n>that's the essence of inhumanity."<n>Meaning: Our worst sin is indifference.<n>It is the heart of inhumanity.<n>Note: Playwright Bernard Shaw.
+
+@23644 max=351
+JP: 混沌＝カオスは私の友人だ…とは、<p>ロックシンガー、<n>ボブ・デュランの言葉でありますー。
+EN: Chaos is a friend of mine...<p>These are the words of rock singer<n>Bob Dylan, yes?
+
+@237A4 max=287
+JP: Chaos is a friend of mine.<n>意味：混沌＝カオスは私の友人だ…。<n>備考：ロックシンガー、ボブ・デュランの言葉
+EN: Chaos is a friend of mine.<n>Meaning: Disorder and I are good friends.<n>Note: Words of rock singer Bob Dylan.
+
+@23964 max=351
+JP: 相手が何を言っているかわからないとき、<n>こう言ってくださいー。<p>もう一回言ってください。
+EN: When you do not understand someone,<n>you can say this, yes?<p>Please say that again.
+
+@23AC4 max=287
+JP: I beg your pardon.<n>意味：もう一回言ってください。
+EN: I beg your pardon.<n>Meaning: Could you say that again?
+
+@23C84 max=351
+JP: 電話で英語の受け応えができるようになれば一人前。<p>これは、そのままお待ちください、<n>ということですねー。
+EN: Once you can handle phone calls in English, you are a pro!<p>This means, please wait<n>without hanging up, yes?
+
+@23DE4 max=287
+JP: Hold on, please.<n>意味：そのままお待ちください。<n>備考：電話での受け応え
+EN: Hold on, please.<n>Meaning: Please stay on the line.<n>Note: Used on the telephone.
+
+@23FA4 max=351
+JP: ８時にモーニングコールお願いします。<n>ホテルなんかで使える言葉ですねー。<p>英語ではモーニングコールとはいいませんので<n>注意してくださいねー。
+EN: Please wake me up at eight.<n>A useful phrase at hotels, yes?<p>In English, this is a "wake-up call."<n>Careful! "Morning call" will not do.
+
+@24104 max=287
+JP: Could you give me a wake-up call at eight?<n>意味：８時にモーニングコールお願いします。
+EN: Could you give me a wake-up call at eight?<n>Meaning: Please call to wake me up at eight.
+
+@242C4 max=351
+JP: 味が濃いです、ということですね。
+EN: This means the taste is very strong, yes?
+
+@24424 max=287
+JP: This has a strong flavor.<n>意味：味が濃いです。
+EN: This has a strong flavor.<n>Meaning: This tastes quite intense.
+
+@245E4 max=351
+JP: ちょっと手を貸して！という意味ですね。<p>重たくて一人じゃ運べないものとか<n>お願いするときに言ってみて。
+EN: This means, please give me a little help!<p>Try it when something is too heavy<n>for you to carry alone, yes?
+
+@24744 max=287
+JP: Lend me a hand, please.<n>意味：ちょっと手を貸して！
+EN: Lend me a hand, please.<n>Meaning: Please help me out!
+
+@24904 max=351
+JP: さーあ、ガンガン食べてね！<n>と親しい人にご飯をお薦めする言葉です。
+EN: Come now, eat up!<n>You say this to friends when serving food, yes?
+
+@24A64 max=287
+JP: Dig in!<n>意味：さーあ、ガンガン食べてね！
+EN: Dig in!<n>Meaning: Go ahead and eat up!
+
+@24C24 max=351
+JP: あーーーーもう時間に間に合わない！<n>そんな時、運転手さん急いで！というフレーズです。
+EN: Aaah! You will never make it in time!<n>Here is how you ask your driver to hurry, yes?
+
+@24D84 max=287
+JP: Please hurry.<n>意味：急いで！
+EN: Please hurry.<n>Meaning: Be quick!
+
+@24F44 max=351
+JP: う、恥ずかしい、穴があったら入りたい。<p>ボタン掛け違えて<n>電車に乗っちゃったときなんかに有効ですね。
+EN: Oh, so embarrassing! You wish the ground would swallow you!<p>Useful when you board a train<n>with your shirt buttoned all wrong, yes?
+
+@250A4 max=287
+JP: I am so embarrassed.<n>意味：う、恥ずかしい、穴があったら入りたい。
+EN: I am so embarrassed.<n>Meaning: Oh, I wish I could crawl into a hole!
+
+@25264 max=351
+JP: ポットはテーブルに置いてください。<n>という意味ですねー。
+EN: This asks someone to put the pot<n>on the table, yes?
+
+@253C4 max=287
+JP: Place the pot on the table, please.<n>意味：ポットはテーブルに置いてください。
+EN: Place the pot on the table, please.<n>Meaning: Please put the pot on the table.
+
+@25584 max=351
+JP: なんだかおいしそうではあるけれど、<n>いったいどうやって食べればいいか<p>わかんないものってありますねー。<n>そんなご飯を目の前に一言、<p>どうやって食べるのーー？？
+EN: Sometimes food looks delicious,<n>but how are you supposed to eat it?<p>You have no idea, yes?<n>With such a dish before you, just ask...<p>How do you eat this?!
+
+@256E4 max=287
+JP: How do you eat this?<n>意味：どうやって食べるのーー？
+EN: How do you eat this?<n>Meaning: What is the way to eat this?
+
+@258A4 max=351
+JP: 日本語の通訳が必要なのですが、<n>という意味ですね。<p>旅先でトラブルにあったとき、<n>正確な話し合いを必要とする場合は、<p>ちゃんと通訳が必要、と求めたほうが<n>良い場合もありますねー。
+EN: This means you need someone<n>to interpret Japanese for you.<p>If trouble finds you on your travels,<n>and every word must be understood correctly...<p>Sometimes it is best to ask clearly<n>for an interpreter, yes?
+
+@25A04 max=287
+JP: I need a Japanese interpreter.<n>意味：日本語の通訳が必要です。
+EN: I need a Japanese interpreter.<n>Meaning: I need someone to interpret Japanese for me.
+
+@25BC4 max=351
+JP: これは、足のスネのことですー。
+EN: This is the front of your lower leg, yes?
+
+@25D24 max=287
+JP: Shin<n>意味：足のスネ。
+EN: Shin<n>Meaning: The front of the lower leg.
+
+@25EE4 max=351
+JP: これは、おへそのことですー。
+EN: This is your navel, yes?
+
+@26044 max=287
+JP: Belly button<n>意味：おへそ。
+EN: Belly button<n>Meaning: Your navel.
+
+@26204 max=351
+JP: これはキーホルダーのこと。<n>キーホルダーとは言いません。
+EN: This is the little chain that holds your keys.<n>In English, you say "key chain," yes?
+
+@26364 max=287
+JP: Key chain<n>意味：キーホルダー。
+EN: Key chain<n>Meaning: A chain or ring that holds your keys.
+
+@26524 max=351
+JP: 幸福は、達成の喜び、<n>そして新しい何かを生み出すスリルのことである。<p>これはルーズベルト元米国大統領が言ったフレーズ。<p>このように感じることができる人こそ、<n>幸せですねー。
+EN: Happiness is the joy of achieving something,<n>and the thrill of creating something new.<p>Former US President Roosevelt said this.<p>Someone who can feel this way<n>is happy indeed, yes?
+
+@26684 max=287
+JP: "Happiness lies in the joy of achievement<n>and the thrill of creative effort."<n>意味：幸福は、達成の喜び、<n>そして新しい何かを生み出すスリルのことである。<n>備考：ルーズベルト元米国大統領の言葉
+EN: "Happiness lies in the joy of achievement<n>and the thrill of creative effort."<n>Meaning: Happiness comes from achieving things<n>and the excitement of creating something new.<n>Note: Words of former US President Roosevelt.
+
+@26844 max=351
+JP: イギリスの古いことわざ。<n>熱意は伝染する、という意味です。<p>確かにやる気のないプロジェクトでも<n>一人真剣にがんばっている人がいると、<p>だんだん周りもやる気になるもんですよねー。
+EN: An old English proverb.<n>It means enthusiasm spreads from person to person.<p>Even on a project nobody cares about,<n>if one person gives it their all...<p>Soon everyone else starts feeling motivated too, yes?
+
+@269A4 max=287
+JP: Enthusiasm is contagious.<n>意味：熱意は伝染する。<n>備考：イギリスのことわざ
+EN: Enthusiasm is contagious.<n>Meaning: Excitement spreads to others.<n>Note: An English proverb.
+
+@26B64 max=351
+JP: あなた自身を助けなさい、という意味ではなく、<n>どうぞ、ご自由に召し上がってください、<p>というお薦めの言葉です。
+EN: This is an invitation to eat,<n>and take as much as you like.<p>No need to wait for someone to serve you, yes?
+
+@26CC4 max=287
+JP: Help yourself.<n>意味：どうぞ、ご自由に召し上がってください。
+EN: Help yourself.<n>Meaning: Please take whatever you would like to eat.
+
+@26E84 max=351
+JP: ちょっとお願いしてもいい？という意味。
+EN: This means, may I ask you a little favor, yes?
+
+@26FE4 max=287
+JP: Would you do me a favor?<n>意味：ちょっとお願いしてもいい？
+EN: Would you do me a favor?<n>Meaning: Could I ask a little favor?
+
+@271A4 max=351
+JP: さんざんあれこれ言われて、<n>ついに、絶対言われたくない一言を言われちゃって、<p>切れちゃったらこう！<n>もう終わり！切れた！
+EN: Someone keeps picking at you,<n>then finally says the one thing you cannot stand...<p>And you snap! Say this!<n>Enough! You have pushed me too far!
+
+@27304 max=287
+JP: That does it!!<n>意味：もう終わり！切れた！
+EN: That does it!!<n>Meaning: Enough! Now I'm angry!
+
+@274C4 max=351
+JP: 子供の手遊び歌で、頭、肩、膝、つま先。<n>触りながら簡単な体操をする歌のフレーズですねー。
+EN: Head, shoulders, knees, toes! A children's song, yes?<n>You touch each part as you sing. Such easy exercise!
+
+@27624 max=287
+JP: Head shoulders knees and toes.<n>意味：頭、肩、膝、つま先。<n>備考：子供の手遊び歌
+EN: Head, shoulders, knees and toes.<n>Meaning: Touch each body part as you sing!<n>Note: A children's action song.
+
+@277E4 max=351
+JP: これ、なんだかわかりましたか？<p>そう、国名イギリスの正しい表記ですね。<n>イギリスとは言いません。
+EN: Oh! Do you recognize this name?<p>Yes, the full official name of the UK.<n>'Igirisu' is what they call it in Japanese.
+
+@27944 max=287
+JP: "United Kingdom of Great Britain<n>and Northern Ireland"<n>意味：イギリス。<n>備考：イギリスの正式名称
+EN: "United Kingdom of Great Britain<n>and Northern Ireland"<n>Meaning: The UK.<n>Note: The country's full official name.
+
+@27B04 max=351
+JP: クリームパフというと<n>まるで化粧に使うものみたいですが、<p>これはシュークリームのこと。<n>シュークリームは英語では靴墨のこと、です。
+EN: 'Cream puff' sounds like something<n>you might use to put on makeup, yes?<p>But it is the pastry called 'shu kurimu' in Japanese.<n>Say 'shoe cream' in English, and you mean shoe polish!
+
+@27C64 max=287
+JP: Cream puff<n>意味：シュークリーム。
+EN: Cream puff<n>Meaning: A pastry filled with cream, called 'shu kurimu' in Japanese.
+
+@27E24 max=351
+JP: オレって花子ちゃんと<n>二年付き合ってるんだ～という恋人宣言ですねー。
+EN: You are announcing your romance, yes?<n>'Hanako and I have been dating for two years!'
+
+@27F84 max=287
+JP: I've been with Hanako for two years.<n>意味：オレ、花子ちゃんと二年付き合ってるんだ。
+EN: I've been with Hanako for two years.<n>Meaning: Hanako and I have been dating for two years.
+
+@28144 max=351
+JP: 今、彼氏がいないの！という意味です。
+EN: It means, 'I have no boyfriend right now!'
+
+@282A4 max=287
+JP: I don't have a date.<n>意味：今、彼氏がいないの！
+EN: I don't have a date.<n>Meaning: I don't have a boyfriend right now!
+
+@28464 max=351
+JP: これはちょっと面倒な言葉。<p>米国ではこれはビルの一階ですが、<n>イギリスでは２階です。<p>ちなみにイギリスで一階のことは<n>ground floorです。
+EN: Oh, this one is a little tricky.<p>In America, this is the floor at street level.<n>In Britain, it is one floor above that!<p>The British name for the floor at street level<n>is 'ground floor,' you see.
+
+@285C4 max=287
+JP: First floor<n>意味：米国ではビルの一階、イギリスでは２階。
+EN: First floor<n>Meaning: The street-level floor in the US; one floor above street level in the UK.
+
+@28784 max=351
+JP: 私は昨日に戻ることはできない。<n>だって昨日は別の人間だったのだから。<p>不思議の国のアリスで有名な<n>ルイス・キャロルの言葉ですねー。
+EN: I cannot go back to yesterday.<n>I was a different person then, after all.<p>These words are by Lewis Carroll,<n>the author famous for Alice in Wonderland.
+
+@288E4 max=287
+JP: "I can't go back to yesterday,<n>because I was a different person then."<n>意味：私は昨日に戻ることはできない。<n>だって昨日は別の人間だったのだから。<n>備考：作家ルイス・キャロルの言葉
+EN: "I can't go back to yesterday,<n>because I was a different person then."<n>Meaning: I cannot return to yesterday.<n>I was someone different then.<n>Note: Words by author Lewis Carroll.
+
+@28AA4 max=351
+JP: ジョン・レノンは言いました、<n>私が少年だった頃、すべてのものは正しかった。<p>確かにそうですねー、<n>何も疑わなかった、あの頃。
+EN: John Lennon said,<n>'When I was a boy, everything was right.'<p>Ah, yes. Those childhood days,<n>when we never questioned a thing.
+
+@28C04 max=287
+JP: When I was a boy, everything was right.<n>意味：私が少年だった頃、すべてのものは正しかった。<n>備考：ミュージシャン、ジョン・レノンの言葉
+EN: When I was a boy, everything was right.<n>Meaning: As a boy, I felt everything was as it should be.<n>Note: Words by musician John Lennon.
+
+@28DC4 max=351
+JP: 二人いないとケンカはできない。<n>古いことわざなんですねー。<p>確かに誰も相手にしなければ<n>一人でケンカはできませんねー。
+EN: You need two people to have a quarrel.<n>This is an old proverb, you see.<p>True enough! If nobody takes the bait,<n>you cannot have a fight all by yourself.
+
+@28F24 max=287
+JP: It takes two to make a quarrel.<n>意味：二人いないとケンカはできない。<n>備考：ことわざ
+EN: It takes two to make a quarrel.<n>Meaning: A quarrel needs two people.<n>Note: A proverb.
+
+@290E4 max=351
+JP: ことわざで、<n>ヒョウはその斑点を変えることはできない、<p>つまり日本語でいうところの、<n>三つ子の魂百まで、ですねー。
+EN: There is a proverb that says,<n>'A leopard cannot change its spots.'<p>In Japan, they say a three-year-old's nature<n>stays with them until a hundred. Same idea, yes?
+
+@29244 max=287
+JP: A leopard cannot change its spots.<n>意味：ヒョウはその斑点を変えることはできない。<n>つまり三つ子の魂百まで、ということ。<n>備考：ことわざ
+EN: A leopard cannot change its spots.<n>Meaning: A person's basic nature does not change.<n>Like the Japanese saying, 'A three-year-old's nature lasts to a hundred.'<n>Note: A proverb.
+
+@29404 max=351
+JP: 一緒に釣りに行きませんか？ってお誘いですねー。
+EN: An invitation, yes? 'Shall we go fishing together?'
+
+@29564 max=287
+JP: Do you want to go fishing with me?<n>意味：一緒に釣りに行きませんか？
+EN: Do you want to go fishing with me?<n>Meaning: Would you like to come fishing together?
+
+@29724 max=351
+JP: そいつぁ、面白いな！というフレーズですね。<n>テンポのいい相槌として使えますねー。
+EN: It means, 'Oh, that sounds interesting!'<n>A handy little reply to keep the conversation flowing, yes?
+
+@29884 max=287
+JP: How interesting!<n>意味：そいつぁ、面白いな！
+EN: How interesting!<n>Meaning: Oh, that sounds fascinating!
+
+@29A44 max=351
+JP: 彼に会えなくて本当に切ないの！<n>うーーん、遠距離恋愛でしょうか？<p>それとも事情があって別れちゃったんでしょうか？<n>悲しいですねー。
+EN: Oh, how it hurts to be apart from him!<n>Hmm... A long-distance romance, perhaps?<p>Or did something force them to break up?<n>Such a sad feeling, yes?
+
+@29BA4 max=287
+JP: I can't tell you how much I miss him!<n>意味：彼に会えなくて本当に切ないの！
+EN: I can't tell you how much I miss him!<n>Meaning: It hurts so much to be apart from him!
+
+@29D64 max=351
+JP: ん？これがわからないのは問題ですねー。<p>どうもありがとうございます、<n>ということですねー。
+EN: Hmm? If this one puzzles you, we have a problem!<p>It means you are very grateful,<n>and wish to say so politely.
+
+@29EC4 max=287
+JP: Thank you very much.<n>意味：どうもありがとうございます。
+EN: Thank you very much.<n>Meaning: I'm very grateful.
+
+@2A084 max=351
+JP: 朝一から打ち合わせして、<n>お昼はミーティングで食べられなくて、<p>午後はプレゼンで、夜は接待。<p>ああ、大変な一日だった…<n>というときに言いますねー。
+EN: A meeting first thing in the morning,<n>then another meeting makes you miss lunch...<p>A presentation all afternoon, then entertaining clients at night.<p>Ah, what an exhausting day...<n>This is what you say at a time like that.
+
+@2A1E4 max=287
+JP: I've had a tough day today.<n>意味：ああ、大変な一日だった…。
+EN: I've had a tough day today.<n>Meaning: What an exhausting day it's been...
+
+@2A3A4 max=351
+JP: このズボンをお試しになってはいかがですか？<p>きっとお似合いになりますよ、って、<n>洋服屋の店員さんのお薦め文句ですね。
+EN: 'Would you like to try on these pants?'<p>'They'll look great on you!'<n>A shop assistant says this to recommend some clothes, yes?
+
+@2A504 max=287
+JP: "Would you like to try on this pants?<n>It'll look great on you."<n>意味：このズボンをお試しになってはいかがですか？<n>きっとお似合いになりますよ。
+EN: "Would you like to try on these pants?<n>They'll look great on you."<n>Meaning: Why not give these pants a try?<n>I'm sure they'll suit you.
+
+@2A6C4 max=351
+JP: 練習は欠かさずやってきたし、<n>体調も万全だし、あとは実力を出すのみ！<p>本番前の掛け声は、がんばれ！のみです！
+EN: You have practiced faithfully and feel your best.<n>All that remains is to show what you can do!<p>Just before the big moment, give this cheer: 'Do your best!'
+
+@2A824 max=287
+JP: Do your best!<n>意味：がんばれ！
+EN: Do your best!<n>Meaning: Give it all you've got!
+
+@2A9E4 max=351
+JP: 美容院に行って一言。<n>カットとパーマお願いします。<p>でも、実はここからの細かいオーダーが<n>面倒だったりしますね…
+EN: At the salon, you say one simple thing:<n>'A cut and a perm, please.'<p>But then come all the little details...<n>Explaining those can be the hard part, yes?
+
+@2AB44 max=287
+JP: I'd like to get my hair cut and permed.<n>意味：カットとパーマお願いします。
+EN: I'd like to get my hair cut and permed.<n>Meaning: A cut and a perm, please.
+
+@2AD04 max=351
+JP: 予約なさったほうがよろしいですね、<n>というフレーズ。<p>旅先なんかでよく聞く言葉ですねー。
+EN: This phrase means,<n>'It would be best to make a reservation.'<p>You hear it often when traveling, yes?
+
+@2AE64 max=287
+JP: I think you should make a reservation.<n>意味：予約なさったほうがよろしいですね。
+EN: I think you should make a reservation.<n>Meaning: It would be best to book ahead.
+
+@2B024 max=351
+JP: ここから新宿駅まで歩いて行けますか？<n>という質問の言葉。<p>だけど、私は３０分なら歩ける、<n>いや、私は５分歩くと疲れる、<p>と個人差のあることだから<n>答えはちょっと難しいですねー。<p>一般的に１０分ぐらいの距離なら<n>歩けるのでしょうかーー？
+EN: This asks, "Can I walk from here<n>to Shinjuku Station?"<p>But one person can walk for 30 minutes,<n>while another gets tired after five!<p>Everyone is different, so this question<n>is a little tricky to answer, yes?<p>Perhaps a ten-minute walk<n>is reasonable for most people?
+
+@2B184 max=287
+JP: Can I walk to Shinjuku-station from here?<n>意味：ここから新宿駅まで歩いて行けますか？
+EN: Can I walk to Shinjuku Station from here?<n>Meaning: Is Shinjuku Station within walking distance?
+
+@2B344 max=351
+JP: よかったね！<n>というフレーズですねー。
+EN: This is a phrase for saying,<n>"Oh, how nice for you!"
+
+@2B4A4 max=287
+JP: Good for you!<n>意味：よかったね！
+EN: Good for you!<n>Meaning: That's great news!
+
+@2B664 max=351
+JP: ずばり、血は水よりも濃い、です。
+EN: Quite simply, blood is thicker than water!
+
+@2B7C4 max=287
+JP: Blood is thicker than water.<n>意味：血は水よりも濃い。
+EN: Blood is thicker than water.<n>Meaning: Family ties are stronger than other bonds.
+
+@2B984 max=351
+JP: 事実は小説よりも奇なり。<n>本当に世の中、現実のほうが進んじゃってます。
+EN: Fact is stranger than fiction.<n>Oh, the real world is always one step ahead!
+
+@2BAE4 max=287
+JP: Fact is stranger than fiction.<n>意味：事実は小説よりも奇なり。
+EN: Fact is stranger than fiction.<n>Meaning: Real life can be more surprising than stories.
+
+@2BCA4 max=351
+JP: 見るために、私は目を閉じる。<n>ゴーギャンのフレーズです。
+EN: I shut my eyes in order to see.<n>These are the words of Gauguin, yes.
+
+@2BE04 max=287
+JP: I shut my eyes in order to see.<n>意味：見るために、私は目を閉じる。<n>備考：画家ゴーギャンの言葉
+EN: I shut my eyes in order to see.<n>Meaning: Closing my eyes helps me truly see.<n>Note: Words of the painter Gauguin.
+
+@2BFC4 max=351
+JP: 私の友達、結婚することにしたんだってーー、<n>という意味ですね。
+EN: This means, "My friend has decided<n>to get married!"
+
+@2C124 max=287
+JP: My friend has decided to settle down.<n>意味：私の友達、結婚することにしたんだって。
+EN: My friend has decided to settle down.<n>Meaning: My friend has decided to get married.
+
+@2C2E4 max=351
+JP: ちょっと友達をお茶にでも誘いたいとき、<n>こう言って。<p>明日の午後、時間ある？<n>という意味です。
+EN: Want to invite a friend for tea?<n>Try saying this!<p>It means, "Do you have any time<n>tomorrow afternoon?"
+
+@2C444 max=287
+JP: Are you free tomorrow afternoon?<n>意味：明日の午後、時間ある？
+EN: Are you free tomorrow afternoon?<n>Meaning: Do you have time tomorrow afternoon?
+
+@2C604 max=351
+JP: これ、先生がよく言いますねーー。<n>はい！ちゃんと聞きなさい！ってことですねー。
+EN: Teachers say this one very often, yes?<n>It means, "Now! Listen carefully!"
+
+@2C764 max=287
+JP: Pay attention!<n>意味：ちゃんと聞きなさい！
+EN: Pay attention!<n>Meaning: Listen carefully!
+
+@2C924 max=351
+JP: これは簡単ですが、とってもよく使います。<p>ちょっと通して欲しいとき、<n>ちょっとぶつかったとき、<p>ちょっと注意を引きたいとき、<n>いろいろ便利に使えます。<p>失礼、ぐらいの軽い感じで言ってください。
+EN: Very simple, but very useful!<p>When you wish to squeeze past someone,<n>or you bump into them by accident...<p>Or when you wish to get their attention!<n>Oh, so many uses.<p>Say it lightly, like a little polite apology.
+
+@2CA84 max=287
+JP: Excuse me.<n>意味：失礼！
+EN: Excuse me.<n>Meaning: Pardon me!
+
+@2CC44 max=351
+JP: 冗談、冗談。ということ。<p>本当に冗談のとき使ってください。<n>ごまかしに使うと険悪になりますよー。
+EN: This means, "Only a joke!"<p>Please use it when you really are joking.<n>Use it to cover your tracks, and tempers may flare!
+
+@2CDA4 max=287
+JP: Just kidding.<n>意味：冗談、冗談。
+EN: Just kidding.<n>Meaning: I'm only joking.
+
+@2CF64 max=351
+JP: 便りのないのは良い便り、<n>なんて日本でも言いますが、その英語版。
+EN: We say this in Japan too, yes?<n>If no word arrives, all must be well!
+
+@2D0C4 max=287
+JP: No news is good news.<n>意味：便りのないのは良い便り。
+EN: No news is good news.<n>Meaning: Hearing nothing suggests all is well.
+
+@2D284 max=351
+JP: 謎のミステリー作家アガサ・クリスティの言葉。<p>女性にとって最高の夫は考古学者である、<n>女性が歳を取れば取るほど関心を持ってくれるから。<p>実際の考古学者さんたちは、<n>そんなことはないと思いますーー。
+EN: These words come from mystery writer Agatha Christie.<p>An archaeologist makes the best husband for a woman.<n>The older she gets, the more interested he becomes!<p>Though I suspect real archaeologists<n>might have something to say about that!
+
+@2D3E4 max=287
+JP: "An archaeologist is the best husband<n>a woman can have.<n>The older she gets, the more interest he<n>takes in her."<n>意味：女性にとって最高の夫は考古学者である、<n>女性が歳を取るほど関心を持ってくれるから。<n>備考：作家アガサ・クリスティの言葉
+EN: "An archaeologist is the best husband<n>a woman can have.<n>The older she gets, the more interest he<n>takes in her."<n>Meaning: An archaeologist loves old things,<n>so his wife grows more fascinating with age!<n>Note: Words of author Agatha Christie.
+
+@2D5A4 max=351
+JP: ローマは一日にして成らず。<p>うーーん、大器晩成ですね、<n>長い目で見守ってください。
+EN: Rome was not built in a day.<p>Mmm, great things take time to blossom.<n>Please be patient with them, yes?
+
+@2D704 max=287
+JP: Rome was not built in a day.<n>意味：ローマは一日にして成らず。
+EN: Rome was not built in a day.<n>Meaning: Great things take time.
+
+@2D8C4 max=351
+JP: 習うより慣れよ、<n>つまり、練習をたくさんすることで完成する、<p>ということですね。<n>ピアノの練習なんかの時に、言われたりしますねー。
+EN: You learn by doing, yes?<n>With plenty of practice, you can perfect your skill.<p>That is what this means.<n>You may hear it while practicing the piano!
+
+@2DA24 max=287
+JP: Practice makes perfect.<n>意味：習うより慣れよ。
+EN: Practice makes perfect.<n>Meaning: You improve by doing something over and over.
+
+@2DBE4 max=351
+JP: ああ、恋は盲目ナリ・・・。<n>今のあの子に、何を言っても無駄ですねーーー。
+EN: Ah, love is blind...<n>No use telling that lovestruck girl anything now!
+
+@2DD44 max=287
+JP: Love is blind.<n>意味：恋は盲目。
+EN: Love is blind.<n>Meaning: Love can keep you from seeing someone's faults.
+
+@2DF04 max=351
+JP: 何か不用意に言ってしまい、<n>相手に誤解されてしまったようならこう言って。<p>誤解を招くようなことを言ってごめんね。
+EN: If you say something without thinking<n>and the other person misunderstands, try this.<p>It means, "Sorry if what I said gave you the wrong idea."
+
+@2E064 max=287
+JP: I'm sorry if I gave you the wrong impression.<n>意味：誤解を招くようなことを言ってごめんね。
+EN: I'm sorry if I gave you the wrong impression.<n>Meaning: Sorry if I made you misunderstand.
+
+@2E224 max=351
+JP: あーあ退屈だ。ということですね。<p>連休だってのに、<n>なんの予定もないのですー、私退屈ですー。
+EN: This means, "Oh, I have nothing to do!"<p>A whole long weekend ahead,<n>and no plans at all! Oh, such boredom!
+
+@2E384 max=287
+JP: I'm so bored.<n>意味：あーあ退屈だ。
+EN: I'm so bored.<n>Meaning: Oh, I have nothing to do.
+
+@2E544 max=351
+JP: これ、賞味期限チェックしたほうがいいよーー、<n>ってことですね。
+EN: This means, "You should check<n>whether this is past its best-before date!"
+
+@2E6A4 max=287
+JP: You'd better check the expiration date on this.<n>意味：これ、賞味期限チェックしたほうがいいよ。
+EN: You'd better check the expiration date on this.<n>Meaning: Check the date to see if this is still good.
+
+@2E864 max=351
+JP: 飛ぶ前に気をつけて！ということわざですね。<p>いわゆる、転ばぬ先の杖、<n>と同じような意味合いですねー。
+EN: This proverb says to be careful before you jump!<p>Much like "better safe than sorry,"<n>it advises taking precautions, yes?
+
+@2E9C4 max=287
+JP: Look before you leap!<n>意味：飛ぶ前に気をつけて、つまり、転ばぬ先の杖。<n>備考：ことわざ
+EN: Look before you leap!<n>Meaning: Think ahead and take precautions.<n>Note: A proverb.
+
+@2EB84 max=351
+JP: 彼女はホラー映画マニアです、ってことですねーー。
+EN: This means, "She is a huge horror movie fan!"
+
+@2ECE4 max=287
+JP: She's crazy about horror movies.<n>意味：彼女はホラー映画マニアです。
+EN: She's crazy about horror movies.<n>Meaning: She's a huge horror movie fan.
+
+@2EEA4 max=351
+JP: あらゆる人生は、神の手によるおとぎ話である。<p>そうですねー、ワタシの人生もおとぎ話、<n>あなたの人生もおとぎ話。<p>アンデルセンの言葉ですねー。いかにも！
+EN: Every life is a fairy tale written by God's hand.<p>Yes, yes! My life is fairy tale,<n>and your life is fairy tale too!<p>Words of Hans Christian Andersen, yes? Quite so!
+
+@2F004 max=287
+JP: "Every man's life is a fairy-tale written by<n>God's finger."<n>意味：あらゆる人生は、神の手によるおとぎ話である。<n>備考：作家アンデルセンの言葉
+EN: "Every man's life is a fairy-tale written by<n>God's finger."<n>Meaning: God writes every life like a fairy tale.<n>Note: A quote from author Hans Christian Andersen.
+
+@2F1C4 max=351
+JP: 大昔、ローマにいた哲学者、<n>エピクテトスさんのありがたいフレーズですー。<p>我々は二つの耳と一つの口を持っている。<n>つまり、しゃべるより２倍も、<p>多くのことを聞くことができる、ということです。<n>沈黙は金？ちょっと違いますねーー。
+EN: Here is wise saying from Epictetus,<n>a philosopher in ancient Rome.<p>We have two ears and one mouth.<n>So we can listen twice as much...<p>as we speak, yes?<n>Silence is golden? Hmm, a little different!
+
+@2F324 max=287
+JP: "We have two ears and one mouth so that<n>we can listen twice as much as we speak."<n>意味：我々は二つの耳と一つの口を持っている。<n>つまり、しゃべるより２倍も、<n>多くのことを聞くことができるということ。<n>備考：哲学者エピクテトスの言葉
+EN: "We have two ears and one mouth so that<n>we can listen twice as much as we speak."<n>Meaning: With two ears but only one mouth,<n>we should spend twice as much time listening<n>as we spend talking.<n>Note: A quote from philosopher Epictetus.
+
+@2F4E4 max=351
+JP: おそらく、ハワイ旅行で、<n>かなりの人がこのセリフを口にしているはず。<p>レンタカーしたいんです。
+EN: Many visitors to Hawaii must say<n>this little phrase, yes?<p>I'd like to rent a car.
+
+@2F644 max=287
+JP: I want to rent a car.<n>意味：レンタカーしたいんです。
+EN: I want to rent a car.<n>Meaning: I'd like a rental car.
+
+@2F804 max=351
+JP: この電話のかけ方をおしえてください。<n>ということ。<p>国によっては、電話のかけ方が<n>日本とは違う場合がありますから、<p>わかんないときは聞いてくださいーー。
+EN: Please show me how to use this phone.<n>That is what it means, yes?<p>In some countries, making a call<n>works differently than in Japan.<p>If you do not know how, just ask!
+
+@2F964 max=287
+JP: Please tell me how to use this phone?<n>意味：この電話のかけ方をおしえてください。
+EN: Please tell me how to use this phone?<n>Meaning: Could you show me how to make a call?
+
+@2FB24 max=351
+JP: ここ。ということですが、これ、学校などで、<n>お名前を呼ばれたときの返事に使いますね。<p>日本では、鈴木さんー、はい、となりますが、<n>アメリカでは返事は、Here、いまーす、ここでーす！
+EN: It means "in this spot," but at school,<n>you also say it when your name is called.<p>In Japan: "Suzuki?" "Hai!" In America,<n>you answer "Here!" Yes, I am right here!
+
+@2FC84 max=287
+JP: Here.<n>意味：ここ。はい。<n>備考：学校などで名前を呼ばれたときの返事
+EN: Here.<n>Meaning: In this spot. Present!<n>Note: Used to answer when your name is called at school.
+
+@2FE44 max=351
+JP: なんて楽しかったんでしょう！<p>誰かにおもてなしを受けたり、<n>どこかに行ったりして楽しかったら、<p>この言葉、プラス　Thank you！と言うと、<n>とても感情が伝わる御礼となりますねー。
+EN: What a lovely time I had!<p>When someone treats you to something,<n>or you have fun on an outing...<p>add "Thank you!" to this phrase,<n>and your thanks feel very heartfelt, yes?
+
+@2FFA4 max=287
+JP: I had a very nice time!<n>意味：なんて楽しかったんでしょう！
+EN: I had a very nice time!<n>Meaning: I really enjoyed myself!
+
+@30164 max=351
+JP: ふと振り返ったらカバンがない！<p>そんなときは、こう言いますねーー。<n>カバンが盗まれた！<p>でも、日本の人は、もうちょっと自分のカバンを<n>ちゃんと持ちましょうね。<p>特に、治安の悪い場所では気をつけて！
+EN: You turn around, and your bag is gone!<p>This is what you say, yes?<n>My bag was stolen!<p>But visitors from Japan should keep<n>a closer hold on their bags, please.<p>Especially in places with lots of crime!
+
+@302C4 max=287
+JP: My bag was stolen.<n>意味：カバンが盗まれた！
+EN: My bag was stolen.<n>Meaning: Someone stole my bag!
+
+@30484 max=351
+JP: 道端で座り込んで泣いている子供に、<n>どうしたの？と一言。<p>あ、もちろん、子供相手ばかりじゃなく、<n>誰にでも使えますねー。
+EN: A child is sitting by the road, crying.<n>You ask, "What's the matter?"<p>Oh, but this is not just for children!<n>You can say it to anyone, yes?
+
+@305E4 max=287
+JP: What's the matter?<n>意味：どうしたの？
+EN: What's the matter?<n>Meaning: What's wrong?
+
+@307A4 max=351
+JP: ポイ捨て、禁止。<p>ごみを捨てるな。<n>そういうことですーー。
+EN: No littering.<p>Do not throw rubbish on the ground.<n>That is what it means, yes!
+
+@30904 max=287
+JP: No littering.<n>意味：ポイ捨て、禁止。
+EN: No littering.<n>Meaning: Don't drop rubbish here.
+
+@30AC4 max=351
+JP: 花子さんは、いつもダイエットするわ、<n>と言っているけど、口ばっかりなんですよーー、<p>とういことですねー。
+EN: Hanako always says she will go on a diet,<n>but she never does anything about it...<p>That is what it means, yes!
+
+@30C24 max=287
+JP: "Hanako keeps saying she's going on a diet,<n>but she's all talk."<n>意味：花子さんは、いつもダイエットするわ、<n>と言っているけど、口ばっかりです。
+EN: "Hanako keeps saying she's going on a diet,<n>but she's all talk."<n>Meaning: Hanako always talks about dieting,<n>but never follows through.
+
+@30DE4 max=351
+JP: フォーチュンクッキー。<n>そう、中華のデザートのときに出てくる、<p>ぱりっとしたクッキーで<n>中にメッセージが入っている、アレですね。
+EN: Fortune cookie!<n>Yes, that crunchy little cookie served...<p>with dessert at Chinese restaurants,<n>with a message tucked inside!
+
+@30F44 max=287
+JP: Fortune cookie<n>意味：フォーチュンクッキー。<n>備考：中華料理のデザート菓子
+EN: Fortune cookie<n>Meaning: A cookie with a fortune inside.<n>Note: A dessert served at Chinese restaurants.
+
+@31104 max=351
+JP: おお、ロミオ、ロミオ、<n>あなたはなぜ、ロミオなの？<p>シェークスピアのロミオとジュリエット、<n>有名なバルコニーのシーンでのセリフです。<p>ただ、この文中の言葉はもう文語で、<n>普通の会話ではまったく使いませんねーー。
+EN: O Romeo, Romeo,<n>why must you be Romeo?<p>A famous line from the balcony scene<n>in Shakespeare's Romeo and Juliet.<p>But these words are old literary English.<n>We do not use them in everyday conversation, yes?
+
+@31264 max=287
+JP: O Romeo, Romeo, wherefore art thou Romeo?<n>意味：おお、ロミオ、ロミオ、<n>あなたはなぜ、ロミオなの？<n>備考：シェークスピアの「ロミオとジュリエット」<n>中のセリフ
+EN: O Romeo, Romeo, wherefore art thou Romeo?<n>Meaning: Oh, Romeo, Romeo,<n>why must you be Romeo?<n>Note: A line from Shakespeare's<n>Romeo and Juliet.
+
+@31424 max=351
+JP: アインシュタインの名言です。<p>数えられるすべてのものが大切なわけでもなく、<n>そして大切なものすべてが数えられるわけでもない。<p>うーーーん、深い。<p>これは、英語のcountという言葉が、<n>大切、と、数える、という二つの意味を持つことを<p>上手に使ったユーモアたっぷりの名言ですね。
+EN: A famous saying from Einstein, yes?<p>Not all that can be counted matters,<n>and not all that matters can be counted.<p>Hmm... very deep!<p>You see, the English word "count"<n>can mean both "add up" and "matter."<p>A clever saying with a little humor, yes?
+
+@31584 max=287
+JP: "Not everything that can be counted counts<n>and not everything that counts can be counted."<n>意味：数えられるすべてのものが大切なわけでもなく、<n>そして大切なものすべてが数えられるわけでもない。<n>備考：アインシュタインの名言
+EN: "Not everything that can be counted counts<n>and not everything that counts can be counted."<n>Meaning: Not all measurable things matter,<n>and not all things that matter are measurable.<n>Note: A famous quote from Einstein.
+
+@31744 max=351
+JP: 少々お待ちいただけますか？<n>ちょっと待ってね、そんな意味ですねー。
+EN: Could you wait just a moment?<n>"Hang on a second," that is the meaning, yes?
+
+@318A4 max=287
+JP: Could you give me a second?<n>意味：少々お待ちいただけますか？
+EN: Could you give me a second?<n>Meaning: Could you wait a moment?
+
+@31A64 max=351
+JP: 持ち帰り用に包んでください。<p>そう、食べ残しを持ち帰りたいとき、<n>doggie bagと言ったりします。
+EN: Please pack this up for me to take home.<p>Yes, when you want to take leftovers home,<n>you can ask for a "doggie bag."
+
+@31BC4 max=287
+JP: Can I have a doggie bag?<n>意味：持ち帰り用に包んでください。
+EN: Can I have a doggie bag?<n>Meaning: Could you pack my leftovers to take home?
+
+@31D84 max=351
+JP: 電話してもいい？<p>ということですねーー。<n>なんか、ドキドキしますねー。
+EN: May I phone you?<p>That is what it means, yes!<n>Oh, makes the heart flutter a little!
+
+@31EE4 max=287
+JP: Can I call you?<n>意味：電話してもいい？
+EN: Can I call you?<n>Meaning: May I phone you?
+
+@320A4 max=351
+JP: どこかに出かけたりする人に、<n>あるいは、さよならするときに、<p>じゃあね！気をつけて！<n>というような意味で使います。
+EN: When someone is heading out somewhere,<n>or when you are saying goodbye...<p>you use it to mean "See you!"<n>or "Look after yourself!"
+
+@32204 max=287
+JP: Take care!<n>意味：気をつけて！
+EN: Take care!<n>Meaning: Look after yourself!
+
+@323C4 max=351
+JP: 他人に求める変化をまず自分で行いなさい。<p>ガンジーさんのおっしゃった言葉ですねー。<n>その通りですねーー。
+EN: Make the changes in yourself that you wish to see in others.<p>These are Gandhi's words, yes?<n>Oh, very true indeed!
+
+@32524 max=287
+JP: Be the change you wish to see in other people.<n>意味：他人に求める変化をまず自分で行いなさい。<n>備考：宗教家ガンジーの言葉
+EN: Be the change you wish to see in other people.<n>Meaning: Change yourself as you wish others would change.<n>Note: A quote from spiritual leader Gandhi.
+
+@326E4 max=351
+JP: 百聞は一見にしかず。ということです。
+EN: Seeing something once beats hearing about it a hundred times, yes?
+
+@32844 max=287
+JP: Seeing is believing.<n>意味：百聞は一見にしかず。
+EN: Seeing is believing.<n>Meaning: One look is worth a hundred reports.
+
+@32A04 max=351
+JP: 光陰矢のごとし。<n>時は飛ぶんです、特に４０過ぎると。
+EN: Time flies like an arrow.<n>Oh, it really flies once you pass forty!
+
+@32B64 max=287
+JP: Time flies.<n>意味：光陰矢のごとし。
+EN: Time flies.<n>Meaning: Time passes as swiftly as an arrow.
+
+@32D24 max=351
+JP: それ、本当のこととは思えないなぁ、<n>という意味。
+EN: It means, "I find that hard to believe," yes.
+
+@32E84 max=287
+JP: I really doubt that it's true.<n>意味：それ、本当のこととは思えないなぁ。
+EN: I really doubt that it's true.<n>Meaning: I find that hard to believe.
+
+@33044 max=351
+JP: 私はアメリカ史に興味があります。<n>ということです。<p>アメリカ史は日本史よりうんと短いので、<n>少しは勉強しやすいかも？
+EN: It means, "American history interests me," yes.<p>American history is much shorter than Japanese history.<n>Perhaps there is less to study?
+
+@331A4 max=287
+JP: I'm very interested in American history.<n>意味：私はアメリカ史に興味があります。
+EN: I'm very interested in American history.<n>Meaning: I have a keen interest in American history.
+
+@33364 max=351
+JP: 夕べ夜更かししたんだ、<n>という意味。<p>なぜ夜更かししたのかは謎ですねー。
+EN: It means, "I went to bed late last night," yes.<p>But why so late? This is a mystery!
+
+@334C4 max=287
+JP: I stayed up late last night.<n>意味：夕べ夜更かししたんだ。
+EN: I stayed up late last night.<n>Meaning: I went to bed late last night.
+
+@33684 max=351
+JP: 友達と一緒にスポーツクラブへ。<n>ゲストなのでロッカーがありませんねー、<p>それで一言。<n>私の靴、あなたのロッカーに入れていい？
+EN: You visit a gym with your friend.<n>You are a guest, so you have no locker, yes?<p>Here is what you ask:<n>"Can I put my shoes in your locker?"
+
+@337E4 max=287
+JP: Can I put my shoes in your locker?<n>意味：私の靴、あなたのロッカーに入れていい？
+EN: Can I put my shoes in your locker?<n>Meaning: May I leave my shoes in your locker?
+
+@339A4 max=351
+JP: 角の新しいお店に行ってみましょう！<n>OLさんのランチ決めですか？
+EN: It means, "Let's try that new place on the corner!"<n>Office ladies choosing a lunch spot, perhaps?
+
+@33B04 max=287
+JP: Let's check out the new shop on the corner.<n>意味：角の新しいお店に行ってみましょう！
+EN: Let's check out the new shop on the corner.<n>Meaning: Let's go and see that new place on the corner!
+
+@33CC4 max=351
+JP: どうしちゃったの？<n>という問いかけのフレーズですねーー。<p>いつもと様子が違うときに<n>こう聞いてみましょうねーー。
+EN: This is a way to ask, "What has gotten into you?"<p>When someone seems unlike their usual self,<n>you can ask this, yes.
+
+@33E24 max=287
+JP: What's with you?<n>意味：どうしちゃったの？
+EN: What's with you?<n>Meaning: What has gotten into you?
+
+@33FE4 max=351
+JP: はい、ただいま。とか、かしこまりました、<n>という、サービスする側の返事ですねー。<p>これはすごく、よく聞く言葉ですねー。
+EN: It means "Of course," or "Right away."<n>A polite reply from someone serving you, yes.<p>You hear this one very often!
+
+@34144 max=287
+JP: Certainly<n>意味：はい、ただいま、かしこまりました。
+EN: Certainly<n>Meaning: Of course. Right away. As you wish.
+
+@34304 max=351
+JP: 私は焼き魚定食にするけど、あなたは？<n>というときの、あなたは？にあたる言葉ですねー。<p>あなたはどうする？<n>という質問に使いますー。
+EN: "I'll have the grilled fish set meal. And you?"<n>This phrase is the "And you?" part, yes.<p>Use it to ask what the other person will choose.
+
+@34464 max=287
+JP: How about you?<n>意味：あなたはどうする？
+EN: How about you?<n>Meaning: What will you do?
+
+@34624 max=351
+JP: はい、これも旅行先のお店などで<n>よく聞くフレーズですね。<p>食堂ならば、何にしますか？という意味になるし、<n>洋服屋だったら、何かお探しですか？<p>という意味になりますねー。
+EN: Oh, you hear this often in shops when traveling, yes.<p>In a restaurant, it can mean,<n>"What would you like to order?"<p>In a clothes shop, it means,<n>"Are you looking for something?"
+
+@34784 max=287
+JP: May I help you?<n>意味：何にしますか？何かお探しですか？<n>備考：店員が客に話しかけるフレーズ
+EN: May I help you?<n>Meaning: What would you like? Looking for something?<n>Note: Used by staff when speaking to customers.
+
+@34944 max=351
+JP: 頭痛、っていう意味ですねー。
+EN: It means a pain in your head, yes.
+
+@34AA4 max=287
+JP: Headache<n>意味：頭痛。
+EN: Headache<n>Meaning: A pain in your head.
+
+@34C64 max=351
+JP: 料理人が多すぎるとスープがまずくなる、<n>ということわざ。<p>船頭多くして船山に上る、ということですね。<p>確かにいろんな人が味付けしちゃったら、<n>料理はめちゃめちゃですねー。
+EN: This proverb says that too many cooks make bad soup.<p>Too many people trying to lead can ruin everything, yes.<p>If everyone adds their own seasoning,<n>the dish will be quite a mess!
+
+@34DC4 max=287
+JP: Too many cooks spoil the broth.<n>意味：料理人が多すぎるとスープがまずくなる、<n>つまり船頭多くして船山に上るということ。<n>備考：ことわざ
+EN: Too many cooks spoil the broth.<n>Meaning: Too many people trying to run things can ruin the result.<n>Note: A proverb.
+
+@34F84 max=351
+JP: 壁に耳あり、ということですね。<n>さすがに障子に目あり、とまではいいませんが。
+EN: It means even walls may be listening, yes.<n>The Japanese version adds that paper screens have eyes!
+
+@350E4 max=287
+JP: Walls have ears.<n>意味：壁に耳あり。
+EN: Walls have ears.<n>Meaning: Someone may be listening, so mind what you say.
+
+@352A4 max=351
+JP: そうは思いたくはないけれど、<n>現実的に考えるとその通り、<p>というバーナード・ショーのフレーズ、<n>お金がないことはすべての不幸の元である。
+EN: We would rather not believe it,<n>but it does sound realistic, yes.<p>In the words of Bernard Shaw:<n>"Lack of money is the root of all evil."
+
+@35404 max=287
+JP: Lack of money is the root of all evil.<n>意味：お金がないことはすべての不幸の元である。<n>備考：戯曲家バーナード・ショーのフレーズ
+EN: Lack of money is the root of all evil.<n>Meaning: Having no money is the source of all misery.<n>Note: A saying by playwright Bernard Shaw.
+
+@355C4 max=351
+JP: ここらで一休み！<n>という意味ですー。
+EN: It means, "Time for a little rest!"
+
+@35724 max=287
+JP: Let's take a break!<n>意味：ここらで一休み！
+EN: Let's take a break!<n>Meaning: Let's stop and rest for a bit!
+
+@358E4 max=351
+JP: 今日、会社辞めたんだ。<n>ってことですねーー。<p>何があったんでしょうねー。
+EN: It means, "I left my job today," yes.<p>Oh, what could have happened?
+
+@35A44 max=287
+JP: I quit my job today.<n>意味：今日、会社辞めたんだ。
+EN: I quit my job today.<n>Meaning: I left my job today.
+
+@35C04 max=351
+JP: 彼女にかけなおさせますね、<n>という電話でのフレーズ。<p>電話で英語しゃべるの、大変ですよねー。
+EN: You say this on the phone.<n>It means, "I'll ask her to call you back."<p>Speaking English on the phone can be tricky, yes?
+
+@35D64 max=287
+JP: I'll have her call you.<n>意味：彼女に電話かけなおさせますね。
+EN: I'll have her call you.<n>Meaning: I'll ask her to call you back.
+
+@35F24 max=351
+JP: なんか、自分のせいでめちゃめちゃになっちゃったら、<n>この一言。<p>なんかドジっちゃった。
+EN: When things are a mess and it is your fault,<n>this is the phrase for you.<p>It means, "I messed up."
+
+@36084 max=287
+JP: I screwed up.<n>意味：なんかドジっちゃった。
+EN: I screwed up.<n>Meaning: I messed up.
+
+@36244 max=351
+JP: 今何時ですか？ということですね。<p>このtheをつけないと、<n>今、時間ある？っていう意味になりますねーー。
+EN: It means, "What time is it?"<p>Leave out "the," and you are asking<n>whether someone has any time to spare, yes.
+
+@363A4 max=287
+JP: Do you have the time?<n>意味：今何時ですか？
+EN: Do you have the time?<n>Meaning: What time is it?
+
+@36564 max=351
+JP: 待ち合わせに遅れたとき、<n>あやまりながらこう付け加えるとよりリアル。<p>待ったー？ってことですね。
+EN: When you arrive late to meet someone,<n>add this to your apology. Very natural, yes.<p>It means, "Have you been waiting long?"
+
+@366C4 max=287
+JP: Did you wait long?<n>意味：待ったー？
+EN: Did you wait long?<n>Meaning: Have you been waiting long?
+
+@36884 max=351
+JP: これはちょっと特殊。<n>英語でチャットをするときに使う略語ですね。<p>Away from keyboardの頭文字をとった言葉で、<n>今、パソコンのそばにいない、ということですね。
+EN: This one is a little unusual, yes.<n>It is an abbreviation used when chatting online in English.<p>AFK is short for "Away from keyboard."<n>It means you are away from your computer.
+
+@369E4 max=287
+JP: AFK<n>意味：今、パソコンのそばにいない。<n>備考：チャット用の略語
+EN: AFK<n>Meaning: Away from keyboard.<n>Note: An abbreviation used in chat.
+
+@36BA4 max=351
+JP: 子供が使う言葉で、おいしい！という意味。<n>たまーに大人も使います。
+EN: A word children use to say something tastes good!<n>Sometimes grown-ups use it too, yes?
+
+@36D04 max=287
+JP: Yummy!<n>意味：おいしい。<n>備考：子供の言葉
+EN: Yummy!<n>Meaning: Delicious!<n>Note: A word used by children.
+
+@36EC4 max=351
+JP: おごるよ！というお気楽な感じの言葉ですねー。
+EN: A nice, casual way to say, "My treat!"
+
+@37024 max=287
+JP: Let me pay.<n>意味：おごるよ！
+EN: Let me pay.<n>Meaning: My treat!
+
+@371E4 max=351
+JP: 車で送ってもらえます？<n>という意味ですねーー。<p>だけど、女性はうっかり言わないようにねー。
+EN: You are asking someone to drive you somewhere, yes?<n>That is what this means.<p>But ladies, be careful who you say this to!
+
+@37344 max=287
+JP: Can you give me a ride?<n>意味：車で送ってもらえます？
+EN: Can you give me a ride?<n>Meaning: Can you drive me somewhere?
+
+@37504 max=351
+JP: 東京にいったことがありますか？<n>旅先なんかで仲良くなった人に聞いてみましょー。
+EN: You are asking if someone has visited Tokyo, yes?<n>Try asking a new friend you meet on your travels!
+
+@37664 max=287
+JP: Have you ever been to Tokyo?<n>意味：東京にいったことがありますか？
+EN: Have you ever been to Tokyo?<n>Meaning: Have you visited Tokyo before?
+
+@37824 max=351
+JP: これは怒る言葉。<p>しつこい奴に、いいかげんにして！<n>というときに使います。
+EN: Oh! These are angry words.<p>When someone keeps bothering you,<n>use this to say, "Enough already!"
+
+@37984 max=287
+JP: Cut it out!<n>意味：いいかげんにして！
+EN: Cut it out!<n>Meaning: Stop that already!
+
+@37B44 max=351
+JP: 何言ってるの？<n>ということですねー。
+EN: You are asking, "What do you mean?"<n>That is the idea, yes?
+
+@37CA4 max=287
+JP: What are you talking about?<n>意味：何言ってるの？
+EN: What are you talking about?<n>Meaning: What do you mean?
+
+@37E64 max=351
+JP: 好きにしなよ、<n>というちょっとだけ、投げやりな言葉ですー。
+EN: This means, "Do whatever you want."<n>A little like you have given up caring, yes?
+
+@37FC4 max=287
+JP: Do as you like.<n>意味：好きにしなよ。
+EN: Do as you like.<n>Meaning: Do whatever you want.
+
+@38184 max=351
+JP: がんがん行こうぜ！<n>っていうことですねー。<p>別にパーティのときじゃなくても使いますねー。
+EN: It means, "Let's go wild!"<n>Full of energy, yes?<p>You can say this even when there is no party!
+
+@382E4 max=287
+JP: Let's party!<n>意味：がんがん行こうぜ！
+EN: Let's party!<n>Meaning: Let's go wild!
+
+@384A4 max=351
+JP: どなたかのお部屋に入るとき、<n>お邪魔してもいいですか？<p>というフレーズですね。
+EN: When you wish to enter someone's room,<n>this is how you ask permission.<p>"Is it all right if I come in?" That is the idea.
+
+@38604 max=287
+JP: May I come in?<n>意味：お邪魔してもいいですか？
+EN: May I come in?<n>Meaning: Is it all right if I come in?
+
+@387C4 max=351
+JP: 留学先の学校で、使うかなーー。<p>奨学金に応募しようと思っています、<n>という意味ですねー。
+EN: Perhaps you will use this while studying abroad, yes?<p>It means you are thinking of applying<n>for money to help pay for your studies.
+
+@38924 max=287
+JP: I'm considering applying for a scholarship.<n>意味：奨学金に応募しようと思っています。
+EN: I'm considering applying for a scholarship.<n>Meaning: I'm thinking of applying for funding for my studies.
+
+@38AE4 max=351
+JP: このバッグ、機内に持込してもいいですか？<n>ということですねー。
+EN: You wish to take your bag into the plane's cabin,<n>and you are asking if that is allowed, yes?
+
+@38C44 max=287
+JP: Can I keep my bag as carry-on luggage?<n>意味：このバッグ、機内に持込してもいいですか？
+EN: Can I keep my bag as carry-on luggage?<n>Meaning: May I take this bag into the cabin?
+
+@38E04 max=351
+JP: 市外局番を教えて、という意味ですね。
+EN: You are asking for someone's telephone area code, yes?
+
+@38F64 max=287
+JP: What's your area code?<n>意味：市外局番を教えて。
+EN: What's your area code?<n>Meaning: Tell me your telephone area code.
+
+@39124 max=351
+JP: 人は誰かに何も教えることはできない、<n>ただ人が自分の能力に気づくのを<p>手伝うことならできる。<n>というガリレオ・ガリレイさんのフレーズですね。
+EN: You cannot teach anyone anything.<n>You can only help them discover<p>the abilities they already have.<n>These are words of Galileo Galilei, yes?
+
+@39284 max=287
+JP: "You cannot teach a man anything;<n>you can only help him to find it <n>within himself."<n>意味：人は誰かに何も教えることはできない、<n>ただ人が自分の能力に気づくのを<n>手伝うことならできる。<n>備考：ガリレオ・ガリレイの言葉
+EN: "You cannot teach a man anything;<n>you can only help him to find it <n>within himself."<n>Meaning: You cannot teach anyone;<n>you can only help them discover<n>their own abilities.<n>Note: Words of Galileo Galilei.
+
+@39444 max=351
+JP: この親にしてこの子あり、<n>という意味ですね。
+EN: The child takes after the parent.<n>That is what this means, yes?
+
+@395A4 max=287
+JP: Like father, like son.<n>意味：この親にしてこの子あり。
+EN: Like father, like son.<n>Meaning: Children take after their parents.
+
+@39764 max=351
+JP: これは有名な言葉ですねー。<n>必要は発明の母。<p>なんでも最初にこの言葉を公に使っていたのは、<n>イソップさんらしいですねーー。
+EN: Ah, a famous saying!<n>Necessity is the mother of invention.<p>They say Aesop was the first<n>to use these words publicly, yes?
+
+@398C4 max=287
+JP: Necessity is the mother of invention.<n>意味：必要は発明の母。
+EN: Necessity is the mother of invention.<n>Meaning: Needing something inspires us to invent it.
+
+@39A84 max=351
+JP: 割り勘にしましょう。<n>という意味ですね。
+EN: You suggest sharing the cost.<n>That is what this means, yes?
+
+@39BE4 max=287
+JP: Let's go Dutch.<n>意味：割り勘にしましょう。
+EN: Let's go Dutch.<n>Meaning: Let's each pay our own share.
+
+@39DA4 max=351
+JP: あなたのために何かできることはありますか、<n>という意味ですが、<p>もう少し、軽い感じで使われますねー。
+EN: It means, "Is there anything I can do to help you?"<n>That is the idea, yes?<p>But it sounds a little more casual.
+
+@39F04 max=287
+JP: What can I do for you?<n>意味：あなたのために何かできることはありますか。
+EN: What can I do for you?<n>Meaning: How can I help you?
+
+@3A0C4 max=351
+JP: これちょっとタイプして！という、<n>上司からの命令ですねー。
+EN: "Please type this for me!"<n>An order from the boss, yes?
+
+@3A224 max=287
+JP: I need you to type this up for me.<n>意味：これちょっとタイプして！
+EN: I need you to type this up for me.<n>Meaning: Please type this for me!
+
+@3A3E4 max=351
+JP: よく、飛行機の中で、<n>アテンダントさんに聞かれますね、<p>コーヒーにする？お茶にする？何を飲む？と。<n>そんなときの、お茶をください、<p>というフレーズです。<n>あ、このTeaだと紅茶が出てきます。
+EN: On a plane, the flight attendant<n>often asks what you would like to drink, yes?<p>"Coffee? Tea? Something else?"<n>This is how you ask for tea.<p>Oh! If you simply say "tea,"<n>you will usually get black tea.
+
+@3A544 max=287
+JP: Tea, please.<n>意味：お茶をください。
+EN: Tea, please.<n>Meaning: I'd like some tea.
+
+@3A704 max=351
+JP: ごめん、ごめん、冗談だよ。<n>ということですね。
+EN: "Sorry, sorry! I was only joking!"<n>That is what this means, yes?
+
+@3A864 max=287
+JP: Sorry, just kidding.<n>意味：ごめん、ごめん、冗談だよ。
+EN: Sorry, just kidding.<n>Meaning: Sorry, sorry! Only a joke.
+
+@3AA24 max=351
+JP: 結婚式なんかで、よくいますねーー、このタイプ。<n>長いスピーチにうんざり、ということです。
+EN: You meet this type at weddings all the time, yes?<n>It means the speech went on and on. So tiresome!
+
+@3AB84 max=287
+JP: It was quite a long-winded speech.<n>意味：長いスピーチにうんざり。
+EN: It was quite a long-winded speech.<n>Meaning: That speech dragged on forever.
+
+@3AD44 max=351
+JP: 彼女はテレビゲームのとりこ、ということですね。<p>ちなみに英語ではテレビゲームは<n>ビデオゲームといいますね。
+EN: It means she is hooked on video games, yes?<p>In Japanese, they say "TV games."<n>In English, we call them "video games."
+
+@3AEA4 max=287
+JP: She was bitten by the video game bug.<n>意味：彼女はテレビゲームのとりこ。
+EN: She was bitten by the video game bug.<n>Meaning: She got hooked on video games.
+
+@3B064 max=351
+JP: あなたを愛しています。<n>ということですね。
+EN: It means you love someone.<n>Ah, such beautiful words, yes?
+
+@3B1C4 max=287
+JP: I love you.<n>意味：あなたを愛しています。
+EN: I love you.<n>Meaning: You are very dear to my heart.
+
+@3B384 max=351
+JP: ちょっと、話変えようや、<n>というときに言ってくださいーー。
+EN: Use this when you wish to say,<n>"Shall we talk about something else, yes?"
+
+@3B4E4 max=287
+JP: Let's change the subject.<n>意味：ちょっと、話変えようや。
+EN: Let's change the subject.<n>Meaning: Let's talk about something else.
+
+@3B6A4 max=351
+JP: 友達を紹介するね、ということですーー。
+EN: It means you wish to introduce your friend, yes?
+
+@3B804 max=287
+JP: I'd like you to meet my friend.<n>意味：友達を紹介するね。
+EN: I'd like you to meet my friend.<n>Meaning: Let me introduce my friend.
+
+@3B9C4 max=351
+JP: ここは禁煙です。<n>日本でも禁煙の場所、増えてきましたねー。
+EN: No smoking here, yes?<n>Japan has more and more smoke-free places now.
+
+@3BB24 max=287
+JP: You can't smoke here.<n>意味：ここは禁煙です。
+EN: You can't smoke here.<n>Meaning: Smoking is not allowed here.
+
+@3BCE4 max=351
+JP: このレストランはペットお断りですね、<n>ということです。<p>ペット可レストランも最近増えてきましたけどねー。
+EN: It means this restaurant does not allow pets,<n>you see?<p>Though pet-friendly restaurants are becoming more common, yes?
+
+@3BE44 max=287
+JP: "You're not allowed to bring pets <n>into this restaurant."<n>意味：このレストランはペットお断りです。
+EN: "You're not allowed to bring pets<n>into this restaurant."<n>Meaning: This restaurant does not allow pets.
+
+@3C004 max=351
+JP: この質問は、<n>あまり女性にはしないほうがいいですねー。<p>体重どのくらい？ということです。
+EN: This question...<n>Perhaps best not to ask a lady, yes?<p>It means, "What is your weight?"
+
+@3C164 max=287
+JP: How much do you weigh?<n>意味：体重どのくらい？
+EN: How much do you weigh?<n>Meaning: What is your weight?
+
+@3C324 max=351
+JP: あなたのお名前、綴りをどう書くの？<n>ということですねー。
+EN: It means, "Which letters do you use<n>to write your name?" Yes?
+
+@3C484 max=287
+JP: How do you spell your name?<n>意味：あなたのお名前、綴りをどう書くの？
+EN: How do you spell your name?<n>Meaning: Which letters do you use to write your name?
+
+@3C644 max=351
+JP: なにかをほめられて、<n>ちょっと謙遜したほうがいいなぁ、<p>なんてときにいいますねー。<n>たいした事ありません、という意味です。
+EN: When someone gives you a compliment,<n>perhaps you wish to be a little modest, yes?<p>This is what you say.<n>It means, "Oh, it is no big thing."
+
+@3C7A4 max=287
+JP: It's nothing.<n>意味：たいした事ありません。
+EN: It's nothing.<n>Meaning: Oh, it's no big deal.
+
+@3C964 max=351
+JP: うちに帰った、<n>ということです。
+EN: It means you returned<n>to your home, yes?
+
+@3CAC4 max=287
+JP: I went home.<n>意味：うちに帰った。
+EN: I went home.<n>Meaning: I returned to my home.
+
+@3CC84 max=351
+JP: お母さんが、子供に言います、<n>歯、磨いた？
+EN: A mother asks her child,<n>"Have you cleaned your teeth?"
+
+@3CDE4 max=287
+JP: Did you brush your teeth?<n>意味：歯、磨いた？
+EN: Did you brush your teeth?<n>Meaning: Have you cleaned your teeth?
+
+@3CFA4 max=351
+JP: あ、右に同じ！<n>ということです。
+EN: Ah, me too!<n>That is what it means, yes?
+
+@3D104 max=287
+JP: Same here!<n>意味：右に同じ！
+EN: Same here!<n>Meaning: Me too!
+
+@3D2C4 max=351
+JP: ころがる石にこけは生えない、という意味で、<n>これは、落ち着きのない人、<p>次々と仕事を変える人は成功しない、<n>ということわざです。
+EN: A stone that keeps rolling grows no moss, yes?<n>This proverb says that restless people,<p>always changing from one job to another,<n>will never find success.
+
+@3D424 max=287
+JP: A rolling stone gathers no moss.<n>意味：ころがる石にこけは生えない、つまり<n>落ち着きのない人、次々と仕事を変える人は<n>成功しないということ。<n>備考：ことわざ
+EN: A rolling stone gathers no moss.<n>Meaning: A moving stone grows no moss.<n>Restless people who keep changing jobs<n>will never find success.<n>Note: A proverb.
+
+@3D5E4 max=351
+JP: 猫は９つの命を持つ、という意味です。<n>これは、なぜか欧米で猫は９回は生まれ変わる、<p>という言い伝えがあり、殺しても死なない、<n>というような意味合いで使われることが多いです。
+EN: It means a cat has nine lives, yes?<n>There is a Western legend that cats can be reborn nine times.<p>People often use it to mean someone<n>seems impossible to kill!
+
+@3D744 max=287
+JP: A cat has nine lives.<n>意味：猫は９つの命を持つ。つまり殺しても<n>死なない、ということ。
+EN: A cat has nine lives.<n>Meaning: Cats have nine lives. Said of someone who<n>seems impossible to kill.
+
+@3D904 max=351
+JP: これは私の本です。<n>はい、中学校の基本文ですね。まるで。
+EN: It means this book belongs to me.<n>Ah, straight from a beginner's English textbook, yes?
+
+@3DA64 max=287
+JP: This is my book.<n>意味：これは私の本です。
+EN: This is my book.<n>Meaning: This book belongs to me.
+
+@3DC24 max=351
+JP: 図書館はどこですか？<p>皆さん、図書館へ行きましょうね！<n>本が、ただでたくさん読めますよ。
+EN: It means, "Where can I find the library?"<p>Everyone, go visit your library, yes?<n>So many books to read, all for free!
+
+@3DD84 max=287
+JP: Where is the library?<n>意味：図書館はどこですか？
+EN: Where is the library?<n>Meaning: Where can I find the library?
+
+@3DF44 max=351
+JP: いつも何時ぐらいに寝ているの？<n>という質問の答え方、<p>だいたいいつも１１時ぐらいに寝ています、<n>ということです。
+EN: Someone asks, "What time do you usually go to bed?"<n>Here is how you might answer, yes?<p>It means you normally go to bed<n>at about eleven o'clock.
+
+@3E0A4 max=287
+JP: I usually go to bed at eleven.<n>意味：だいたいいつも１１時ぐらいに寝ています。
+EN: I usually go to bed at eleven.<n>Meaning: My usual bedtime is around eleven o'clock.
+
+@3E264 max=351
+JP: この三冊の中では、この本が一番面白いよ、<n>っていうことですねーー、<p>あ、それは漫画じゃないですかーー。
+EN: Of these three books, this one is the most interesting.<n>That is what it means, yes?<p>Oh! But that one is a comic book!
+
+@3E3C4 max=287
+JP: This book is the most interesting of the three.<n>意味：この三冊の中では、この本が一番面白いよ。
+EN: This book is the most interesting of the three.<n>Meaning: Of these three books, this one interests me most.
+
+@3E584 max=351
+JP: そのかばん重いですね。ってことですね。<p>aren't they?とつけると、<n>なんとかですね、っていうことになりますーー。
+EN: It means, "That bag is heavy, yes?"<p>Ending with "aren't they?"<n>is a way to ask someone to agree, you see?
+
+@3E6E4 max=287
+JP: Those bags are heavy, aren't they?<n>意味：そのかばん重いですね。
+EN: Those bags are heavy, aren't they?<n>Meaning: Those bags look heavy, yes?
+
+@3E8A4 max=351
+JP: 冬より夏のほうが好き、という意味です。<n>私は秋が一番、好きですーー。
+EN: It means you prefer summer to winter, yes?<n>For me, autumn is the very best!
+
+@3EA04 max=287
+JP: I like summer better than winter.<n>意味：冬より夏のほうが好き。
+EN: I like summer better than winter.<n>Meaning: I prefer summer to winter.
+
+@3EBC4 max=351
+JP: ジムは今、日本にいるよ！ってことですね。
+EN: It means Jim is in Japan right now, yes!
+
+@3ED24 max=287
+JP: Jim is in Japan now.<n>意味：ジムは今、日本にいるよ！
+EN: Jim is in Japan now.<n>Meaning: Jim is currently in Japan!
+
+@3EEE4 max=351
+JP: 私の妹は絵を描くのが得意です、ということです。<p>be good atは、<n>上手、とかうまいとかいうことですねーー。
+EN: It means my younger sister has a talent for painting pictures.<p>"Be good at" means to do something well, yes?
+
+@3F044 max=287
+JP: My sister is good at painting pictures.<n>意味：私の妹は絵を描くのが得意です。
+EN: My sister is good at painting pictures.<n>Meaning: My younger sister paints well.
+
+@3F204 max=351
+JP: いくつですか？<n>と聞かれたら、歳を答えます。<p>私は２２歳です。<n>ということですね。さば読んじゃいけません。
+EN: When someone asks, "How old are you?"<n>You tell them your age, yes?<p>This means, "I am 22 years old."<n>No shaving years off, please!
+
+@3F364 max=287
+JP: I am 22 years old.<n>意味：私は２２歳です。
+EN: I am 22 years old.<n>Meaning: My age is 22.
+
+@3F524 max=351
+JP: どうしていいかわかんなかった、という意味。<p>友達同士がいきなり喧嘩を始めて、<n>私はどーしたらいいの？<p>なんてときのことですね。
+EN: It means you did not know what to do.<p>Your friends suddenly start fighting,<n>and you think, "What am I supposed to do?"<p>For a situation like this, yes?
+
+@3F684 max=287
+JP: I don't know what to do.<n>意味：どうしていいかわかんなかった。
+EN: I don't know what to do.<n>Meaning: I had no idea what to do.
+
+@3F844 max=351
+JP: 彼は、窓を開けてと言ったんです、<n>という意味ですーー。
+EN: It means he asked me to open the window, yes?
+
+@3F9A4 max=287
+JP: He told me to open the window.<n>意味：彼は、窓を開けてと言ったんです。
+EN: He told me to open the window.<n>Meaning: He asked me to open the window.
+
+@3FB64 max=351
+JP: 彼んち、どこか知っている？という意味ですね。<n>彼の家わかったら、どうするんでしょうねー。
+EN: It means, "Do you know where he lives?"<n>Once you find his house, what will you do, hmm?
+
+@3FCC4 max=287
+JP: Do you know where his house is?<n>意味：彼んち、どこか知っている？
+EN: Do you know where his house is?<n>Meaning: Do you know where he lives?
+
+@3FE84 max=351
+JP: 天気が良いときはこれ、やりたいですね。<n>庭でランチします、ということですねー。
+EN: On a lovely day, this sounds very nice, yes?<n>It means we will have lunch in the garden.
+
+@3FFE4 max=287
+JP: We are going to eat lunch in the garden.<n>意味：庭でランチします。
+EN: We are going to eat lunch in the garden.<n>Meaning: We will have lunch in the garden.
+
+@401A4 max=351
+JP: その通り！<n>というあいづちの言葉。
+EN: It means, "That's right!"<n>A little phrase to show you agree, yes?
+
+@40304 max=287
+JP: Exactly!<n>意味：その通り！
+EN: Exactly!<n>Meaning: That's right!
+
+@404C4 max=351
+JP: アメリカの食卓では、手の届かないものに、<n>手を伸ばしたりせず、取ってもらうのが普通です。<p>お塩、取ってください、という意味ですね。
+EN: At an American dinner table, you usually ask someone to pass things instead of reaching across for them.<p>This means, "Please pass the salt," yes?
+
+@40624 max=287
+JP: Will you pass me the salt, please?<n>意味：お塩、取ってください。
+EN: Will you pass me the salt, please?<n>Meaning: Please pass the salt.
+
+@407E4 max=351
+JP: こんにちは、ですが、午後限定。<p>ちなみに、朝ならmorningですし、<n>夜ならeveningを使いますね。
+EN: A way to say hello, but only in the afternoon, yes?<p>In the morning, use "morning."<n>In the evening, use "evening."
+
+@40944 max=287
+JP: Good afternoon.<n>意味：こんにちは。<n>備考：午後限定
+EN: Good afternoon.<n>Meaning: Hello.<n>Note: Only used in the afternoon.
+
+@40B04 max=351
+JP: そうは思わない、という否定の言葉。<n>わりと、簡単によく使う言葉です。<p>そんなにきつすぎるニュアンスでもなく、<n>ちょっと同意できないときに使えますね。
+EN: It means you do not agree.<n>A simple phrase people use quite often, yes?<p>It is not too harsh.<n>You can use it to disagree politely.
+
+@40C64 max=287
+JP: I don't think so.<n>意味：そうは思わない。
+EN: I don't think so.<n>Meaning: I do not agree.
+
+@40E24 max=351
+JP: あ、違った、というように、<n>何か言い間違えたとき、<p>自分の言いたかったことを<n>もう一度言い直すときなどに、<p>この言葉を差し込みます。
+EN: Like saying, "Oh, no, that's not right,"<n>when you say something wrong...<p>And want to try again<n>to say what you really meant...<p>You slip this little phrase in, yes?
+
+@40F84 max=287
+JP: I mean.<n>意味：あ、違った。<n>備考：自分の言いたかったことを<n>もう一度言い直すときなどに使う言葉
+EN: I mean.<n>Meaning: Oh, no, that's not right.<n>Note: Used when correcting yourself<n>or explaining what you really meant.
+
+@41144 max=351
+JP: ペンを貸してもらえませんか？ということですね。<n>案外旅先でよく使う言葉です。
+EN: It means, "Could you lend me your pen?"<n>Surprisingly useful when traveling, yes?
+
+@412A4 max=287
+JP: Can I borrow your pen?<n>意味：ペンを貸してもらえませんか？
+EN: Can I borrow your pen?<n>Meaning: Could you lend me your pen?
+
+@41464 max=351
+JP: はーーい、この言葉、<n>ステーキの焼き具合だと思いましたねーー？<p>ま、それも正解ですが、<n>これは、よくやった！というねぎらいの<p>決まり文句でもあるのです。
+EN: Ohhh! You thought this was about<n>how to cook a steak, yes?<p>That is correct too, but it is also<n>a familiar way to praise someone...<p>It means, "You did a good job!"
+
+@415C4 max=287
+JP: Well done!<n>意味：よくやった！
+EN: Well done!<n>Meaning: You did a good job!
+
+@41784 max=351
+JP: 海外で食事などする際は、一応、気にしましょう。<n>服装の決まりです。<p>ネクタイ、ジャケットなどは、<n>ちょっとした店では必須ですねー。
+EN: When dining abroad, check this first, yes?<n>It means the rules about what to wear.<p>At a fairly fancy restaurant,<n>a jacket and tie are often required.
+
+@418E4 max=287
+JP: Dress code<n>意味：服装の決まり。
+EN: Dress code<n>Meaning: Rules about what to wear.
+
+@41AA4 max=351
+JP: アメリカの元大統領、故ケネディさんが言った言葉。<p>友人であるアメリカ国民の皆さん、<n>国が何をしてくれるかを問うのではなく、<p>あなた方が国に何をできるのかと問うてください。<n>アメリカらしい言葉ですねーー。
+EN: Words from the late John F. Kennedy, a former American president.<p>My fellow Americans, do not ask what your country can do for you.<p>Ask what you can do for your country.<n>Very American words, yes?
+
+@41C04 max=287
+JP: "And so, my fellow Americans,<n>ask not what your country can do for you;<n>ask what you can do for your country."<n>意味：友人であるアメリカ国民の皆さん、<n>国が何をしてくれるかを問うのではなく、<n>あなた方が国に何をできるのかと問うてください。<n>備考：故ケネディ大統領の言葉
+EN: "And so, my fellow Americans,<n>ask not what your country can do for you;<n>ask what you can do for your country."<n>Meaning: Ask how you can serve your country,<n>rather than how it can serve you.<n>Note: Words of the late President Kennedy.
+
+@41DC4 max=351
+JP: 凡人は己より優れているものに気づかないが、<n>才能ある者は瞬時に天才を見分ける。<p>これはコナン・ドイルの言葉ですー。
+EN: Ordinary minds see nothing greater than themselves,<n>but talented minds spot genius at once.<p>These are words from Arthur Conan Doyle, yes?
+
+@41F24 max=287
+JP: "Mediocrity knows nothing higher than itself,<n>but talent instantly recognizes genius."<n>意味：凡人は己より優れているものに気づかないが、<n>才能ある者は瞬時に天才を見分ける。<n>備考：作家コナン・ドイルの言葉
+EN: "Mediocrity knows nothing higher than itself,<n>but talent instantly recognizes genius."<n>Meaning: Ordinary minds miss their betters,<n>but talented minds spot genius at once.<n>Note: Words of author Arthur Conan Doyle.
+
+@420E4 max=351
+JP: まともな人がいるなら見せてくれ、<n>私が治してあげるよ。<p>これは、心理学者ユングの言葉ですねー。<n>まともな人なんか、いないんですねー。<p>みんな、どこか変。それが普通。
+EN: Show me a sane person,<n>and I will cure him for you.<p>Words from the psychologist Jung, yes?<n>So nobody is truly sane, hmm?<p>Everyone is a little strange. That is normal!
+
+@42244 max=287
+JP: "Show me a sane man<n>and I will cure him for you."<n>意味：まともな人がいるなら見せてくれ、<n>私が治してあげるよ。<n>備考：心理学者ユングの言葉
+EN: "Show me a sane man<n>and I will cure him for you."<n>Meaning: Find me someone normal,<n>and I will cure him of it.<n>Note: Words of psychologist Carl Jung.
+
+@42404 max=351
+JP: 全部持った？<n>そう、つまり、忘れ物ない？ってことですね。
+EN: Got everything?<n>In other words, you have not forgotten anything, yes?
+
+@42564 max=287
+JP: Do you have everything with you?<n>意味：忘れ物ない？
+EN: Do you have everything with you?<n>Meaning: Got everything? Nothing left behind?
+
+@42724 max=351
+JP: 賢者は、言うべきことがあるから話す、<n>しかし愚か者はただ言うだけのために話す。<p>プラトンが言った言葉です。<n>うーん、私は愚か者…。
+EN: Wise men speak because they have something to say.<n>Fools speak just to say something.<p>These are words of Plato, yes.<n>Hmm... I am the fool, I think...
+
+@42884 max=287
+JP: "Wise men talk <n>because they have something to say;<n>fools, because they have to say something."<n>意味：賢者は、言うべきことがあるから話す、<n>しかし愚か者はただ言うだけのために話す。<n>備考：哲学者プラトンの言葉
+EN: "Wise men talk because they have something to say;<n>fools, because they have to say something."<n>Meaning: The wise speak with purpose; fools just want to talk.<n>Note: A saying attributed to the philosopher Plato.
+
+@42A44 max=351
+JP: 下痢、という意味ですねー。
+EN: It means diarrhea, yes.
+
+@42BA4 max=287
+JP: Diarrhea<n>意味：下痢。
+EN: Diarrhea<n>Meaning: Loose, watery poop.
+
+@42D64 max=351
+JP: 墓まで持っていくよ、ということで、<n>死ぬまで誰にも言わないよ、<p>つまり絶対秘密にするよ、という意味です。
+EN: You take the secret all the way to your grave.<n>You tell nobody for as long as you live.<p>In other words, your lips are sealed, yes!
+
+@42EC4 max=287
+JP: I'll take it to my grave.<n>意味：墓まで持っていくよ、つまり<n>死ぬまで誰にも言わないよ、ということ。
+EN: I'll take it to my grave.<n>Meaning: I'll keep it secret for the rest of my life.
+
+@43084 max=351
+JP: がんばれ！という掛け声。<n>スポーツ観戦などの場でよく聞かれますねー。
+EN: A cheer meaning, "Give it your best!"<n>You hear this often at sporting events, yes.
+
+@431E4 max=287
+JP: Go for it!<n>意味：がんばれ！
+EN: Go for it!<n>Meaning: Give it your best!
+
+@433A4 max=351
+JP: 誓ってもいい、ということですねー。<n>なんか信じてもらえてなさそうなときに、<p>こういってみてくださいねー。
+EN: It means you promise it is true, yes.<n>When someone seems not to believe you...<p>Try saying this to them!
+
+@43504 max=287
+JP: I swear.<n>意味：誓ってもいい。
+EN: I swear.<n>Meaning: I promise it's true.
+
+@436C4 max=351
+JP: 直訳するとそこにいますか？という意味ですが、<n>これは、電話などで相手の声が<p>聞こえなくなったりしたときに使いますねーー。<n>あと、ぼーっとしてて人の話を<p>聞いてなさそうな人には直接、言ったりもします。
+EN: Literally, you ask if someone is there, yes.<n>On the telephone, perhaps their voice...<p>Has gone quiet! That is when you say this.<n>Or perhaps someone is daydreaming...<p>And seems not to hear you. You can say it to their face, too!
+
+@43824 max=287
+JP: Are you there?<n>意味：そこにいますか？<n>備考：電話などで相手の声が<n>聞こえなくなったときに言う言葉
+EN: Are you there?<n>Meaning: Can you hear me? Are you listening?<n>Note: Often used when the other person goes quiet on the phone.
+
+@439E4 max=351
+JP: アメリカでは本当によく目や耳にするフレーズです。<p>これは、<n>右の頬を打つような者には左の頬も向けなさい、<p>という聖書の台詞から発展したフレーズで、<n>寛大に許せ、という意味です。
+EN: You see and hear this phrase so often in America, yes.<p>It comes from a passage in the Bible:<n>If someone strikes your right cheek, offer the left, too.<p>The meaning is to be forgiving and generous of heart.
+
+@43B44 max=287
+JP: Turn the other cheek.<n>意味：寛大に許せ。<n>備考：聖書の右の頬を打つような者には<n>左の頬も向けなさいというフレーズから
+EN: Turn the other cheek.<n>Meaning: Be forgiving instead of fighting back.<n>Note: From the Bible's teaching to offer your other cheek when someone strikes you.
+
+@43D04 max=351
+JP: 金の成る木はない、です。<n>ないのか、残念です、欲しいですーー。
+EN: It means there is no tree that grows money.<n>There is not? Such a pity! I want one...
+
+@43E64 max=287
+JP: Money does not grow on trees.<n>意味：金の成る木はない。
+EN: Money does not grow on trees.<n>Meaning: Money isn't something you can get without effort.
+
+@44024 max=351
+JP: 通りで遊んじゃいけません！<n>と、親が子に声をかける、そんな言葉です。
+EN: No playing in the street!<n>This is something a parent says to a child, yes.
+
+@44184 max=287
+JP: You must not play on the street!<n>意味：通りで遊んじゃいけません！
+EN: You must not play on the street!<n>Meaning: Don't play in the street!
+
+@44344 max=351
+JP: あなたはそんなに早く起きなくてもいいわよ、<n>っていう意味ですねーー。<p>私は仕事で早く起きるけどさーー、<n>って感じですかねー。
+EN: It means you have no need to wake up so early, yes.<p>Though I must get up early for work...<n>Perhaps that is what the speaker is thinking!
+
+@444A4 max=287
+JP: You don't have to get up so early.<n>意味：あなたはそんなに早く起きなくてもいいわよ。
+EN: You don't have to get up so early.<n>Meaning: There's no need for you to wake up that early.
+
+@44664 max=351
+JP: なんて高いビルなんだ！という意味。<p>確かにここ数年で<n>東京には高いビル増えまくりですねー。
+EN: It means, "What a tall building!"<p>Tokyo has certainly gained so many tall buildings<n>in these past few years, yes.
+
+@447C4 max=287
+JP: How high that building is!<n>意味：なんて高いビルなんだ！
+EN: How high that building is!<n>Meaning: What a tall building!
+
+@44984 max=351
+JP: 旅先で住所を交換した友人に一言。<n>すぐに手紙くれたらいいなぁ。
+EN: Something to say to a friend you exchange addresses with on a trip.<n>You hope a letter will come soon, yes!
+
+@44AE4 max=287
+JP: I hope that you will write to me soon.<n>意味：すぐに手紙くれたらいいなぁ。
+EN: I hope that you will write to me soon.<n>Meaning: I'd love to get a letter from you soon.
+
+@44CA4 max=351
+JP: 彼女は少し日本語が話せます。ですねー。<n>私も少し日本語話せます。
+EN: It means she speaks a little Japanese, yes.<n>I too speak a little Japanese!
+
+@44E04 max=287
+JP: She can speak a little Japanese.<n>意味：彼女は少し日本語が話せます。
+EN: She can speak a little Japanese.<n>Meaning: She knows enough Japanese to speak a bit.
+
+@44FC4 max=351
+JP: 向こうにいるのが私の父です。<p>遠くから、誰かを紹介するときには<n>こういいますねー。
+EN: It means the man over there is my father.<p>This is how you introduce someone<n>when they are a little far away, yes.
+
+@45124 max=287
+JP: The man standing over there is my father.<n>意味：向こうにいるのが私の父です。
+EN: The man standing over there is my father.<n>Meaning: That's my dad over there.
+
+@452E4 max=351
+JP: オーストラリア、ニュージーランドなどの<n>イギリスからみて地球の反対側にある<p>国々のことですねー。
+EN: This means countries such as Australia and New Zealand,<n>on the other side of the world from Britain...<p>Far away indeed, yes!
+
+@45444 max=287
+JP: Down under<n>意味：オーストラリア、ニュージーランド
+EN: Down under<n>Meaning: Australia and New Zealand.
+
+@45604 max=351
+JP: コーヒーのおかわり、いただけますか？<p>アメリカのダイナーなんかでは、<n>コーヒー、ばんばんおかわりできますね。
+EN: May I have a refill of coffee, please?<p>At American diners, they refill your coffee<n>again and again, yes!
+
+@45764 max=287
+JP: Can I have another cup of coffee?<n>意味：コーヒーのおかわり、いただけますか？
+EN: Can I have another cup of coffee?<n>Meaning: May I have a coffee refill, please?
+
+@45924 max=351
+JP: こういう表現、よく聞きますねーー。<n>私の足が私を殺している！<p>つまり、足が痛くて死にそう、ってことですー。
+EN: You hear this sort of expression often, yes.<n>Your own feet are killing you!<p>It means your feet hurt so much, you feel you could die.
+
+@45A84 max=287
+JP: My feet are killing me!<n>意味：足が痛くて死にそう。
+EN: My feet are killing me!<n>Meaning: My feet hurt terribly.
+
+@45C44 max=351
+JP: この辺に、いいスポーツジムはありますか？<n>ということ。ちゃんと運動、してますかー？
+EN: It means you are looking for a good gym nearby.<n>You are getting your exercise, yes?
+
+@45DA4 max=287
+JP: Is there a good gym here?<n>意味：この辺に、いいスポーツジムはありますか？
+EN: Is there a good gym here?<n>Meaning: Is there a good gym nearby?
+
+@45F64 max=351
+JP: ホテルの内線などから、日本に電話をしたいとき、<n>こうフロントに電話で言ってみてください。<p>日本への国際電話お願いします、ということです。
+EN: To call Japan from your hotel room,<n>try phoning the front desk and saying this.<p>You are asking for an international call to Japan, yes.
+
+@460C4 max=287
+JP: I'd like to make an international call to Japan,<n>please.<n>意味：日本への国際電話お願いします。
+EN: I'd like to make an international call to Japan,<n>please.<n>Meaning: Please help me place a call to Japan.
+
+@46284 max=351
+JP: 海外で深刻なトラブルに巻き込まれたら、<n>このフレーズを言ってみて。<p>日本大使館に連絡したいのですが、<n>ということですー。
+EN: If you find yourself in serious trouble abroad,<n>try using this phrase.<p>It means you would like to contact<n>the Japanese embassy, yes.
+
+@463E4 max=287
+JP: I want to contact the Japanese Embassy.<n>意味：日本大使館に連絡したいのですが。
+EN: I want to contact the Japanese Embassy.<n>Meaning: I'd like to get in touch with the Japanese Embassy.
+
+@465A4 max=351
+JP: これは、いわゆる花粉症、のこと。<n>Hayは干草のことですが、<p>アメリカでは干草からくる鼻炎のほうが<n>メジャーなんでしょうねー。
+EN: This is what we call a pollen allergy, yes?<n>"Hay" means dried grass, but...<p>Perhaps hay-related sniffles are more<n>common in America, hmm?
+
+@46704 max=287
+JP: Hay fever<n>意味：花粉症。
+EN: Hay fever<n>Meaning: An allergy to pollen.
+
+@468C4 max=351
+JP: すぐ行きまーす、<n>って、蕎麦屋の出前みたいですねー。
+EN: "Be right there!"<n>Sounds like a noodle shop promising your delivery, yes?
+
+@46A24 max=287
+JP: I'm coming soon.<n>意味：すぐ行きます。
+EN: I'm coming soon.<n>Meaning: I'll be there shortly.
+
+@46BE4 max=351
+JP: 眠ってる犬は寝かせておけ。<n>つまり、触らぬ神にたたりなし。<p>っていうことですねー。
+EN: Leave a sleeping dog to its dreams.<n>In other words, do not invite trouble...<p>And trouble will leave you alone, yes?
+
+@46D44 max=287
+JP: Let sleeping dogs lie.<n>意味：眠ってる犬は寝かせておけ。<n>つまり、触らぬ神にたたりなし。
+EN: Let sleeping dogs lie.<n>Meaning: Leave sleeping dogs alone.<n>In other words, don't go looking for trouble.
+
+@46F04 max=351
+JP: これは、覚えましょう。<n>アメリカのお金、１０セントコインのことです。
+EN: Oh, remember this one!<n>It is an American ten-cent coin.
+
+@47064 max=287
+JP: Dime<n>意味：アメリカのお金、１０セントコイン。
+EN: Dime<n>Meaning: An American ten-cent coin.
+
+@47224 max=351
+JP: はい、これは覚えましょう。<n>アメリカのお金、２５セントのことです。
+EN: Yes, remember this one too!<n>It is worth twenty-five American cents.
+
+@47384 max=287
+JP: Quarter<n>意味：アメリカのお金、２５セントコイン。
+EN: Quarter<n>Meaning: An American twenty-five-cent coin.
+
+@47544 max=351
+JP: なんか言い訳くさい表現ですが、<n>言われたことをしたまでさ、ということですねー。
+EN: Sounds a little like making excuses, yes?<n>It means, "We only followed orders."
+
+@476A4 max=287
+JP: We simply did what we were told.<n>意味：言われたことをしたまでさ。
+EN: We simply did what we were told.<n>Meaning: We only followed orders.
+
+@47864 max=351
+JP: それはいい考えだね！という意味。<p>誰からも建設的な意見が出ずに困っていたとき、<n>一人がいい案を出したらすかさず言ってくださいー。
+EN: It means, "What a good suggestion!"<p>When nobody has anything useful to offer,<n>and someone finally has a good idea, say this!
+
+@479C4 max=287
+JP: That's a great idea.<n>意味：それはいい考えだね！
+EN: That's a great idea.<n>Meaning: What a good suggestion!
+
+@47B84 max=351
+JP: ご出身はどちら？と聞くときの言葉ですねー。
+EN: These are the words for asking where someone comes from, yes?
+
+@47CE4 max=287
+JP: Where are you from?<n>意味：ご出身はどちら？
+EN: Where are you from?<n>Meaning: Where is your hometown or home country?
+
+@47EA4 max=351
+JP: もう一度お会いできるのを楽しみにしています、<n>ですね。お手本のような、言葉。
+EN: You are excited about meeting someone again, yes?<n>Such a fine, polite phrase. A model of good manners!
+
+@48004 max=287
+JP: I'm looking forward to seeing you again.<n>意味：もう一度お会いできるのを楽しみにしています。
+EN: I'm looking forward to seeing you again.<n>Meaning: I'll be happy when we next meet.
+
+@481C4 max=351
+JP: 花子ちゃんによろしくね！ですねー。
+EN: You want someone to give Hanako your greetings, yes?
+
+@48324 max=287
+JP: Say hello to Hanako.<n>意味：花子ちゃんによろしくね。
+EN: Say hello to Hanako.<n>Meaning: Give Hanako my regards.
+
+@484E4 max=351
+JP: あなたは英語の勉強しなければなりません、<n>というちょっと強い言い方ですね。
+EN: You are telling someone they have to study English.<n>A rather forceful way to put it, yes?
+
+@48644 max=287
+JP: You must study English.<n>意味：あなたは英語の勉強しなければなりません。
+EN: You must study English.<n>Meaning: You have to study English.
+
+@48804 max=351
+JP: Nice to meet youといわれたら、<n>tooをつけて同じフレーズを言いましょう。<p>こちらこそ、という意味になります。
+EN: When someone says, "Nice to meet you,"<n>say the same phrase back, with "too" at the end.<p>That tells them you feel the same way, yes?
+
+@48964 max=287
+JP: Nice to meet you too.<n>意味：こちらこそお会いできて光栄です。
+EN: Nice to meet you too.<n>Meaning: The pleasure of meeting you is mutual.
+
+@48B24 max=351
+JP: 会話の中で使う言葉、本当？とかマジ？<n>とか言うときに使います。
+EN: A little word for conversation.<n>Use it to say, "Is that true?" or "Are you serious?"
+
+@48C84 max=287
+JP: Really?<n>意味：本当？
+EN: Really?<n>Meaning: Is that true?
+
+@48E44 max=351
+JP: 心配しないで、と誰かを慰めるときに言いますねー。
+EN: Say this to comfort someone: there is no need to worry, yes?
+
+@48FA4 max=287
+JP: Don't worry.<n>意味：心配しないで。
+EN: Don't worry.<n>Meaning: There's no need to be anxious.
+
+@49164 max=351
+JP: 何かを学ぶのに歳をとりすぎということはない、<n>ということわざですね。
+EN: This proverb tells us that age<n>is no reason to stop learning, yes?
+
+@492C4 max=287
+JP: Never too old to learn.<n>意味：何かを学ぶのに<n>歳をとりすぎということはない。
+EN: Never too old to learn.<n>Meaning: Whatever your age,<n>you can always learn something new.
+
+@49484 max=351
+JP: 二ヶ所に同時にいることはできない、<n>ということで、二兎を追うものは一兎をも得ず、<p>という意味合いですねー。
+EN: You cannot be in two places at the same time.<n>Chase two rabbits and you catch neither...<p>That is the idea behind this saying, yes?
+
+@495E4 max=287
+JP: One cannot be in two places at once.<n>意味：二ヶ所に同時にいることはできない、<n>つまり、二兎を追うものは一兎をも得ず。
+EN: One cannot be in two places at once.<n>Meaning: You can't be in two places at the same time.<n>Chase two rabbits and you'll catch neither.
+
+@497A4 max=351
+JP: 卒業したらどうするの？ということ。<n>就職、決まりましたかー？<p>それともしばらくのんきに過ごしますかー？
+EN: You are asking about someone's plans after graduation.<n>Have they found a job already, hmm?<p>Or perhaps they will take life easy for a while?
+
+@49904 max=287
+JP: What are you going to do after you graduate?<n>意味：卒業したらどうするの？
+EN: What are you going to do after you graduate?<n>Meaning: What are your plans after graduation?
+
+@49AC4 max=351
+JP: 何か、不幸な出来事に見舞われた方への、<n>同情の言葉。お察しします、ということです。
+EN: Words of sympathy for someone who has suffered misfortune.<n>You are saying you understand their pain, yes?
+
+@49C24 max=287
+JP: I understand what you're going through.<n>意味：お察しします。
+EN: I understand what you're going through.<n>Meaning: I know how hard this is for you.
+
+@49DE4 max=351
+JP: あの本、終わりのところがちょっといやだよね、<n>ということです。
+EN: It means you were not very happy<n>with how that book finished, yes?
+
+@49F44 max=287
+JP: I rather disliked the way the book ended.<n>意味：あの本、終わりのところが<n>ちょっといやだよね。
+EN: I rather disliked the way the book ended.<n>Meaning: I wasn't very happy<n>with that book's ending.
+
+@4A104 max=351
+JP: パスポート、見つかって本当に良かった！<n>旅先では肌身離さず、注意してくださいねー。
+EN: Oh, what a relief that your passport was found!<n>Keep it close when traveling, and take good care, yes?
+
+@4A264 max=287
+JP: I'm so glad I found my passport.<n>意味：パスポート、見つかって本当に良かった！
+EN: I'm so glad I found my passport.<n>Meaning: What a relief! My passport turned up!
+
+@4A424 max=351
+JP: あんたらテレビ見すぎだよ、ということですね。<n>最近はどんなテレビが面白いですかー。
+EN: This means you people watch too much TV, yes?<n>What is good on television these days?
+
+@4A584 max=287
+JP: You people are watching too much TV.<n>意味：あんたらテレビ見すぎだよ。
+EN: You people are watching too much TV.<n>Meaning: You lot spend too much time watching TV.
+
+@4A744 max=351
+JP: 本気なの？という問いかけ。<n>わりと頻繁に使いますよー。
+EN: A way to ask, "Do you really mean it?"<n>Oh, this one comes in handy often!
+
+@4A8A4 max=287
+JP: Are you sure?<n>意味：本気なの？
+EN: Are you sure?<n>Meaning: Do you really mean it?
+
+@4AA64 max=351
+JP: はっきりカタをつけてよ、<n>彼女と私、どっちにするの？という意味。<p>こんなセリフ、使わずに過ごしたいですねーー。<n>私は言われたことはありませんよー。
+EN: Make up your mind!<n>Who will it be, her or me?<p>Let us hope you never need this line, yes?<n>No one has ever said it to me!
+
+@4ABC4 max=287
+JP: "You have to choose,<n>it is going to be her or me?"<n>意味：彼女と私、どっちにするの？
+EN: "You have to choose.<n>Is it going to be her or me?"<n>Meaning: Which of us do you want, her or me?
+
+@4AD84 max=351
+JP: よく、日本の方はアメリカのご飯が<n>食べきれないといいますねー。<p>これは、あなたこれ食べきれる？という意味です。
+EN: Japanese visitors often say American portions<n>are too big to finish, yes?<p>This means, "Can you finish all this food?"
+
+@4AEE4 max=287
+JP: Can you eat them all?<n>意味：あなたこれ食べきれる？
+EN: Can you eat them all?<n>Meaning: Can you finish all of those?
+
+@4B0A4 max=351
+JP: 似合う？ってことですね。<n>試着したら、聞いてみてね。
+EN: This means, "Does it suit me?"<n>Try asking after you try something on!
+
+@4B204 max=287
+JP: How do I look?<n>意味：似合う？
+EN: How do I look?<n>Meaning: Does this look good on me?
+
+@4B3C4 max=351
+JP: 宿題を忘れて怒られた友人に一言。<n>自業自得だよ。
+EN: Your friend gets scolded for forgetting homework?<n>You brought it on yourself, my friend!
+
+@4B524 max=287
+JP: You asked for it.<n>意味：自業自得。
+EN: You asked for it.<n>Meaning: You brought it on yourself.
+
+@4B6E4 max=351
+JP: これは案外よく聞くんですねー。<p>一切れのケーキ、ですが、<n>意味は、楽勝だぜ！ってことなんですー。
+EN: Oh, you hear this one surprisingly often!<p>It sounds like a slice of cake,<n>but it means something is very easy, yes?
+
+@4B844 max=287
+JP: A piece of cake!<n>意味：楽勝だぜ！
+EN: A piece of cake!<n>Meaning: Easy as can be!
+
+@4BA04 max=351
+JP: すごくネイティブっぽい答え方の、<n>いつでもいいよ、ってことですね。
+EN: A very natural way to answer, yes?<n>It means any day is fine with you.
+
+@4BB64 max=287
+JP: Any day will do.<n>意味：いつでもいいよ。
+EN: Any day will do.<n>Meaning: Any day is fine with me.
+
+@4BD24 max=351
+JP: 売り切れ。<p>これを言われたら、どんなにみたい<n>サッカーの試合でもあきらめて、<p>テレビで見ましょうねー。
+EN: No tickets left!<p>If you hear this, however much you want<n>to see that soccer match in person...<p>You must settle for watching it on TV, yes?
+
+@4BE84 max=287
+JP: Sold out<n>意味：売り切れ。
+EN: Sold out<n>Meaning: There are none left to buy.
+
+@4C044 max=351
+JP: 夢はサッカー選手！という子供に、<n>こう言ってあげて。夢、かなうといいね！
+EN: A child dreams of becoming a soccer player?<n>Tell them you hope their dream comes true!
+
+@4C1A4 max=287
+JP: I hope your dreams come true.<n>意味：夢、かなうといいね！
+EN: I hope your dreams come true.<n>Meaning: May your dreams become reality!
+
+@4C364 max=351
+JP: そうできたらいいんだけど、ということですー。<n>とっても残念な感じが伝わります。
+EN: It means you would like to, but cannot.<n>Oh, you can hear the disappointment!
+
+@4C4C4 max=287
+JP: I wish I could.<n>意味：そうできたらいいんだけど。
+EN: I wish I could.<n>Meaning: I'd love to, but I can't.
+
+@4C684 max=351
+JP: 一目ぼれ、ということですー。
+EN: It means falling in love the very moment you meet, yes?
+
+@4C7E4 max=287
+JP: Love at first sight.<n>意味：一目ぼれ。
+EN: Love at first sight.<n>Meaning: Falling in love the moment you see someone.
+
+@4C9A4 max=351
+JP: 予約確認したいです、ってことですね。<p>このフレーズは、買ったチケットによっては<n>必ず旅行先で言うはめになります。<p>覚えましょうー。
+EN: This means you want to confirm your booking, yes?<p>Depending on your ticket, you may need to say<n>this while you are traveling.<p>Do remember it!
+
+@4CB04 max=287
+JP: I'd like to reconfirm my flight.<n>意味：予約確認したいです。
+EN: I'd like to reconfirm my flight.<n>Meaning: I'd like to confirm my flight booking again.
+
+@4CCC4 max=351
+JP: 身を引き締めて、しっかりやれよ、<n>って言う意味ですね。<p>自分を引っ張れ、じゃありません。
+EN: Get a grip on yourself<n>and shape up! That is the meaning, yes?<p>No need to actually pull on yourself!
+
+@4CE24 max=287
+JP: Pull yourself together.<n>意味：身を引き締めて、しっかりやれよ。
+EN: Pull yourself together.<n>Meaning: Get a grip and shape up.
+
+@4CFE4 max=351
+JP: シーンとしてるけどドアが閉まっている<n>トイレなんかで言う機会有りですねー。<p>誰かいます？
+EN: You might say this when a restroom door is shut<n>but all is quiet inside, yes?<p>Anyone in there?
+
+@4D144 max=287
+JP: Is anyone there?<n>意味：誰かいます？
+EN: Is anyone there?<n>Meaning: Is somebody in there?
+
+@4D304 max=351
+JP: アメリカのファーストフードショップなんかで<n>聞かれます。<p>こちらでお召し上がり？それとも持ち帰り？<n>持ち帰りならTo goと答えて。
+EN: You will hear this at fast food restaurants<n>in America, yes?<p>Will you eat here, or take your food away?<n>If you are taking it away, say, "To go."
+
+@4D464 max=287
+JP: For here or to go?<n>意味：こちらでお召し上がり？それとも持ち帰り？
+EN: For here or to go?<n>Meaning: Will you eat here, or take it with you?
+
+@4D624 max=351
+JP: 凍れ、じゃなくて、動くな。<n>これ言われたら、とりあえず、動くな。
+EN: It means stop moving, not turn into ice!<n>If someone says this, hold still for now, yes?
+
+@4D784 max=287
+JP: Freeze!<n>意味：動くな。
+EN: Freeze!<n>Meaning: Don't move!
+
+@4D944 max=351
+JP: 踏んだりけったりで落ち込んでいる人に一言。<n>そんなこともあるさ、ですね。
+EN: For someone feeling low after one mishap too many.<n>These things happen, yes?
+
+@4DAA4 max=287
+JP: It happens.<n>意味：そんなこともあるさ。
+EN: It happens.<n>Meaning: These things happen sometimes.
+
+@4DC64 max=351
+JP: Seeだけど、ここでは誰か付き合っている人いるの？<n>という意味になります。
+EN: Here, "seeing" means dating, yes?<n>You are asking if someone has a boyfriend or girlfriend.
+
+@4DDC4 max=287
+JP: Are you seeing anyone?<n>意味：誰か付き合っている人いるの？
+EN: Are you seeing anyone?<n>Meaning: Are you dating anybody?
+
+@4DF84 max=351
+JP: 死人に口なし。<n>という意味ですねー。
+EN: Dead men tell no tales.<n>That is the meaning, yes?
+
+@4E0E4 max=287
+JP: Dead men tell no tales.<n>意味：死人に口なし。
+EN: Dead men tell no tales.<n>Meaning: The dead cannot speak.
+
+@4E2A4 max=351
+JP: 困ったときに助けてくれる友人が真の友、<n>ということわざですー。
+EN: A friend who helps you in trouble is true friend.<n>So says the proverb, yes?
+
+@4E404 max=287
+JP: A friend in need is a friend indeed.<n>意味：困ったときに助けてくれる友人が真の友。<n>備考：ことわざ
+EN: A friend in need is a friend indeed.<n>Meaning: A friend who helps in hard times is a true friend.<n>Note: A proverb.
+
+@4E5C4 max=351
+JP: シェークスピアのハムレットのなかの、<n>有名な台詞ですねー。<p>心弱きもの汝の名は女。
+EN: Ah, a famous line from Shakespeare's Hamlet, yes?<p>Frailty, thy name is woman.
+
+@4E724 max=287
+JP: Frailty, thy name is woman.<n>意味：心弱きもの汝の名は女。<n>備考：シェークスピア「ハムレット」のセリフ。
+EN: Frailty, thy name is woman.<n>Meaning: Woman is the very image of weakness.<n>Note: A line from Shakespeare's Hamlet.
+
+@4E8E4 max=351
+JP: ヘレン・ケラーの語った言葉。<p>人生は刺激に満ちている、<n>そして最も刺激的なのは他人のために生きることだ。
+EN: These are words of Helen Keller, yes.<p>Life is full of excitement,<n>and most exciting when lived for others.
+
+@4EA44 max=287
+JP: "Life is an exciting business <n>and most exciting when it is lived for others."<n>意味：人生は刺激に満ちている、<n>そして最も刺激的なのは他人のために生きること。<n>備考：ヘレン・ケラーの言葉
+EN: "Life is an exciting business<n>and most exciting when it is lived for others."<n>Meaning: Life is full of excitement,<n>especially when you live for others.<n>Note: Words of Helen Keller.
+
+@4EC04 max=351
+JP: 友人たちが、あなた若く見えるよ、<n>なんてお世辞を言い始めたら、<p>あなたが老け始めているってことです、<n>と、マーク・トウェインが言いました。
+EN: When friends start flattering you,<n>saying how young you look...<p>It means you are getting old!<n>So said Mark Twain, yes.
+
+@4ED64 max=287
+JP: "When your friends begin to <n>flatter you on how young you look,<n>it's a sure sign you're getting old."<n>意味：友人たちが、あなた若く見えるよ、<n>なんてお世辞を言い始めたら、<n>あなたが老け始めているってこと。<n>備考：作家マーク・トウェインの言葉
+EN: "When your friends begin to<n>flatter you on how young you look,<n>it's a sure sign you're getting old."<n>Meaning: When friends say you look young,<n>their flattery is a sure sign<n>that you are getting old.<n>Note: Author Mark Twain.
+
+@4EF24 max=351
+JP: ジュリアス・シーザーの名台詞、賽は投げられた。
+EN: Ah, the famous words of Julius Caesar: The die is cast.
+
+@4F084 max=287
+JP: The die is cast.<n>意味：賽は投げられた。<n>備考：ジュリアス・シーザーの言葉
+EN: The die is cast.<n>Meaning: The decision is made. There is no turning back.<n>Note: Words of Julius Caesar.
+
+@4F244 max=351
+JP: 愛されたいのなら、愛し、愛される存在でいなさい。<p>なぜ、こんなことをベンジャミン・フランクリンが<n>言ったんでしょうねーー。
+EN: If you wish to be loved, love others and be lovable.<p>What made Benjamin Franklin say such a thing,<n>I wonder, hmm?
+
+@4F3A4 max=287
+JP: If you would be loved, love and be lovable.<n>意味：愛されたいのなら、愛し、<n>愛される存在でいなさい。<n>備考：ベンジャミン・フランクリンの言葉
+EN: If you would be loved, love and be lovable.<n>Meaning: To be loved, love others<n>and be someone others can love.<n>Note: Words of Benjamin Franklin.
+
+@4F564 max=351
+JP: 洞察力とは目に見えないものを見る技である。<n>ジョナサン・スウィフトの言葉です。
+EN: Vision is the art of seeing the invisible.<n>These are words of Jonathan Swift, yes.
+
+@4F6C4 max=287
+JP: Vision is the art of seeing the invisible.<n>意味：洞察力とは<n>目に見えないものを見る技である。<n>備考：ジョナサン・スウィフトの言葉
+EN: Vision is the art of seeing the invisible.<n>Meaning: Insight is the skill<n>of seeing what the eye cannot.<n>Note: Words of Jonathan Swift.

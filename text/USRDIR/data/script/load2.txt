@@ -1,0 +1,3287 @@
+# source: PSP_GAME/USRDIR/data/script/load2.scb
+# format: scb
+# width: 44
+
+@5144 max=639
+JP: じゃ～ん<n>おなじみオープニング・クイズ<p>さあ、正しいのはどっち？
+EN: Ta-da!<n>It's your opening quiz!<p>Now, which answer is right?
+
+@53C4 max=639
+JP: 正解！
+EN: Correct!
+
+@5644 max=639
+JP: 正解したので、<MONEY>ｚをゲットしたよ！
+EN: You got it right and earned <MONEY>z!
+
+@58C4 max=639
+JP: 正解したので、恋愛運が<NUM>アップしたよ！
+EN: You got it right! Your love luck rose by <NUM>!
+
+@5B44 max=639
+JP: 正解したので、健康運が<NUM>アップしたよ！
+EN: You got it right! Your health luck rose by <NUM>!
+
+@5DC4 max=639
+JP: 正解したので、仕事運が<NUM>アップしたよ！
+EN: You got it right! Your work luck rose by <NUM>!
+
+@6044 max=639
+JP: 正解したので、金運が<NUM>アップしたよ！
+EN: You got it right! Your money luck rose by <NUM>!
+
+@62C4 max=639
+JP: 正解したので、対人運が<NUM>アップしたよ！
+EN: You got it right! Your social luck rose by <NUM>!
+
+@6544 max=639
+JP: 正解したので、ＢＧＭが増えたよ！
+EN: You got it right and unlocked more music!
+
+@67C4 max=639
+JP: 不正解！
+EN: Incorrect!
+
+@6A44 max=639
+JP: 時間切れ！
+EN: Time's up!
+
+@6CC4 max=639
+JP: 表示したいクイズのIDを入力してください。
+EN: Enter the ID of the quiz to display.
+
+@6F44 max=639
+JP: 正解！
+EN: Correct!
+
+@71C4 max=639
+JP: 不正解！
+EN: Incorrect!
+
+@7444 max=639
+JP: 時間切れ！
+EN: Time's up!
+
+@14E6C max=119
+JP: 乳母
+EN: How do you say "wet nurse" in Japanese?
+
+@14EE4 max=67
+JP: うば<n>にゅうも
+EN: Uba<n>Nyuumo
+
+@14F2C max=119
+JP: 襖
+EN: How do you say "sliding paper door" in Japanese?
+
+@14FA4 max=67
+JP: ふすま<n>えり
+EN: Fusuma<n>Eri
+
+@14FEC max=119
+JP: 五月雨
+EN: How do you say "early-summer rain" in Japanese?
+
+@15064 max=67
+JP: さみだれ<n>さつきめ
+EN: Samidare<n>Satsukime
+
+@150AC max=119
+JP: 百舌鳥
+EN: How do you say "shrike" in Japanese?
+
+@15124 max=67
+JP: もず<n>むくどり
+EN: Mozu<n>Mukudori
+
+@1516C max=119
+JP: 木瓜
+EN: How do you say "flowering quince" in Japanese?
+
+@151E4 max=67
+JP: ぼけ<n>きゅうり
+EN: Boke<n>Kyuuri
+
+@1522C max=119
+JP: 琴線
+EN: How do you say "koto strings" in Japanese?
+
+@152A4 max=67
+JP: きんせん<n>ことせん
+EN: Kinsen<n>Kotosen
+
+@152EC max=119
+JP: 鋸
+EN: How do you say "saw" in Japanese?
+
+@15364 max=67
+JP: のこぎり<n>きり
+EN: Nokogiri<n>Kiri
+
+@153AC max=119
+JP: 禽獣
+EN: How do you say "birds and beasts" in Japanese?
+
+@15424 max=67
+JP: きんじゅう<n>けだもの
+EN: Kinjuu<n>Kedamono
+
+@1546C max=119
+JP: 何卒
+EN: How do you politely say "please" in Japanese?
+
+@154E4 max=67
+JP: なにとぞ<n>いかんせん
+EN: Nanitozo<n>Ikansen
+
+@1552C max=119
+JP: 把手
+EN: How do you say "handle" in Japanese?
+
+@155A4 max=67
+JP: とって<n>はくしゅ
+EN: Totte<n>Hakushu
+
+@155EC max=119
+JP: 万屋
+EN: How do you say "general store" in Japanese?
+
+@15664 max=67
+JP: よろずや<n>ばんや
+EN: Yorozuya<n>Banya
+
+@156AC max=119
+JP: 山茶花
+EN: How do you say "sasanqua camellia" in Japanese?
+
+@15724 max=67
+JP: さざんか<n>やまちゃばな
+EN: Sazanka<n>Yamachabana
+
+@1576C max=119
+JP: 欠片
+EN: How do you say "fragment" in Japanese?
+
+@157E4 max=67
+JP: かけら<n>けっぺん
+EN: Kakera<n>Keppen
+
+@1582C max=119
+JP: 漫ろ
+EN: How do you say "restless" in Japanese?
+
+@158A4 max=67
+JP: そぞろ<n>うつろ
+EN: Sozoro<n>Utsuro
+
+@158EC max=119
+JP: 四股名
+EN: A sumo wrestler's ring name
+
+@15964 max=67
+JP: しこな<n>よつまた
+EN: shikona<n>yotsumata
+
+@159AC max=119
+JP: 三十三才
+EN: A wren (a tiny songbird)
+
+@15A24 max=67
+JP: みそさざい<n>みそじ
+EN: misosazai<n>misoji
+
+@15A6C max=119
+JP: 悉く
+EN: Without exception
+
+@15AE4 max=67
+JP: ことごとく<n>しばらく
+EN: kotogotoku<n>shibaraku
+
+@15B2C max=119
+JP: 柿落とし
+EN: A theater's inaugural performance
+
+@15BA4 max=67
+JP: こけらおとし<n>かきおとし
+EN: kokeraotoshi<n>kakiotoshi
+
+@15BEC max=119
+JP: 糾う
+EN: Twist strands into a cord
+
+@15C64 max=67
+JP: あざなう<n>つくろう
+EN: azanau<n>tsukurou
+
+@15CAC max=119
+JP: 水母
+EN: Jellyfish
+
+@15D24 max=67
+JP: くらげ<n>みなも
+EN: kurage<n>minamo
+
+@15D6C max=119
+JP: 暢気
+EN: Carefree
+
+@15DE4 max=67
+JP: のんき<n>ようき
+EN: nonki<n>youki
+
+@15E2C max=119
+JP: 女郎花
+EN: Golden lace (a flowering plant)
+
+@15EA4 max=67
+JP: おみなえし<n>じょろうばな
+EN: ominaeshi<n>joroubana
+
+@15EEC max=119
+JP: 顧みる
+EN: Look back; reflect on
+
+@15F64 max=67
+JP: かえりみる<n>こころみる
+EN: kaerimiru<n>kokoromiru
+
+@15FAC max=119
+JP: 茶話会
+EN: A gathering over tea
+
+@16024 max=67
+JP: さわかい<n>ちゃわかい
+EN: sawakai<n>chawakai
+
+@1606C max=119
+JP: 相殺
+EN: Cancel out; offset
+
+@160E4 max=67
+JP: そうさい<n>あいさつ
+EN: sousai<n>aisatsu
+
+@1612C max=119
+JP: 窺う
+EN: Peek; watch secretly
+
+@161A4 max=63
+JP: うかがう<n>うたがう
+EN: ukagau<n>utagau
+
+@161EC max=119
+JP: 諮問
+EN: A formal request for advice
+
+@16264 max=63
+JP: しもん<n>げんもん
+EN: shimon<n>genmon
+
+@162AC max=119
+JP: 寿ぐ
+EN: Celebrate; offer congratulations
+
+@16324 max=63
+JP: ことほぐ<n>すぐ
+EN: kotohogu<n>sugu
+
+@1636C max=119
+JP: 海鼠
+EN: Sea cucumber
+
+@163E4 max=63
+JP: なまこ<n>うみうし
+EN: namako<n>umiushi
+
+@1642C max=119
+JP: 交交
+EN: By turns; in alternation
+
+@164A4 max=63
+JP: こもごも<n>こうこう
+EN: komogomo<n>koukou
+
+@164EC max=119
+JP: 雲丹
+EN: Sea urchin
+
+@16564 max=63
+JP: うに<n>はも
+EN: uni<n>hamo
+
+@165AC max=119
+JP: 惚気る
+EN: Boast about one's sweetheart
+
+@16624 max=63
+JP: のろける<n>ほうける
+EN: norokeru<n>houkeru
+
+@1666C max=119
+JP: 生憎
+EN: Unfortunately
+
+@166E4 max=63
+JP: あいにく<n>なまいき
+EN: ainiku<n>namaiki
+
+@1672C max=119
+JP: 心太
+EN: Agar jelly noodles
+
+@167A4 max=63
+JP: ところてん<n>ふとっぱら
+EN: tokoroten<n>futoppara
+
+@167EC max=119
+JP: 宛ら
+EN: Japanese for 'just like':
+
+@16864 max=63
+JP: さながら<n>かたわら
+EN: sanagara<n>katawara
+
+@168AC max=119
+JP: 雪洞
+EN: Japanese for 'a small paper lantern':
+
+@16924 max=63
+JP: ぼんぼり<n>かまくら
+EN: bonbori<n>kamakura
+
+@1696C max=119
+JP: 糟糠の妻
+EN: Japanese for 'a wife who's stood by you since you were poor':
+
+@169E4 max=63
+JP: そうこうのつま<n>そうとうのつま
+EN: soukou no tsuma<n>soutou no tsuma
+
+@16A2C max=119
+JP: 雀斑
+EN: Japanese for 'freckles':
+
+@16AA4 max=63
+JP: そばかす<n>じゃくはん
+EN: sobakasu<n>jakuhan
+
+@16AEC max=119
+JP: 十六夜
+EN: Japanese for 'the moon on the 16th lunar night':
+
+@16B64 max=63
+JP: いざよい<n>いざやい
+EN: izayoi<n>izayai
+
+@16BAC max=119
+JP: 香具師
+EN: Japanese for 'a street peddler':
+
+@16C24 max=63
+JP: やし<n>かぐし
+EN: yashi<n>kagushi
+
+@16C6C max=119
+JP: 鳩尾
+EN: Japanese for 'the solar plexus':
+
+@16CE4 max=63
+JP: みぞおち<n>きゅうび
+EN: mizoochi<n>kyuubi
+
+@16D2C max=119
+JP: 湯湯婆
+EN: Japanese for 'a hot-water bottle':
+
+@16DA4 max=63
+JP: ゆたんぽ<n>ゆげばばあ
+EN: yutanpo<n>yugebabaa
+
+@16DEC max=119
+JP: 和毛
+EN: Japanese for 'soft, downy hair':
+
+@16E64 max=63
+JP: にこげ<n>わげ
+EN: nikoge<n>wage
+
+@16EAC max=119
+JP: 沙魚
+EN: Japanese for 'a goby fish':
+
+@16F24 max=63
+JP: はぜ<n>ししゃも
+EN: haze<n>shishamo
+
+@16F6C max=119
+JP: 下戸
+EN: Japanese for 'someone who can't handle alcohol':
+
+@16FE4 max=63
+JP: げこ<n>げと
+EN: geko<n>geto
+
+@1702C max=119
+JP: 好事家
+EN: Japanese for 'an enthusiast with unusual tastes':
+
+@170A4 max=63
+JP: こうずか<n>こうじけ
+EN: kouzuka<n>koujike
+
+@170EC max=119
+JP: 汗顔
+EN: Japanese for 'feeling deeply ashamed':
+
+@17164 max=63
+JP: かんがん<n>あせがお
+EN: kangan<n>asegao
+
+@171AC max=119
+JP: 一蹴
+EN: Japanese for 'dismissing something outright':
+
+@17224 max=63
+JP: いっしゅう<n>ひとけり
+EN: isshuu<n>hitokeri
+
+@1726C max=119
+JP: 物怖じ
+EN: Japanese for 'timidity':
+
+@172E4 max=63
+JP: ものおじ<n>もののじ
+EN: monooji<n>mononoji
+
+@1732C max=119
+JP: 寓話
+EN: Japanese for 'a fable':
+
+@173A4 max=63
+JP: ぐうわ<n>そうわ
+EN: guuwa<n>souwa
+
+@173EC max=119
+JP: 先達
+EN: Japanese for 'an experienced guide or mentor':
+
+@17464 max=63
+JP: せんだて<n>せんだつ
+EN: sendate<n>sendatsu
+
+@174AC max=119
+JP: 淑やか
+EN: Japanese for 'graceful and ladylike':
+
+@17524 max=63
+JP: おだやか<n>しとやか
+EN: odayaka<n>shitoyaka
+
+@1756C max=119
+JP: 許婚
+EN: Japanese for 'a person you're promised to marry':
+
+@175E4 max=63
+JP: きょこん<n>いいなずけ
+EN: kyokon<n>iinazuke
+
+@1762C max=119
+JP: 不味い
+EN: Japanese for 'tastes bad':
+
+@176A4 max=63
+JP: ふぞろい<n>まずい
+EN: fuzoroi<n>mazui
+
+@176EC max=119
+JP: 字面
+EN: Which Japanese word means "the look of written characters"?
+
+@17764 max=63
+JP: じめん<n>じづら
+EN: Jimen<n>Jizura
+
+@177AC max=119
+JP: 垢
+EN: Which Japanese word means "grime on the skin"?
+
+@17824 max=63
+JP: ほこり<n>あか
+EN: Hokori<n>Aka
+
+@1786C max=119
+JP: 賢しら
+EN: Which Japanese word means "acting like a know-it-all"?
+
+@178E4 max=63
+JP: かしこしら<n>さかしら
+EN: Kashikoshira<n>Sakashira
+
+@1792C max=119
+JP: 晦ます
+EN: Which Japanese word means "to hide or vanish"?
+
+@179A4 max=63
+JP: はげます<n>くらます
+EN: Hagemasu<n>Kuramasu
+
+@179EC max=119
+JP: 果せる
+EN: Which Japanese word means "to carry out successfully"?
+
+@17A64 max=63
+JP: かせる<n>おおせる
+EN: Kaseru<n>Ooseru
+
+@17AAC max=119
+JP: 挙って
+EN: Which Japanese word means "all together, without exception"?
+
+@17B24 max=63
+JP: おこって<n>こぞって
+EN: Okotte<n>Kozotte
+
+@17B6C max=119
+JP: 猫糞
+EN: Which Japanese word means "pocketing something you found"?
+
+@17BE4 max=63
+JP: ねこのふん<n>ねこばば
+EN: Neko no fun<n>Nekobaba
+
+@17C2C max=119
+JP: 忽せ
+EN: Which Japanese word means "neglectful or careless"?
+
+@17CA4 max=63
+JP: ねぎせ<n>ゆるがせ
+EN: Negise<n>Yurugase
+
+@17CEC max=119
+JP: 卜占
+EN: Which compound reading means "divination" in Japanese?
+
+@17D64 max=63
+JP: うらない<n>ぼくせん
+EN: Uranai<n>Bokusen
+
+@17DAC max=119
+JP: 月代
+EN: Which Japanese word means "a samurai's shaved crown"?
+
+@17E24 max=63
+JP: つきしろ<n>さかやき
+EN: Tsukishiro<n>Sakayaki
+
+@17E6C max=119
+JP: 旋毛
+EN: Which Japanese word means "a whorl of hair"?
+
+@17EE4 max=63
+JP: だまげ<n>つむじ
+EN: DAMAGE<n>Tsumuji
+
+@17F2C max=119
+JP: 終夜
+EN: Which Japanese word means "all night long"?
+
+@17FA4 max=63
+JP: おわりや<n>よもすがら
+EN: Owariya<n>Yomosugara
+
+@17FEC max=119
+JP: 貝独楽
+EN: Which Japanese word names a traditional spinning top?
+
+@18064 max=63
+JP: かいどくら<n>べいごま
+EN: Kaidokura<n>Beigoma
+
+@180AC max=119
+JP: 詳らか
+EN: Which Japanese word means "detailed or thorough"?
+
+@18124 max=63
+JP: あきらか<n>つまびらか
+EN: Akiraka<n>Tsumabiraka
+
+@1816C max=119
+JP: 一寸見
+EN: Which Japanese word means "a quick glance"?
+
+@181E4 max=63
+JP: いっすんぼうし<n>ちょっとみ
+EN: Issunboshi<n>Chottomi
+
+@1822C max=119
+JP: 蒲鉾
+EN: Which Japanese word names a steamed fish cake?
+
+@182A4 max=63
+JP: ちくわ<n>かまぼこ
+EN: Chikuwa<n>Kamaboko
+
+@182EC max=119
+JP: 山鼠
+EN: Which Japanese word means "dormouse"?
+
+@18364 max=63
+JP: いたち<n>やまね
+EN: Itachi<n>Yamane
+
+@183AC max=119
+JP: 海豚
+EN: Which Japanese word means "dolphin"?
+
+@18424 max=63
+JP: じゅごん<n>いるか
+EN: Jugon<n>Iruka
+
+@1846C max=119
+JP: 河豚
+EN: Which Japanese word means "pufferfish"?
+
+@184E4 max=63
+JP: かっぱ<n>ふぐ
+EN: Kappa<n>Fugu
+
+@1852C max=119
+JP: 独活
+EN: Which Japanese word names the edible spikenard plant?
+
+@185A4 max=63
+JP: こどく<n>うど
+EN: Kodoku<n>Udo
+
+@185EC max=119
+JP: 強請る
+EN: Japanese for "to pester for something"?
+
+@18664 max=63
+JP: ねばる<n>ねだる
+EN: Nebaru<n>Nedaru
+
+@186AC max=119
+JP: 目脂
+EN: Japanese for "eye gunk"?
+
+@18724 max=63
+JP: なみだ<n>めやに
+EN: Namida<n>Meyani
+
+@1876C max=119
+JP: 猪口才
+EN: Japanese for "cheeky"?
+
+@187E4 max=63
+JP: ちょうざい<n>ちょこざい
+EN: Chozai<n>Chokozai
+
+@1882C max=119
+JP: 木偶坊
+EN: Japanese for "blockhead"?
+
+@188A4 max=63
+JP: こうぼう<n>でくのぼう
+EN: Kobo<n>Dekunobo
+
+@188EC max=119
+JP: 満天星
+EN: Japanese for "dodan azalea"?
+
+@18964 max=63
+JP: まんてんせい<n>どうだんつつじ
+EN: Mantensei<n>Dodantsutsuji
+
+@189AC max=119
+JP: 畏怖
+EN: Japanese for "awe and fear"?
+
+@18A24 max=63
+JP: わいふ<n>いふ
+EN: Waifu<n>Ifu
+
+@18A6C max=119
+JP: 蛤
+EN: Japanese for "hard clam"?
+
+@18AE4 max=63
+JP: あさり<n>はまぐり
+EN: Asari<n>Hamaguri
+
+@18B2C max=119
+JP: 秋刀魚
+EN: Japanese for "Pacific saury"?
+
+@18BA4 max=63
+JP: さわら<n>さんま
+EN: Sawara<n>Sanma
+
+@18BEC max=119
+JP: 柳葉魚
+EN: Japanese for "willowleaf smelt"?
+
+@18C64 max=63
+JP: どじょう<n>ししゃも
+EN: Dojo<n>Shishamo
+
+@18CAC max=119
+JP: 二進も三進も
+EN: Japanese for "completely stuck"?
+
+@18D24 max=63
+JP: にしもひがしも<n>にっちもさっちも
+EN: Nishi mo higashi mo<n>Nicchi mo sacchi mo
+
+@18D6C max=119
+JP: 禿びる
+EN: Japanese for "to wear down"?
+
+@18DE4 max=63
+JP: はびる<n>ちびる
+EN: Habiru<n>Chibiru
+
+@18E2C max=119
+JP: 擬い物
+EN: Japanese for "an imitation"?
+
+@18EA4 max=63
+JP: ばったもん<n>まがいもの
+EN: Battamon<n>Magaimono
+
+@18EEC max=119
+JP: 蝦
+EN: Japanese for "shrimp"?
+
+@18F64 max=63
+JP: せみ<n>えび
+EN: Semi<n>Ebi
+
+@18FAC max=119
+JP: 半玉
+EN: Japanese for "an apprentice geisha"?
+
+@19024 max=63
+JP: はんたま<n>はんぎょく
+EN: Hantama<n>Hangyoku
+
+@1906C max=119
+JP: 御伽噺
+EN: Japanese for "fairy tale"?
+
+@190E4 max=63
+JP: ごはっと<n>おとぎばなし
+EN: Gohatto<n>Otogibanashi
+
+@1912C max=119
+JP: 惚ける
+EN: Japanese for "to play dumb"?
+
+@191A4 max=63
+JP: ふざける<n>とぼける
+EN: Fuzakeru<n>Tobokeru
+
+@191EC max=119
+JP: 舎人
+EN: Japanese for "palace attendant"?
+
+@19264 max=63
+JP: しゃてい<n>とねり
+EN: Shatei<n>Toneri
+
+@192AC max=119
+JP: 高砂
+EN: Japanese for "a wedding dais"?
+
+@19324 max=63
+JP: たかすな<n>たかさご
+EN: Takasuna<n>Takasago
+
+@1936C max=119
+JP: 為人
+EN: Japanese for "a person's character"?
+
+@193E4 max=63
+JP: いじん<n>ひととなり
+EN: Ijin<n>Hitotonari
+
+@1942C max=119
+JP: 飯事
+EN: Japanese for "playing house"?
+
+@194A4 max=63
+JP: はんじ<n>ままごと
+EN: Hanji<n>Mamagoto
+
+@194EC max=119
+JP: 苛む
+EN: Which Japanese word means 'to torment'?
+
+@19564 max=63
+JP: にらむ<n>さいなむ
+EN: Niramu<n>Sainamu
+
+@195AC max=119
+JP: 群青
+EN: Which Japanese word means 'ultramarine blue'?
+
+@19624 max=63
+JP: あい<n>ぐんじょう
+EN: Ai<n>Gunjo
+
+@1966C max=119
+JP: 微酔
+EN: Which Japanese word means 'tipsy'?
+
+@196E4 max=63
+JP: でいすい<n>ほろよい
+EN: Deisui<n>Horoyoi
+
+@1972C max=119
+JP: 雪ぐ
+EN: Which Japanese word means 'to rinse clean'?
+
+@197A4 max=63
+JP: とつぐ<n>すすぐ
+EN: Totsugu<n>Susugu
+
+@197EC max=119
+JP: 直向き
+EN: Which Japanese word means 'single-minded'?
+
+@19864 max=63
+JP: じかむき<n>ひたむき
+EN: Jikamuki<n>Hitamuki
+
+@198AC max=119
+JP: 食む
+EN: Which Japanese word means 'to eat or graze'?
+
+@19924 max=63
+JP: くむ<n>はむ
+EN: Kumu<n>Hamu
+
+@1996C max=119
+JP: 傘下
+EN: Which Japanese word means 'under an organization's umbrella'?
+
+@199E4 max=63
+JP: さんか<n>かさか
+EN: Sanka<n>Kasaka
+
+@19A2C max=119
+JP: 百足
+EN: Which Japanese word means 'centipede'?
+
+@19AA4 max=63
+JP: むかで<n>げじ
+EN: Mukade<n>Geji
+
+@19AEC max=119
+JP: 続柄
+EN: Which is the traditional Japanese reading for 'family relationship'?
+
+@19B64 max=63
+JP: つづきがら<n>ぞくがら
+EN: Tsuzukigara<n>Zokugara
+
+@19BAC max=119
+JP: 水雲
+EN: Which Japanese word names a type of edible seaweed?
+
+@19C24 max=63
+JP: もずく<n>くらげ
+EN: Mozuku<n>Kurage
+
+@19C6C max=119
+JP: 塩梅
+EN: Which Japanese word means 'seasoning' or 'how things are going'?
+
+@19CE4 max=63
+JP: あんばい<n>えんばい
+EN: Anbai<n>Enbai
+
+@19D2C max=119
+JP: 茶事
+EN: Which Japanese word means 'a formal tea gathering'?
+
+@19DA4 max=63
+JP: ちゃじ<n>さじ
+EN: Chaji<n>Saji
+
+@19DEC max=119
+JP: 熊猫
+EN: Which Japanese animal name is written with characters meaning 'bear' and 'cat'?
+
+@19E64 max=63
+JP: パンダ<n>タヌキ
+EN: Panda<n>Tanuki
+
+@19EAC max=119
+JP: 今日日
+EN: Which Japanese word means 'these days'?
+
+@19F24 max=63
+JP: きょうび<n>こんにちは
+EN: Kyobi<n>Konnichiwa
+
+@19F6C max=119
+JP: 時雨
+EN: Which Japanese word means 'a passing shower in late autumn or early winter'?
+
+@19FE4 max=63
+JP: しぐれ<n>さみだれ
+EN: Shigure<n>Samidare
+
+@1A02C max=119
+JP: 風土記
+EN: Which Japanese word means 'a chronicle of a region's land, customs and legends'?
+
+@1A0A4 max=63
+JP: ふどき<n>ふうどき
+EN: Fudoki<n>Fuudoki
+
+@1A0EC max=119
+JP: 襟
+EN: Which Japanese word means 'collar'?
+
+@1A164 max=63
+JP: えり<n>そで
+EN: Eri<n>Sode
+
+@1A1AC max=119
+JP: 土産
+EN: Which Japanese word means 'souvenir'?
+
+@1A224 max=63
+JP: みやげ<n>どさん
+EN: Miyage<n>Dosan
+
+@1A26C max=119
+JP: 牡丹餅
+EN: Which Japanese word names rice cakes coated in sweet bean paste?
+
+@1A2E4 max=63
+JP: ぼたもち<n>ぼたんもち
+EN: Botamochi<n>Botanmochi
+
+@1A32C max=119
+JP: 桑原桑原
+EN: Which Japanese phrase is traditionally said to ward off lightning?
+
+@1A3A4 max=63
+JP: くわばらくわばら<n>そうそう
+EN: Kuwabara kuwabara<n>Soso
+
+@1A3EC max=119
+JP: 極彩色
+EN: What's Japanese for 'vivid colors'?
+
+@1A464 max=63
+JP: ごくさいしき<n>ごくさいしょく
+EN: Gokusaishiki<n>Gokusaishoku
+
+@1A4AC max=119
+JP: 化身
+EN: What's Japanese for 'an incarnation'?
+
+@1A524 max=63
+JP: けしん<n>かしん
+EN: Keshin<n>Kashin
+
+@1A56C max=119
+JP: 屋外
+EN: What's Japanese for 'outdoors'?
+
+@1A5E4 max=63
+JP: おくがい<n>やがい
+EN: Okugai<n>Yagai
+
+@1A62C max=119
+JP: 団栗
+EN: What's Japanese for 'an acorn'?
+
+@1A6A4 max=63
+JP: どんぐり<n>くるみ
+EN: Donguri<n>Kurumi
+
+@1A6EC max=119
+JP: 河馬
+EN: What's Japanese for 'a hippopotamus'?
+
+@1A764 max=63
+JP: かば<n>かっぱ
+EN: Kaba<n>Kappa
+
+@1A7AC max=119
+JP: 為来り
+EN: What's Japanese for 'an established custom'?
+
+@1A824 max=63
+JP: しきたり<n>いたり
+EN: Shikitari<n>Itari
+
+@1A86C max=119
+JP: 白鼻心
+EN: What's Japanese for 'a masked palm civet'?
+
+@1A8E4 max=63
+JP: はくびしん<n>はくがいしん
+EN: Hakubishin<n>Hakugaishin
+
+@1A92C max=119
+JP: 粟
+EN: What's Japanese for 'millet'?
+
+@1A9A4 max=63
+JP: あわ<n>くり
+EN: Awa<n>Kuri
+
+@1A9EC max=119
+JP: 追銭
+EN: What's Japanese for 'an extra payment'?
+
+@1AA64 max=63
+JP: おいせん<n>ついぜに
+EN: Oisen<n>Tsuizeni
+
+@1AAAC max=119
+JP: 否応
+EN: What's Japanese for 'consent or refusal'?
+
+@1AB24 max=67
+JP: いやおう<n>いなおう
+EN: Iyaou<n>Inaou
+
+@1AB6C max=119
+JP: 悶える
+EN: What's Japanese for 'to writhe in agony'?
+
+@1ABE4 max=67
+JP: もだえる<n>ふるえる
+EN: Modaeru<n>Furueru
+
+@1AC2C max=119
+JP: 莫迦
+EN: What's Japanese for 'a fool'?
+
+@1ACA4 max=63
+JP: ばか<n>しゃか
+EN: Baka<n>Shaka
+
+@1ACEC max=119
+JP: 長閑
+EN: What's Japanese for 'peaceful'?
+
+@1AD64 max=63
+JP: のどか<n>ちょうかん
+EN: Nodoka<n>Choukan
+
+@1ADAC max=119
+JP: 金糸魚
+EN: What's Japanese for 'golden threadfin bream'?
+
+@1AE24 max=63
+JP: いとより<n>きんぎょ
+EN: Itoyori<n>Kingyo
+
+@1AE6C max=119
+JP: 世迷言
+EN: What's Japanese for 'idle grumbling'?
+
+@1AEE4 max=63
+JP: よまいごと<n>よめいごと
+EN: Yomaigoto<n>Yomeigoto
+
+@1AF2C max=119
+JP: 恰幅
+EN: What's Japanese for 'a stout build'?
+
+@1AFA4 max=63
+JP: かっぷく<n>はまぐり
+EN: Kappuku<n>Hamaguri
+
+@1AFEC max=119
+JP: 這這の体
+EN: What's Japanese for 'a state of desperate retreat'?
+
+@1B064 max=63
+JP: ほうほうのてい<n>よいよいのからだ
+EN: Houhou no tei<n>Yoiyoi no karada
+
+@1B0AC max=119
+JP: 黙
+EN: What's Japanese for 'stillness'?
+
+@1B124 max=63
+JP: しじま<n>だんまり
+EN: Shijima<n>Danmari
+
+@1B16C max=119
+JP: 面子
+EN: What's Japanese for 'face,' as in reputation?
+
+@1B1E4 max=63
+JP: めんつ<n>めんこ
+EN: Mentsu<n>Menko
+
+@1B22C max=119
+JP: 遂行
+EN: What's Japanese for 'carrying out a task'?
+
+@1B2A4 max=63
+JP: すいこう<n>ついこう
+EN: Suikou<n>Tsuikou
+
+@1B2EC max=119
+JP: 雄叫び
+EN: Japanese for 'battle cry'?
+
+@1B364 max=63
+JP: おたけび<n>おさけび
+EN: Otakebi<n>Osakebi
+
+@1B3AC max=119
+JP: 遮る
+EN: Japanese for 'to block'?
+
+@1B424 max=63
+JP: さえぎる<n>よぎる
+EN: Saegiru<n>Yogiru
+
+@1B46C max=119
+JP: 流布
+EN: Japanese for 'circulation'?
+
+@1B4E4 max=63
+JP: るふ<n>りゅうふ
+EN: Rufu<n>Ryuufu
+
+@1B52C max=119
+JP: 芸妓
+EN: Japanese for 'geisha'?
+
+@1B5A4 max=63
+JP: げいぎ<n>げいこ
+EN: Geigi<n>Geiko
+
+@1B5EC max=119
+JP: 発端
+EN: Japanese for 'the beginning'?
+
+@1B664 max=63
+JP: ほったん<n>はったん
+EN: Hottan<n>Hattan
+
+@1B6AC max=119
+JP: 貸与
+EN: Japanese for 'lending'?
+
+@1B724 max=63
+JP: たいよ<n>かしよ
+EN: Taiyo<n>Kashiyo
+
+@1B76C max=119
+JP: 会釈
+EN: Japanese for 'a bow of greeting'?
+
+@1B7E4 max=63
+JP: えしゃく<n>かいしゃく
+EN: Eshaku<n>Kaishaku
+
+@1B82C max=119
+JP: 妄執
+EN: Japanese for 'obsession'?
+
+@1B8A4 max=63
+JP: もうしゅう<n>もうひつ
+EN: Moushuu<n>Mouhitsu
+
+@1B8EC max=119
+JP: 胡桃
+EN: Japanese for 'walnut'?
+
+@1B964 max=63
+JP: くるみ<n>こけもも
+EN: Kurumi<n>Kokemomo
+
+@1B9AC max=119
+JP: 啄木鳥
+EN: Japanese for 'woodpecker'?
+
+@1BA24 max=63
+JP: きつつき<n>ほととぎす
+EN: Kitsutsuki<n>Hototogisu
+
+@1BA6C max=119
+JP: 泡銭
+EN: Japanese for 'easy money'?
+
+@1BAE4 max=63
+JP: あぶくぜに<n>あわぜに
+EN: Abukuzeni<n>Awazeni
+
+@1BB2C max=119
+JP: 何時何時
+EN: Japanese for 'at any moment'?
+
+@1BBA4 max=63
+JP: いつなんどき<n>いついつ
+EN: Itsu nandoki<n>Itsuitsu
+
+@1BBEC max=119
+JP: 撒水
+EN: Japanese for 'sprinkling water'?
+
+@1BC64 max=63
+JP: さっすい<n>さんすい
+EN: Sassui<n>Sansui
+
+@1BCAC max=119
+JP: 間尺
+EN: Japanese for 'cost and return'?
+
+@1BD24 max=63
+JP: ましゃく<n>まじゃく
+EN: Mashaku<n>Majaku
+
+@1BD6C max=119
+JP: 所為
+EN: Japanese for 'cause or fault'?
+
+@1BDE4 max=63
+JP: せい<n>しょため
+EN: Sei<n>Shotame
+
+@1BE2C max=119
+JP: 気風
+EN: Japanese for 'a group's prevailing spirit'?
+
+@1BEA4 max=63
+JP: きっぷ<n>きふう
+EN: Kippu<n>Kifuu
+
+@1BEEC max=119
+JP: 店子
+EN: Japanese for 'tenant'?
+
+@1BF64 max=63
+JP: みせこ<n>たなこ
+EN: Miseko<n>Tanako
+
+@1BFAC max=119
+JP: 呂律
+EN: Japanese for 'speech articulation'?
+
+@1C024 max=63
+JP: ろりつ<n>ろれつ
+EN: Roritsu<n>Roretsu
+
+@1C06C max=119
+JP: 膝下
+EN: Japanese for 'under someone's protection'?
+
+@1C0E4 max=63
+JP: ひざした<n>しっか
+EN: Hizashita<n>Shikka
+
+@1C12C max=119
+JP: 然程
+EN: Japanese for 'to that extent'?
+
+@1C1A4 max=63
+JP: のちほど<n>さほど
+EN: Nochihodo<n>Sahodo
+
+@1C1EC max=119
+JP: 流石
+EN: Which Japanese reading means 'as expected'?
+
+@1C264 max=63
+JP: ながれいし<n>さすが
+EN: nagareishi<n>sasuga
+
+@1C2AC max=119
+JP: 弱竹
+EN: Which Japanese reading means 'supple bamboo'?
+
+@1C324 max=63
+JP: よわだけ<n>なよたけ
+EN: yowadake<n>nayotake
+
+@1C36C max=119
+JP: 目下
+EN: Which Japanese reading means 'at present'?
+
+@1C3E4 max=63
+JP: めっか<n>もっか
+EN: mekka<n>mokka
+
+@1C42C max=119
+JP: 怖気
+EN: Which Japanese reading means 'fright'?
+
+@1C4A4 max=63
+JP: きょうき<n>おじけ
+EN: kyoki<n>ojike
+
+@1C4EC max=119
+JP: 疾病
+EN: Which Japanese reading means 'illness'?
+
+@1C564 max=63
+JP: やくびょう<n>しっぺい
+EN: yakubyo<n>shippei
+
+@1C5AC max=119
+JP: 悪寒
+EN: Which Japanese reading means 'chills'?
+
+@1C624 max=63
+JP: あかん<n>おかん
+EN: akan<n>okan
+
+@1C66C max=119
+JP: 優男
+EN: Which Japanese reading means 'a gentle, delicate man'?
+
+@1C6E4 max=63
+JP: ゆうだん<n>やさおとこ
+EN: yudan<n>yasaotoko
+
+@1C72C max=119
+JP: 最後尾
+EN: Which Japanese reading means 'the very back of a line'?
+
+@1C7A4 max=63
+JP: さいごび<n>さいこうび
+EN: saigobi<n>saikobi
+
+@1C7EC max=119
+JP: 先途
+EN: Which Japanese reading means 'a crucial moment'?
+
+@1C864 max=63
+JP: せんと<n>せんど
+EN: sento<n>sendo
+
+@1C8AC max=119
+JP: 雲雀
+EN: Which Japanese reading means 'skylark'?
+
+@1C924 max=63
+JP: すずめ<n>ひばり
+EN: suzume<n>hibari
+
+@1C96C max=119
+JP: 賜杯
+EN: Which Japanese reading means 'a trophy cup bestowed by the emperor'?
+
+@1C9E4 max=63
+JP: ようはい<n>しはい
+EN: yohai<n>shihai
+
+@1CA2C max=119
+JP: 微塵
+EN: Which Japanese reading means 'a tiny speck'?
+
+@1CAA4 max=63
+JP: びじん<n>みじん
+EN: bijin<n>mijin
+
+@1CAEC max=119
+JP: 紫陽花
+EN: Which Japanese reading means 'hydrangea'?
+
+@1CB64 max=63
+JP: すみれ<n>あじさい
+EN: sumire<n>ajisai
+
+@1CBAC max=119
+JP: 冥利
+EN: Which Japanese reading means 'the blessings of one's calling'?
+
+@1CC24 max=63
+JP: めいり<n>みょうり
+EN: meiri<n>myori
+
+@1CC6C max=119
+JP: 虫酸
+EN: Which Japanese reading means 'acid reflux'?
+
+@1CCE4 max=63
+JP: ちゅうさん<n>むしず
+EN: chusan<n>mushizu
+
+@1CD2C max=119
+JP: 冶金
+EN: Which Japanese reading means 'metallurgy'?
+
+@1CDA4 max=63
+JP: ぢがね<n>やきん
+EN: jigane<n>yakin
+
+@1CDEC max=119
+JP: 目深
+EN: Which Japanese reading means 'worn low over the eyes'?
+
+@1CE64 max=63
+JP: めぶか<n>まぶか
+EN: mebuka<n>mabuka
+
+@1CEAC max=119
+JP: 希代
+EN: Which Japanese reading means 'exceptionally rare'?
+
+@1CF24 max=63
+JP: きよ<n>きだい
+EN: kiyo<n>kidai
+
+@1CF6C max=119
+JP: 黒子
+EN: Which Japanese reading means 'a mole on the skin'?
+
+@1CFE4 max=63
+JP: にきび<n>ほくろ
+EN: nikibi<n>hokuro
+
+@1D02C max=119
+JP: 気障
+EN: Which Japanese reading means 'pretentious'?
+
+@1D0A4 max=63
+JP: きしょう<n>きざ
+EN: kisho<n>kiza
+
+@1D0EC max=119
+JP: 姦しい
+EN: Which spelling means "noisy"?
+
+@1D164 max=63
+JP: やかましい<n>かしましい
+EN: Clammerous<n>Clamorous
+
+@1D1AC max=119
+JP: 出初め
+EN: A ceremonial march by firefighters. Which spelling is right?
+
+@1D224 max=63
+JP: ではじめ<n>でぞめ
+EN: Parrade<n>Parade
+
+@1D26C max=119
+JP: 因業
+EN: Which spelling means "stubborn"?
+
+@1D2E4 max=63
+JP: いんが<n>いんごう
+EN: Obstanate<n>Obstinate
+
+@1D32C max=119
+JP: 有卦
+EN: A lucky streak! Which spelling is right?
+
+@1D3A4 max=63
+JP: ゆうけ<n>うけ
+EN: Good furtune<n>Good fortune
+
+@1D3EC max=119
+JP: 四囲
+EN: The area all around you. Which spelling is right?
+
+@1D464 max=63
+JP: よい<n>しい
+EN: Suroundings<n>Surroundings
+
+@1D4AC max=119
+JP: 河岸
+EN: The land along a river. Which spelling is right?
+
+@1D524 max=63
+JP: けし<n>かし
+EN: Riverbenk<n>Riverbank
+
+@1D56C max=119
+JP: 無様
+EN: Which spelling means "shameful"?
+
+@1D5E4 max=63
+JP: むよう<n>ぶざま
+EN: Disgraseful<n>Disgraceful
+
+@1D62C max=119
+JP: 土筆
+EN: A plant with edible spring shoots. Which spelling is right?
+
+@1D6A4 max=63
+JP: つちのふで<n>つくし
+EN: Horssetail<n>Horsetail
+
+@1D6EC max=119
+JP: 予て
+EN: Which spelling means "in advance"?
+
+@1D764 max=63
+JP: あわてて<n>かねて
+EN: Beforhand<n>Beforehand
+
+@1D7AC max=119
+JP: 鬼気
+EN: A spooky, unsettling feeling. Which spelling is right?
+
+@1D824 max=63
+JP: じゃき<n>きき
+EN: Eerieness<n>Eeriness
+
+@1D86C max=119
+JP: 更迭
+EN: Removal from an official post. Which spelling is right?
+
+@1D8E4 max=63
+JP: こうしつ<n>こうてつ
+EN: Dismissel<n>Dismissal
+
+@1D92C max=119
+JP: 長押
+EN: A horizontal beam across pillars. Which spelling is right?
+
+@1D9A4 max=63
+JP: ながおし<n>なげし
+EN: Crossbeem<n>Crossbeam
+
+@1D9EC max=119
+JP: 海豚
+EN: Which Japanese word means "dolphin"?
+
+@1DA64 max=63
+JP: くじら<n>いるか
+EN: Whale<n>Dolphin
+
+@1DAAC max=119
+JP: 公魚
+EN: A small fish called wakasagi in Japan. Which English spelling is right?
+
+@1DB24 max=63
+JP: くげ<n>わかさぎ
+EN: Smellt<n>Smelt
+
+@1DB6C max=119
+JP: 十姉妹
+EN: A little bird also called the Bengalese finch. Which spelling is right?
+
+@1DBE4 max=63
+JP: じゅうしまい<n>じゅうしまつ
+EN: Sociaty finch<n>Society finch
+
+@1DC2C max=119
+JP: 手水
+EN: Ritual washing, such as washing your hands at a shrine. Which spelling is right?
+
+@1DCA4 max=63
+JP: じょうず<n>ちょうず
+EN: Ablusion<n>Ablution
+
+@1DCEC max=119
+JP: 凡例
+EN: A guide explaining symbols on a map or chart. Which spelling is right?
+
+@1DD64 max=63
+JP: ぼんれい<n>はんれい
+EN: Legand<n>Legend
+
+@1DDAC max=119
+JP: 竹輪
+EN: A tube-shaped Japanese fish cake. Which spelling is right?
+
+@1DE24 max=63
+JP: ちくりん<n>ちくわ
+EN: Chikuba<n>Chikuwa
+
+@1DE6C max=119
+JP: 曇天
+EN: Which spelling means "cloudy skies"?
+
+@1DEE4 max=63
+JP: うんてん<n>どんてん
+EN: Overcastt<n>Overcast
+
+@1DF2C max=119
+JP: 尤も
+EN: Which spelling means "reasonable" or "justified"?
+
+@1DFA4 max=63
+JP: いぬも<n>もっとも
+EN: Reasenable<n>Reasonable
+
+@1DFEC max=119
+JP: 合羽
+EN: Raincoat
+
+@1E064 max=63
+JP: あいば<n>かっぱ
+EN: Aiba<n>Kappa
+
+@1E0AC max=119
+JP: 蚊帳
+EN: A mesh canopy that keeps mosquitoes out.
+
+@1E124 max=63
+JP: かちょう<n>かや
+EN: Mosqueto net<n>Mosquito net
+
+@1E16C max=119
+JP: 数珠
+EN: Beads used for counting prayers.
+
+@1E1E4 max=63
+JP: かずだま<n>じゅず
+EN: Prayer beeds<n>Prayer beads
+
+@1E22C max=119
+JP: 薬玉
+EN: A Japanese decorative ball, often made of folded paper.
+
+@1E2A4 max=63
+JP: やくだま<n>くすだま
+EN: Yakudama<n>Kusudama
+
+@1E2EC max=119
+JP: 倹しい
+EN: Careful with money; living simply.
+
+@1E364 max=63
+JP: つつましい<n>つましい
+EN: Frugle<n>Frugal
+
+@1E3AC max=119
+JP: 行脚
+EN: A journey on foot to sacred places.
+
+@1E424 max=63
+JP: こうぎょう<n>あんぎゃ
+EN: Pilgramage<n>Pilgrimage
+
+@1E46C max=119
+JP: 写真を<col.RED>せいとん</col>する。
+EN: Let's <col.RED>OR-guh-nize</col> the photos.
+
+@1E4E4 max=63
+JP: 整頓<n>整屯
+EN: Organize<n>Organnize
+
+@1E52C max=119
+JP: 丁寧に<col.RED>アク</col>をとってください。
+EN: Carefully remove the <col.RED>skum</col>.
+
+@1E5A4 max=63
+JP: 灰汁<n>苦汁
+EN: Scum<n>Skumm
+
+@1E5EC max=119
+JP: <col.RED>ちょうちん</col>行列がきれいよ。
+EN: The <col.RED>LAN-tern</col> parade is lovely.
+
+@1E664 max=63
+JP: 提灯<n>行灯
+EN: Lantern<n>Lanturn
+
+@1E6AC max=119
+JP: 先輩と駅でばったり<col.RED>あう</col>。
+EN: I happened to <col.RED>meet</col> an older friend at the station.
+
+@1E724 max=63
+JP: 遭う<n>会う
+EN: Meat<n>Meet
+
+@1E76C max=119
+JP: 友人と一緒に芝居を<col.RED>みる</col>。
+EN: A friend and I went to <col.RED>see</col> a play.
+
+@1E7E4 max=63
+JP: 観る<n>見る
+EN: See<n>Sea
+
+@1E82C max=119
+JP: 彼の気を<col.RED>ひく</col>。
+EN: I want to <col.RED>uh-TRAKT</col> his attention.
+
+@1E8A4 max=63
+JP: 惹く<n>引く
+EN: Attract<n>Atract
+
+@1E8EC max=119
+JP: 放置自転車を<col.RED>てっきょ</col>した。
+EN: They <col.RED>ree-MOOVD</col> the abandoned bikes.
+
+@1E964 max=63
+JP: 撤去<n>徹去
+EN: Removed<n>Remouved
+
+@1E9AC max=119
+JP: <col.RED>よわね</col>を吐かずにがんばろう！
+EN: Keep going without <col.RED>WY-ning</col>!
+
+@1EA24 max=63
+JP: 弱音<n>弱根
+EN: Whining<n>Whinning
+
+@1EA6C max=119
+JP: <col.RED>たんとうちょくにゅう</col>に<n>言います。
+EN: I'll get <col.RED>strayt</col><n>to the point.
+
+@1EAE4 max=63
+JP: 単刀直入<n>短刀直入
+EN: Straight<n>Strait
+
+@1EB2C max=119
+JP: 急いで<n><col.RED>ぜんごさく</col>を考えなければ…。
+EN: We must quickly find a<n><col.RED>ree-MEE-dee</col> for this mess...
+
+@1EBA4 max=63
+JP: 善後策<n>前後策
+EN: Remedy<n>Remady
+
+@1EBEC max=119
+JP: わたしの健康法は<n><col.RED>くっしんうんどう</col>です。
+EN: I stay healthy by doing<n><col.RED>nee bends</col>.
+
+@1EC64 max=63
+JP: 屈伸運動<n>屈身運動
+EN: Knee bends<n>Knee bendes
+
+@1ECAC max=119
+JP: 事故を<col.RED>はつえんとう</col>で知らせた。
+EN: I signaled the accident with a <col.RED>flair</col>.
+
+@1ED24 max=63
+JP: 発煙筒<n>発円筒
+EN: Flare<n>Flair
+
+@1ED6C max=119
+JP: 老犬が<n><col.RED>はくないしょう</col>の手術をした。
+EN: The old dog had surgery for<n><col.RED>KAT-uh-rakts</col>.
+
+@1EDE4 max=63
+JP: 白内障<n>白内症
+EN: Cataracts<n>Cateracts
+
+@1EE2C max=119
+JP: 最後の一打が<n><col.RED>ちめいしょう</col>だった。
+EN: The last strike was a<n><col.RED>FAY-tul blo</col>.
+
+@1EEA4 max=63
+JP: 致命傷<n>致命症
+EN: Fatal blow<n>Fatel blow
+
+@1EEEC max=119
+JP: 社長が<col.RED>かんれき</col>を迎えた。
+EN: The boss celebrated his <col.RED>60th birthday</col>.
+
+@1EF64 max=63
+JP: 還暦<n>還歴
+EN: 60th birthday<n>60th birthdey
+
+@1EFAC max=119
+JP: やっと仕事の<col.RED>めど</col>がついた。
+EN: At last, the end of this job is <col.RED>____</col>.
+
+@1F024 max=63
+JP: 目処<n>目途
+EN: In sight<n>In site
+
+@1F06C max=119
+JP: 材料を全部こまかく<col.RED>きざむ</col>。
+EN: Finely <col.RED>____</col> all the ingredients.
+
+@1F0E4 max=63
+JP: 刻む<n>核む
+EN: Chop<n>Chopp
+
+@1F12C max=119
+JP: 縁は<col.RED>いなもの</col>味なもの。
+EN: Fate works in <col.RED>____</col> and wonderful ways.
+
+@1F1A4 max=63
+JP: 異なもの<n>奇なもの
+EN: Mysterious<n>Misterious
+
+@1F1EC max=119
+JP: 地震の<col.RED>ちょうこう</col>は<n>見られない。
+EN: There are no <col.RED>____</col> of an earthquake.
+
+@1F264 max=63
+JP: 兆候<n>兆侯
+EN: Signs<n>Sines
+
+@1F2AC max=119
+JP: 優勝記念の<col.RED>がいせん</col>パレード。
+EN: A <col.RED>____</col> parade to celebrate the championship.
+
+@1F324 max=63
+JP: 凱旋<n>凱施
+EN: Victory<n>Victery
+
+@1F36C max=119
+JP: 投稿したマンガが<n><col.RED>けいさい</col>された雑誌。
+EN: This is the magazine that <col.RED>____</col> the comic I submitted.
+
+@1F3E4 max=63
+JP: 掲載<n>掲戴
+EN: Published<n>Publised
+
+@1F42C max=119
+JP: 大切に<col.RED>ほかん</col>しておいてね。
+EN: Please keep it <col.RED>____</col>.
+
+@1F4A4 max=63
+JP: 保管<n>補完
+EN: Safe<n>Saif
+
+@1F4EC max=119
+JP: 休みになったら<n><col.RED>ぶどう</col>狩りに行こうよ。
+EN: Let's go picking <col.RED>____</col> when we have a day off!
+
+@1F564 max=63
+JP: 葡萄<n>葡陶
+EN: Grapes<n>Graips
+
+@1F5AC max=119
+JP: 今日もまた<col.RED>てつや</col>だ。
+EN: I'm staying up <col.RED>____</col> again tonight.
+
+@1F624 max=67
+JP: 徹夜<n>撤夜
+EN: All night<n>All knight
+
+@1F66C max=119
+JP: 学校の<col.RED>こうばいぶ</col>で<n>パンを買った。
+EN: I bought bread at the school <col.RED>____</col>.
+
+@1F6E4 max=67
+JP: 購買部<n>購売部
+EN: Store<n>Stoar
+
+@1F72C max=119
+JP: 彼女とはいとこ<col.RED>どうし</col>です。
+EN: She and I are <col.RED>____</col>.
+
+@1F7A4 max=63
+JP: 同士<n>同志
+EN: Cousins<n>Cousens
+
+@1F7EC max=119
+JP: <col.RED>せいこん</col>込めて作りなさい。
+EN: Put your <col.RED>____</col> into making it.
+
+@1F864 max=63
+JP: 精魂<n>精根
+EN: Heart and soul<n>Heart and sole
+
+@1F8AC max=119
+JP: 自分の<col.RED>いし</col>を貫き通す。
+EN: Stick to your <col.RED>____</col> to the very end.
+
+@1F924 max=63
+JP: 意志<n>意思
+EN: Convictions<n>Convicktions
+
+@1F96C max=119
+JP: 拡大の反対は<col.RED>しゅくしょう</col>。
+EN: The opposite of enlarging is <col.RED>____</col>.
+
+@1F9E4 max=63
+JP: 縮小<n>縮少
+EN: Shrinking<n>Shrinkking
+
+@1FA2C max=119
+JP: おかげさまで１０<col.RED>しゅうねん</col>。
+EN: Thanks to you, we're celebrating our tenth <col.RED>____</col>!
+
+@1FAA4 max=63
+JP: 周年<n>週年
+EN: Anniversary<n>Aniversary
+
+@1FAEC max=119
+JP: <col.RED>でんち</col>を交換してください。
+EN: Please replace the <col.RED>____</col>.
+
+@1FB64 max=63
+JP: 電池<n>電地
+EN: Battery<n>Batery
+
+@1FBAC max=119
+JP: スゴイ！スゴイ！<n>これって<col.RED>じがじさん</col>？
+EN: Amazing! Incredible! Am I <col.RED>____</col> my own horn?
+
+@1FC24 max=63
+JP: 自画自賛<n>自我自賛
+EN: Tooting<n>Tootting
+
+@1FC6C max=119
+JP: <col.RED>すいそう</col>の中で魚が泳いでる。
+EN: Fish are swimming in the <col.RED>____</col>.
+
+@1FCE4 max=63
+JP: 水槽<n>水漕
+EN: Aquarium<n>Aquariam
+
+@1FD2C max=119
+JP: <col.RED>しょうかき</col>で火を消す。
+EN: Put out the fire with a fire <col.RED>____</col>.
+
+@1FDA4 max=63
+JP: 消火器<n>消化器
+EN: Extinguisher<n>Extinguishor
+
+@1FDEC max=119
+JP: 新しい生活にはもう<col.RED>なれた</col>？
+EN: Have you <col.RED>adjusted</col> to your new life yet?
+
+@1FE64 max=63
+JP: 慣れた<n>馴れた
+EN: Accustomed<n>Tame
+
+@1FEAC max=119
+JP: 不法<col.RED>しんにゅう</col>で訴えるぞ！
+EN: I'll sue you for <col.RED>___________</col>!
+
+@1FF24 max=63
+JP: 侵入<n>進入
+EN: Trespassing<n>Tresspassing
+
+@1FF6C max=119
+JP: <col.RED>きっさてん</col>で待ち合わせしよう。
+EN: Let's meet at the <col.RED>___________</col>.
+
+@1FFE4 max=63
+JP: 喫茶店<n>契茶店
+EN: Coffee shop<n>Coffee shopp
+
+@2002C max=119
+JP: あの建物は<n><col.RED>てっきん</col>コンクリートだ。
+EN: That building is made of<n><col.RED>__________</col> concrete.
+
+@200A4 max=63
+JP: 鉄筋<n>鉄節
+EN: Reinforced<n>Reinforst
+
+@200EC max=119
+JP: 新入生<col.RED>かんげい</col>コンパ。
+EN: A <col.RED>_______</col> party for new students.
+
+@20164 max=63
+JP: 歓迎<n>勧迎
+EN: Welcome<n>Welcomme
+
+@201AC max=119
+JP: ランチに<n><col.RED>ちゃわん</col>蒸しがついてきた。
+EN: Lunch came with steamed egg custard<n>in a <col.RED>____</col>.
+
+@20224 max=63
+JP: 茶碗<n>茶椀
+EN: Bowl<n>Bole
+
+@2026C max=119
+JP: おでん<col.RED>はじめました</col>。
+EN: We've <col.RED>_______</col> serving oden!
+
+@202E4 max=63
+JP: 始めました<n>初めました
+EN: Started<n>Startted
+
+@2032C max=119
+JP: 彼の趣味は<n>レコード<col.RED>しゅうしゅう</col>です。
+EN: His hobby is<n><col.RED>__________</col> records.
+
+@203A4 max=63
+JP: 収集<n>集収
+EN: Collecting<n>Colecting
+
+@203EC max=119
+JP: ややこしくて<n><col.RED>しゅうしゅう</col>がつかない。
+EN: What a mess!<n>It's out of <col.RED>_______</col>.
+
+@20464 max=63
+JP: 収拾<n>拾集
+EN: Control<n>Controll
+
+@204AC max=119
+JP: この電化製品には一年間の<n><col.RED>ほしょう</col>がついています。
+EN: This appliance comes with<n>a one-year <col.RED>________</col>.
+
+@20524 max=63
+JP: 保証<n>保障
+EN: Warranty<n>Warrenty
+
+@2056C max=119
+JP: 先生の言葉を肝に<col.RED>めいじた</col>。
+EN: I took my teacher's words to <col.RED>_____</col>.
+
+@205E4 max=63
+JP: 銘じた<n>命じた
+EN: Heart<n>Hart
+
+@2062C max=119
+JP: 訃報
+EN: Pronounce "obituary."
+
+@206A4 max=63
+JP: ふほう<n>とほう
+EN: oh-BICH-oo-air-ee<n>oh-BIT-oo-air-ee
+
+@206EC max=119
+JP: <col.RED>じゃっかん</col>二十歳の<n>チャンピオン。
+EN: A champion at <col.RED>______</col><n>twenty years old.
+
+@20764 max=63
+JP: 弱冠<n>若干
+EN: Barely<n>Barley
+
+@207AC max=119
+JP: わたしの<n><col.RED>かんちがい</col>だったのかなぁ。
+EN: Maybe it was<n>my <col.RED>_______</col>.
+
+@20824 max=63
+JP: 勘違い<n>感違い
+EN: Mistake<n>Misstake
+
+@2086C max=119
+JP: そんなことは日常<col.RED>さはんじ</col>だ。
+EN: That's an everyday <col.RED>__________</col>.
+
+@208E4 max=63
+JP: 茶飯事<n>茶飯時
+EN: Occurrence<n>Occurence
+
+@2092C max=119
+JP: 彼は大臣の<col.RED>ふくしん</col>として<n>知られている。
+EN: He's known as<n>the minister's <col.RED>_________</col>.
+
+@209A4 max=63
+JP: 腹心<n>腹臣
+EN: Confidant<n>Confident
+
+@209EC max=119
+JP: 第一回<col.RED>こうとう</col>弁論が行われた。
+EN: The first <col.RED>____</col> hearing was held.
+
+@20A64 max=63
+JP: 口答<n>口頭
+EN: Aural<n>Oral
+
+@20AAC max=119
+JP: <col.RED>あんのじょう</col>、道をまちがえた。
+EN: As <col.RED>________</col>, I took a wrong turn.
+
+@20B24 max=63
+JP: 案の状<n>案の定
+EN: Exspected<n>Expected
+
+@20B6C max=119
+JP: 学園のマドンナ<col.RED>たかね</col>の花。
+EN: The school beauty is out of my <col.RED>_____</col>.
+
+@20BE4 max=63
+JP: 高値<n>高嶺
+EN: Reech<n>Reach
+
+@20C2C max=119
+JP: くやしくて、<col.RED>じだんだ</col>を踏む。
+EN: I <col.RED>_______</col> my feet in frustration.
+
+@20CA4 max=63
+JP: 地団打<n>地団駄
+EN: Stompped<n>Stomped
+
+@20CEC max=119
+JP: 山の<col.RED>いただき</col>から<n>遠くの景色を眺めた。
+EN: From the mountain's <col.RED>______</col>,<n>I admired the distant view.
+
+@20D64 max=63
+JP: 岳<n>頂
+EN: Mountain<n>Summit
+
+@20DAC max=119
+JP: あぶない！危機<col.RED>いっぱつ</col>。
+EN: Watch out! We escaped by a <col.RED>hair</col>!
+
+@20E24 max=63
+JP: 一発<n>一髪
+EN: Hare<n>Hair
+
+@20E6C max=119
+JP: どんなことでも<n>興味<col.RED>しんしん</col>だね。
+EN: Your <col.RED>curiosity</col> about everything knows no bounds!
+
+@20EE4 max=63
+JP: 深々<n>津々
+EN: Curiousity<n>Curiosity
+
+@20F2C max=119
+JP: 一度も抜いたことが無い<n><col.RED>でんか</col>の宝刀。
+EN: A family <col.RED>heirloom</col> sword, never once drawn.
+
+@20FA4 max=63
+JP: 天下<n>伝家
+EN: Airloom<n>Heirloom
+
+@20FEC max=119
+JP: <col.RED>こうがんむち</col>とは<n>まさにあいつのことだ。
+EN: He is the very definition of <col.RED>shameless</col>.
+
+@21064 max=63
+JP: 厚顔無知<n>厚顔無恥
+EN: Shamless<n>Shameless
+
+@210AC max=119
+JP: <col.RED>いぎょうしゅ</col>の人と話をしよう。
+EN: Let's talk to someone in a <col.RED>different</col> line of work.
+
+@21124 max=63
+JP: 違業種<n>異業種
+EN: Diferent<n>Different
+
+@2116C max=119
+JP: 京の<col.RED>めいさつ</col>をまわる旅。
+EN: A tour of Kyoto's <col.RED>famous temples</col>.
+
+@211E4 max=63
+JP: 名刺<n>名刹
+EN: Business cards<n>Famous temples
+
+@2122C max=119
+JP: 商品に手を<col.RED>ふれないで</col>ください。
+EN: Please <col.RED>keep your hands off</col> the merchandise.
+
+@212A4 max=63
+JP: 振れないで<n>触れないで
+EN: Don't shake it<n>Don't touch it
+
+@212EC max=119
+JP: 道が細いので、<n><col.RED>じょこう</col>運転でお願いします。
+EN: The road is narrow, so please drive <col.RED>slowly</col>.
+
+@21364 max=63
+JP: 除行<n>徐行
+EN: Slowley<n>Slowly
+
+@213AC max=119
+JP: 発言を<col.RED>てっかい</col>します。
+EN: I <col.RED>withdraw</col> my statement.
+
+@21424 max=63
+JP: 徹回<n>撤回
+EN: Withdrow<n>Withdraw
+
+@2146C max=119
+JP: 東京<col.RED>きんこう</col>の小さな旅。
+EN: A short trip to the <col.RED>outskirts</col> of Tokyo.
+
+@214E4 max=63
+JP: 近効<n>近郊
+EN: Outskerts<n>Outskirts
+
+@2152C max=119
+JP: 世間の<col.RED>じもく</col>を集める。
+EN: It has caught the public's <col.RED>attention</col>.
+
+@215A4 max=63
+JP: 時目<n>耳目
+EN: Atention<n>Attention
+
+@215EC max=119
+JP: <col.RED>せきじつ</col>の面影は<n>なくなっていた。
+EN: Not a trace of its <col.RED>former</col> appearance remained.
+
+@21664 max=63
+JP: 席実<n>昔日
+EN: Formar<n>Former
+
+@216AC max=119
+JP: そんなことは<n><col.RED>ようにん</col>できません。
+EN: I cannot <col.RED>condone</col> such behavior.
+
+@21724 max=63
+JP: 要認<n>容認
+EN: Condon<n>Condone
+
+@2176C max=119
+JP: 双方の意見が<n><col.RED>へいこう</col>したままだ。
+EN: Their views remain <col.RED>parallel</col>, with no sign of agreement.
+
+@217E4 max=63
+JP: 並行<n>平行
+EN: Paralell<n>Parallel
+
+@2182C max=119
+JP: このご<col.RED>じせい</col>、タダで<n>商売をするお人好しはいません。
+EN: In <col.RED>these times</col>, no one is so kind as to run a business for free.
+
+@218A4 max=63
+JP: 時世<n>時勢
+EN: The times<n>The trends
+
+@218EC max=119
+JP: ノートに<n><col.RED>めいき</col>しておいてください。
+EN: Please <col.RED>record it clearly</col> in your notebook.
+
+@21964 max=63
+JP: 銘記<n>明記
+EN: Memorize it<n>Write it clearly
+
+@219AC max=119
+JP: 万引き少年を<col.RED>かいしん</col>させる。
+EN: Help the young shoplifter <col.RED>reform</col>.
+
+@21A24 max=63
+JP: 戒心<n>改心
+EN: Be on guard<n>Change his ways
+
+@21A6C max=119
+JP: 自分の行動を<col.RED>かえりみる</col>。
+EN: I <col.RED>reflect</col> on my own actions.
+
+@21AE4 max=63
+JP: 顧みる<n>省みる
+EN: Look back fondly<n>Examine my conduct
+
+@21B2C max=119
+JP: そのうち騒ぎも<col.RED>しずまる</col>だろう。
+EN: The uproar will <col.RED>die down</col> eventually.
+
+@21BA4 max=63
+JP: 静まる<n>鎮まる
+EN: Fall silent<n>Settle down
+
+@21BEC max=119
+JP: 意馬心？
+EN: A restless mind is like a wild horse and a...?
+
+@21C64 max=63
+JP: 鹿<n>猿
+EN: Deer<n>Monkey
+
+@21CAC max=119
+JP: ？飲馬食
+EN: Drink like a ?, eat like a horse. (Eat and drink a lot!)
+
+@21D24 max=63
+JP: 象<n>鯨
+EN: Elephant<n>Whale
+
+@21D6C max=119
+JP: 竜頭？尾
+EN: A dragon's head, a ?'s tail. (A strong start, a weak finish.)
+
+@21DE4 max=63
+JP: 虎<n>蛇
+EN: Tiger<n>Snake
+
+@21E2C max=119
+JP: 門前？羅
+EN: You could net ? at the gate. (So quiet, there are hardly any visitors!)
+
+@21EA4 max=63
+JP: 鶏<n>雀
+EN: Chickens<n>Sparrows
+
+@21EEC max=119
+JP: ？鳴狗盗
+EN: A ?'s crow and a dog's theft: lowly tricks that can still come in handy.
+
+@21F64 max=63
+JP: 羊<n>鶏
+EN: Sheep<n>Chicken
+
+@21FAC max=119
+JP: ？根清浄
+EN: Purify all ? senses.
+
+@22024 max=63
+JP: 七<n>六
+EN: Seven<n>Six
+
+@2206C max=119
+JP: 永字？法
+EN: The character 'ei' (eternity) teaches ? basic brushstrokes.
+
+@220E4 max=63
+JP: 十<n>八
+EN: Ten<n>Eight
+
+@2212C max=119
+JP: 有卦？年
+EN: ? years of good fortune.
+
+@221A4 max=63
+JP: 三<n>七
+EN: Three<n>Seven
+
+@221EC max=119
+JP: 益者？楽
+EN: The ? beneficial pleasures.
+
+@22264 max=63
+JP: 七<n>三
+EN: Seven<n>Three
+
+@222AC max=119
+JP: 韻鏡？年
+EN: Mastering the Inkyo rhyme tables takes ? years.
+
+@22324 max=63
+JP: 百<n>十
+EN: A hundred<n>Ten
+
+@2236C max=119
+JP: 海？山？
+EN: A veteran of ? seas and ? mountains. (Someone who knows all the tricks!)
+
+@223E4 max=63
+JP: 選<n>千
+EN: Chosen<n>A thousand
+
+@2242C max=119
+JP: ？立？歩
+EN: 'Dokuritsu doppo' means complete independence. What does 'doku' mean?
+
+@224A4 max=63
+JP: 読<n>独
+EN: Reading<n>Alone
+
+@224EC max=119
+JP: ？得？失
+EN: A ? gain, a ? loss. (There are pros and cons.)
+
+@22564 max=63
+JP: 千<n>一
+EN: Thousand<n>Single
+
+@225AC max=119
+JP: 以？伝？
+EN: From ? to ?: understanding each other without words.
+
+@22624 max=63
+JP: 信<n>心
+EN: Trust<n>Heart
+
+@2266C max=119
+JP: ？即？離
+EN: ? too close, ? too far. (Keeping just the right distance.)
+
+@226E4 max=63
+JP: 負<n>不
+EN: Carry<n>Not
+
+@2272C max=119
+JP: 大？晩成
+EN: A great ? takes time to finish. (Great talent can bloom late.)
+
+@227A4 max=63
+JP: 樹<n>器
+EN: Tree<n>Vessel
+
+@227EC max=119
+JP: ？事？端
+EN: So ? tasks, so ? demands. (Busy, busy, busy!)
+
+@22864 max=63
+JP: 万<n>多
+EN: Ten thousand<n>Many
+
+@228AC max=119
+JP: 一心不？
+EN: Single-minded focus, without ?.
+
+@22924 max=63
+JP: 藍<n>乱
+EN: Indigo<n>Disorder
+
+@2296C max=119
+JP: 天然資？
+EN: Complete the phrase for nature's useful materials: Natural re____.
+
+@229E4 max=63
+JP: 元<n>源
+EN: Origins<n>Sources
+
+@22A2C max=119
+JP: 和洋<col.RED>せっちゅう</col>の建物だ。
+EN: Choose the correctly spelled word for a <col.RED>blend</col> of Japanese and Western styles.
+
+@22AA4 max=63
+JP: 折中<n>折衷
+EN: Fushion<n>Fusion
+
+@22AEC max=119
+JP: 出る？は打たれる
+EN: The ? that sticks out gets hammered down.
+
+@22B64 max=63
+JP: 釘<n>杭
+EN: Nail<n>Stake
+
+@22BAC max=119
+JP: 鬼の居ぬ間に<col.RED>せんたく</col>。
+EN: When the ogre's away, it's time for <col.RED>___</col>.
+
+@22C24 max=63
+JP: 選択<n>洗濯
+EN: Making choices<n>Doing laundry
+
+@22C6C max=119
+JP: <col.RED>まご</col>にも衣装
+EN: Even a <col.RED>___</col> looks fine in fancy clothes.
+
+@22CE4 max=63
+JP: 孫<n>馬子
+EN: Grandchild<n>Horse groom
+
+@22D2C max=119
+JP: 待てば<col.RED>かいろ</col>の日和あり
+EN: Wait patiently, and fair weather will come for your <col.RED>___</col>.
+
+@22DA4 max=63
+JP: 懐炉<n>海路
+EN: Pocket warmer<n>Sea voyage
+
+@22DEC max=119
+JP: イワシの頭も<col.RED>しんじん</col>から
+EN: Even a sardine's head has power if you have <col.RED>___</col>.
+
+@22E64 max=63
+JP: 深甚<n>信心
+EN: Deep feelings<n>Faith
+
+@22EAC max=119
+JP: <col.RED>あくせん</col>身につかず
+EN: <col.RED>___</col> won't stay in your pocket for long.
+
+@22F24 max=63
+JP: 悪戦<n>悪銭
+EN: A tough battle<n>Ill-gotten gains
+
+@22F6C max=119
+JP: オルゴールを漢字で書くと？
+EN: What do the kanji for "music box" literally mean?
+
+@22FE4 max=63
+JP: 自鳴琴<n>提琴
+EN: Self-playing zither<n>Hand-held fiddle
+
+@2302C max=119
+JP: チーズを漢字で書くと？
+EN: What do the kanji for "cheese" literally mean?
+
+@230A4 max=63
+JP: 乾酪<n>凝乳
+EN: Dried curds<n>Curdled milk
+
+@230EC max=119
+JP: コンクリートを漢字で書くと？
+EN: What do the kanji for "concrete" literally mean?
+
+@23164 max=63
+JP: 混凝土<n>固凝土
+EN: Mixed, hardened earth<n>Solid, hardened earth
+
+@231AC max=119
+JP: ドッジボールを漢字で書くと？
+EN: What do the kanji for "dodgeball" literally mean?
+
+@23224 max=63
+JP: 避球<n>送球
+EN: Dodge ball<n>Throw ball
+
+@2326C max=119
+JP: アメリカンフットボールを<n>漢字で書くと？
+EN: What do the kanji for "American football" literally mean?
+
+@232E4 max=63
+JP: 鎧球<n>撞球
+EN: Armor ball<n>Striking ball
+
+@2332C max=119
+JP: ラグビーを漢字で書くと？
+EN: What do the kanji for "rugby" literally mean?
+
+@233A4 max=63
+JP: 闘球<n>飛球
+EN: Battle ball<n>Flying ball
+
+@233EC max=119
+JP: テニスを漢字で書くと？
+EN: What do the kanji for "tennis" literally mean?
+
+@23464 max=63
+JP: 庭球<n>打球
+EN: Garden ball<n>Hit ball
+
+@234AC max=119
+JP: 遠足が雨天<col.RED>じゅんえん</col>になった。
+EN: Choose the correct spelling:<n>Rain has <col.RED>___</col> the school outing.
+
+@23524 max=63
+JP: 順延<n>巡延
+EN: Postponed<n>Postponned
+
+@2356C max=119
+JP: ゲートボールを漢字で書くと？
+EN: What do the kanji for "gateball" literally mean?
+
+@235E4 max=63
+JP: 門球<n>柵球
+EN: Gate ball<n>Fence ball
+
+@2362C max=119
+JP: その<col.RED>つど</col>相談してください。
+EN: Choose the correct spelling:<n>Please consult me <col.RED>___</col> time.
+
+@236A4 max=63
+JP: 都度<n>通度
+EN: Every<n>Evry
+
+@236EC max=119
+JP: 彼女とは友だちの<n><col.RED>しょうかい</col>で知り合った。
+EN: I met her through a friend's <col.RED>___</col>.
+
+@23764 max=63
+JP: 紹介<n>照会
+EN: Introduction<n>Inquiry
+
+@237AC max=119
+JP: そのホテルは<n>全室から海が<col.RED>のぞめる</col>。
+EN: Every room in that hotel <col.RED>___</col> the sea.
+
+@23824 max=63
+JP: 望める<n>臨める
+EN: Has a view of<n>Confronts
+
+@2386C max=119
+JP: ドーピングで<n>金メダルを<col.RED>はくだつ</col>された。
+EN: He was <col.RED>___</col> his gold medal for doping.
+
+@238E4 max=63
+JP: 剥奪<n>剥脱
+EN: Stripped of<n>Peeled off
+
+@2392C max=119
+JP: そのうち彼は<n>頭角を<col.RED>あらわす</col>だろう。
+EN: Someday, he'll <col.RED>___</col> a name for himself.
+
+@239A4 max=63
+JP: 表す<n>著す
+EN: Make<n>Write
+
+@239EC max=119
+JP: <col.RED>しらふ</col>なのは僕ひとりでした。
+EN: I was the only one who was <col.RED>sober</col>.
+
+@23A64 max=63
+JP: 素面<n>素地
+EN: Sober<n>Raw material
+
+@23AAC max=119
+JP: 袖すり合うも<col.RED>たしょう</col>の縁。
+EN: Even a chance meeting is a bond from <col.RED>...</col>.
+
+@23B24 max=63
+JP: 他生<n>多少
+EN: A past life<n>A small amount
+
+@23B6C max=119
+JP: なんか手持ち<col.RED>ぶさた</col>だなぁ。
+EN: I've got nothing to do. I'm so <col.RED>...</col>!
+
+@23BE4 max=63
+JP: 無沙汰<n>無汰沙
+EN: Bored<n>Board
+
+@23C2C max=119
+JP: <col.RED>ゆめゆめ</col>忘れてはいけないよ。
+EN: You must <col.RED>...</col> forget this.
+
+@23CA4 max=63
+JP: 努努<n>夢夢
+EN: Never<n>Nevver
+
+@23CEC max=119
+JP: 我が家は新聞を<n><col.RED>さんし</col>も取っている。
+EN: Our family gets its daily news from three <col.RED>...</col>.
+
+@23D64 max=63
+JP: 三紙<n>三誌
+EN: Newspapers<n>Magazines
+
+@23DAC max=119
+JP: わたしは彼を<n>人生の師と<col.RED>あがめて</col>いた。
+EN: I <col.RED>...</col> him as my mentor in life.
+
+@23E24 max=63
+JP: 崇める<n>宗める
+EN: Revered<n>Reveered
+
+@23E6C max=119
+JP: 昔の学びの場<col.RED>てらこや</col>。
+EN: In old Japan, children learned at a <col.RED>...</col>.
+
+@23EE4 max=63
+JP: 寺子屋<n>寺小屋
+EN: Temple school<n>Temple hut
+
+@23F2C max=119
+JP: スポーツ選手の<n><col.RED>へいこう</col>感覚はすばらしい。
+EN: Athletes have an amazing sense of <col.RED>...</col>.
+
+@23FA4 max=63
+JP: 平衡<n>平行
+EN: Balance<n>Parallel lines
+
+@23FEC max=119
+JP: <col.RED>ほうよう</col>力のある男性が<n>タイプです。
+EN: I like men who welcome others with <col.RED>...</col>.
+
+@24064 max=63
+JP: 包容<n>抱擁
+EN: An accepting heart<n>A physical embrace
+
+@240AC max=119
+JP: <col.RED>やせい</col>的な魅力あふれる人。
+EN: They're brimming with <col.RED>...</col> charm.
+
+@24124 max=67
+JP: 野性<n>野生
+EN: Wild<n>Wildlife
+
+@2416C max=119
+JP: 君はリーダーとして<col.RED>てきかく</col>だ。
+EN: You're <col.RED>...</col> to be a leader.
+
+@241E4 max=67
+JP: 適格<n>的確
+EN: Qualified<n>Accurate
+
+@2422C max=119
+JP: 車のエンジンが火を<col.RED>ふいた</col>。
+EN: The car's engine sent out a <col.RED>...</col> of flame.
+
+@242A4 max=63
+JP: 噴いた<n>吹いた
+EN: Spurt<n>Breeze
+
+@242EC max=119
+JP: 先入観に<col.RED>とらわれる</col>。
+EN: He's <col.RED>...</col> by his own prejudices.
+
+@24364 max=63
+JP: 囚われる<n>捕われる
+EN: Trapped<n>Under arrest
+
+@243AC max=119
+JP: <col.RED>まるい</col>窓が目じるしです。
+EN: Look for the <col.RED>...</col> window.
+
+@24424 max=63
+JP: 円い<n>丸い
+EN: Circular<n>Spherical
+
+@2446C max=119
+JP: 日本語を<col.RED>しゅうとく</col>するのに<n>時間はかからなかった。
+EN: It didn't take me long to <col.RED>...</col> Japanese.
+
+@244E4 max=63
+JP: 習得<n>修得
+EN: Pick up<n>Earn course credit in
+
+@2452C max=119
+JP: 父は定年後、<n><col.RED>いんたい</col>生活を送っています。
+EN: Since retiring, Dad has <col.RED>...</col> from public life.
+
+@245A4 max=63
+JP: 隠退<n>引退
+EN: Withdrawn<n>Resigned
+
+@245EC max=119
+JP: これが<col.RED>さいご</col>のチャンスだ。
+EN: This is your <col.RED>...</col> chance!
+
+@24664 max=63
+JP: 最後<n>最期
+EN: Last<n>Dying
+
+@246AC max=119
+JP: 行方不明のネコを<col.RED>さがす</col>。
+EN: Searching for a missing cat means trying to <col.RED>...</col>.
+
+@24724 max=63
+JP: 捜す<n>探す
+EN: Recover what's lost<n>Discover what's new
+
+@2476C max=119
+JP: 交通費を<col.RED>せいさん</col>する。
+EN: It's time to <col.RED>...</col> my travel expenses.
+
+@247E4 max=63
+JP: 精算<n>清算
+EN: Settle up<n>Liquidate
+
+@2482C max=119
+JP: 女性を<col.RED>たいしょう</col>にした<n>アンケートを行う。
+EN: We're surveying women. They are our <col.RED>...</col>.
+
+@248A4 max=63
+JP: 対象<n>対照
+EN: Target group<n>Comparison group
+
+@248EC max=119
+JP: 大統領からの<n><col.RED>しんしょ</col>を受け取った。
+EN: I received a <col.RED>personal letter</col> from the president.
+
+@24964 max=63
+JP: 親書<n>信書
+EN: Royal letter<n>Private letter
+
+@249AC max=119
+JP: 飲み物<col.RED>じさん</col>で来ました。
+EN: I <col.RED>_____</col> my own drinks.
+
+@24A24 max=63
+JP: 持参<n>自参
+EN: Brought<n>Braught
+
+@24A6C max=119
+JP: ご<col.RED>きげん</col>ななめですね。
+EN: You're in a bad <col.RED>____</col>.
+
+@24AE4 max=63
+JP: 機嫌<n>気嫌
+EN: Mood<n>Mude
+
+@24B2C max=119
+JP: <col.RED>いがい</col>な結末におどろいた。
+EN: The <col.RED>__________</col> ending surprised me.
+
+@24BA4 max=63
+JP: 意外<n>以外
+EN: Unexpected<n>Unexspected
+
+@24BEC max=119
+JP: 一流選手のプレイを<n><col.RED>がんぜん</col>で見られるうれしさ。
+EN: What a joy to watch a top athlete play<n>right before my <col.RED>____</col>!
+
+@24C64 max=63
+JP: 眼前<n>顔前
+EN: Eyes<n>Ayes
+
+@24CAC max=119
+JP: <col.RED>ぜったいぜつめい</col>の大ピンチ！
+EN: We're in <col.RED>____ _______</col>! There's no escape!
+
+@24D24 max=63
+JP: 絶体絶命<n>絶対絶命
+EN: Dire straits<n>Dire straights
+
+@24D6C max=119
+JP: <col.RED>くじゅう</col>の決断をせまられた。
+EN: I was forced to make an <col.RED>_________</col> decision.
+
+@24DE4 max=63
+JP: 苦渋<n>苦汁
+EN: Agonizing<n>Agonizeing
+
+@24E2C max=119
+JP: 会議で資料を<col.RED>はいふ</col>しました。
+EN: I <col.RED>___________</col> the handouts at the meeting.
+
+@24EA4 max=63
+JP: 配付<n>配布
+EN: Distributed<n>Distribbuted
+
+@24EEC max=119
+JP: 上司の顔色を<col.RED>うかがう</col>のは<n>やめろ。
+EN: Stop trying to <col.RED>_____</col> your boss's mood.
+
+@24F64 max=63
+JP: 窺う<n>伺う
+EN: Gauge<n>Guage
+
+@24FAC max=119
+JP: 彼女はブランド<col.RED>しこう</col>だ。
+EN: She has a <col.RED>__________</col> for designer brands.
+
+@25024 max=63
+JP: 志向<n>指向
+EN: Preference<n>Preferance
+
+@2506C max=119
+JP: この世の<col.RED>むじょう</col>を嘆いていた。
+EN: He lamented the <col.RED>____________</col> of life.
+
+@250E4 max=63
+JP: 無常<n>無情
+EN: Impermanence<n>Impermenance
+
+@2512C max=119
+JP: まさに美の<col.RED>きょくち</col>だ。
+EN: This is the very <col.RED>________</col> of beauty.
+
+@251A4 max=63
+JP: 極致<n>局地
+EN: Pinnacle<n>Pinnicle
+
+@251EC max=119
+JP: <col.RED>むがむちゅう</col>で逃げてきた。
+EN: I fled in a <col.RED>______</col>.
+
+@25264 max=63
+JP: 無我夢中<n>無我霧中
+EN: Frenzy<n>Frenzie
+
+@252AC max=119
+JP: ひまわりの種を<col.RED>まく</col>。
+EN: Time to <col.RED>___</col> some sunflower seeds.
+
+@25324 max=63
+JP: 蒔く<n>撒く
+EN: Sow<n>Sew
+
+@2536C max=119
+JP: <col.RED>しんきいってん</col>頑張ります。
+EN: I'll make a <col.RED>_____</col> start and give it my all!
+
+@253E4 max=63
+JP: 心機一転<n>心気一転
+EN: Fresh<n>Fresch
+
+@2542C max=119
+JP: <col.RED>さいげつ</col>は人を待たず。
+EN: <col.RED>____</col> waits for no one.
+
+@254A4 max=63
+JP: 歳月<n>才月
+EN: Time<n>Tyme
+
+@254EC max=119
+JP: 荷物は<n><col.RED>さいしょうげん</col>にして下さい。
+EN: Please keep your luggage<n>to a <col.RED>_______</col>.
+
+@25564 max=63
+JP: 最少限<n>最小限
+EN: Minumum<n>Minimum
+
+@255AC max=119
+JP: 彼は<col.RED>しこうさくご</col>をくり返した。
+EN: He kept trying through <col.RED>_____</col> and error.
+
+@25624 max=63
+JP: 思考錯誤<n>試行錯誤
+EN: Trail<n>Trial
+
+@2566C max=119
+JP: <col.RED>かんにんぶくろ</col>の緒が切れた。
+EN: I've finally run out of <col.RED>________</col>!
+
+@256E4 max=63
+JP: 勘忍袋<n>堪忍袋
+EN: Patients<n>Patience
+
+@2572C max=119
+JP: なんて<col.RED>おやふこう</col>なんだろう。
+EN: What a <col.RED>_____________</col> child, treating their parents like that!
+
+@257A4 max=63
+JP: 親不幸<n>親不孝
+EN: Disrespectfull<n>Disrespectful
+
+@257EC max=119
+JP: <col.RED>とうしんだい</col>のぬいぐるみ。
+EN: A <col.RED>life-size</col> stuffed toy.
+
+@25864 max=63
+JP: 頭身大<n>等身大
+EN: Head-size<n>Life-size
+
+@258AC max=119
+JP: <col.RED>どろじあい</col>に発展しそうだ。
+EN: This looks set to turn into <col.RED>a dirty fight</col>.
+
+@25924 max=63
+JP: 泥試合<n>泥仕合
+EN: Mudslingging<n>Mudslinging
+
+@2596C max=119
+JP: <col.RED>ばんらい</col>の拍手と喝采で<n>迎えられた。
+EN: They welcomed me with <col.RED>deafening</col><n>applause and cheers.
+
+@259E4 max=63
+JP: 万来<n>万雷
+EN: Thundrous<n>Thunderous
+
+@25A2C max=119
+JP: チームは<col.RED>ひっし</col>に戦った。
+EN: The team fought <col.RED>with all its might</col>.
+
+@25AA4 max=63
+JP: 必至<n>必死
+EN: Desparately<n>Desperately
+
+@25AEC max=119
+JP: フンパツして<n>肉の<col.RED>かたまり</col>を買った。
+EN: I splurged and bought <col.RED>a big piece</col> of meat.
+
+@25B64 max=63
+JP: 固まり<n>塊
+EN: A chunck<n>A chunk
+
+@25BAC max=119
+JP: 台風のせいで今日の波は<col.RED>あらい</col>。
+EN: The typhoon has made today's waves <col.RED>wild and choppy</col>.
+
+@25C24 max=63
+JP: 粗い<n>荒い
+EN: Ruff<n>Rough
+
+@25C6C max=119
+JP: 友だちの<col.RED>かんしん</col>を買うために<n>食事をおごった。
+EN: I treated my friend to a meal<n>to <col.RED>win their approval</col>.
+
+@25CE4 max=63
+JP: 関心<n>歓心
+EN: Curry flavour<n>Curry favour
+
+@25D2C max=119
+JP: デビューしたものの、<n><col.RED>なかず</col>飛ばずだ。
+EN: I made my debut, but my career<n><col.RED>never got going</col>.
+
+@25DA4 max=63
+JP: 泣かず<n>鳴かず
+EN: Didn't take of<n>Didn't take off
+
+@25DEC max=119
+JP: その記録は<n><col.RED>いまだに</col>破られていない。
+EN: That record <col.RED>has yet to be</col> broken.
+
+@25E64 max=63
+JP: 今だに<n>未だに
+EN: Still isnt<n>Still isn't
+
+@25EAC max=119
+JP: キミには<col.RED>もくひけん</col>がある。
+EN: You have <col.RED>the right to say nothing</col>.
+
+@25F24 max=63
+JP: 黙否権<n>黙秘権
+EN: Right to silense<n>Right to silence
+
+@25F6C max=119
+JP: <col.RED>ばんぜん</col>の策をとってあります。
+EN: We've taken <col.RED>every possible precaution</col>.
+
+@25FE4 max=63
+JP: 万善<n>万全
+EN: All bases coverd<n>All bases covered
+
+@2602C max=119
+JP: せっかく来たのに<n><col.RED>とんぼがえり</col>はもったいない。
+EN: After coming all this way,<n>it'd be a shame to <col.RED>head straight back</col>.
+
+@260A4 max=63
+JP: とんぼ帰り<n>とんぼ返り
+EN: Turn tale<n>Turn tail
+
+@260EC max=119
+JP: 彼は<n><col.RED>こりつむえん</col>の戦士と呼ばれた。
+EN: He was called a warrior who stood<n><col.RED>alone, with no help</col>.
+
+@26164 max=63
+JP: 孤立無縁<n>孤立無援
+EN: All on his oan<n>All on his own
+
+@261AC max=119
+JP: <col.RED>しょくじりょうほう</col>から<n>始めていきます。
+EN: We'll begin with <col.RED>treatment through diet</col>.
+
+@26224 max=63
+JP: 食事療法<n>食餌療法
+EN: Dietry therapy<n>Dietary therapy
+
+@2626C max=119
+JP: 世界中の研究者が<n><col.RED>いちどうにかいす</col>。
+EN: Researchers from around the world<n><col.RED>gather in one place</col>.
+
+@262E4 max=63
+JP: 一同に会す<n>一堂に会す
+EN: Assemble togeather<n>Assemble together
+
+@2632C max=119
+JP: そう、<col.RED>かたひじ</col>張るなよ。
+EN: Come on, don't <col.RED>put on such a stiff act</col>.
+
+@263A4 max=63
+JP: 片肘<n>肩肘
+EN: Stand on ceramony<n>Stand on ceremony
+
+@263EC max=119
+JP: この世は何事も短い<n><col.RED>いっすい</col>の夢である。
+EN: Everything in this world is <col.RED>a fleeting dream</col>,<n>over before the rice is cooked.
+
+@26464 max=63
+JP: 一睡<n>一炊
+EN: An ephemoral dream<n>An ephemeral dream
+
+@264AC max=119
+JP: 右足に少し<col.RED>いわかん</col>がある。
+EN: My right foot feels <col.RED>a little odd</col>.
+
+@26524 max=63
+JP: 異和感<n>違和感
+EN: Slightly amisss<n>Slightly amiss
+
+@2656C max=119
+JP: <col.RED>しお</col>がひいた岩場で<n>小さなカニをみつけた。
+EN: I found a little crab among the rocks<n>after <col.RED>the sea had receded</col>.
+
+@265E4 max=63
+JP: 塩<n>潮
+EN: The tied went out<n>The tide went out
+
+@2662C max=119
+JP: これからのシーズンが<n><col.RED>かきいれどき</col>だ。
+EN: The coming season is our <col.RED>best time to make money</col>.
+
+@266A4 max=63
+JP: 掻き入れ時<n>書き入れ時
+EN: Peek season<n>Peak season
+
+@266EC max=119
+JP: <col.RED>ごたぶんにもれず</col><n>子供の頃の成績は悪かった。
+EN: <col.RED>Like most people</col>,<n>I got bad grades as a kid.
+
+@26764 max=63
+JP: 御多聞に漏れず<n>御多分に洩れず
+EN: Like evryone else<n>Like everyone else
+
+@267AC max=119
+JP: ネコが玄関の<col.RED>かた</col>すみで<n>寝ている。
+EN: The cat is sleeping in a <col.RED>____</col><n>by the front door.
+
+@26824 max=63
+JP: 形<n>片
+EN: coroner<n>corner
+
+@2686C max=119
+JP: こんなに<col.RED>せっぱつまる</col>とは<n>思わなかった。
+EN: I never thought I'd be<n>so <col.RED>____</col>.
+
+@268E4 max=63
+JP: 切端詰まる<n>切羽詰まる
+EN: hard-prest<n>hard-pressed
+
+@2692C max=119
+JP: <col.RED>たいふういっか</col>の秋晴れです。
+EN: It's a clear autumn day now that the typhoon has <col.RED>____</col>.
+
+@269A4 max=63
+JP: 台風一家<n>台風一過
+EN: past<n>passed
+
+@269EC max=119
+JP: 良い返事をもらって<n><col.RED>うちょうてん</col>になる。
+EN: The good news left me<n><col.RED>____</col>.
+
+@26A64 max=63
+JP: 宇頂天<n>有頂天
+EN: over the moone<n>over the moon
+
+@26AAC max=119
+JP: 彼はとても<col.RED>みえ</col>っぱりだ。
+EN: He's so <col.RED>____</col> about his looks.
+
+@26B24 max=63
+JP: 見得<n>見栄
+EN: vane<n>vain
+
+@26B6C max=119
+JP: 家族の<col.RED>きょうゆう</col>財産。
+EN: The family's <col.RED>____</col> owned property.
+
+@26BE4 max=63
+JP: 享有<n>共有
+EN: jointley<n>jointly
+
+@26C2C max=119
+JP: 我々は<col.RED>いぎ</col>を唱えた。
+EN: We voiced our <col.RED>____</col>.
+
+@26CA4 max=63
+JP: 異義<n>異議
+EN: objeccions<n>objections
+
+@26CEC max=119
+JP: <col.RED>はえ</col>ある第一回大会の優勝。
+EN: A <col.RED>____</col> victory in the very first tournament!
+
+@26D64 max=63
+JP: 映え<n>栄え
+EN: glorius<n>glorious
+
+@26DAC max=119
+JP: <col.RED>じょまくしき</col>が<n>執り行われました。
+EN: An <col.RED>____</col> ceremony<n>was held.
+
+@26E24 max=63
+JP: 序幕式<n>除幕式
+EN: unvailing<n>unveiling
+
+@26E6C max=119
+JP: 彼はたやすく<n><col.RED>せつ</col>を曲げる人ではない。
+EN: He won't easily abandon<n>his <col.RED>____</col>.
+
+@26EE4 max=63
+JP: 説<n>節
+EN: principals<n>principles
+
+@26F2C max=119
+JP: 戦争には、いかなる<n><col.RED>たいぎめいぶん</col>も存在しない。
+EN: There is no <col.RED>____</col><n>for war.
+
+@26FA4 max=63
+JP: 大義名文<n>大義名分
+EN: justifacation<n>justification
+
+@26FEC max=119
+JP: <col.RED>はにきぬきせぬ</col>トークが<n>人気の司会者。
+EN: The host is popular for<n><col.RED>____</col>.
+
+@27064 max=63
+JP: 歯に絹着せぬ<n>歯に衣着せぬ
+EN: not mincing worms<n>not mincing words
+
+@270AC max=119
+JP: 南極を<col.RED>きてん</col>にして<n>百キロの範囲内。
+EN: Within 100 km, using the South Pole<n>as the <col.RED>____</col>.
+
+@27124 max=63
+JP: 起点<n>基点
+EN: reference pint<n>reference point
+
+@2716C max=119
+JP: 彼は会社の<col.RED>かんさ</col>役です。
+EN: He's the company's <col.RED>____</col>.
+
+@271E4 max=63
+JP: 鑑査<n>監査
+EN: auditer<n>auditor
+
+@2722C max=119
+JP: 毎日勉強したので、<n>現役合格は<col.RED>かたい</col>。
+EN: I studied every day, so passing<n>on my first try is <col.RED>____</col>.
+
+@272A4 max=63
+JP: 硬い<n>堅い
+EN: a shore thing<n>a sure thing
+
+@272EC max=119
+JP: それが成功するかどうかは、<n>運に<col.RED>よる</col>だろう。
+EN: Whether it succeeds will<n><col.RED>____</col> luck.
+
+@27364 max=63
+JP: 拠る<n>由る
+EN: dependant on<n>depend on
+
+@273AC max=119
+JP: あいつは<col.RED>やくびょうがみ</col>だ！
+EN: That guy is a <col.RED>____</col>!
+
+@27424 max=63
+JP: 厄病神<n>疫病神
+EN: jincks<n>jinx
+
+@2746C max=119
+JP: 悔しさに<col.RED>こぶし</col>を握りしめ<n>涙をこぼした。
+EN: In frustration, I clenched my <col.RED>____</col><n>and shed tears.
+
+@274E4 max=63
+JP: 挙<n>拳
+EN: fistts<n>fists
+
+@2752C max=119
+JP: <col.RED>めいぎへんこう</col>に<n>必要な書類だった。
+EN: These were the papers needed<n>to <col.RED>____</col>.
+
+@275A4 max=63
+JP: 名儀変更<n>名義変更
+EN: transfer the tittle<n>transfer the title
+
+@275EC max=119
+JP: 緊張することもなく<n>腕前を<col.RED>はっき</col>した。
+EN: Without a hint of nerves,<n>I <col.RED>showed off</col> my skills.
+
+@27664 max=63
+JP: 発輝<n>発揮
+EN: Emit brilliance<n>Show ability
+
+@276AC max=119
+JP: 二年間、<n>町内会の会長を<col.RED>つとめた</col>。
+EN: For two years, I <col.RED>tsutometa</col> as head of the neighborhood association.
+
+@27724 max=63
+JP: 勤めた<n>務めた
+EN: Worked at a job<n>Held an office
+
+@2776C max=119
+JP: 青年の<col.RED>よい</col>行いが認められた。
+EN: The young man's <col.RED>yoi</col> deeds were recognized.
+
+@277E4 max=63
+JP: 良い<n>善い
+EN: Good quality<n>Morally good
+
+@2782C max=119
+JP: 祖父の散歩の<col.RED>おとも</col>は犬だ。
+EN: Grandpa's dog is his <col.RED>otomo</col> on walks.
+
+@278A4 max=63
+JP: お共<n>お供
+EN: Together<n>Companion
+
+@278EC max=119
+JP: 早い時期から試験に<col.RED>そなえた</col>。
+EN: I <col.RED>sonaeta</col> for the exam well in advance.
+
+@27964 max=63
+JP: 供えた<n>備えた
+EN: Made an offering<n>Prepared
+
+@279AC max=119
+JP: 手に石けんの香りが<col.RED>うつった</col>。
+EN: The scent of soap <col.RED>utsutta</col> to my hands.
+
+@27A24 max=63
+JP: 映った<n>移った
+EN: Was reflected<n>Was transferred
+
+@27A6C max=119
+JP: 品質の<col.RED>ゆうりょう</col>なミカンを<n>生産する。
+EN: We grow oranges of <col.RED>yuryo</col> quality.
+
+@27AE4 max=63
+JP: 優良<n>優料
+EN: Excellent quality<n>Superior fee
+
+@27B2C max=119
+JP: バドミントンを漢字で書くと？
+EN: Which literal kanji name means "badminton"?
+
+@27BA4 max=63
+JP: 羽球<n>飛球
+EN: Feather ball<n>Flying ball
+
+@27BEC max=119
+JP: ハンドボールを漢字で書くと？
+EN: Which literal kanji name means "handball"?
+
+@27C64 max=63
+JP: 送球<n>手球
+EN: Passing ball<n>Hand ball

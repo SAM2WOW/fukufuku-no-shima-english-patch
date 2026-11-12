@@ -1,0 +1,247 @@
+# source: PSP_GAME/USRDIR/data/script/gk10.scb
+# format: scb
+# width: 44
+
+@5144 max=639
+JP: む？見たな？<p>我の姿を見てしまったな？<n>ふははは！哀れなやつめ！<p>我らはガイコツナンバーズ！<n>邪悪な秘密結社なのだ！<p>そして我は、ナンバー<GN>！<n>自分で言うのもなんだが、幹部候補だ！
+EN: Hm? You saw me?<p>You have gazed upon my fearsome form?<n>Fwahaha! You poor fool!<p>We are the Skull Numbers!<n>An evil secret society!<p>And I am Number <GN>!<n>Officer material, if I do say so myself!
+
+@53C4 max=639
+JP: む？おまえは<PN>！<n>最近ウワサの、我らの敵だな？<p>我はガイコツナンバー<GN>！<n>ここで会ったが百年目だ！ふはは！
+EN: Hm? You're <PN>!<n>Our enemy everyone's been talking about!<p>I am Skull Number <GN>!<n>At last, your reckoning is at hand! Fwahaha!
+
+@5644 max=639
+JP: …ヤア！元気かーい！<n>ずいぶん顔色いいじゃん！<p>…と、油断させておいて<n>トウッ！<p>…ふはははは！愚かな奴め！<n>我の絶妙の声色に騙されたな！<p>我はガイコツナンバー<GN>！<n>どうだ、驚いたか、ふははは！<p>もはや貴様に勝ち目はない！<n>大人しく降参するがいい！
+EN: ...Hey there! How's it going?<n>You're looking great!<p>...And with your guard down...<n>HIYAH!<p>...Fwahahaha! You fool!<n>My flawless acting had you completely fooled!<p>I am Skull Number <GN>!<n>Surprised? Fwahaha!<p>You have no hope of victory now!<n>Surrender quietly!
+
+@58C4 max=639
+JP: む！おまえは<PN>！<n>なんだ、また我らにやられに来たか！<p>我はガイコツナンバー<GN>！<n>返り討ちにしてやる！カモーン！
+EN: Ah! It's you, <PN>!<n>Back for another beating, are you?<p>I am Skull Number <GN>!<n>I'll send you packing! Come on!
+
+@5B44 max=639
+JP: 我らの目的は、邪悪な占いによって<n>この世を支配することなのだ！ふはは！<p>具体的には、恐怖の「あだな占い」で<n>全人類を精神的に打ちのめすのだ！<p>…む？聞いたな？<n>我らの正体を聞いてしまったな？<p>聞かれたからには覚悟してもらおう。<n>ふははは！泣け！叫べ！
+EN: Our goal is to rule the world<n>through evil fortune-telling! Fwahaha!<p>Specifically, our dreaded nickname fortunes<n>will crush the spirit of all humanity!<p>...Hm? You heard that?<n>You have learned our true identity?<p>Then prepare to face the consequences!<n>Fwahaha! Weep! Scream!
+
+@5DC4 max=639
+JP: 我らは巨大な秘密結社なのだ！<n>全部で、４０人…いや、５０人…<p>ええと、ひいふうみい…<p>…ふ、ふはは！<n>そんなことはどうでもよい！
+EN: Our secret society is vast!<n>We have forty... No, fifty members...<p>Let's see... One, two, three...<p>...F-Fwahaha!<n>Such details are irrelevant!
+
+@6044 max=639
+JP: ガイコツナンバーズ結成より３０年！<n>我が結社は、着々と版図を広げてきた！<p>あと５０年もあれば<n>この島の四分の一は支配できる！<p>これが何を意味するかわかるか？<n>つまり…<p>この調子でいくと<n>世界征服まであと一歩ということだ！
+EN: Thirty years since the Skull Numbers arose!<n>Our territory has steadily expanded!<p>In just fifty more years,<n>we could rule a quarter of this island!<p>Do you know what that means?<n>It means...<p>At this rate, we're just one step away<n>from world domination!
+
+@62C4 max=639
+JP: 我らの目的は、邪悪な占いによって<n>この世を支配することなのだ！ふはは！<p>具体的には、恐怖の「あだな占い」で<n>全人類を精神的に打ちのめすのだ！<p>…む？聞いたな？<n>我らの正体を聞いてしまったな？<p>聞かれたからには覚悟してもらおう。<n>ふははは！泣け！叫べ！
+EN: Our goal is to rule the world<n>through evil fortune-telling! Fwahaha!<p>Specifically, our dreaded nickname fortunes<n>will crush the spirit of all humanity!<p>...Hm? You heard that?<n>You have learned our true identity?<p>Then prepare to face the consequences!<n>Fwahaha! Weep! Scream!
+
+@6544 max=639
+JP: 我らは巨大な秘密結社なのだ！<n>全部で、４０人…いや、５０人…<p>ええと、ひいふうみい…<p>…ふ、ふはは！<n>そんなことはどうでもよい！
+EN: Our secret society is vast!<n>We have forty... No, fifty members...<p>Let's see... One, two, three...<p>...F-Fwahaha!<n>Such details are irrelevant!
+
+@67C4 max=639
+JP: ガイコツナンバーズ結成より３０年！<n>我が結社は、着々と版図を広げてきた！<p>あと５０年もあれば<n>この島の四分の一は支配できる！<p>これが何を意味するかわかるか？<n>つまり…<p>この調子でいくと<n>世界征服まであと一歩ということだ！
+EN: Thirty years since the Skull Numbers arose!<n>Our territory has steadily expanded!<p>In just fifty more years,<n>we could rule a quarter of this island!<p>Do you know what that means?<n>It means...<p>At this rate, we're just one step away<n>from world domination!
+
+@6A44 max=639
+JP: ふははは、聞いておどろくな！<p>我々は、素晴らしい情報を<n>ゲットしたのだぞ！<p>「ものしり海岸」に、われらの祖先<n>ガイコツスリーパーズの像があるという！<p>それこそ、我らの世界征服の<n>新たなカギとなるアイテムなのだ！<p>もはや勝ったも同然よ！ふははは！
+EN: Fwahaha! Prepare to be amazed!<p>We have acquired<n>some magnificent intelligence!<p>A statue of our ancestors, the Skull Sleepers,<n>stands on Know-It-All Coast!<p>That very statue shall be the new key<n>to our conquest of the world!<p>Victory is as good as ours! Fwahaha!
+
+@6CC4 max=639
+JP: くっ、それにしても…<p>ガイコツ大魔王様さえ<n>万全の体調でおられたら…。<p>花粉症とギックリ腰のせいで<n>我らが魔王様は動けないのだ！<p>くっ、無念だ！
+EN: Grr... If only...<p>If only our mighty Skull Overlord<n>were in perfect health...<p>Hay fever and a bad back<n>have left our lord unable to move!<p>Grr! The injustice!
+
+@6F44 max=639
+JP: ふふふ、その目、その表情…<n>ふふふ、我は見抜いているぞ！<p>おまえももう、我らが占いの虜よ！<p>おとなしく、わが結社に<n>忠誠を誓うのだ！ふはは！
+EN: Heh heh heh... Those eyes! That expression!<n>I can see right through you!<p>You, too, are in thrall to our fortunes!<p>Now swear your allegiance<n>to our society! Fwahaha!
+
+@71C4 max=639
+JP: ふはは！ひとつ教えてやろう！<p>ガイコツナンバーズに<n>給与は出ない！<p>全部ボランティアだ！<n>しかし泣かないぞ！
+EN: Fwahaha! Let me tell you something!<p>The Skull Numbers<n>receive no salary!<p>It's all volunteer work!<n>But I shall not cry!
+
+@7444 max=639
+JP: ふははは！貴様は知るまい！<p>我らがガイコツ大魔王様の<n>鎮座まします場所を！<p>そぞろ山の、洞窟の奥深くで<n>花粉症の治療中であることなど<p>貴様には、思いもつかない<n>秘密なのだ！ふははは！
+EN: Fwahaha! You could never guess...<p>The place where our mighty<n>Skull Overlord resides!<p>Deep in a cave on Wanderlust Mountain,<n>receiving treatment for hay fever...<p>Such a secret would never<n>even cross your mind! Fwahahaha!
+
+@76C4 max=639
+JP: ふはは！ひとつ教えてやろう！<p>我らガイコツナンバーズは<n>人類の歴史のはじめより…<p>名を変え、活動内容を変え<n>暗躍を続けてきたのだ！<p>詳しくは、ガイコツ像に添付された<n>邪悪な文書を読むがいい！<p>そして、邪悪な歴史に震えるがいい！<n>ふはははは！
+EN: Fwahaha! Let me tell you something!<p>Since the dawn of human history,<n>we Skull Numbers have...<p>Changed our name and our activities,<n>working tirelessly in the shadows!<p>For details, read the evil document<n>attached to the skeleton statue!<p>Then tremble at our wicked history!<n>Fwahahaha!
+
+@7944 max=639
+JP: ふははは！聞いて驚くな！<p>貴様が、一度手に入れたアイテムは<n>特殊なものをのぞいて…<p>ポッコという生物の経営する店で<n>買うことができるのだ！<p>だが、我らは給与を貰っていないから<n>カネはいっさい持っていない！<p>つまり、我らには、まるで<n>関係のない情報なのだ！ふはは！
+EN: Fwahaha! Prepare to be amazed!<p>Once you've obtained an item,<n>apart from certain special ones...<p>You can buy it again at a shop<n>run by a creature called Pokko!<p>But since we receive no salary,<n>we have no money whatsoever!<p>In other words, this information<n>is utterly useless to us! Fwahaha!
+
+@7BC4 max=639
+JP: ふははは！懲りないやつめ！<p>ククク、それとも<n>我らに忠誠を誓う気になったか？<p>ちなみに、我が組織に忠誠を誓うと<n>特製ハンカチがもらえるぞ！
+EN: Fwahaha! You never learn!<p>Heh heh heh... Or have you finally<n>decided to swear allegiance to us?<p>Incidentally, joining our organization<n>earns you a special handkerchief!
+
+@7E44 max=639
+JP: ならば、特別サービスで<n>貴様の友達を占ってやろう！
+EN: Then, as a special service,<n>I shall tell your friend's fortune!
+
+@80C4 max=639
+JP: ふはははは！<p>我の必殺ワザ、<UC>占いで<n>貴様を地獄に送ってやろう！
+EN: Fwahahaha!<p>My ultimate technique, <UC> fortune-telling,<n>shall send you straight to the underworld!
+
+@8344 max=639
+JP: ふっ、臆したか！<n>我の勝ちだな！ふはははは！
+EN: Hah! Lost your nerve?<n>Victory is mine! Fwahahaha!
+
+@85C4 max=639
+JP: ふははは！無謀なヤツめ！<n>我が占い、受けてみよ！
+EN: Fwahaha! Reckless fool!<n>Face the might of my fortune-telling!
+
+@8844 max=639
+JP: ふふふ、ズバリ！<p><UC>占いでいうと<n>貴様は<UN>だ！
+EN: Heh heh heh... Behold the truth!<p>According to <UC> fortune-telling,<n>you are <UN>!
+
+@8AC4 max=639
+JP: …………<p>…ぷっ！<UN>だってさ！<n>うわー、ハズカシー！<p>これから貴様が何をやっても<n>「でも<UN>だしー」<p>って言われちゃうのだぞ！<n>やーいやーい、<UN>！<p>…ふふふ、どうやら精神に<n>深い傷を負ったようだな？<p>我らの恐怖、思い知ったか！<n>ふははは！…では、さらばだ！
+EN: ............<p>...Pfft! <UN>!<n>Wow, how embarrassing!<p>Whatever you do from now on,<n>people will say, "Still <UN>, though!"<p>That's what they'll say!<n>Nyah nyah! <UN>!<p>...Heh heh heh. It seems I've dealt<n>a deep wound to your spirit!<p>Now you know true terror!<n>Fwahaha! ...Farewell!
+
+@8D44 max=639
+JP: ククク、ならば<n>貴様の友達の秘密を教えるがいい…。<p>さあ、友達を売れ、フフフフ…。
+EN: Heh heh heh... Then reveal<n>your friend's secrets to me...<p>Go on, betray your friend! Heh heh heh...
+
+@8FC4 max=639
+JP: これで良いのか？ククククク…。
+EN: Is this correct? Heh heh heh...
+
+@9244 max=639
+JP: さあ、友達を売れ、フフフフ…。
+EN: Go on, betray your friend! Heh heh heh...
+
+@94C4 max=639
+JP: これで良いのか？ククククク…。
+EN: Is this correct? Heh heh heh...
+
+@9744 max=639
+JP: さあ、友達を売れ、フフフフ…。
+EN: Go on, betray your friend! Heh heh heh...
+
+@99C4 max=639
+JP: ふふふ、ではゆくぞ？<n>貴様の友達はな…。
+EN: Heh heh heh... Shall we begin?<n>Your friend is...
+
+@9C44 max=639
+JP: <UC>占いでいうと<n><UN>だったのだ！ガーン！
+EN: According to <UC> fortune-telling,<n><UN>! Gasp!
+
+@9EC4 max=639
+JP: ふははは！<p>衝撃の事実に<n>声も出ないようだな！<p>哀れなやつめ！ふはははは！<n>…では、さらばだ！
+EN: Fwahaha!<p>The shocking truth<n>has left you speechless!<p>You poor fool! Fwahahaha!<n>...Farewell!
+
+@A144 max=639
+JP: <<テキストチェック>><n>チェックする項目を選んでください。
+EN: 
+
+@A3C4 max=639
+JP: 会話メッセージ<n>イベント用テキスト
+EN: Dialogue<n>Event Text
+
+@A644 max=639
+JP: 表示したい会話メッセージのIDを選んでください。
+EN: 
+
+@A8C4 max=639
+JP: 表示したいテキストのIDを入力してください。
+EN: 
+
+@14E64 max=359
+JP: 鉱石
+EN: Mineral
+
+@14FCC max=359
+JP: トルコ石
+EN: Turquoise
+
+@15134 max=359
+JP: 倹約家で地道に何かをひとつ、や<n>り遂げることのできる素質の持ち<n>主。大きな勝負や、賭け事、浮つ<n>いた遊びなどは不得意で、小さな<n>成功をこつこつと重ねて、渋く光<n>る人です。辛抱強い人でもあるの<n>で、教師などにも向いています。
+EN: Thrifty and steady, you have the grit<n>to see a task through. Big risks,<n>gambling and frivolous fun aren't<n>your strengths. You shine quietly,<n>building on one small success after<n>another. Your patience also makes<n>you well suited to teaching.
+
+@1529C max=359
+JP: ひすい
+EN: Jade
+
+@15404 max=359
+JP: 物静かであまり大勢の人との接触<n>を好まないひすいタイプ。実は、<n>肉体派の仕事で大成する素質の持<n>ち主。己の記録に黙々と挑戦した<n>り、大きな建物をこつこつと設計<n>したり、あるいは、修行にその身<n>を費やす僧侶などが適職です。
+EN: Quiet Jade types prefer to avoid<n>crowds. You have a gift for work<n>that demands physical effort.<n>Quietly chasing athletic records,<n>patiently designing great buildings,<n>or devoting yourself to a monk's<n>training would all suit you.
+
+@1556C max=359
+JP: ダイヤモンド
+EN: Diamond
+
+@156D4 max=359
+JP: どんなことをやっても大胆かつ器<n>用にこなし、トップに立てる素質<n>の持ち主。ただし、人に指図され<n>たり、細かなやりくりしたりする<n>のが苦手なので、商売やサービス<n>業には向いていません。成功して<n>も、自慢話はほどほどに。
+EN: Bold and capable in all you do,<n>you have what it takes to reach<n>the top. Taking orders and managing<n>small details aren't your strengths,<n>so commerce and service work don't<n>suit you. When success comes,<n>go easy on the bragging!
+
+@1583C max=359
+JP: 水晶
+EN: Crystal
+
+@159A4 max=359
+JP: 争いごとが嫌いで、凝り性の水晶<n>タイプは芸術、創作などを極める<n>ことができる素質の持ち主。その<n>場のムードに流されることが多い<n>のでお酒の席や、押しの強い人に<n>口説かれたときは注意が必要。人<n>にこびない独立精神の持ち主。
+EN: Peace-loving Crystal types have<n>a passion for detail and the talent<n>to master an art or creative craft.<n>You get swept up in the mood, so<n>beware at drinking parties or when<n>a pushy admirer woos you. Still,<n>you're independent and don't flatter.
+
+@15B0C max=359
+JP: コハク
+EN: Amber
+
+@15C74 max=359
+JP: 独立心が旺盛で、マスコミ関係の<n>仕事などで成功する素質の持ち主。<n>指図を受けるのが嫌いなので、会<n>社勤めにはまったく向きません。<n>負けず嫌いなところが強く出すぎ<n>るので、たまには人に譲る、とい<n>うことができるようになれば吉。
+EN: Fiercely independent, you have<n>the talent to succeed in media.<n>You hate taking orders, so<n>company life really doesn't suit you.<n>Your competitive streak can get<n>the better of you. Learn to let<n>others have their way sometimes.
+
+@15DDC max=359
+JP: 猫目石
+EN: Cat's Eye
+
+@15F44 max=359
+JP: 頭の回転が早く知的で、研究熱心<n>な猫目石タイプ。古美術や絵画、<n>ブランド品などの収集で財を成す<n>素質の持ち主。ただし、快活すぎ<n>るおしゃべり、営業トークなどに<n>は不向きなので、商売するにして<n>も、落ち着いた店のほうが吉。
+EN: Quick-witted, clever Cat's Eye types<n>love research. You could make a<n>fortune collecting antiques, art<n>or designer goods. Bubbly chatter<n>and sales pitches don't suit you,<n>though. If you run a shop, choose<n>one with a calm atmosphere.
+
+@160AC max=359
+JP: 金
+EN: Gold
+
+@16214 max=359
+JP: にぎやかで明るく、快活で明朗、<n>いつも楽しい雰囲気をかもし出す<n>金タイプ。商才があり、説得力も<n>あるのでセールスにかけては突出<n>した素質の持ち主。ただし、恋愛<n>におぼれる傾向があり、決まった<n>相手のいる人はつつしみが必要。
+EN: Lively and cheerful, Gold types<n>make every gathering fun.<n>Business sense and persuasive charm<n>give you a special gift for sales.<n>You tend to get carried away<n>in love, though. If you already<n>have a partner, show some restraint.
+
+@1637C max=359
+JP: 銀
+EN: Silver
+
+@164E4 max=359
+JP: 物静かで、芸術、文学などに造詣<n>が深い銀タイプ。その特技を生か<n>してファッション、マスコミ関係<n>に就職すると才能が花開く素質の<n>持ち主です。過去に囚われたり、<n>いつまでも失敗を気に病む癖を克<n>服できるとよりいっそうの成功が。
+EN: Quiet Silver types know a great deal<n>about art and literature. Put that<n>knowledge to work in fashion or<n>the media, and your talents can bloom.<n>Stop dwelling on the past or<n>brooding over old mistakes,<n>and even greater success awaits.
+
+@1664C max=359
+JP: ジルコニア
+EN: Zirconia
+
+@167B4 max=359
+JP: 忙しく動くのが苦にならず、人を<n>使う素質に長けているジルコニア<n>タイプ。頼みごとをされたり、人<n>の世話をしたりするのが好きなわ<n>りには、情に流されない冷たいと<n>ころもあります。小さな商店など<n>を経営すると成功する人です。
+EN: Zirconia types enjoy keeping busy<n>and have a knack for managing people.<n>You like being asked for favors<n>and taking care of others, yet<n>you can be cool and unswayed<n>by emotion. Running a small shop<n>could bring you success.
+
+@1691C max=359
+JP: プラチナ
+EN: Platinum
+
+@16A84 max=359
+JP: 専門的な知識に長け、計画的に物<n>事を進めるのが得意なプラチナタ<n>イプ。自分で何か事業を起こすよ<n>りは、誰かのアドバイザー、コン<n>サルタントのようなサブの立場を<n>選ぶと成功する素質の持ち主です。<n>自分の欲望を抑えられると吉。
+EN: Platinum types excel at specialist<n>knowledge and careful planning.<n>Your talents shine in a supporting<n>role, such as an adviser or<n>consultant, rather than starting<n>your own business. Keeping your<n>desires in check brings good luck.
+
+@16BEC max=359
+JP: 銅
+EN: Copper
+
+@16D54 max=359
+JP: 辛抱強く、理論派で、まじめな性<n>格の銅タイプ。秘書や看護士など、<n>誠実さが求められる仕事で成功す<n>る素質の持ち主です。ただし、ち<n>ょっと怒りっぽいところ、頑固な<n>ところもあり、これをコントロー<n>ルできるようになるとさらに吉。
+EN: Patient, logical and earnest,<n>Copper types have a gift for work<n>that calls for integrity, such as<n>secretarial work or nursing.<n>You can be a little quick-tempered<n>and stubborn. Learn to control<n>those traits, and you'll do even better.
+
+@16EBC max=359
+JP: ルチル
+EN: Rutile
+
+@17024 max=359
+JP: どんな職業でも器用にこなし、信<n>念をもって進んでいくことができ<n>るルチルタイプ。人の助言に耳を<n>傾けるタイプではないが、人との<n>共同作業はかなりうまくいくほう<n>です。グループや会社の一員とし<n>てなくてはならない存在です。
+EN: Versatile Rutile types can handle<n>any job and move forward with<n>firm conviction. You aren't one<n>to take advice, but you work<n>remarkably well with others.<n>You're an indispensable member<n>of any group or company.

@@ -1,0 +1,247 @@
+# source: PSP_GAME/USRDIR/data/script/penta1_1.scb
+# format: scb
+# width: 44
+
+@5144 max=639
+JP: やあ！オイラはペン、隣はター<n>そんで端っこがゴン。
+EN: Hey! I'm Pen, that's Ta beside me,<n>and Gon is the one on the end.
+
+@53C4 max=639
+JP: …三匹あわせて、ペンタゴンといいます。<n>ま、この島のアイドル三兄弟ですよ。
+EN: ...Together, we're the Pentagon trio.<n>The island's three superstar brothers, you might say.
+
+@5644 max=639
+JP: <PN>さんだろ？<n>ウワサは聞いてるよ！よろしくな！
+EN: You're <PN>, right?<n>We've heard all about you! Nice to meet ya!
+
+@58C4 max=639
+JP: やあ、オイラたちに会いに来たの？
+EN: Hey, come to see us?
+
+@5B44 max=639
+JP: ククク…。あなたも好きですねえ。
+EN: Heh heh heh... You just can't get enough, can you?
+
+@5DC4 max=639
+JP: …好きモノだー！！
+EN: ...You're hooked!!
+
+@6044 max=639
+JP: よう、<PN>さん！
+EN: Yo, <PN>!
+
+@62C4 max=639
+JP: ククク…。<n>またお会いできてうれしいですよ。
+EN: Heh heh heh...<n>A pleasure to see you again.
+
+@6544 max=639
+JP: …うれしいぞー！！
+EN: ...A real pleasure!!
+
+@67C4 max=639
+JP: …ま、アレですよ、オイラたちのモットー<n>それは、「楽してもうけろ」ですよ。
+EN: ...Well, you know, we've got a motto.<n>"Easy money, easy living."
+
+@6A44 max=639
+JP: ま、ひとことでいうなら、ギャンブルさ。<n>ちょっとした賭けで、人生楽しくなるぜ？
+EN: In a word: gambling.<n>A little wager makes life more fun, eh?
+
+@6CC4 max=639
+JP: …というわけで、どうですか。<n>ひとつオイラたちと遊びませんか。
+EN: ...So, what do you say?<n>Care to join us for a game?
+
+@6F44 max=639
+JP: …遊ぼうぜー！！
+EN: ...Let's play!!
+
+@71C4 max=639
+JP: いやー、あんたバクチの才能あるねー。<n>目よ、目を見りゃわかるって！
+EN: Man, you've got a gift for gambling.<n>It's in your eyes! I can always tell!
+
+@7444 max=639
+JP: というわけで<n>今日も稼いでいきますよね？
+EN: So, you'll be making a little money<n>with us again today, yes?
+
+@76C4 max=639
+JP: …ゴーゴー！！
+EN: ...Go, go!!
+
+@7944 max=639
+JP: なあ、あんたもしかして<n>オイラたちのことを…
+EN: Hey, don't tell me you think<n>we're just...
+
+@7BC4 max=639
+JP: ただの遊び好きのペンギン兄弟だと<n>思ってるんでしょうね、フフフ。
+EN: Three penguin brothers who like to play?<n>Heh heh heh.
+
+@7E44 max=639
+JP: オイラたち一族は、こう見えても<n>いろんな人間に強運を授けてきたんだぜ？
+EN: Believe it or not, our family has blessed<n>all sorts of people with incredible luck!
+
+@80C4 max=639
+JP: 昔のことになりますが、ナポレオンなんて<n>おかしな名の小男も来たそうですね…。
+EN: Long ago, a little fellow with the odd name<n>of Napoleon supposedly paid us a visit...
+
+@8344 max=639
+JP: あー、ひいじいさんになかなか勝てなくて<n>グスグス泣いてたって、あいつかー。
+EN: Oh, that guy! Couldn't beat Great-Grandpa,<n>so he just sat there blubbering, right?
+
+@85C4 max=639
+JP: …あいつかー！！
+EN: ...That guy!!
+
+@8844 max=639
+JP: てなわけで、遊んでけよ！<n>あんたの運を鍛えてやるぜ？
+EN: So stick around and play!<n>We'll give your luck a workout!
+
+@8AC4 max=639
+JP: オイラたちの一族は、こうみえても<n>すげーバリバリの一族なんだぜ？
+EN: We may not look it, but our family<n>is a pretty big deal, you know!
+
+@8D44 max=639
+JP: …なんだぜー！！
+EN: ...A big deal!!
+
+@8FC4 max=639
+JP: 偉大なるご先祖様、ペンペーナ１世は<n>ソクラテスから身ぐるみ剥いだそうです。
+EN: Our great ancestor, Penpena I, is said<n>to have won the very clothes off Socrates' back.
+
+@9244 max=639
+JP: それだけ由緒ある一族ってこった。<n>ま、どうでもいいけどなー。
+EN: That's how far back our family goes.<n>Not that it matters much.
+
+@94C4 max=639
+JP: …いいけどなー！！
+EN: ...Not that it matters!!
+
+@9744 max=639
+JP: 今日はムダ話はなし！<n>さっそく遊ぼうぜい、へへへ！
+EN: Enough chitchat today!<n>Let's get right to the fun! Heh heh heh!
+
+@99C4 max=639
+JP: さて、オイラたちとゲームしようぜ？<n>楽しくお金を賭けて遊ぼうぜ？
+EN: How about a game with us?<n>Place a bet and have a little fun!
+
+@9C44 max=639
+JP: 今日のゲームは、回るオイラたちを<n>向きを揃えて止めるゲームですね。
+EN: Today's game has us spinning around.<n>You stop us so we're all facing the same way.
+
+@9EC4 max=639
+JP: 題して「ペンギン超乱舞」！<n>どのコースをやる？
+EN: We call it "Penguin Spin Frenzy"!<n>Which course do you want?
+
+@A144 max=639
+JP: くるくるコース<n>ぐるぐるコース<n>ぐるんぐるコース<n>やめる
+EN: Spin Course<n>Whirl Course<n>Cyclone Course<n>Quit
+
+@A3C4 max=639
+JP: いちばんかんたんなコースだぜ。<n>…５０ｚ、やるかーい！？
+EN: This one's the easiest.<n>...50z! You in?!
+
+@A644 max=639
+JP: ま、中級コースだな。<n>…１５０ｚ、やるかーい！？
+EN: This one's for intermediate players.<n>...150z! You in?!
+
+@A8C4 max=639
+JP: おいおい、このコースは難しいぜ？<n>…５００ｚ、本当にやるかーい！？
+EN: Whoa, this one's tough!<n>...500z! You sure you're in?!
+
+@AB44 max=639
+JP: よし、はじめるぜ！<n>ルールはかんたんさ！
+EN: All right, let's go!<n>The rules are simple!
+
+@ADC4 max=639
+JP: 全員を、正面向きで止めれば<n>あなたの勝ちですよ、フフ…。
+EN: Stop us all facing forward,<n>and you win. Heh heh...
+
+@B044 max=639
+JP: じゃ、スタートするぜ？
+EN: Ready? Here we go!
+
+@B2C4 max=639
+JP: …スタートー！！
+EN: ...Go!!
+
+@B544 max=639
+JP: ちっ…<p>じゃなくて、おめでとうさん！<n>えーと、３００ｚね。
+EN: Tch...<p>I mean, congratulations!<n>Let's see... 300z, right?
+
+@B7C4 max=639
+JP: おおう！なんてこった…<p>くっ、１５００ｚ、もってけドロボー！
+EN: Whoa! You've gotta be kidding...<p>Grr... 1500z! Take it, you thief!
+
+@BA44 max=639
+JP: オイオイオイオイオーイ！<p>ま、まいったぜ。<n>それじゃ１０００ｚを…<p>え？金額が違う？<n>そ、そうだったな…ちっ…<p>…１００００ｚ、確かに渡すぜ…。<n>ちくしょう、まさかクリアしちまうとは…。
+EN: Whoa, whoa, whoa, whoa, WHOA!<p>Y-you got me.<n>Here's your 1000z...<p>Huh? Wrong amount?<n>O-oh, right... Tch...<p>...Here. 10000z, every last coin...<n>Dang it, I never thought you'd actually beat it...
+
+@BCC4 max=639
+JP: やりますね、フフ…。
+EN: You're quite good. Heh heh...
+
+@BF44 max=639
+JP: …やるなー！！
+EN: ...You're gooood!!
+
+@C1C4 max=639
+JP: うーん、残念だったな！<p>ははは！はははははは！<p>でも才能あるぜ、次はだいじょぶさ！
+EN: Ooh, tough luck!<p>Ha ha ha! Ha ha ha ha ha!<p>You've got talent, though! You'll get it next time!
+
+@C444 max=639
+JP: …だいじょぶだよー！！
+EN: ...You'll get it next tiiime!!
+
+@C6C4 max=639
+JP: というわけで、もう一度やろうぜ？
+EN: So, how about another round?
+
+@C944 max=639
+JP: …やろーぜー！！
+EN: ...Another rooound!!
+
+@CBC4 max=639
+JP: もう帰るのかい？また来いよ！
+EN: Leaving already? Come back soon!
+
+@CE44 max=639
+JP: お待ちしてますよ<n>フフフ…。
+EN: We'll be waiting.<n>Heh heh heh...
+
+@D0C4 max=639
+JP: またたっぷり遊ぼうぜ！
+EN: Let's play a whole bunch more next time!
+
+@D344 max=639
+JP: …遊ぼうぜー！！
+EN: ...Let's play!!
+
+@D5C4 max=639
+JP: …あのさ、お金足りないぜ？
+EN: ...Uh, you're a little short on cash.
+
+@D844 max=639
+JP: …しっ、兄さん…<n>この人は、ビンボーなんですよ。
+EN: ...Shh, brother...<n>Our guest here is broke.
+
+@DAC4 max=639
+JP: …あー。
+EN: ...Ohhh.
+
+@DD44 max=639
+JP: …ビンボー！！
+EN: ...BROKE!!
+
+@DFC4 max=639
+JP: …こらっ！ゴン、そんなこと<n>大声で言っちゃいけませんよ。
+EN: ...Hey! Gon, you mustn't say that<n>so loudly!
+
+@E244 max=639
+JP: …ごめえん、にーちゃん…
+EN: ...Sorryyy, big bro...
+
+@E4C4 max=639
+JP: …いやー、あのさ、気にすんな！<n>じゃ、じゃあまたな！ははは！
+EN: ...Uh, hey, don't let it get to you!<n>W-well, see you around! Ha ha ha!
+
+@E744 max=639
+JP: <<テキストチェック>><n>表示したい会話メッセージのIDを選んでください。
+EN: 

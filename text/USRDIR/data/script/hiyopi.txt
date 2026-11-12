@@ -1,0 +1,107 @@
+# source: PSP_GAME/USRDIR/data/script/hiyopi.scb
+# format: scb
+# width: 44
+
+@5144 max=639
+JP: よーう。あんた、<PN>やろ？<n>ハハ、ワイは何でも知っとるでー。<p>ワイはヒヨピー。<n>大宇宙をマタにかける商人や。<p>あんた、なかなかええヤツらしいなー。<n>ま、これからよろしく頼むでー。
+EN: Hey there! You're <PN>, right?<n>Ha ha! Nothing gets past me!<p>Name's Hiyopi.<n>I'm a merchant with the whole universe for a sales route!<p>I hear you're a pretty good sort.<n>Here's to doing business with ya!
+
+@53C4 max=639
+JP: おう、<PN>はんか。<n>ワイはバリバリ絶好調やでー。
+EN: Hey, <PN>!<n>I'm firing on all cylinders today!
+
+@5644 max=639
+JP: おう、<PN>はんかい。<n>ここんとこ不景気でどないもならんわ。
+EN: Oh, hey, <PN>.<n>Business has been so lousy lately, I'm at my wit's end.
+
+@58C4 max=639
+JP: ワイがいま取り組んどるんは<n>「ヒヨピースタンプ」っちゅー制度の普及や。<p>これは要するに、あんさんが<n>ワイと契約した奴らの仕事をこなすと、やな<p>スタンプがもらえるっちゅーわけや。<n>もう持っとるかもしれへん。<p>スタンプが溜まったら、ここに来いや。<n>ワイがグッドなアイテムをやるさかいな。
+EN: Right now, I'm spreading the word<n>about my Hiyopi Stamp program.<p>Here's the deal. Do some work<n>for one of my business partners...<p>And you get stamps!<n>You might even have some already.<p>Once you've saved up a bunch, come see me.<n>I'll hook ya up with some sweet items!
+
+@5B44 max=639
+JP: ん？ワイはアイテムをあげるばっかで<n>大損してるんやないかって？<p>心配してくれておおきにな。<n>でも大丈夫や。ちゃんと銀河同盟が…<p>おっとっと。ま、ワイも儲かるんや。<n>ワイのためにも、スタンプ集めてーな。
+EN: Huh? You reckon giving away all these items<n>must be costing me a fortune?<p>Aw, thanks for worrying about me.<n>But it's fine. The Galactic Alliance pays...<p>Whoops! Let's just say I get my cut, too.<n>So keep collecting those stamps for your pal Hiyopi!
+
+@5DC4 max=639
+JP: そうや！ひとつ教えといたるわ。<p>スタンプ扱うてるのは、全部で６人や。<n>ま、「人」ちゅーてええのか微妙やけどな。<p>誰と誰かは、おいおい教えたるさかい<n>ちょくちょく会いにきてやー。
+EN: Oh, yeah! Here's a little tip.<p>There are six people who hand out stamps.<n>Though calling 'em "people" might be a stretch.<p>I'll tell ya who they are bit by bit,<n>so drop by every now and then!
+
+@6044 max=639
+JP: あ、そうそう<p>キーノっちゅーガキもスタンプ持ってるで。<n>まったく、あいつムカツクわー。<p>いったいあいつの<n>どこが美少年やっちゅーねん！<p>このワイのように、パンツ履きこなしてから<n>美少年を名乗れっちゅーねん！
+EN: Oh, that reminds me...<p>That kid Kino has stamps, too.<n>Man, that little punk gets on my nerves!<p>Who decided HE was<n>such a pretty boy, anyway?!<p>He can call himself a pretty boy once he<n>can pull off a pair of undies like I can!
+
+@62C4 max=639
+JP: そうやそうや、教えたろ。<p>ホシダケ組にもスタンプ扱ってもろてるで。<n>キノコの任侠はよーわからんけどなあ。
+EN: Oh, yeah! Got another tip for ya.<p>The Hoshidake Gang hands out stamps, too.<n>Can't say I get all that mushroom mob stuff, though.
+
+@6544 max=639
+JP: ところで、サガシニコフはんには<n>もう会うたか？<p>あの人も、スタンプくれるで。<n>あのおっさん説得するのは手間やったわ。
+EN: By the way, have ya met<n>Sagashnikov yet?<p>He gives out stamps, too.<n>Took some doing to get that old guy on board!
+
+@67C4 max=639
+JP: お、そうやそうや<p>モグやんのとこのクロスワードでも<n>スタンプ扱ってもろてるでー。<p>どんどん解いて<n>どんどん集めてやー。
+EN: Oh, right! Nearly forgot.<p>You can earn stamps doing<n>Moguyan's crosswords, too!<p>Keep solving those puzzles<n>and raking in the stamps!
+
+@6A44 max=639
+JP: お、そうそう<p>南東のほうにおるブリッキの双子とは<n>もう会うたか？<p>あいつらのオヤジとは<n>ちょいとコネがあってなー。<p>あいつらにもスタンプ預けてあるさかい<n>話してみー。
+EN: Oh, that reminds me...<p>Have ya met the Brikki twins<n>down to the southeast yet?<p>Me and their old man...<n>Let's just say we've got connections.<p>I left some stamps with those two,<n>so go have a chat!
+
+@6CC4 max=639
+JP: んー、ところであんた<n>マメにスタンプ集めてるかー？<p>…あー、あかんわ。<n>あんまり集めてへんなあ。<p>いいもんやろう思てたけど、やめたわ。<n>はあー。<p>もちっとスタンプ集めてやー。<n>いいことあるでー。
+EN: So, have ya been keeping busy<n>collecting stamps?<p>...Aw, no good.<n>You haven't got many at all.<p>I was gonna give ya something nice, but forget it.<n>Sigh...<p>Go collect a few more stamps, will ya?<n>There's something good in it for ya!
+
+@6F44 max=639
+JP: んー、ところであんた<n>マメにスタンプ集めてるかー？<p>…おっ！集めてるやん！<n>感心やなー。<p>よっしゃ！あんたにコレやるわ！<p>わいのご先祖サマのひとり<n>ヒヨッピーナはんの像やでー。<p>あんたになら、安心して<n>この像預けられるっちゅーもんや。<p>像の使い方は、もうわかってるな？<n>置き場所は自分で探すんやで？<p>ほな、持っていきー！
+EN: So, have ya been keeping busy<n>collecting stamps?<p>...Hey! Look at that haul!<n>Good on ya!<p>All right! This is for you!<p>It's a statue of Hiyoppina,<n>one of my ancestors!<p>I know I can trust you<n>to take good care of it.<p>You know how these statues work by now, right?<n>You'll have to find its spot yourself!<p>Go on, take it!
+
+@71C4 max=639
+JP: いまはしがないスタンプ屋やけど…<p>ワイの夢は、この星のぜんぶの人間が<n>スタンプ集めるようになって…<p>そのアガリで、がんがん儲けて…<p>ラスベガスのホテルのスイートで<n>ピンクシャンパン飲んで暮らすことや！<p>ベタベタな夢やが、ワイはやる！<n>ビッグになったるでー！
+EN: I'm just a humble stamp peddler for now...<p>But my dream is to get every person<n>on this planet collecting stamps...<p>Then rake in mountains of cash...<p>And spend my days sipping pink champagne<n>in a swanky Las Vegas hotel suite!<p>Sure, it's a cliche, but I'll make it happen!<n>I'm gonna hit the big time!
+
+@7444 max=639
+JP: ちょいとワイの祖先の話しよか…<p>ワイの一族は、もともと<n>ヒヨップ星系っちゅー、そらもう…<p>宇宙の遠いむこうの出身や。<p>そこがワヤになってしもてから<n>そらもう…<p>長い長い時間かけて、この地球まで<n>やってきたんやで！
+EN: Lemme tell ya a bit about my ancestors...<p>My family's originally from<n>the Hiyopp star system. That's way...<p>Way out in the far reaches of space.<p>After the whole place went to pieces,<n>they spent ages...<p>Long, long ages traveling all the way<n>to this planet, Earth!
+
+@76C4 max=639
+JP: ちょいとおかしな話に<n>聞こえるかもしらんけど…<p>この島に住んどるもん全員<n>この島で起きること、なんもかんも…<p>この星で生きとるもん全員の<n>「運勢」に関わっとるんやでー。<p>ここは、世界の運勢の中心地や。<n>ノンキな島やってナメたらあかん。<p>スタンプ集めることも、あんたの<n>運命を変える修行なんやでー。
+EN: This might sound a little<n>out there, but...<p>Everyone living on this island,<n>and every single thing that happens here...<p>It's all tied to the fortunes<n>of every living thing on this planet!<p>This place is the center of the world's luck.<n>Don't let its laid-back looks fool ya!<p>Even collecting stamps is training<n>that can change your destiny!
+
+@7944 max=639
+JP: お、そういえばなー<p>東の森におる、クレレとかいう<n>おかしな生きもんには気いつけや！<p>あら、まだ小さいけど貧乏神やで！<n>ビンボーにくわしいワイにはわかるんや！
+EN: Oh, that reminds me...<p>Watch out for that weird little critter<n>called Kurere in the forest to the east!<p>Still a little one, but that's a god of poverty!<n>Trust me, I know a thing or two about being broke!
+
+@7BC4 max=639
+JP: どうや、いまスタンプ持ってるか？<p>お、だいぶスタンプ集めたなー。<n>よっしゃ、これならアイテム渡せるで。
+EN: So, got any stamps on ya?<p>Hey, you've collected quite a pile!<n>All right! That's enough to earn ya an item!
+
+@7E44 max=639
+JP: 持ち物がいっぱいで持てません
+EN: Your inventory is full. You can't carry any more.
+
+@80C4 max=639
+JP: 持ち物がいっぱいです
+EN: Your inventory is full.
+
+@8344 max=639
+JP: <ITEM>を置きました
+EN: You put down <ITEM>.
+
+@85C4 max=639
+JP: ちゅーわけで、ワイはここにおるから<n>ときどき寄ってやー。
+EN: Anyway, I'll be right here,<n>so drop by now and then!
+
+@8844 max=639
+JP: どうや、いまスタンプ持ってるか？<p>んー、まだまだスタンプが足らんなー。<n>もうちょっと集めたらアイテムあげるでー。
+EN: So, got any stamps on ya?<p>Hmm, you're still a bit short.<n>Collect a few more and I'll give ya an item!
+
+@8AC4 max=639
+JP: どうや、いまスタンプ持ってるか？<p>まだ持ってないんか。しゃーないな。<n>これからがんばって集めてや。
+EN: So, got any stamps on ya?<p>None yet? Ah, well. What can ya do?<n>Get out there and start collecting!
+
+@8D44 max=639
+JP: おっ…もうワイが持ってるアイテム<n>全部あんたにあげてもうたがな。<p>いやー、ようスタンプ集めてくれたな。<n>感謝、感謝やで！
+EN: Oh... I've already given ya<n>every item I've got!<p>Boy, you sure collected a ton of stamps.<n>Thanks a million, pal!
+
+@8FC4 max=639
+JP: <<テキストチェック>><n>表示したい会話メッセージのIDを選んでください。
+EN: 

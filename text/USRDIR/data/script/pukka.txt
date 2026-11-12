@@ -1,0 +1,131 @@
+# source: PSP_GAME/USRDIR/data/script/pukka.scb
+# format: scb
+# width: 44
+
+@5144 max=639
+JP: いらっしゃい　いらっしゃい！<n>雑貨屋プッカ　プッカだよ！<p>なんでも売れるよ　なんでも買えるよ<n>雑貨屋プッカ！　プッカだよ！
+EN: Step right up! Come on in!<n>It's Pukka's General Store! Pukka here!<p>Sell us anything! Buy it all here!<n>Pukka's General Store! Pukka here!
+
+@53C4 max=639
+JP: <PN>さん　いらっしゃい！
+EN: Welcome, <PN>!
+
+@5644 max=639
+JP: うれしいたのしい　プッカのお店！<n>…あれえ　きみは誰？<p><PN>さんかあ。ああ！ああ！<n>外からきたお客さんだね！<p>オイラはプッカ！お店をやってるよ！<n>どんどん買って　どんどん売ってね！
+EN: Fun and cheer at Pukka's General Store!<n>...Hang on. Who are you?<p><PN>, huh? Oh! Oh!<n>You're the visitor from off the island!<p>I'm Pukka! I run this store!<n>Buy a bunch! Sell a bunch!
+
+@58C4 max=639
+JP: 幸運アイテム　買ったらいいよ！<n>使い捨てでも　買ったらいいよ！<p>その日一日　ツキまくり！<n>夜中の１２時　効き目が切れる！
+EN: Buy a lucky item! Give one a try!<n>One use only, but still a great buy!<p>Luck, luck, luck for the whole day through!<n>At midnight sharp, it's all used up!
+
+@5B44 max=639
+JP: そうそう　そうそう！　そういえば！<p>オイラの友達　サガシニコフさん！<n>オイラのだいじな　お得意さまさ！<p>サガシニコフさんは　地面を掘るよ！<n>宝をさがして　地面を掘るよ！<p>ずーっと東の　沼のそばー<n>そこにいるんだ　サガシニコフさん！
+EN: Oh, right! Oh, right! Speaking of which!<p>My pal Sagashnikov! What a guy!<n>One of my best customers, dropping by!<p>Sagashnikov digs! He digs all day!<n>Hunting for treasure, he digs away!<p>Way out east, by the marsh you'll see...<n>Sagashnikov! That's where he'll be!
+
+@5DC4 max=639
+JP: オイラのいとこは　ポッコ　ポッコ！<n>流行遅れの　リサイクル野郎！<p>ここから南　ここから東<n>はやらない店を　やってるよ！
+EN: My cousin's Pokko! Pokko's his name!<n>That old-fashioned secondhand seller's so lame!<p>Head south and east, and there you'll find<n>His shop! It's hardly the bustling kind!
+
+@6044 max=639
+JP: オイラはプッカ　歌って踊れる実業家！<n>とにかくどんどん　サービスするよ！
+EN: I'm Pukka! I sing! I dance! I trade!<n>Top-notch service! You've got it made!
+
+@62C4 max=639
+JP: うんうんすごいよ　プッカのお店！<n>なんでもあるよ　プッカのお店！
+EN: Yep, yep! Pukka's General Store is great!<n>We've got it all! Come in! Don't wait!
+
+@6544 max=639
+JP: オイラはプッカ　船が墜落　この島へ！<n>オイラはプッカ　今じゃ立派な商人さ！
+EN: I'm Pukka! My ship crash-landed here!<n>Now I'm a merchant with a fine career!
+
+@67C4 max=639
+JP: 幸運アイテムなら　プッカのお店！<n>ラッキー呼ぶよ　プッカのお店！
+EN: For lucky items, Pukka's General Store!<n>Luck comes knocking at our door!
+
+@6A44 max=639
+JP: おいらはプッカ　プッカルライト星人さ！<n>宇宙の宝石掘ってたよ！
+EN: I'm Pukka, a Pukkarulite alien! Hi!<n>I used to mine gems way up in the sky!
+
+@6CC4 max=639
+JP: オイラはプッカ　ご町内のアイドルさ！<n>オイラはプッカ　歌って踊れる商人さ！
+EN: I'm Pukka! The neighborhood superstar!<n>A singing, dancing merchant! Here you are!
+
+@6F44 max=639
+JP: 今日は特売日！安いよ安いよ！
+EN: Big sale today! Bargains galore!
+
+@71C4 max=639
+JP: おめでとう！おめでとう！<n>縁縁島で　金の像をぜんぶ置いたってね！<p>オイラは　なんのことかわかんないけど<n>福福先生　大喜びさ！<p>というわけで　特別商品大売り出し！<n>「福福バッジ」　入荷したよ！
+EN: Congratulations! Hip, hip, hooray!<n>You placed all the gold statues on En-en Island!<p>I don't really know what that's about,<n>but Master Fukufuku's over the moon!<p>So here's a special item for sale!<n>The Fukufuku Badge is now in stock!
+
+@7444 max=639
+JP: えーと　なにがしたい？
+EN: So, what can I do for you?
+
+@76C4 max=639
+JP: 買う<n>売る<n>やめる
+EN: Buy<n>Sell<n>Quit
+
+@7944 max=639
+JP: 今日もいいもの　いっぱいだよ！
+EN: Lots of great stuff in stock today!
+
+@7BC4 max=639
+JP: 何個買ってくれる？
+EN: How many would you like?
+
+@7E44 max=639
+JP: <ITEM>、<NUM>個で<n><MONEY>ｚだよ！いい？
+EN: <NUM> of <ITEM><n>comes to <MONEY>z! Sound good?
+
+@80C4 max=639
+JP: 買わないの？
+EN: Not buying?
+
+@8344 max=639
+JP: あのね　言いにくいんだけど<n>お金がたりないよ？
+EN: Well, I hate to say it,<n>but you're a little short on cash!
+
+@85C4 max=639
+JP: あれ、持ち物がいっぱいみたいだよ？
+EN: Oh! Looks like your bag's full!
+
+@8844 max=639
+JP: まいどありー！<n>まだ欲しいものある？
+EN: Thanks a bunch!<n>Anything else catch your eye?
+
+@8AC4 max=639
+JP: まいどあり！　まいどあり！<n>プッカのお店に　また来てね！
+EN: Thanks a bunch! Thanks a bunch!<n>Come back to Pukka's General Store!
+
+@8D44 max=639
+JP: なにを売ってくれるの？わくわく！
+EN: What are you selling? Ooh, I can't wait!
+
+@8FC4 max=639
+JP: 何個売ってくれる？
+EN: How many are you selling?
+
+@9244 max=639
+JP: <ITEM>、<NUM>個で<n><MONEY>ｚだよ！いい？
+EN: <NUM> of <ITEM><n>comes to <MONEY>z! Sound good?
+
+@94C4 max=639
+JP: え？売ってくんないの？
+EN: Huh? You're not selling?
+
+@9744 max=639
+JP: え？売ってくんないの？
+EN: Huh? You're not selling?
+
+@99C4 max=639
+JP: ありがとねー！<n>まだ売りたいものある？
+EN: Thank you kindly!<n>Got anything else to sell?
+
+@9C44 max=639
+JP: まいどあり！　まいどあり！<n>プッカのお店に　また来てね！
+EN: Thanks a bunch! Thanks a bunch!<n>Come back to Pukka's General Store!
+
+@9EC4 max=639
+JP: <<テキストチェック>><n>表示したい会話メッセージのIDを選んでください。
+EN: 

@@ -1,0 +1,247 @@
+# source: PSP_GAME/USRDIR/data/script/gk39.scb
+# format: scb
+# width: 44
+
+@5144 max=639
+JP: む？見たな？<p>我の姿を見てしまったな？<n>ふははは！哀れなやつめ！<p>我らはガイコツナンバーズ！<n>邪悪な秘密結社なのだ！<p>そして我は、ナンバー<GN>！<n>自分で言うのもなんだが、幹部候補だ！
+EN: Hm? You saw me?<p>You have gazed upon my fearsome form?<n>Fwahaha! You poor fool!<p>We are the Skull Numbers!<n>An evil secret society!<p>And I am Number <GN>!<n>Officer material, if I do say so myself!
+
+@53C4 max=639
+JP: む？おまえは<PN>！<n>最近ウワサの、我らの敵だな？<p>我はガイコツナンバー<GN>！<n>ここで会ったが百年目だ！ふはは！
+EN: Hm? You're <PN>!<n>Our enemy everyone's been talking about!<p>I am Skull Number <GN>!<n>At last, your reckoning is at hand! Fwahaha!
+
+@5644 max=639
+JP: …ヤア！元気かーい！<n>ずいぶん顔色いいじゃん！<p>…と、油断させておいて<n>トウッ！<p>…ふはははは！愚かな奴め！<n>我の絶妙の声色に騙されたな！<p>我はガイコツナンバー<GN>！<n>どうだ、驚いたか、ふははは！<p>もはや貴様に勝ち目はない！<n>大人しく降参するがいい！
+EN: ...Hey there! How's it going?<n>You're looking great!<p>...And with your guard down...<n>HIYAH!<p>...Fwahahaha! You fool!<n>My flawless acting had you completely fooled!<p>I am Skull Number <GN>!<n>Surprised? Fwahaha!<p>You have no hope of victory now!<n>Surrender quietly!
+
+@58C4 max=639
+JP: む！おまえは<PN>！<n>なんだ、また我らにやられに来たか！<p>我はガイコツナンバー<GN>！<n>返り討ちにしてやる！カモーン！
+EN: Ah! It's you, <PN>!<n>Back for another beating, are you?<p>I am Skull Number <GN>!<n>I'll send you packing! Come on!
+
+@5B44 max=639
+JP: 我らの目的は、邪悪な占いによって<n>この世を支配することなのだ！ふはは！<p>具体的には、恐怖の「あだな占い」で<n>全人類を精神的に打ちのめすのだ！<p>…む？聞いたな？<n>我らの正体を聞いてしまったな？<p>聞かれたからには覚悟してもらおう。<n>ふははは！泣け！叫べ！
+EN: Our goal is to rule the world<n>through evil fortune-telling! Fwahaha!<p>Specifically, our dreaded nickname fortunes<n>will crush the spirit of all humanity!<p>...Hm? You heard that?<n>You have learned our true identity?<p>Then prepare to face the consequences!<n>Fwahaha! Weep! Scream!
+
+@5DC4 max=639
+JP: 我らは巨大な秘密結社なのだ！<n>全部で、４０人…いや、５０人…<p>ええと、ひいふうみい…<p>…ふ、ふはは！<n>そんなことはどうでもよい！
+EN: Our secret society is vast!<n>We have forty... No, fifty members...<p>Let's see... One, two, three...<p>...F-Fwahaha!<n>Such details are irrelevant!
+
+@6044 max=639
+JP: ガイコツナンバーズ結成より３０年！<n>我が結社は、着々と版図を広げてきた！<p>あと５０年もあれば<n>この島の四分の一は支配できる！<p>これが何を意味するかわかるか？<n>つまり…<p>この調子でいくと<n>世界征服まであと一歩ということだ！
+EN: Thirty years since the Skull Numbers arose!<n>Our territory has steadily expanded!<p>In just fifty more years,<n>we could rule a quarter of this island!<p>Do you know what that means?<n>It means...<p>At this rate, we're just one step away<n>from world domination!
+
+@62C4 max=639
+JP: 我らの目的は、邪悪な占いによって<n>この世を支配することなのだ！ふはは！<p>具体的には、恐怖の「あだな占い」で<n>全人類を精神的に打ちのめすのだ！<p>…む？聞いたな？<n>我らの正体を聞いてしまったな？<p>聞かれたからには覚悟してもらおう。<n>ふははは！泣け！叫べ！
+EN: Our goal is to rule the world<n>through evil fortune-telling! Fwahaha!<p>Specifically, our dreaded nickname fortunes<n>will crush the spirit of all humanity!<p>...Hm? You heard that?<n>You have learned our true identity?<p>Then prepare to face the consequences!<n>Fwahaha! Weep! Scream!
+
+@6544 max=639
+JP: 我らは巨大な秘密結社なのだ！<n>全部で、４０人…いや、５０人…<p>ええと、ひいふうみい…<p>…ふ、ふはは！<n>そんなことはどうでもよい！
+EN: Our secret society is vast!<n>We have forty... No, fifty members...<p>Let's see... One, two, three...<p>...F-Fwahaha!<n>Such details are irrelevant!
+
+@67C4 max=639
+JP: ガイコツナンバーズ結成より３０年！<n>我が結社は、着々と版図を広げてきた！<p>あと５０年もあれば<n>この島の四分の一は支配できる！<p>これが何を意味するかわかるか？<n>つまり…<p>この調子でいくと<n>世界征服まであと一歩ということだ！
+EN: Thirty years since the Skull Numbers arose!<n>Our territory has steadily expanded!<p>In just fifty more years,<n>we could rule a quarter of this island!<p>Do you know what that means?<n>It means...<p>At this rate, we're just one step away<n>from world domination!
+
+@6A44 max=639
+JP: ふははは、聞いておどろくな！<p>我々は、素晴らしい情報を<n>ゲットしたのだぞ！<p>「ものしり海岸」に、われらの祖先<n>ガイコツスリーパーズの像があるという！<p>それこそ、我らの世界征服の<n>新たなカギとなるアイテムなのだ！<p>もはや勝ったも同然よ！ふははは！
+EN: Fwahaha! Prepare to be amazed!<p>We have acquired<n>some magnificent intelligence!<p>A statue of our ancestors, the Skull Sleepers,<n>stands on Know-It-All Coast!<p>That very statue shall be the new key<n>to our conquest of the world!<p>Victory is as good as ours! Fwahaha!
+
+@6CC4 max=639
+JP: くっ、それにしても…<p>ガイコツ大魔王様さえ<n>万全の体調でおられたら…。<p>花粉症とギックリ腰のせいで<n>我らが魔王様は動けないのだ！<p>くっ、無念だ！
+EN: Grr... If only...<p>If only our mighty Skull Overlord<n>were in perfect health...<p>Hay fever and a bad back<n>have left our lord unable to move!<p>Grr! The injustice!
+
+@6F44 max=639
+JP: ふふふ、その目、その表情…<n>ふふふ、我は見抜いているぞ！<p>おまえももう、我らが占いの虜よ！<p>おとなしく、わが結社に<n>忠誠を誓うのだ！ふはは！
+EN: Heh heh heh... Those eyes! That expression!<n>I can see right through you!<p>You, too, are in thrall to our fortunes!<p>Now swear your allegiance<n>to our society! Fwahaha!
+
+@71C4 max=639
+JP: ふはは！ひとつ教えてやろう！<p>ガイコツナンバーズに<n>給与は出ない！<p>全部ボランティアだ！<n>しかし泣かないぞ！
+EN: Fwahaha! Let me tell you something!<p>The Skull Numbers<n>receive no salary!<p>It's all volunteer work!<n>But I shall not cry!
+
+@7444 max=639
+JP: ふははは！貴様は知るまい！<p>我らがガイコツ大魔王様の<n>鎮座まします場所を！<p>そぞろ山の、洞窟の奥深くで<n>花粉症の治療中であることなど<p>貴様には、思いもつかない<n>秘密なのだ！ふははは！
+EN: Fwahaha! You could never guess...<p>The place where our mighty<n>Skull Overlord resides!<p>Deep in a cave on Wanderlust Mountain,<n>receiving treatment for hay fever...<p>Such a secret would never<n>even cross your mind! Fwahahaha!
+
+@76C4 max=639
+JP: ふはは！ひとつ教えてやろう！<p>我らガイコツナンバーズは<n>人類の歴史のはじめより…<p>名を変え、活動内容を変え<n>暗躍を続けてきたのだ！<p>詳しくは、ガイコツ像に添付された<n>邪悪な文書を読むがいい！<p>そして、邪悪な歴史に震えるがいい！<n>ふはははは！
+EN: Fwahaha! Let me tell you something!<p>Since the dawn of human history,<n>we Skull Numbers have...<p>Changed our name and our activities,<n>working tirelessly in the shadows!<p>For details, read the evil document<n>attached to the skeleton statue!<p>Then tremble at our wicked history!<n>Fwahahaha!
+
+@7944 max=639
+JP: ふははは！聞いて驚くな！<p>貴様が、一度手に入れたアイテムは<n>特殊なものをのぞいて…<p>ポッコという生物の経営する店で<n>買うことができるのだ！<p>だが、我らは給与を貰っていないから<n>カネはいっさい持っていない！<p>つまり、我らには、まるで<n>関係のない情報なのだ！ふはは！
+EN: Fwahaha! Prepare to be amazed!<p>Once you've obtained an item,<n>apart from certain special ones...<p>You can buy it again at a shop<n>run by a creature called Pokko!<p>But since we receive no salary,<n>we have no money whatsoever!<p>In other words, this information<n>is utterly useless to us! Fwahaha!
+
+@7BC4 max=639
+JP: ふははは！懲りないやつめ！<p>ククク、それとも<n>我らに忠誠を誓う気になったか？<p>ちなみに、我が組織に忠誠を誓うと<n>特製ハンカチがもらえるぞ！
+EN: Fwahaha! You never learn!<p>Heh heh heh... Or have you finally<n>decided to swear allegiance to us?<p>Incidentally, joining our organization<n>earns you a special handkerchief!
+
+@7E44 max=639
+JP: ならば、特別サービスで<n>貴様の友達を占ってやろう！
+EN: Then, as a special service,<n>I shall tell your friend's fortune!
+
+@80C4 max=639
+JP: ふはははは！<p>我の必殺ワザ、<UC>占いで<n>貴様を地獄に送ってやろう！
+EN: Fwahahaha!<p>My ultimate technique, <UC> fortune-telling,<n>shall send you straight to the underworld!
+
+@8344 max=639
+JP: ふっ、臆したか！<n>我の勝ちだな！ふはははは！
+EN: Hah! Lost your nerve?<n>Victory is mine! Fwahahaha!
+
+@85C4 max=639
+JP: ふははは！無謀なヤツめ！<n>我が占い、受けてみよ！
+EN: Fwahaha! Reckless fool!<n>Face the might of my fortune-telling!
+
+@8844 max=639
+JP: ふふふ、ズバリ！<p><UC>占いでいうと<n>貴様は<UN>だ！
+EN: Heh heh heh... Behold the truth!<p>According to <UC> fortune-telling,<n>you are <UN>!
+
+@8AC4 max=639
+JP: …………<p>…ぷっ！<UN>だってさ！<n>うわー、ハズカシー！<p>これから貴様が何をやっても<n>「でも<UN>だしー」<p>って言われちゃうのだぞ！<n>やーいやーい、<UN>！<p>…ふふふ、どうやら精神に<n>深い傷を負ったようだな？<p>我らの恐怖、思い知ったか！<n>ふははは！…では、さらばだ！
+EN: ............<p>...Pfft! <UN>!<n>Wow, how embarrassing!<p>Whatever you do from now on,<n>people will say, "Still <UN>, though!"<p>That's what they'll say!<n>Nyah nyah! <UN>!<p>...Heh heh heh. It seems I've dealt<n>a deep wound to your spirit!<p>Now you know true terror!<n>Fwahaha! ...Farewell!
+
+@8D44 max=639
+JP: ククク、ならば<n>貴様の友達の秘密を教えるがいい…。<p>さあ、友達を売れ、フフフフ…。
+EN: Heh heh heh... Then reveal<n>your friend's secrets to me...<p>Go on, betray your friend! Heh heh heh...
+
+@8FC4 max=639
+JP: これで良いのか？ククククク…。
+EN: Is this correct? Heh heh heh...
+
+@9244 max=639
+JP: さあ、友達を売れ、フフフフ…。
+EN: Go on, betray your friend! Heh heh heh...
+
+@94C4 max=639
+JP: これで良いのか？ククククク…。
+EN: Is this correct? Heh heh heh...
+
+@9744 max=639
+JP: さあ、友達を売れ、フフフフ…。
+EN: Go on, betray your friend! Heh heh heh...
+
+@99C4 max=639
+JP: ふふふ、ではゆくぞ？<n>貴様の友達はな…。
+EN: Heh heh heh... Shall we begin?<n>Your friend is...
+
+@9C44 max=639
+JP: <UC>占いでいうと<n><UN>だったのだ！ガーン！
+EN: According to <UC> fortune-telling,<n><UN>! Gasp!
+
+@9EC4 max=639
+JP: ふははは！<p>衝撃の事実に<n>声も出ないようだな！<p>哀れなやつめ！ふはははは！<n>…では、さらばだ！
+EN: Fwahaha!<p>The shocking truth<n>has left you speechless!<p>You poor fool! Fwahahaha!<n>...Farewell!
+
+@A144 max=639
+JP: <<テキストチェック>><n>チェックする項目を選んでください。
+EN: 
+
+@A3C4 max=639
+JP: 会話メッセージ<n>イベント用テキスト
+EN: Dialogue<n>Event Text
+
+@A644 max=639
+JP: 表示したい会話メッセージのIDを選んでください。
+EN: 
+
+@A8C4 max=639
+JP: 表示したいテキストのIDを入力してください。
+EN: 
+
+@14E64 max=359
+JP: サプリメント
+EN: Supplements
+
+@14FCC max=359
+JP: アミノ酸
+EN: Amino Acids
+
+@15134 max=359
+JP: 活動的でエネルギッシュに行動す<n>るあなたは、アミノ酸タイプ。か<n>らだを動かすのが好きなので、運<n>動するのはお勧めですが、やりす<n>ぎには注意。アミノ酸の補給をし<n>てエクササイズの疲れをためない<n>ように注意しましょう。
+EN: Active and full of energy,<n>you're the amino acid type.<n>You love to get moving, so<n>exercise is a great fit.<n>Just don't overdo it!<n>Replenish those amino acids to keep<n>workout fatigue from piling up.
+
+@1529C max=359
+JP: キトサン
+EN: Chitosan
+
+@15404 max=359
+JP: おおらかな性格をあらわす大柄で<n>ふっくらした体型が多いのが、こ<n>の、キトサンタイプ。おいしいも<n>のが大好きでつい食べ過ぎてしま<n>うので、ダイエットを気にする人<n>も多いでしょう。キトサンで、カ<n>ロリーカットがおすすめ。
+EN: Chitosan types often have big, plump<n>builds that reflect their easygoing<n>nature. You love good food and tend<n>to eat a little too much, so your<n>weight may be on your mind.<n>Chitosan is recommended to help<n>cut down on absorbed calories.
+
+@1556C max=359
+JP: コエンザイム
+EN: Coenzyme
+
+@156D4 max=359
+JP: あなたのタイプはいつまでも若々<n>しく、スラリと長い手足でスマー<n>トな身のこなしができる、コエン<n>ザイム。いきいきとした若々しい<n>からだを作るサプリのようです。<n>落ち着きなく見えたりするのだけ<n>は、注意。
+EN: Forever youthful, with long, slender<n>limbs and graceful movements...<n>You're the coenzyme type!<n>Like a supplement that builds<n>a lively, youthful body, you have<n>energy to spare. Just be careful<n>you don't come across as restless.
+
+@1583C max=359
+JP: ローヤルゼリー
+EN: Royal Jelly
+
+@159A4 max=359
+JP: 色白で透き通るような肌の人が多<n>いのが、このタイプの特徴。バイ<n>タリティのある美しい体を作るロ<n>ーヤルゼリーのように、体つきも<n>しなやかです。ただし、むくみや<n>すいので水分を摂り過ぎに注意し<n>ましょう。
+EN: Fair, almost translucent skin is<n>common among royal jelly types.<n>Like royal jelly, said to build<n>a beautiful body full of vitality,<n>you have a supple physique.<n>You're prone to puffiness, though,<n>so watch how much fluid you drink.
+
+@15B0C max=359
+JP: グルコサミン
+EN: Glucosamine
+
+@15C74 max=359
+JP: 堂々とした雰囲気があって、落ち<n>着いた話し方が特徴のあなたは、<n>節々に効くグルコサミンタイプ。<n>腰がウィークポイントになるので、<n>腰を鍛える運動をするといいかも。<n>ダイエットをするなら、心臓に負<n>担のかからないものを。
+EN: With your dignified presence and<n>calm way of speaking, you're the<n>glucosamine type, named for a joint<n>supplement. Your lower back is your<n>weak spot, so try strengthening it<n>with exercise. If you plan to lose<n>weight, choose a heart-friendly way.
+
+@15DDC max=359
+JP: カルシウム
+EN: Calcium
+
+@15F44 max=359
+JP: 神経質でストレスが溜まりやすい<n>あなたは、カルシウムタイプ。カ<n>ルシウムを上手に補給して神経の<n>イライラを静めましょう。胃が痛<n>んだりお腹を壊しやすいので、消<n>化のいい食べ物を選ぶことも体調<n>維持のポイントです。
+EN: Sensitive and quick to feel stressed,<n>you're the calcium type.<n>Keep your calcium topped up<n>to help soothe those frazzled nerves.<n>You're prone to stomachaches and<n>digestive upsets, so easy-to-digest<n>foods are a key to staying well.
+
+@160AC max=359
+JP: ポリフェノール
+EN: Polyphenols
+
+@16214 max=359
+JP: ぽっちゃり型に見られがちですが、<n>実はなかなかのナイスボディ。ポ<n>リフェノールタイプのあなたの弱<n>点は、腎臓です。からだの錆びつ<n>きを防ぐポリフェノールを補給し<n>て、若々しいスタイルを保つよう<n>に心がけましょう。
+EN: People may think you're a bit plump,<n>but you've actually got quite a figure!<n>You're the polyphenol type, and<n>your kidneys are your weak spot.<n>Top up on polyphenols to help keep<n>your body from getting rusty,<n>and maintain that youthful shape.
+
+@1637C max=359
+JP: マカ
+EN: Maca
+
+@164E4 max=359
+JP: 感情の起伏が激しいわりに、意外<n>とポーカーフェイスも得意なあな<n>たはマカタイプ。仕事や趣味に熱<n>中すると、食事も忘れてしまうス<n>トイックな傾向もあります。マカ<n>は、そんなあなたのタフな毎日を<n>サポートします。
+EN: Your emotions have their ups and downs,<n>but you're surprisingly good at<n>keeping a poker face. You're the maca<n>type! You can get so absorbed in work<n>or hobbies that you even forget to<n>eat. Maca helps support you through<n>those demanding days.
+
+@1664C max=359
+JP: クエン酸
+EN: Citric Acid
+
+@167B4 max=359
+JP: 骨太でスポーツ選手っぽいイメー<n>ジのあなたのタイプは、クエン酸。<n>からだを動かすのが好きなタイプ<n>なので、疲労をためないようにク<n>エン酸を摂ることをおすすめしま<n>す。運動で腰を痛めやすいので、<n>無理せずマイペースに。
+EN: With your sturdy frame and athletic<n>look, you're the citric acid type.<n>You love being active, so citric acid<n>is recommended to keep fatigue<n>from building up. You're prone to<n>hurting your lower back during exercise,<n>so take it easy and go at your own pace.
+
+@1691C max=359
+JP: ビタミン
+EN: Vitamins
+
+@16A84 max=359
+JP: あなたは、丈夫で長生きできるビ<n>タミンタイプです。ただし、肌は<n>弱い方なので、バランスのとれた<n>ビタミン摂取を心がけましょう。<n>小じわもできやすいので、普段の<n>お手入れやスキンケアにも気を配<n>りたいものです。
+EN: You're the vitamin type:<n>sturdy and built for a long life!<n>Your skin is delicate, though,<n>so aim for a balanced vitamin intake.<n>You're also prone to fine lines,<n>so give your everyday skin care<n>a little extra attention.
+
+@16BEC max=359
+JP: イソフラボン
+EN: Isoflavones
+
+@16D54 max=359
+JP: あなたは、中性的で少年的な体型<n>の人が多いイソフラボンタイプ。<n>不調を感じたら体調を整えるサプ<n>リメントを上手に取り入れましょ<n>う。循環器系が弱い傾向もあるの<n>で代謝にも気を配りたいものです。
+EN: You're the isoflavone type, often<n>with an androgynous, boyish build.<n>When you're feeling off, make good use<n>of supplements to help restore balance.<n>Your circulatory system tends to be weak,<n>so keep an eye on your metabolism, too.
+
+@16EBC max=359
+JP: ギムネマ
+EN: Gymnema
+
+@17024 max=359
+JP: ぽってりとした唇の人が多いあな<n>たのタイプは、ギムネマです。ち<n>ょっと太りやすい傾向があるので、<n>甘いものを食べ過ぎたと思ったら、<n>ギムネマで糖分カットしてみて。<n>感受性が強く、アレルギーにも注<n>意が必要です。
+EN: Gymnema types often have full lips.<n>You tend to put on weight easily,<n>so if you've overdone the sweets,<n>try gymnema to cut sugar absorption.<n>You're highly sensitive, too,<n>so allergies are something else<n>to watch out for.

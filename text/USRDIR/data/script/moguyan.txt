@@ -1,0 +1,59 @@
+# source: PSP_GAME/USRDIR/data/script/moguyan.scb
+# format: scb
+# width: 44
+
+@5144 max=639
+JP: なにをしますか？
+EN: What would you like to do?
+
+@53C4 max=639
+JP: 投げる<n>やめる
+EN: Throw<n>Quit
+
+@5644 max=639
+JP: なにを投げますか？
+EN: What will you throw?
+
+@58C4 max=639
+JP: <ITEM>でいいですか？
+EN: Use <ITEM>?
+
+@5B44 max=639
+JP: やー、らっしゃい。<n>俺っちはモグやん建設の平社員さ。<p>どうだい、難しいだろ、おいらたちのパズル？<p>ま、とはいえ、俺っちも鬼じゃないからね。<n>もらったドングリぶんのお礼はするよ。<p>じゃ、かるーく答えをあげようか。<n>俺っちがいまいる、このマス。<p>このマスの文字をあんたにあげるよ。
+EN: Hey, welcome!<n>I'm a Staffer at Moguyan Construction.<p>Pretty tough, huh? Our puzzle, I mean.<p>Still, I'm not a monster.<n>I'll give you a little something for those acorns.<p>How about a quick answer?<n>See this square I'm standing on?<p>I'll give you the letter that goes here.
+
+@5DC4 max=639
+JP: よーう。また会ったな。<p>じゃ、かるーく答えをあげようか。<n>俺っちがいまいる、このマス。<p>このマスの文字をあんたにあげるよ。
+EN: Hey! We meet again.<p>How about a quick answer?<n>See this square I'm standing on?<p>I'll give you the letter that goes here.
+
+@6044 max=639
+JP: おう、らっしゃい。<n>俺こそ、モグやん建設の主任サマだよ。<p>どうだい、難しいだろ、俺たちのパズル？<n>俺はゆるいパズル作りはしねえからな！<p>とはいえ、俺も鬼じゃないんだぜ？<n>もらったドングリ以上のお返しはするさ。<p>いいかい、俺がいまいる、このマス。<n>このマスから始まる、コトバの答えを<p>ずばり！あんたに教えてやるぜ。<n>いやー、さすがは俺だ、太っ腹だぜ！
+EN: Hey, welcome!<n>You're looking at Moguyan Construction's Supervisor!<p>Our puzzle's tough, huh?<n>I don't make any pushover puzzles!<p>But hey, I'm not a monster!<n>I'll give you more than those acorns are worth.<p>Now, see this square I'm standing on?<n>There's a word that starts right here...<p>And I'll tell you the whole thing!<n>Man, am I generous or what?
+
+@62C4 max=639
+JP: おう。またおまえさんか。<p>よっしゃ、それじゃ、俺がいまいる、このマス。<n>このマスから始まる、コトバの答えを<p>ずばり！あんたに教えてやるぜ。<n>いやー、さすがは俺だ、太っ腹だぜ！
+EN: Oh, you again!<p>All right, see this square I'm standing on?<n>There's a word that starts right here...<p>And I'll tell you the whole thing!<n>Man, am I generous or what?
+
+@6544 max=639
+JP: ああ、いらっしゃい。<n>私は、モグやん建設の課長をやってるよ。<p>ま、君に言うのもなんだがね。<n>中間管理職は、いろいろつらいんだよ。<p>ま、ドングリをいただいたことだし<n>ひとつ、大サービスをしようかな。<p>いいかね、このパズルのすべてのマス。<n>そう、全部のマスの答えを、一挙に！<p>すっきりさっぱり教えてあげよう。<n>なーに、課長の権限があれば可能だよ。
+EN: Ah, welcome.<n>I'm the Section Chief at Moguyan Construction.<p>I shouldn't burden you with this,<n>but middle management is no picnic.<p>Well, since you've given me those acorns,<n>how about a little special treatment?<p>Every square in this puzzle.<n>Yes, every single answer, all at once!<p>I'll reveal the whole lot for you.<n>Ah, the perks of being Section Chief.
+
+@67C4 max=639
+JP: やあ、今日も来てくれたのかね？<p>ふむ、それでは、このパズルのすべてのマス。<n>そう、全部のマスの答えを、一挙に！<p>すっきりさっぱり教えてあげよう。<n>なーに、課長の権限があれば可能だよ。
+EN: Hello! Back for another visit today?<p>Well then, every square in this puzzle.<n>Yes, every single answer, all at once!<p>I'll reveal the whole lot for you.<n>Ah, the perks of being Section Chief.
+
+@6A44 max=639
+JP: てなわけだ。参考になったかい？<n>じゃ、がんばってくれよな！
+EN: There you go. Did that help?<n>Good luck with the rest!
+
+@6CC4 max=639
+JP: てなわけだ。もう解けたも同然だろ？<n>じゃ、せいぜいがんばってな！
+EN: There you go. It's as good as solved now, huh?<n>Give it your best shot!
+
+@6F44 max=639
+JP: これで完成したも同然だよ。<n>クロスワードを開いて<p>確認してごらん、ふふふ！
+EN: It's as good as finished now.<n>Open up the crossword...<p>And see for yourself. Heh heh heh!
+
+@71C4 max=639
+JP: <<テキストチェック>><n>表示したい会話メッセージのIDを選んでください。
+EN: 

@@ -1,0 +1,2491 @@
+# source: PSP_GAME/USRDIR/data/script/daho.scb
+# format: scb
+# width: 44
+
+@5144 max=639
+JP: ……。<n>だほー。<p>人間よ、よく来たほー。<n>我は、ダホーだほー。
+EN: ...<n>Daho.<p>Welcome, human, daho.<n>I am Daho, daho.
+
+@53C4 max=639
+JP: だほー。
+EN: Daho.
+
+@5644 max=639
+JP: だほー。だほー。
+EN: Daho. Daho.
+
+@58C4 max=639
+JP: ふーむ、ふーむ、ふーむ。<p>おまえさんは、夢を通じて<n>ここに来ているようだほー。<p>ふーむ、ふーむ、ふーむ。<n>面白いことだほー。
+EN: Hmm, hmm, hmm.<p>It seems you come here<n>through your dreams, daho.<p>Hmm, hmm, hmm.<n>How very curious, daho.
+
+@5B44 max=639
+JP: 我は妖精界の大臣、だほー。<n>外交を担当しているほー。<p>この島を守る、賢者たちとの<n>交渉のためにここにいるほー。
+EN: I am a minister of the fairy world, daho.<n>I handle foreign affairs, daho.<p>I am here to negotiate with<n>the sages who protect this island, daho.
+
+@5DC4 max=639
+JP: この島に来て、１００年ほどになるほー。<n>ずいぶん、休みを取ってないほー。
+EN: I have been on this island for about a hundred years, daho.<n>It has been quite some time since my last holiday, daho.
+
+@6044 max=639
+JP: だほー？妖精は、どこに住んでいるか？<n>妖精界が、ホームグラウンドだほー。<p>この島は、人間世界、妖精界、プルル界<n>いろんな世界の中間にあるほー。<p>妖精界からも<n>フェリーに乗って１日半で来られるほー。<p>ただし、普通の人間や妖精は<n>ぜったいに島に入れないほー。
+EN: Daho? Where do fairies live?<n>The fairy world is our home, daho.<p>This island lies between many worlds:<n>the human world, the fairy world, the Pururu world...<p>From the fairy world, it is just<n>a day and a half by ferry, daho.<p>Ordinary humans and fairies, however,<n>cannot enter this island at all, daho.
+
+@62C4 max=639
+JP: もう百年ほど、帰っていないが<n>妖精界はどうなっているかほー。<p>…ま、いいか、ほー。
+EN: I have not been home in a hundred years.<n>I wonder how the fairy world is doing, daho.<p>...Oh well, daho.
+
+@6544 max=639
+JP: この島にいる、クレレという生き物は<n>生まれたての貧乏神だほー。<p>子供とはいえ、神は神<n>妖精にとっては上司にあたるほー。
+EN: The creature called Kurere who lives here<n>is a newborn god of poverty, daho.<p>A god is a god, even as a child.<n>That makes Kurere our superior, daho.
+
+@67C4 max=639
+JP: ああ、ここはいいところだほー。<n>特に仕事もないだほー。<p>このまま、いつまでも<n>ここにいたいだほー…。
+EN: Ah, what a lovely place this is, daho.<n>There is hardly any work to do, daho.<p>I would like to stay here<n>forever and ever, daho...
+
+@6A44 max=639
+JP: さっきの話を、また聞きたいのか？ふーむ。
+EN: You want to hear that story again? Hmm, daho.
+
+@6CC4 max=639
+JP: こんな話だった…
+EN: It went like this...
+
+@6F44 max=639
+JP: こんな話だった。<n>また来るといい。ほー。
+EN: That was the story, daho.<n>Do come again, daho.
+
+@71C4 max=639
+JP: ふーむ。ふーむ。ふーむ。<p>人間の世界は、面白いものだ。ほー。<n>最近も、意外な話を聞いたのだが…<p>ひとつ、話してあげようか。ほー？
+EN: Hmm. Hmm. Hmm.<p>The human world is fascinating, daho.<n>I heard something surprising just recently...<p>Would you like to hear it, daho?
+
+@7444 max=639
+JP: ふーむ。ふーむ。<n>その話というのは…
+EN: Hmm. Hmm.<n>Well, the story goes...
+
+@76C4 max=639
+JP: こんな話だった。<n>この世界は、驚きに満ちている。ふーむ。<p>また来るといい。ほー。
+EN: That was the story, daho.<n>This world is full of wonders. Hmm.<p>Do come again, daho.
+
+@7944 max=639
+JP: <HEXP>の経験値を獲得
+EN: Gained <HEXP> experience points.
+
+@7BC4 max=639
+JP: ふーむ。ふーむ。ふーむ。<n>では、また来るといい。ほー。
+EN: Hmm. Hmm. Hmm.<n>Well then, do come again, daho.
+
+@7E44 max=639
+JP: <<テキストチェック>><n>チェックする項目を選んでください。
+EN: 
+
+@80C4 max=639
+JP: 会話メッセージ<n>イベント用テキスト
+EN: Dialogue<n>Event Text
+
+@8344 max=639
+JP: 表示したい会話メッセージのIDを選んでください。
+EN: 
+
+@85C4 max=639
+JP: 表示したいテキストのIDを入力してください。
+EN: 
+
+@14E64 max=359
+JP: 日本一長い川は信濃川だほ。<n>その長さは３６７キロメートル。<p>ほぼ、東海道本線の東京ー名古屋の距離だほほ。
+EN: Japan's longest river is the Shinano, daho.<n>It is 367 kilometers long.<p>That is about the distance from Tokyo to Nagoya on the Tokaido Main Line, daho.
+
+@14FCC max=359
+JP: 日本一長い川は信濃川。<n>その長さは３６７キロメートル。<n>ほぼ、東海道本線の東京ー名古屋の距離。
+EN: Japan's longest river is the Shinano.<n>It is 367 kilometers long.<n>That is about the distance from Tokyo to Nagoya on the Tokaido Main Line.
+
+@15134 max=359
+JP: ドイツの地球物理学者ウェゲナーの<n>「大陸移動説」によると、<p>３億年ほど前の地球は<n>「パンゲア」というひとつの巨大な大陸だったほ。
+EN: According to German geophysicist Wegener's<n>theory of continental drift...<p>About 300 million years ago, Earth's land<n>formed one huge continent called Pangaea, daho.
+
+@1529C max=359
+JP: ドイツの地球物理学者ウェゲナーの<n>「大陸移動説」によると、約３億年むかしの地球は<n>「パンゲア」と呼ばれるひとつの大きな<n>大陸であったと言う。
+EN: According to German geophysicist Wegener's<n>theory of continental drift, about 300 million years ago,<n>Earth's land formed one huge continent<n>called Pangaea.
+
+@15404 max=359
+JP: 太陽の黒点は黒く見えるけど、<n>その温度は３５００ｋもあって、<p>そこだけ取り出してみれば満月よりも明るいのだほ。
+EN: Sunspots look black,<n>but they are still a scorching 3,500 K.<p>Seen on their own, they would shine brighter than the full moon, daho.
+
+@1556C max=359
+JP: 太陽の黒点は黒く見えるが、その温度は３５００Kも<n>あり、そこだけ取り出してみると満月よりも明るい。<n>黒点を取り巻く太陽の表面が５７００Kもあるため、<n>黒く見えるのである。
+EN: Sunspots look black, but their temperature is 3,500 K.<n>Seen on their own, they would shine brighter than the full moon.<n>They look black because the Sun's surface around them<n>is even hotter, at 5,700 K.
+
+@156D4 max=359
+JP: 「加油」は中国語でガンバレの意味だほほ。
+EN: 'Jiayou' means 'Keep it up!' in Chinese, daho.
+
+@1583C max=359
+JP: 「加油」とは中国語でガンバレの意味。
+EN: 'Jiayou' means 'Keep it up!' in Chinese.
+
+@159A4 max=359
+JP: 金太郎は坂田金時という実在の人物なんだほ。
+EN: Kintaro was a real person named Sakata no Kintoki, daho.
+
+@15B0C max=359
+JP: 日本昔話に登場する太郎のうち、<n>金太郎は、坂田金時という実在の人物である。
+EN: Of the heroes whose names end in 'taro' in Japanese folktales,<n>Kintaro was a real person named Sakata no Kintoki.
+
+@15C74 max=359
+JP: 「五臓六腑」の、五臓は、<n>肺臓、心臓、肝臓、腎臓、脾臓。<p>六腑は、<n>大腸、小腸、胃、胆、膀胱、三焦のことだほほ。
+EN: In traditional medicine, the five solid organs are<n>the lungs, heart, liver, kidneys and spleen.<p>The six hollow organs are the large intestine,<n>small intestine, stomach, gallbladder, bladder and triple burner, daho.
+
+@15DDC max=359
+JP: 「五臓六腑」の、五臓は、<n>肺臓、心臓、肝臓、腎臓、脾臓。<n>六腑は、大腸、小腸、胃、胆、膀胱、三焦。
+EN: In traditional medicine, the five solid organs are<n>the lungs, heart, liver, kidneys and spleen.<n>The six hollow organs are the large intestine, small intestine, stomach, gallbladder, bladder and triple burner.
+
+@15F44 max=359
+JP: ダーウィンの進化論でよく知られている<n>ガラパゴス諸島の正式名称は、コロン諸島だほ。<p>ガラパゴスというのは<n>スペイン語でカメのことなんだほほ。
+EN: The Galapagos Islands, famous for their role in<n>Darwin's theory of evolution, are officially the Colon Islands, daho.<p>'Galapagos' is Spanish<n>for 'tortoises,' daho.
+
+@160AC max=359
+JP: １８３５年に生物学者のダーウィンが訪れ、<n>独特の生態系の観察から「種の起源」を著わした<n>ガラパゴス諸島。その正式名称はコロン諸島と言う。<n>ガラパゴスとはスペイン語で亀のことで、<n>数多くのゾウガメが生息していたことから<n>この呼び名が一般的になってしまったと考えられる。
+EN: Darwin visited the Galapagos Islands in 1835.<n>Observing their unique ecosystem led him to write<n>On the Origin of Species. Their official name is the Colon Islands.<n>'Galapagos' is Spanish for 'tortoises.'<n>The name likely caught on because so many<n>giant tortoises lived there.
+
+@16214 max=359
+JP: 「手紙」は中国語では<n>トイレットペーパーのことだほほ。
+EN: The characters for 'tegami,' Japanese for 'letter,'<n>mean 'toilet paper' in Chinese, daho.
+
+@1637C max=359
+JP: 「手紙」は中国語では<n>トイレットペーパーを意味する。
+EN: The characters for 'tegami,' Japanese for 'letter,'<n>mean 'toilet paper' in Chinese.
+
+@164E4 max=359
+JP: 最初にパンダと名付けられたのは、<n>レッサーパンダなんだほ。<p>でも、後から発見された<n>ジャイアントパンダの方が有名になってしまい、<p>パンダといえば、ジャイアントパンダを<n>指すようになってしまったんだほ。
+EN: The first animal to be called a panda<n>was the red panda, daho.<p>But the giant panda, discovered later,<n>became much more famous.<p>Now, when people say 'panda,'<n>they mean the giant panda, daho.
+
+@1664C max=359
+JP: 最初にパンダと名付けられたのは、<n>レッサーパンダであった。<n>しかし、後から発見された<n>ジャイアントパンダの方が有名になってしまい、<n>パンダといえば、ジャイアントパンダを<n>指すようになってしまった。
+EN: The first animal to be called a panda<n>was the red panda.<n>However, the giant panda, discovered later,<n>became much more famous.<n>Now, when people say 'panda,'<n>they mean the giant panda.
+
+@167B4 max=359
+JP: サハラ砂漠の砂塵は<n>東風にのって大西洋を渡り、<p>西インド諸島や<n>南北アメリカ大陸にまでも届くだほ。
+EN: Dust from the Sahara Desert<n>rides easterly winds across the Atlantic...<p>Reaching as far as the West Indies<n>and North and South America, daho.
+
+@1691C max=359
+JP: サハラ砂漠の砂塵は<n>東風にのって大西洋を渡り、<n>西インド諸島や<n>南北アメリカ大陸にまでも届く。
+EN: Dust from the Sahara Desert<n>rides easterly winds across the Atlantic,<n>reaching as far as the West Indies<n>and North and South America.
+
+@16A84 max=359
+JP: 日本一深い湖は田沢湖だほ。<n>その深さは４２３．４メートルだほ。
+EN: Japan's deepest lake is Lake Tazawa, daho.<n>It is 423.4 meters deep, daho.
+
+@16BEC max=359
+JP: 日本一深い湖は田沢湖。<n>その深さは４２３．４メートル。
+EN: Japan's deepest lake is Lake Tazawa.<n>It is 423.4 meters deep.
+
+@16D54 max=359
+JP: 七つの大罪を言えるだほか？<p>高慢、貪欲、色情、怒気、暴食、羨望、怠惰だほほ。
+EN: Can you name the seven deadly sins, daho?<p>Pride, greed, lust, wrath, gluttony, envy and sloth, daho!
+
+@16EBC max=359
+JP: 七つの大罪とは、<n>高慢、貪欲、色情、怒気、暴食、羨望、怠情である。
+EN: The seven deadly sins are<n>pride, greed, lust, wrath, gluttony, envy and sloth.
+
+@17024 max=359
+JP: ドーバー海峡の海崖が白いのは、<n>海底に生息する肉質虫類の有孔虫の死骸の殻が<p>古代から延々と堆積したものだほほ。
+EN: The cliffs along the Strait of Dover are white<n>because the shells of tiny sea creatures called foraminifera<p>have piled up there since ancient times, daho!
+
+@1718C max=359
+JP: ドーバー海峡は「ドーバーの白い崖」と呼ばれるが、<n>この白さは、有孔虫と呼ばれる海生生物の死骸の殻が<n>古代から堆積してできたものである。
+EN: The White Cliffs of Dover overlook the Strait of Dover.<n>Their white color comes from the shells of sea creatures<n>called foraminifera, which built up over countless ages.
+
+@172F4 max=359
+JP: 君と一緒に陰口をきく者は、君の陰口もきくだろう。<p>スペインのことわざではそう言うんだほ。
+EN: 'Those who gossip with you will gossip about you.'<p>That's a Spanish proverb, daho.
+
+@1745C max=359
+JP: 「君と一緒に陰口をきく者は、<n>君の陰口もきくだろう」<n>スペインのことわざ。
+EN: 'Those who gossip with you<n>will gossip about you.'<n>A Spanish proverb.
+
+@175C4 max=359
+JP: 「命あっての物種」。<p>生きてればこそできる、<n>死んだらもともこもない、の意味だほ。<p>物種は物事の元になるものってことで、<n>命あってのものだね～、と同意を<p>求めてるんじゃないだほ。
+EN: 'Life is the seed of all things.'<p>You can only do things while you're alive.<n>Die, and it's all for nothing, daho.<p>Monodane means a source or seed. It isn't<n>'mono da ne,' as if you're asking,<p>'You need life for that, right?' daho!
+
+@1772C max=359
+JP: 「命あっての物種」<n>何をするにも命があればこそ、だという意味。<n>命への感謝のときにも、死んだらもともこもない、<n>と物事を断念する場合にも使われる。
+EN: 'Life is the seed of all things.'<n>It means being alive makes everything else possible.<n>It's used to express gratitude for life, or to give up<n>something dangerous: there's no point if it kills you.
+
+@17894 max=359
+JP: シンガポールという名は、<n>この島に上陸した人物が獅子と出会ったので、<p>サンスクリット語の獅子と町をつなげて<n>名づけたらしいだほ。<p>でもこの人は虎を見間違えたのでは？<n>と言われてるだほほ。
+EN: They say a man who landed on Singapore<n>met a lion there, so he named the island<p>by combining the Sanskrit words<n>for 'lion' and 'city,' daho.<p>But some say what he saw<n>was actually a tiger, daho!
+
+@179FC max=359
+JP: シンガポールとはサンスクリット語で「獅子」と<n>「町」という言葉をつなげて生まれたとされている。<n>サン・ニラ・ウタマという伝説上の人物が<n>この島に上陸したときに出会った動物が獅子だった<n>と言う。シンガポールの名の由来には<n>他にも諸説あるうえに、この島にライオンがいたと<n>いう証拠もないのだと言い、ナゾのままである。
+EN: Singapore is said to combine the Sanskrit words for 'lion'<n>and 'city.' According to legend, Sang Nila Utama<n>saw a lion when he landed on the island.<n>But there are other theories<n>about the name's origins, and no evidence<n>that lions ever lived there.<n>It remains a mystery.
+
+@17B64 max=359
+JP: 食後のケーキが別腹なのは、脳にオレキシンという<n>摂食促進物質が分泌するからだほ。<p>オレキシンが胃をゆるめ、<n>胃の中身を小腸に送りだすだほ。<p>それで胃にケーキ分のゆとりができるんだほ。
+EN: There's always room for cake after dinner because your brain<n>releases an appetite booster called orexin, daho.<p>Orexin relaxes your stomach<n>and sends its contents into the small intestine.<p>That makes a little extra room for cake, daho!
+
+@17CCC max=359
+JP: 甘味は脳にベータ・エンドルフィンなどの麻薬様物質<n>を出し、その結果ドーパミンが分泌。そして、脳の摂<n>食中枢が刺激され食欲がわき、さらにオレキシンとい<n>う摂食促進物質を分泌して、胃をゆるめ、胃の内容物<n>を小腸へと送り出すなど、消化器活動を活発にする。<n>これが、デザートが別腹になるしくみである。
+EN: Sweets trigger opiate-like chemicals such as beta-endorphin<n>in the brain, followed by dopamine.<n>This stimulates the hunger center and boosts appetite.<n>Then orexin, an appetite stimulant, is released.<n>It relaxes the stomach and moves food into the small intestine,<n>speeding up digestion.<n>That's how we find extra room for dessert.
+
+@17E34 max=359
+JP: 高地に出かけた人はしばしば高山病にかかるだほが、<n>高地に住んでる人は高山病にはならないだほ。<p>でも平地に下りて再び高地に戻ると<n>高山病になってしまうだほほ。
+EN: Visitors to high places often get altitude sickness,<n>but people who live there don't, daho.<p>Still, if they go down to the lowlands and then return,<n>they can get altitude sickness too, daho!
+
+@17F9C max=359
+JP: 高地に出かけた人がかかる高山病。<n>高山に住んでいる人々は通常より赤血球が多いため、<n>平地に住む人よりも酸素不足に強いと言われている。<n>しかし、いったん平地に降り、再び高地に戻ると、<n>高山病の症状に悩まされることもあるらしい。
+EN: Altitude sickness can affect visitors to high places.<n>People living at high altitudes have more red blood cells,<n>so they're said to cope better with low oxygen levels.<n>But if they visit the lowlands and then return home,<n>they may suffer from altitude sickness too.
+
+@18104 max=359
+JP: 千葉の九十九里浜の距離は約６０キロメートル、<n>十五里しかないのだほほ。
+EN: Chiba's Kujukuri Beach means '99-ri beach,'<n>but it's only about 60 kilometers long, or 15 ri, daho!
+
+@1826C max=359
+JP: 千葉の九十九里浜の距離は約６０キロメートル。<n>十五里しかない。
+EN: Chiba's Kujukuri Beach means '99-ri beach,'<n>but it's only about 60 kilometers long, or 15 ri.
+
+@183D4 max=359
+JP: 中国の「黄海」、ロシア北西部の「白海」、<n>アフリカ大陸とアラビア半島の間の「紅海」も、<p>海の水がその色に見えるから名づけられただほ。
+EN: China's Yellow Sea, northwest Russia's White Sea,<n>and the Red Sea between Africa and the Arabian Peninsula<p>all got their names from the apparent color of their water, daho.
+
+@1853C max=359
+JP: 中国の「黄海」、ロシア北西部の「白海」、<n>アフリカ大陸とアラビア半島の間の「紅海」は<n>いずれも海の水がその色に見えることから<n>名づけられている。
+EN: China's Yellow Sea, northwest Russia's White Sea,<n>and the Red Sea between Africa and the Arabian Peninsula<n>were all named after the color<n>their waters appear to be.
+
+@186A4 max=359
+JP: 夜空にかかる光のカーテン、オーロラ。<p>そのカーテンの厚さは５００メートルほどだほ。<n>しかもオーロラの出ている部分は真空に近いのだほ。<p>だからこのカーテンに体を巻いて遊ぶのは<n>無理だほほ。
+EN: An aurora is a curtain of light in the night sky.<p>That curtain is about 500 meters thick, daho.<n>And the air around it is almost a vacuum.<p>So you can't wrap yourself up in that curtain<n>for a bit of fun, daho!
+
+@1880C max=359
+JP: オーロラの厚さは約５００メートルほどで、<n>発生している部分の空気は真空に近い。
+EN: An aurora is about 500 meters thick.<n>The air where it occurs is almost a vacuum.
+
+@18974 max=359
+JP: 「今が最悪だ！」などと言えるうちは、<n>本当の最悪ではない。<p>「リア王」のセリフなんだほ。
+EN: As long as you can say, 'This is the worst!'<n>you haven't reached the worst yet.<p>That's a line from King Lear, daho.
+
+@18ADC max=359
+JP: 「今が最悪だ！」などと言えるうちは、<n>本当の最悪ではない。<n>「リア王」より。
+EN: As long as you can say, 'This is the worst!'<n>you haven't reached the worst yet.<n>From King Lear.
+
+@18C44 max=359
+JP: 稲は「息」「命」のイと<n>「根」のネからできた、<p>生命の根、という意味だほほ。
+EN: Ine, Japanese for rice, gets its 'i'<n>from iki, 'breath,' or inochi, 'life,'<p>and 'ne' from 'root.' It means 'root of life,' daho!
+
+@18DAC max=359
+JP: 稲は「息」や「命」のイと、「根」のネからできた、<n>生命の根という言葉から生まれている。
+EN: Ine, Japanese for rice, combines 'i' from iki, 'breath,'<n>or inochi, 'life,' with ne, 'root,' to mean 'root of life.'
+
+@18F14 max=359
+JP: 話すことの二倍、人から聞くべきである。<n>デモステネスがそう言ってるだほ。
+EN: You should listen twice as much as you speak.<n>That's what Demosthenes said, daho.
+
+@1907C max=359
+JP: 「話すことの二倍、人から聞くべきである」<n>デモステネスの言葉。
+EN: 'You should listen twice as much as you speak.'<n>The words of Demosthenes.
+
+@191E4 max=359
+JP: 砂漠では集中豪雨によって<n>１年分の平均降水量の雨が１日で降って、<p>河ができることがあるだほ。<p>これがワジと呼ばれる幻の河で、<n>ほんの１～２日でまた砂漠に戻ってしまうだほほ。
+EN: In a desert, a downpour can bring<n>a whole year's average rainfall in a single day,<p>creating a river, daho.<p>These phantom rivers are called wadis.<n>In just a day or two, they're desert again, daho!
+
+@1934C max=359
+JP: 砂漠にはワジと呼ばれる幻の川がある。<n>アラビア語で川を意味するワジは、<n>普段は水が流れていない。しかし、１日の雨が<n>１年の平均降水量分も降ることのある砂漠では、<n>ある日、ワジが本当の川になるときがある。
+EN: Deserts have phantom rivers called wadis.<n>Wadi is an Arabic word for river.<n>They normally have no flowing water.<n>But a desert can get a whole year's rain in one day,<n>and suddenly a wadi becomes a real river.
+
+@194B4 max=359
+JP: 発言に説得力を持たせたいときは、<n>相手から２メートルほど離れた<p>見下ろせる位置に立つと、<n>もっとも威圧できるだほほ。
+EN: Want to make your words carry more weight?<n>Stand about two meters from the other person<p>in a spot where you can look down on them.<n>That's the most intimidating position, daho!
+
+@1961C max=359
+JP: 話す相手を威圧したいなら、<n>相手より２メートルほど離れて見下ろす位置を<n>確保することが最も効果的である。
+EN: To intimidate someone you're speaking to,<n>the most effective position is about two meters away,<n>somewhere you can look down on them.
+
+@19784 max=359
+JP: ウサギは「一羽」と数えるだほほ。<p>肉食を禁じられて、ウサギを鳥だと言いはって<n>食べてた時代の名残りだほほ。
+EN: In Japanese, rabbits are counted like birds, daho.<p>It's a relic of a time when eating meat was forbidden.<n>People ate rabbits by insisting they were birds, daho!
+
+@198EC max=359
+JP: ウサギの数え方は「一羽」。<n>肉食を禁じられ、ウサギを鳥だと言いはって<n>食べてた時代の名残りである。
+EN: Rabbits are counted with wa, the Japanese counter for birds.<n>It's a relic of a time when eating meat was forbidden,<n>so people ate rabbits while insisting they were birds.
+
+@19A54 max=359
+JP: 「犬も歩けば棒に当たる」は、<p>でしゃばると思いがけず<n>災難にあうよといういましめだほ。<p>でも、積極的に出ると思いがけない幸運に会う、<n>という使い方もされることもあるだほほ。
+EN: 'Even a dog out walking may get hit with a stick.'<p>It's a warning that sticking your nose out<n>can bring unexpected trouble, daho.<p>But it's also used to mean that taking action<n>can bring unexpected good fortune, daho!
+
+@19BBC max=359
+JP: 「犬も歩けば棒に当たる」<n>棒にあたるとは棒で打たれるの意味で、<n>犬も出歩いていれば打たれることもあるの意味。<n>転じて、でしゃばると思いがけない災難にあう、<n>ということ。<n>しかし、積極的に出ると思いがけない幸運に会う、<n>という使い方をされることもある。
+EN: 'Even a dog out walking may get hit with a stick.'<n>The stick here means getting struck by one.<n>Even a dog may get hit if it wanders around.<n>In other words, sticking your nose out<n>can bring unexpected trouble.<n>But it's also used to mean that taking action<n>can bring unexpected good fortune.
+
+@19D24 max=359
+JP: アメリカンフットボールを漢字で書くと<n>「鎧球」になるだほ。<p>鎧のような防具をつけてプレイする<n>スポーツだからなんだほほ。
+EN: An old Japanese name for American football<n>is gaikyu, written with the characters for 'armor' and 'ball.'<p>That's because the players wear protective gear<n>that looks like armor, daho!
+
+@19E8C max=359
+JP: 「鎧球（がいきゅう）」とは、<n>アメリカンフットボールのこと。<n>鎧のような防具をつけてプレイすることから。
+EN: Gaikyu, or 'armor ball,' is a Japanese name<n>for American football.<n>It refers to the armor-like protective gear players wear.
+
+@19FF4 max=359
+JP: 人の味覚は砂糖より塩に厳しいんだほ。<p>塩は必須物質なのに体内に蓄えられないので、<n>人が必要とする濃度の塩分を<p>最もおいしいと感じるような<n>仕組みになっているからなんだほほ。
+EN: We're fussier about the taste of salt than sugar, daho.<p>Salt is essential, but our bodies can't store it,<n>so the amount of salt we need<p>is also the amount that tastes best.<n>That's how we're built, daho!
+
+@1A15C max=359
+JP: 人の味覚は砂糖よりも塩に厳しい。<n>塩は必須物質なのに、体内に蓄えることができない。<n>そのため、人が必要とする塩分を<n>最もおいしいと感じるような仕組みになっていると<n>考えられている。
+EN: Our sense of taste is fussier about salt than sugar.<n>Salt is essential, but our bodies can't store it.<n>It's thought that this is why the salt concentration<n>our bodies need is also the one<n>we find most delicious.
+
+@1A2C4 max=359
+JP: 「手前みそ」というのは<n>自家製の味噌のことだほが、<p>みんなが自分のとこの味噌がいちばんうまい<n>と言うことから、転じて自慢することを言うだほほ。
+EN: Temae miso means<n>'homemade miso,' daho.<p>Everyone said their own miso tasted best,<n>so the phrase came to mean bragging about yourself, daho!
+
+@1A42C max=359
+JP: 「手前みそ」<n>自家製の味噌のこと。<n>うちの味噌がいちばんうまい、と口々に言うため、<n>転じて、自分を自慢するという意味になった。
+EN: Temae miso means 'homemade miso.'<n>Everyone would boast,<n>'Our miso tastes the best!'<n>So the phrase came to mean praising yourself.
+
+@1A594 max=359
+JP: 「ぴかいち」の語源は、花札の手役なんだほ。<p>初めに配られた七枚の札のうち、一枚が二十点札で、<n>残り六枚がカス札だと役になるだほ。<p>二十点札を「光り物」というので、<n>この役を「光一（ぴかいち）」と呼ぶんだほ。
+EN: 'Pikaichi,' meaning 'the very best,' comes from a hanafuda card hand, daho.<p>Of the seven cards dealt, one must be worth 20 points,<n>and the other six must be junk cards, daho.<p>The 20-point cards are called 'bright cards,'<n>so this hand is 'pikaichi': 'one bright card,' daho.
+
+@1A6FC max=359
+JP: 花札で、初めに配られた七枚の札のうち、<n>一枚が二十点札で、残り六枚がカス札のとき<n>役になる。二十点札を「光り物」というので、<n>この役は「光一（ぴかいち）」と呼ばれ、<n>転じて、一番優れているという意味になった。
+EN: In hanafuda, a starting hand of seven cards qualifies<n>if one card is worth 20 points and the other six are junk.<n>The 20-point cards are called 'bright cards,'<n>so this hand is called 'pikaichi,' or 'one bright card.'<n>The word came to mean 'the very best.'
+
+@1A864 max=359
+JP: 月から地球を眺めると、<n>「満地球」は満月より１０倍近くも明るいのだほほ。<p>お地球見で団子もオツだほほ。
+EN: Seen from the Moon, a 'full Earth'<n>is almost ten times brighter than a full moon, daho!<p>Earth-viewing with sweet dumplings... Now that's classy, daho.
+
+@1A9CC max=359
+JP: 月が新月のときに月から地球を眺めると、<n>地球は完全に照らされ「満地球」になる。<n>このときの明るさは、満月の１０倍近くだと<n>考えられている。
+EN: When we see a new moon, someone on the Moon would see<n>a fully lit Earth: a 'full Earth.'<n>It's thought to be nearly ten times as bright<n>as the full moon we see from Earth.
+
+@1AB34 max=359
+JP: 端午の節句に柏餅を食べるのは、<n>柏の木は新芽が出るまで古い葉は落ちないことから、<p>家系が絶えないようにという意味なのだほほ。
+EN: Why eat oak-leaf rice cakes on Children's Day?<n>Oak trees keep their old leaves until new shoots appear, daho.<p>So the cakes express a wish for the family line to carry on, daho.
+
+@1AC9C max=359
+JP: 柏の木は新芽が出るまで古い葉を落とさない。<n>それゆえ、家系が絶えないという願いをこめて、<n>端午の節句には柏餅を食べると言われている。
+EN: Oak trees keep their old leaves until new shoots appear.<n>That's why people eat oak-leaf rice cakes on Children's Day:<n>to wish for an unbroken family line.
+
+@1AE04 max=359
+JP: 君が話してる相手が一瞬でも目をそらしたなら、<n>間違いなく君のその話題か、<p>あるいは君自身を拒否しているサインだほ。<n>話題を変えるか、君が帰るかだほほ。
+EN: If someone looks away while you're talking,<n>even for a moment, they're rejecting either the topic...<p>or you, daho.<n>Time to change the subject or head home, daho!
+
+@1AF6C max=359
+JP: 話している最中に相手が視線をはずすことがあるなら、<n>相手はその話題に飽きているか、<n>その会話自体を拒否している可能性がある。<n>アイコンタクトをはずすのは、<n>多かれ少なかれ「拒否」のサインである。
+EN: If someone looks away during a conversation,<n>they may be bored with the topic,<n>or unwilling to continue the conversation itself.<n>Breaking eye contact is, to some degree,<n>a sign of rejection.
+
+@1B0D4 max=359
+JP: 仏像は「一頭」、お地蔵さまは「一尊」と<n>数えるだほほ。
+EN: One Buddhist statue is 'ittou,' while one Jizo statue<n>is 'isson.' Different Japanese counters, daho!
+
+@1B23C max=359
+JP: 仏像の数え方は「一頭」。<n>お地蔵さまの数え方は「一尊」。
+EN: In Japanese, one Buddhist statue is counted as 'ittou.'<n>One Jizo statue is counted as 'isson.'
+
+@1B3A4 max=359
+JP: 世界がぜんたい幸福にならないうちは<n>個人の幸福はあり得ない。宮沢賢治の言葉だほ。
+EN: Until the whole world is happy,<n>there can be no individual happiness. Kenji Miyazawa said that, daho.
+
+@1B50C max=359
+JP: 「世界がぜんたい幸福にならないうちは<n>個人の幸福はあり得ない」<n>宮沢賢治の言葉。
+EN: "Until the whole world is happy,<n>there can be no individual happiness."<n>Words of Kenji Miyazawa.
+
+@1B674 max=359
+JP: 「泣き面に蜂」。<n>この人は蜂に刺されて泣いてるのではないだほよ。<p>つらくて泣いてるとこを蜂に刺されるみたいに、<n>不運が重なることのたとえだほほ。
+EN: 'A bee on a crying face.'<n>No, they're not crying because they got stung, daho.<p>They're already crying, THEN a bee stings them!<n>It's a saying about one misfortune piling onto another, daho.
+
+@1B7DC max=359
+JP: 「泣き面に蜂」<n>泣いているところに、さらに蜂に刺されること。<n>転じて、不運が重なることを言う。
+EN: 'A bee on a crying face.'<n>Getting stung by a bee when you're already crying.<n>A Japanese saying about one misfortune following another.
+
+@1B944 max=359
+JP: 己の欲せざるところ、人に施すことなかれ。<n>孔子は言ってるだほ。
+EN: Do not do to others what you would not want done to you.<n>That's what Confucius said, daho.
+
+@1BAAC max=359
+JP: 「己の欲せざるところ、人に施すことなかれ」<n>孔子の言葉。
+EN: "Do not do to others what you would not want done to you."<n>Words of Confucius.
+
+@1BC14 max=359
+JP: 古代ギリシャ時代、左手の薬指は<p>心臓から直接血液が流れている<n>大切な指と考えられていたんだほ。<p>だから、結婚指輪をする指になったんだほほ。
+EN: In ancient Greece, the left ring finger<p>was thought to be special because blood flowed to it<n>directly from the heart, daho.<p>That's why it became the wedding-ring finger, daho.
+
+@1BD7C max=359
+JP: 古代ギリシャ時代、左手の薬指は<n>心臓から直接血液が流れている<n>大切な指と考えられていた。<n>その言い伝えから、<n>結婚指輪をする指になったといわれている。
+EN: In ancient Greece, the left ring finger<n>was thought to receive blood directly from the heart,<n>making it an important finger.<n>That belief is said to be the reason<n>we wear wedding rings on that finger.
+
+@1BEE4 max=359
+JP: 「張本人」の「張本」は<n>事前に準備をするという意味があるだほ。<p>だから、事件の原因を作った人や<n>悪事をたくらんだ首謀者を「張本人」と呼ぶんだほ。
+EN: In 'chohonnin,' Japanese for 'the culprit,'<n>'chohon' means making preparations, daho.<p>That's why someone who causes trouble<n>or masterminds a crime is a 'chohonnin,' daho.
+
+@1C04C max=359
+JP: 「張本人」の「張本」は<n>事前に準備をするという意味である。<n>そこから、事件の原因を作った人や<n>悪事をたくらんだ首謀者を<n>「張本人」と呼ぶようになった。
+EN: The 'chohon' in 'chohonnin,' meaning 'the culprit,'<n>means making preparations.<n>That's how 'chohonnin' came to describe<n>someone who causes an incident<n>or masterminds a crime.
+
+@1C1B4 max=359
+JP: すっぱい時に口をすぼめてとがらせるのは、<n>だ液をためて、<p>酸っぱさを中和しているのだほ。<p>すっぱさの素の水素イオンを、<n>だ液に含まれる重炭酸イオンが<p>減らしてくれるのだほほ。
+EN: When you eat something sour, you pucker your lips<n>to collect saliva, daho.<p>That helps neutralize the sourness, daho.<p>The bicarbonate ions in saliva reduce<n>the hydrogen ions...<p>which are what make things taste sour, daho!
+
+@1C31C max=359
+JP: 人が酸っぱいものを食べて口をすぼめるのは、<n>口をすぼませることで口の中に唾液をためて、<n>酸っぱさを中和しているのだと考えられている。
+EN: People are thought to pucker their lips when eating sour food<n>because it helps saliva collect in the mouth,<n>neutralizing the sourness.
+
+@1C484 max=359
+JP: 「味噌汁一杯三里の力」といって、<n>味噌汁を一杯飲むと三里歩いても疲れないほど<p>力がつくと言われてるだほ。<p>三里ってのは１２キロメートルだほほ。
+EN: They say, 'One bowl of miso soup gives strength for three ri.'<n>A bowl gives you enough energy to walk that far<p>without getting tired, daho.<p>Three ri is twelve kilometers, daho!
+
+@1C5EC max=359
+JP: 「味噌汁一杯三里の力」<n>味噌汁を一杯飲むと、三里（１２キロメートル）<n>歩いても疲れないほどに力がつくと言う。
+EN: 'One bowl of miso soup gives strength for three ri.'<n>It's said that one bowl gives you enough energy to walk<n>three ri, or twelve kilometers, without getting tired.
+
+@1C754 max=359
+JP: 相手が、君に向かって<n>アゴをつきだして話してたら、<p>その人は君に優越感をもってるだほほ。
+EN: If someone's talking to you<n>with their chin jutting out...<p>they're feeling superior to you, daho.
+
+@1C8BC max=359
+JP: アゴを上げるしぐさには、相手を見下し、自分を<n>えらくみせたいという心理が働いている。相手より<n>自分が強いと虚勢を張りたい人がとるポーズである。
+EN: Raising the chin suggests looking down on someone<n>and wanting to seem important. It's a pose people use<n>to put on a show of being stronger than the other person.
+
+@1CA24 max=359
+JP: お茶を「一煎」入れて「一服」でもするだほほ。<p>おやつは団子「一串」か、<n>スイカ「一玉」か、カステラ「一釜」か、<p>どれがいいだほほ？
+EN: Let's brew some tea and enjoy a cup, daho.<p>For a snack, a skewer of dumplings,<n>a whole watermelon, or a batch of castella cake...<p>What'll it be, daho?
+
+@1CB8C max=359
+JP: お茶を入れるときは「一煎」。<n>飲むときは「一服」。<n>団子は「一串」。スイカは「一玉」。<n>カステラは「一釜」。
+EN: For tea, count each brewing as 'issen,'<n>and each serving as 'ippuku.'<n>Dumplings: 'hitokushi,' a skewer. Watermelons: 'hitotama,' a whole melon.<n>Castella cakes: 'hitokama,' a batch.
+
+@1CCF4 max=359
+JP: 「汽車」は中国語では<n>自動車のことだほほ。<p>電車のことは「火車」と書くだほほ。
+EN: The characters for the Japanese word 'kisha,' a steam train,<n>mean a car in Chinese, daho.<p>A train is written 'fire vehicle' in Chinese, daho!
+
+@1CE5C max=359
+JP: 「汽車」は中国語では自動車のこと。<n>電車のことは「火車」と書く。
+EN: The characters for 'kisha,' Japanese for a steam train, mean a car in Chinese.<n>The Chinese word for a train is written 'fire vehicle.'
+
+@1CFC4 max=359
+JP: ヨーロッパでは「右」には<n>正しいや好意的のようなよい意味があり、<p>「左」には不正や悪魔的といった<n>好ましくない意味があり、右上位なのだほほ。
+EN: In Europe, 'right' has good associations,<n>like being correct or favorable, daho.<p>'Left' has bad associations, like dishonesty or the devil.<n>So right comes out on top, daho.
+
+@1D12C max=359
+JP: ヨーロッパでは「右」には好意的な意味が、<n>「左」には不正や悪魔という意味合いがある。
+EN: In Europe, 'right' has favorable associations,<n>while 'left' suggests dishonesty or the devil.
+
+@1D294 max=359
+JP: 星の素になる物質ができるまでに数百万年、<n>そこから約１０００万年かけて星になるだほ。<p>銀河系の標準的な星は<n>約５００億年の寿命を生きるのだほほ。
+EN: It takes millions of years for a star's raw material to form,<n>then about ten million more for it to become a star, daho.<p>A typical star in our galaxy<n>lives for about fifty billion years, daho.
+
+@1D3FC max=359
+JP: 星は、星の素になる物質ができるまでに<n>数百万年もかかる。そのあと、約１０００万年かけて<n>やっと星となる。そして、銀河系の星の<n>平均寿命は約５００億年と考えられている。
+EN: It takes millions of years for a star's raw material<n>to form, then about ten million more for it to become<n>a star. The average lifespan of a star in our galaxy<n>is thought to be about fifty billion years.
+
+@1D564 max=359
+JP: 底に落ちたことのない人間は、<n>上に上がることもない。<p>ロシアのことわざだほ。
+EN: Those who have never hit bottom<n>will never rise to the top.<p>That's a Russian proverb, daho.
+
+@1D6CC max=359
+JP: 「底に落ちたことのない人間は、<n>上に上がることもない」<n>ロシアのことわざ。
+EN: "Those who have never hit bottom<n>will never rise to the top."<n>A Russian proverb.
+
+@1D834 max=359
+JP: 「善は急げ」。<n>善いと思ったことはすぐ実行しようという意味だほ。<p>でも「急いてはことを仕損じる」ともいうだほほ。<n>どうするだほほ。
+EN: 'Waste no time doing good.'<n>If you think something's good, do it right away, daho.<p>But they also say, 'Haste makes waste,' daho.<n>So what are we supposed to do, daho?
+
+@1D99C max=359
+JP: 「善は急げ」<n>善いことはすぐに実行せよ、という意味。
+EN: 'Waste no time doing good.'<n>It means you should put good intentions into action at once.
+
+@1DB04 max=359
+JP: 「清浄」は１０の-２１乗を表しているだほ。<p>ここまでくると、もう音もなく<n>静かになってしまうのだほほ。
+EN: The Japanese number name 'seijo' stands for 10^-21, daho.<p>At that scale, everything becomes so small<n>it's practically silent, daho.
+
+@1DC6C max=359
+JP: 「清浄」は１０の-２１乗を表す数字。
+EN: The Japanese number name 'seijo' represents 10^-21.
+
+@1DDD4 max=359
+JP: 「気が置けない人」は、<n>気の許せない人のことじゃないだほ。<p>何でも気兼ねなく話せたり、<n>打ち解けたりできる人のことだほほ。
+EN: 'Ki ga okenai' doesn't mean someone<n>you can't trust, daho.<p>It means someone you can talk to freely<n>and feel completely at ease with, daho!
+
+@1DF3C max=359
+JP: 「気が置けない」<n>気遣いや遠慮のいらないこと。<n>気兼ねする意味の「気が置ける」の否定形。
+EN: 'Ki ga okenai': feeling no need for formality<n>or restraint around someone.<n>It's the negative of 'ki ga okeru', meaning to feel reserved.
+
+@1E0A4 max=359
+JP: 中国は漢では右上位だったのに<n>唐の時代は左上位に逆転しただほ。<p>日本は唐の文化に影響を受けたので、<n>左大臣は右大臣よりエライのだほほ。
+EN: In Han China, the right outranked the left,<n>but in the Tang era, that flipped, daho.<p>Japan adopted Tang culture, so its Minister of the Left<n>outranked its Minister of the Right, daho!
+
+@1E20C max=359
+JP: 漢の時代は右上位で、左より右の方が貴ばれていたが、<n>唐の時代になると逆に左上位となった。<n>この時代の文化に大きく影響を受けた日本では、<n>左大臣の方が右大臣より上位の地位である。
+EN: In Han China, the right was honored above the left.<n>In the Tang era, the left took precedence instead.<n>Japan was heavily influenced by Tang culture,<n>so its Minister of the Left outranked its Minister of the Right.
+
+@1E374 max=359
+JP: ワサビが鼻にツーンとくるのは、<n>辛味成分アリルイソチオシアネートが<p>揮発性なためだほ。<p>それが鼻孔内で痛覚を伝える受容体を<n>刺激するからツーンとするのだほ。
+EN: Wasabi stings your nose because<n>its pungent ingredient, allyl isothiocyanate,<p>evaporates easily, daho.<p>It stimulates the pain receptors inside your nose,<n>and that's what gives you that sting, daho!
+
+@1E4DC max=359
+JP: ワサビの辛味成分は<n>揮発性のアリルイソチオシアネート。<n>ワサビを食べると口の中で揮発し、<n>鼻孔内で痛感を伝える受容体を刺激。<n>これがツーンという感覚を生むと考えられている。
+EN: Wasabi's pungent ingredient is<n>the volatile compound allyl isothiocyanate.<n>When you eat wasabi, it evaporates in your mouth<n>and stimulates pain receptors inside your nose.<n>This is thought to cause that stinging sensation.
+
+@1E644 max=359
+JP: 「野菜」は中国語では野草のことだほほ。<n>野菜のことは「青菜」と書くだほほ。
+EN: The characters for Japan's 'yasai', or vegetables,<n>mean wild plants in Chinese. Vegetables are written 'qingcai', daho!
+
+@1E7AC max=359
+JP: 「野菜」は中国語では野草のこと。<n>野菜のことは「青菜」と書く。
+EN: The characters for Japan's 'yasai', or vegetables, mean wild plants in Chinese.<n>Vegetables are written 'qingcai'.
+
+@1E914 max=359
+JP: １００グラムの納豆には<n>約１０００億個の納豆菌が入ってるだほほ。
+EN: Just 100 grams of natto contain<n>about 100 billion natto bacteria, daho!
+
+@1EA7C max=359
+JP: 納豆１００グラムには、約１０００億個の<n>納豆菌が入っていると言われている。
+EN: A 100-gram serving of natto is said to contain<n>about 100 billion natto bacteria.
+
+@1EBE4 max=359
+JP: 漢の時代の中国は右と左では右が上だったほ。<n>右には貴いという意味があり、<p>右に出る「右腕」はいい意味だほ。<p>左は卑しいと意味があり、<n>「左遷」「左前」の言葉が生まれただほほ。
+EN: In Han China, the right outranked the left, daho.<n>'Right' carried the meaning of 'honorable'.<p>So being someone's 'right-hand man' is a good thing, daho.<p>'Left' meant 'lowly', giving Japanese phrases like<n>'leftward transfer' for demotion and 'left-front' for hard times, daho!
+
+@1ED4C max=359
+JP: 漢の時代、右には貴く左は卑しいとされていた。<n>そのために「右腕となる」といういい意味の言葉と、<n>「左遷」や「左前」は悪い意味の言葉が生まれた。
+EN: In Han China, the right was honorable and the left was lowly.<n>Hence positive phrases like 'right-hand man', while Japanese uses<n>'leftward transfer' for demotion and 'left-front' for financial trouble.
+
+@1EEB4 max=359
+JP: 「刹那」は１０の-１８乗の数を表しているだほ。<n>ほんの一瞬にも満たない短い感じ、なんだほほ。
+EN: 'Setsuna' is a Japanese name for the number 10^-18, daho.<n>It suggests a time too short to even call an instant, daho!
+
+@1F01C max=359
+JP: 「刹那」はほんの一瞬にも満たない短い感じ。<n>１０の-１８乗の表す数字。
+EN: 'Setsuna' suggests a time shorter than an instant.<n>It's also a Japanese name for the number 10^-18.
+
+@1F184 max=359
+JP: 腕組みは、腕を組む位置で<n>動作の持つ潜在的な意味が違うだほ。<p>高いとこで組むのは「威嚇」の意味だほ。<n>逆に低い位置で組んでる場合は「防御」なのだほ。
+EN: When you fold your arms, their height<n>can reveal a hidden meaning, daho.<p>Fold them high, and it means 'intimidation', daho.<n>Fold them low, and it means 'defense', daho!
+
+@1F2EC max=359
+JP: 人と対したときの腕の組み方には潜在的な意識があら<n>われる。高い位置で腕を組む場合は「威嚇」。<n>逆に低い位置で腕を組む場合は「防御」。<n>無意識に組んだ腕の高さで相手の心理が読める。
+EN: How you fold your arms when facing someone can reveal<n>your subconscious feelings. Folding them high means 'intimidation'.<n>Folding them low means 'defense'.<n>The height of someone's unconsciously folded arms can reveal their state of mind.
+
+@1F454 max=359
+JP: 筆は「一管」と数えるだほほ。
+EN: In Japanese, one writing brush is counted as 'ikkan', daho!
+
+@1F5BC max=359
+JP: 筆の数え方は「一管」。
+EN: One writing brush is counted as 'ikkan' in Japanese.
+
+@1F724 max=359
+JP: 七つの海を言えるだほか？<p>北太平洋、南太平洋、北大西洋、南大西洋、<n>インド洋、南極海、北極海。<p>言えただほか？
+EN: Can you name the seven seas, daho?<p>The North and South Pacific, North and South Atlantic,<n>Indian, Southern and Arctic Oceans.<p>Did you get them all, daho?
+
+@1F88C max=359
+JP: 七つの海。<n>北太平洋、南太平洋、北大西洋、南大西洋、<n>インド洋、南極海、北極海。
+EN: The seven seas:<n>The North and South Pacific, North and South Atlantic,<n>Indian, Southern and Arctic Oceans.
+
+@1F9F4 max=359
+JP: 星は放送後のテレビの砂あらし映像みたいな音を<n>たてているだほ。
+EN: Stars make a sound like the static on a TV<n>after the broadcasts end, daho!
+
+@1FB5C max=359
+JP: 星は音をたてている。その音は単調で、<n>それは放送終了後のテレビに流れる砂あらし映像の<n>音に似ている。
+EN: Stars make a steady, monotonous sound.<n>It resembles the hiss of TV static<n>after the broadcasts end.
+
+@1FCC4 max=359
+JP: 素人なのに、専門家のようなすぐれた技を持つ人を<n>「玄人裸足（くろうとはだし）」というだほ。<p>専門家が恥ずかしくなって、<n>裸足で逃げ出してしまうからだほ。
+EN: An amateur whose skills rival a professional's is called<n>'kurouto hadashi', or 'barefoot expert', daho.<p>That's because the experts are so embarrassed,<n>they run away without even putting on shoes, daho!
+
+@1FE2C max=359
+JP: 「玄人裸足（くろうとはだし）」<n>素人なのに専門家よりもすぐれた技を<n>持っていること。<n>玄人が裸足で逃げ出すことから。
+EN: 'Kurouto hadashi', literally 'barefoot expert':<n>An amateur whose skills surpass<n>those of a professional.<n>The idea is that experts flee barefoot in embarrassment.
+
+@1FF94 max=359
+JP: お雛様は関東と関西では男雛と女雛の並びが逆だほ。<p>唐の時代の左上位にならって<n>関西では男雛が左（向かって右）、<p>女雛が右（向かって左）。<n>関東風は西洋式の右上位なので逆なのだほほ。
+EN: Male and female Hina dolls swap places between Kanto and Kansai, daho.<p>Following the Tang custom of honoring the left, Kansai puts<n>the male doll on his left, your right, daho.<p>The female sits on her right, your left.<n>Kanto follows the Western custom of honoring the right, so it's reversed, daho!
+
+@200FC max=359
+JP: お雛様の並びは関東と関西で逆。<n>唐の時代の左上位にのっとって<n>関西では男雛が左（向かって右）で、<n>女雛が右（向かって左）。<n>関東では西洋式の右上位にのっとっているため、<n>その逆になっている。
+EN: Hina dolls sit in opposite places in Kanto and Kansai.<n>Kansai follows the Tang custom of honoring the left:<n>The male sits on his left, the viewer's right,<n>and the female on her right, the viewer's left.<n>Kanto follows the Western custom of honoring the right,<n>so their positions are reversed.
+
+@20264 max=359
+JP: 国破山河在　城春草木深　<n>杜甫「春望」の一節なんだほ。
+EN: 'The nation lies ruined; mountains and rivers remain. Spring in the city; grass and trees grow thick.'<n>That's from Du Fu's 'Spring View', daho.
+
+@203CC max=359
+JP: 「国破山河在　城春草木深」　<n>杜甫「春望」の一節。
+EN: 'The nation lies ruined; mountains and rivers remain. Spring in the city; grass and trees grow thick.'<n>A passage from Du Fu's 'Spring View'.
+
+@20534 max=359
+JP: 「好きこそものの上手なれ」は、<n>好きなことだと自然と上達も早いってことだほ。<p>でも「下手の横好き」もいるだほほ。<n>自分はどっちなのか、クールに判断せにゃだめだほ。
+EN: 'Love makes you skillful' means<n>you improve faster at things you enjoy, daho.<p>But some folks stay bad at what they love, daho!<n>Take a cool, honest look at which one you are, daho.
+
+@2069C max=359
+JP: 「好きこそものの上手なれ」<n>好きなことには天分があったり、熱中できるため、<n>上達も早く、上手になれるという意味。<n>反対に、天分もなくいつまでも下手なのに<n>懲りずにずっと好きな様子を<n>「下手の横好き」と言う。
+EN: 'Love makes you skillful.'<n>Talent or enthusiasm for something you enjoy<n>helps you improve quickly and become skilled.<n>On the other hand, some people have no talent<n>and never improve, yet never lose their love for it.<n>They're enthusiastic amateurs.
+
+@20804 max=359
+JP: 「弾指」は１０の-１７乗の数を表しているだほ。<n>指を弾くほどの間、という意味なんだほ。
+EN: 'Danshi' is a Japanese name for the number 10^-17, daho.<n>It means the time it takes to snap your fingers, daho!
+
+@2096C max=359
+JP: 「弾指」は指を弾くほどの間、という意味。<n>１０の-１７乗を表す数字。
+EN: 'Danshi' means the time it takes to snap your fingers.<n>It's also a Japanese name for the number 10^-17.
+
+@20AD4 max=359
+JP: のどもと過ぎれば熱さも忘れる、のは食道以外の<n>消化器官には温度を感じる部分がないからだほほ。
+EN: 'Once past the throat, the heat is forgotten', daho.<n>That's because the digestive organs beyond the esophagus have no temperature sensors, daho!
+
+@20C3C max=359
+JP: 「のどもと過ぎれば熱さも忘れる」は格言だが、<n>実際に食道から先の消化管には温度を感じる場所<n>「温点」は存在しない。
+EN: 'Once past the throat, the heat is forgotten' is a maxim.<n>In fact, beyond the esophagus, the digestive tract has no<n>'warm spots' that sense temperature.
+
+@20DA4 max=359
+JP: 朝顔は平安朝の始めの頃に<n>薬として中国から実を輸入したのが<p>はじまりらしいだほ。
+EN: Morning glories apparently first came to Japan<n>as seeds imported from China in the early Heian period<p>for use as medicine, daho.
+
+@20F0C max=359
+JP: 朝顔は平安朝の始めの頃に<n>薬として中国から輸入された。
+EN: Morning glories were imported from China as medicine<n>in the early Heian period.
+
+@21074 max=359
+JP: 北極圏で繁殖する渡り鳥キョクアジサシは、<n>よりにもよって南極大陸で冬を過ごすため、<p>１６０００キロを飛ぶのだほほ。
+EN: Arctic terns breed in the Arctic,<n>then spend winter in Antarctica, of all places!<p>They fly 16,000 kilometers to get there, daho!
+
+@211DC max=359
+JP: キョクアジサシは北極圏で繁殖し、<n>南極大陸で冬を過ごす。<n>その距離１６０００キロメートルも飛ぶ渡り鳥だ。
+EN: Arctic terns breed in the Arctic<n>and spend winter in Antarctica.<n>These migrating birds fly a distance of 16,000 kilometers.
+
+@21344 max=359
+JP: 納豆には、<n>プロテアーゼ、アミラーゼ、リパーゼ、セルラーゼ、<p>サッカラーゼ、ウレアーゼ、ラクターゼ、<n>パーオキシターゼなどの<p>酵素が含まれているだほほ。
+EN: Natto contains enzymes such as<n>protease, amylase, lipase, cellulase,<p>saccharase, urease, lactase<n>and peroxidase...<p>Quite a lineup, daho!
+
+@214AC max=359
+JP: 納豆は天然の酵素食品である。<n>プロテアーゼ、アミラーゼ、リパーゼ、セルラーゼ、<n>サッカラーゼ、ウレアーゼ、ラクターゼ、<n>パーオキシターゼなどの酵素が含まれている。
+EN: Natto is a natural source of enzymes.<n>These include protease, amylase, lipase, cellulase,<n>saccharase, urease, lactase<n>and peroxidase.
+
+@21614 max=359
+JP: 「瞬息」は１０の-１６乗の数を表しているだほ。<n>ほんの一瞬の、という意味なんだほほ。
+EN: 'Shunsoku' is a Japanese name for 10^-16, daho.<n>It means the briefest of moments, daho!
+
+@2177C max=359
+JP: 「瞬息」はほんの一瞬の、という意味。<n>１０の-１６乗を表す数字。
+EN: 'Shunsoku' means the briefest of moments.<n>It is a Japanese name for the number 10^-16.
+
+@218E4 max=359
+JP: ヘビにもちゃんと胴体とシッポの境目があるだほ。<n>よく見るとウロコのつき方が違ってるだほほ。
+EN: Even snakes have a proper boundary between body and tail, daho.<n>Look closely, and you'll see the scales change there, daho!
+
+@21A4C max=359
+JP: ヘビのウロコは頭に近い部分は横幅に広く、<n>後方は二列に並んでいる。このウロコの境目が<n>ヘビの胴体とシッポの境目でもある。
+EN: A snake's belly scales are broad toward the head, while those farther back form two rows.<n>The change marks where its body ends and its tail begins.
+
+@21BB4 max=359
+JP: 動物がしきりに毛繕いをしたり、<n>目をそらしたりするときは<p>恐怖や緊張を緩和しようとしているだほ。<n>それを「転位行動」と言うだほ。
+EN: When animals keep grooming themselves or looking away...<p>They're trying to ease their fear or tension, daho.<n>That's called 'displacement behavior,' daho.
+
+@21D1C max=359
+JP: 動物は、恐怖や緊張を緩和しようとするとき<n>毛繕いや目をそらすなどの行動をとる。<n>それを「転位行動」という。
+EN: Animals may groom themselves or look away to ease fear or tension.<n>This is called 'displacement behavior.'
+
+@21E84 max=359
+JP: 泳いでるマグロは「一匹」だけど、<n>魚屋の店頭に並ぶと「一尾」になって、<p>切り身になると「一冊」になって、<n>刺身になると「一切れ」になるだほほ。
+EN: In Japanese, a swimming tuna is counted as 'ippiki.'<n>At the fishmonger's, it becomes 'ichibi,' daho.<p>Cut into a block, it's 'hitosaku.'<n>As a slice of sashimi, it's 'hitokire,' daho!
+
+@21FEC max=359
+JP: 泳いでるマグロの数え方は「一匹」。<n>魚屋の店頭では「一尾」。<n>切り身では「一冊」。<n>刺身では「一切れ」。
+EN: Japanese counters for tuna change with its form:<n>Swimming: 'ippiki.'<n>At the fishmonger's: 'ichibi.'<n>A block of meat: 'hitosaku.'<n>A slice of sashimi: 'hitokire.'
+
+@22154 max=359
+JP: 目に見えている宇宙の中だけでも<n>１０００億もの銀河があって、<p>そこには数十億の星があるだほ。<p>星の数ほどある、というのは<n>星以外にはないほどの数なんだほほ。
+EN: Even just the universe we can see contains 100 billion galaxies, daho.<p>And each has billions of stars, daho.<p>'As many as the stars' means so many, only stars could measure up, daho!
+
+@222BC max=359
+JP: 私たちの目に見えている宇宙の中だけでも<n>１０００億個もの銀河があり、それぞれには<n>数十億もの星がある。
+EN: Even just the observable universe contains 100 billion galaxies, each with billions of stars.
+
+@22424 max=359
+JP: 「けっこう毛だらけ猫灰だらけ」っていうのは、<n>たいへん結構、上出来という意味だほ。<p>ちょっとおどけて言うときの表現なんだほほ。
+EN: The Japanese saying 'Fine as can be, cats all sooty!' means something is excellent, daho.<p>It's just a silly way to say it, daho!
+
+@2258C max=359
+JP: 「けっこう毛だらけ猫灰だらけ」<n>たいへん結構、上出来という意味。<n>ちょっとおどけて言うときの表現。
+EN: 'Fine as can be, cats all sooty!'<n>A playful rendering of a Japanese saying meaning 'excellent' or 'well done.'
+
+@226F4 max=359
+JP: ナマケモノは食べたものが<n>胃から腸におくられるまで１カ月以上かかるだほほ。<p>ナマケモノなのは胃の動きだほか？
+EN: It takes over a month for a sloth's food to move from its stomach to its intestines, daho!<p>Maybe its stomach is the real sloth, daho?
+
+@2285C max=359
+JP: ナマケモノの胃は大きくくびれている上に、<n>脳への伝達が遅いため、胃の食べ物が腸に送り出す<n>までに１カ月以上もかかると言う。
+EN: A sloth's stomach has deep constrictions, and signals to its brain travel slowly.<n>Food is said to take over a month to pass from its stomach to its intestines.
+
+@229C4 max=359
+JP: おかしくてたまらないとき、<n>「ヘソで茶を沸かす」と言うだほ。<p>あまりにも、ばかばかしくて<n>あきれてしまうという意味なんだほほ。
+EN: When something is too funny for words, the Japanese say it could 'boil tea in your belly button,' daho.<p>It means something is so ridiculous, all you can do is laugh, daho!
+
+@22B2C max=359
+JP: 「ヘソで茶を沸かす」<n>あまりにも、ばかばかしくて<n>あきれてしまうこと。
+EN: 'Boil tea in your belly button.'<n>A Japanese saying for something so ridiculous that all you can do is laugh.
+
+@22C94 max=359
+JP: 「袖すり合うも他生の縁」は、<n>袖降り合うも他生の縁とも言うだほ。<p>知らない人とすれ違いざまに袖が触れ合うのも<n>前世からのご縁という意味だほ。<p>赤い糸もあるやもしれんだほほ。
+EN: 'Even brushing sleeves is a bond from a past life.'<n>There's a version about sleeves waving, too, daho.<p>It means even brushing past a stranger happens because you knew each other in a past life, daho.<p>Maybe a red thread of fate connects you, daho!
+
+@22DFC max=359
+JP: 「袖すり合うも他生の縁」<n>他生とは前世のこと。<n>知らない人とすれちがいざまに袖が触れるのも、<n>前世からの縁があるからだ、という意味。<n>着物の袖には霊魂が宿るとも考えられていた。
+EN: 'Even brushing sleeves is a bond from a past life.'<n>The saying means that even brushing a stranger's sleeve happens because of a bond from a previous life.<n>People also believed that spirits dwelled in kimono sleeves.
+
+@22F64 max=359
+JP: スケートリンクの氷は不純物の少ない水を<n>５０度ぐらいに沸かしてから霧状にしてまくのだほ。<p>そして一気に凍らせて、またお湯をまきまた凍らせて<n>を５～６度くりかえして作るのだほほ。
+EN: Ice rinks are made by heating very pure water to about 50 degrees Celsius, then spraying it as a mist, daho.<p>It's frozen quickly, then sprayed and frozen again. Repeat five or six times, and there's your rink, daho!
+
+@230CC max=359
+JP: スケートリンクの氷は不純物の少ない水で作られる。<n>５０度程度に沸かしたものを霧状にしてまいて、<n>一気に冷却。という作業を何回か繰り返して、<n>滑走に耐えられるリンクを作りあげると言う。
+EN: Ice rinks are made with very pure water.<n>The water is heated to about 50 degrees Celsius, sprayed as a mist, then rapidly frozen.<n>Repeating this process builds ice strong enough for skating.
+
+@23234 max=359
+JP: 「恒河沙」は「ごうがしゃ」と読んで、<n>ガンジス川の砂という意味なんだほほ。<p>砂ほどの数の多さなんだほほ。<n>ちなみに１０の５２乗を表す数字だほほ。
+EN: 'Gogasha' means 'the sands of the Ganges,' daho.<p>It's a number as vast as all those grains of sand, daho!<n>To be exact, it means 10^52, daho.
+
+@2339C max=359
+JP: 「恒河沙」は「ごうがしゃ」と読む。<n>ガンジス川の砂という意味で、<n>砂ほどの数の多さを指す。<n>ちなみに１０の５２乗を表す数字。
+EN: 'Gogasha' is a Japanese number name meaning 'the sands of the Ganges.'<n>It suggests a number as vast as those grains of sand.<n>Its value is 10^52.
+
+@23504 max=359
+JP: うどんのコシは小麦に含まれるグルテンだほ。<p>グルテンはグリアジンとグルテニンという<n>性質の違う２つのタンパク質でできてるだほ。<p>ここに水が加わることであのコシが出るだほほ。
+EN: Udon gets its chewy bite from the gluten in wheat, daho.<p>Gluten is made from two proteins with different properties: gliadin and glutenin, daho.<p>Add water, and that lovely chew develops, daho!
+
+@2366C max=359
+JP: うどんなどの麺類のコシは小麦に含まれるグルテンと<n>いう物質によって生まれる。<n>グルテンはグリアジンとグルテニンという２つのタン<n>パク質からできており、ここに水が加わることで独特<n>のコシのあるグルテンになる。
+EN: Noodles such as udon get their chewy bite from gluten in wheat.<n>Gluten forms from two proteins, gliadin and glutenin.<n>Adding water allows them to form gluten with its distinctive springy texture.
+
+@237D4 max=359
+JP: 断食を長時間して胃がからっぽになると、<n>体内の脂肪が分解して「ケトン体」という物質が出て<p>食欲中枢に空腹感をなくすよう刺激するのだほほ。
+EN: When you fast for a long time and your stomach is empty, your body breaks down fat and produces substances called ketone bodies...<p>They signal your brain's appetite center to switch off hunger, daho!
+
+@2393C max=359
+JP: 長時間の断食により胃がからっぱになると、<n>体内の脂肪が分解され、<n>「ケトン体」という物質が出る。<n>この物質が食欲中枢に働きかけ、<n>空腹感をなくすようにと刺激を送り出す。
+EN: During a long fast, once the stomach is empty, the body breaks down fat and produces substances called ketone bodies.<n>These act on the brain's appetite center, signaling it to suppress hunger.
+
+@23AA4 max=359
+JP: 大根は消化がいいからめったにあたらない。<p>ってんで、あたらない役者のことを<n>「大根役者」と言うだほほ。
+EN: Daikon radishes are easy to digest, so they rarely make you sick, daho.<p>In Japanese, getting sick and scoring a hit both use 'ataru.' So actors who never score a hit are called 'daikon actors,' daho!
+
+@23C0C max=359
+JP: 「大根役者」<n>消化のいい大根は、めったにあたらないので、<n>転じてあたらない役者のことを大根役者と<n>呼ぶようになった。
+EN: 'Daikon actor' means a bad actor.<n>Daikon is easy to digest and rarely makes you sick. In Japanese, getting sick and scoring a hit both use 'ataru.'<n>So an actor who never scores a hit is a 'daikon actor.'
+
+@23D74 max=359
+JP: やたらと大きな声でしゃべりたがる人は<n>臆病ものに間違いないだほ。<p>自分に自信がないから、<n>声の大きさだけを武器にするのだほ。<p>小さい犬ほどよく吠えるだほ。
+EN: People who insist on talking at the top of their lungs are scaredy-cats, daho.<p>They lack confidence, so volume is their only weapon, daho.<p>The smallest dogs bark the most, daho!
+
+@23EDC max=359
+JP: 臆病ものほど大声でしゃべりたがる。<n>自分の自信のなさを隠すために、<n>声の大きさだけを武器にしているのである。
+EN: The more timid someone is, the louder they tend to talk.<n>They use sheer volume as their only weapon to hide their lack of confidence.
+
+@24044 max=359
+JP: 「無量大数」とは１０の６８乗の数のことだほ。<n>とにかくすっごく大きい数、ってことなんだほほ。
+EN: 'Muryo taisu' is the Japanese name for 10^68, daho.<n>It means a really, really enormous number, daho!
+
+@241AC max=359
+JP: 「無量大数」とは１０の６８乗の数。<n>とにかくすっごく大きい数、という意味。
+EN: 'Muryo taisu' is the Japanese name for 10^68.<n>It means a really, really enormous number.
+
+@24314 max=359
+JP: 東日本と西日本で電気の周波数が違うのは、<n>東日本エリアはドイツ製の発電機、<p>西日本エリアはアメリカ製の発電機を<n>独自に輸入したからだほほ。
+EN: Eastern and western Japan use different electrical frequencies because the east imported German generators...<p>While the west independently imported American ones, daho!
+
+@2447C max=359
+JP: 西日本と東日本で電気の周波数が異なる。<n>東京はドイツ製発電機。大阪はアメリカ製発電機。<n>明治２８年に誕生した東京と大阪の<n>２つの電力会社がそれぞれに別の外国製の発電機を<n>独自に輸入したことに端を発している。
+EN: Eastern and western Japan use different electrical frequencies.<n>It began when two power companies established in Tokyo and Osaka in 1895 independently imported generators.<n>Tokyo chose German generators, while Osaka chose American ones.
+
+@245E4 max=359
+JP: 何も書かれてないハガキは「一葉」だけど、<n>書いて送ると「一通」になるだほほ。
+EN: In Japanese, a blank postcard is counted as 'ichiyo.'<n>Write on it and send it, and it becomes 'ittsuu,' daho!
+
+@2474C max=359
+JP: 何も書かれてないハガキの数え方は「一葉」、<n>書いて送ると「一通」。
+EN: In Japanese, a blank postcard is counted as 'ichiyo.'<n>Once written on and sent, it is counted as 'ittsuu.'
+
+@248B4 max=359
+JP: 「急がば回れ」は、<n>たとえ遠回りでも安全な道を選んだ方が<p>目的地に確実にたどり着けるよ、という意味だほほ。<n>急ぐときほど冷静な判断力だほほ。
+EN: 'When in a hurry, take the long way around.'<n>Even if it's a detour, choosing the safe route...<p>Means you're sure to reach your destination, daho.<n>The more you hurry, the more you need a cool head, daho!
+
+@24A1C max=359
+JP: 「急がば回れ」<n>急いでいるときには、少し遠回りになろうとも、<n>安全で確実な道を選んだ方が、<n>結果的に早く着くという意味。
+EN: 'When in a hurry, take the long way around.'<n>It means that choosing a safe, reliable route, even with a slight detour, will get you there sooner in the end.
+
+@24B84 max=359
+JP: 地震雷火事親父。<n>この世で恐ろしいものを順にあげたものだほ。
+EN: 'Earthquakes, lightning, fires, fathers.'<n>That's an old Japanese list of the world's scariest things, in order, daho.
+
+@24CEC max=359
+JP: 地震雷火事親父。<n>この世で恐ろしいものを順にあげたもの。
+EN: 'Earthquakes, lightning, fires, fathers.'<n>An old Japanese list of the world's scariest things, in order.
+
+@24E54 max=359
+JP: サクッとかパリッとした食感の食品は<n>食品の分子がこわれやすい形で止まってるんだほ。<p>この分子が水分や温度変化で動きだすと<n>「しける」だほほ。
+EN: Crunchy, crispy foods have molecules locked<n>in a form that breaks easily, daho.<p>When moisture or temperature changes get those molecules<n>moving, the food goes soft, daho!
+
+@24FBC max=359
+JP: せんべい、ポテトチップスのように、<n>パリッとした食感の食品は、<n>食品を構成している分子が不規則に並んでいて、<n>「ガラス状態」という壊れやすい固体になっている。<n>ここに水分や温度の上昇が加わると分子が動きだす。<n>この状態を「しける」と言う。
+EN: Crispy foods like rice crackers and potato chips<n>have molecules arranged in no regular pattern.<n>They form a brittle solid known as<n>a 'glassy state'.<n>Moisture or rising temperatures get the molecules moving.<n>This makes the food lose its crispness.
+
+@25124 max=359
+JP: 愛とは決して後悔しないこと。<n>「ある愛の詩」ではそう言ってるだほ。
+EN: Love means never having to say you're sorry.<n>That's what they say in 'Love Story', daho.
+
+@2528C max=359
+JP: 「愛とは決して後悔しないこと」<n>「ある愛の詩」より。
+EN: 'Love means never having to say you're sorry.'<n>From 'Love Story'.
+
+@253F4 max=359
+JP: 「いわしの頭も信心から」とは、<n>いわしの頭のようにつまらないものでも<p>信心すればありがたく思えるようになるという<n>意味なんだほ。
+EN: 'Faith can make even a sardine's head sacred.'<n>That means even something as humble as a sardine's head<p>can seem worthy of worship if you believe, daho.
+
+@2555C max=359
+JP: 「いわしの頭も信心から」<n>いわしの頭のようにつまらないものでも<n>信心すればありがたく思えるように<n>なるという意味。
+EN: 'Faith can make even a sardine's head sacred.'<n>Even something as humble as a sardine's head<n>can seem worthy of worship<n>if you have faith.
+
+@256C4 max=359
+JP: はじめて会ったのに妙になれなれしい人は、<n>意外とさみしがり屋なんだほ。<p>友達が少ないから、<n>誰とでも友達っぽくしたいんだほ。
+EN: Someone who's oddly familiar when you've only just met<n>may actually be lonely, daho.<p>They don't have many friends,<n>so they act like everyone's already their pal, daho.
+
+@2582C max=359
+JP: 会ったばかりなのになれなれしい人はさみしがりやだ。<n>初対面の警戒もなく、せっかちに友達同士のような<n>関係をとりつくろう態度は、一見強気に見えるが、<n>実は友達が少ないさみしがりやゆえ、と考えられる。
+EN: People who act overly familiar at first may be lonely.<n>Rushing to act like old friends without any initial caution<n>may seem bold, but it could actually mean<n>they are lonely and have few friends.
+
+@25994 max=359
+JP: 仕事がなくて、就業可能なのに、<n>この１週間に少しも働いてない。<p>月末の１週間に行われるこの質問にイエスだった人が<n>失業者として失業率が算出されるのだほほ。
+EN: No job, able to work, but haven't worked at all<n>in the past week?<p>Say yes in a survey during the month's final week,<n>and you count as unemployed in the jobless rate, daho.
+
+@25AFC max=359
+JP: 失業率は義務教育を終えた１５歳以上を対象に、<n>職探しをしたか、月末１週間に少しでも働いたかの<n>質問によって算出される。<n>職探しをし、それでも月末１週間に少しも<n>働けなかったという人が「失業者」となる。
+EN: The unemployment rate covers people aged 15 and up<n>who have finished compulsory schooling. It asks if they<n>sought work or worked at all in the month's final week.<n>Those who sought work but did none at all that week<n>are counted as unemployed.
+
+@25C64 max=359
+JP: 琴は「一面」と数えるだほほ。
+EN: One koto is 'ichi-men' in Japanese, daho!
+
+@25DCC max=359
+JP: 琴の数え方は「一面」。
+EN: The Japanese counter for a koto is 'men': 'ichi-men'.
+
+@25F34 max=359
+JP: 「酒は百薬の長」と言うが、<n>「酒は百害あって一利なし」とも言うだほほ。<p>要はほどほどにってことなんだほほ。
+EN: They say 'Sake is the best medicine',<n>but also 'Sake does a hundred harms and no good', daho.<p>The point is to drink in moderation, daho!
+
+@2609C max=359
+JP: 「酒は百薬の長」<n>酒は適度に飲むのであれば、薬になるという意味。<n>反対に「酒は百害あって一利なし」<n>ということわざもある。
+EN: 'Sake is the best medicine.'<n>This means sake can be medicinal if drunk in moderation.<n>There is also a proverb saying the opposite:<n>'Sake does a hundred harms and no good.'
+
+@26204 max=359
+JP: 味は感覚細胞「味らい」が感知するだほ。<p>味らいはベロに５０００個くらいあって、<n>特に奥歯の横あたりに密集してるだほ。<p>だからよく噛んだ方がしっかり味えるだほほ。
+EN: Taste buds are the sensory cells that detect flavor, daho.<p>Your tongue has about 5,000 of them,<n>with lots clustered beside your back teeth, daho.<p>So chew well to really savor your food, daho!
+
+@2636C max=359
+JP: ヒトは「味らい」で味を感じる。<n>味らいの数は成長とともに変化が見られ、<n>乳児では口腔内に約１００００個、<n>成人では約７５００個ほどあり、<n>年齢とともに数も減少、<n>感受性も低下すると考えられている。
+EN: Humans sense flavor through taste buds.<n>The number changes as we grow.<n>Babies have about 10,000 in their mouths,<n>while adults have around 7,500.<n>Both their number and their sensitivity<n>are thought to decline with age.
+
+@264D4 max=359
+JP: 民法上だと歳は誕生日当日ではなく<n>その前日にとるののだほ。<p>４月１日生まれの子が、<n>同じ年の４月２日生まれの子と<p>学年が違うのはそのせいだほほ。
+EN: Under Japanese law, you turn a year older<n>the day before your birthday, daho.<p>That's why kids born on April 1<n>and kids born on April 2 of the same year<p>are in different school years, daho!
+
+@2663C max=359
+JP: 民法によって、満年齢は「起算日に応当する日の前日」<n>に達すると決められている。誕生日に一つ歳をとるの<n>ではなく、民法上は誕生日の一日前にひとつ歳をとる<n>わけだ。４月１日生まれと４月２日生まれの間に学年<n>の境があるのは、さらに学校教育法によって、満６歳<n>に達した日の翌日以降における最初の学年の新学期を<n>もって就学が始まるとされているからだ。
+EN: Under Japan's Civil Code, you turn a year older<n>the day before your birthday. School law says<n>children start in the first school year beginning<n>after the day they turn six.<n>That is why children born on April 1 and April 2<n>fall into different school years,<n>even if born in the same calendar year.
+
+@267A4 max=359
+JP: 一富士二鷹三茄子。<p>初夢で見ると縁起のいいものの順番だほ。
+EN: First, Mount Fuji. Second, a hawk. Third, an eggplant.<p>That's the ranking of lucky sights in your first dream of the new year, daho!
+
+@2690C max=359
+JP: 一富士二鷹三茄子<n>初夢で見ると縁起のいいものの順番。
+EN: First, Mount Fuji. Second, a hawk. Third, an eggplant.<n>The ranking of lucky sights in your first dream of the year.
+
+@26A74 max=359
+JP: 「魚を猫にあずける」ってのは、<n>最も信用できない相手に<p>大事なものを預けることだほ。<n>信用してたのに、と泣かれても猫には迷惑だほほ。
+EN: 'Leaving a cat in charge of a fish' means<n>entrusting something precious<p>to the least trustworthy person, daho.<n>It's hardly fair to cry 'I trusted you!' at the cat, daho!
+
+@26BDC max=359
+JP: 「魚を猫にあずける」<n>もっとも信用おけない相手に大事なものを<n>預けてしまうという意味。
+EN: 'Leaving a cat in charge of a fish.'<n>This means entrusting something precious<n>to the least trustworthy person possible.
+
+@26D44 max=359
+JP: テヘヘって頭をポリポリするのは<n>「自己親密行動」だほ。<p>不安や緊張をやわらげようとする動作だほ。<n>ポリポリ。
+EN: That sheepish chuckle and scratch of the head?<n>That's 'self-soothing behavior', daho.<p>It's a way to ease anxiety or tension, daho.<n>Scratch, scratch.
+
+@26EAC max=359
+JP: 髪をしきりに触る、頭に手をやる、顔を触るなど、<n>無意味な動作を繰り返すのは、不安の表れ。<n>不安や不満を埋めたいという思いのときに起こる<n>「自己親密行動」である。
+EN: Repeatedly fiddling with your hair, touching your head<n>or face for no reason can be a sign of anxiety.<n>This is 'self-soothing behavior', used to ease<n>feelings of anxiety or dissatisfaction.
+
+@27014 max=359
+JP: 櫛は「一枚」と数えるだほほ。
+EN: One comb is 'ichi-mai' in Japanese, daho!
+
+@2717C max=359
+JP: 櫛の数え方は「一枚」。
+EN: The Japanese counter for a comb is 'mai': 'ichi-mai'.
+
+@272E4 max=359
+JP: 除夜の鐘は１０８回、<n>人の煩悩の数だけ鳴らされる。<p>ちなみに韓国の除夜の鐘は３３回だほほ。
+EN: On New Year's Eve, temple bells ring 108 times,<n>once for each worldly desire people have.<p>In Korea, they ring just 33 times, daho!
+
+@2744C max=359
+JP: 除夜の鐘は１０８回ならされる。<n>その数は人間の煩悩の数とされている。<n>韓国の除夜の鐘は３３回だけ。
+EN: New Year's Eve bells ring 108 times in Japan.<n>This is said to be the number of human worldly desires.<n>In Korea, the bells ring only 33 times.
+
+@275B4 max=359
+JP: 「毒にも薬にもならぬ」は、<n>害はないけど、役にも立たないという意味だほ。<p>可も不可もなく、損も得もない。<n>いてもいなくてもいい。<p>だんだんかなしくなってきただほほ。
+EN: 'Neither poison nor medicine'<n>means harmless, but useless too, daho.<p>Neither good nor bad. No loss, no gain.<n>It makes no difference whether you're there or not.<p>I'm starting to feel a little sad, daho...
+
+@2771C max=359
+JP: 「毒にも薬にもならぬ」<n>害にならないが、利益も生まない。<n>可もなく不可もない、どうでもいい存在。
+EN: 'Neither poison nor medicine.'<n>Something that does no harm but offers no benefit.<n>Neither good nor bad; something of no consequence.
+
+@27884 max=359
+JP: ニオイはニオイ物質が鼻孔内の嗅細胞に結合して<n>電気的に興奮することで認識されるだほ。<p>でも嗅ぎ続けると嗅細胞が興奮をおさえはじめるので<n>クサさも数分で慣れてしまうだほほ。
+EN: You smell things when odor molecules bind to cells in<n>your nose and trigger electrical signals, daho.<p>Keep sniffing, and those cells start damping the signals,<n>so even a stink stops bothering you in minutes, daho!
+
+@279EC max=359
+JP: ニオイの分子は鼻腔内にある嗅細胞がとらえ、嗅神経<n>によって脳にニオイとして伝わる。<n>同じニオイを嗅ぎ続けると嗅細胞は興奮状態が続くた<n>め、嗅覚細胞内ではその興奮を止める機能が働きだす。<n>最初は感じた強いニオイも嗅いでいるうちに徐々に感<n>じなくなるのは、この現象によるものである。
+EN: Smell receptor cells in your nose catch odor molecules.<n>The olfactory nerves carry the signals to your brain.<n>Continued exposure to one smell keeps the cells active,<n>so a mechanism inside them starts suppressing the signals.<n>That's why even a strong smell gradually fades<n>as you keep breathing it in.
+
+@27B54 max=359
+JP: 一番面積が大きい都道府県は、北海道だほ。<p>一番小さいのは、香川県だほほ。
+EN: Japan's largest prefecture by area is Hokkaido, daho.<p>The smallest is Kagawa, daho!
+
+@27CBC max=359
+JP: 一番面積が大きい都道府県は、北海道。<n>一番面積が小さいのは、香川県。
+EN: Japan's largest prefecture by area is Hokkaido.<n>The smallest is Kagawa.
+
+@27E24 max=359
+JP: 日本に箸を広めたのは聖徳太子だほ。<p>それまでの日本の箸は１本の棒で<n>これを折り曲げて使ってたのだほほ。<p>「はし」は棒の「端」の意味だほほ。<n>一休さんのとんちみたいだほほ。
+EN: Prince Shotoku popularized chopsticks in Japan, daho.<p>Before that, people used a single stick<n>bent in half, daho!<p>'Hashi', meaning chopsticks, comes from 'ends', daho.<n>Sounds like one of Ikkyu's riddles, daho!
+
+@27F8C max=359
+JP: 日本における箸のはじめは、一本の棒。<n>この棒の両端をまげて食事をしていたため、<n>「はし」と呼ぶようになったと言われている。<n>現在のように二本の箸は、<n>聖徳太子が広めた。
+EN: Japan's earliest chopsticks were a single stick.<n>People bent it to eat with both ends,<n>said to be why they were called 'hashi', meaning 'ends'.<n>Prince Shotoku popularized the two separate sticks<n>used today.
+
+@280F4 max=359
+JP: 京都や大阪には「三が日間のにらみ鯛」という、<n>正月の三日間は祝い膳に鯛の姿焼きを飾っておき、<p>４日目に食べる風習があるだほほ。<n>三日間は鯛はにらむだけだほほ。
+EN: Kyoto and Osaka have a New Year's custom called<n>'three days of staring at sea bream'. A whole roast fish<p>decorates the table for three days. On day four, you eat it!<n>For those first three days, you just stare, daho!
+
+@2825C max=359
+JP: 「三が日間のにらみ鯛」<n>正月の三が日、祝い膳に鯛の姿焼きを飾っておき、<n>４日目には野菜などと一緒に鍋料理にして食べる<n>という、京都や大阪の風習。
+EN: 'Three days of staring at sea bream.'<n>In this Kyoto and Osaka custom, a whole roast sea bream<n>decorates the New Year's table for three days. On day four,<n>it's eaten in a hot pot with vegetables and other ingredients.
+
+@283C4 max=359
+JP: 話してるときに指をさすのは<n>「威嚇信号」だほ。<p>威圧したい時には効果的かもしれんだほが、<n>好感をもたれたい相手にはやめといた方がいいだほ。
+EN: Pointing at someone while you talk<n>is a 'threat signal', daho.<p>It might work if you want to intimidate them,<n>but skip it if you want them to like you, daho!
+
+@2852C max=359
+JP: 指を指しながら話すのは相手への「威嚇信号」。<n>相手を下に見ながら指示をくだすというような、<n>相手には威圧感と不快感を与えるしぐさである。
+EN: Pointing at someone while speaking is a 'threat signal'.<n>It suggests you're looking down on them and giving orders,<n>making them feel intimidated and uncomfortable.
+
+@28694 max=359
+JP: 蝶々は「一頭」と数えるだほほ。
+EN: In Japanese, butterflies are counted with<n>'to,' the counter for large animals, daho!
+
+@287FC max=359
+JP: 蝶々の数え方は「一頭」。
+EN: Japanese counts butterflies with 'to,'<n>the counter used for large animals.
+
+@28964 max=359
+JP: 「子はかすがい」のかすがいとは、<n>ふたつの木材をつなぎとめる<p>コの字形のクギのことだほ。<p>子供は夫婦をつなぎとめる役割だってことだほ。<n>子はカスがいい、ではないだほほ。
+EN: 'Children are the ties that bind' refers<n>to a clamp joining two pieces of wood, daho.<p>It's a U-shaped nail, daho.<p>Children help hold a marriage together, daho.<n>It says 'ties,' not 'tiny terrors,' daho!
+
+@28ACC max=359
+JP: 「子はかすがい」<n>かすがいとは、二つの木材をつなぎとめる<n>コの字型の釘。子供への愛情は、夫婦の仲を<n>つなぎとめるだけの強い存在であるという意味。
+EN: 'Children are the ties that bind.'<n>The Japanese saying compares children to a U-shaped nail<n>that joins two pieces of wood. Love for their children<n>can be strong enough to hold a marriage together.
+
+@28C34 max=359
+JP: 人は味わうときに、そのニオイの情報も<n>味の一部として認識してるのだほ。<p>だから鼻がつまってると<n>味の違いがわからなくなるのだほほ。
+EN: When we taste things, our brains treat their smell<n>as part of the flavor, daho.<p>That's why flavors are hard to tell apart<n>when your nose is blocked, daho!
+
+@28D9C max=359
+JP: 人は味わうときには食べ物の発するニオイもその食べ<n>物の味の一部として認識している。そのため、鼻をつ<n>まんで食べると口呼吸をすることになり、食べ物のニ<n>オイを鼻腔で感知しにくくなるため、味がわかなくな<n>る。鼻がつまっていると味がわかりにくいのも同様。<n>舌はきちんと味を感知しているにもかかわらずだ。
+EN: Our brains treat a food's smell as part of its flavor.<n>Pinching your nose makes you breathe through your mouth,<n>so the food's aroma has trouble reaching your nasal cavity.<n>This makes flavors harder to recognize.<n>The same happens when your nose is blocked,<n>even though your tongue still detects tastes normally.
+
+@28F04 max=359
+JP: 明日できる仕事を今日するな。<n>他人ができる仕事を自分がするな。<p>古代ローマ人の格言だほ。
+EN: Never do today what you can do tomorrow.<n>Never do yourself what someone else can do.<p>That's an ancient Roman maxim, daho.
+
+@2906C max=359
+JP: 「明日できる仕事を今日するな。<n>他人ができる仕事を自分がするな」<n>古代ローマ人の格言。
+EN: 'Never do today what you can do tomorrow.<n>Never do yourself what someone else can do.'<n>An ancient Roman maxim.
+
+@291D4 max=359
+JP: 「海鼠」とは、なまこのことだほほ。<p>ちなみに中国では「海参」。<n>海の人参という意味だほほ。
+EN: The Japanese characters for 'sea cucumber'<n>literally mean 'sea mouse,' daho!<p>In Chinese, it's written 'sea ginseng,' daho!
+
+@2933C max=359
+JP: 「海鼠」<n>なまこのこと。<n>中国では海の人参と言う意味から、「海参」と書く。
+EN: Sea cucumber is written 'sea mouse' in Japanese.<n>In Chinese, its name is written 'sea ginseng.'
+
+@294A4 max=359
+JP: 日本人はもともと「ナンバ」という<n>右手右足を揃えて歩いていただほよ。<p>今の歩き方になったのは明治以降だほほ。<p>運動会の行進で<n>つい手と足が揃っちゃうのもしかたないだほ。
+EN: Japanese people once used a walk called 'nanba,'<n>moving the right arm and right leg together, daho.<p>The modern walk only took over in the Meiji era, daho!<p>So if your arm and leg move together<n>while marching at sports day, blame tradition, daho!
+
+@2960C max=359
+JP: 日本人は江戸時代まで、手を振らずに、右手と右足、<n>左手と左足を一緒に出して歩く「ナンバ」歩きをして<n>いた。今の歩き方になったのは明治以降である。
+EN: Until the end of the Edo period, Japanese people used<n>a walk called 'nanba.' Without swinging their arms,<n>they moved each arm forward with the leg on the same side.<n>The modern walking style came in during the Meiji era.
+
+@29774 max=359
+JP: 店先の「盛り塩」は皇帝の気をひきたかった<n>古代の中国女性たちがルーツだほ。<p>牛車で来る皇帝を立ち止まらせるために<n>牛の好物の塩をおいたのだほほ。<p>転じて客を呼ぶ縁起物になったわけだほほ。
+EN: Those little salt piles outside shops began<n>with women hoping to catch a Chinese emperor's eye, daho.<p>They put out salt, an ox's favorite treat,<n>to stop the ox pulling his carriage, daho!<p>Over time, it became a lucky charm<n>for attracting customers, daho!
+
+@298DC max=359
+JP: 店先に飾られている「盛り塩」。<n>古代中国で皇帝に自分の家に立ち寄ってもらうため、<n>側室たちが皇帝の乗った牛車を立ち止まらせるために、<n>牛の好物の塩を玄関先においたことに始まる。<n>転じて、客を呼ぶおまじないになった。
+EN: The little piles of salt outside shops trace back<n>to ancient China. Hoping the emperor would visit,<n>his consorts put salt outside their doors<n>to tempt the ox pulling his carriage to stop.<n>This later became a charm for attracting customers.
+
+@29A44 max=359
+JP: 羊羹のような棒状の菓子は<n>「棹物菓子」と呼んで、<p>数も「一棹」と数えるだほほ。<p>ちなみに箪笥も「一棹」と数えるだほほ。<n>でも羊羹は切ると「一切」になるだほほ。
+EN: Log-shaped sweets like yokan bean jelly<n>are called 'saomono,' or 'pole sweets,' daho.<p>You count them by the 'sao,' or 'pole,' daho!<p>Chests of drawers use that counter too, daho.<n>But cut yokan up, and you count it in slices, daho!
+
+@29BAC max=359
+JP: 羊羹のような棒状の菓子は<n>「棹物菓子」と呼び、<n>数も「一棹」と数える。<n>箪笥も同じく「一棹」と数える。<n>しかし羊羹は切ると「一切」になる。
+EN: Log-shaped sweets such as yokan bean jelly<n>are called 'saomono,' or 'pole sweets.'<n>They use the counter 'sao,' meaning 'pole.'<n>Chests of drawers use the same counter.<n>Once yokan is cut up, however, it is counted in slices.
+
+@29D14 max=359
+JP: 「のれんに腕押し」は、<n>押してもまったく手応えがないのれんにたとえて、<p>いろいろ言っても<n>ぜんぜん反応のない人のことを言うだほ。<p>居酒屋ののれんをくぐる人のことじゃないだほほ。
+EN: 'Pushing against a shop curtain' means<n>pushing something that gives no resistance, daho.<p>It's like talking to someone<n>who gives you no reaction at all, daho.<p>It doesn't mean ducking through a curtain<n>on your way into a pub, daho!
+
+@29E7C max=359
+JP: 「のれんに腕押し」<n>風になびくのれんに腕を押したところで、<n>なんの手応えもない、という意味。<n>転じて、期待しても張り合いのないこと、<n>力をそそいでも手応えのないことを言う。
+EN: 'Pushing against a shop curtain.'<n>Pushing a curtain fluttering in the breeze<n>gives you no resistance to push against.<n>The saying describes a disappointing lack of response,<n>no matter how much effort you put in.
+
+@29FE4 max=359
+JP: 森の中で気持ちがやすらぐのは、<n>植物から放出される揮発性の物質フィトンチッドが<p>人の体や心理に影響を及ぼすからだほ。<p>いわゆるこれが森林浴の効果なわけだほほ。
+EN: The peace you feel in a forest comes from<n>volatile chemicals called phytoncides, daho.<p>Plants release them, and they affect<n>both your body and your mind, daho.<p>That's the benefit of 'forest bathing,' daho!
+
+@2A14C max=359
+JP: 森の中で植物が放出しているフィトンチッドという<n>揮発性の高い物質には、人のストレスをやわらげ、<n>安らぎを与える効果があると考えられている。<n>いわゆる「森林浴」効果である。
+EN: Plants in forests release volatile chemicals<n>called phytoncides. These are thought to ease stress<n>and give people a sense of peace.<n>This is the effect known as 'forest bathing.'
+
+@2A2B4 max=359
+JP: 「朝茶に別れるな」とは、<n>朝のお茶は必ず飲めという意味だほ。<p>朝のお茶には災いよけになる力があるのだほほ。
+EN: 'Never part with your morning tea' means<n>you should always drink it, daho.<p>Morning tea has the power<n>to ward off misfortune, daho!
+
+@2A41C max=359
+JP: 「朝茶に別れるな」<n>朝のお茶は災いよけになるので、<n>必ず飲むものであるという意味。
+EN: 'Never part with your morning tea.'<n>Morning tea is said to ward off misfortune,<n>so the saying urges you never to skip it.
+
+@2A584 max=359
+JP: Ｖサインはもともと手の甲を見せてするしぐさで、<n>相手を侮辱するしぐさだっただほ。<p>手の平を見せる今の勝利のＶの意味になったのは<n>第二次世界大戦以降なんだほほ。
+EN: The V sign originally showed the back of the hand<n>and was used to insult people, daho.<p>The palm-out V for victory we use today<n>only caught on after World War II, daho!
+
+@2A6EC max=359
+JP: Ｖサインはもともとチョキをした手の甲の側を相手に<n>見せて「侮辱」を意味するサインだった。指も少し曲<n>げていた。手の平側を見せる「勝利」のサインとなっ<n>たのは第二次世界大戦中に、ナチスへの抵抗として勝<n>利をあらわす頭文字として「Ｖ」を落書きしたことに<n>由来する。
+EN: The original V sign was an insult, made with<n>two slightly bent fingers and the back of the hand<n>facing the other person. The palm-out victory sign<n>grew out of resistance to the Nazis during World War II,<n>when people scrawled 'V,' the first letter of 'victory,'<n>as graffiti.
+
+@2A854 max=359
+JP: 日本人は「日本書紀」のころから<n>ヘソの緒を保存してただほ。
+EN: Japanese families have kept umbilical cords<n>as keepsakes since the days of the Nihon Shoki, daho.
+
+@2A9BC max=359
+JP: 日本では子供のヘソの緒をとっておく風習がある。<n>「日本書記」にはすでにヘソの緒を保存していた<n>と思われる記述が残っていると言う。<n>ちなみに欧米などにはヘソの緒をとっておく風習は<n>見られない。
+EN: Japanese families traditionally keep their children's<n>umbilical cords. The Nihon Shoki, an ancient chronicle,<n>is said to contain passages suggesting this custom<n>already existed then. Keeping umbilical cords<n>is not a tradition in Europe or America.
+
+@2AB24 max=359
+JP: 小春日和は春のことではないだほほ。<n>小春というのは陰暦の十月のことを言うだほほ。
+EN: 'Koharu weather' doesn't mean spring weather, daho!<n>'Koharu' means the tenth month of the lunar calendar, daho!
+
+@2AC8C max=359
+JP: 小春とは、<n>陰暦の十月のこと。
+EN: 'Koharu,' or 'little spring,' means<n>the tenth month of the lunar calendar.
+
+@2ADF4 max=359
+JP: 「海老で鯛を釣る」は、<n>安い海老で高価な鯛を釣ること、<p>転じて少しの負担で<n>大きな利益をゲットすることだほほ。<p>決して釣りのマニュアルではないのだほほ。
+EN: 'Catch a sea bream with a shrimp' means<n>using a cheap shrimp to catch a valuable fish, daho.<p>In other words, making a big gain<n>from a tiny investment, daho!<p>It's definitely not a fishing manual, daho!
+
+@2AF5C max=359
+JP: 「海老で鯛を釣る」<n>安い海老で鯛を釣るさま。<n>ほんのわずかな元手や努力で、<n>大きな利益や収穫を得ることを言う。
+EN: 'Catch a sea bream with a shrimp.'<n>Like catching a valuable fish with cheap bait,<n>it means gaining a big reward<n>with very little money or effort.
+
+@2B0C4 max=359
+JP: 子供のころに嫌いだったものも<n>大人になると食べられるのは、<p>数多くの味やニオイを体験したことで、<n>脳が成熟するからだほ。<p>まさに酸いも甘いも知り尽くすわけだほほ。
+EN: Why can grown-ups eat foods<n>they hated as children, daho?<p>Experiencing lots of tastes and smells<n>helps the brain mature, daho.<p>Life teaches you to take the bitter<n>with the sweet, daho!
+
+@2B22C max=359
+JP: 子供の頃に嫌いだった食べ物を大人になると<n>食べられるようになるのは、脳の成熟によるもの。<n>さまざまな種類の食べ物の、さまざまな味やニオイの<n>経験値を高めたことで、脳が寛容性を持って<n>積極的に受け入れようと働くからである。
+EN: Learning to enjoy foods you hated as a child<n>is a result of your brain maturing.<n>Experience with many foods, tastes and smells<n>makes the brain more tolerant,<n>and more willing to welcome unfamiliar flavors.
+
+@2B394 max=359
+JP: ネグリジェの語源はラテン語で<n>「家事をしない」という意味なんだほ。
+EN: 'Negligee' comes from a Latin expression<n>meaning 'not doing housework,' daho.
+
+@2B4FC max=359
+JP: ネグリジェの語源はラテン語で<n>「家事をしない」という意味を持つ。<n>ネグリジェを着ていれば<n>家事をしないですむというわけだ。
+EN: 'Negligee' comes from a Latin expression<n>meaning 'not doing housework.'<n>So wearing a negligee gives you<n>an excuse to skip the chores!
+
+@2B664 max=359
+JP: 「ごちそう」とは、<n>走り回るという意味の「馳走」に御がついた言葉で、<p>禅寺で東奔西走して用意した<n>食事をふるまうという心を表しているだほほ。<p>心使いがいちばんのごちそうなんだほほ。
+EN: 'Gochiso,' meaning 'feast,' combines a polite prefix<n>with 'chiso,' meaning 'running around,' daho.<p>It reflects how Zen temples would run all over<n>to prepare a meal for their guests, daho!<p>The thoughtfulness is the real feast, daho!
+
+@2B7CC max=359
+JP: 「ごちそう」<n>走り回るという意味の「馳走」に御がついた言葉。<n>禅寺では客に料理をふるまうために、<n>食べ物を東奔西走して準備する<n>という心を表している。
+EN: 'Gochiso,' meaning 'feast,' combines a polite prefix<n>with 'chiso,' meaning 'running around.'<n>At Zen temples, it expresses the care taken<n>to run far and wide gathering food<n>to prepare a meal for guests.
+
+@2B934 max=359
+JP: ダメと言われるほどにやりたくなるのは<n>「心理的抵抗」だほ。<p>反対されないと案外やる気も<n>でなかったりするかもだほほ。
+EN: Wanting to do something more when you're told not to<n>is called 'psychological reactance,' daho.<p>Without anyone objecting, you might find<n>you never wanted to do it that much, daho!
+
+@2BA9C max=359
+JP: 大人にダメと言われたり、禁止されたりするほど、<n>かえってしたくなるのは「心理的抵抗」という<n>心の働きによる。<n>ダメという壁が立ちはだかることで、かえって<n>その壁に意識が集中してしまうという心理活動だ。
+EN: Wanting something more when adults forbid it<n>is caused by 'psychological reactance.'<n>When someone puts up a barrier by saying 'no,'<n>your attention becomes fixed on that barrier,<n>making you want to cross it all the more.
+
+@2BC04 max=359
+JP: 「乗り掛かった船」は、関わったからには<n>途中で止めるわけにはいかないって意味だほ。<p>乗り掛かっただけだから<n>降りちゃえ、ってんじゃないだほほ。
+EN: 'Already aboard the boat' means that once you're<n>involved, you can't just quit halfway, daho.<p>It doesn't mean you've only just stepped aboard,<n>so you might as well hop off, daho!
+
+@2BD6C max=359
+JP: 「乗りかかった船」<n>乗ってこぎ出してしまった船。<n>もはや途中で降りることも止めることも<n>できない状況であることを言う。
+EN: 'Already aboard the boat.'<n>Once you've boarded and the boat has set off,<n>you can no longer stop it or get off halfway.<n>It describes being committed to seeing something through.
+
+@2BED4 max=359
+JP: 「マリアージュ」とは結婚のことだほ。<p>ワイン用語では<n>料理とワインの相性のことを言うだほほ。
+EN: "Mariage" means marriage, daho.<p>In wine talk, it means how well<n>food and wine go together, daho!
+
+@2C03C max=359
+JP: 「マリアージュ」とは結婚のことだが、<n>ワイン用語では<n>料理とワインの相性のこと。
+EN: "Mariage" means marriage.<n>In wine terminology, it refers to how well<n>food and wine go together.
+
+@2C1A4 max=359
+JP: 「濡れ手で粟」は、<n>濡れた手で粟をつかむとたくさん手につくことから、<p>苦労なしに利益を得るたとえだほほ。<p>濡れ手で泡ではないだほほ。<n>しょせん泡はすぐ消えちゃうだほほい。
+EN: "Wet hands in millet" comes from how<n>lots of millet sticks to wet hands, daho.<p>It means making a profit with no effort, daho!<p>Millet and bubbles are both called "awa,"<n>but bubbles vanish. No profit there, daho!
+
+@2C30C max=359
+JP: 「濡れ手で粟」<n>濡れた手を入れればそれだけで粟はたくさんつかめる。<n>転じて、たいした労を伴わず、大もうけすること。
+EN: "Wet hands in millet"<n>Dip wet hands into millet, and plenty sticks to them.<n>The saying means making a big profit with little effort.
+
+@2C474 max=359
+JP: 食べ物に火を通して食べる動物は人間だけだほ。<n>だから動物はみんな猫舌ってわけだほ。
+EN: Humans are the only animals that cook food, daho.<n>So all the other animals must burn their tongues on hot food, daho!
+
+@2C5DC max=359
+JP: 火を通して食べる「調理」という技術を<n>手にしている動物は人間だけである。
+EN: Humans are the only animals that have mastered<n>the art of cooking food with heat.
+
+@2C744 max=359
+JP: 「飼い犬に手をかまれる」のは、<n>犬の散歩中の話じゃないのだほ。<p>目をかけてた人に裏切られたりすることだほほ。
+EN: "Bitten by your own dog" isn't a story<n>about taking your dog for a walk, daho.<p>It means being betrayed by someone<n>you've looked after, daho!
+
+@2C8AC max=359
+JP: 「飼い犬に手をかまれる」<n>自分のうちの犬にかまれるようなこと。<n>転じて、普段から目をかけていた人や部下から<n>被害をこうむること。
+EN: "Bitten by your own dog"<n>Like being bitten by a dog you raised yourself.<n>It means being harmed by someone you've cared for,<n>such as a person under your supervision.
+
+@2CA14 max=359
+JP: 男物と女物のシャツのボタン穴が逆なのは、<n>シャツが生まれた頃のヨーロッパでは<p>上流階級の女性は人に着せてもらってたからだほ。<n>着せる人が便利なように、逆にしたからだほほ。
+EN: Men's and women's shirts button on opposite sides<n>because, back when shirts first appeared in Europe...<p>Upper-class women had servants dress them, daho.<n>The buttons were reversed to help the servants, daho!
+
+@2CB7C max=359
+JP: 男物と女物ではシャツのボタンの穴が逆。<n>シャツが生まれた頃のヨーロッパでは、<n>上流社会の女性は使用人に着せてもらっていたため、<n>着せる人が便利なようにと<n>ボタンホールを逆にしたと言われている。
+EN: Men's and women's shirts have buttonholes on opposite sides.<n>It's said that when shirts first appeared in Europe,<n>upper-class women were dressed by servants.<n>The buttonholes were reversed<n>to make the servants' job easier.
+
+@2CCE4 max=359
+JP: すり鉢でゴマをすると、<n>ゴマは鉢のあっちこっちにつくだほ？<p>だから誰にでもこびへつらえる人を<n>「ごますり」と言うだほほ。
+EN: When you grind sesame in a mortar,<n>it sticks to every part of the bowl, right, daho?<p>That's why someone who flatters everyone<n>is called a "sesame grinder" in Japanese, daho!
+
+@2CE4C max=359
+JP: 「ごますり」<n>すり鉢でごまをすると、ごまが鉢のあちこちに<n>こびりつくことから、誰にでもこびへつらう人を<n>ごますりと言うようになった。
+EN: "Sesame grinder"<n>Ground sesame sticks to every part of a mortar.<n>That's why, in Japanese, someone who flatters<n>everyone they meet is called a "sesame grinder."
+
+@2CFB4 max=359
+JP: 試験前に限って部屋を片付けたくなるのは<n>「セルフ・ハンディキャッピング」のせいだほ。<p>あらかじめ失敗の原因をつくって、<n>自分のプライドを傷つけないよう逃げてるだほほ。
+EN: Only feel like cleaning your room when an exam's<n>coming up? That's "self-handicapping," daho.<p>You give yourself a reason to fail in advance,<n>so your pride won't take the hit, daho!
+
+@2D11C max=359
+JP: 試験前や忙しいときに限って、部屋の掃除がしたくな<n>ったり漫画を読みたくなるのは「セルフ・ハンディキ<n>ャッピング」と言われる心理。自分に自信が持てずに<n>大きな不安を抱え、それでもプライドは保ちたいとい<n>う不安定な精神状態が、無意識に失敗の原因を用意し<n>て自分のプライドを傷つけないように逃げ道を作って<n>しまうのだ。
+EN: The urge to clean or read comics when an exam looms or you're busy is called "self-handicapping."<n>Low confidence and anxiety clash with the need to protect your pride. You unconsciously create reasons to fail, giving yourself an escape route that cushions the blow.
+
+@2D284 max=359
+JP: 「寝耳に水」ってのは、<n>思いがけないことが起きて驚くさまだほ。<p>寝ながら水を飲んでて<n>こぼれて耳に入っても確かに驚くけどほほ。
+EN: "Water in a sleeping ear" means<n>being shocked by something unexpected, daho.<p>Though spilling a drink in your ear while<n>you're asleep would be quite a shock too, daho!
+
+@2D3EC max=359
+JP: 「寝耳に水」<n>寝ているところに耳に水が入るようなこと。<n>転じて、思いがけない出来事がおこり驚くこと。
+EN: "Water in a sleeping ear"<n>Like getting water in your ear while asleep.<n>It means being startled by an unexpected event.
+
+@2D554 max=359
+JP: 日本三名園は、<p>「金沢の兼六園」「水戸の偕楽園」<n>「岡山の後楽園」だほほ。
+EN: Japan's Three Great Gardens are...<p>Kenrokuen in Kanazawa, Kairakuen in Mito,<n>and Korakuen in Okayama, daho!
+
+@2D6BC max=359
+JP: 日本三名園。<n>「金沢の兼六園」「水戸の偕楽園」<n>「岡山の後楽園」
+EN: Japan's Three Great Gardens:<n>Kenrokuen in Kanazawa, Kairakuen in Mito,<n>and Korakuen in Okayama.
+
+@2D824 max=359
+JP: 「馬の耳に念仏」は、大事なことを言っても<n>耳をかさない態度のことを言うだほ。<p>馬には念仏のありがたみがわからないってことだほ。<n>猫に小判も、豚に真珠も同じだほほ。
+EN: "Prayers in a horse's ear" means refusing<n>to listen to something important, daho.<p>A horse can't appreciate Buddhist prayers, daho.<n>Like coins before cats, or pearls before swine, daho!
+
+@2D98C max=359
+JP: 「馬の耳に念仏」<n>馬に念仏を聞かせてもありがたみがわからない。<n>転じて、忠告をしてもいっこうに耳をかさず、<n>ありがたみも感じないさまを言う。
+EN: "Prayers in a horse's ear"<n>A horse can't appreciate Buddhist prayers.<n>The saying describes someone who won't heed advice<n>and doesn't appreciate its value.
+
+@2DAF4 max=359
+JP: 舌や口の中の粘膜をおおってる角化層は、<n>年齢とともに厚くなるのだほ。<p>だから子供に比べて大人に猫舌が少ないのだほ。
+EN: The keratinized layer covering your tongue<n>and the lining of your mouth thickens with age, daho.<p>That's why fewer adults than children<n>are sensitive to hot food, daho!
+
+@2DC5C max=359
+JP: 舌や口腔粘膜の表層を覆っている角化層は、<n>年齢とともに厚くなる。<n>そのため大人になると猫舌が減ると考えられている。
+EN: The keratinized layer covering the tongue<n>and the lining of the mouth thickens with age.<n>This is thought to make adults less sensitive to hot food.
+
+@2DDC4 max=359
+JP: 魚や野菜など食物は出さかりの採れたての時が<n>いちばん味がよく栄養価が高いだほほ。<p>それが「旬」ということだほほ。<n>旬には「十日」という意味があるだほ。
+EN: Fish, vegetables and other foods taste best<n>and are most nutritious freshly harvested in season, daho.<p>That's what "shun" means, daho!<n>The word can also mean "ten days," daho.
+
+@2DF2C max=359
+JP: 「旬」<n>魚や野菜などの出さかりの時のことを旬と呼ぶ。<n>旬の食物は、いちばん味がよい上に、栄養価も高い。<n>上旬、中旬、下旬を表す「旬」でもあり、<n>「十日」という意味も持つ。
+EN: "Shun"<n>This means the peak season for foods like fish and vegetables.<n>Foods in season taste best and are most nutritious.<n>It also means "ten days," as in the first, middle<n>and last ten-day periods of a month.
+
+@2E094 max=359
+JP: 「鳩に豆鉄砲」は、<n>鳩が豆鉄砲を食ったようとも言うだほ。<p>突然のことに目をまるくして驚く様子のたとえだほ。
+EN: "A pigeon hit by a peashooter" describes<n>a very surprised pigeon, daho.<p>It's a way to describe someone staring<n>wide-eyed at a sudden surprise, daho!
+
+@2E1FC max=359
+JP: 「鳩に豆鉄砲」<n>豆鉄砲をくらって目を丸くしている鳩の様子から、<n>突然のことに驚き、きょとんとしてしまう状況のこと。
+EN: "A pigeon hit by a peashooter"<n>Like a pigeon staring wide-eyed after being hit by a pea,<n>it means being startled and left looking utterly bewildered.
+
+@2E364 max=359
+JP: 将棋の「歩」の駒の裏の文字は<n>「と」ではないのだほ。<p>金の略字なんだほほ。
+EN: The symbol on the back of a shogi pawn<n>isn't actually the character "to," daho.<p>It's a shortened form of "kin," meaning gold, daho!
+
+@2E4CC max=359
+JP: 将棋の駒。「歩」の裏に書かれている文字は「と」と<n>読めるが、実際には「金」の略字である。
+EN: The character on the back of a shogi pawn looks like "to,"<n>but it's actually a shortened form of "kin," meaning gold.
+
+@2E634 max=359
+JP: 日本三景は、<p>「松島」「厳島」「天橋立」だほほ。
+EN: Japan's Three Scenic Views are...<p>Matsushima, Itsukushima and Amanohashidate, daho!
+
+@2E79C max=359
+JP: 日本三景。<n>「松島」「厳島」「天橋立」
+EN: Japan's Three Scenic Views:<n>Matsushima, Itsukushima and Amanohashidate.
+
+@2E904 max=359
+JP: 「嘘も方便」は、<n>嘘をついても許される場合もあるってことだほ。<p>でも「嘘つきは泥棒のはじまり」でもあるから<n>ほどほどが大事だほほ。
+EN: "Even a lie can serve a purpose" means<n>sometimes a lie is excusable, daho.<p>But they also say "Lying is the first step to stealing,"<n>so don't get carried away, daho!
+
+@2EA6C max=359
+JP: 「嘘も方便」<n>方便とは仏教で衆生（この世に生きているすべてのも<n>の）を導くための手段のこと。<n>嘘は本来悪いことではあるが、<n>時と場合によっては必要なことがあるという意味。
+EN: "Even a lie can serve a purpose"<n>In Buddhism, an "expedient means" is a way<n>to guide all living beings toward enlightenment.<n>The saying means that although lying is wrong,<n>circumstances can sometimes make it necessary.
+
+@2EBD4 max=359
+JP: 両耳の鼓膜の裏側には、<p>舌の前方２／３の味覚を<n>脳に伝える鼓索神経があるだほ。<p>だから耳の手術で味覚障害が出ることもあるだほほ。
+EN: Behind each eardrum...<p>There's a nerve called the chorda tympani that carries<n>taste signals from the front two-thirds of your tongue, daho.<p>That's why ear surgery can sometimes affect<n>your sense of taste, daho!
+
+@2ED3C max=359
+JP: 耳の鼓膜の裏側には、舌の前方２／３部分の<n>味覚を伝える鼓索神経が通っている。<n>右耳側は舌の右側、左耳側は<n>舌の左側に対応して、味覚を伝達している。
+EN: Behind each eardrum runs the chorda tympani nerve,<n>which carries taste signals from the front two-thirds of the tongue.<n>The right ear's nerve serves the right side of the tongue,<n>and the left ear's nerve serves the left.
+
+@2EEA4 max=359
+JP: 「身土不二」とは、身も土も一緒だという意味だほ。<p>土は人にとって母なる大地なんだほほ。<p>人は土が育てるものによって営み、<n>そして土にかえっていくのだほほ。
+EN: "Body and soil are one" means just that, daho.<p>The earth is our mother, daho!<p>We live on what grows from the soil,<n>and one day we return to it, daho.
+
+@2F00C max=359
+JP: 「身土不二」<n>身と土は決して別々なものではなく、<n>一緒だという意味。<n>人にとっても大地は母なるものである。
+EN: "Body and soil are one"<n>The body and the soil are not separate things,<n>but parts of a single whole.<n>The earth is a mother to us all.
+
+@2F174 max=359
+JP: 「糠よろこび」は、<n>雀の糠よろこびと言って、<p>糠を見て米もあるかと喜んだら<n>なかったんで期待はずれ、って意味だほ。<p>糠が喜んでるわけじゃないだほほ。
+EN: "Rice-bran joy" is also called<n>"a sparrow's rice-bran joy," daho.<p>It sees bran and gets excited about finding rice,<n>but there's no rice. What a letdown, daho!<p>It doesn't mean the bran is happy, daho!
+
+@2F2DC max=359
+JP: 「糠よろこび」<n>糠をみて米もあるかと期待したら、<n>糠しかなくてがっかりすること。<n>喜んだら間違いだった、期待はずれだったの意味。<n>雀の糠よろこび、などとも言う。
+EN: "Rice-bran joy"<n>You see rice bran and hope there's rice too,<n>but there's only bran. How disappointing!<n>It means joy that turns out to be unfounded.<n>Also called "a sparrow's rice-bran joy."
+
+@2F444 max=359
+JP: 花火の赤はストロンチウム、<n>黄色はナトリウム、紫はカリウムで<p>できているのだほほ。
+EN: In fireworks, strontium makes red,<n>sodium makes yellow, and potassium...<p>Makes purple, daho!
+
+@2F5AC max=359
+JP: 夜空を彩る花火の色は、金属粉が燃える際の色。<n>ストロンチウム、ナトリウム、カリウムが、<n>それぞれ赤、黄、紫の色になり、<n>金属粉の調合により、花火の多彩な色が生まれる。
+EN: Fireworks get their colors from burning metal powders.<n>Strontium, sodium and potassium produce<n>red, yellow and purple respectively.<n>Different mixtures create the many colors that light up the sky.
+
+@2F714 max=359
+JP: 世界四大文明は、<p>「エジプト文明」「メソポタミア文明」<n>「インダス文明」「黄河文明」だほほ。
+EN: The world's four great ancient civilizations are...<p>Egypt, Mesopotamia,<n>the Indus Valley and the Yellow River, daho!
+
+@2F87C max=359
+JP: 世界四大文明。<n>「エジプト文明」「メソポタミア文明」<n>「インダス文明」「黄河文明」
+EN: The world's four great ancient civilizations:<n>Egypt, Mesopotamia,<n>the Indus Valley and the Yellow River.
+
+@2F9E4 max=359
+JP: 「当たるも八卦、当たらぬも八卦」の八卦は<n>占いのことを言ってるだほ。<p>当たるときも当たらないときもあるから、<n>あんまり気にするなってことだほほ。<p>いいことだけ信じておくだほほ。
+EN: The saying "Fortunes hit, fortunes miss" uses hakke,<n>a word for fortune-telling, daho.<p>Sometimes fortunes come true, sometimes they don't,<n>so don't worry too much about them, daho.<p>Just believe the good ones, daho!
+
+@2FB4C max=359
+JP: 「当たるも八卦、当たらぬも八卦」<n>八卦とは占いのこと。<n>当たるときも当たらないときもあるのが占い。<n>悪い結果が出てもくよくよと気にするな、<n>という意味。
+EN: "Fortunes hit, fortunes miss."<n>The Japanese word hakke means divination.<n>A fortune may come true, or it may not.<n>The saying means you shouldn't fret<n>over an unlucky prediction.
+
+@2FCB4 max=359
+JP: ハエは足の裏にある毛で味を感じるだほほ。
+EN: Flies taste things with the hairs on the soles of their feet, daho!
+
+@2FE1C max=359
+JP: ハエの足の裏には毛がはえており、<n>この毛の先には小さな穴があいている。<n>ここは人間でいう味らいの働きをする部分で、<n>ハエはこの足の裏の毛で味を感じている。
+EN: Flies have hairs on the soles of their feet,<n>with tiny holes at the tips.<n>These work like human taste buds,<n>letting flies taste things through their feet.
+
+@2FF84 max=359
+JP: 赤く辛いトウガラシを「鷹の爪」と呼ぶだほ。<p>形が似てるからだほほ。
+EN: Hot red chili peppers are called "hawk's claws" in Japanese, daho.<p>It's because of their shape, daho!
+
+@300EC max=359
+JP: 「鷹の爪」<n>辛みの強い赤唐辛子の別名。<n>鷹の爪に似た形から、そう呼ばれる。
+EN: "Hawk's claws"<n>A Japanese name for very hot red chili peppers.<n>They get their name from their clawlike shape.
+
+@30254 max=359
+JP: 「青菜に塩」は料理の下ごしらえじゃないだほほ。<p>青菜に塩をかけるとしおれちゃうことから、<n>急にしょげちゃうことを言うだほ。
+EN: "Salt on greens" isn't a cooking tip, daho!<p>Salt makes leafy greens wilt,<n>so the saying means suddenly losing heart, daho.
+
+@303BC max=359
+JP: 「青菜に塩」<n>塩をかけてしなっとなった青菜。<n>つまり、元気がなくしょげてる様子のこと。
+EN: "Salt on greens"<n>Leafy greens wilt when sprinkled with salt.<n>The saying describes someone looking dejected and lifeless.
+
+@30524 max=359
+JP: シェークスピアの四大悲劇は、<p>「ハムレット」「オセロー」<n>「マクベス」「リア王」だほほ。
+EN: Shakespeare's four great tragedies are...<p>Hamlet, Othello,<n>Macbeth and King Lear, daho!
+
+@3068C max=359
+JP: シェークスピアの四大悲劇。<n>「ハムレット」「オセロー」<n>「マクベス」「リア王」
+EN: Shakespeare's four great tragedies:<n>Hamlet, Othello,<n>Macbeth and King Lear.
+
+@307F4 max=359
+JP: 石の太鼓橋のアーチの中心にある石は<n>「要石」と呼ばれてるだほ。<p>これが落ちると橋は崩れてしまう、<n>まさに要の石なんだほほ。
+EN: The stone at the center of a stone bridge's arch<n>is called the keystone, daho.<p>If it falls out, the bridge collapses.<n>It's the key to the whole thing, daho!
+
+@3095C max=359
+JP: 石の太鼓橋。そのアーチが落ちることなくあるのは、<n>中心にある「要石」が石と石との力の均衡を保って、<n>支え合っているからだ。宙に浮いていて落ちないのは、<n>力学的に計算されつくされて、この要石があるからだ。
+EN: A stone bridge's arch stays up thanks to its keystone.<n>This central stone balances the forces between the stones,<n>allowing them to support one another.<n>Carefully calculated forces and the keystone keep the arch aloft.
+
+@30AC4 max=359
+JP: ガンジーは、生涯で合計１８回も<n>断食を行っているだほほ。<p>一番長いものは、２１日にも及んだだほ。
+EN: Gandhi fasted a total of 18 times<n>over the course of his life, daho.<p>His longest fast lasted a whole 21 days, daho!
+
+@30C2C max=359
+JP: ガンジーは、生涯で合計１８回も<n>断食を行っている。<n>一番長いものは、２１日にも及んだ。
+EN: Gandhi fasted a total of 18 times<n>over the course of his life.<n>His longest fast lasted 21 days.
+
+@30D94 max=359
+JP: 「生き馬の目を抜く」は、<p>ぼんやりしてると生きてる馬の目玉を抜き取るほど、<n>すばしこくって抜け目がないことのたとえだほほ。
+EN: "Plucking out a living horse's eye"...<p>It means being so quick and cunning, you could steal<n>a horse's eye the moment it let its guard down, daho!
+
+@30EFC max=359
+JP: 「生き馬の目を抜く」<n>生きた馬の目玉を抜き取ってしまうほど、<n>すばしっこくて油断ならない、という意味。
+EN: "Plucking out a living horse's eye"<n>Describes someone so quick and cunning they could steal<n>a living horse's eye. Someone you can't let your guard down around.
+
+@31064 max=359
+JP: 「寝た子を起こす」のは夜中に帰ってきたお父さん、<n>ってことはないだほ。<p>せっかくおさまった話を、<n>ひっぱりだしてまたぶりかえさせることを言うだほ。
+EN: "Waking a sleeping child" doesn't mean<n>Dad coming home late at night, daho.<p>It means digging up an issue that's finally settled<n>and stirring up trouble all over again, daho.
+
+@311CC max=359
+JP: 「寝た子を起こす」<n>ようやく静かになって寝ついた赤ん坊を、<n>わざわざ起こして泣かすようなこと。<n>せっかくおさまっている事柄に対して、<n>いらぬ手出しをしてぶりかえさせるさまを言う。
+EN: "Waking a sleeping child"<n>Like deliberately waking a baby that has finally settled down<n>and making it cry again.<n>It means needlessly interfering in a settled matter<n>and stirring up the trouble all over again.
+
+@31334 max=359
+JP: ナマズは味覚が発達した生き物だほ。<p>味を感じる「味らい」が<n>体の表面にまであるだほほ。
+EN: Catfish have a very keen sense of taste, daho.<p>They even have taste buds<n>on the surface of their bodies, daho!
+
+@3149C max=359
+JP: ナマズは味を感じる「味らい」が<n>全身に存在している。
+EN: Catfish have taste buds<n>all over their bodies.
+
+@31604 max=359
+JP: 「とどのつまり」は「とど」は、<n>成長したボラの別名だほ。<p>ボラは成長ごとに呼び名のかわる出世魚だほほ。<p>その最後がとどなので、先のない、とうとう、<n>という意味だほ。<p>あのトドとは関係ないだほほ。
+EN: In "todo no tsumari," meaning "in the end,"<n>todo is a fully grown mullet, daho.<p>Mullets get different names as they grow, daho.<p>Todo is the final name, so there's nowhere further to go.<n>That's why the phrase means "in the end," daho.<p>It's nothing to do with todo, the sea lion, daho!
+
+@3176C max=359
+JP: 「とどのつまり」<n>とどとは大きく成長したボラのこと。<n>ボラは成長ごとに名の変わる出世魚だが、<n>その最後がとど。そこから先はもうないので、<n>とどのつまりで、結局のところ、最後の、<n>という意味で使われる言葉。
+EN: "Todo no tsumari": "in the end"<n>Todo is the name for a fully grown mullet.<n>Mullets get different names as they grow,<n>and todo is the last one. There's nothing beyond it.<n>That's how the phrase came to mean<n>"ultimately" or "in the end."
+
+@318D4 max=359
+JP: 「虻蜂とらず」は、<n>虻と蜂の両方を取ろうと欲張って<p>両方取り逃がすことだほ。<p>二兎を追う者は一兎をも得ずと同じ意味だほ。<n>虻は蜂を取らない、ってのではないだほほ。
+EN: "Catching neither horsefly nor bee" means<n>getting greedy and trying to catch both...<p>Only to let both get away, daho.<p>Like chasing two rabbits and catching neither, daho.<n>It doesn't mean horseflies don't catch bees, daho!
+
+@31A3C max=359
+JP: 「虻蜂とらず」<n>虻と蜂の両方を同時にとろうとしたことで<n>かえって両方とも逃してしまうこと。<n>ひとつのことに専念すれば得られるものも、<n>欲張ることで何事も得られないという意味。
+EN: "Catching neither horsefly nor bee"<n>Trying to catch a horsefly and a bee at once,<n>only to let both get away.<n>You might succeed if you focused on one thing,<n>but greed can leave you with nothing.
+
+@31BA4 max=359
+JP: 「抵抗」の反対語は「屈服」だほほ。
+EN: The opposite of "resistance" is "submission," daho!
+
+@31D0C max=359
+JP: 「抵抗」の反対語は「屈服」。
+EN: The opposite of "resistance" is "submission."
+
+@31E74 max=359
+JP: 砂時計の砂は最初からガラス管の中に入れてから、<n>真空にして閉じるのだほほ。
+EN: An hourglass starts with sand in a glass tube.<n>Then the air is removed and the glass is sealed, daho!
+
+@31FDC max=359
+JP: 砂時計の砂はいつ入れられるか。<n>ガラスの円筒にまず砂を入れてから中を真空にし、<n>ガラスの口を閉じて成形する。
+EN: When does the sand go into an hourglass?<n>First, sand is put in a glass cylinder and the air is removed.<n>Then the opening is sealed and the glass is shaped.
+
+@32144 max=359
+JP: 大哲学者ソクラテスも、<n>妻のクサンチッペにはいつもののしられていただほ。<p>妻のグチが始まると<n>ソクラテスは家にいたたまれなくなり、<p>また街に出て市民に政治の理想を<n>説くのであったのだほほ。
+EN: Even the great philosopher Socrates<n>was always being scolded by his wife, Xanthippe, daho.<p>Once she started complaining,<n>he couldn't bear to stay at home, daho.<p>So off he'd go into town again<n>to teach the citizens his political ideals, daho!
+
+@322AC max=359
+JP: 大哲学者ソクラテスは、<n>妻のクサンチッペにはいつもののしられていた。<n>妻のグチが始まると<n>ソクラテスは家にいたたまれなくなり、<n>また街に出て市民に政治の理想を説いたと言う。
+EN: The great philosopher Socrates<n>was always being scolded by his wife, Xanthippe.<n>They say that whenever she started complaining,<n>he couldn't bear to stay at home,<n>so he'd go into town to teach the citizens his political ideals.
+
+@32414 max=359
+JP: 「寝る子は育つ」は、よく寝る子は丈夫に育つよ、<n>と子育てを励ますことわざだほほ。<p>実際に成長ホルモンは寝ている時に分泌するのだほ。
+EN: "Sleeping children grow" encourages parents by saying<n>children who sleep well grow up strong, daho.<p>Growth hormone really is released during sleep, daho!
+
+@3257C max=359
+JP: 「寝る子は育つ」<n>よく眠る子は丈夫に育つという意味。<n>寝てても起きてても子供は自然に育つのだと、<n>子育てを励ます言葉でもある。
+EN: "Sleeping children grow"<n>Means children who sleep well grow up strong.<n>It also reassures parents that children grow naturally,<n>whether they're asleep or awake.
+
+@326E4 max=359
+JP: 「にべもない」の「ニベ」とは魚の名前で、<n>腹の浮き袋からつくったニカワ（ニベ）は<p>ベタベタくっつくことからお世辞の意味だほ。<p>「にべもない」というのはその否定形なのだほほ。
+EN: Nibe in "nibe mo nai," meaning "curt," is a fish.<n>Glue made from its swim bladder is also called nibe, daho.<p>That sticky glue gave nibe the meaning "flattery," daho.<p>"Nibe mo nai" means having none of that, daho!
+
+@3284C max=359
+JP: 「にべもない」の「ニベ」とは魚の名前。<n>腹の浮き袋からつくったニカワ（ニベ）は<n>ベタベタくっつくことから転じて、お世辞の意味。<n>「にべもない」というのはその否定形。
+EN: Nibe in "nibe mo nai," meaning "curt," is a fish.<n>Glue made from its swim bladder is also called nibe.<n>Its stickiness gave the word the meaning "flattery."<n>"Nibe mo nai" is the negative: having none of that.
+
+@329B4 max=359
+JP: 「借りてきた猫」は、<n>普段とは違っておとなしくしてる様子のことだほ。<p>猫の手も借りたくて借りてきた猫、ではないだほほ。
+EN: "A borrowed cat" describes someone<n>who's unusually quiet and well-behaved, daho.<p>It doesn't mean borrowing a cat because you need an extra paw, daho!
+
+@32B1C max=359
+JP: 「借りてきた猫」<n>自分の家にいるときとちがって、<n>小さくなっておとなしくしている猫のように、<n>普段とは違って、妙におとなしくしている様子のこと。<n>緊張してかしこまってるさま。
+EN: "A borrowed cat"<n>A cat away from home tends to shrink back<n>and behave more quietly than usual.<n>The saying describes someone who's unusually subdued,<n>all stiff and formal from nerves.
+
+@32C84 max=359
+JP: 「自立」反対語は「依存」だほほ。
+EN: The opposite of "independence" is "dependence," daho!
+
+@32DEC max=359
+JP: 「自立」の反対語は「依存」。
+EN: The opposite of "independence" is "dependence."
+
+@32F54 max=359
+JP: プラトンの本名はアリストクレスなんだほが、<n>体格がよかったから「大」を意味する<p>プラトンの名で有名になったのだほほ。
+EN: Plato's real name was Aristocles, daho.<n>But he had such a broad build that<p>he became famous as Plato,<n>a name meaning "broad," daho!
+
+@330BC max=359
+JP: プラトンの本名はアリストクレス。<n>体格がよかったため、<n>「大」を意味する<n>プラトンの名で有名になった。
+EN: Plato's real name was Aristocles.<n>His broad build earned him the name Plato,<n>meaning "broad," by which he became famous.
+
+@33224 max=359
+JP: 「旅の恥はかき捨て」は、<n>どうせ旅先じゃ知ってる人がいないからと、<p>普段はしないようなことも<n>しちゃう行動のことを言うだほ。<p>でも「立つ鳥後をにごさず」も忘れずにだほほ。
+EN: "Leave your shame on the road" means<n>acting up when you travel, since nobody knows you, daho.<p>You do things you'd never do back home!<p>But remember, "A departing bird leaves its nest clean."<n>Don't leave a mess behind, daho!
+
+@3338C max=359
+JP: 「旅の恥はかき捨て」<n>旅先には知っている人もいないので、<n>多少恥ずかしいことをしてもその場かぎりのこと、<n>と、普段しないような行動や言動をするさま。<n>あるいは、そういう気分になるということ。
+EN: "Leave your shame on the road."<n>When traveling where nobody knows you, you may say or do things you normally wouldn't, figuring any embarrassment will stay there when you leave. The saying also describes that carefree mood.
+
+@334F4 max=359
+JP: 「ごまめの歯ぎしり」は、<n>実力もないのにくやしがることだほ。<p>ゴマメはカタクチイワシを干したもので、<n>そのゴマメがキリキリと<p>歯ぎしりしてるみたいな、ってことだほほ。
+EN: "A dried anchovy grinding its teeth" means<n>fuming when you're powerless to do anything, daho.<p>Imagine a tiny dried anchovy<p>gritting its teeth in rage.<n>That's the idea, daho!
+
+@3365C max=359
+JP: 「ごまめの歯ぎしり」<n>ごまめとはカタクチイワシの干したもの。<n>力のない弱いものが、勝負にもなってないのに<n>悔しがってる様子。相手には何の影響もなく、<n>無駄なこと。
+EN: "A dried anchovy grinding its teeth."<n>The Japanese word "gomame" means dried anchovy.<n>The saying describes someone weak fuming over a contest they never stood a chance in. Their anger has no effect on their opponent and achieves nothing.
+
+@337C4 max=359
+JP: インターネットは<n>もともと軍事目的で作られたのだほ。
+EN: The internet was originally created<n>for military purposes, daho!
+
+@3392C max=359
+JP: 核に破壊されても通信を確保する手段の模索から、<n>インターネットは生まれた。<n>アメリカの軍事目的だったのだ。
+EN: The internet grew out of a search for a way to keep communications working even after a nuclear attack.<n>Its original purpose was to serve the U.S. military.
+
+@33A94 max=359
+JP: 「金のわらじで探す」は、<n>「キン」のわらじではなく<p>金属性を意味する「カネ」のわらじだほほ。<n>丈夫なわらじを履いて根気よく探すんであって、<p>カネにもの言わせて<n>キンのわらじを作るんじゃないだほほ。
+EN: "Search in metal sandals" uses a Japanese word<n>that can mean either metal or gold, daho.<p>Here, it means metal! Wear sturdy sandals<n>and keep searching patiently, daho.<p>It doesn't mean splashing out<n>on fancy gold footwear, daho!
+
+@33BFC max=359
+JP: 「金のわらじで探す」は、<n>「キン」のわらじではなく<n>金属性を意味する「カネ」のわらじ。<n>丈夫なわらじを履いて根気よく探す、という意味。
+EN: "Search in metal sandals."<n>The character for "metal" can also mean "gold," but here it means ordinary metal.<n>The saying means to search patiently and persistently, as if wearing sandals that never wear out.
+
+@33D64 max=359
+JP: ロダンの「考える人」は<n>考えているのではないのだほ。<p>実は地獄の門から、地獄で苦しむ人々を<n>「見つめている人」なのだほほ。
+EN: Rodin's "The Thinker" isn't actually thinking, daho.<p>He's really "The Watcher," gazing down from the Gates of Hell at the suffering souls below, daho!
+
+@33ECC max=359
+JP: ロダンの彫刻「考える人」は、ダンテの「神曲」をイ<n>メージして作られた。それゆえ、彼は考えているので<n>はなく、地獄の門の上で、地獄で苦しむ人を「見つめ<n>ている人」なのである。
+EN: Rodin's sculpture "The Thinker" was inspired by Dante's "Divine Comedy."<n>Thus, he isn't thinking: he is "watching" the souls suffering in hell from his perch atop the Gates of Hell.
+
+@34034 max=359
+JP: 「真理も友も、ともに敬愛すべきであるが、<n>私は、友より以上に真理を尊重する」<p>師プラトンのイデア説に反論し、<n>独自の道を進んだアリストテレスは、<p>世間の非難にそう答えたのだほほ。
+EN: "Both truth and friends deserve our love,<n>but I value truth more highly than friendship."<p>Aristotle challenged his teacher Plato's theory of Forms<n>and followed his own path.<p>That was his answer to his critics, daho!
+
+@3419C max=359
+JP: 「真理も友も、ともに敬愛すべきであるが、<n>私は、友より以上に真理を尊重する」<n>師プラトンのイデア説に反論し、<n>独自の道を進んだアリストテレスは、<n>世間の非難にそう答えた。
+EN: "Both truth and friends deserve our love,<n>but I value truth more highly than friendship."<n>Aristotle gave this answer to his critics after challenging his teacher Plato's theory of Forms and following his own path.
+
+@34304 max=359
+JP: 「帯に短し、たすきに長し」は、<n>中途半端で使い物にならないことのたとえだほ。<p>帯にするには短い長さ、<n>といってたすきにするには長過ぎる。<p>大は小をかねるというから、たすきにするだほほ？
+EN: "Too short for a sash, too long for a sleeve tie"<n>means something is no use for either job, daho.<p>The cloth is too short to wrap around your waist,<n>but too long to tie back your sleeves.<p>Still, bigger is better, right?<n>Why not use it for the sleeves, daho?
+
+@3446C max=359
+JP: 「帯に短し、たすきに長し」<n>その布は、帯にするには短すぎ、<n>かといってたすきにするには長過ぎて不便だ。<n>転じて、中途半端で使い物にならないことを言う。
+EN: "Too short for a sash, too long for a sleeve tie."<n>A piece of cloth is too short to wrap around the waist, yet awkwardly long for tying back sleeves.<n>The saying describes something that falls between two uses and suits neither.
+
+@345D4 max=359
+JP: 「二階から目薬」は、<n>それくらいもどかしいってことのたとえだほ。<p>それじゃなくても目薬さすのはうまくいかなくて<n>もどかしいだほほい。
+EN: "Eye drops from upstairs" means<n>something painfully awkward and frustrating, daho.<p>I find putting in eye drops frustrating enough<n>at close range, daho!
+
+@3473C max=359
+JP: 「二階から目薬」<n>一階にいて二階の人に目薬をさしてもらう。<n>転じて、まわり遠くてもどかしく、思いどおりに<n>ならない様子を言う。
+EN: "Eye drops from upstairs."<n>Imagine standing downstairs while someone upstairs tries to put drops in your eyes.<n>The saying describes a roundabout, frustrating approach that just won't work as intended.
+
+@348A4 max=359
+JP: 「犯罪を犯す」というのは間違っているだほほ。<n>それじゃ白い白馬にまたがるようなもんだほほ。
+EN: The Japanese phrase "hanzai o okasu" repeats<n>the idea of committing a crime, daho.<n>It's like saying "a white white horse," daho!
+
+@34A0C max=359
+JP: 「犯罪を犯す」というのは<n>表現が重複している。<n>罪を犯すのが、犯罪だ。
+EN: The Japanese phrase "hanzai o okasu,"<n>meaning "commit a crime," is redundant:<n>"hanzai" already means committing an offense.
+
+@34B74 max=359
+JP: 碁石は黒石の方が白石より少し大きいのだほ。<n>黒石の方がどうしても小さく見えるから、<p>あらかじめ大きくしてあるのだほほ。
+EN: Black Go stones are a little bigger than white ones, daho.<n>Black stones naturally look smaller, so<p>they're made bigger to make up for it, daho!
+
+@34CDC max=359
+JP: 囲碁の碁石は、白と黒とでは大きさが異なる。<n>目の錯覚によって白石は黒石より大きく見えるため、<n>あらかじめ黒石は大きめにつくってある。
+EN: Black and white Go stones differ in size.<n>An optical illusion makes white stones look larger, so black stones are made slightly bigger to compensate.
+
+@34E44 max=359
+JP: 「絃が強すぎると切れる。弱いと弱いでまた鳴らぬ。<p>ほどほどの調子にしめて、上手にかきならすがよい」<n>という農夫の歌う民謡を聞いて、<p>仏陀は「中道」をひらめいたのだほほ。
+EN: "A string pulled too tight will snap.<n>Too loose, and it makes no sound.<p>Tune it just right, and play it well."<n>Hearing a farmer sing this folk song<p>gave the Buddha the idea for the Middle Way, daho!
+
+@34FAC max=359
+JP: 「絃が強すぎると切れる。弱いと弱いでまた鳴らぬ。<n>ほどほどの調子にしめて、上手にかきならすがよい」<n>という農夫の歌う民謡を聞き、<n>仏陀は「中道」をひらめいた。
+EN: "A string pulled too tight will snap.<n>Too loose, and it makes no sound.<n>Tune it just right, and play it well."<n>Hearing a farmer sing this folk song inspired the Buddha's idea of the Middle Way.
+
+@35114 max=359
+JP: 「爪に火をともす」は、<n>マジックでもトリックでもやせガマンでもないだほ。<p>爪に火をつけてろうそくがわりにするくらい<n>ケチだという意味だほほ。<p>つつましい暮らしのたとえでも使うだほほ。
+EN: "Light a fire on your fingernail" isn't magic,<n>a trick, or a test of endurance, daho.<p>It means being so stingy you'd burn your nails<n>for light to save on candles, daho!<p>It can also describe living very frugally, daho.
+
+@3527C max=359
+JP: 「爪に火をともす」<n>ろうそくのかわりに爪の先に火をつけて、<n>明かりのかわりにすること。<n>転じて、とってもケチなこと。
+EN: "Light a fire on your fingernail."<n>Burning the tips of your fingernails for light instead of using candles.<n>The saying means being extremely stingy.
+
+@353E4 max=359
+JP: 「穴があったら入りたい」は、<n>恥ずかしくて身を隠したいって気持ちのたとえだほ。<p>そんなこと言ってて<n>また自ら墓穴を掘る人も少なくないだほほ。
+EN: "I wish I could crawl into a hole" means<n>being so embarrassed you want to hide, daho.<p>Funny how plenty of people say that,<n>then go right on digging themselves deeper, daho!
+
+@3554C max=359
+JP: 「穴があったら入りたい」<n>恥ずかしくて、身を隠してしまいたい。<n>身のおきばがないほどに恥ずかしいという思い。
+EN: "I wish I could crawl into a hole."<n>Being so embarrassed that you want to hide away.<n>You feel so ashamed, you don't know where to put yourself.
+
+@356B4 max=359
+JP: 「おざなり」は意識的にいいかげん。<n>「なおざり」は無意識におろそか。<p>似てるけどニュアンスは違うだほほ、<n>使い方に気をつけるだほほ。
+EN: "Ozanari" means knowingly doing a slapdash job.<n>"Naozari" means carelessly neglecting something.<p>They sound alike, but there's a difference, daho.<n>Be careful which one you use, daho!
+
+@3581C max=359
+JP: 「おざなり」は意識的にいいかげん。<n>「なおざり」は無意識におろそか。<n>似ているが、違う。
+EN: "Ozanari" means knowingly doing a slapdash job.<n>"Naozari" means neglecting something without thinking.<n>Similar words, different meanings.
+
+@35984 max=359
+JP: ボーリングで三連続ストライクを<n>ターキーと言うのは、<p>１本の矢で３羽の七面鳥を一度にしとめた<n>先住民族の腕前に驚いた<p>ボーリング好きのオランダ人が命名しただほほ。
+EN: Three strikes in a row in bowling<n>are called a "turkey," daho.<p>A Dutch bowling fan saw a Native American<n>bring down three turkeys with one arrow.<p>He was so impressed, he named the bowling feat<n>after those birds, daho!
+
+@35AEC max=359
+JP: ボーリングで三連続ストライクを「ターキー」と呼ぶ<n>のは、オランダ人がアメリカ大陸に移住した頃にさか<n>のぼる。１本の矢で３羽の七面鳥をしとめた先住民を<n>見て、ボーリングで三連続ストライクを出すぐらいの<n>腕前だと驚いたオランダ人が、その後、ターキー（七<n>面鳥）と呼ぶようになったという。
+EN: Calling three bowling strikes a "turkey" dates back to Dutch settlement in America.<n>A Dutchman saw a Native American kill three turkeys with one arrow. Amazed, he compared that skill to bowling three strikes in a row.<n>It's said that's how the feat got its name.
+
+@35C54 max=359
+JP: 孔子が魯の国の役人として頭角をあらわしていた頃、<n>斉の国は、女優８０人、馬１２０頭からなる<p>女歌舞伎を送り込んで<n>魯の政治を堕落させようと企てただほ。<p>で、その通りになっただほほ。
+EN: When Confucius was rising through the ranks<n>as an official in Lu, the state of Qi sent over<p>a troupe of 80 female performers and 120 horses<n>to lure Lu's rulers away from their duties, daho.<p>And it worked, daho!
+
+@35DBC max=359
+JP: 孔子が魯の国の役人として頭角をあらわしていた頃、<n>斉の国は、魯の国の政治を堕落させようと企て、<n>女優８０人、馬１２０頭からなる<n>女歌舞伎を送り込んだ。<n>策は成功し、魯の国の政治は乱れていった。
+EN: When Confucius was gaining prominence as an official in Lu, the state of Qi plotted to corrupt Lu's government.<n>Qi sent over a troupe of 80 female performers and 120 horses.<n>The plan succeeded, and Lu's government fell into disorder.
+
+@35F24 max=359
+JP: 「無い袖は振れぬ」は、<n>ないものはどうしようもない、ということだほ。<p>ということはノースリーブの女の子とは、<n>袖降り合うも他生の縁もないのだほほ。<p>ジョークだほほ。
+EN: "You can't wave sleeves you haven't got" means<n>you can't give what you don't have, daho.<p>They also say brushing sleeves is a bond of fate.<n>So can I never meet a sleeveless girl by fate, daho?<p>Just a joke, daho!
+
+@3608C max=359
+JP: 「無い袖は振れぬ」<n>無いものはどうしようもない。<n>どうがんばっても、どんなにやきもきしても<n>どうしようもないという状況を言う。<n>貸してあげたいが金がないので貸せない、<n>といったときの断りなどにも使う。
+EN: "You can't wave sleeves you haven't got."<n>You can't give what you don't have, however hard you try or fret about it.<n>It's also used to turn down requests, such as when you'd like to lend someone money but have none to spare.
+
+@361F4 max=359
+JP: 何かに集中してると、たとえば今とか、<n>ベロの先が唇から出てるだほ？<p>それ、行動科学的に「タン・ショー」だほ。<p>「ほっといてくれ」ってメッセージを<n>無意識に送ってるのだほほ。
+EN: When you're concentrating, maybe even right now,<n>does the tip of your tongue stick out, daho?<p>Behavioral scientists call that a "tongue show."<p>You're unconsciously sending the message,<n>"Leave me alone," daho!
+
+@3635C max=359
+JP: 人が熱中しているときに無意識に舌を出す現象を<n>「タン・ショー」と呼ぶ。<n>舌の出し方はさまざまでも、そのしぐさの示す<n>メッセージはおおむね「ほっておいてくれ」である。
+EN: Unconsciously sticking out your tongue while deeply absorbed in something is called a "tongue show."<n>The tongue may appear in various ways, but the gesture generally sends the same message: "Leave me alone."
+
+@364C4 max=359
+JP: 「絵に描いた餅」は、<n>絵の餅はどんなにうまく描けてても<p>お腹はいっぱいにならない。<p>転じて現実には役に立たないことのたとえだほ。
+EN: "A rice cake in a painting" means that,<n>however beautifully you paint a rice cake...<p>it still won't fill your belly!<p>It's a saying for something that looks good<n>but is no use in practice, daho.
+
+@3662C max=359
+JP: 「絵に描いた餅」<n>どんなに上手に描かれた餅でも、しょせん絵では<n>おなかいっぱいにはならないということ。<n>言ってることは立派でも、実際には役にたたない<n>という意味。
+EN: "A rice cake in a painting."<n>No matter how beautifully a rice cake is painted, a picture won't fill your belly.<n>The saying describes something that sounds wonderful but is useless in practice.
+
+@36794 max=359
+JP: マラソンの距離はロンドン大会で<n>２６マイル（４１．８４２キロメートル）の予定が、<p>貴賓席の前をゴールにしようと変更して<n>４２．１９５キロメートルになったのが<p>今に至るのだほほ。
+EN: At the London Olympics, the marathon was meant to be 26 miles, or 41.842 kilometers, daho.<p>They moved the finish line to the royal box, making it 42.195 kilometers.<p>And that's still the distance today, daho!
+
+@368FC max=359
+JP: 第４回のロンドン・オリンピックではあらかじめマラ<n>ソンは２６マイル（４１．８４２キロメートル）の予<n>定であった。しかし、貴賓席の女王の前をゴールにと<n>変更したため、４２．１９５キロメートルというハン<n>パな距離になり、現在に至る。
+EN: At the fourth Olympics, in London, the marathon was planned as 26 miles (41.842 kilometers). But the finish was moved to pass before the queen in the royal box, giving us the oddly precise 42.195 kilometers still used today.
+
+@36A64 max=359
+JP: 「やおら」というのは、<n>おもむろに、悠然にという意味だほほ。<p>ゆったりしてるという意味だから<n>「やおら歩き始める」ことはあっても<p>「やおら駈け出す」ことはないだほほ。
+EN: The Japanese word "yaora" means "slowly and calmly," daho.<p>You could "yaora" start walking, since that can be nice and leisurely.<p>But you couldn't "yaora" break into a sprint, daho!
+
+@36BCC max=359
+JP: 「やおら」というのは、<n>おもむろに、悠然にという意味。<n>ゆったりしてるという意味なので、<n>「やおら歩き始める」ことはあっても<n>「やおら駈け出す」ことはない。
+EN: The Japanese word "yaora" means "slowly and calmly." You can use it to describe starting a leisurely walk, but not suddenly breaking into a sprint.
+
+@36D34 max=359
+JP: 『論語』は孔子と門弟たちによる言行録で、<n>２０篇からなっているだほ。
+EN: The Analects is a record of the words and deeds of Confucius and his disciples, daho.<n>It has 20 books.
+
+@36E9C max=359
+JP: 『論語』<n>孔子と門弟たちによる言行録で、<n>２０篇からなっている。
+EN: The Analects<n>A record of the words and deeds of Confucius and his disciples, divided into 20 books.
+
+@37004 max=359
+JP: 「人事を尽くして天命を待つ」は、<n>できることは全てしたから結果は天にまかそう、<p>ということだほ。<p>人事とは人としてなしうる事柄のことで、<n>会社の人事部とは関係ないだほほ。
+EN: "Do all you can, then leave the rest to Heaven" means you've done your best, so let fate decide, daho.<p>You've done everything humanly possible.<p>That's human effort, daho. Nothing to do with the Human Resources department!
+
+@3716C max=359
+JP: 「人事を尽くして天命を待つ」<n>できる限りのことをした上で、<n>結果は天命にまかせる、と悔いもなく潔い状況。
+EN: "Do all you can, then leave the rest to Heaven."<n>Having done everything possible, you can calmly leave the outcome to fate, with no regrets.
+
+@372D4 max=359
+JP: 地平線上の月の方が、<n>天上の月より大きく見えるのは、<p>頭の中の錯覚だほ。<n>脳にだまされてるだほ。
+EN: The moon looks bigger near the horizon than it does high overhead, daho.<p>But that's an illusion.<n>Your brain is playing tricks on you, daho!
+
+@3743C max=359
+JP: 地平線上に見える月が、<n>頭上のてっぺんにある月よりも大きく見えるのは、<n>脳の錯覚である。月のサイズは常に同じである。
+EN: The moon looks larger near the horizon than it does directly overhead because of an illusion created by the brain. The moon itself stays the same size.
+
+@375A4 max=359
+JP: 「可愛い子には旅をさせよ」は、<n>海外旅行に行きたいという娘のわがままを聞け、<p>という意味ではないだほ。<p>わが子を甘やかすより、<n>世に出して苦労させなさいってことだほ。
+EN: "If you love your child, send them on a journey" doesn't mean giving in when your daughter begs for a trip abroad, daho.<p>That's not the idea at all!<p>It means letting children face the world's hardships instead of spoiling them, daho.
+
+@3770C max=359
+JP: 「可愛い子には旅をさせよ」<n>本当に可愛いのであれば、甘やかさず、<n>世の中の苦しさ辛さも味あわせよという意味。
+EN: "If you love your child, send them on a journey."<n>If you truly love your children, let them experience life's hardships instead of spoiling them.
+
+@37874 max=359
+JP: 相撲の土俵上にある屋根から４色の房が<n>下がっているだほ。<p>青は青竜、赤は朱雀、白は白虎、黒は玄武という<n>神獣をあらわしているだほほ。
+EN: Four colored tassels hang from the roof above a sumo ring, daho.<p>They stand for divine beasts: blue for the Azure Dragon, red for the Vermilion Bird, white for the White Tiger, and black for the Black Tortoise, daho!
+
+@379DC max=359
+JP: 大相撲の土俵上には吊り屋根があり、「四つ房」とい<n>う４色の房が下がっている。正面東側に青房、向正面<n>東側に赤房、向正面西側に白房、正面西側が黒房。そ<n>れぞれ、青は青竜、赤は朱雀、白は白虎、黒は玄武と<n>いう神獣を表している。
+EN: Four colored tassels hang from the roof above a professional sumo ring: blue at the front east, red at the rear east, white at the rear west, and black at the front west. They represent the Azure Dragon, Vermilion Bird, White Tiger, and Black Tortoise, respectively.
+
+@37B44 max=359
+JP: 「流れにさお差す」というのは、<n>流れに逆らわずに上手に時流に乗ることだほほ。<p>さおを差して流れに逆らうという意味ではないだほ。
+EN: "Poling with the current" means making good use of the way things are going, daho.<p>It doesn't mean using your pole to fight the current, daho!
+
+@37CAC max=359
+JP: 「流れにさお差す」というのは、<n>流れに逆らわずに上手に時流に乗ること。<n>さおを差して流れに逆らうという意味ではない。
+EN: "Poling with the current" means skillfully going along with the times. It does not mean using a pole to push against the current.
+
+@37E14 max=359
+JP: 荀子は、人間は自然のままに放置しておけば、<n>欲を追い求め、互いに争うことになると唱えただほ。<p>これが「性悪説」だほほ。
+EN: Xunzi taught that people left to their own devices would pursue their desires and fight one another, daho.<p>That's the theory that human nature is evil, daho!
+
+@37F7C max=359
+JP: 「性悪説」<n>荀子は、人間は自然のままに放置しておけば、<n>欲を追い求め、互いに争うことになると唱えた。
+EN: The theory that human nature is evil:<n>Xunzi taught that people left to their own devices would pursue their desires and fight one another.
+
+@380E4 max=359
+JP: 「わざわいを転じて福となす」は、<n>ふりかかった災難も<p>次の幸運のチャンスとして活かすということだほほ。<p>失敗は成功の母ってことだほほ。
+EN: "Turn misfortune into good fortune" means taking a disaster that comes your way...<p>...and using it as a chance to find good fortune, daho!<p>Failure is the mother of success, daho!
+
+@3824C max=359
+JP: 「わざわい転じて福となす」<n>身にふりかかった災いも、うまく対処すれば<n>幸運への足がかりにすることもできるという意味。<n>実際に災いをきっかけにあらたな幸せを導いたときに<n>感心と祝福をこめて使うほか、<n>災いの渦中にいる人を励ますときにも使う。
+EN: "Turn misfortune into good fortune."<n>Handle a setback wisely, and it can become a stepping stone to happiness. The saying can express admiration and congratulations when someone does this, or encourage someone still facing trouble.
+
+@383B4 max=359
+JP: はたらきバチの寿命は、<n>時間ではなくて飛行距離が関係しているのだほ。<p>一定の距離を飛ぶと命がつきるのだほ。
+EN: A worker bee's lifespan depends on how far it flies, not how much time passes, daho.<p>Once it's flown a certain distance, its life comes to an end, daho.
+
+@3851C max=359
+JP: はたらきバチは一定の距離を飛ぶと命が途絶える。<n>はたらきバチの寿命は時間ではなく、飛行距離がかか<n>わっていると考えられている。
+EN: A worker bee dies after flying a certain distance. Its lifespan is thought to depend on distance flown rather than time elapsed.
+
+@38684 max=359
+JP: 「女心と秋の空」は、<n>どちらも変わりやすいというたとえだほ。<p>男心と秋の空の方が<n>昔からあったことわざなんだほほ。
+EN: "A woman's heart and the autumn sky" means both are quick to change, daho.<p>But the older version of the saying was about a man's heart, daho!
+
+@387EC max=359
+JP: 「女心と秋の空」<n>女性の気持ちも秋の空模様も、<n>どちらも変わりやすいということ。<n>当てにならないという意味でも、<n>あるいはそういうものだとあきらめよ、<n>という意味にも使われる。
+EN: "A woman's heart and the autumn sky."<n>The saying compares women's changing feelings to autumn's changeable weather. It can imply that neither can be relied on, or that you should simply accept them as they are.
+
+@38954 max=359
+JP: サッカーやアイスホッケーの「ハットトリック」は、<n>クリケットで３人連続アウトにした投手に、<p>栄誉をたたえて帽子を贈っていたことがルーツだほ。
+EN: The "hat trick" in soccer and ice hockey comes from cricket, daho.<p>A bowler who got three batters out in a row was given a hat to honor the feat, daho!
+
+@38ABC max=359
+JP: サッカーの「ハットトリック」の語源は<n>野球のルーツと言われるクリケット用語。<n>三人の打者を連続アウトにした投手に、その名誉を<n>たたえて帽子を贈ったことに由来する。
+EN: Soccer's "hat trick" comes from cricket, said to be an ancestor of baseball. A bowler who got three batters out in a row was given a hat in recognition of the achievement.
+
+@38C24 max=359
+JP: 寸暇は「惜しむ」のであって<n>「寸暇を惜しまず」では時間のムダ使いだほほ。<p>そこのとこ<n>「骨身を惜しまず」ちゃんと考えてほしいだほほ。
+EN: You're meant to "waste no time." Say "spare no time" and you won't set aside a single moment, daho!<p>"Spare no effort" in learning the difference, daho!
+
+@38D8C max=359
+JP: 寸暇は「惜しむ」もの。<n>「寸暇を惜しまず」では<n>時間のムダ使いになる。
+EN: The phrase is "waste no time."<n>"Spare no time" means you won't set aside any time at all.
+
+@38EF4 max=359
+JP: 孟子は、人間の本性は善であり、<n>仁・義・礼・智の徳の芽を生まれながら<p>持っていると唱えただほ。<n>これが「性善説」だほほ。
+EN: Mencius taught that human nature is good. We're born with the seeds of kindness, righteousness, propriety, and wisdom, daho.<p>That's the theory that human nature is good, daho!
+
+@3905C max=359
+JP: 「性善説」<n>孟子は人間の本性は善であり、<n>仁・義・礼・智の徳の芽を生まれながら<n>持っていると唱えた。
+EN: The theory that human nature is good:<n>Mencius taught that people are born good, with the seeds of kindness, righteousness, propriety, and wisdom already within them.
+
+@391C4 max=359
+JP: 「鶏口となるも牛後となるなかれ」とは、<n>牛のシッポにつくよりも鶏のくちばしの方がいい、<p>大企業の下っぱよりも<n>小さな企業のトップになれってことだほほ。
+EN: "Be a chicken's beak, not an ox's tail" means it's better to lead a chicken than trail behind an ox, daho.<p>Better to run a small company than be a lowly worker in a huge one, daho!
+
+@3932C max=359
+JP: 「鶏口となるも牛後となるなかれ」<n>牛のシッポとなるよりも、鶏のくちばしの方がいい。<n>大きな組織で人に使われるよりも、<n>小さくても人を使う立場になった方がいいという意味。
+EN: "Be a chicken's beak, not an ox's tail."<n>Better to be a chicken's beak than an ox's tail: leading a small organization is preferable to taking orders in a large one.
+
+@39494 max=359
+JP: 人は一日平均１５０００回まばたきをしているだほ。
+EN: People blink an average of 15,000 times a day, daho!
+
+@395FC max=359
+JP: 人が一日にするまばたきの回数は、<n>約１５０００回。
+EN: A person blinks about 15,000 times a day.
+
+@39764 max=359
+JP: 左投手のサウスポー（南の手）という言葉は<n>アメリカの新聞記者が作っただほ。<p>打者が東を向くように設計されたシカゴ球場では、<n>左投手は左腕が南側になったからなんだほほ。
+EN: An American reporter coined "southpaw," meaning "southern hand," for left-handed pitchers, daho.<p>At a Chicago ballpark built so batters faced east, a left-handed pitcher's throwing arm was on the south side, daho!
+
+@398CC max=359
+JP: 野球で左投手のことをサウスポー（南の手）と呼ぶ。<n>バッターボックスで太陽の光が眩しくないようにと、<n>打者が東を向くように設計されたシカゴ球場では、<n>左投手の左腕が南側になったことから<n>アメリカの新聞記者が作った言葉だ。
+EN: Left-handed baseball pitchers are called "southpaws," or "southern hands." An American reporter coined the term at a Chicago ballpark built so batters faced east to avoid the sun's glare. A left-handed pitcher's throwing arm was on the south side.
+
+@39A34 max=359
+JP: 「たとえ火の中、水の中」は、<n>消防士募集のキャッチフレーズじゃないだほ。<p>つらいことがあっても、<n>君と一緒に行動するよという心意気を言ってるだほ。
+EN: "Through fire and water" isn't a slogan for recruiting firefighters, daho.<p>It means you're ready to stick by someone, no matter how tough things get, daho!
+
+@39B9C max=359
+JP: 「たとえ火の中、水の中」<n>どんなに辛い状況にあろうとも、<n>最後まで相手についていく、という覚悟を言う。
+EN: "Through fire and water."<n>An expression of resolve to stay by someone's side to the very end, no matter how difficult things become.
+
+@39D04 max=359
+JP: 眉は「ひそめる」のであって<n>「しかめる」のではないだほ。<p>それを言うなら「顔をしかめる」だほほ。
+EN: You "furrow" your brow. You don't "scrunch up" your brow, daho.<p>It's your face that you "scrunch up," daho!
+
+@39E6C max=359
+JP: 眉は「ひそめる」のであって<n>「しかめる」のではない。<n>しかめるのは「顔」だ。
+EN: You "furrow" your brow, not "scrunch it up."<n>It's your face that you "scrunch up."
+
+@39FD4 max=359
+JP: 「無為自然」とは、<n>無の道に従って、いっさいの作為を捨て、<p>ありのままに自然に生きることを言うのだほほ。
+EN: 'Wu wei ziran' means following the way of nothingness,<n>letting go of all contrivance,<p>and living naturally, just as you are, daho.
+
+@3A13C max=359
+JP: 「無為自然」。<n>無の道に従って、いっさいの作為を捨て、<n>ありのままに自然に生きることを言う。
+EN: 'Wu wei ziran.'<n>Following the way of nothingness, abandoning all contrivance,<n>and living naturally, just as you are.
+
+@3A2A4 max=359
+JP: 「寄らば大樹の陰」ってのは、<n>身をよせるなら小さな木より大きな木の方がいい、<p>転じて働くなら大企業だろって意味だほ。<p>でも大木のそばでは<n>雷に気をつけなくてはいけないだほほ。
+EN: 'Seek shelter under a mighty tree' means<n>a big tree offers better shelter than a small one, daho.<p>In other words, work for a big company, daho!<p>But beside a big tree,<n>you'd better watch out for lightning, daho.
+
+@3A40C max=359
+JP: 「寄らば大樹の陰」<n>どうせ身を寄せるのであれば、小さな木より<n>大きな木の方がいい。<n>転じて、大きな力を持つ人物や企業のもとに<n>いた方が安心だという意味。
+EN: 'Seek shelter under a mighty tree.'<n>If you need shelter, a big tree<n>is better than a small one.<n>In other words, there is greater security in serving<n>a powerful person or a large company.
+
+@3A574 max=359
+JP: 三振、スリーアウトでチェンジ、９回制。<n>野球のルールには十二進法の影響が色濃いのだほほ。
+EN: Three strikes, three outs to change sides, nine innings.<n>Baseball's rules show a strong base-12 influence, daho.
+
+@3A6DC max=359
+JP: 野球の三振、スリーアウトチェンジ、９回制。<n>アメリカで野球が誕生した頃は１２進法が一般的で、<n>すべて１２進法が元になっている。
+EN: Three strikes, three outs to change sides, nine innings.<n>Base-12 counting was common when baseball began in America,<n>and all these rules are based on it.
+
+@3A844 max=359
+JP: オスの蚊はたとえ皮膚にとまっても<n>血は吸わないのだほ。<p>オスの好物は花のミツなんだほ。
+EN: Even if a male mosquito lands on your skin,<n>it won't suck your blood, daho.<p>The boys prefer flower nectar, daho.
+
+@3A9AC max=359
+JP: 蚊で血を吸うのはメスだけ。<n>オスが吸うのは花の蜜。
+EN: Only female mosquitoes suck blood.<n>The males drink flower nectar.
+
+@3AB14 max=359
+JP: 「三つ子の魂百まで」は、<n>三つ子は三歳の子の意味で、<p>子供の頃に身についた性質は<n>いくつになっても変わらないってことだほ。<p>三つ子のことを言ってるのではないだほほ。
+EN: 'The soul at three stays till a hundred'<n>uses 'mitsugo' to mean a three-year-old, daho.<p>It means the traits you pick up as a child<n>stay with you all your life, daho.<p>It isn't talking about triplets, daho!
+
+@3AC7C max=359
+JP: 「三つ子の魂百まで」<n>小さいときにそなわった性質は、歳をとっても<n>変わらないという意味。<n>雀百まで踊りを忘れず、も同じ意味。
+EN: 'The soul at three stays till a hundred.'<n>The traits you acquire as a small child stay with you<n>even in old age.<n>'A sparrow never forgets its dance, even at a hundred' means the same.
+
+@3ADE4 max=359
+JP: れっきとした、という意味の言葉は<n>「押しも押されぬ」ではなく<p>「押しも押されもせぬ」だほほ。<n>ついでに「押しに押されぬ」てのもあるだほほ。
+EN: 'Undeniably established' in Japanese is<n>'oshi mo osare mo senu,' daho.<p>'Oshi mo osarenu' is wrong.<n>'Oshi ni osarenu' is another version, daho.
+
+@3AF4C max=359
+JP: れっきとした、という意味の言葉は<n>「押しも押されぬ」ではなく<n>「押しも押されもせぬ」が正しい。
+EN: 'Oshi mo osare mo senu,'<n>meaning 'undeniably established,' is correct.<n>'Oshi mo osarenu' is not.
+
+@3B0B4 max=359
+JP: 平和を愛する哲学者ホッブズは生涯独身だっただほ。<p>決まって午後１時になると一人で食事をし、<n>煙草を吸いながら著述に没頭しただほほ。
+EN: Hobbes, the peace-loving philosopher, stayed single all his life, daho.<p>He always ate alone at one in the afternoon,<n>then immersed himself in writing while smoking, daho.
+
+@3B21C max=359
+JP: 平和を愛する哲学者ホッブズは生涯独身だった。<n>午後１時になると必ず一人で食事をし、<n>煙草を吸いながら著述に没頭したと言う。
+EN: Hobbes, the peace-loving philosopher, never married.<n>He is said to have always eaten alone at 1 p.m.,<n>then immersed himself in writing while smoking.
+
+@3B384 max=359
+JP: 野球はもともと２１点先取制で戦われていただほほ。
+EN: Baseball was originally played until one team scored 21 runs, daho.
+
+@3B4EC max=359
+JP: 野球がアメリカで誕生した頃は<n>得点は「２１点先取制」だった。
+EN: When baseball began in America,<n>the first team to score 21 runs won.
+
+@3B654 max=359
+JP: 「坊主憎けりゃ袈裟まで憎い」の袈裟とは、<n>僧侶の身につけてる衣服だほ。<p>誰かを憎むとその人の周辺のすべてが<n>憎いというたとえだほほ。<p>夕べから今朝まで憎かった、ではないだほほ。
+EN: 'Hate the monk, hate his robe.'<n>A monk's robe is called a 'kesa,' daho.<p>It means hating someone makes you hate<n>everything connected with them too, daho.<p>'Kesa' also means 'this morning,' but this isn't about hating someone from dusk till dawn, daho!
+
+@3B7BC max=359
+JP: 「坊主憎けりゃ袈裟まで憎い」<n>袈裟とは僧侶が身につけている衣裳。<n>何かを憎むと、その周辺のもの全てまでが憎々しく<n>思えてくるという意味。
+EN: 'Hate the monk, hate his robe.'<n>The 'kesa' is a robe worn by Buddhist monks.<n>When you hate something, you may come to hate<n>everything associated with it too.
+
+@3B924 max=359
+JP: メスの蚊は血を吸って満腹になると<p>脳に信号が送られて、<n>卵を産むためのホルモンが分泌されるだほほ。
+EN: When a female mosquito fills up on blood,<p>a signal is sent to her brain,<n>triggering the release of hormones for egg-laying, daho.
+
+@3BA8C max=359
+JP: メスの蚊は、<n>血で満腹になると脳に信号が送られ、<n>卵を産むためのホルモン分泌が促される。
+EN: When a female mosquito<n>fills up on blood, a signal goes to her brain,<n>stimulating the release of hormones for egg-laying.
+
+@3BBF4 max=359
+JP: 大潮のとき、アマゾン川では、<n>海の水が河を逆流する「潮津波」現象が起こるだほ。<p>潮位を高めた海面が川の流れを押し返し、<n>川をさかのぼるのだほほ。
+EN: During spring tides, the Amazon River has a 'tidal bore,'<n>where seawater flows upstream, daho.<p>The rising sea pushes back against the river's flow,<n>sending seawater surging upriver, daho.
+
+@3BD5C max=359
+JP: 大潮のとき、アマゾン川では、<n>海の水が河を逆流する「潮津波」が起こる。<n>潮位を上げた海面が川の流れを押し返し、<n>海の水が川を逆流していく現象だ。
+EN: During spring tides, a 'tidal bore' occurs in the Amazon.<n>Seawater flows upstream.<n>The rising sea pushes back against the river's flow,<n>forcing seawater upriver.
+
+@3BEC4 max=359
+JP: 「独立」の反対語は「従属」だほほ。
+EN: The opposite of 'independence' is 'subordination,' daho.
+
+@3C02C max=359
+JP: 「独立」の反対語は「従属」。
+EN: The opposite of 'independence' is 'subordination.'
+
+@3C194 max=359
+JP: 「三十にして立つ」「四十にして惑わず」<n>「五十にして天命を知る」「六十の手習い」<p>「人生七十古稀まれなり」<n>「百になって百事を覚える」と、<p>いくつになっても人生は学習だほほ。
+EN: 'At 30, stand firm.' 'At 40, be free of doubt.'<n>'At 50, know heaven's will.' 'At 60, start learning.'<p>'Reaching 70 was rare in ancient times.'<n>'At 100, learn a hundred things.'<p>However old you get, life is one long lesson, daho.
+
+@3C2FC max=359
+JP: 「三十にして立つ」「四十にして惑わず」<n>「五十にして天命を知る」「六十の手習い」<n>「人生七十古稀まれなり」<n>「百になっても百事を覚える」。<n>それぞれの年齢ごとのことわざが存在する。<n>人生５０年と言われた時代と現代では<n>おのずと年齢観の違いもある。
+EN: At 30, stand firm; at 40, be free of doubt.<n>At 50, know heaven's will; at 60, start learning.<n>Reaching 70 was rare in ancient times.<n>At 100, learn a hundred things.<n>There are sayings for every age.<n>Views on aging naturally differ between today<n>and an era when a lifetime meant 50 years.
+
+@3C464 max=359
+JP: 「愛想をふりまく」ではなく<n>「愛きょうをふりまく」だほほ。<p>愛想はいいに越したことはないだほが、<n>ふりまけないだほほ。
+EN: In Japanese, you spread 'aikyo' (charm),<n>not 'aiso' (friendliness), daho.<p>Friendliness is a fine thing,<n>but you can't spread it around, daho.
+
+@3C5CC max=359
+JP: 「愛想をふりまく」ではなく<n>「愛きょうをふりまく」が正しい。
+EN: In Japanese, 'aikyo o furimaku' (spread your charm)<n>is correct, not 'aiso o furimaku' (spread your friendliness).
+
+@3C734 max=359
+JP: ご飯の別名の「シャリ」は仏教用語の「舎利」で、<n>お釈迦様の骨のことだほほ。<p>最後のひと粒まで残してはいけないだほほ。
+EN: 'Shari,' another word for rice, comes from a Buddhist term<n>for the Buddha's bones, daho.<p>So don't leave even a single grain behind, daho!
+
+@3C89C max=359
+JP: 寿司屋でご飯をシャリと呼ぶ語源は<n>仏教語の「仏舎利」が語源。<n>舎利とはお釈迦様の骨のことで、<n>舎利が土に還って穀類になるという意味で<n>米を舎利と呼ぶようになった。
+EN: Sushi chefs call rice 'shari,'<n>from the Buddhist term 'busshari.'<n>'Shari' refers to the Buddha's bones.<n>The idea that these bones return to the soil and become grain<n>led to rice being called 'shari.'
+
+@3CA04 max=359
+JP: 「神が決して私をお捨てにならないように」<n>という言葉を最期に、パスカルは生涯を閉じただほ。<p>３９歳だほほ。
+EN: 'May God never abandon me.'<n>With those final words, Pascal's life came to an end, daho.<p>He was 39, daho.
+
+@3CB6C max=359
+JP: 「神が決して私をお捨てにならないように」<n>パスカル最期の言葉。<n>享年３９歳。
+EN: 'May God never abandon me.'<n>Pascal's last words.<n>He died at 39.
+
+@3CCD4 max=359
+JP: 「情けは人の為ならず」は、<n>人のために善いことをすると巡りめぐって<p>自分に善いことが返ってくるという意味だほ。
+EN: 'Kindness is not for others alone' means<n>that when you do good things for someone else,<p>that kindness eventually finds its way back to you, daho.
+
+@3CE3C max=359
+JP: 「情けは人の為ならず」<n>人のために善いことをしておけば、<n>それはめぐりめぐって自分の元へ戻ってくるものだ、<n>という意味。
+EN: 'Kindness is not for others alone.'<n>When you do good things for others,<n>that kindness will eventually find its way<n>back to you.
+
+@3CFA4 max=359
+JP: ハワイは１年間に６～８センチずつ<n>日本に近づいているだほほ。
+EN: Hawaii moves six to eight centimeters closer<n>to Japan every year, daho.
+
+@3D10C max=359
+JP: プレートテクトニクス理論によると、<n>ハワイは１年に６～８センチずつ日本に近づいている。
+EN: According to plate tectonics,<n>Hawaii moves six to eight centimeters closer to Japan each year.
+
+@3D274 max=359
+JP: テディベアは<n>アメリカ大統領セオドア・ルーズベルトが<p>狩りで小熊を撃たなかったエピソードから<n>生まれたぬいぐるみだほ。<p>テディとはセオドアの愛称なんだほ。
+EN: The teddy bear was inspired by<n>US president Theodore Roosevelt, daho.<p>He once refused to shoot a bear cub<n>while out hunting, daho.<p>Teddy was Theodore's nickname, daho.
+
+@3D3DC max=359
+JP: １９０２年１１月。<n>ミシシッピ州におもむいたアメリカ合衆国第２６代<n>大統領セオドア・ルーズベルト（愛称テディ）は<n>狩りをしていたが、小熊を撃たずに逃がしてやった。<n>この話をきっかけに小熊のぬいぐるみが誕生し、<n>テディ・ベアと呼ばれて大ヒットした。
+EN: November 1902.<n>The 26th US president, Theodore Roosevelt,<n>nicknamed Teddy, went hunting in Mississippi.<n>He spared a bear cub and let it go.<n>The story inspired a stuffed bear toy.<n>Named the teddy bear, it became a huge hit.
+
+@3D544 max=359
+JP: 源義経の別名は源九郎義経だが、実は八男だほ。
+EN: Minamoto no Yoshitsune was also called Kuro, meaning 'ninth son,' but he was actually the eighth son, daho.
+
+@3D6AC max=359
+JP: 源九郎義経こと源義経。<n>義経は八男であったが、<n>叔父の為朝が鎮西八郎と名乗っていたため、<n>元服の際に九郎と名乗ったと言われている。
+EN: Minamoto no Yoshitsune was also called Kuro.<n>He was the eighth son, but his uncle Tametomo<n>already used Chinzei Hachiro, a name meaning 'eighth son.'<n>So Yoshitsune is said to have chosen Kuro, 'ninth son,' at his coming-of-age ceremony.
+
+@3D814 max=359
+JP: 「あばたもえくぼ」ってのは<n>好きになれば欠点も長所に見えるってことだほ。<p>あばたってのは天然痘にかかったあとの<n>ぶつぶつのことだほほ。
+EN: 'Even pockmarks look like dimples' means<n>love makes flaws look like virtues, daho.<p>Pockmarks are the little scars left behind<n>by smallpox, daho.
+
+@3D97C max=359
+JP: 「あばたもえくぼ」<n>あばたとは、天然痘にかかったあとの、<n>ブツブツのことで、それすら愛嬌のあるえくぼに<n>見えるということ。転じて、好きになってしまえば<n>欠点も長所に見えてくるという意味。
+EN: 'Even pockmarks look like dimples.'<n>Pockmarks are scars left by smallpox.<n>The saying means even those scars can look<n>like charming dimples when you're in love.<n>Once you love someone, even their flaws seem like virtues.
+
+@3DAE4 max=359
+JP: 卒業予定者を早くから決定するのは<n>「青田刈り」じゃなくて「青田買い」だほほ。<p>稲の青いうちに田を買うんであって、<n>青い田のうちに刈りこんじゃ使い物にならんだほほ。
+EN: Recruiting students early is 'aotagai,' buying green fields,<n>not 'aotagari,' cutting green fields, daho.<p>You buy the field while the rice is still green.<n>Cut it down that early and it's useless, daho!
+
+@3DC4C max=359
+JP: 卒業予定者を早くから決定するのは「青田買い」。<n>まだ稲の青いうちに田を買うことから。
+EN: Recruiting students before graduation is called 'aotagai.'<n>It means buying a field while its rice is still green.
+
+@3DDB4 max=359
+JP: オーストラリアの砂漠地帯にそびえ立つ<n>エアーズロックは、<p>世界最大級の一枚岩だほ。
+EN: Ayers Rock towers over<n>the Australian desert, daho.<p>It's one of the world's largest monoliths, daho.
+
+@3DF1C max=359
+JP: オーストラリアのエアーズロックは、<n>世界最大級の一枚岩である。<n>現地では「ウルル」と呼ばれている。
+EN: Australia's Ayers Rock is<n>one of the world's largest monoliths.<n>Its local name is Uluru.
+
+@3E084 max=359
+JP: 光が強いと瞳孔が閉じ、<n>光が弱いと瞳孔が開くように、<p>薄暗い空間の方が光を感じる心が開いて、<n>感情は豊かになるだほ。
+EN: Your pupils shrink in bright light<n>and widen in dim light, daho.<p>In dim places, your heart opens up to light too,<n>making your emotions richer, daho.
+
+@3E1EC max=359
+JP: 光が強いと瞳孔は閉じ、光が弱いと瞳孔が開く。人は<n>薄暗い空間の方が少ない光を感じとろうと、光への感<n>受性を高めるため、明るい中にいる時よりも感情が豊<n>かになると考えられている。
+EN: Pupils shrink in bright light and widen in dim light.<n>In dim surroundings, people become more sensitive<n>to light as they try to detect what little there is.<n>This is thought to make emotions richer than in bright light.
+
+@3E354 max=359
+JP: 孤独を愛したデカルトは<n>パリでは自分の居所を隠し、<p>オランダでは２０年間に１３の土地で<n>２４回も引越しただほほ。
+EN: Descartes loved solitude so much<n>that he hid his address in Paris, daho.<p>In the Netherlands, he moved 24 times<n>between 13 places in just 20 years, daho.
+
+@3E4BC max=359
+JP: 孤独を愛したデカルトは<n>パリでは自分の居所を隠し、<n>オランダでは２０年間に１３の土地で<n>２４回引越した。
+EN: Descartes loved solitude.<n>He kept his address secret in Paris,<n>and in the Netherlands, he moved 24 times<n>between 13 places over 20 years.
+
+@3E624 max=359
+JP: ペリーが来航したとき、<n>日本側の通訳はオランダ語しか話せなかったのだほ。
+EN: When Perry arrived in Japan,<n>the Japanese interpreters knew only Dutch as a foreign language, daho.
+
+@3E78C max=359
+JP: １８５３年黒船来航。<n>そのとき日本の幕府が差し向けた通訳は、<n>オランダ語しか話せなかった。
+EN: The Black Ships arrived in 1853.<n>The interpreters sent by Japan's shogunate<n>knew only Dutch as a foreign language.
+
+@3E8F4 max=359
+JP: 「親しき仲にも礼儀あり」とは、<n>どんなに仲良しでぶっちゃけられる間柄でも、<p>礼儀はちゃんと守ろうよという意味だほ。<p>友達と末永く仲良くできるコツでもあるだほほ。
+EN: 'Even close friends need manners' means that<n>no matter how freely you can speak to someone...<p>You should still mind your manners, daho.<p>It's the secret to friendships that last, daho.
+
+@3EA5C max=359
+JP: 「親しき仲にも礼儀あり」<n>親しさにあぐらをかいて、礼儀を忘れると、<n>それがせっかくの仲に不和を生み出すことになる、<n>といういましめのことわざ。
+EN: 'Even close friends need manners.'<n>This proverb warns that taking friendship for granted<n>and forgetting your manners can cause friction<n>in an otherwise happy relationship.
+
+@3EBC4 max=359
+JP: アマゾン川流域の面積は<n>日本の国土のおよそ１９倍の広さにあたるだほほ。
+EN: The Amazon River basin covers an area<n>about 19 times the size of Japan, daho.
+
+@3ED2C max=359
+JP: アマゾン川流域の面積は、<n>日本の国土の約１９倍もの広さがある。
+EN: The Amazon River basin covers an area<n>roughly 19 times the size of Japan.
+
+@3EE94 max=359
+JP: 動物の赤ちゃんが丸くぽっちゃりした顔に大きな目で、<n>短い手足でヨチヨチとおぼつかない動きなのは、<p>見るものに「かわいい」と思わせることで<n>生存率を高めてるだほ。<p>かわいいは戦略だほほ。
+EN: Baby animals have round, chubby faces, big eyes,<n>stubby limbs and wobbly little steps, daho.<p>All that cuteness makes others want to protect them,<n>giving them a better chance of survival, daho.<p>Being cute is a survival strategy, daho!
+
+@3EFFC max=359
+JP: 人間の赤ん坊、動物の赤ん坊は、丸くぽっちゃりした<n>顔、大きな目、おぼつかない動きなどの身体特徴によ<n>って自らの生存率を高めている。<n>親たちを「かわいい」「優しくしてあげたい」という<n>気持ちにさせることで愛情心をそそっているのだ。
+EN: Human and animal babies have round, chubby faces,<n>big eyes and unsteady movements.<n>These traits improve their chances of survival<n>by making parents think, 'How cute! I must be gentle!'<n>That feeling brings out their love and affection.
+
+@3F164 max=359
+JP: 情熱の赤は、実際に人の血圧や体温を上げて<n>興奮状態を呼び起こすらしいだほ。<p>逆にクールな青は血圧も体温を下げて、<n>呼吸や脈拍も穏やかにしてくれるのだほ。<p>色も使いようだほ。
+EN: Passionate red is said to raise blood pressure<n>and body temperature, stirring up excitement, daho.<p>Cool blue does the opposite. It lowers both,<n>and calms your breathing and pulse, daho.<p>Put those colors to good use, daho!
+
+@3F2CC max=359
+JP: 色が身体への生理的な影響を与えるという説がある。<n>暖色には交感神経に働きかけてエネルギー代謝を高め<n>る効果が、寒色には副交感神経を刺激してエネルギー<n>代謝を抑制する効果があると考えられるという。
+EN: One theory holds that colors affect the body.<n>Warm colors are thought to stimulate the sympathetic<n>nervous system and boost energy metabolism. Cool colors<n>may stimulate the parasympathetic system and reduce it.
+
+@3F434 max=359
+JP: カナリア諸島はカナリアの原産地だほ。<p>でもカナリアという名はラテン語の<n>犬を意味する言葉に由来してるだほほ。
+EN: Canaries come from the Canary Islands, daho.<p>But the name comes from a Latin word<n>meaning 'dog,' daho!
+
+@3F59C max=359
+JP: カナリア諸島はカナリアの原産地だが、<n>カナリアとはラテン語で犬を意味する言葉に<n>由来しているのだと言われている。
+EN: Canaries are native to the Canary Islands,<n>but the islands' name is said to come from<n>a Latin word meaning 'dog.'
+
+@3F704 max=359
+JP: 「たで食う虫も好きずき」の<n>たでってのは苦味のある草の名だほ。<p>そんな草を好む虫がいるように<n>人の好みもいろいろだわなぁってことだほほ。
+EN: 'Some bugs love even bitter weeds.'<n>The weed in this saying is called tade, daho.<p>Just as some bugs enjoy that bitter plant,<n>people have all sorts of tastes, daho.
+
+@3F86C max=359
+JP: 「たで食う虫も好きずき」<n>たでという辛い葉でも好んで食べる虫もいる。<n>人の好みもさまざまだと言う意味で、<n>時として悪趣味なことも指す。
+EN: 'Some bugs love even bitter weeds.'<n>Some insects happily eat the peppery leaves of tade.<n>The saying means that tastes differ,<n>sometimes with a hint that someone's taste is bad.
+
+@3F9D4 max=359
+JP: 「海のもくず」は海で死ぬこと、<n>「海のもずく」は食べ物だほほ。
+EN: 'Umi no mokuzu' means dying at sea.<n>'Umi no mozuku' is seaweed you can eat, daho!
+
+@3FB3C max=359
+JP: 「海のもくず」とは海で死ぬこと。<n>「海のもずく」とは海藻の一種。
+EN: 'Umi no mokuzu,' or 'sea debris,' means dying at sea.<n>'Umi no mozuku' refers to a type of seaweed.
+
+@3FCA4 max=359
+JP: 背景が黒いと、中の色はより鮮やかに見えるだほほ。<p>回転寿司も白い皿のネタより黒い皿のネタの方が、<n>新鮮でうまそうに見えるのはそのせいだほ。
+EN: Colors look more vivid against black, daho.<p>That's why conveyor-belt sushi on a black plate<n>looks fresher and tastier than on a white one, daho.
+
+@3FE0C max=359
+JP: 背景が暗いと、中の色は大きくはっきりと見える。特<n>に効果的なのが黒。黒で囲んだとき、中の色はその色<n>の特性を最大限に発揮する。この効果は寿司など料理<n>の盛りつけで活用されることが多い。
+EN: Colors look larger and more distinct against a dark<n>background. Black is especially effective.<n>Surrounding a color with black brings out its qualities.<n>This effect is often used when plating sushi and other food.
+
+@3FF74 max=359
+JP: カナダとアメリカ国境の西側半分や<n>アフリカの国々の国境が直線なのは、<p>まさに地図上に定規で線を引いて<n>決めたからなのだほほ。
+EN: The western half of the US-Canada border<n>and many borders in Africa are straight, daho.<p>That's because people literally took a ruler<n>and drew lines on a map, daho!
+
+@400DC max=359
+JP: カナダとアメリカの国境、アフリカの国々の国境が<n>直線なのは、新たに入ってきた人びとが<n>まさに地図上に定規で線を引き、<n>勝手に土地を分割したからである。
+EN: Straight borders between the US and Canada,<n>and between countries in Africa, came about<n>because newcomers drew lines on maps with rulers<n>and divided up the land as they pleased.
+
+@40244 max=359
+JP: 隠れキリシタンを見つけるための踏み絵。<p>最初に考えたのは長崎奉行の水野河内守だと<n>言われているだほ。
+EN: Fumi-e were images people had to step on to expose secret Christians, daho.<p>The idea is said to have come from<n>Nagasaki magistrate Mizuno Kawachi-no-kami, daho.
+
+@403AC max=359
+JP: 隠れキリシタン探しの手段として生まれた「踏み絵」。<n>長崎奉行の水野河内守だと言われている。
+EN: Fumi-e, images used to expose secret Christians by making people step on them,<n>are said to have been devised by Nagasaki magistrate Mizuno Kawachi-no-kami.
+
+@40514 max=359
+JP: オリンピックを五輪と訳したのは、新聞記者だほ。<p>オリンピックと書くのは長いので、<n>シンボルマークの５つの輪と<p>宮本武蔵の「五輪書」とをヒントに考えたのだほほ。
+EN: A newspaper reporter shortened 'Olympics' to 'gorin,' or 'five rings,' daho.<p>The full Japanese name was too long, so he took<n>inspiration from the five Olympic rings...<p>And Miyamoto Musashi's 'The Book of Five Rings,' daho!
+
+@4067C max=359
+JP: オリンピックを五輪と書くようになったのは、<n>１９３６年のこと。<n>新聞記者がオリンピックという言葉を<n>もっと短く訳せないかと考え、<n>５つの輪と、宮本武蔵の五輪書から発想したものだ。
+EN: The Japanese shorthand for the Olympics, 'gorin,'<n>meaning 'five rings,' first appeared in 1936.<n>A newspaper reporter wanted a shorter name.<n>He drew on the five Olympic rings and<n>Miyamoto Musashi's 'The Book of Five Rings.'
+
+@407E4 max=359
+JP: アーメンとは、ヘブライ語で<n>「確かに」という意味なんだほほ。<p>お祈りの最後に言う時のアーメンは、<n>「かくあれ」という意味なんだほほ。
+EN: 'Amen' is a Hebrew word<n>meaning 'truly,' daho.<p>At the end of a prayer,<n>it means 'so be it,' daho.
+
+@4094C max=359
+JP: アーメンとは、ヘブライ語で<n>「確かに」という意味。<n>お祈りの最後に言う時のアーメンは、<n>「かくあれ」という意味。
+EN: 'Amen' is a Hebrew word<n>meaning 'truly.'<n>When said at the end of a prayer,<n>it means 'so be it.'
+
+@40AB4 max=359
+JP: 「灯台もと暗し」の灯台は、<n>岬の灯台のことではないだほ。<p>灯台とは昔の照明のことで、<n>部屋は明るくできても明かりの下は暗いことから、<p>自分のことは案外、<n>知らないものだってことをたとえてるだほほ。
+EN: In 'It's darkest under the todai,' that word<n>means a lamp, not a lighthouse, daho.<p>Old lamps lit a room, but cast shadows<n>right beneath themselves, daho.<p>The saying means we can be surprisingly blind<n>to things about ourselves, daho.
+
+@40C1C max=359
+JP: 「灯台もと暗し」<n>この灯台は岬にある灯台ではなく、<n>昔の室内照明器具のこと。明かりは部屋を照らすが、<n>その明かりの下は暗い、という様を言う。<n>転じて、自分の遠くのことはわかっても<n>意外と身近なことには疎くなるという意味。
+EN: 'It's darkest under the todai.'<n>Here, 'todai' means an old indoor lamp,<n>rather than a lighthouse. It lights the room,<n>but leaves the space beneath it dark.<n>The saying means we may know about distant things<n>yet overlook what's right under our noses.
+
+@40D84 max=359
+JP: 赤をずっと見てて、<n>緑を見るとすごくあざやかに見えるのだほ。<p>赤をずっと見てから白い紙を見ると、<n>そこに青緑が見えるだほ。<p>こういうのを色順応というだほほ。
+EN: Stare at red for a while,<n>then look at green. It'll look extra vivid, daho.<p>Stare at red, then look at white paper,<n>and you'll see blue-green, daho.<p>That's called color adaptation, daho.
+
+@40EEC max=359
+JP: しばらく赤を見たあとに緑を見ると、その緑が鮮やか<n>に見える。赤を見つづけたあとに白い紙を見ると青緑<n>が見える。これらは色順応という作用によるものだ。<n>いったんひとつの色に目が慣れると、それが次の色の<n>見え方に影響を及ぼすわけだ。
+EN: After looking at red for a while, green looks more vivid.<n>Look at white paper after staring at red,<n>and you'll see blue-green. This is color adaptation.<n>Once your eyes adjust to one color, it changes<n>how you see the next one.
+
+@41054 max=359
+JP: 「まな板の鯉」ってのは、<n>料亭の調理場の様子じゃないだほ。<p>もう調理されるのを覚悟しなきゃいけない<n>絶体絶命で、相手の思うままに<p>なるっきゃない状態のことだほほ。
+EN: 'A carp on the chopping board'<n>isn't a scene from a fancy kitchen, daho.<p>It means you're cornered, ready to be cooked,<n>and completely at someone else's mercy.<p>All you can do is accept your fate, daho!
+
+@411BC max=359
+JP: 「まな板の鯉」<n>まな板にのせられて、あとは料理をされるのを待つ鯉。<n>相手の思う通りにしかならない状態で、<n>もうどうにでもしてくれ、と観念したり、<n>開き直るしかないような状態のこと。
+EN: 'A carp on the chopping board'<n>A carp laid out on a chopping board, waiting to be cooked.<n>It describes being completely at someone else's mercy,<n>with no choice but to accept your fate<n>or defiantly say, 'Do your worst!'
+
+@41324 max=359
+JP: 紀元前２世紀頃に活躍した<n>天文学者のエラトステネスは、<p>夏至の日の太陽の南中角度から<n>地球の縦の断面の円周の子午線の長さを割り出し、<p>地球の大きさを推定しただほほ。
+EN: Eratosthenes was an astronomer<n>active around the 2nd century BC, daho.<p>He used the sun's noon angle at the summer solstice<n>to calculate Earth's circumference along a meridian.<p>That's how he estimated Earth's size, daho!
+
+@4148C max=359
+JP: 紀元前２世紀に活躍した天文学者、エラトステネス。<n>彼は夏至の日の太陽の南中角度から<n>子午線の長さを割り出し、<n>すでにほぼ正確な地球の大きさを推定していた。
+EN: Eratosthenes was an astronomer active in the 2nd century BC.<n>Using the sun's noon angle at the summer solstice,<n>he calculated the length of a meridian<n>and made an almost accurate estimate of Earth's size.
+
+@415F4 max=359
+JP: ミケランジェロの「ダビデ像」は裸なんだほ。<p>でも片手に石の入った袋に<n>紐のついたのを持ってるだほ。<p>ダビデは裸のままこれをぶんぶん回して<n>敵をやっつけただほ。<p>ミケランジェロはその時の様子を表現したんだほ。<n>決して風呂上がりの姿ではないだほ。
+EN: Michelangelo's David is naked, daho.<p>But in one hand he holds a sling<n>with stones in its pouch, daho.<p>David swung it around in the nude<n>and defeated his enemy, daho.<p>Michelangelo captured him ready for battle.<n>He hadn't just stepped out of the bath, daho!
+
+@4175C max=359
+JP: ミケランジェロの「ダビデ像」が片手で<n>肩にかけているのは石投げ紐。<n>この紐は片方だけが袋になっており、<n>ここに石を入れて振り回すことで武器になる。<n>戦いに挑むダビデの姿を表したのが、<n>このダビデ像なのである。
+EN: What Michelangelo's David holds in one hand<n>and drapes over his shoulder is a sling.<n>One end has a pouch for a stone.<n>Swinging it around turns it into a weapon.<n>The statue depicts David<n>as he prepares to enter battle.
+
+@418C4 max=359
+JP: 「汚名は返上」だほ。<n>「名誉は挽回」だほ。<p>汚名挽回では汚名の上塗りだほほ。
+EN: You CLEAR your bad name, daho.<n>You RESTORE your good name, daho.<p>Restore your bad name and you'll just make it worse, daho!
+
+@41A2C max=359
+JP: 「汚名返上」。「名誉挽回」。<n>汚名挽回では汚名の上塗りになってしまう。
+EN: You clear your bad name. You restore your good name.<n>Restore your bad name and you'll only make it worse.
+
+@41B94 max=359
+JP: 陰陽思想では１は始まりの神聖な数で、<n>次に縁起がいいのが３なんだほ。<p>だから日本では御三家、日本三大祭とか<n>３でくくるのが好きなのだほほ。
+EN: In yin-yang thought, one is the sacred number of beginnings.<n>The next luckiest number is three, daho.<p>That's why Japan loves groups of three:<n>the Three Great Houses, the Three Great Festivals... daho!
+
+@41CFC max=359
+JP: 陰陽思想では３は区切りも縁起もよい数とされてる。<n>また、３には満つという言葉にかけられるため、<n>日本人は３をおめでたい数字として大事にしてきた。<n>御三家、日本三大祭など、日本には３でくくるものが<n>多いのは、そのためだと言われている。
+EN: In yin-yang thought, three marks a neat, lucky grouping.<n>Its Japanese reading, 'mitsu,' also suggests fullness.<n>So the Japanese have long treasured it as a lucky number.<n>That's said to explain Japan's many groups of three,<n>like the Three Great Houses and Three Great Festivals.
+
+@41E64 max=359
+JP: 現存する世界最古の地図は、<n>古代バビロニアの粘土板地図だほほ。
+EN: The world's oldest surviving map<n>is an ancient Babylonian clay tablet, daho!
+
+@41FCC max=359
+JP: 現存する世界最古の地図は、<n>古代バビロニア時代の粘土板地図だと考えられている。
+EN: The world's oldest surviving map is believed to be<n>a clay tablet from ancient Babylonia.
+
+@42134 max=359
+JP: 仏陀の本名は、ゴータマ・シッダルタだほ。<n>シャーキャ族の出身なんで釈迦とも呼ばれるだほほ。
+EN: The Buddha's real name was Siddhartha Gautama, daho.<n>He's also called Shaka because he came from the Shakya clan, daho!
+
+@4229C max=359
+JP: 仏陀の本名は、ゴータマ・シッダルタ。<n>釈迦とも呼ばれるのはシャーキャ族の出身ゆえ。
+EN: The Buddha's real name was Siddhartha Gautama.<n>He's also called Shaka because he came from the Shakya clan.
+
+@42404 max=359
+JP: 日本の三名山は、<n>富士山、立山、白山だほほ。
+EN: Japan's three famed mountains are<n>Mount Fuji, Mount Tate and Mount Haku, daho!
+
+@4256C max=359
+JP: 日本の三名山は、<n>富士山、立山、白山。
+EN: Japan's three famed mountains are<n>Mount Fuji, Mount Tate and Mount Haku.
+
+@426D4 max=359
+JP: 赤、黄、青、黒、白の５色は、<n>料理を引き立てる効果があるだほ。<p>盛りつけをするときに、この５色をうまく使うと<n>お料理上手に見えるだほ。
+EN: Red, yellow, blue, black and white<n>can really make a dish shine, daho.<p>Use those five colors well when plating your food,<n>and you'll look like a brilliant cook, daho!
+
+@4283C max=359
+JP: 赤、黄、青、黒、白の５色は、<n>料理を引き立てる効果がある。<n>盛りつけをするときに、この５色をうまく使うと<n>見た目もきれいで、おいしそうに演出できる。
+EN: Red, yellow, blue, black and white<n>help bring out the appeal of food.<n>Use those five colors well when plating a dish<n>to make it look beautiful and delicious.
+
+@429A4 max=359
+JP: スイスには数多くの銀行があるが、<n>スイス銀行という名称の銀行は存在しないのだほほ。
+EN: Switzerland has plenty of banks,<n>but none is actually named 'Swiss Bank,' daho!
+
+@42B0C max=359
+JP: スイスには数多くの銀行があるが、<n>スイス銀行という名称の銀行は存在しないと言う。
+EN: Switzerland has plenty of banks,<n>but it's said that none is actually named 'Swiss Bank.'
+
+@42C74 max=359
+JP: 「井の中の蛙大海を知らず」の蛙は、<n>かわずと読むだほ。<p>井戸の中に暮らしてると海を知らないって意味で、<n>世間知らずで<p>他人の言葉に耳を貸さない人のことを言うだほほ。
+EN: 'A frog in a well knows nothing of the ocean.'<n>The Japanese word for frog here is 'kawazu,' daho.<p>A frog living in a well has never seen the sea.<n>It means someone ignorant of the wider world...<p>Who won't listen to anyone else, daho!
+
+@42DDC max=359
+JP: 「井の中の蛙大海を知らず」<n>井戸の中で暮らしている蛙は、<n>この世の中に海が存在することを知らない。<n>転じて、自分の狭い世界や知識だけにとらわれ、<n>人の意見に耳も貸さない、世間知らずを言う。
+EN: 'A frog in a well knows nothing of the ocean.'<n>A frog that lives inside a well<n>doesn't know the sea even exists.<n>It describes someone trapped in their own narrow world,<n>ignorant of life beyond it and deaf to others' opinions.
+
+@42F44 max=359
+JP: 「一陽来復」とは、<n>陰が極まって陽に返る冬至の日のことだほ。<p>苦しい日々のあとには<n>幸運がやってくるたとえだほほ。
+EN: 'The return of yang' means the winter solstice,<n>when yin peaks and gives way to yang, daho.<p>It's also a way of saying that after hard times,<n>good fortune will return, daho!
+
+@430AC max=359
+JP: 「一陽来復」<n>陰が極まって陽に返る冬至の日のこと。<n>転じて、苦しい日々のあとには<n>幸運がやってくるたとえ。
+EN: 'The return of yang'<n>The winter solstice, when yin peaks and gives way to yang.<n>By extension, it means that after hard times,<n>good fortune will return.
+
+@43214 max=359
+JP: 日本人に多い鈴木さん、<n>最初は、熊野神社の神官なんだほ。
+EN: Suzuki is a common Japanese surname.<n>The first to use it were priests at Kumano Shrine, daho!
+
+@4337C max=359
+JP: 日本人に多い鈴木という姓は、熊野神社の神官が<n>最初に名乗ったと言われている。
+EN: The common Japanese surname Suzuki is said to have<n>first been used by priests at Kumano Shrine.
+
+@434E4 max=359
+JP: 相撲の三役とは、<n>大関、関脇、小結のことだほほ。
+EN: Sumo's three sanyaku ranks are<n>ozeki, sekiwake and komusubi, daho!
+
+@4364C max=359
+JP: 相撲の三役とは、<n>大関、関脇、小結のこと。
+EN: Sumo's three sanyaku ranks are<n>ozeki, sekiwake and komusubi.
+
+@437B4 max=359
+JP: ドミニカという国名は、コロンブスが<n>１４９３年１１月３日の日曜日に発見したことから、<p>ラテン語の「日曜日」を意味するドミニカと<n>命名されただほほ。安直だほほ。
+EN: Columbus spotted Dominica<n>on Sunday, November 3, 1493, daho.<p>So he named it 'Dominica,'<n>Latin for Sunday. Not much imagination there, daho!
+
+@4391C max=359
+JP: ドミニカという国名はコロンブスが命名した。<n>１４９３年１１月３日に島に到着したコロンブスは、<n>この日が日曜日だったために、ラテン語で日曜日を<n>意味するドミニカとしたという。
+EN: Columbus gave Dominica its name.<n>He reached the island on November 3, 1493.<n>Since that day was a Sunday, he named it Dominica,<n>the Latin word for Sunday.
+
+@43A84 max=359
+JP: 極楽はこのシャバから<n>西に十万億仏土行ったあたりにあるだほほ。
+EN: The Pure Land paradise lies west of this mortal world,<n>beyond ten trillion Buddha lands, daho!
+
+@43BEC max=359
+JP: 極楽はシャバから西に<n>十万億の仏土を過ぎたところにある、<n>と言われている。
+EN: The Pure Land paradise is said to lie<n>west of this mortal world,<n>beyond ten trillion Buddha lands.
+
+@43D54 max=359
+JP: 劇場の最前列の客席を<n>「かぶりつき」っていうだほ。<p>この席で芝居を見ている観客が<n>まるで食べ物にかぶりつくように見えたからだほ。
+EN: A theater's front-row seats are called<n>'kaburitsuki' in Japanese, daho.<p>It means 'biting into something.' The audience looked<n>like they were taking a big bite of the play, daho!
+
+@43EBC max=359
+JP: 「かぶりつき」<n>劇場の最前列の客席のこと。<n>この席で芝居を見ている観客が<n>まるで食べ物にかぶりつくように見えたことから。
+EN: 'Kaburitsuki,' or 'biting into something,'<n>means the front-row seats in a theater.<n>The audience sitting there seemed to watch the play<n>as though they were biting into a tasty meal.
+
+@44024 max=359
+JP: 「尊大」の反対語は「卑下」だほほ。
+EN: The opposite of 'arrogance' is 'self-abasement,' daho!
+
+@4418C max=359
+JP: 「尊大」の反対語は「卑下」。
+EN: The opposite of 'arrogance' is 'self-abasement.'
+
+@442F4 max=359
+JP: ハワイのサーファーたちが乗っている<n>ビッグウェーブは、<p>日本の北東沖付近で生まれたうねりなんだほ。
+EN: Those big waves that surfers ride in Hawaii<n>are actually swells...<p>That started out off northeastern Japan, daho!
+
+@4445C max=359
+JP: サーファーたちを魅了するハワイのビッグウェーブ。<n>その波は、日本の北東沖付近で生まれ、<n>ハワイに到着したうねりだと考えられている。
+EN: Hawaii's big waves are a dream for surfers.<n>They're thought to be swells born off northeastern Japan<n>that have traveled all the way to Hawaii.
+
+@445C4 max=359
+JP: ドレミファソラシドはイタリア語なんだほ。
+EN: Do, re, mi, fa, sol, la, si, do is Italian, daho!
+
+@4472C max=359
+JP: 音階をしめすドレミファソラシドは、<n>イタリア人の僧侶、ギドー・ダレッツォが<n>完成させたものだ。
+EN: The scale syllables do, re, mi, fa, sol, la, si, do<n>were perfected by an Italian monk,<n>Guido d'Arezzo.
+
+@44894 max=359
+JP: インドの言葉には<n>「ありがとう」を意味する言葉が存在しないだほ。<p>かろうじて近い表現が<n>「ダンニャワード」なんだほ。
+EN: India has no word meaning<n>"thank you," daho.<p>The closest expression is<n>"dhanyavaad," daho.
+
+@449FC max=359
+JP: インドはカースト制のギブ＆テイクの精神により、<n>「ありがとう」にあたる言葉がないのだと言う。<n>物質を恵んでもらった者は、<n>その代わりに功徳を与えているので、<n>一方的に「ありがとう」と言う関係性ではないのだ。
+EN: They say India's caste system has no equivalent<n>of "thank you" because it rests on give-and-take.<n>Someone who receives material charity<n>gives spiritual merit in return,<n>so gratitude doesn't flow in just one direction.
+
+@44B64 max=359
+JP: 色は一定以上の光がないと見ることができないだほ。<p>ずっと光が一定だと、明るさはわかっても<n>色ははっきりと自覚しにくいのだほほ。<p>でも赤だけは特別だほ。<n>明るさと色がいっぺんに自覚できるのだほ。
+EN: You need a certain amount of light<n>to see colors, daho.<p>With steady light, you can sense brightness,<n>but colors are harder to make out, daho.<p>Red is special, though, daho.<n>You notice its brightness and color at once, daho.
+
+@44CCC max=359
+JP: 光の強さが一定であると、<n>物の形はわかっても色の判別はしにくい。<n>しかし赤だけは、明かりがあると認識するのと、<n>赤であると認識するのが同時であると言われている。
+EN: When light stays at a constant intensity,<n>shapes are clear, but colors are harder to distinguish.<n>Red is said to be the exception: you recognize<n>both the light and the color at the same time.
+
+@44E34 max=359
+JP: 「六法全書」を全部言えるだほか？<p>憲法、民法、商法、民事訴訟法、<n>刑法、刑事訴訟法だほほ。
+EN: Can you name all of Japan's Six Codes, daho?<p>The Constitution, Civil Code, Commercial Code,<n>Civil Procedure Code, Penal Code and Criminal Procedure Code, daho!
+
+@44F9C max=359
+JP: 「六法全書」。<n>憲法、民法、商法、民事訴訟法、<n>刑法、刑事訴訟法。
+EN: Japan's Six Codes:<n>The Constitution, Civil Code, Commercial Code,<n>Civil Procedure Code, Penal Code and Criminal Procedure Code.
+
+@45104 max=359
+JP: ロココ式の椅子は低くて、<n>ひじ掛けが後ろの方にあるのは、<p>当時の女性の衣装をひきたてるためなんだほ。<p>ウエストをしぼって胸を誇張した、<n>すその長いドレス姿の女性が、<p>ゆったり座って美しく見えるデザインなんだほ。
+EN: Rococo chairs have low seats<n>and armrests set far back, daho.<p>They were made to show off ladies' fashions, daho.<p>With tiny waists, emphasized busts<n>and long, flowing skirts...<p>Ladies could sit comfortably and look lovely, daho.
+
+@4526C max=359
+JP: ロココ式の椅子は、座面が低く、ひじ掛けを後ろの方<n>に取り付けてある。当時の上流社会の女性たちは、コ<n>ルセットでウエストを細くすることで胸を誇張し、ド<n>レスのすそは床につくほどであった。そんな女性たち<n>が腰掛けたときに、衣裳が最も美しく映えるようにと<n>考えられて椅子がデザインされていたという。
+EN: Rococo chairs had low seats and armrests set far back.<n>Upper-class women wore corsets to narrow the waist<n>and accentuate the bust, with dresses reaching the floor.<n>The chairs were designed so these women could sit<n>while showing off their elaborate gowns<n>to the best advantage.
+
+@453D4 max=359
+JP: シャバとは、煩悩からのがれることなく、<n>苦しみ耐えていきるこの世界のことだほ。<p>シャバの方がツライんだほほ。
+EN: "Shaba" means this world, where we endure suffering<n>without escaping worldly desires, daho.<p>Life on the outside is tough, daho!
+
+@4553C max=359
+JP: シャバとは煩悩からのがれる場所ではなく、<n>苦しみ耐えて生きるこの世界のことを指している。
+EN: "Shaba" is no refuge from worldly desires.<n>It means this world, where we live and endure suffering.
+
+@456A4 max=359
+JP: １７７８年にハワイに上陸した<n>キャプテン・クックは島を一時<p>「サンドイッチ島」と名付けてただほ。<p>サンドイッチを考案したことで有名な<n>サンドイッチ伯爵は<p>クックのスポンサーだったからだほほ。
+EN: When Captain Cook landed in Hawaii in 1778,<n>he gave the islands a temporary name...<p>The Sandwich Islands, daho!<p>The Earl of Sandwich, famous for inventing<n>the sandwich, was...<p>Cook's sponsor, daho!
+
+@4580C max=359
+JP: １７７８年にハワイ諸島に上陸した<n>キャプテン・クックは、ハワイをサンドイッチ島と<n>名づけようとしていたと言う。サンドイッチの命名で<n>名高いサンドイッチ伯爵が<n>彼のスポンサーだったからだ。
+EN: Captain Cook landed in Hawaii in 1778.<n>He is said to have planned to name Hawaii<n>the Sandwich Islands, after his sponsor,<n>the Earl of Sandwich, whose name<n>also gave us the sandwich.
+
+@45974 max=359
+JP: なぜハトは平和の象徴だほか知ってるだほか？<p>ノアの方舟から地上に放ったハトが<n>オリーブをくわえて戻って、<p>洪水が終わったことを知らせたからなんだほほ。<p>いわゆる元祖伝書バトでもあるだほ？
+EN: Know why the dove stands for peace, daho?<p>A dove sent out from Noah's Ark<n>returned with an olive leaf...<p>Showing that the flood had receded, daho.<p>The original carrier pigeon, you might say, daho!
+
+@45ADC max=359
+JP: ハトが平和の象徴になったのは、ノアの方舟の話から。<n>洪水から方舟で逃れたノアが、<n>地上の様子を知るために放したハトが、<n>オリーブの若葉をくわえて戻って来て、<n>地上から洪水が引いたことを知ったという<n>エピソードがルーツだ。
+EN: The dove's role as a symbol of peace comes from Noah's Ark.<n>Noah escaped the flood aboard the ark<n>and sent out a dove to check on the land.<n>It returned carrying a fresh olive leaf,<n>which told him that the floodwaters<n>had receded from the earth.
+
+@45C44 max=359
+JP: イカは「一杯」、ヒラメは「一枚」、<n>鮭は「一尺」、サヨリは「一条」と、<p>魚の種類で数え方も変わるのだほほ。
+EN: It's "ippai" for squid, "ichimai" for flounder,<n>"isshaku" for salmon and "ichijo" for halfbeaks...<p>In Japanese, the counting word changes with the fish, daho!
+
+@45DAC max=359
+JP: イカは「一杯」、ヒラメは「一枚」、<n>鮭は「一尺」、サヨリは「一条」と数える。
+EN: In Japanese, count squid with "ippai," flounder with "ichimai,"<n>salmon with "isshaku" and halfbeaks with "ichijo."
+
+@45F14 max=359
+JP: ローマのトレビの泉の作者はニコラ・サルビィ。<p>海神ネットゥーノが海馬の引く貝殻の戦車に乗って<n>出てきたところが表現されてるだほ。<p>よく見ると馬も人も動きが<n>いちいち不自然に大げさだほ。<p>でも、これぞバロック式なんだほほ。
+EN: Nicola Salvi designed Rome's Trevi Fountain, daho.<p>It shows Neptune, god of the sea, riding out<n>in a shell chariot drawn by sea horses, daho.<p>Look closely: the horses and people<n>all strike wildly exaggerated poses, daho.<p>That's the Baroque style for you, daho!
+
+@4607C max=359
+JP: ローマの観光名所「トレビの泉」作者は<n>ニコラ・サルヴィ。<n>海馬が引く貝殻の戦車に乗って走り出た<n>海神ネットゥーノの姿が表現されている。<n>その迫力に満ちた荒々しく激しい動きの彫像には、<n>まさにバロック式と呼べる特色が表れている。
+EN: Rome's famous Trevi Fountain was designed<n>by Nicola Salvi.<n>It depicts Neptune, god of the sea, riding forth<n>in a shell chariot drawn by sea horses.<n>The sculptures' powerful, dramatic movements<n>are a hallmark of the Baroque style.
+
+@461E4 max=359
+JP: 地獄のえん魔大王の住んでる光明王院の<n>隣の善明称院にはお地蔵様が住んでいるんだほ。<p>二人は意外にも仲良しらしいほほ。
+EN: Enma, king of hell, lives in Komyo-o-in, daho.<n>Jizo lives next door in Zenmyosho-in, daho.<p>Believe it or not, they're good friends, daho!
+
+@4634C max=359
+JP: 地獄のえん魔大王の住むのは光明王院。<n>その隣にある善明称院には<n>お地蔵様が住んでいると言われる。
+EN: Enma, king of hell, lives in Komyo-o-in.<n>Jizo is said to live in Zenmyosho-in,<n>right next door.
+
+@464B4 max=359
+JP: 太平洋はマゼランが<n>「太平な海洋」と表現したからで、<p>大西洋は宣教師マテオ・リッチが<n>「西の方に開けた大きな海洋」から<p>名づけられただほ。<n>だから「太」と「大」の違いがあるだほほ。
+EN: The Pacific got its name when Magellan<n>called it a "peaceful ocean," daho.<p>The Atlantic's Japanese name comes from Matteo Ricci's<n>"great ocean opening to the west," daho.<p>That's why their names use different kanji<n>for "tai," daho!
+
+@4661C max=359
+JP: マゼランが「太平な海洋」と表現したことで<n>その海は「太平洋」と命名された。<n>宣教師マテオ・リッチが「西の方に開けた大きな<n>海洋」と表現したことでその海は「大西洋」と<n>命名されたのだそうだ。
+EN: The Pacific's Japanese name, "Taiheiyo," comes from<n>Magellan's description of it as a "peaceful ocean."<n>The Atlantic's name, "Taiseiyo," is said to come from<n>missionary Matteo Ricci's description of it as<n>a "great ocean opening to the west."
+
+@46784 max=359
+JP: 日本一高い一本滝は那智の滝。<p>１３３メートルの高さから<n>毎秒１トンの水が落ちるのだほほ。
+EN: Japan's tallest single-drop waterfall is Nachi Falls, daho.<p>One metric ton of water plunges 133 meters<n>every second, daho!
+
+@468EC max=359
+JP: 日本一高い一本滝は那智の滝。<n>１３３メートルの高さから<n>毎秒１トンの水が落ちる。
+EN: Nachi Falls is Japan's tallest single-drop waterfall.<n>One metric ton of water falls every second<n>from a height of 133 meters.
+
+@46A54 max=359
+JP: ヨーロッパの国旗には三色旗が多いだほが、<n>いちばん最初に三色旗にしたのはオランダなんだほ。<p>１５７４年のことだほほ。
+EN: Lots of European flags have three colors,<n>but the Netherlands was first to adopt one, daho.<p>That was back in 1574, daho!
+
+@46BBC max=359
+JP: 国旗には三色で彩られた旗が多いが、<n>その元祖は１５７４年に三色旗を採用した<n>オランダである。
+EN: Many national flags feature three colors.<n>The first was the Netherlands,<n>which adopted a tricolor flag in 1574.
+
+@46D24 max=359
+JP: 弱い光の中の環境の方が、<n>人は意識的に物を見ようとするんだほ。<p>美術館や神社仏閣の照明が暗いのも、<n>鑑賞するうえでは効果的なんだほほ。
+EN: In dim light, people make more of an effort<n>to look at things, daho.<p>That's why the dim lighting in museums,<n>shrines and temples helps you appreciate them, daho.
+
+@46E8C max=359
+JP: 暗いところで物を見る場合には、見えにくい分、人は<n>心をよく働かせなくてはならない。近づいて見たり、<n>目をこらして見るなど、積極的に意識的に見るように<n>なる。それゆえ、美術館や神社仏閣が暗いのには、見<n>る気を起こさせる、集中力を引き出すなどの心理的効<n>果を期待している側面もあると考えられる。
+EN: In dim light, seeing takes more mental effort.<n>People move closer or peer more carefully,<n>making a conscious effort to look.<n>This may help explain the dim lighting in museums,<n>shrines and temples: it encourages closer observation<n>and draws out our powers of concentration.
+
+@46FF4 max=359
+JP: タイで子供の頭をなでてはいけないだほ。<n>子供の頭には仏が宿ってると考えられてるからだほ。
+EN: Don't pat a child's head in Thailand, daho.<n>It's believed that Buddha dwells there, daho.
+
+@4715C max=359
+JP: 子供の頭には仏様が宿っている<n>と考えられているタイでは、<n>子供の頭をなでてはいけない。
+EN: In Thailand, Buddha is believed to dwell<n>in children's heads,<n>so you mustn't pat them on the head.
+
+@472C4 max=359
+JP: 神社やお寺は「一宇」と数えるだほほ。
+EN: In Japanese, one shrine or temple is counted as "ichiu," daho.
+
+@4742C max=359
+JP: 神社やお寺は「一宇」と数える。
+EN: In Japanese, one shrine or temple is counted as "ichiu."
+
+@47594 max=359
+JP: ヨーロッパのお城の部屋に<n>よく装飾でタピストリーがかけられてるだほ？<p>あれは取り外し可能な壁画の役割をもってただほ。<n>しかも石壁の寒い部屋で暖房効果もあっただほ。<p>案外おトク感があるしろものだほほ。
+EN: Ever seen tapestries decorating the rooms<n>of European castles, daho?<p>They were like removable murals, daho.<n>They also kept those chilly stone rooms warmer, daho.<p>Quite a bargain, when you think about it, daho!
+
+@476FC max=359
+JP: タピストリーは、絹や毛や麻などを素材につづれ織り<n>で模様を描き出した布織物で、ヨーロッパの宮殿など<n>に飾られている壁掛け。行事にあわせて柄を掛けかえ<n>たり、場所を移動したりと取り外し可能な壁画感覚で<n>重宝されていたらしい。また、石壁でできた宮殿内の<n>防寒の役割も果たしているとも言われている。
+EN: Tapestries are wall hangings woven from silk, wool<n>or hemp, with patterns worked into the fabric.<n>In European palaces, they served as movable murals:<n>designs could be swapped for special occasions<n>or moved elsewhere. They also helped insulate<n>cold rooms built with stone walls.
+
+@47864 max=359
+JP: 釈迦は生まれるとすぐに７歩あるき、<n>右手を上に、左手を下にさし<p>「天上天下唯我独尊」と言っただほほ。
+EN: Right after birth, the Buddha took seven steps,<n>pointed his right hand up and his left hand down...<p>And said, "In heaven and on earth, I alone am supreme," daho!
+
+@479CC max=359
+JP: 「天上天下唯我独尊」<n>釈迦が生まれたとき、一方の手で天を、<n>もう一方の手で地を指し、こう言ったといわれる。<n>天上にもこの世にも自分より尊いものはいない、<n>という意味で、人間の尊厳を説いた言葉である。
+EN: "In heaven and on earth, I alone am supreme."<n>The newborn Buddha is said to have declared this,<n>pointing one hand at heaven and the other at earth.<n>It means nothing in heaven or this world is more precious<n>than oneself, and teaches the dignity of human life.
+
+@47B34 max=359
+JP: アメリカとロシアには<n>同じ国内でも時差があるだほ。<p>しかし広大な面積を誇る中国では、<n>自然界に逆らって国内の時刻は統一されてるだほほ。
+EN: The US and Russia have different time zones<n>within their borders, daho.<p>But vast as China is, the whole country<n>keeps one time, defying nature, daho!
+
+@47C9C max=359
+JP: アメリカの東海岸と西海岸、<n>ロシアの東と西では同じ国内でありながら<n>時差があるが、広大な面積を誇る中国では<n>国内の時刻を統一しているために時差はない。
+EN: The US has different times on its east and west coasts,<n>as does Russia in its eastern and western regions.<n>China, despite its vast size, uses one standard time<n>throughout the country, so there is no time difference.
+
+@47E04 max=359
+JP: 「史実」の反対語は「伝説」だほほ。
+EN: The opposite of "historical fact" is "legend," daho.
+
+@47F6C max=359
+JP: 「史実」の反対語は「伝説」。
+EN: The opposite of "historical fact" is "legend."
+
+@480D4 max=359
+JP: 三国一の三国とは、<n>日本、中国、インドのことだほ。
+EN: The 'three lands' in 'finest in the three lands'<n>are Japan, China, and India, daho!
+
+@4823C max=359
+JP: 「三国一の花嫁」の三国とは、<n>日本、中国、インドのこと。その昔、<n>日本人にとっての世界とはこの三国だったため、<n>三国一の花嫁とは世界一の花嫁という意味だったのだ。
+EN: The 'three lands' in 'the finest bride in the three lands'<n>are Japan, China, and India. Long ago, those three<n>countries were the whole world to the Japanese,<n>so the phrase meant 'the world's finest bride.'
+
+@483A4 max=359
+JP: 鳥居は「一基」と数えるだほほ。<n>エスカレーターも「一基」、お墓も「一基」だほほ。
+EN: One torii gate is 'ikki' in Japanese, daho!<n>One escalator or one grave is 'ikki' too, daho!
+
+@4850C max=359
+JP: 鳥居の数え方は「一基」。<n>エスカレーターも「一基」。<n>お墓も「一基」。
+EN: In Japanese, one torii gate is counted as 'ikki.'<n>So is one escalator.<n>So is one grave.
+
+@48674 max=359
+JP: 隠していたことが、ばれてしまうことを<n>「馬脚を露わす」って言うだほ。<p>芝居で馬の脚にふんしていた人が、<n>うっかり姿を現してしまったからだほ。
+EN: When a secret comes out, the Japanese say<n>you've 'shown your horse's legs,' daho.<p>It comes from actors playing a horse's legs<n>accidentally showing themselves, daho!
+
+@487DC max=359
+JP: 「馬脚を露わす」<n>隠していたことが、明らかになること。<n>芝居で馬の脚にふんしていた人が、<n>うっかり姿を現してしまったことから。
+EN: 'To show one's horse's legs':<n>A Japanese saying meaning to reveal a secret.<n>It comes from actors playing a horse's legs<n>accidentally showing themselves.
+
+@48944 max=359
+JP: 「対話」の反対語は「独白」だほほ。
+EN: The opposite of 'dialogue' is 'monologue,' daho!
+
+@48AAC max=359
+JP: 「対話」の反対語は「独白」。
+EN: The opposite of 'dialogue' is 'monologue.'
+
+@48C14 max=359
+JP: 色は目で見てるだけではないだほ。<p>目から入ってきた情報と、<n>過去の経験とかが脳内でかけ算されて、<p>はじめて色として味わうことができるだほ。<p>色がどう見えるかは、<n>人それぞれの心にも関係があるのだほほ。
+EN: There's more to seeing color than using your eyes, daho.<p>Your brain mixes what your eyes tell it<n>with things like your past experiences.<p>Only then do you actually experience color, daho.<p>How colors look also depends<n>on each person's mind, daho!
+
+@48D7C max=359
+JP: 光源から放出されたエネルギーが大気中で変化をし、<n>その光が網膜まで達し、電気エネルギーに変わって視<n>神経を通って大脳皮質に伝えられる。その情報が脳内<n>のほかの知覚や、過去の経験とあいまったときに、は<n>じめて色として認識されるのではないかと考えられて<n>いる。色を見るためには物理的側面と精神的側面の関<n>連性があるのでは、というのである。
+EN: Light changes as it travels through air. At the retina,<n>it becomes electrical signals sent via the optic nerve<n>to the cerebral cortex. There, past experiences and<n>other sensory input may combine to produce our sense<n>of color. Color perception may thus involve both<n>physical processes and the mind.
+
+@48EE4 max=359
+JP: 七徳というのを知ってるだほか？<p>信仰、希望、仁愛、分別、正義、不屈、自制だほほ。<n>分別はゴミの分別ではないのだほほ。
+EN: Do you know the seven virtues, daho?<p>Faith, hope, charity, prudence, justice, fortitude, and temperance, daho!<n>Prudence means sorting right from wrong, not sorting your trash, daho!
+
+@4904C max=359
+JP: 七徳とは、<n>信仰、希望、仁愛、分別、正義、不屈、自制である。
+EN: The seven virtues are:<n>faith, hope, charity, prudence, justice, fortitude, and temperance.
+
+@491B4 max=359
+JP: 船には女神が祭られているだほ。<p>漁師の船に女人禁制が多いのは、<n>その神様がシットして<p>不漁になると信じられてるからだほほ。
+EN: Boats have a goddess watching over them, daho.<p>Many fishing boats ban women because<n>people believe the goddess gets jealous...<p>...and ruins the catch, daho!
+
+@4931C max=359
+JP: 洋の東西を問わず、船には女神が飾られている。<n>漁船が女人禁制なのは、この女神が嫉妬するからだと<n>言われている。
+EN: In both East and West, boats display images of goddesses.<n>Women are barred from fishing boats because, it is said,<n>the goddess would become jealous.
+
+@49484 max=359
+JP: 西洋では庭は見て楽しみ、<n>中で何かするのが大事なんだほ。<p>だからガーデンパーティとかするだほ。<n>でも日本の庭は見て楽しむだけのものだほ。<p>だからだれも金閣寺の庭で宴会はしないのだほ。
+EN: In the West, gardens are for admiring<n>and doing things in, daho.<p>That's why they have garden parties, daho!<n>But Japanese gardens are just for admiring, daho.<p>That's why nobody throws a party in the garden<n>of the Golden Pavilion, daho!
+
+@495EC max=359
+JP: 日本と西洋では「庭」に対する意識に決定的な違いが<n>あるようだ。日本式庭園は自然の風景をそのままにう<n>つし、季節の移り変わりを愛でて楽しむもの。それに<n>対して西洋式庭園は人工的な造形で建物の装飾的な効<n>果を持つ。そしてなにより異なるのは、西洋式庭園内<n>は多くの人びとを招いてパーティなどイベントを開催<n>できるよう、あらかじめ設計されている点だ。
+EN: Japanese and Western gardens reflect different ideals.<n>Japanese gardens recreate natural scenery,<n>inviting us to enjoy the changing seasons.<n>Western gardens use artificial forms to complement<n>buildings. A key difference is that they are designed<n>to welcome crowds for parties and other events.
+
+@49754 max=359
+JP: 「追加」の反対語は「削減」だほほ。
+EN: The opposite of 'addition' is 'reduction,' daho!
+
+@498BC max=359
+JP: 「追加」の反対語は「削減」。
+EN: The opposite of 'addition' is 'reduction.'

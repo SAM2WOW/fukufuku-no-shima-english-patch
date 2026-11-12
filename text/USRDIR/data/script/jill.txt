@@ -1,0 +1,679 @@
+# source: PSP_GAME/USRDIR/data/script/jill.scb
+# format: scb
+# width: 44
+
+@5144 max=639
+JP: あれ？よくあうねー。<n>ジルとおはなししたいの？
+EN: Huh? We sure meet a lot!<n>Wanna talk to me?
+
+@53C4 max=639
+JP: あ、またあっちゃった！<n>うんめいのおみちびきね！
+EN: Oh, we met again!<n>It must be fate!
+
+@5644 max=639
+JP: あれえ？あんただれ？<n>みたことないひとね。<p>コピタンからたのまれてきたの？<n>あ！じゃあ、おじいちゃんのしりあいね？<p><PN>さん？あんたのなまえ？<n>あたしはジル、ゆうれいなの。
+EN: Huh? Who are you?<n>I haven't seen you before.<p>Did Copitan ask you to come?<n>Oh! Then you know my grandpa, right?<p><PN>? Is that your name?<n>I'm Jill. I'm a ghost!
+
+@58C4 max=639
+JP: わあ！またあったねー。<n>またおはなししてくれる？
+EN: Wow! It's you again!<n>Wanna talk some more?
+
+@5B44 max=639
+JP: わー、モプちゃんだ！<n>またあえたねー。
+EN: Yay! It's Mopu!<n>We met again!
+
+@5DC4 max=639
+JP: あ、モプちゃん！<n>うん、ジルはげんきだよ！ゆうれいだもん！
+EN: Oh, Mopu!<n>Yep, I'm doing great! I'm a ghost, after all!
+
+@6044 max=639
+JP: モプちゃんモプちゃん！<n>あのね、ジルとおはなししよう！
+EN: Mopu! Mopu!<n>Hey, let's talk!
+
+@62C4 max=639
+JP: わーい、モプちゃんだ！<n>モプちゃん！あのねあのね！
+EN: Yay! It's Mopu!<n>Mopu! Guess what, guess what!
+
+@6544 max=639
+JP: あのね、ゆうれいっていうのはね<n>しんで、あっちにいったひとなの。<p>あたしも、１０ねんまえにしんでね<n>あっちにいるのよ。<p>でもあっちは、ぴかぴかしてるけど<n>ちょっとたいくつなの。<p>だから、こっそり、こっちにくるの。<n>しかられるけど、いいの。
+EN: You know, ghosts are people<n>who died and went to the other side.<p>I died ten years ago,<n>so that's where I live.<p>It's all sparkly over there,<n>but it's a little boring.<p>So I sneak over here sometimes.<n>I get told off, but I don't mind!
+
+@67C4 max=639
+JP: あんたのおなまえ、なんだっけ？<n>あ！ジルがなまえつけたげるよ。<p>えーとね……モプちゃん！<n>モプちゃんはね、「ふぇにっくす」なのよ？<p>あっちのどーぶつえんにいてね<n>ジルとなかよしなの！<p>こっちのモプちゃんは、はねがないけど<n>とくべつに、モプちゃんにしてあげるね！
+EN: What was your name again?<n>Oh! I'll give you a name!<p>Umm... Mopu!<n>Mopu's a phoenix, you know!<p>He lives at the zoo on the other side.<n>We're really good friends!<p>You don't have wings like that Mopu,<n>but I'll let you be Mopu too! Just this once!
+
+@6A44 max=639
+JP: ジルはね、どーぶつえんが、だいすき！<n>あっちで、まいにちいってるの。<p>ゴクーさんっていう、さるのおじさんが<n>えんちょうさんなんだよ。<p>おじいちゃんとも、いちどいったんだー。<n>でもおじいちゃんはね<p>「めでゅーさ」っていうどうぶつと<n>なかよくして、いしになっちゃった！
+EN: I love the zoo!<n>I go every day on the other side.<p>The zookeeper's a monkey man<n>named Goku.<p>I went with Grandpa once, too!<n>But then Grandpa...<p>He made friends with an animal<n>called a Medusa and turned to stone!
+
+@6CC4 max=639
+JP: うん、ジル、ぜんぜんふこーじゃないよ？<n>パパもママも、しんでるけどげんきだし<p>おじいちゃんもおばあちゃんもいるし！<n>ジル、おとなになれないのはいやだけど<p>そのうち、うまれかわるんだって！<n>ぴかぴかしたひとが、そういってたんだ。<p>ジル、こんどはおとこのこになって<n>もくもくって、ヒゲをはやしたいな！
+EN: Nope, I'm not unhappy at all!<n>Mommy and Daddy are dead, but they're doing great!<p>And Grandma and Grandpa are there too!<n>I don't like that I can't grow up, but...<p>They say I'll be born again someday!<n>A sparkly person told me so.<p>Next time, I wanna be a boy<n>and grow a big, bushy beard!
+
+@6F44 max=639
+JP: こないだね、おもしろい子と、あったのよ？<n>えーとね、キーノちゃんっていうの。<p>パズルをつくるのが、すきなんだって！<n>みどりいろなの。くさのにおいがするの。<p>ひがしの、おっきなきのそばに<n>すんでるんだって！<p>モプちゃんに、あいたいなーって<n>いってたよ！
+EN: I met someone really fun the other day!<n>Umm, their name's Kino.<p>They love making puzzles!<n>They're green and smell like grass.<p>They said they live by<n>the big tree to the east!<p>And guess what, Mopu?<n>They said they wanna meet you!
+
+@71C4 max=639
+JP: ジルのね、となりのおうちには<n>りゅーびっておじさんがすんでるの。<p>あとね、かんうさんと、ちょーひさんも。<n>ちょーひさんはね、こえがおっきーのよ。<p>あにじゃー！<n>わしのぱんつは、どこじゃーっ！って<p>いっつも、さけんでるの。<n>おもしろいのよ。
+EN: On the other side, a man named Liu Bei<n>lives next door to me.<p>Guan Yu and Zhang Fei live there too.<n>Zhang Fei's got a REALLY loud voice!<p>"Brother!<n>Where are my underpants?!"<p>He's always shouting like that.<n>It's so funny!
+
+@7444 max=639
+JP: ジルね、むこうでね、かてーきょーしに<n>べんきょーを、おそわったのよ。<p>がうすさんっていう、おじいちゃんでね<n>とっても、けいさんがうまいのよ。<p>でも、がうすさんは、ひらめいちゃって<n>おうちから、でなくなっちゃったの！<p>だから、ジルも、ゆーかんマダムになって<n>また、ここにこられるようになったのよ。
+EN: I had a tutor on the other side!<n>He helped me study.<p>He's an old man named Gauss,<n>and he's really good at math.<p>But then he got a big idea,<n>and he stopped coming out of his house!<p>So now I'm a lady of leisure!<n>That's why I can come here again.
+
+@76C4 max=639
+JP: へっどろっくって、しってる？<n>あたまを、ぎゅってやるの。いたいのよ。<p>おばあちゃんの、とくいわざなの。<n>おじいちゃんに、いつもやってるんだ。<p>ジルも、おしえてもらっちゃった！<n>こんど、やってあげるね！<p>おばあちゃんは、こんど、えーと<n>らりあっとを、おしえてくれるんだって！
+EN: Do you know what a headlock is?<n>You squeeze someone's head. It hurts!<p>It's Grandma's special move.<n>She's always doing it to Grandpa.<p>She taught me how to do it too!<n>I'll try it on you next time!<p>Next she's gonna teach me, umm...<n>A lariat!
+
+@7944 max=639
+JP: まりあんちゃんは、げんきかなー。<n>むかしね、よくあそんだのよ。<p>まりあんちゃん、おっきくなってる？<n>あいたいなー。
+EN: I wonder how Marian's doing.<n>We used to play together a lot.<p>Has she gotten big?<n>I wanna see her!
+
+@7BC4 max=639
+JP: あのね、ジルね、うらないできるよ。<n>へへ、おじいちゃんから、ならったの。<p>えーとね。じゃん！これなんだかわかる？<n>「たろっとかーど」だよ。<p>ねえねえ、ジルと、このかーどであそばない？<n>モプちゃんの、うんめいを、うらなったげるよ！
+EN: You know, I can tell fortunes!<n>Hee hee! Grandpa taught me.<p>Umm... Ta-da! Know what these are?<n>They're tarot cards!<p>Hey, wanna play with these cards?<n>I'll tell your future, Mopu!
+
+@7E44 max=639
+JP: じゃあ、ジルの、たろっとうらないー！<n>モプちゃんの、うんめいやいかにー！
+EN: It's time for Jill's tarot reading!<n>What does fate have in store for Mopu?!
+
+@80C4 max=639
+JP: はい、じゃあ、ジルが<n>モプちゃんをうらなってあげますよ！
+EN: All right, Mopu!<n>I'll tell your fortune now!
+
+@8344 max=639
+JP: ねえ、きょうも、ジルのうらない<n>みたい？みたい？
+EN: Wanna have me tell your fortune<n>again today? Do ya? Do ya?
+
+@85C4 max=639
+JP: じゃあ、モプちゃんのうんせいを<n>ジルが、ばっちりしらべてあげるね！
+EN: Okay, Mopu!<n>I'll find out all about your luck!
+
+@8844 max=639
+JP: …じゃあね、じゃあね<n>えーと、えーと…。<p>モプちゃんが、ほしいものとか<n>したいこととか、かんがえてね。<p>かーどが、ねがいがかなうかどうか<n>おしえてくれるんだよー。<p>わーい、ジルのたろっとうらない<n>はじまり、はじまりー！
+EN: ...Okay, okay!<n>Umm, let's see...<p>Think about something you want,<n>or something you wanna do, Mopu.<p>The cards will tell you<n>if your wish will come true!<p>Yay! Jill's tarot reading<n>is starting! Here we go!
+
+@8AC4 max=639
+JP: わーい。たろっとたろっと！<n>モプちゃん、なやみある？<p>あったら、そのことかんがえてね。<n>かーどが、こたえをおしえてくれるよー。<p>わーい、ジルのたろっとうらない<n>はじまり、はじまりー！
+EN: Yay! Tarot, tarot!<n>Got any worries, Mopu?<p>If you do, think about them.<n>The cards will tell you the answer!<p>Yay! Jill's tarot reading<n>is starting! Here we go!
+
+@8D44 max=639
+JP: すきなときに、○ボタンをおしてねー。
+EN: Press the Circle button whenever you like!
+
+@8FC4 max=639
+JP: どう？うらないよめたー？<n>よめたの！えらいのね。<p>ジルはね、よるはここにいるよ。<n>また、あえたらいいなー。
+EN: Well? Could you read your fortune?<n>You could? You're so smart!<p>I'm here at night, you know.<n>I hope we can meet again!
+
+@9244 max=639
+JP: ジルのうらないは、よくあたるのよ。<n>またあそぼうね！
+EN: My fortunes are really accurate!<n>Let's play again soon!
+
+@94C4 max=639
+JP: きょうも、いっぱいおはなししたね！<n>じゃ、またね！
+EN: We talked lots today!<n>See you next time!
+
+@9744 max=639
+JP: また、ジルにあいにきてね？<n>おやすみなさーい。
+EN: Come see me again, okay?<n>Nighty-night!
+
+@99C4 max=639
+JP: またここにきてね？ジルにあえるから！<n>バイバーイ！
+EN: Come back here, okay? I'll be here!<n>Bye-bye!
+
+@9C44 max=639
+JP: ジルにまたあいたい？あいたい？<n>あいにきてくれたら、ジルもうれしいよ！
+EN: Wanna see me again? Do ya? Do ya?<n>I'd be happy if you came to visit!
+
+@9EC4 max=639
+JP: モプちゃんのいじわるー！<n>こんどあったときは、あそぼうね！
+EN: You're a meanie, Mopu!<n>You'd better play with me next time!
+
+@A144 max=639
+JP: なーんだあ。ジルがっかりだよ。<n>こんどはぜったい、うらないしようね？
+EN: Aww! That's no fun.<n>Promise we'll tell your fortune next time?
+
+@A3C4 max=639
+JP: <<テキストチェック>><n>チェックする項目を選んでください。
+EN: 
+
+@A644 max=639
+JP: 会話メッセージ<n>イベント用テキスト
+EN: Dialogue<n>Event Text
+
+@A8C4 max=639
+JP: 表示したい会話メッセージのIDを選んでください。
+EN: 
+
+@AB44 max=639
+JP: 表示したいテキストのIDを入力してください。
+EN: 
+
+@14E64 max=359
+JP: 愚者
+EN: Fool
+
+@14FCC max=359
+JP: 正位置
+EN: Upright
+
+@15134 max=359
+JP: やりたいって思ってることがあ<n>るんなら、それはやっちゃうと<n>いいよ。考え過ぎるとできなく<n>なっちゃうよ。今は、考える前<n>に動くのがいいみたい。もしう<n>まくいかなくっても、歩きはじ<n>めたばっかりだもの気にしない<n>で。未来は可能性に満ちてるよ。
+EN: If there's something you wanna do,<n>go for it! Think too much and<n>you might never get started.<n>Right now, it's best to act<n>before you overthink things.<n>Don't worry if it doesn't work out.<n>You've only just begun! The future<n>is full of possibilities.
+
+@1529C max=359
+JP: 愚者
+EN: Fool
+
+@15404 max=359
+JP: 逆位置
+EN: Reverse
+
+@1556C max=359
+JP: いまやろうと思ってることがあ<n>るの？それは、ちょっとだけ待<n>ってみた方がいい。急ぎすぎて<n>る感じがする。それは本当にや<n>りたいことなの？いまの気持ち<n>のままだと、本当に求めてるも<n>のじゃないものしか手に入らな<n>いよ。ちょっと間をおいてみて。
+EN: Thinking of doing something?<n>Maybe wait a little first.<n>It feels like you're rushing.<n>Is it really what you want to do?<n>If you act on how you feel now,<n>you might end up with something<n>you never really wanted.<n>Give yourself a little time.
+
+@156D4 max=359
+JP: 奇術師
+EN: Magus
+
+@1583C max=359
+JP: 正位置
+EN: Upright
+
+@159A4 max=359
+JP: チャンスがきてるみたい。もう、<n>すごくそばにきてる。やりたか<n>ったこととか、途中のまんまに<n>してたこと、はじめたらいいん<n>じゃないかな。気持ちを集中さ<n>せて、思いをたっぷりこめては<n>じめの一歩をふみだしてみて。<n>いまなら、うまくいくと思うの。
+EN: A chance is coming your way.<n>It's already really close!<n>Why not start something you've<n>always wanted to do, or pick up<n>something you left unfinished?<n>Focus, put your whole heart into it,<n>and take that first step.<n>I think it'll go well right now!
+
+@15B0C max=359
+JP: 奇術師
+EN: Magus
+
+@15C74 max=359
+JP: 逆位置
+EN: Reverse
+
+@15DDC max=359
+JP: 新しいことしたい気持ちはある<n>のに、決めかねてたり、いろん<n>なことが、どうもうまくいかな<n>かったりしちゃう時みたい。ず<n>っと決めかねてることがあるな<n>ら、キッパリと他の作戦にきり<n>かえちゃったらいいね。いまは、<n>じっくりコツコツが大事なの。
+EN: You wanna try something new,<n>but can't make up your mind.<n>Or maybe things just aren't<n>going your way right now.<n>If you've been stuck on a choice,<n>it's time to try a different plan.<n>For now, take your time and keep<n>working at it, little by little.
+
+@15F44 max=359
+JP: 女教皇
+EN: Papess
+
+@160AC max=359
+JP: 正位置
+EN: Upright
+
+@16214 max=359
+JP: ビビッときてるんだよね。<n>うまく言葉にできないけれど、<n>コレだなって思うことがあるん<n>でしょ？その直感を信じてみて。<n>いろいろと理由づけするよりも、<n>直感のままに動く方がいいよ。<n>ただし冷静さをなくしちゃダメ<n>なんだよ。
+EN: You've got a hunch, haven't you?<n>You can't quite put it into words,<n>but something just feels right.<n>Try trusting that feeling.<n>Instead of finding reasons for it,<n>you're better off following it.<n>Just remember to keep<n>a cool head, okay?
+
+@1637C max=359
+JP: 女教皇
+EN: Papess
+
+@164E4 max=359
+JP: 逆位置
+EN: Reverse
+
+@1664C max=359
+JP: 先が見えなくなって不安なんだ<n>よね。だからイライラしてるの。<n>でもそれ、これまで考えが浅か<n>った結果みたいよ。<n>もういいや、なんてヤケになっ<n>たらいけないの。いまは自分の<n>行動や言動をちゃんと振り返っ<n>て考えるときなの。
+EN: You can't see what lies ahead,<n>and it's making you worried<n>and grumpy. It looks like you<n>didn't think things through before.<n>But don't just say "I give up!"<n>and do something reckless.<n>Now's the time to think back on<n>what you've said and done.
+
+@167B4 max=359
+JP: 女帝
+EN: Empress
+
+@1691C max=359
+JP: 正位置
+EN: Upright
+
+@16A84 max=359
+JP: いいことが起こるよ。ゆっくり<n>ゆっくり、しあわせがこっちに<n>やってきてるの。安心していい<n>みたい。身のまわりの人や物や<n>自然に感謝をすると、どんどん<n>しあわせはやってくるよ。心を<n>大きく開けば、それだけ満たさ<n>れるよ。自分の才能を信じて！
+EN: Something good is coming!<n>Happiness is slowly, slowly<n>heading your way. You can relax.<n>Be thankful for the people, things,<n>and nature around you, and even<n>more happiness will come.<n>The more you open your heart,<n>the fuller it'll feel. Believe in your talents!
+
+@16BEC max=359
+JP: 女帝
+EN: Empress
+
+@16D54 max=359
+JP: 逆位置
+EN: Reverse
+
+@16EBC max=359
+JP: 本当の自分を認めてないの。背<n>伸びしてるの。無理してるの。<n>見栄をはってるの。迷ってイラ<n>イラしたり、人のことばかり気<n>になったりしてるのは、自分の<n>価値とは違うものを欲しがるせ<n>いだよ。自分に本当に大切なも<n>のは何か、考えてみるといいね。
+EN: You aren't accepting the real you.<n>You're trying too hard to seem grown-up<n>and impress people. Feeling lost,<n>grumpy, or worried about everyone else?<n>Maybe you're chasing things that don't<n>match what matters to you. Have a think<n>about what's really precious to you.<n>You don't have to pretend.
+
+@17024 max=359
+JP: 皇帝
+EN: Emperor
+
+@1718C max=359
+JP: 正位置
+EN: Upright
+
+@172F4 max=359
+JP: 心を決めて、実行するときが来<n>たよ。そしたらきっとうまくい<n>く。これまで地道に努力してき<n>た結果が、いま出始めているん<n>だから自信をもって。チームが<n>必要ならリーダーとしてみんな<n>をまとめていくといいよ。強い<n>意志をもって前進あるのみだよ。
+EN: It's time to make up your mind<n>and go for it! Things should go well.<n>All that steady work is starting<n>to pay off, so believe in yourself.<n>If you need a team, you can be<n>the leader who brings everyone together.<n>Keep your mind made up and<n>march straight ahead!
+
+@1745C max=359
+JP: 皇帝
+EN: Emperor
+
+@175C4 max=359
+JP: 逆位置
+EN: Reverse
+
+@1772C max=359
+JP: わがままになってない？ちゃん<n>とまわりを見なくちゃだめだよ。<n>いま大事なことはなにか、ちゃ<n>んと立ち返って考えるのが大事<n>なの。理想を強引におしつける<n>前に、まず現実をみつめなおす<n>の。ときにはツライ現実かもし<n>れないけどね、認めないとね。
+EN: Are you being a little selfish?<n>You need to look around you, too.<n>Take a step back and think about<n>what really matters right now.<n>Before you push your ideals on people,<n>take another look at how things are.<n>The truth might hurt sometimes,<n>but you still have to accept it.
+
+@17894 max=359
+JP: 教皇
+EN: Pope
+
+@179FC max=359
+JP: 正位置
+EN: Upright
+
+@17B64 max=359
+JP: 悩みは解決の道をすすんでるよ。<n>いまはバタバタとあせらないで、<n>信頼できる人の言葉や、目上の<n>人のアドバイスに素直に耳をか<n>たむけて、できることから片付<n>けていけばいいよ。結論を急ぎ<n>すぎると、せっかくの解決への<n>道も行き止まりになっちゃうよ。
+EN: Your worries are on their way<n>to being solved. Don't rush around.<n>Listen to people you trust and<n>take advice from older, wiser people.<n>Start with the things you can do<n>and work through them one by one.<n>Rush to a conclusion, and your path<n>to a solution could become a dead end.
+
+@17CCC max=359
+JP: 教皇
+EN: Pope
+
+@17E34 max=359
+JP: 逆位置
+EN: Reverse
+
+@17F9C max=359
+JP: 決まりごととか、約束ごとにイ<n>ヤ気がさしてるのかな。誰の話<n>も聞かないどころか、言われた<n>ことと反対のことをしたくなっ<n>ちゃうの。独創性っていうより<n>も、ひとりよがりって感じ。い<n>つもと違うことをするのもいい<n>けど、問題は解決しないよ。
+EN: Are you fed up with rules<n>and promises? You won't listen,<n>and you want to do the opposite<n>of whatever anyone tells you.<n>That's more stubborn than original.<n>Trying something different is fine,<n>but just doing things your own way<n>won't make the problem go away.
+
+@18104 max=359
+JP: 恋人
+EN: Lovers
+
+@1826C max=359
+JP: 正位置
+EN: Upright
+
+@183D4 max=359
+JP: 決断のときだよ。どの道を行く<n>のか迫られてるの。それはね、<n>しあわせな悩みだよ。自分には<n>何が必要なのかを心に聞いてみ<n>て、そして直感で選ぶのがいい<n>みたい。心が通じあう人や、夢<n>中になれる事に出会える、そん<n>なハッピーな予感がするの。
+EN: It's decision time! You have<n>to choose which path to take.<n>But that's a happy sort of worry.<n>Ask your heart what you need,<n>then trust your gut and choose.<n>I have a happy feeling you'll meet<n>someone who really understands you,<n>or find something you just love doing!
+
+@1853C max=359
+JP: 恋人
+EN: Lovers
+
+@186A4 max=359
+JP: 逆位置
+EN: Reverse
+
+@1880C max=359
+JP: 何やってもうまくいかなくなっ<n>てるのは、人からいろんなこと<n>を言われちゃうからかな。それ<n>は、のんきにしてるからヤキモ<n>キさせてるのかも。あとね、自<n>分の心とやってることがズレて<n>るせいもあるみたいなの。正直<n>に誠実にを心がけた方がいいよ。
+EN: Is nothing going right because<n>everyone keeps telling you what to do?<n>Maybe you're so laid-back that<n>you're making them worry. Also,<n>what you do might not match<n>what you feel inside.<n>Try being honest with yourself<n>and sincere with other people.
+
+@18974 max=359
+JP: 戦車
+EN: Chariot
+
+@18ADC max=359
+JP: 正位置
+EN: Upright
+
+@18C44 max=359
+JP: 意志の強さが問題を解決できる<n>って。どんな試練も乗り越えら<n>れる。でもね楽勝ってわけでは<n>ないの。目標に向かって、くじ<n>けそうな心に負けずに、まっす<n>ぐ進める勇気がなくっちゃダメ。<n>その心がまえさえあれば大丈夫。<n>勇気をもって進んでね。
+EN: A strong will can solve your problems.<n>You can get through any trial!<n>But that doesn't mean it'll be easy.<n>You'll need the courage to keep<n>heading for your goal, even when<n>your heart wants to give up.<n>With that attitude, you'll be fine.<n>Be brave and keep going!
+
+@18DAC max=359
+JP: 戦車
+EN: Chariot
+
+@18F14 max=359
+JP: 逆位置
+EN: Reverse
+
+@1907C max=359
+JP: ちょっと情緒が不安定なのかな？<n>ガマンもできなくなってイライ<n>ラしてない？ライバルに先を越<n>されたり、せっかくの計画を誰<n>かに邪魔されてうまくいかなか<n>ったりするかも。いまは無理し<n>ないで、自分のことをもっと大<n>事にすることを先に考えてね。
+EN: Are your feelings a bit wobbly?<n>Getting impatient and cranky, too?<n>A rival might get ahead of you,<n>or someone could get in the way<n>and spoil your lovely plans.<n>Don't push yourself right now.<n>Taking better care of yourself<n>needs to come first, okay?
+
+@191E4 max=359
+JP: 正義
+EN: Justice
+
+@1934C max=359
+JP: 正位置
+EN: Upright
+
+@194B4 max=359
+JP: 勝利者の栄冠を手にするよ。こ<n>れまでにウソがなければ、だけ<n>ど。いまはいろんなバランスが<n>とってもいいときなの。いまま<n>で以上に誠実であれば、もっと<n>高い目標でもいい結果がでるよ、<n>きっと。無理はしない、一時の<n>感情にも流されないこと、だよ。
+EN: The winner's crown will be yours!<n>As long as you've been honest, that is.<n>Everything is nicely balanced<n>right now. Be even more sincere,<n>and you can aim higher and still<n>get good results. I'm sure of it!<n>Just don't push yourself too hard<n>or let a passing feeling sweep you away.
+
+@1961C max=359
+JP: 正義
+EN: Justice
+
+@19784 max=359
+JP: 逆位置
+EN: Reverse
+
+@198EC max=359
+JP: 気持ちも生活もバランスを崩し<n>てるみたい。だからイジイジし<n>てガンコになったりしてるんじ<n>ゃないかな。いまのままでは何<n>ごともうまくいかないよ。決め<n>つけとか思いこみで判断しちゃ<n>ダメだよ。何でバランスがよく<n>ないのか考えてみてよ。
+EN: Your feelings and daily life seem<n>to be out of balance. Maybe that's<n>why you're sulking and being stubborn.<n>Things won't go well like this.<n>Don't judge things based on guesses<n>or ideas you've already made up<n>your mind about. Try to work out<n>what's throwing you off balance.
+
+@19A54 max=359
+JP: 隠者
+EN: Hermit
+
+@19BBC max=359
+JP: 正位置
+EN: Upright
+
+@19D24 max=359
+JP: いまの決心には自信をもってい<n>いよ。そして勇気をもって実行<n>してね。まわりのペースにまど<n>わされたり、比べてあせったり<n>しないで、こつこつと時間をか<n>ければきっとうまくいくよ。心<n>配はいらないの。相談できる人<n>もあらわれるかもしれないね。
+EN: You can trust the choice you've made.<n>Now be brave and act on it!<n>Don't let other people's pace<n>throw you off, or rush because<n>you keep comparing yourself to them.<n>Take your time and keep at it.<n>It'll work out, so don't worry.<n>You may even find someone to turn to.
+
+@19E8C max=359
+JP: 隠者
+EN: Hermit
+
+@19FF4 max=359
+JP: 逆位置
+EN: Reverse
+
+@1A15C max=359
+JP: 自分の判断に自信がもてないで<n>いるのかなぁ。もっと自信をも<n>った方がいいよ。まわりの人の<n>意見にももっと耳をかたむけて<n>ね。人のあら探しばかりするの<n>はヤキモチのせいだね。自分の<n>責任も果たせてないのに、人の<n>ことをうらやんでちゃダメだよ。
+EN: Are you unsure of your own judgment?<n>Try believing in yourself more.<n>Listen more closely to what<n>other people think, too.<n>Always picking at their faults?<n>That's jealousy talking.<n>Don't envy other people when you<n>haven't done your own part yet.
+
+@1A2C4 max=359
+JP: 運命の輪
+EN: Wheel
+
+@1A42C max=359
+JP: 正位置
+EN: Upright
+
+@1A594 max=359
+JP: 大きなチャンスがやってくるよ。<n>コツコツとやってきたことが、<n>いい結果をつれてくるの。運命<n>的な出来事が起こる予感もする<n>よ。チャンスが大きければ大き<n>いほど、手にするためには思い<n>きりが必要だよ。逃さないよう<n>にがんばってね。
+EN: A big chance is coming your way!<n>All that steady work you've done<n>is going to bring good results.<n>I have a feeling something fateful<n>might happen, too. The bigger<n>the chance, the more courage<n>you'll need to grab it.<n>Do your best so it doesn't slip away!
+
+@1A6FC max=359
+JP: 運命の輪
+EN: Wheel
+
+@1A864 max=359
+JP: 逆位置
+EN: Reverse
+
+@1A9CC max=359
+JP: 大きな壁が立ちはだかってる。<n>がんばってるのにうまくいかな<n>かったり、後回しにされたり、<n>前と同じことのくり返しになっ<n>たり。せっかくのチャンスを逃<n>すことになりそうだね。なんか<n>間が悪い感じなの。こういうと<n>きは動かないで、次を待とうね。
+EN: There's a big wall in your way.<n>You try hard, but nothing works,<n>you get put off, or the same old<n>things keep happening again.<n>You might miss a lovely chance.<n>The timing just seems all wrong.<n>At times like this, stay put<n>and wait for the next chance.
+
+@1AB34 max=359
+JP: 力
+EN: Strength
+
+@1AC9C max=359
+JP: 正位置
+EN: Upright
+
+@1AE04 max=359
+JP: もし問題をかかえているなら、<n>その突破口がみつかる知らせだ<n>よ。ありのままの自分を好きに<n>なってコンプレックスも解消で<n>きるの。すべてはいい方向に行<n>くよ。人には親切にね。愛を与<n>えることで、あなたにも愛が与<n>えられて、成長できるときなの。
+EN: If you've got a problem, this means<n>you'll find a way through it.<n>You can learn to like the real you<n>and stop feeling you're not good enough.<n>Things are looking up! Be kind<n>to others. When you give love,<n>you'll get love back, too.<n>It's a time for you to grow.
+
+@1AF6C max=359
+JP: 力
+EN: Strength
+
+@1B0D4 max=359
+JP: 逆位置
+EN: Reverse
+
+@1B23C max=359
+JP: 自己嫌悪におちいってるのかな。<n>誤解されたり、憎しみがわいた<n>りするのは、自信のなさに原因<n>があるみたい。だからわがまま<n>言ったり、怒っちゃったり。で、<n>また自己嫌悪。いまは心身とも<n>にスタミナ不足なの。つまらな<n>い挑発にのらないことだよ。
+EN: Are you feeling bad about yourself?<n>A lack of confidence might be why<n>people misunderstand you, or why<n>you feel so hateful. You get selfish<n>or angry, then dislike yourself again.<n>Your body and heart are both<n>running low on energy right now.<n>Don't let silly taunts get to you.
+
+@1B3A4 max=359
+JP: 吊られた男
+EN: Hanged Man
+
+@1B50C max=359
+JP: 正位置
+EN: Upright
+
+@1B674 max=359
+JP: いままで大切にしてきたものと<n>か考え方とかを、見直すときが<n>きたみたい。あきらめることや、<n>手ばなすことも大事だってカー<n>ドが言ってる。いまあるものを<n>手ばなせば、もっとふさわしい<n>ものを手にすることができるっ<n>てことなの。安心していいよ。
+EN: It's time to take another look<n>at the things and ideas you've<n>held dear. The cards say knowing<n>when to give up or let go matters, too.<n>If you let go of what you have now,<n>you can find something that suits<n>you even better.<n>So don't be afraid. It'll be okay.
+
+@1B7DC max=359
+JP: 吊られた男
+EN: Hanged Man
+
+@1B944 max=359
+JP: 逆位置
+EN: Reverse
+
+@1BAAC max=359
+JP: 自分のことばっかり考えてガン<n>コになって、それで状況はつら<n>くなってるんじゃないの？そん<n>なんじゃ誰にも理解されないし<n>力にもなってもらえないよ。プ<n>ライドも大事だけど、ゴリ押し<n>しないで、なるようになるさっ<n>て流れにまかせちゃおうよ。
+EN: Are you thinking only of yourself<n>and being stubborn? Maybe that's<n>what's making things so hard.<n>People can't understand or help you<n>if you keep acting that way.<n>Pride matters, but don't force things.<n>Try going with the flow and saying,<n>"Things will work themselves out!"
+
+@1BC14 max=359
+JP: 死神
+EN: Death
+
+@1BD7C max=359
+JP: 正位置
+EN: Upright
+
+@1BEE4 max=359
+JP: 新しいはじまりがやってくるよ。<n>いままでの悩みや重苦しい問題<n>から解き放たれるよ。つらかっ<n>た毎日ともサヨウナラできるよ。<n>はじまりがあるってことは、終<n>わるものもあるの。でも、それ<n>はすべての終わりではないから<n>安心して変化を受けとめてね。
+EN: A new beginning is on its way!<n>You'll be free of those worries<n>and problems weighing you down.<n>You can wave goodbye to those hard days.<n>For something to begin, something<n>else has to end. But that doesn't<n>mean everything is over.<n>It's okay to welcome the change.
+
+@1C04C max=359
+JP: 死神
+EN: Death
+
+@1C1B4 max=359
+JP: 逆位置
+EN: Reverse
+
+@1C31C max=359
+JP: ちょっとだけ行きづまりかなぁ。<n>でも一時的なものだから安心し<n>ていいの。あとはずっとスムー<n>ズにすすむよ。あきらめていた<n>こととか、忘れてたこととかに、<n>もう一度チャンスが訪れるよ。<n>前とは違った心で向き合えれば、<n>今度はきっとうまくいくのだっ。
+EN: Feeling a little stuck?<n>Don't worry, it's only for now.<n>Things will go much more smoothly<n>after this. Something you gave up on<n>or forgot about will get<n>another chance. If you approach it<n>with a different frame of mind,<n>it'll work out this time. You bet!
+
+@1C484 max=359
+JP: 節制
+EN: Temper.
+
+@1C5EC max=359
+JP: 正位置
+EN: Upright
+
+@1C754 max=359
+JP: いいタイミングだよ。望みは叶<n>う方向へと進んでるよ。思いも<n>伝わりはじめてるの。それと同<n>時に、その思いが本物かどうか<n>を試されるときでもあるの。妥<n>協することを求められるかもし<n>れないなぁ。ちょっと試練だね。<n>でも素直になれれば大丈夫だよ。
+EN: The timing is just right!<n>Your wish is on its way to coming true,<n>and your feelings are getting through.<n>But this is also a test of<n>whether those feelings are real.<n>You might be asked to compromise.<n>That's a bit of a trial, huh?<n>Keep an open heart and you'll be fine.
+
+@1C8BC max=359
+JP: 節制
+EN: Temper.
+
+@1CA24 max=359
+JP: 逆位置
+EN: Reverse
+
+@1CB8C max=359
+JP: いまはタイミングが悪いよ。な<n>のに、強引になったり、短気を<n>起こすと、どんどん苦しくなっ<n>ちゃうよ。あんまり過激な行動<n>に出ると対立は深まるだけ。不<n>器用なんだよね、そういうとこ。<n>あせっちゃダメ。まわりとうま<n>く息を合わせるようしなきゃね。
+EN: The timing is bad right now.<n>Being pushy or losing your temper<n>will only make things harder.<n>Do anything too drastic, and<n>you'll just make the fighting worse.<n>You're a bit clumsy about that, huh?<n>Don't rush. Try to get in step<n>with the people around you.
+
+@1CCF4 max=359
+JP: 悪魔
+EN: Devil
+
+@1CE5C max=359
+JP: 正位置
+EN: Upright
+
+@1CFC4 max=359
+JP: ちょっと人間不信になってしま<n>ってるのかな？心が弱ってるの<n>かも。そんなときにはスキマに<n>誘惑が入り込んでくるから気を<n>つけてね。勝手な思い込みや見<n>栄をはるのはやめようよ。うま<n>くいかないときこそ、心のもち<n>かたが大切だよ。強くなってね。
+EN: Are you finding it hard to trust people?<n>Maybe your heart is feeling weak.<n>That's when temptation can sneak in,<n>so be careful. Stop jumping<n>to conclusions or trying to impress.<n>When things aren't going well,<n>how you face them really matters.<n>Try to be strong, okay?
+
+@1D12C max=359
+JP: 悪魔
+EN: Devil
+
+@1D294 max=359
+JP: 逆位置
+EN: Reverse
+
+@1D3FC max=359
+JP: もうなにもおそれることはない、<n>ってカードが言ってるの。最悪<n>の状況から抜け出ることができ<n>るよ。自信をもって、いやなこ<n>とにはＮＯをしめしてね。ここ<n>を卒業できれば、自立した真実<n>の強さってのを手にすることが<n>できるよ。がんばってね。
+EN: The cards say there's nothing<n>left for you to fear. You can<n>escape even the worst situation.<n>Believe in yourself and say NO<n>to things you don't want.<n>Once you get through this, you'll gain<n>the true strength to stand on your own.<n>You can do it!
+
+@1D564 max=359
+JP: 塔
+EN: The Tower
+
+@1D6CC max=359
+JP: 正位置
+EN: Upright
+
+@1D834 max=359
+JP: プライドが傷つくことが起きる<n>かもしれないよ。ショックかも<n>しれないけれど、それは真実を<n>みつめなおすために必要なこと<n>なの。このごろ少し思い上がっ<n>たりしてない？人はだませても<n>自分にはウソをつけないよ。い<n>まは謙虚になることが大事だよ。
+EN: Something might hurt your pride.<n>It could be a shock, but you need it<n>to take another look at the truth.<n>Have you been getting a little<n>too full of yourself lately?<n>You can fool other people,<n>but you can't lie to yourself.<n>Being humble matters right now.
+
+@1D99C max=359
+JP: 塔
+EN: The Tower
+
+@1DB04 max=359
+JP: 逆位置
+EN: Reverse
+
+@1DC6C max=359
+JP: プライドが傷ついてるよね。で<n>もそうなることには気がついて<n>たんじゃない。これは新しいこ<n>とを始めるためには避けられな<n>いことなの。自分の気持ちの真<n>実に気づきはじめたら、あとは<n>よくなっていくよ。落ち込むよ<n>り変化を受け入れる方が大事ね。
+EN: Your pride's hurt, huh?<n>But you knew this might happen,<n>didn't you? It's something you<n>have to face to start anew.<n>Once you see how you really feel,<n>things will start looking up.<n>Don't dwell on feeling sad.<n>What matters is accepting change.
+
+@1DDD4 max=359
+JP: 星
+EN: The Star
+
+@1DF3C max=359
+JP: 正位置
+EN: Upright
+
+@1E0A4 max=359
+JP: 明るい希望の星が輝いてるよ。<n>うれしい予感でいっぱいなの。<n>自分の才能や可能性を信じて、<n>楽しい夢を思い描いてね。きっ<n>と叶うよ。すてきな出会いもあ<n>りそうだよ。いまの幸福な気持<n>ちをまわりの人にもわけてあげ<n>て。きっといいことがあるよ。
+EN: A bright star of hope is shining!<n>I have such a good feeling!<n>Believe in your gifts and potential.<n>Dream up something wonderful.<n>It's sure to come true! You might<n>meet someone lovely, too.<n>Share your happiness with others.<n>Good things are coming your way!
+
+@1E20C max=359
+JP: 星
+EN: The Star
+
+@1E374 max=359
+JP: 逆位置
+EN: Reverse
+
+@1E4DC max=359
+JP: 希望が見えなくなってるのかな。<n>そういうときもあるよ。だから、<n>自分のいいとこを否定したりし<n>ないでね。そんなことじゃユウ<n>ウツになるばっかり、落ち込ん<n>でる自分も認めて、少しでも元<n>気になれることを探して、行動<n>しないと。あきらめないでね。
+EN: Can't see any hope right now?<n>We all feel that way sometimes.<n>Don't forget all your good points.<n>That'll only make you feel worse.<n>It's okay to admit you're down.<n>Find something that cheers you up,<n>even a little, and give it a try.<n>Don't give up!
+
+@1E644 max=359
+JP: 月
+EN: The Moon
+
+@1E7AC max=359
+JP: 正位置
+EN: Upright
+
+@1E914 max=359
+JP: 自分にウソをついてない？自分<n>で自分をだましてるんじゃない？<n>まわりにまどわされて、真実が<n>見えなくなってるのかもね。で<n>も現実から逃げてちゃ先には進<n>めないの。そういうときだから<n>こそ、自分自身に誠実さを忘れ<n>てはダメだよ。もっと正直にね。
+EN: Are you lying to yourself?<n>Trying to fool yourself, maybe?<n>Other people may be confusing you,<n>making it hard to see the truth.<n>But you can't move forward<n>if you keep running from reality.<n>At times like this, you really need<n>to be honest with yourself.
+
+@1EA7C max=359
+JP: 月
+EN: The Moon
+
+@1EBE4 max=359
+JP: 逆位置
+EN: Reverse
+
+@1ED4C max=359
+JP: 迷いが晴れてくるよ。ウソに悩<n>まされたり、不安にかられたり<n>することから解放されるよ。す<n>べての原因があきらかになりそ<n>うなの。よかったね。夢も少し<n>ずつ実現に近づいてるよ。期待<n>以上の結果だって望めそうだよ。<n>あせらないで、安心していてね。
+EN: Your doubts are clearing away.<n>No more fretting over lies<n>or being weighed down by worry!<n>You'll soon see what's behind it all.<n>What a relief! Your dreams are<n>getting closer to coming true, too.<n>Things may turn out better than hoped!<n>Don't rush. You can rest easy.
+
+@1EEB4 max=359
+JP: 太陽
+EN: Sun
+
+@1F01C max=359
+JP: 正位置
+EN: Upright
+
+@1F184 max=359
+JP: いちばんの幸福をあらわすカー<n>ドがでたよ、おめでとう！あら<n>ゆる願いがすべて叶うよ。かか<n>えてる問題はすべてがハッピー<n>エンドなの。すごいすごい。自<n>信に満ちあふれた自分に生まれ<n>変わってる幸福感を全身で感じ<n>てね。
+EN: This card means the greatest happiness!<n>Congratulations! All your wishes<n>will come true. Every problem<n>will have a happy ending.<n>Wow! Isn't that amazing?<n>You're becoming a whole new you,<n>brimming with confidence.<n>Enjoy that happiness from head to toe!
+
+@1F2EC max=359
+JP: 太陽
+EN: Sun
+
+@1F454 max=359
+JP: 逆位置
+EN: Reverse
+
+@1F5BC max=359
+JP: むなしさを感じてるのかなぁ。<n>うまくいかないことばっかりな<n>んだよね。プライドとか、高い<n>理想とかが自分をしばりつけち<n>ゃってるんだと思うよ。マイナ<n>ス思考になっちゃってるの。時<n>間をかければかならず大丈夫、<n>穏やかな気持ちでのぞんでね。
+EN: Feeling a little empty inside?<n>Nothing seems to go right, huh?<n>I think your pride, or ideals<n>that are too high, are holding you back.<n>You're seeing everything<n>in a gloomy light right now.<n>Give it time. It'll all be okay.<n>Try to face things with a calm heart.
+
+@1F724 max=359
+JP: 審判
+EN: Judg.
+
+@1F88C max=359
+JP: 正位置
+EN: Upright
+
+@1F9F4 max=359
+JP: 自分が正しいと思ってる道に迷<n>わず進んでいいよ。悩みも問題<n>も自分のエネルギーできっと乗<n>り越えられるよ、大丈夫！環境<n>に変化があるかもしれないけど、<n>それも新しいスタートのいいき<n>っかけになるの。いつでも希望<n>をもってれば幸福は訪れるよ。
+EN: Follow the path you believe is right.<n>You don't have to hesitate!<n>You have the strength to overcome<n>your worries and problems. You'll see!<n>Things around you might change,<n>but that's a chance for a fresh start.<n>Keep hope in your heart,<n>and happiness will find you.
+
+@1FB5C max=359
+JP: 審判
+EN: Judg.
+
+@1FCC4 max=359
+JP: 逆位置
+EN: Reverse
+
+@1FE2C max=359
+JP: 変わらなきゃ、って思ってるん<n>だよね。でも変れないの。こわ<n>いのかなぁ。でも、ここは自分<n>から動き出さないと、いつまで<n>たっても状況は変わらないの。<n>いつまでもつらいばかりになっ<n>ちゃうよ。変わることをこわが<n>っちゃダメ。勇気をもって。
+EN: You know you need to change,<n>but you just can't seem to do it.<n>Are you scared, maybe?<n>Unless you take that first step,<n>things will stay the same forever.<n>You'll only keep hurting.<n>Don't be afraid of change.<n>Be brave!
+
+@1FF94 max=359
+JP: 世界
+EN: World
+
+@200FC max=359
+JP: 正位置
+EN: Upright
+
+@20264 max=359
+JP: おめでとう！いままでの努力が<n>報われるときがきたよ。最高の<n>ハッピーエンドを心にしっかり<n>思い描いて前進してね。成功に<n>は重い責任もついてくるものだ<n>けど、自分らしくしていればす<n>べてはうまくいくよ。なんてい<n>ったって未来は明るいのだ。
+EN: Congratulations! All your hard work<n>is about to pay off!<n>Picture the happiest ending ever,<n>and keep moving toward it.<n>Success brings big responsibilities,<n>but stay true to yourself,<n>and everything will work out.<n>Your future is bright, after all!
+
+@203CC max=359
+JP: 世界
+EN: World
+
+@20534 max=359
+JP: 逆位置
+EN: Reverse
+
+@2069C max=359
+JP: もうちょっと、なんだよね。う<n>まくいってる部分もあるはずだ<n>よ。でも、あとひと息って感じ<n>なの。たとえうまくいっても、<n>そこに生まれる責任をちゃんと<n>背負えてないからだね。それが<n>できないと本当のハッピーエン<n>ドはやってこないよ。
+EN: You're almost there!<n>Some things must be going well,<n>but there's still a little way to go.<n>Even when you succeed,<n>you aren't quite ready to shoulder<n>the responsibility that comes with it.<n>Until you can do that,<n>your true happy ending will have to wait.

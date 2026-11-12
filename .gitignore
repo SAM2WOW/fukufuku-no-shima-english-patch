@@ -1,0 +1,10 @@
+# Game images and build output (never commit copyrighted game data)
+*.iso
+*.cso
+build/
+work/
+__pycache__/
+*.pyc
+tools/dev/*.preview.png
+tools/dev/*preview*.png
+tools/dev/audit/

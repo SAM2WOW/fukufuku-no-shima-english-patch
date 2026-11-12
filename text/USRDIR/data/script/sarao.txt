@@ -1,0 +1,75 @@
+# source: PSP_GAME/USRDIR/data/script/sarao.scb
+# format: scb
+# width: 44
+
+@5144 max=639
+JP: なにをしますか？
+EN: What would you like to do?
+
+@53C4 max=639
+JP: 投げる<n>やめる
+EN: Throw<n>Quit
+
+@5644 max=639
+JP: なにを投げますか？
+EN: What will you throw?
+
+@58C4 max=639
+JP: <ITEM>でいいですか？
+EN: Use <ITEM>?
+
+@5B44 max=639
+JP: あ、イテテテテ！<n>もう、誰だいモノを投げたのは！<p>キミかい？気をつけてくれよ！<n>中で寝てる奴もいるんだからさ！<p>もー、気分は最悪だよ！ぷんぷん！<n>じゃ、これ返すよ！
+EN: Ow, ow, owww!<n>Who threw that thing?!<p>Was it you? Watch it, will you?<n>Some of us are trying to sleep down here!<p>Now I'm in a rotten mood! Hmph!<n>Here, take this back!
+
+@5DC4 max=639
+JP: うわ！ごめんなさいごめんなさい<n>もうしませんから龍神さま！<p>…ん？あれ、夢か……。<n>もー、急に起こされてビビったよ！<p>ま、いいや。じゃ、これ返すね。
+EN: Aah! I'm sorry! I'm sorry!<n>I'll never do it again, Dragon God!<p>...Huh? Oh, it was a dream...<n>Sheesh, you scared me awake!<p>Oh well. Here, take this back.
+
+@6044 max=639
+JP: 池にモノ投げたのキミ？<n>危ないからやめてほしいんだけど<p>今日はデートだから<n>起こしてくれて助かったよ。<p>…って、こんな時間かよ！<n>だ、だ、大遅刻だ！<p>鯉奈さん、怒ってるぞ、きっと！<n>じゃ、じゃあこれ、お礼ね！
+EN: Did you throw something in the pond?<n>That's dangerous! Knock it off, will you?<p>Still, I've got a date today,<n>so thanks for waking me up.<p>...Wait, that's the time?!<n>I'm l-l-late! REALLY late!<p>Koina's going to be furious!<n>H-here, this is for waking me!
+
+@62C4 max=639
+JP: 池にモノ投げたのキミ？<n>いやー、助かったよ。<p>今日は見たい番組があるから<n>起きなきゃって思ってたんだー。<p>…おっと、そろそろ始まるな<n>「魔法のカエル、アマピーちゃん」<p>こうしちゃいられない！<n>…あ、これ、お礼ね！
+EN: Did you throw something in the pond?<n>Boy, you saved me!<p>There's a show I want to watch today,<n>so I was hoping I'd wake up in time.<p>...Ooh, it's nearly time for<n>"Amapi the Magical Frog"!<p>I can't hang around here!<n>...Oh, take this as a thank-you!
+
+@6544 max=639
+JP: 池にモノ投げたのキミ？<n>いやー、ありがとう！ありがとう！<p>今日は大事なデートだから<n>寝坊したら大変なことになってた！<p>…さて。愛しの鯉奈ちゃんのために<n>皿もきれいにしとかないと。ぐふふ！<p>起こしてくれてほんとサンキュー！<n>これ、お礼ね！
+EN: Did you throw something in the pond?<n>Thank you! Oh, thank you!<p>I've got a big date today!<n>Oversleeping would've been a disaster!<p>...Right! Better polish the dish on my head<n>for my darling Koina. Heh heh heh!<p>Thanks a ton for waking me up!<n>Here's a little thank-you!
+
+@67C4 max=639
+JP: 持ち物がいっぱいで持てません
+EN: Your inventory is full. You can't carry this.
+
+@6A44 max=639
+JP: 持ち物がいっぱいです
+EN: Your bag is full.
+
+@6CC4 max=639
+JP: <ITEM>を置きました
+EN: Placed <ITEM>.
+
+@6F44 max=639
+JP: え？投げたモノと違う？<n>もー、知らないよそんなこと！<p>じゃあね！ぷんぷん！
+EN: Huh? That's not what you threw in?<n>Well, how should I know?!<p>See you! Hmph!
+
+@71C4 max=639
+JP: え？投げたモノとちがう？<n>そうだっけ…。<p>…ふわわ。ま、いいじゃん。<n>また寝よう。じゃ、おやすみー。
+EN: Huh? That's not what you threw in?<n>Really...?<p>...Yaaawn. Oh, what's it matter?<n>I'm going back to bed. Nighty-night.
+
+@7444 max=639
+JP: ごめん、急いでるんで<n>そんなものしか見つからないけど！<p>…うは！や、やばい！<n>じゃ、さいならー！
+EN: Sorry, I'm in a hurry!<n>That's all I could find!<p>...Ack! Th-this is bad!<n>Gotta go! Byeee!
+
+@76C4 max=639
+JP: ま、たいしたもんじゃないけど<n>ボクのコレクションのひとつさ！<p>よかったら、また起こしてね！<n>それじゃ！
+EN: It's nothing fancy,<n>but it's from my very own collection!<p>Feel free to wake me up again!<n>See you!
+
+@7944 max=639
+JP: それ、ボクの宝物だよ！<n>今日はそれほど助かったってことさ！<p>よかったら、また起こしにきてね！<n>じゃー、またねー！
+EN: That's one of my treasures!<n>That's how grateful I am today!<p>Come wake me up again sometime!<n>See you around!
+
+@7BC4 max=639
+JP: <<テキストチェック>><n>表示したい会話メッセージのIDを選んでください。
+EN: 

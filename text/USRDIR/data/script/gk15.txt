@@ -1,0 +1,223 @@
+# source: PSP_GAME/USRDIR/data/script/gk15.scb
+# format: scb
+# width: 44
+
+@5144 max=639
+JP: む？見たな？<p>我の姿を見てしまったな？<n>ふははは！哀れなやつめ！<p>我らはガイコツナンバーズ！<n>邪悪な秘密結社なのだ！<p>そして我は、ナンバー<GN>！<n>自分で言うのもなんだが、幹部候補だ！
+EN: Hm? You saw me?<p>You have gazed upon my fearsome form?<n>Fwahaha! You poor fool!<p>We are the Skull Numbers!<n>An evil secret society!<p>And I am Number <GN>!<n>Officer material, if I do say so myself!
+
+@53C4 max=639
+JP: む？おまえは<PN>！<n>最近ウワサの、我らの敵だな？<p>我はガイコツナンバー<GN>！<n>ここで会ったが百年目だ！ふはは！
+EN: Hm? You're <PN>!<n>Our enemy everyone's been talking about!<p>I am Skull Number <GN>!<n>At last, your reckoning is at hand! Fwahaha!
+
+@5644 max=639
+JP: …ヤア！元気かーい！<n>ずいぶん顔色いいじゃん！<p>…と、油断させておいて<n>トウッ！<p>…ふはははは！愚かな奴め！<n>我の絶妙の声色に騙されたな！<p>我はガイコツナンバー<GN>！<n>どうだ、驚いたか、ふははは！<p>もはや貴様に勝ち目はない！<n>大人しく降参するがいい！
+EN: ...Hey there! How's it going?<n>You're looking great!<p>...And with your guard down...<n>HIYAH!<p>...Fwahahaha! You fool!<n>My flawless acting had you completely fooled!<p>I am Skull Number <GN>!<n>Surprised? Fwahaha!<p>You have no hope of victory now!<n>Surrender quietly!
+
+@58C4 max=639
+JP: む！おまえは<PN>！<n>なんだ、また我らにやられに来たか！<p>我はガイコツナンバー<GN>！<n>返り討ちにしてやる！カモーン！
+EN: Ah! It's you, <PN>!<n>Back for another beating, are you?<p>I am Skull Number <GN>!<n>I'll send you packing! Come on!
+
+@5B44 max=639
+JP: 我らの目的は、邪悪な占いによって<n>この世を支配することなのだ！ふはは！<p>具体的には、恐怖の「あだな占い」で<n>全人類を精神的に打ちのめすのだ！<p>…む？聞いたな？<n>我らの正体を聞いてしまったな？<p>聞かれたからには覚悟してもらおう。<n>ふははは！泣け！叫べ！
+EN: Our goal is to rule the world<n>through evil fortune-telling! Fwahaha!<p>Specifically, our dreaded nickname fortunes<n>will crush the spirit of all humanity!<p>...Hm? You heard that?<n>You have learned our true identity?<p>Then prepare to face the consequences!<n>Fwahaha! Weep! Scream!
+
+@5DC4 max=639
+JP: 我らは巨大な秘密結社なのだ！<n>全部で、４０人…いや、５０人…<p>ええと、ひいふうみい…<p>…ふ、ふはは！<n>そんなことはどうでもよい！
+EN: Our secret society is vast!<n>We have forty... No, fifty members...<p>Let's see... One, two, three...<p>...F-Fwahaha!<n>Such details are irrelevant!
+
+@6044 max=639
+JP: ガイコツナンバーズ結成より３０年！<n>我が結社は、着々と版図を広げてきた！<p>あと５０年もあれば<n>この島の四分の一は支配できる！<p>これが何を意味するかわかるか？<n>つまり…<p>この調子でいくと<n>世界征服まであと一歩ということだ！
+EN: Thirty years since the Skull Numbers arose!<n>Our territory has steadily expanded!<p>In just fifty more years,<n>we could rule a quarter of this island!<p>Do you know what that means?<n>It means...<p>At this rate, we're just one step away<n>from world domination!
+
+@62C4 max=639
+JP: 我らの目的は、邪悪な占いによって<n>この世を支配することなのだ！ふはは！<p>具体的には、恐怖の「あだな占い」で<n>全人類を精神的に打ちのめすのだ！<p>…む？聞いたな？<n>我らの正体を聞いてしまったな？<p>聞かれたからには覚悟してもらおう。<n>ふははは！泣け！叫べ！
+EN: Our goal is to rule the world<n>through evil fortune-telling! Fwahaha!<p>Specifically, our dreaded nickname fortunes<n>will crush the spirit of all humanity!<p>...Hm? You heard that?<n>You have learned our true identity?<p>Then prepare to face the consequences!<n>Fwahaha! Weep! Scream!
+
+@6544 max=639
+JP: 我らは巨大な秘密結社なのだ！<n>全部で、４０人…いや、５０人…<p>ええと、ひいふうみい…<p>…ふ、ふはは！<n>そんなことはどうでもよい！
+EN: Our secret society is vast!<n>We have forty... No, fifty members...<p>Let's see... One, two, three...<p>...F-Fwahaha!<n>Such details are irrelevant!
+
+@67C4 max=639
+JP: ガイコツナンバーズ結成より３０年！<n>我が結社は、着々と版図を広げてきた！<p>あと５０年もあれば<n>この島の四分の一は支配できる！<p>これが何を意味するかわかるか？<n>つまり…<p>この調子でいくと<n>世界征服まであと一歩ということだ！
+EN: Thirty years since the Skull Numbers arose!<n>Our territory has steadily expanded!<p>In just fifty more years,<n>we could rule a quarter of this island!<p>Do you know what that means?<n>It means...<p>At this rate, we're just one step away<n>from world domination!
+
+@6A44 max=639
+JP: ふははは、聞いておどろくな！<p>我々は、素晴らしい情報を<n>ゲットしたのだぞ！<p>「ものしり海岸」に、われらの祖先<n>ガイコツスリーパーズの像があるという！<p>それこそ、我らの世界征服の<n>新たなカギとなるアイテムなのだ！<p>もはや勝ったも同然よ！ふははは！
+EN: Fwahaha! Prepare to be amazed!<p>We have acquired<n>some magnificent intelligence!<p>A statue of our ancestors, the Skull Sleepers,<n>stands on Know-It-All Coast!<p>That very statue shall be the new key<n>to our conquest of the world!<p>Victory is as good as ours! Fwahaha!
+
+@6CC4 max=639
+JP: くっ、それにしても…<p>ガイコツ大魔王様さえ<n>万全の体調でおられたら…。<p>花粉症とギックリ腰のせいで<n>我らが魔王様は動けないのだ！<p>くっ、無念だ！
+EN: Grr... If only...<p>If only our mighty Skull Overlord<n>were in perfect health...<p>Hay fever and a bad back<n>have left our lord unable to move!<p>Grr! The injustice!
+
+@6F44 max=639
+JP: ふふふ、その目、その表情…<n>ふふふ、我は見抜いているぞ！<p>おまえももう、我らが占いの虜よ！<p>おとなしく、わが結社に<n>忠誠を誓うのだ！ふはは！
+EN: Heh heh heh... Those eyes! That expression!<n>I can see right through you!<p>You, too, are in thrall to our fortunes!<p>Now swear your allegiance<n>to our society! Fwahaha!
+
+@71C4 max=639
+JP: ふはは！ひとつ教えてやろう！<p>ガイコツナンバーズに<n>給与は出ない！<p>全部ボランティアだ！<n>しかし泣かないぞ！
+EN: Fwahaha! Let me tell you something!<p>The Skull Numbers<n>receive no salary!<p>It's all volunteer work!<n>But I shall not cry!
+
+@7444 max=639
+JP: ふははは！貴様は知るまい！<p>我らがガイコツ大魔王様の<n>鎮座まします場所を！<p>そぞろ山の、洞窟の奥深くで<n>花粉症の治療中であることなど<p>貴様には、思いもつかない<n>秘密なのだ！ふははは！
+EN: Fwahaha! You could never guess...<p>The place where our mighty<n>Skull Overlord resides!<p>Deep in a cave on Wanderlust Mountain,<n>receiving treatment for hay fever...<p>Such a secret would never<n>even cross your mind! Fwahahaha!
+
+@76C4 max=639
+JP: ふはは！ひとつ教えてやろう！<p>我らガイコツナンバーズは<n>人類の歴史のはじめより…<p>名を変え、活動内容を変え<n>暗躍を続けてきたのだ！<p>詳しくは、ガイコツ像に添付された<n>邪悪な文書を読むがいい！<p>そして、邪悪な歴史に震えるがいい！<n>ふはははは！
+EN: Fwahaha! Let me tell you something!<p>Since the dawn of human history,<n>we Skull Numbers have...<p>Changed our name and our activities,<n>working tirelessly in the shadows!<p>For details, read the evil document<n>attached to the skeleton statue!<p>Then tremble at our wicked history!<n>Fwahahaha!
+
+@7944 max=639
+JP: ふははは！聞いて驚くな！<p>貴様が、一度手に入れたアイテムは<n>特殊なものをのぞいて…<p>ポッコという生物の経営する店で<n>買うことができるのだ！<p>だが、我らは給与を貰っていないから<n>カネはいっさい持っていない！<p>つまり、我らには、まるで<n>関係のない情報なのだ！ふはは！
+EN: Fwahaha! Prepare to be amazed!<p>Once you've obtained an item,<n>apart from certain special ones...<p>You can buy it again at a shop<n>run by a creature called Pokko!<p>But since we receive no salary,<n>we have no money whatsoever!<p>In other words, this information<n>is utterly useless to us! Fwahaha!
+
+@7BC4 max=639
+JP: ふははは！懲りないやつめ！<p>ククク、それとも<n>我らに忠誠を誓う気になったか？<p>ちなみに、我が組織に忠誠を誓うと<n>特製ハンカチがもらえるぞ！
+EN: Fwahaha! You never learn!<p>Heh heh heh... Or have you finally<n>decided to swear allegiance to us?<p>Incidentally, joining our organization<n>earns you a special handkerchief!
+
+@7E44 max=639
+JP: ならば、特別サービスで<n>貴様の友達を占ってやろう！
+EN: Then, as a special service,<n>I shall tell your friend's fortune!
+
+@80C4 max=639
+JP: ふはははは！<p>我の必殺ワザ、<UC>占いで<n>貴様を地獄に送ってやろう！
+EN: Fwahahaha!<p>My ultimate technique, <UC> fortune-telling,<n>shall send you straight to the underworld!
+
+@8344 max=639
+JP: ふっ、臆したか！<n>我の勝ちだな！ふはははは！
+EN: Hah! Lost your nerve?<n>Victory is mine! Fwahahaha!
+
+@85C4 max=639
+JP: ふははは！無謀なヤツめ！<n>我が占い、受けてみよ！
+EN: Fwahaha! Reckless fool!<n>Face the might of my fortune-telling!
+
+@8844 max=639
+JP: ふふふ、ズバリ！<p><UC>占いでいうと<n>貴様は<UN>だ！
+EN: Heh heh heh... Behold the truth!<p>According to <UC> fortune-telling,<n>you are <UN>!
+
+@8AC4 max=639
+JP: …………<p>…ぷっ！<UN>だってさ！<n>うわー、ハズカシー！<p>これから貴様が何をやっても<n>「でも<UN>だしー」<p>って言われちゃうのだぞ！<n>やーいやーい、<UN>！<p>…ふふふ、どうやら精神に<n>深い傷を負ったようだな？<p>我らの恐怖、思い知ったか！<n>ふははは！…では、さらばだ！
+EN: ............<p>...Pfft! <UN>!<n>Wow, how embarrassing!<p>Whatever you do from now on,<n>people will say, "Still <UN>, though!"<p>That's what they'll say!<n>Nyah nyah! <UN>!<p>...Heh heh heh. It seems I've dealt<n>a deep wound to your spirit!<p>Now you know true terror!<n>Fwahaha! ...Farewell!
+
+@8D44 max=639
+JP: ククク、ならば<n>貴様の友達の秘密を教えるがいい…。<p>さあ、友達を売れ、フフフフ…。
+EN: Heh heh heh... Then reveal<n>your friend's secrets to me...<p>Go on, betray your friend! Heh heh heh...
+
+@8FC4 max=639
+JP: これで良いのか？ククククク…。
+EN: Is this correct? Heh heh heh...
+
+@9244 max=639
+JP: さあ、友達を売れ、フフフフ…。
+EN: Go on, betray your friend! Heh heh heh...
+
+@94C4 max=639
+JP: これで良いのか？ククククク…。
+EN: Is this correct? Heh heh heh...
+
+@9744 max=639
+JP: さあ、友達を売れ、フフフフ…。
+EN: Go on, betray your friend! Heh heh heh...
+
+@99C4 max=639
+JP: ふふふ、ではゆくぞ？<n>貴様の友達はな…。
+EN: Heh heh heh... Shall we begin?<n>Your friend is...
+
+@9C44 max=639
+JP: <UC>占いでいうと<n><UN>だったのだ！ガーン！
+EN: According to <UC> fortune-telling,<n><UN>! Gasp!
+
+@9EC4 max=639
+JP: ふははは！<p>衝撃の事実に<n>声も出ないようだな！<p>哀れなやつめ！ふはははは！<n>…では、さらばだ！
+EN: Fwahaha!<p>The shocking truth<n>has left you speechless!<p>You poor fool! Fwahahaha!<n>...Farewell!
+
+@A144 max=639
+JP: <<テキストチェック>><n>チェックする項目を選んでください。
+EN: 
+
+@A3C4 max=639
+JP: 会話メッセージ<n>イベント用テキスト
+EN: Dialogue<n>Event Text
+
+@A644 max=639
+JP: 表示したい会話メッセージのIDを選んでください。
+EN: 
+
+@A8C4 max=639
+JP: 表示したいテキストのIDを入力してください。
+EN: 
+
+@14E64 max=359
+JP: 童話ヒロイン
+EN: Fairy-Tale Heroine
+
+@14FCC max=359
+JP: かぐや姫
+EN: Princess Kaguya
+
+@15134 max=359
+JP: 頭が良く、クールで、常に客観的<n>に物事を判断できるかぐや姫タイ<n>プ。その場だけの雰囲気におぼれ<n>ることなく、苦労があってもひと<n>つひとつ乗り越えていかれる努力<n>家です。意外にユーモラスな一面<n>もあり異性からも好かれます。
+EN: You're a Princess Kaguya type: clever, cool, and always able to judge things objectively. You don't get swept up in the mood of the moment. A hard worker, you overcome obstacles one by one. Your surprisingly funny side also makes you popular with the opposite sex.
+
+@1529C max=359
+JP: 鶴の恩返し
+EN: The Grateful Crane
+
+@15404 max=359
+JP: 芯が強く、努力家、温かく優しい<n>つうタイプ。奉仕精神に富み、誰<n>かを助けながら生きていくことで<n>自分も幸せになる人です。このタ<n>イプの人が、困った人やつらい人<n>にもたらす癒し効果は抜群で、そ<n>のやさしさゆえ恋が始まることも。
+EN: You're a Tsu type, like the heroine of The Grateful Crane: strong at heart, hardworking, warm, and kind. Helping others brings you happiness, too. Your generous spirit has a remarkable gift for soothing people in trouble or pain. That kindness may even spark a romance.
+
+@1556C max=359
+JP: 人魚姫
+EN: The Little Mermaid
+
+@156D4 max=359
+JP: あれこれ悩まず、爽やかで元気な<n>人魚姫タイプ。おしゃべりで移り<n>気なところもありますが、人を蹴<n>落としたりせずに成長でき、若い<n>うちから社会に飛び出しても成功<n>する人。思いのほか情熱的で一途<n>なところがとても魅力的です。
+EN: You're a Little Mermaid type: bright, lively, and free of needless worries. You can be chatty and fickle, but you get ahead without stepping on others. Even if you strike out into the world young, you can succeed. Your surprising passion and devotion are a big part of your charm.
+
+@1583C max=359
+JP: シンデレラ
+EN: Cinderella
+
+@159A4 max=359
+JP: 社交的で明るく、誰かを恨んだり<n>妬んだりすることがない、穏やか<n>なシンデレラ。若くして成功を収<n>め、変な高望みをしなければ、黙<n>っていても幸運が舞い込みます。<n>要領が良すぎるところがあるので、<n>こじんまりしてしまう場合も。
+EN: You're a Cinderella type: sociable, cheerful, and easygoing, with no room for grudges or envy. Success comes early, and luck falls into your lap if you keep your ambitions realistic. Still, your knack for getting by with little effort can keep you from reaching your full potential.
+
+@15B0C max=359
+JP: マッチ売りの少女
+EN: The Little Match Girl
+
+@15C74 max=359
+JP: こつこつとまじめな努力家で、内<n>面はとてもナイーブなマッチ売り<n>の少女タイプ。波乱に富んだ人生<n>を送りますが、融通が利かないと<n>ころを直していくことで、運気が<n>開きます。子供のような感性と一<n>途さが異性を惹きつける魅力です。
+EN: You're a Little Match Girl type: a steady, earnest worker with a deeply sensitive heart. Life has plenty of ups and downs in store, but learning to be more flexible will improve your luck. Your childlike outlook and wholehearted devotion make you especially appealing to the opposite sex.
+
+@15DDC max=359
+JP: 赤ずきん
+EN: Little Red Riding Hood
+
+@15F44 max=359
+JP: ちょっと天然、でも人情に厚く、<n>頼まれるといやとはいえない赤ず<n>きんタイプ。見かけによらず、激<n>しい人生を歩む人も多く、苦労も<n>多いですが、必ず挽回できる力を<n>持っています。好きな相手には率<n>直に心を打ち明けられる人です。
+EN: You're a Little Red Riding Hood type: a little clueless, but warmhearted and unable to say no to a favor. Despite appearances, many of your type lead turbulent lives with plenty of hardship. Still, you always have the strength to bounce back. You're also able to tell someone you like exactly how you feel.
+
+@160AC max=359
+JP: アリス
+EN: Alice
+
+@16214 max=359
+JP: 愛嬌があり、常に周囲を楽しませ<n>ることができるアリスタイプ。<n>いつまでも若々しく、サービス精<n>神旺盛で、誰からも好かれる人で<n>す。若いときは細々とした苦労も<n>ありますが、年を取るにつれて落<n>ち着き、幸せな晩年を過ごせます。
+EN: You're an Alice type: charming and always able to keep everyone entertained. Forever young at heart and eager to please, you're liked by all. You may face a string of little troubles in your youth, but life settles down as you grow older, with happy later years ahead.
+
+@1637C max=359
+JP: 眠れる森の美女
+EN: Sleeping Beauty
+
+@164E4 max=359
+JP: 特定の相手から長く、ゆっくり愛<n>される、眠りの森の美女タイプ。<n>忍耐強く、相手を欠点ごと愛せる<n>包容力のある人です。年を重ねる<n>ごとにその魅力が増していき、や<n>がて大輪の花のように美しく咲き<n>誇る晩成型でもあります。
+EN: You're a Sleeping Beauty type, whose lasting love with one special person grows slowly over time. Patient and accepting, you can love someone flaws and all. You're a late bloomer whose charm deepens with age, until you blossom like a magnificent flower.
+
+@1664C max=359
+JP: 白雪姫
+EN: Snow White
+
+@167B4 max=359
+JP: 焦がれても手に届かないような雰<n>囲気を秘めた白雪姫タイプ。外見<n>とは裏腹なその感情の激しさ、早<n>熟さが異性を惹きつける魅力にな<n>っています。多少、情緒不安定な<n>ところがあり、それが悪く出ると<n>道ならぬ恋に走ることも。
+EN: You're a Snow White type, with an air of being forever just out of reach. Beneath that exterior, your intense emotions and maturity beyond your years draw the opposite sex to you. You can be a little emotionally unstable, though. If that gets the better of you, you may fall into a forbidden romance.

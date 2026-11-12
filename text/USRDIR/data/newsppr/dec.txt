@@ -1,0 +1,127 @@
+# source: PSP_GAME/USRDIR/data/newsppr/dec.bin
+# format: rec
+# width: 42
+
+@#0
+JP: ■鉄の記念日：１８５７年、岩手県釜石で洋<n>式高炉により操業開始。<n>■世界エイズデー：世界保健機関、制定。<n>■映画の日：１８９６年、日本で初めての映<n>画一般公開。入場料の割引などが行われる。<n>■冬の省エネ総点検の日：１９８０年、総合<n>エネルギー対策推進閣僚会議で制定。<n>■防災用品点検の日：年４回設けられている。
+EN: * Iron Day: In 1857, a Western-style blast furnace<n>began operating in Kamaishi, Iwate Prefecture.<n>* World AIDS Day: Established by the World Health Organization.<n>* Cinema Day: In 1896, Japan held its first public<n>film screenings. Cinemas offer discounted admission and more.<n>* Winter Energy-Saving Checkup Day: Established in 1980<n>by a cabinet council promoting comprehensive energy policies.<n>* Disaster Supplies Checkup Day: Held four times a year.
+
+@#1
+JP: ■日本人宇宙飛行記念日：１９９０年、秋山<n>豊寛氏らを載せたソ連ソユーズ号が打ち上げ<n>られ、日本人初の宇宙飛行に成功。<n>■原子炉の日<n>１９４２年、アメリカでウランの核分裂の持<n>続的な連鎖反応に成功。<n>■安全カミソリの日：１９０１年、ジレット<n>氏が替刃式安全カミソリの特許を取得。
+EN: * Japanese Spaceflight Day: In 1990, a Soviet Soyuz spacecraft<n>launched with Toyohiro Akiyama and his fellow crew members aboard,<n>making Akiyama the first Japanese person in space.<n>* Nuclear Reactor Day:<n>In 1942, the first sustained uranium fission chain reaction<n>was achieved in the United States.<n>* Safety Razor Day: In 1901, Gillette obtained a patent<n>for a safety razor with replaceable blades.
+
+@#2
+JP: ■「プレイステーション」の日：１９９４年<n>の「プレイステーション」発売を記念して。<n>■国際障害者デー：１９９２年、国連総会で<n>制定。国際デーの一つ。<n>■自動車電話の日：１９７９年、電電公社が<n>東京２３区での自動車電話サービスとコード<n>レス電話のサービスを開始。
+EN: * PlayStation Day: Celebrates the release of the PlayStation<n>in 1994.<n>* International Day of Persons with Disabilities: Established<n>by the UN General Assembly in 1992 as an international observance.<n>* Car Phone Day: In 1979, Japan's public telephone corporation<n>launched car phone service in Tokyo's 23 wards,<n>along with cordless telephone service.
+
+@#3
+JP: ■血清療法の日：１８９０年、北里柴三郎と<n>エミール・ベーリングが破傷風とジフテリア<n>の血清療法を発表。<n>■Ｅ．Ｔ．の日：１９８２年、映画「ＥＴ」<n>が日本で公開。１９９８年まで最高の配給収<n>入を記録していた。
+EN: * Serum Therapy Day: In 1890, Shibasaburo Kitasato and<n>Emil von Behring announced serum treatments for tetanus<n>and diphtheria.<n>* E.T. Day: In 1982, E.T. opened in Japanese cinemas.<n>It held Japan's film distribution revenue record until 1998.
+
+@#4
+JP: ■国際ボランティアデー：国連制定の国際デ<n>ー。ボランティア活動に対する認識を高め、<n>参加意識を拡大するために設けられた日。<n>■バミューダトライアングルの日：１９４５<n>年、大西洋上で、アメリカ軍機が突然消息を<n>たち、その救援機も同じ海域で行方不明に。<n>■モーツアルト忌：１７９１年、オーストリ<n>アの作曲家モーツアルトの命日。
+EN: * International Volunteer Day: An international observance<n>established by the UN to raise awareness of volunteer work<n>and encourage more people to take part.<n>* Bermuda Triangle Day: In 1945, American military planes<n>suddenly vanished over the Atlantic Ocean. A plane sent<n>to rescue them also disappeared in the same area.<n>* Mozart Memorial Day: Marks the death in 1791<n>of the Austrian composer Mozart.
+
+@#5
+JP: ■シンフォニー記念日：１９１４年、山田耕<n>作作曲の初の和製交響曲、帝国劇場で発表。<n>■ラジオアイソトープの日：ラジオアイソト<n>ープの製造にも使われるサイクロトロンを開<n>発した仁科芳雄博士の誕生日。<n>■音の日：日本オーディオ協会、制定。<n>■姉の日：漫画家の畑田国男氏が１９９２年<n>に制定。
+EN: * Symphony Day: In 1914, Japan's first homegrown symphony,<n>composed by Kosaku Yamada, premiered at the Imperial Theatre.<n>* Radioisotope Day: The birthday of Dr. Yoshio Nishina,<n>who developed a cyclotron, a device also used<n>to produce radioisotopes.<n>* Sound Day: Established by the Japan Audio Society.<n>* Older Sisters' Day: Established in 1992<n>by cartoonist Kunio Hatada.
+
+@#6
+JP: ■クリスマスツリーの日：１８８６年、横浜<n>で、日本初のクリスマスツリーが飾られた。<n>■神戸開港記念日：神戸市が制定。１８６７<n>年、神戸港が外国船の停泊地として開港した。<n>■国際民間航空デー：１９９２年の国際民間<n>航空機関の総会で制定し、１９９４年から実<n>施。国際デーの一つ。
+EN: * Christmas Tree Day: In 1886, Japan's first Christmas tree<n>was put on display in Yokohama.<n>* Kobe Port Opening Day: Established by the city of Kobe.<n>In 1867, Kobe's port opened to foreign ships.<n>* International Civil Aviation Day: Established at the 1992<n>assembly of the International Civil Aviation Organization<n>and first observed in 1994. One of the international observances.
+
+@#7
+JP: ■太平洋戦争開戦の日：１９４１年、日本海<n>軍がハワイの真珠湾を急襲、太平洋戦争が始<n>まった。<n>■針供養：裁縫を休み、折れた針を集めて豆<n>腐等の柔らかいものに刺し供養を行う。<n>■レノンズデー：１９８０年、ビートルズの<n>メンバー、ジョン・レノンが撃たれて死亡。
+EN: * Pacific War Outbreak Day: In 1941, the Japanese navy<n>launched a surprise attack on Pearl Harbor in Hawaii,<n>marking the start of the Pacific War.<n>* Needle Memorial Service: A day to put sewing aside and honor<n>broken needles by placing them in something soft, such as tofu.<n>* Lennon Day: In 1980, John Lennon of the Beatles<n>was shot and killed.
+
+@#8
+JP: ■障害者の日：１９７５年、国連が「障害者<n>の権利宣言」を採択、完全参加と平等をうた<n>ったことを記念して。<n>■漱石忌：小説家、夏目漱石の忌日。
+EN: * Persons with Disabilities Day: Commemorates the UN's adoption<n>of the Declaration on the Rights of Disabled Persons in 1975,<n>which called for full participation and equality.<n>* Soseki Memorial Day: The anniversary of novelist Natsume Soseki's death.
+
+@#9
+JP: ■ノーベル賞受賞式：ノーベルの死去した日。<n>スウェーデンのストックホルムで授賞式開催。<n>■三億円事件の日：１９６８年、府中市の東<n>芝工場の現金輸送車が、白バイ警官に扮した<n>犯人に強奪される「三億円事件」が起きた。<n>■世界人権デー：１９４８年、パリで開かれ<n>た第３回国連総会で人権宣言が採択されたこ<n>とにちなんで。
+EN: * Nobel Prize Ceremony: Held on the anniversary of Nobel's death.<n>The award ceremony takes place in Stockholm, Sweden.<n>* 300 Million Yen Robbery Day: In 1968, a robber disguised<n>as a motorcycle police officer stole a cash transport vehicle<n>carrying money for Toshiba's factory in Fuchu.<n>* Human Rights Day: Commemorates the adoption of the Universal<n>Declaration of Human Rights at the third UN General Assembly,<n>held in Paris in 1948.
+
+@#10
+JP: ■１００円玉記念日：１９５７年、戦後初め<n>て１００円銀貨が発行されたことを記念。<n>■胃腸の日：日本大衆薬工業協会が２００２<n>年に制定。「いに（１２）いい（１１）」の<n>語呂合せ。<n>■ユニセフ創立記念日：１９４６年、国連児<n>童基金（ユニセフ）の前身である国連国際児<n>童緊急基金が創立されたことにちなんで。
+EN: * 100-Yen Coin Day: In 1957, Japan issued its first<n>silver 100-yen coins since the war.<n>* Digestive Health Day: Established in 2002 by the Japan<n>Self-Medication Industry association. The date, 12/11, sounds<n>like "good for the stomach" in Japanese.<n>* UNICEF Founding Day: In 1946, the United Nations<n>International Children's Emergency Fund was established,<n>the predecessor of today's United Nations Children's Fund.
+
+@#11
+JP: ■漢字の日：１９９５年、日本漢字能力検定<n>協会、制定。毎年「今年の漢字」を発表。<n>■バッテリーの日：日本電池工業会が１９８<n>５年に制定。<n>■児童福祉法公布記念日：１９４７年、児童<n>福祉法が公布された。<n>■ダズンローズデー：桂由美さんと内田和子<n>さんが提唱。１２本のバラを恋人に贈る日。
+EN: * Kanji Day: Established in 1995 by the Japan Kanji Aptitude<n>Testing Foundation, which announces a "Kanji of the Year" annually.<n>* Battery Day: Established in 1985<n>by the Battery Association of Japan.<n>* Child Welfare Act Day: In 1947, Japan's Child Welfare Act<n>was promulgated.<n>* Dozen Roses Day: Proposed by Yumi Katsura and Kazuko Uchida.<n>A day to give your sweetheart a dozen roses.
+
+@#12
+JP: ■双子の日：１８７４年、「双生児、三つ児<n>出産の場合は前産を兄姉と定む」という太政<n>官布告がだされた。<n>■ビタミンの日：「ビタミンの日」制定委員<n>会が２０００年に、制定。<n>■正月事始め，煤払い，松迎え：年神様を迎<n>える準備を始める日。
+EN: * Twins Day: In 1874, a government proclamation declared<n>that, for twins or triplets, the first child born<n>would be considered the oldest sibling.<n>* Vitamin Day: Established in 2000<n>by the Vitamin Day Establishment Committee.<n>* New Year Preparations, Soot Sweeping and Pine Gathering:<n>A day to begin preparing to welcome the New Year deity.
+
+@#13
+JP: ■四十七士討ち入りの日、赤穂義士祭：１７<n>０２年、赤穂浪士４７人が本所の吉良邸に討<n>ち入りし、主君の仇討ちを成し遂げた。<n>■南極の日：１９１１年、ノルウェーの探検<n>家、アムンゼンが世界で初めて南極点に達し<n>た日。
+EN: * 47 Ronin Raid Day / Ako Loyal Retainers Festival:<n>In 1702, the 47 ronin of Ako raided Kira's residence<n>in Honjo and avenged their lord.<n>* South Pole Day: In 1911, Norwegian explorer<n>Roald Amundsen became the first person in the world<n>to reach the South Pole.
+
+@#14
+JP: ■年賀郵便特別扱い開始：全国の郵便局で、<n>この日から年賀はがきの特別扱いを開始。<n>■観光バス記念日：１９２５年、東京で初め<n>て遊覧乗合自動車（観光バス）が登場、皇居<n>前～銀座～上野を走った。<n>■権利章典の日：１６８９年、イギリス議会<n>で権利章典が制定。
+EN: * New Year's Mail Service Begins: Post offices nationwide<n>begin special handling of New Year's postcards on this day.<n>* Sightseeing Bus Day: In 1925, Tokyo's first sightseeing<n>bus began running a route from the Imperial Palace grounds<n>through Ginza to Ueno.<n>* Bill of Rights Day: In 1689, the English Parliament<n>enacted the Bill of Rights.
+
+@#15
+JP: ■念仏の口止め：正月の神様は念仏が嫌いで<n>あるとし、この翌日から１月１６日の「念仏<n>の口明け」までは念仏を唱えないというしき<n>たりがある。<n>■紙の記念日：１８７５年、元幕臣の渋沢栄<n>一が設立した抄紙会社が営業運転を開始。<n>■電話の日：１８９０年、日本で初めて電話<n>が開通したことにちなんで。
+EN: * Nembutsu Silence: The New Year deity is said to dislike<n>chants invoking the Buddha. By tradition, these chants<n>are suspended from the following day until January 16,<n>when chanting resumes.<n>* Paper Day: In 1875, the paper company founded by Eiichi Shibusawa,<n>a former shogunate retainer, began commercial operations.<n>* Telephone Day: Commemorates the launch of Japan's first<n>telephone service in 1890.
+
+@#16
+JP: ■飛行機の日：１９０３年、アメリカ、ノー<n>スカロライナ州で、ライト兄弟が動力飛行機<n>の初飛行に成功。
+EN: * Airplane Day: In 1903, the Wright brothers achieved<n>their first powered airplane flight<n>in North Carolina, USA.
+
+@#17
+JP: ■東京駅の日：１９１４年、東京駅が新築、<n>落成した。<n>■国連加盟記念日：１９５６年、国連総会で<n>全会一致により、日本の国連加盟が可決され<n>たことを記念。<n>■納めの観音：１年で最後の観音の縁日。
+EN: * Tokyo Station Day: In 1914, construction of Tokyo Station<n>was completed.<n>* UN Membership Day: Commemorates Japan's admission<n>to the United Nations in 1956, approved unanimously<n>by the UN General Assembly.<n>* Last Kannon Fair: The year's final temple fair honoring Kannon.
+
+@#18
+JP: ■日本初飛行の日：１９１０年、東京で徳川<n>好敏工兵大尉が日本初の飛行訓練を行ない、<n>日本で初めて飛行に成功した日。
+EN: * Japan's First Flight Day: In 1910, Army Engineering Captain<n>Yoshitoshi Tokugawa conducted Japan's first flight training in Tokyo<n>and successfully made the country's first airplane flight.
+
+@#19
+JP: ■デパート開業の日：１９０４年、日本初の<n>デパートが開業した日。<n>■シーラカンスの日：１９５２年、７５００<n>万年前に絶滅したとされていたシーラカンス<n>がアフリカ・マダガスカル島沖で捕獲され学<n>術調査が行われた。<n>■霧笛記念日：１８７９年、尻屋崎灯台に日<n>本で初めて霧笛が設置された。
+EN: * Department Store Opening Day: In 1904, Japan's first<n>department store opened its doors.<n>* Coelacanth Day: In 1952, a coelacanth, thought to have<n>been extinct for 75 million years, was caught off<n>the African island of Madagascar<n>and studied by scientists.<n>* Foghorn Day: In 1879, Japan's first foghorn<n>was installed at Shiriyazaki Lighthouse.
+
+@#20
+JP: ■クロスワードパズルの日：１９１３年、世<n>界で初めてクロスワードパズルが「ニューヨ<n>ーク・ワールド」紙の日曜版に掲載。<n>■遠距離恋愛の日：遠距離恋愛中の恋人同士<n>がクリスマス前に会い愛を確かめあう日。
+EN: * Crossword Puzzle Day: In 1913, the world's first<n>crossword puzzle appeared in the Sunday edition<n>of the New York World newspaper.<n>* Long-Distance Love Day: A day for long-distance couples<n>to meet before Christmas and reaffirm their love.
+
+@#21
+JP: ■改正民法公布記念日：１９４７年、民法改<n>正法が公布。家父長制の家族制度が廃止され<n>戸籍が夫婦単位に。<n>■労働組合法制定記念日：１９４５年、労働<n>者の団結、団体交渉などの権利の保障を定め<n>た労働組合法が公布。
+EN: * Civil Code Revision Day: In 1947, a revision of Japan's<n>Civil Code was promulgated, abolishing the patriarchal family system<n>and making married couples the basis of family registers.<n>* Trade Union Act Day: In 1945, the Trade Union Act<n>was promulgated, guaranteeing workers the right to organize,<n>bargain collectively and more.
+
+@#22
+JP: ■天皇誕生日：１９３３年、現在の天皇が誕<n>生。即位は昭和６４年１月７日。<n>■東京タワー完成の日：１９５８年、東京、<n>芝公園に東京タワーが完成。高さは３３３ｍ。<n>■テレホンカードの日：１９８２年、数寄屋<n>橋公園にカード式の公衆電話の第１号が設置<n>されたことを記念。
+EN: * Emperor's Birthday: Emperor Akihito was born in 1933.<n>He ascended the throne on January 7, 1989.<n>* Tokyo Tower Completion Day: In 1958, Tokyo Tower<n>was completed in Shiba Park, Tokyo. It stands 333 meters tall.<n>* Telephone Card Day: In 1982, Japan's first<n>card-operated public telephone was installed<n>in Sukiyabashi Park.
+
+@#23
+JP: ■クリスマス・イブ：キリスト降誕の前夜祭。<n>日本では宗教とは関係なく祝う行事に。<n>■納めの地蔵：1年で最後の地蔵の縁日。
+EN: * Christmas Eve: The eve of the celebration of Christ's birth.<n>In Japan, it is also celebrated without religious ties.<n>* Last Jizo Fair: The year's final temple fair honoring Jizo.
+
+@#24
+JP: ■クリスマス：イエス・キリストの降誕記念<n>日。西暦３３６年にイエス・キリストの降誕<n>の日とされた。<n>■終い天神：１年で最後の天神の縁日。<n>■スケートの日：１９８２年、日本スケート<n>場協会が制定。<n>■神戸ルミナリエ最終日：阪神大震災の犠牲<n>者の鎮魂などを目的としたイベントの最終日。
+EN: * Christmas: Celebrates the birth of Jesus Christ.<n>In AD 336, this date was designated<n>as the day of his birth.<n>* Last Tenjin Fair: The year's final shrine fair honoring Tenjin.<n>* Skating Day: Established in 1982<n>by the Japan Skating Rink Association.<n>* Kobe Luminarie Closing Day: The final day of an event held<n>to honor victims of the Great Hanshin Earthquake and more.
+
+@#25
+JP: ■プロ野球誕生の日：１９３４年、読売巨人<n>軍の前身、日本初の職業野球チーム「大日本<n>東京野球倶楽部」が結成。
+EN: * Professional Baseball Birthday: In 1934, Japan's first<n>professional baseball team, the Great Japan Tokyo Baseball Club,<n>was formed. It later became the Yomiuri Giants.
+
+@#26
+JP: ■ピーターパンの日：１９０４年、イギリス<n>の劇作家バリーの童話劇「ピーターパン」が<n>ロンドンで初めて上演。<n>■浅草仲見世記念日：１８８５年、浅草の仲<n>見世が新装開業。
+EN: * Peter Pan Day: In 1904, British playwright J. M. Barrie's<n>fairy-tale play Peter Pan<n>was first performed in London.<n>* Asakusa Nakamise Day: In 1885, the Nakamise shopping street<n>in Asakusa reopened with a fresh new look.
+
+@#27
+JP: ■官庁御用納め：１８７３年、太政官日誌で<n>官庁の公休日を決定。<n>■シネマトグラフの日：１８９５年、パリで<n>映画をスクリーンに写すことに成功。<n>■身体検査の日：１８８８年、文部省が直轄<n>学校に対し、生徒の身体検査を行うよう訓令。<n>■ディスクジョッキーの日：ラジオプレスの<n>上野修氏が提唱。名ＤＪ糸居五郎さんの命日。
+EN: - Government Offices' Year-End Closing Day: In 1873,<n>official holidays were set in the Grand Council of State's journal.<n>- Cinematograph Day: In 1895, films were successfully<n>projected onto a screen in Paris.<n>- Physical Examination Day: In 1888, the Ministry of Education<n>ordered schools under its authority to give students physical exams.<n>- Disc Jockey Day: Proposed by Osamu Ueno of Radio Press.<n>It marks the anniversary of legendary DJ Goro Ito's death.
+
+@#28
+JP: ■清水トンネル開通記念日：１９２９年、上<n>越線清水トンネル貫通。<n>■生物の多様性のための国際デー：１９９４<n>年から国連が制定した国際デー。<n>■シャンソンの日：１９９０年、銀座のシャ<n>ンソン喫茶「銀巴里」閉店。
+EN: - Shimizu Tunnel Anniversary: In 1929, workers broke through<n>to complete the Shimizu Tunnel on the Joetsu Line.<n>- International Day for Biological Diversity: An international<n>observance established by the United Nations in 1994.<n>- Chanson Day: In 1990, Ginpari, the chanson cafe<n>in Ginza, closed its doors.
+
+@#29
+JP: ■取引所大納会：証券取引所での一年最後の<n>立会い。この日の午前中で取引は終了。<n>■地下鉄開業の日：１９２７年、日本初の地<n>下鉄が上野～浅草で開業。これは現在の銀座<n>線にあたる。
+EN: - Final Trading Day: The stock exchange's last trading session<n>of the year. Trading ends in the morning.<n>- Subway Opening Day: In 1927, Japan's first subway opened<n>between Ueno and Asakusa. This stretch is now part of<n>the Ginza Line.
+
+@#30
+JP: ■大晦日：１年の終りの日。年越し蕎麦を食<n>べる習慣は江戸時代中期から始まる。<n>■シンデレラデー：１年最後日、最も忙しく<n>１２時までに帰るべき日であることから。<n>■Ｎｅｗ　Ｙｅａｒ’ｓ　Ｅｖｅ：１年の終<n>わりの日は、新しい年が明ける前日。
+EN: - Omisoka: The last day of the year. The custom of eating<n>year-end soba noodles began in the mid-Edo period.<n>- Cinderella Day: Named for the year's busiest final day,<n>when you're supposed to be home by midnight.<n>- New Year's Eve: The last day of the year is also<n>the day before a new year begins.

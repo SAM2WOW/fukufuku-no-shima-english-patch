@@ -1,0 +1,127 @@
+# source: PSP_GAME/USRDIR/data/newsppr/jan.bin
+# format: rec
+# width: 42
+
+@#0
+JP: ■元日：国民の祝日。<n>■四方拝：天皇が神嘉殿に出御して万民の安<n>寧などを祈る儀式を行う日。<n>■鉄腕アトムの日：１９６３年に、フジテレ<n>ビで初めて「鉄腕アトム」が放映された日。<n>■少年法施行の日：１９４９年、２０歳未満<n>の少年の健全な育成を目的とした、少年法と<n>少年院法が施行された。
+EN: - New Year's Day: A national holiday in Japan.<n>- Prayer to the Four Directions: The Emperor visits<n>the Shinkaden Hall to pray for peace and well-being for all.<n>- Astro Boy Day: On this day in 1963, Fuji TV aired<n>the first episode of Astro Boy.<n>- Juvenile Law Enactment Day: In 1949, the Juvenile Act<n>and Juvenile Training Schools Act took effect to promote<n>the healthy development of young people under 20.
+
+@#1
+JP: ■初夢の日：２日の夜から３日の朝に見る夢<n>を初夢とし、その年の行く末を占うもの。<n>■初売り：商店などが２日に店を開けてその<n>年初めての商売をする日。<n>■月ロケットの日：１９５９年、旧ソ連の月<n>ロケットが史上初の人工衛星となった日。<n>■箱根駅伝：学生長距離走中、最大の駅伝で、<n>１９２０年に第１回目が開催された。
+EN: - First Dream Day: The dream you have between January 2<n>and 3 is said to foretell your fortunes for the year.<n>- First Sale: Shops open on January 2 for their<n>first day of business in the new year.<n>- Moon Rocket Day: In 1959, a Soviet lunar rocket<n>became the world's first artificial satellite.<n>- Hakone Ekiden: Japan's biggest collegiate long-distance<n>relay race was first held in 1920.
+
+@#2
+JP: ■ジョン万次郎帰国の日：漂流の後、アメリ<n>カの捕鯨船に救われた土佐の万次郎が、アメ<n>リカから琉球に送られてきた日。<n>■ひとみの日：１と３の語呂合わせから、コ<n>ンタクトレンズ業界でイベントなどが行われ<n>る日。<n>■駆け落ちの日：１９３８年、女優、岡田嘉<n>子がソ連に駆け落ち亡命したことから命名。
+EN: - John Manjiro's Homecoming Day: Manjiro, a castaway<n>from Tosa rescued by an American whaling ship,<n>returned from America to the Ryukyu Islands on this day.<n>- Eye Day: The numbers 1 and 3 can be read as "hitomi,"<n>meaning "eyes." Contact lens companies hold events<n>to mark the occasion.<n>- Elopement Day: Named for actress Yoshiko Okada,<n>who eloped and defected to the Soviet Union in 1938.
+
+@#3
+JP: ■官公庁御用始：官庁で年始初めて仕事を開<n>始する日。官庁の年末年始休みは、１２月２<n>９日から１月３日までと法律で制定。<n>■取引所大発会：証券取引所での新年初の立<n>会いが行われる日。<n>■金のシャチホコの日：１９３７年、しゃち<n>ほこの金板２枚が盗難にあった日。<n>■石の日：１と４の語呂合わせから生まれる。
+EN: - Government Offices Reopen: The first workday of the year<n>for government offices. Their New Year break runs from<n>December 29 to January 3, as stipulated by law.<n>- First Trading Session: Stock exchanges hold<n>their first trading session of the new year.<n>- Golden Shachihoko Day: In 1937, two gold plates<n>were stolen from a golden shachihoko roof ornament.<n>- Stone Day: The numbers 1 and 4 sound like "ishi," or "stone."
+
+@#4
+JP: ■新年宴会：過去、行われていた豊明殿での<n>儀式にちなんで、民間でもこの日に新年を祝<n>う会を行うようになった。<n>■シンデレラの日：女優グレース・ケリーが<n>モナコの大公と婚約した日。<n>■いちごの日：果物ではなく１５歳、をもじ<n>ったいちご世代にエールを送る日。<n>■囲碁の日：１と５の語呂合わせより命名。
+EN: - New Year Banquet: An imperial ceremony once held<n>in the Homeiden Hall inspired people to hold their own<n>New Year celebrations on this day.<n>- Cinderella Day: Actress Grace Kelly became engaged<n>to the Prince of Monaco on this day.<n>- Ichigo Day: A day to cheer on 15-year-olds. "Ichigo"<n>is a play on "one-five," rather than "strawberry."<n>- Go Day: Named for 1 and 5, which can be read as "igo," or Go.
+
+@#5
+JP: ■消防出初め：１６５９年、上野東照宮前で<n>一年の働きを誓ったことから制定。<n>■ケーキの日：１８７９年、上野・風月堂が<n>日本で初めてケーキの宣伝をした日。<n>■色の日：１と６の語呂合わせから、色彩に<n>関わる業界の人々のあいだで記念日とした。<n>■良寛忌：江戸時代の曹洞宗僧、歌人、能書<n>家の良寛が亡くなった日。
+EN: - Firefighters' New Year Ceremony: Traces back to 1659,<n>when firefighters pledged a year's service at Ueno Toshogu.<n>- Cake Day: In 1879, Fugetsudo in Ueno ran<n>Japan's first advertisement for cake.<n>- Color Day: People in color-related industries chose<n>this day because 1 and 6 sound like "iro," or "color."<n>- Ryokan Memorial Day: Marks the death of Ryokan,<n>an Edo-period Soto Zen monk, poet and calligrapher.
+
+@#6
+JP: ■七草：新年に若菜を食す中国の習慣が日本<n>に伝わり、この日に七草粥を食べて健康を祈<n>るようになった。<n>■爪切りの日：新年に初めて爪を切る、七草<n>爪の日。草を浸したお湯で爪を柔らかくして<n>切ると、その年は風邪を引かないといわれる。<n>■千円札の日：１９５０年に千円札が初めて<n>発行された日。
+EN: - Seven Herbs Day: A Chinese custom of eating young greens<n>at New Year came to Japan. People now eat seven-herb rice<n>porridge on this day and pray for good health.<n>- Nail-Trimming Day: The first nail trim of the year.<n>It's said that softening your nails in warm herb-infused<n>water before cutting them will keep colds away all year.<n>- 1,000-Yen Note Day: Japan's first 1,000-yen banknotes<n>were issued on this day in 1950.
+
+@#7
+JP: ■エルビス・プレスリーの日：別名、ロック<n>の日。プレスリーやデヴィッド・ボウイが生<n>まれた日。<n>■平成スタートの日：１９８９年、昭和天皇<n>の崩御を受けて、年号を平成と定めた日。<n>■正月事納め：正月の行事や飾りを終える日。<n>■外国郵便の日：１８７５年、初めて外国郵<n>便の取り扱いが横浜で始まった日。
+EN: - Elvis Presley Day: Also known as Rock Day.<n>Both Elvis Presley and David Bowie<n>were born on this day.<n>- Heisei Begins Day: In 1989, following Emperor Showa's<n>death, Heisei became the name of the new era.<n>- New Year Wrap-Up: A day to end the festivities and take down decorations.<n>- International Mail Day: Japan's first international<n>postal service began in Yokohama in 1875.
+
+@#8
+JP: ■風邪の日：１７９５年に、連勝記録を誇っ<n>ていた横綱、谷風梶之介がインフルエンザで<n>亡くなったことによる。<n>■クイズ・とんちの日：とんちで有名だった<n>一休宗純（一休さん）の名から語呂合わせ。
+EN: - Cold Day: In 1795, yokozuna Tanikaze Kajinosuke,<n>a sumo champion famous for his winning streak,<n>died of influenza on this day.<n>- Quiz and Wit Day: The numbers 1 and 9 sound like "Ikkyu,"<n>the name of the Zen monk famous for his clever answers.
+
+@#9
+JP: ■１１０番の日：１９８５年、警察庁が制定。<n>１と１０の数字合わせから。
+EN: - 110 Day: Established by Japan's National Police Agency in 1985.<n>The date, 1/10, matches Japan's police emergency number, 110.
+
+@#10
+JP: ■鏡開き：正月に供えた鏡餅を細かく割り、<n>お汁粉などにして食す行事。<n>■塩の日：１５６９年、上杉謙信が、宿敵武<n>田信玄に塩を送ったことによる。<n>■厚生省発足の日：１９３８年、厚生省が発<n>足した日。現、厚生労働省。<n>■蔵開き：商人の家でその年初めて蔵を開き、<n>商売繁盛を祈る行事を行うことによる。
+EN: - Kagami Mochi Opening: New Year rice cake offerings are<n>broken into pieces and eaten in sweet red bean soup and other dishes.<n>- Salt Day: In 1569, Uesugi Kenshin sent salt<n>to his sworn enemy, Takeda Shingen.<n>- Welfare Ministry Founding Day: The ministry was founded<n>in 1938. It is now the Ministry of Health, Labour and Welfare.<n>- Storehouse Opening: Merchants open their storehouses<n>for the first time that year and pray for prosperous business.
+
+@#11
+JP: ■スキー記念日：１９１１年、新潟で、オー<n>ストリアのレルヒ少佐が初めてスキー指導を<n>した。<n>■桜島の日：１９１４年、鹿児島県桜島で史<n>上最大の噴火が始まり、多くの犠牲者を出す。<n>その後、流出した溶岩で大隈半島と地続きと<n>なった。
+EN: - Skiing Day: In 1911, Austrian Major Lerch<n>gave Japan's first skiing lessons<n>in Niigata.<n>- Sakurajima Day: In 1914, Sakurajima in Kagoshima<n>began its largest eruption on record, claiming many lives.<n>The lava that flowed from the volcano eventually<n>connected the island to the Osumi Peninsula.
+
+@#12
+JP: ■かんりん丸出航記念日：１８６０年江戸幕<n>府の軍艦、かんりん丸が、勝海舟、福沢諭吉、<n>ジョン万次郎などを乗せて、日米修好通商条<n>約を目的にサンフランシスコへ出航。
+EN: - Kanrin Maru Departure Day: In 1860, the shogunate's warship<n>Kanrin Maru set sail for San Francisco with Katsu Kaishu,<n>Fukuzawa Yukichi and John Manjiro aboard, on a mission<n>for the Japan-US Treaty of Amity and Commerce.
+
+@#13
+JP: ■タロとジロの日：南極の昭和基地に置き去<n>りにされたカラフト犬、タロとジロの生存が<n>１９５９年に確認された。別名、愛と希望と<n>勇気の日。
+EN: - Taro and Jiro Day: In 1959, these two Sakhalin huskies<n>were found alive after being left behind at Japan's<n>Showa Station in Antarctica. Also known as<n>Love, Hope and Courage Day.
+
+@#14
+JP: ■小正月：１月７日までを大正月、１５日を<n>小正月と呼び、主婦などの正月疲れをねぎら<n>う日となっている。<n>■半襟の日：かつて成人の日として、和装に<n>関連の深かったこの日を、襟を正す意味も含<n>めて制定。<n>■警視庁創設記念日：１８７４年、東京警視<n>庁が創設された日。
+EN: - Little New Year: The main New Year celebrations run through<n>January 7. January 15 is Little New Year, a day to thank<n>homemakers and others for their hard work over the holidays.<n>- Kimono Collar Day: Once Coming of Age Day, this date<n>has strong ties to kimono. It also suggests "straightening<n>your collar," or composing yourself for a fresh start.<n>- Tokyo Police Founding Day: The Tokyo Metropolitan Police<n>Department was established on this day in 1874.
+
+@#15
+JP: ■やぶ入り：住み込みの労働者が実家へ帰る<n>とされていた日。<n>■えんま詣り：この日と、７月１６日は、地<n>獄のふたが開いても、鬼が休んでいる日、と<n>され、寺院のえんま堂などに詣でる人の多い<n>日。<n>■禁酒の日：１９２０年にアメリカで禁酒法<n>が施行された日。
+EN: - Home Visit Day: Live-in workers traditionally received<n>the day off to visit their families.<n>- Enma Pilgrimage: On this day and July 16,<n>even if the gates of hell open, its demons are said<n>to be taking a holiday. Many people visit temple halls<n>dedicated to Enma, the king of the underworld.<n>- Prohibition Day: Prohibition took effect<n>in the United States in 1920.
+
+@#16
+JP: ■阪神淡路大震災記念日：１９９５年、この<n>日に兵庫県南部中心にＭ７．２の大地震が起<n>こった。１月１５日～２１日を「防災とボラ<n>ンティア週間」としている。<n>■おむすびの日：阪神大震災の際、ボランテ<n>ィアの炊き出しで被災者が励まされたことか<n>ら、この日をおむすびの日とした。<n>■明治大学創立記念日：１８８１年、創立。
+EN: - Great Hanshin-Awaji Earthquake Memorial Day: In 1995,<n>a magnitude 7.2 earthquake struck southern Hyogo Prefecture<n>and surrounding areas. January 15-21 is designated<n>Disaster Preparedness and Volunteer Week.<n>- Rice Ball Day: Volunteers' hot meals brought comfort<n>to survivors of the Great Hanshin Earthquake, inspiring<n>this day in honor of the humble rice ball.<n>- Meiji University Founding Day: The university was founded in 1881.
+
+@#17
+JP: ■スコット隊南極点到達の日：１９１２年、<n>イギリスのスコット隊が史上２番目に南極に<n>到達したが、その後全滅してしまった。<n>■都バス記念日：１９２４年、東京の乗り合<n>いバスが初めて営業を開始。<n>■振袖火事の日：１６５７年、江戸城天守閣<n>及び市街ほとんどを焼失した火事が起きた日。<n>出火は本郷の本妙寺。
+EN: - Scott's South Pole Day: In 1912, the British expedition<n>led by Scott became the second to reach the South Pole.<n>All members of the polar party died on the return journey.<n>- Tokyo Bus Day: Tokyo's public buses began<n>operating on this day in 1924.<n>- Long-Sleeved Kimono Fire Day: In 1657, a fire destroyed<n>Edo Castle's main tower and most of the city.<n>It began at Honmyoji Temple in Hongo.
+
+@#18
+JP: ■１１９番の日：数字の語呂合わせから。<n>■のど自慢の日：１９４６年、ＮＨＫにおい<n>て、「のど自慢素人音楽会」が開始された。<n>■家庭用消火器点検の日：１１９番の日を受<n>けて、この日を家庭でも消火設備について知<n>り器具の使用法などの認識を高めようと制定<n>された。
+EN: - 119 Day: The date, 1/19, matches Japan's fire emergency number.<n>- Amateur Singing Day: In 1946, NHK began broadcasting<n>its amateur music contest, Nodo Jiman.<n>- Home Fire Extinguisher Check Day: Inspired by 119 Day,<n>this observance encourages people to learn about<n>fire safety equipment in the home<n>and how to use it.
+
+@#19
+JP: ■二十日正月：この日を正月の最後の日と定<n>め、各種納めの行事を執り行う日。<n>■レーニン・デー：旧ソ連の基盤を築いた、<n>レーニンの忌日。１９２４年。<n>■玉の輿の日：１９０５年、アメリカの財閥<n>モルガンの甥と、祇園芸妓のお雪が結婚した<n>日。
+EN: - Twentieth-Day New Year: Considered the final day of<n>the New Year season, marked by various closing ceremonies.<n>- Lenin Day: Commemorates the 1924 death of Lenin,<n>who laid the foundations of the Soviet Union.<n>- Marrying into Wealth Day: In 1905, Oyuki,<n>a geisha from Gion, married the nephew<n>of American financier J. P. Morgan.
+
+@#20
+JP: ■西東京市誕生の日：２００１年、田無市、<n>保谷市が合併、市となった。<n>■ライバルが手を結ぶ日：１８６６年、西郷<n>隆盛と木戸孝允が京都で会見、倒幕のための<n>薩長同盟を結成したことによる。<n>■料理番組の日：１９３７年、イギリスで料<n>理番組の元祖とされる「夕べの料理」第一回<n>オムレツの作り方、が放送された。
+EN: - Nishitokyo City Day: In 2001, the cities of Tanashi<n>and Hoya merged to form Nishitokyo.<n>- Rivals Join Forces Day: In 1866, Saigo Takamori<n>and Kido Takayoshi met in Kyoto to form the Satsuma-Choshu<n>Alliance, aiming to overthrow the shogunate.<n>- Cooking Show Day: In 1937, Britain's Cook's Night Out,<n>considered a pioneer of TV cooking shows, aired its first<n>episode, demonstrating how to make an omelet.
+
+@#21
+JP: ■飛行船の日：１９１６年、国産初の陸軍飛<n>行船「雄飛号」が実験飛行を行った。<n>■ジャズの日：ＪＡＮＵＡＲＹから頭２文字<n>ＪＡをとり、数字の２２がＺＺに似ているこ<n>とからＪＡＺＺ　ＤＡＹとなった。<n>■カレーの日：１９８２年、全国の小中学校<n>でいっせいにカレーが出たことを記念。<n>■聖ビンセンチウスの日：守護聖人の祝日。
+EN: - Airship Day: In 1916, the army airship Yuhigo,<n>the first built in Japan, made a test flight.<n>- Jazz Day: Take "JA" from "JANUARY"<n>and add 22, which looks like "ZZ,"<n>and you've got JAZZ DAY!<n>- Curry Day: In 1982, elementary and junior high schools<n>across Japan all served curry on this day.<n>- Saint Vincent's Day: The patron saint's feast day.
+
+@#22
+JP: ■八甲田山の日：１９０２年、八甲田山で雪<n>中行軍した兵士２１０名が指導部の間違った<n>判断の下、遭難し、１９９名が亡くなった。<n>■電子メールの日：１９９４年に、電子メッ<n>セージング協議会が、いいふみ、の語呂合わ<n>せから制定。<n>■真白き富士の嶺の日：１９１０年、神奈川<n>県七里ガ浜で遭難した中学生１２人を偲んで。
+EN: - Mount Hakkoda Day: In 1902, 210 soldiers on a winter march<n>became stranded on Mount Hakkoda after poor decisions<n>by their commanders. Of those soldiers, 199 died.<n>- Email Day: Established by the Electronic Messaging<n>Council in 1994. The date sounds like "ii fumi,"<n>meaning "a good letter."<n>- Snow-White Peak of Fuji Day: Remembers 12 middle school<n>students lost at sea off Shichirigahama, Kanagawa, in 1910.
+
+@#23
+JP: ■ゴールドラッシュの日：１８４８年アメリ<n>カ・カリフォルニア州で、製材所に勤める男<n>が川で金の粒を発見したことから、大勢の人<n>々がカリフォルニアに移住するゴールドラッ<n>シュが巻き起こったことから。<n>■郵便制度施行記念日：１８７１年、東京、<n>京都、大阪間で郵便業務が開始した記念。
+EN: - Gold Rush Day: In 1848, a sawmill worker<n>in California, in the United States,<n>found flakes of gold in a river.<n>The discovery sparked the Gold Rush,<n>drawing huge numbers of people to California.<n>- Postal Service Day: Commemorates the 1871 launch<n>of mail services linking Tokyo, Kyoto and Osaka.
+
+@#24
+JP: ■お詫びの日：１０７７年のこの日、神聖ロ<n>ーマ皇帝ハインリッヒ四世が雪の中に立ち教<n>皇に破門の許しを請った日。一般に、カノッ<n>サの屈辱として知られる事件。<n>■中華まんの日：日本最低の気温を記録した<n>この日に、暖かいものを食べてもらおうとい<n>う趣旨から。<n>■日本最低気温の日：１９０２年、旭川市。
+EN: * Apology Day: On this day in 1077, Holy Roman Emperor Henry IV<n>stood in the snow and begged the pope to lift his excommunication.<n>The incident is commonly known as<n>the Humiliation at Canossa.<n>* Steamed Bun Day: A day to enjoy something warm to eat,<n>chosen because Japan's lowest temperature was recorded on this date.<n>A piping-hot bun should help!<n>* Japan's Lowest Temperature Day: Recorded in Asahikawa in 1902.
+
+@#25
+JP: ■文化財防火デー：１９４９年に起きた法隆<n>寺の火事を受け、反省の意を込めて制定。<n>■帝銀事件の日：１９４８年、東京の帝国銀<n>行椎名町支店で起きた青酸化合物毒殺事件の<n>起きた日。後日逮捕された平沢貞通はえん罪<n>を訴えたまま獄中死した。<n>■有料駐車場の日：日本初の有料パーキン<n>グメーターが日比谷と丸の内に設置。
+EN: * Cultural Property Fire Prevention Day: Established after<n>the 1949 fire at Horyuji Temple as a lesson for the future.<n>* Teigin Incident Day: On this day in 1948, a cyanide poisoning<n>took place at the Teikoku Bank's Shiinamachi branch in Tokyo.<n>Sadamichi Hirasawa was later arrested for the crime.<n>He died in prison, still maintaining his innocence.<n>* Paid Parking Day: Japan's first parking meters<n>were installed in Hibiya and Marunouchi.
+
+@#26
+JP: ■国旗制定記念日：太政官布告、商船規則に<n>より、１８７０年、日の丸のデザインが示さ<n>れた。<n>■求婚の日：１８８３年、初めて新聞に求婚<n>広告が出された。<n>■ナチス犠牲者記念日：ナチスの大量虐殺を<n>忘れないため、ドイツ国内のユダヤ人団体の<n>働きかけで制定された。
+EN: * National Flag Anniversary: In 1870, a proclamation<n>set out the design of the Hinomaru, Japan's national flag,<n>in regulations for merchant ships.<n>* Marriage Proposal Day: In 1883, Japan's first newspaper ad<n>seeking a spouse appeared.<n>* Day of Remembrance for the Victims of Nazism:<n>Established at the urging of Jewish groups in Germany<n>to ensure the Nazi genocide would never be forgotten.
+
+@#27
+JP: ■コピーライターの日：コピーライトのマル<n>シー記号付記が定められた日であることから。<n>■人日の節句：旧暦の正月七日。<n>■ダンスパーティの日：１８８３年、麹町山<n>下町に鹿鳴館がオープンしたことを記念。<n>■宇宙からの警告の日：１９８６年、スペー<n>スシャトル、チャレンジャーの事故を受けて。
+EN: * Copywriter Day: A play on 'copyright,' marking the day<n>the use of the copyright symbol was prescribed.<n>* Jinjitsu Festival: The seventh day of the lunar new year.<n>* Dance Party Day: Celebrates the opening of the Rokumeikan<n>in Yamashita-cho, Kojimachi, in 1883.<n>* Warning from Space Day: Commemorates<n>the 1986 Space Shuttle Challenger disaster.
+
+@#28
+JP: ■タウン情報の日：タウン情報全国ネットワ<n>ークが制定。初の地域情報誌が発行された。<n>■人口調査記念日：１８７２年、初の、全国<n>戸籍調査が実施された。<n>■世界救らいの日：世界のハンセン病に苦し<n>む人々の救済を誓う日。<n>■南極昭和基地設営記念日：１９５７年、オ<n>ングル島に日本の観測隊が上陸、設営。
+EN: * Local Magazine Day: Established by Japan's national network<n>of local magazines to mark the publication of the first such magazine.<n>* Census Anniversary: In 1872, Japan carried out<n>its first nationwide household register survey.<n>* World Leprosy Day: A day to pledge support<n>for people around the world living with leprosy.<n>* Showa Station Anniversary: In 1957, a Japanese expedition<n>landed on East Ongul Island and established its Antarctic base.
+
+@#29
+JP: ■孝明天皇祭：孝明天皇が崩御した日。<n>■３分間電話の日：１９７０年、公衆電話の<n>市内通話料金が３分で１０円になった。
+EN: * Emperor Komei Memorial Day: The anniversary of his death.<n>* Three-Minute Phone Call Day: In 1970, local calls from public phones<n>were priced at 10 yen for three minutes.
+
+@#30
+JP: ■晦日正月：正月最後の日。<n>■生命保険の日：１８８１年、日本最初の生<n>命保険会社が設立された。<n>■京都市電開業記念日：１８９５年、日本初<n>の路面電車である京都電気鉄道が開通。<n>■防災農地の日：大阪府防災農地推進連絡会<n>が、会の発足した日と数字の１をボウ、３１<n>をサイと読んだ語呂合わせで制定。
+EN: * Misoka New Year: The final day of New Year celebrations.<n>* Life Insurance Day: In 1881, Japan's first<n>life insurance company was established.<n>* Kyoto Streetcar Anniversary: In 1895, Japan's first streetcar service,<n>the Kyoto Electric Railway, began operating.<n>* Disaster-Prevention Farmland Day: Chosen by an Osaka council<n>to mark its founding. The date also makes a Japanese number pun:<n>1 is 'bo' and 31 is 'sai,' forming 'bosai,' or disaster prevention.

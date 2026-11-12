@@ -1,0 +1,399 @@
+# source: PSP_GAME/USRDIR/data/script/saga.scb
+# format: scb
+# width: 44
+
+@5144 max=639
+JP: ほほう？もしやキミは<n><PN>という名か！<p>ふむ！プッカ氏から聞いておる。<n>入門希望者だそうだな！<p>わしはユーリ・サガシニコフ。<n>探し道に一生を捧げた格闘家だ！
+EN: Oho! Could you be<n><PN>?<p>Indeed! Pukka told me about you.<n>You wish to become my disciple!<p>I am Yuri Sagashnikov!<n>A martial artist devoted to the Way of Searching!
+
+@53C4 max=639
+JP: む？<PN>か！<n>今日も来るとは、修行熱心だな！
+EN: Hm? <PN>!<n>Back again today? Such dedication to your training!
+
+@5644 max=639
+JP: む？<PN>か！<n>よし、熱心でなによりだ！
+EN: Hm? <PN>!<n>Excellent! Enthusiasm is the key!
+
+@58C4 max=639
+JP: うほん！探し道とは…<p>我が祖先、カラシニコフ先生が創案した<n>最強の武芸鍛錬法である！<p>地面に隠されたアイテムを探し出すことで<n>実戦におけるカンを、究極まで研ぎ澄ます！<p>これを極めた者は、３キロ先で、子供が<n>キャンディーを落としたことすら察知する！<p>キミもいま、探し道の門人となったわけだ！<n>うれしいか、そうかうれしいか！ははは！<p>ちなみに、キミの兄弟子が、この島にいるぞ。<n>ドリアードジュニアという名前でな。<p>このあたりをいつもうろうろしておる！<n>修行に迷ったら、会ってみるのもよいだろう！
+EN: Ahem! The Way of Searching...<p>...is the ultimate martial training method,<n>devised by my ancestor, Master Kalashnikov!<p>By finding items buried in the ground,<n>we hone our battle instincts to perfection!<p>A true master can sense a child dropping<n>a sweet three kilometers away!<p>You are now a disciple of the Way!<n>Delighted? Of course you are! Hahaha!<p>A senior disciple lives on this island.<n>His name is Dryad Junior.<p>He is always roaming around here!<n>If your training leaves you lost, seek his advice!
+
+@5B44 max=639
+JP: わしが探し道を志して、はや３０年！<n>じつに、いろいろな場所で修行したが…<p>この島は、レアアイテムの宝庫だ。<n>最高の修行場と言えるだろうな！
+EN: Thirty years have I pursued the Way!<n>I have trained in countless places...<p>But this island is a trove of rare items.<n>One could ask for no finer training ground!
+
+@5DC4 max=639
+JP: わしの師匠は、サガシモノリス先生という<n>それは偉大な先生であり…。<p>同時に、わしのパパでもあったが…<p>新しい人生を探すと言い残され<n>そのまま行方不明なのだ。くっ…。<p>パパ、安心して、探しの道は<n>このニコフが守るからね！
+EN: My master, the great Sagashimonolith,<n>was a truly magnificent teacher...<p>He was also my papa...<p>He said he was off to find a new life,<n>and vanished without a trace. Sniff...<p>Rest easy, Papa! Your little Nikov<n>will keep the Way of Searching alive!
+
+@6044 max=639
+JP: ………<p>かーっ！なっとらーん！<p>未熟、未熟、未熟だぞ！<n>入門したばかりとはいえ<p>おまえも、探し道を志したならば<p>せめて、七級ぐらいには<n>なっておかねばな！
+EN: ...<p>Bah! Unacceptable!<p>A novice! A mere novice still!<n>You may have only just begun...<p>But if you truly seek to follow the Way...<p>You must at least reach<n>the rank of 7th Kyu!
+
+@62C4 max=639
+JP: うほん！探し道とは…<p>我が祖先、カラシニコフ先生が創案した<n>最強の武芸鍛錬法である！<p>地面に隠されたアイテムを探し出すことで<n>実戦におけるカンを、究極まで研ぎ澄ます！<p>これを極めた者は、３キロ先で、子供が<n>キャンディーを落としたことすら察知する！<p>キミもいま、探し道の門人となったわけだ！<n>うれしいか、そうかうれしいか！ははは！<p>ちなみに、キミの兄弟子が、この島にいるぞ。<n>ドリアードジュニアという名前でな。<p>このあたりをいつもうろうろしておる！<n>修行に迷ったら、会ってみるのもよいだろう！
+EN: Ahem! The Way of Searching...<p>...is the ultimate martial training method,<n>devised by my ancestor, Master Kalashnikov!<p>By finding items buried in the ground,<n>we hone our battle instincts to perfection!<p>A true master can sense a child dropping<n>a sweet three kilometers away!<p>You are now a disciple of the Way!<n>Delighted? Of course you are! Hahaha!<p>A senior disciple lives on this island.<n>His name is Dryad Junior.<p>He is always roaming around here!<n>If your training leaves you lost, seek his advice!
+
+@6544 max=639
+JP: わしが探し道を志して、はや３０年！<n>じつに、いろいろな場所で修行したが…<p>この島は、レアアイテムの宝庫だ。<n>最高の修行場と言えるだろうな！
+EN: Thirty years have I pursued the Way!<n>I have trained in countless places...<p>But this island is a trove of rare items.<n>One could ask for no finer training ground!
+
+@67C4 max=639
+JP: わしの師匠は、サガシモノリス先生という<n>それは偉大な先生であり…。<p>同時に、わしのパパでもあったが…<p>新しい人生を探すと言い残され<n>そのまま行方不明なのだ。くっ…。<p>パパ、安心して、探しの道は<n>このニコフが守るからね！
+EN: My master, the great Sagashimonolith,<n>was a truly magnificent teacher...<p>He was also my papa...<p>He said he was off to find a new life,<n>and vanished without a trace. Sniff...<p>Rest easy, Papa! Your little Nikov<n>will keep the Way of Searching alive!
+
+@6A44 max=639
+JP: ………<p>かーっ！なっとらーん！<p>未熟、未熟、未熟だぞ！<n>入門したばかりとはいえ<p>おまえも、探し道を志したならば<p>せめて、七級ぐらいには<n>なっておかねばな！
+EN: ...<p>Bah! Unacceptable!<p>A novice! A mere novice still!<n>You may have only just begun...<p>But if you truly seek to follow the Way...<p>You must at least reach<n>the rank of 7th Kyu!
+
+@6CC4 max=639
+JP: …うむ！<p>なかなかがんばっているな！<n>よしよし！<p>今はまだその時期ではないが<n>おまえに渡すものがある！<p>その時が来たならば<n>わしに話しかけるがいい！
+EN: ...Indeed!<p>You are working hard!<n>Good, good!<p>The time has not yet come,<n>but I have something for you!<p>When that time comes,<n>speak to me again!
+
+@6F44 max=639
+JP: …うむ！<p>なかなかがんばっているな！<n>よしよし！<p>では、可愛い弟子のおまえに<n>わが家宝のひとつを預けよう！<p>これは、賢者にしてわが祖先<n>探し道、中興の祖といわれる…<p>イワン・サガッシ先生の像だ。<n>ゆめゆめ、粗末に扱うなよ！<p>この像があれば、おぬしの修行も<n>いっそうはかどることであろう！<p>さあ、受け取るがよい、わが弟子よ！<n>わはははは！
+EN: ...Indeed!<p>You are working hard!<n>Good, good!<p>For you, my dear disciple,<n>I shall part with a family heirloom!<p>It depicts my wise ancestor,<n>the great reviver of the Way...<p>Master Ivan Sagassi!<n>Treat this statue with the utmost care!<p>With it, your training should<n>advance all the more swiftly!<p>Here! Accept it, my disciple!<n>Wahahahaha!
+
+@71C4 max=639
+JP: 探しの道は、まことに奥深い！<n>今日も、そのことを教えてやろう！
+EN: The Way of Searching has untold depths!<n>Today, I shall teach you more of its wisdom!
+
+@7444 max=639
+JP: 探し道は、一般にはほとんど無名だが<n>これを修めた大人物は数多い。<p>あのシャーロック・ホームズも<n>探し道五段の腕前だった、らしいぞ！
+EN: Few have heard of the Way of Searching,<n>yet many great figures have mastered it.<p>Even Sherlock Holmes himself<n>held the rank of 5th Dan...or so I hear!
+
+@76C4 max=639
+JP: 今日はいい言葉を教えてやる！<p>探しの道は、こころみち！<n>探せばいのちの泉わく！<p>さあ、復唱だ！大きな声で！<p>探しの道は、こころみち！<n>探せばいのちの泉わく！<p>わはははははは！<n>いい言葉だろう、ははは！
+EN: Today I shall teach you a fine saying!<p>The searching path runs through the heart!<n>Seek, and life's springs shall start!<p>Now repeat after me! Loudly!<p>The searching path runs through the heart!<n>Seek, and life's springs shall start!<p>Wahahahahaha!<n>Fine words, eh? Hahaha!
+
+@7944 max=639
+JP: 気合いだ！気合いを入れろ！<n>探しの道は、甘くないぞ！
+EN: Spirit! Put some spirit into it!<n>The Way of Searching is no easy path!
+
+@7BC4 max=639
+JP: もはや、おぬしの前におぬしなく<n>おぬしの後におぬしなし！<p>師であるわしも、誇らしい！<n>感服だ！おめでとう！
+EN: None before you has been your equal,<n>and none after you shall ever compare!<p>As your master, I am proud!<n>Most impressive! Congratulations!
+
+@7E44 max=639
+JP: …む。まだ発見しておらんか。<n>探し道の難しさ、身にしみたか？<p>あきらめず、あせらず探すがいい。<n>では、また来い！
+EN: Hm. Still not found it?<n>Now you know how demanding the Way can be!<p>Keep searching. Be patient and persevere!<n>Come see me again!
+
+@80C4 max=639
+JP: む、これはたしかに<n>「あいまいゼミの抜けがら」！<p>では、おぬしを<n>「探し道九級」に認定する！
+EN: Hm! This is indeed<n>the "Ambiguous Cicada Shell"!<p>I hereby award you<n>9th Kyu in the Way of Searching!
+
+@8344 max=639
+JP: む、これはたしかに<n>「黄昏のメロンパン」！<p>では、おぬしを<n>「探し道八級」に認定する！
+EN: Hm! This is indeed<n>the "Twilight Melon Bread"!<p>I hereby award you<n>8th Kyu in the Way of Searching!
+
+@85C4 max=639
+JP: む、これはたしかに<n>「ソクラテスの綿棒」！<p>では、おぬしを<n>「探し道七級」に認定する！
+EN: Hm! This is indeed<n>"Socrates' Cotton Swab"!<p>I hereby award you<n>7th Kyu in the Way of Searching!
+
+@8844 max=639
+JP: む、これはたしかに<n>「山下東村の色紙」！<p>では、おぬしを<n>「探し道六級」に認定する！
+EN: Hm! This is indeed<n>"Yamashita Toson's Calligraphy"!<p>I hereby award you<n>6th Kyu in the Way of Searching!
+
+@8AC4 max=639
+JP: む、これはたしかに<n>「モグラ仮面変身セット」！<p>では、おぬしを<n>「探し道五級」に認定する！
+EN: Hm! This is indeed<n>the "Masked Mole Costume Kit"!<p>I hereby award you<n>5th Kyu in the Way of Searching!
+
+@8D44 max=639
+JP: む、これはたしかに<n>「膝枕練習人形」！<p>では、おぬしを<n>「探し道四級」に認定する！
+EN: Hm! This is indeed<n>the "Lap Pillow Practice Dummy"!<p>I hereby award you<n>4th Kyu in the Way of Searching!
+
+@8FC4 max=639
+JP: む、これはたしかに<n>「火星コタツ」！<p>では、おぬしを<n>「探し道三級」に認定する！
+EN: Hm! This is indeed<n>the "Martian Kotatsu"!<p>I hereby award you<n>3rd Kyu in the Way of Searching!
+
+@9244 max=639
+JP: む、これはたしかに<n>「白熊専用ファンデーション」！<p>では、おぬしを<n>「探し道二級」に認定する！
+EN: Hm! This is indeed<n>the "Polar Bear Foundation"!<p>I hereby award you<n>2nd Kyu in the Way of Searching!
+
+@94C4 max=639
+JP: む、これはたしかに<n>「チューリングマシーン」！<p>では、おぬしを<n>「探し道一級」に認定する！
+EN: Hm! This is indeed<n>the "Turing Machine"!<p>I hereby award you<n>1st Kyu in the Way of Searching!
+
+@9744 max=639
+JP: む、これはたしかに<n>「ムー大陸専用カーナビ」！<p>では、おぬしを<n>「探し道初段」に認定する！
+EN: Hm! This is indeed<n>the "GPS for the Lost Continent of Mu"!<p>I hereby award you<n>1st Dan in the Way of Searching!
+
+@99C4 max=639
+JP: む、これはたしかに<n>「ナンダカンダの杖」！<p>では、おぬしを<n>「探し道二段」に認定する！
+EN: Hm! This is indeed<n>the "Staff of This and That"!<p>I hereby award you<n>2nd Dan in the Way of Searching!
+
+@9C44 max=639
+JP: む、これはたしかに<n>「ポン子ちゃん写真集」！<p>では、おぬしを<n>「探し道三段」に認定する！
+EN: Hm! This is indeed<n>the "Ponko Photo Album"!<p>I hereby award you<n>3rd Dan in the Way of Searching!
+
+@9EC4 max=639
+JP: む、これはたしかに<n>「旗上げゲーム秘伝書」！<p>では、おぬしを<n>「探し道四段」に認定する！
+EN: Hm! This is indeed<n>the "Flag Game Secret Manual"!<p>I hereby award you<n>4th Dan in the Way of Searching!
+
+@A144 max=639
+JP: む、これはたしかに<n>「ナポレオン茶わん」！<p>では、おぬしを<n>「探し道師範」に認定する！
+EN: Hm! This is indeed<n>the "Napoleon Rice Bowl"!<p>I hereby name you<n>Master Instructor of the Way of Searching!
+
+@A3C4 max=639
+JP: む、これはたしかに<n>「爆走三国志」！<p>では、おぬしを<n>「探し道五段」に認定する！
+EN: Hm! This is indeed<n>"Three Kingdoms: Full Throttle"!<p>I hereby award you<n>5th Dan in the Way of Searching!
+
+@A644 max=639
+JP: む、これはたしかに<n>「レイバーテンの秘薬」！<p>では、おぬしを<n>「探し道六段」に認定する！
+EN: Hm! This is indeed<n>"Raybaten's Elixir"!<p>I hereby award you<n>6th Dan in the Way of Searching!
+
+@A8C4 max=639
+JP: むむ、これはたしかに<n>「無限の本」！<p>では、おぬしを<n>「探し道七段」に認定する！
+EN: Hmm! This is indeed<n>the "Book of Infinity"!<p>I hereby award you<n>7th Dan in the Way of Searching!
+
+@AB44 max=639
+JP: おお、これはたしかに<n>「冥界のケータイ」！<p>うむ！つつしんで、おぬしに<n>「探し道八段」の位を授ける！
+EN: Oh! This is indeed<n>the "Underworld Cell Phone"!<p>Indeed! I humbly bestow upon you<n>8th Dan in the Way of Searching!
+
+@ADC4 max=639
+JP: おお、これはたしかに<n>「黄金のヒザ」！<p>うむ！つつしんで、おぬしに<n>「探し道九段」の位を授ける！
+EN: Oh! This is indeed<n>the "Golden Knee"!<p>Indeed! I humbly bestow upon you<n>9th Dan in the Way of Searching!
+
+@B044 max=639
+JP: うおお、これはたしかに<n>「豊臣家オリジナルＴシャツ」！<p>つ、つつしんで、おぬしに<n>「探し道十段」の位を授ける！
+EN: Ooooh! This is indeed<n>the "Toyotomi Family Original T-Shirt"!<p>I-I humbly bestow upon you<n>10th Dan in the Way of Searching!
+
+@B2C4 max=639
+JP: な、なんと！これはたしかに<n>「マイドス王の指サック」！<p>うおお！よし、おぬしに<n>「探し道将軍」の位を授ける！
+EN: W-what?! This is indeed<n>"King Maidos' Finger Cot"!<p>Ooooh! Very well! I name you<n>Shogun of the Way of Searching!
+
+@B544 max=639
+JP: な、なんと！これはたしかに<n>「三白眼の神像」！<p>う、うむ、こ、ここに<n>「探し道名人」の位を授ける！
+EN: W-what?! This is indeed<n>the "Sanpaku-Eyed Idol"!<p>Y-yes! I h-hereby name you<n>Grandmaster of the Way of Searching!
+
+@B7C4 max=639
+JP: な、なんと！これが<n>「ナゾのボタン」なのか！<p>う、うむ、こ、ここここに<n>「探し道の英雄」の位を授ける！
+EN: W-what?! So this is<n>the "Mystery Button"!<p>Y-yes! I h-h-hereby name you<n>Hero of the Way of Searching!
+
+@BA44 max=639
+JP: うおおおお！これこそ<n>「忍びのスリッパ」なのか！<p>こ、ここここに、つつしんで<n>「探し道皇帝」の位を授ける！
+EN: Oooooh! Can these truly be<n>the "Ninja Slippers"?!<p>I h-h-humbly name you<n>Emperor of the Way of Searching!
+
+@BCC4 max=639
+JP: うおおおお！やったな！<n>これが「魔法の鏡７１番」！<p>こ、ここここに、つつしんで<n>「ゴッド・オブ・探し道」……<p>な、なんてことだ！究極の称号を<n>おぬしに授ける日が来ようとは！
+EN: Oooooh! You did it!<n>This is "Magic Mirror No. 71"!<p>I h-h-humbly name you<n>"God of the Way of Searching"...<p>U-unbelievable! To think the day would come<n>when I would grant you the ultimate title!
+
+@BF44 max=639
+JP: 探し道の修行は、始まったばかり！<n>おめでとう！精進せよ！<p>ちなみに、探し当てたものは<n>そのまま、おぬしのものになる！<p>抱いて寝るも、部屋に飾るも<n>おぬしの自由だぞ！ははは！
+EN: Your training in the Way of Searching has only begun!<n>Congratulations! Train diligently!<p>Incidentally, whatever you find<n>is yours to keep!<p>Sleep with it in your arms or display it in your room!<n>The choice is yours! Ha ha ha!
+
+@C1C4 max=639
+JP: 探し道の修行は、始まったばかり！<n>おめでとう！精進せよ！
+EN: Your training in the Way of Searching has only begun!<n>Congratulations! Train diligently!
+
+@C444 max=639
+JP: 探し道の修行は、始まったばかり！<n>おめでとう！精進せよ！
+EN: Your training in the Way of Searching has only begun!<n>Congratulations! Train diligently!
+
+@C6C4 max=639
+JP: 探し道の修行は、始まったばかり！<n>おめでとう！精進せよ！
+EN: Your training in the Way of Searching has only begun!<n>Congratulations! Train diligently!
+
+@C944 max=639
+JP: うむ、ここまで進歩すれば<n>立派なわしの門人といえるな！<p>おめでとう！これからも精進せよ！
+EN: Hmm! With such progress,<n>you are truly a worthy pupil of mine!<p>Congratulations! Keep training diligently!
+
+@CBC4 max=639
+JP: うむ、ここまで進歩すれば<n>立派なわしの門人といえるな！<p>おめでとう！これからも精進せよ！
+EN: Hmm! With such progress,<n>you are truly a worthy pupil of mine!<p>Congratulations! Keep training diligently!
+
+@CE44 max=639
+JP: うむ、ここまで進歩すれば<n>立派なわしの門人といえるな！<p>おめでとう！これからも精進せよ！
+EN: Hmm! With such progress,<n>you are truly a worthy pupil of mine!<p>Congratulations! Keep training diligently!
+
+@D0C4 max=639
+JP: うむ、ここまで進歩すれば<n>立派なわしの門人といえるな！<p>おめでとう！これからも精進せよ！
+EN: Hmm! With such progress,<n>you are truly a worthy pupil of mine!<p>Congratulations! Keep training diligently!
+
+@D344 max=639
+JP: むう、なかなかに<n>いい面構えになってきたぞ！<p>探し道の黒帯まで、あと一歩！<n>さらに精進するがよい！
+EN: Hmm! You are beginning to look<n>like a true warrior!<p>A black belt in the Way of Searching is within reach!<n>Redouble your efforts!
+
+@D5C4 max=639
+JP: よし！初段ともなれば<n>おぬしも一人前の武道の徒だ！<p>探し道の名を汚さぬよう<n>さらに修行にはげむがよい！
+EN: Excellent! As a 1st Dan,<n>you are a fully fledged martial artist!<p>Train harder still,<n>and bring honor to the Way of Searching!
+
+@D844 max=639
+JP: よし！なにやら有段者の<n>風格も漂い始めたな！<p>探し道の名を汚さぬよう<n>さらに修行にはげむがよい！
+EN: Excellent! You are beginning to carry yourself<n>with the dignity of a black belt!<p>Train harder still,<n>and bring honor to the Way of Searching!
+
+@DAC4 max=639
+JP: よし！なにやら有段者の<n>風格も漂い始めたな！<p>探し道の名を汚さぬよう<n>さらに修行にはげむがよい！
+EN: Excellent! You are beginning to carry yourself<n>with the dignity of a black belt!<p>Train harder still,<n>and bring honor to the Way of Searching!
+
+@DD44 max=639
+JP: よし！なにやら有段者の<n>風格も漂い始めたな！<p>探し道の名を汚さぬよう<n>さらに修行にはげむがよい！
+EN: Excellent! You are beginning to carry yourself<n>with the dignity of a black belt!<p>Train harder still,<n>and bring honor to the Way of Searching!
+
+@DFC4 max=639
+JP: ついに、師範となったか！<n>これで、弟子を取ることも可能だ！<p>だが、まだまだわしには及ばん！<n>これからも精進せよ！
+EN: At last, you are a Master Instructor!<n>You may now take pupils of your own!<p>But you have far to go before you match me!<n>Keep training diligently!
+
+@E244 max=639
+JP: ふむ！さすがは高段者<n>探し道の神髄に近づいているな！<p>さらなる高みをめざし<n>行けるところまで行くのだ！
+EN: Hmm! As befits one of your rank,<n>you approach the true essence of the Way of Searching!<p>Aim ever higher!<n>Go as far as your path will take you!
+
+@E4C4 max=639
+JP: ふむ！さすがは高段者<n>探し道の神髄に近づいているな！<p>さらなる高みをめざし<n>行けるところまで行くのだ！
+EN: Hmm! As befits one of your rank,<n>you approach the true essence of the Way of Searching!<p>Aim ever higher!<n>Go as far as your path will take you!
+
+@E744 max=639
+JP: ふむ！ついに、師であるわしと<n>並ぶところまで来たか！<p>よいよい、超えられることこそ<n>師の喜び！わしを超えてみよ！
+EN: Hmm! At last, you stand<n>as an equal to your own master!<p>Splendid! A master's joy is to be surpassed!<n>Now show me you can do it!
+
+@E9C4 max=639
+JP: あっぱれ！わしを超えたか！<n>うむ！<p>わしはいい弟子を持ったよ！<n>うむうむ、あっぱれ！
+EN: Magnificent! You have surpassed me!<n>Indeed!<p>What a fine pupil I have raised!<n>Yes, yes! Magnificent!
+
+@EC44 max=639
+JP: むむう！ついに九段か！<n>世界に十数人しかおらんぞ！<p>ここまで来たら、とことん<n>探し道を究めてみよ！
+EN: Hmm! At last, 9th Dan!<n>Only a dozen or so in the world hold that rank!<p>Having come this far,<n>pursue the Way of Searching to its very limits!
+
+@EEC4 max=639
+JP: むむう！ついに十段！<n>世界有数の探し道使いよ！<p>名人の地位まで、あと少し！<n>わしは、ただ見守るだけだ！
+EN: Hmm! At last, 10th Dan!<n>You are among the world's finest seekers!<p>The rank of Grand Master is within reach!<n>All I can do now is watch over you!
+
+@F144 max=639
+JP: むむう！ついに将軍！<n>世界に五人しかおらんのだぞ！<p>名人の地位まで、あと少し！<n>わしは、ただ見守るだけだ！
+EN: Hmm! At last, a Shogun!<n>There are only five in the entire world!<p>The rank of Grand Master is within reach!<n>All I can do now is watch over you!
+
+@F3C4 max=639
+JP: おおお！ついに名人に！<n>自他ともに認める、世界一だぞ！<p>なに？まだ上を目指すというのか？<n>まったくおぬしは、凄いやつだな！
+EN: Ohhh! At last, a Grand Master!<n>The world's greatest, by anyone's reckoning!<p>What? You mean to climb higher still?<n>You truly are remarkable!
+
+@F644 max=639
+JP: え、英雄だと？むむむ、英雄は<n>探し道の歴史で、２人しかおらん！<p>もはや言うことなどなにもない！<n>まったくおぬしは、凄いやつだな！
+EN: A... Hero? Hmm! Only two have held that rank<n>in the entire history of the Way of Searching!<p>I have nothing left to teach you!<n>You truly are remarkable!
+
+@F8C4 max=639
+JP: 皇帝……。史上最強の探し道使い<n>マスター・コックリの称号だぞ！？<p>コックリの他に、この称号を得る<n>者が現れるとはな……。
+EN: Emperor... That was the title of Master Kokkuri,<n>the greatest seeker in all history!<p>To think that anyone besides Kokkuri<n>would ever earn that title...
+
+@FB44 max=639
+JP: ついに、やりおったな！<n>探し道の神の称号を得るとは！<p>もはや、おぬしの前におぬしなく<n>おぬしの後におぬしなし！<p>師であるわしも、誇らしい！<n>感服だ！おめでとう！
+EN: You have finally done it!<n>You have earned the title of God of Searching!<p>None before you have been your equal,<n>and none to come shall ever match you!<p>As your master, I could not be prouder!<n>You have my deepest respect! Congratulations!
+
+@FDC4 max=639
+JP: <HEXP>の経験値を獲得
+EN: Gained <HEXP> experience points.
+
+@10044 max=639
+JP: よし！<p>探し道の修行は、実戦あるのみ！<n>さあ、新しい課題を受けるか？
+EN: Excellent!<p>The Way of Searching is learned through practice alone!<n>Now, will you accept a new assignment?
+
+@102C4 max=639
+JP: …なんだ。修行せんのか？<n>さぼっていては上達せんぞ。<p>まあよい、また来るがいい。
+EN: ...What? No training today?<n>You will never improve by slacking off.<p>Very well. Return when you are ready.
+
+@10544 max=639
+JP: ん！その意気やよし！<n>では、今回の課題を与える！
+EN: Hmm! That is the spirit!<n>Now, here is your assignment!
+
+@107C4 max=639
+JP: …うむ、おぬしの最初の課題だ！<n>探すべきものは、ずばり！<p>「あいまいゼミの抜けがら」だ！<n>名前を、よく覚えておくのだ！<p>ヒントは、兄弟子である<n>ドリアードジュニアに聞くがよい！<p>超初心者向けの、やさしい課題だ！<n>さあ、行ってまいれ！
+EN: ...Now, your very first assignment!<n>The object you must find is...<p>the "Vague Cicada Shell"!<n>Remember that name well!<p>Ask your senior fellow pupil,<n>Dryad Junior, for a hint!<p>A simple task for an absolute beginner!<n>Now, be off!
+
+@10A44 max=639
+JP: …うむ、おぬしの次の課題は<n>「黄昏のメロンパン」だ！<p>前回同様、兄弟子の話が<n>重要な手がかりとなるだろう！<p>ここでつまずいていては、とても<n>探し道で段を取ることなど不可能！<p>おぬしの素質ならば、短時間で<n>乗り越えられる試練だぞ！
+EN: ...Now, your next assignment is<n>the "Twilight Melon Bun"!<p>As before, your fellow pupil's words<n>will provide a vital clue!<p>If you stumble here, you will never<n>earn a Dan rank in the Way of Searching!<p>With your natural talent,<n>you should overcome this trial in no time!
+
+@10CC4 max=639
+JP: …うむ、おぬしの次の課題は<n>「ソクラテスの綿棒」だ！<p>前回同様、兄弟子の話が<n>重要な手がかりとなるだろう！<p>なーに、このあたりの課題は<n>まだまだ初心者向けよ！<p>わしなら、１秒で発見できる！<n>ははは！まあがんばれ！
+EN: ...Now, your next assignment is<n>"Socrates' Cotton Swab"!<p>As before, your fellow pupil's words<n>will provide a vital clue!<p>Fear not! These assignments<n>are still meant for beginners!<p>I could find it in a single second!<n>Ha ha ha! Well, do your best!
+
+@10F44 max=639
+JP: …うむ、おぬしの次の課題は<n>「山下東村の色紙」だ！<p>ここらへんから、少しずつ<n>難しくなってくるが……<p>ジュニアの話を、よく聞けば<n>必ず道は開けるぞ！<p>では、行ってまいれ！
+EN: ...Now, your next assignment is<n>"Yamashita Toson's Autograph Board"!<p>From here onward, the assignments<n>grow a little more difficult...<p>But listen carefully to Junior,<n>and the way will surely reveal itself!<p>Now, be off!
+
+@111C4 max=639
+JP: …うむ、おぬしの次の課題は<n>「モグラ仮面変身セット」だ！<p>探し道で重要なのは<n>ヒントの意味を理解する力！<p>ジュニアの言葉に隠された手がかり<n>よーく考えて解くがよい！<p>では、行ってまいれ！
+EN: ...Now, your next assignment is<n>the "Masked Mole Transformation Kit"!<p>The key to the Way of Searching<n>is understanding what a hint truly means!<p>Ponder the clues hidden in Junior's words,<n>and unravel their meaning!<p>Now, be off!
+
+@11444 max=639
+JP: …うむ、おぬしの次の課題は<n>「膝枕練習人形」だ！<p>見たところ、おぬしの実力は<n>そろそろ初段に近いな！<p>このあたりの課題で苦労するのは<n>師であるわしが許さんぞ！<p>では、行ってまいれ！
+EN: ...Now, your next assignment is<n>the "Lap Pillow Practice Dummy"!<p>From what I can see, your skills<n>are approaching those of a 1st Dan!<p>As your master, I will accept no struggling<n>with an assignment of this level!<p>Now, be off!
+
+@116C4 max=639
+JP: …うむ、おぬしの次の課題は<n>「火星コタツ」だ！<p>兄弟子の言葉を理解しても<n>場所がわからぬことがある！<p>これは、土地カンが足りぬからだ！<n>日頃より、よく歩き回れ！<p>日々の努力を忘れるなよ！<n>では、行ってまいれ！
+EN: ...Now, your next assignment is<n>the "Martian Heated Table"!<p>You may understand your fellow pupil's words<n>and still not know where to look!<p>That means you do not know the land well enough!<n>Make a habit of exploring!<p>Never neglect your daily efforts!<n>Now, be off!
+
+@11944 max=639
+JP: …うむ、おぬしの次の課題は<n>「白熊専用ファンデーション」だ！<p>ふむ、この課題は比較的やさしいぞ。<n>サービス問題と思うがいい。<p>おぬしなら、何の苦労もないはずだ！<n>では、行ってまいれ！
+EN: ...Now, your next assignment is<n>the "Polar Bear Makeup Foundation"!<p>Hmm, this one is relatively easy.<n>Consider it a gift.<p>You should have no trouble at all!<n>Now, be off!
+
+@11BC4 max=639
+JP: …うむ、おぬしの次の課題は<n>「チューリングマシーン」だ！<p>初段に近くなってくると、さすがに<n>課題も難しくなってくるぞ。<p>ヒントの意味を、よく考えよ！<n>それがこの課題を解く近道だ！
+EN: ...Now, your next assignment is<n>the "Turing Machine"!<p>As you approach 1st Dan,<n>the assignments naturally grow harder.<p>Think carefully about the hint's meaning!<n>That is the shortest path to success!
+
+@11E44 max=639
+JP: …うむ、おぬしの次の課題は<n>「ムー大陸専用カーナビ」だ！<p>いよいよ初段試験。合格すれば<n>おぬしも探し道の黒帯だ！<p>自信を持て！実力は十分だ！<n>さあ、行ってまいれ！
+EN: ...Now, your next assignment is<n>the "Car Navigator for Mu"!<p>At last, your 1st Dan exam! Pass this,<n>and you earn a black belt in the Way of Searching!<p>Have confidence! Your skills are more than sufficient!<n>Now, be off!
+
+@120C4 max=639
+JP: …うむ、おぬしの次の課題は<n>「ナンダカンダの杖」だ！<p>昇段試験ともなると、白帯の頃とは<n>比較にならぬほど厳しいぞ。<p>これも、一筋縄でいかぬ問題よ。<n>さあ、行ってまいれ！
+EN: ...Now, your next assignment is<n>the "Nandakanda Staff"!<p>Dan promotion exams are far more demanding<n>than anything you faced as a white belt.<p>This task will take more than the usual tricks!<n>Now, be off!
+
+@12344 max=639
+JP: …うむ、おぬしの次の課題は<n>「ポン子ちゃん写真集」だ！<p>昇段試験ともなると、白帯の頃とは<n>比較にならぬほど厳しいぞ。<p>この課題も、土地をよく知る者で<n>なくては解けまい！さあ、行け！
+EN: ...Now, your next assignment is<n>the "Ponko Photo Book"!<p>Dan promotion exams are far more demanding<n>than anything you faced as a white belt.<p>This task, too, requires a thorough knowledge<n>of the land! Now, go!
+
+@125C4 max=639
+JP: …うむ、おぬしの次の課題は<n>「旗上げゲーム秘伝書」だ！<p>このレベルになると、兄弟子の言葉が<n>ますます重要になってくる。<p>探し道の基本を忘れるな！<n>さあ、行け！
+EN: ...Now, your next assignment is<n>the "Flag Game Secret Manual"!<p>At this level, your fellow pupil's words<n>become more vital than ever.<p>Remember the foundations of the Way of Searching!<n>Now, go!
+
+@12844 max=639
+JP: …うむ、おぬしの次の課題は<n>「ナポレオン茶わん」だ！<p>高段者の課題になると、場所も<n>一カ所に絞り込めなくなってくる。<p>根気よく探すことも重要なのだ。<n>さあ、行け！
+EN: ...Now, your next assignment is<n>the "Napoleon Rice Bowl"!<p>At the higher ranks, you can no longer<n>narrow your search to a single spot.<p>Patience in searching is vital, too.<n>Now, go!
+
+@12AC4 max=639
+JP: …うむ、おぬしの次の課題は<n>「爆走三国志」だ！<p>五段といえば、世界に二百人といない<n>世界レベルの武芸者だ。<p>さすがにその課題も、難しいものよ。<n>だが、必ず解けるぞ！<p>柔軟な発想、それが大事だ！<n>では、行ってまいれ！
+EN: ...Now, your next assignment is<n>"Three Kingdoms: Full Throttle"!<p>Fewer than two hundred people worldwide hold 5th Dan.<n>They are martial artists of the highest caliber.<p>Naturally, the assignment is difficult.<n>But you can solve it!<p>A flexible mind is the key!<n>Now, be off!
+
+@12D44 max=639
+JP: …うむ、おぬしの次の課題は<n>「レイバーテンの秘薬」だ！<p>もうこのレベルまで来れば<n>わしがあれこれ言う必要もないな。<p>おぬしなら、必ずや探し出せる。<n>では、行ってまいれ！
+EN: ...Now, your next assignment is<n>"Reivaten's Elixir"!<p>At your level,<n>there is little need for my advice.<p>I have no doubt you will find it.<n>Now, be off!
+
+@12FC4 max=639
+JP: …うむ、おぬしの次の課題は<n>「無限の本」だ！<p>この課題をクリアすれば、おぬしは<n>師であるわしと並ぶぞ！<p>うむ、師を超えてみよ！<n>では、行ってまいれ！
+EN: ...Now, your next assignment is<n>the "Book of Infinity"!<p>Complete this task, and you will stand<n>as an equal to me, your master!<p>Yes! Strive to surpass your master!<n>Now, be off!
+
+@13244 max=639
+JP: …うむ、おぬしの次の課題は<n>「冥界のケータイ」だ！<p>むむ、むむむ、この課題は……。<n>わしにも解けなかった課題だぞ！<p>おそらく、並はずれた根気と集中力が<n>必要とされるはず……。うむむ！
+EN: ...Now, your next assignment is<n>the "Underworld Cell Phone"!<p>Hmm... Hmmmm... This assignment...<n>Even I could not complete it!<p>It will surely demand extraordinary patience<n>and concentration... Hmmmm!
+
+@134C4 max=639
+JP: …うむ、おぬしの次の課題は<n>「黄金のヒザ」だ！<p>もはや、わしより上の段位の<n>おまえに忠告することなどないが<p>ゆめゆめ、すぐに発見できるなどと<n>考えない方がよいぞ！
+EN: ...Now, your next assignment is<n>the "Golden Knee"!<p>You outrank me now,<n>so I have little advice to offer, but...<p>Do not imagine, even for a moment,<n>that you will find this one quickly!
+
+@13744 max=639
+JP: …うむ、おぬしの次の課題は<n>「豊臣家オリジナルＴシャツ」だ！<p>ふむむ！世界Ｔシャツ史に残る<n>幻のシャツが、この島にあるとは！<p>これは、ぜひとも発見するのだ！<n>学会を揺るがす大発見だぞ！
+EN: ...Now, your next assignment is<n>the "Toyotomi Clan Original T-Shirt"!<p>Hmm! To think this fabled shirt, a legend<n>in the history of T-shirts, is on this island!<p>You simply must find it!<n>The discovery will shake the academic world!
+
+@139C4 max=639
+JP: …うむ、おぬしの次の課題は<n>「マイドス王の指サック」だ！<p>この課題をクリアすれば、ついに<n>十段を超える名誉段位を獲得できる！<p>探し道協会に、金枠の写真が<n>飾られる存在になるぞ！
+EN: ...Indeed! Your next challenge is<n>"King Mydos's Finger Cot"!<p>Complete this challenge, and you will finally<n>earn an honorary rank beyond 10th Dan!<p>Your portrait shall hang in a golden frame<n>at the Way of Searching Association!
+
+@13C44 max=639
+JP: …うむ、おぬしの次の課題は<n>「三白眼の神像」だ！<p>ついに、ここまで来たな！<n>名人位まで、あと一歩だ！<p>もはや何も言わん！<n>力の限り探してくるがよい！
+EN: ...Indeed! Your next challenge is<n>"The Sanpaku-Eyed Idol"!<p>You have come far indeed!<n>Only one step remains before the rank of Master!<p>There is nothing more to say!<n>Go forth and search with all your might!
+
+@13EC4 max=639
+JP: …うむ、おぬしの次の課題は<n>「ナゾのボタン」だ！<p>ううむ、名人位より上があるとは<n>わしも知らなかったぞ！<p>こうなったら、とことんやれ！<n>力の限り探してくるがよい！
+EN: ...Indeed! Your next challenge is<n>"The Mystery Button"!<p>Hmm! Even I never knew<n>there was a rank above Master!<p>Now that you know, go all the way!<n>Go forth and search with all your might!
+
+@14144 max=639
+JP: …うむ、おぬしの次の課題は<n>「忍びのスリッパ」だ！<p>むう、この地位に到達した者は<n>わしは一人しか知らん……。<p>おぬしが、二人目になるか？<n>わしは大変な弟子を持ったな！
+EN: ...Indeed! Your next challenge is<n>"The Ninja Slippers"!<p>Hmm... I know of only one person<n>who has ever reached this rank...<p>Will you be the second?<n>What an extraordinary pupil I have!
+
+@143C4 max=639
+JP: …いよいよ、最後の課題。<n>「魔法の鏡７１番」だ！<p>名前のみが存在し、かつて誰も<n>得たことのない幻の称号……。<p>それが、おぬしを待っておる！<n>ゆけ！わが愛弟子よ！
+EN: ...At last, the final challenge.<n>"Magic Mirror No. 71"!<p>A legendary title that exists in name alone,<n>never yet claimed by anyone...<p>That is what awaits you!<n>Go forth, my prized pupil!
+
+@14644 max=639
+JP: <<テキストチェック>><n>表示したい会話メッセージのIDを選んでください。
+EN: 

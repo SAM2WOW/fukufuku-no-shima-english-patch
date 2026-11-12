@@ -1,0 +1,127 @@
+# source: PSP_GAME/USRDIR/data/newsppr/jul.bin
+# format: rec
+# width: 42
+
+@#0
+JP: ■童謡の日：日本初の児童文芸誌「赤い鳥」<n>が１９１８年、この日創刊された。<n>■国民安全の日：１９６０年に制定。<n>■こころの看護の日：１９９９年に日本精神<n>科看護技術協会が制定。<n>■ウォークマンの日：１９７９年に発売され<n>た、ソニーの「ウォークマン」を記念して。<n>■建築士の日：日本建築士連合会が制定。
+EN: - Children's Song Day: Japan's first children's literary magazine, "Akai Tori" (Red Bird),<n>was first published on this day in 1918.<n>- National Safety Day: Established in 1960.<n>- Mental Health Nursing Day: Established in 1999<n>by the Japanese Psychiatric Nursing Association.<n>- Walkman Day: Celebrates Sony's Walkman,<n>which went on sale in 1979.<n>- Architects' Day: Established by the Japan Federation of Architects & Building Engineers Associations.
+
+@#1
+JP: ■ユネスコ加盟記念日：１９５１年加盟。<n>■蛸の日：蛸研究会が制定。<n>■たわしの日：１９１５年、亀の子たわしが<n>特許を取得した日。<n>■救世軍創立記念日：１８７８年、イギリス<n>で「救世軍」が創立された。<n>■うどんの日：香川県生麺事業協同組合が、<n>１９８０年に制定。
+EN: - UNESCO Membership Day: Japan joined in 1951.<n>- Octopus Day: Established by the Octopus Study Group.<n>- Scrubbing Brush Day: The Kamenoko scrubbing brush<n>was patented on this day in 1915.<n>- Salvation Army Founding Day: The Salvation Army<n>was founded in Britain in 1878.<n>- Udon Day: Established in 1980 by Kagawa Prefecture's<n>fresh noodle producers' cooperative.
+
+@#2
+JP: ■サーファーデー：な、み、の数字の語呂合<n>わせ。<n>■ソフトクリームの日：１９５１年、米軍主<n>催の祭りで一般にソフトクリームが出た日。<n>■通天閣の日：１９１２年、大阪市浪速区に<n>通天閣が完成した日。
+EN: - Surfer Day: The date, 7/3, can be read as "na-mi,"<n>the Japanese word for waves.<n>- Soft-Serve Ice Cream Day: On this day in 1951,<n>soft-serve ice cream was served to the public at a US military festival.<n>- Tsutenkaku Day: On this day in 1912, Tsutenkaku Tower<n>was completed in Osaka's Naniwa district.
+
+@#3
+JP: ■梨の日：な、し、の語呂合わせ。<n>■那須の日：な、す、の語呂合わせ。
+EN: - Pear Day: The date, 7/4, sounds like "nashi," Japanese for pear.<n>- Nasu Day: The date can also be read as "na-su."
+
+@#4
+JP: ■農林水産省発足記念日：１９７８年、「農<n>林省」が「農林水産省」に改称された。<n>■ビキニスタイル発表の日：１９４６年フラ<n>ンスで、世界で最も小さい水着としてビキニ<n>スタイルの水着を発表した。
+EN: - Agriculture, Forestry and Fisheries Ministry Day: In 1978,<n>the Ministry of Agriculture and Forestry was renamed to include fisheries.<n>- Bikini Debut Day: In France in 1946,<n>the bikini was unveiled as the world's smallest swimsuit.
+
+@#5
+JP: ■ピアノの日：１８２３年、シーボルトが初<n>めて日本にピアノを紹介。<n>■サラダ記念日：歌人の俵万智の著作「サラ<n>ダ記念日」より。<n>■記念日の日：日本記念日学会がさまざまな<n>記念日にもっと関心を持ってもらおうと制定。<n>■公認会計士の日：１９９１年、日本公認会<n>計士協会が制定。
+EN: - Piano Day: In 1823, Philipp Franz von Siebold<n>introduced the piano to Japan for the first time.<n>- Salad Anniversary: Named after poet Machi Tawara's<n>book, "Salad Anniversary."<n>- Anniversary Day: Established by the Japan Anniversary Society<n>to encourage interest in all kinds of special days.<n>- Certified Public Accountant Day: Established in 1991<n>by the Japanese Institute of Certified Public Accountants.
+
+@#6
+JP: ■七夕：織女・牽牛が年に一度の再会を許さ<n>れる日という伝説から。<n>■川の日：建設省が制定。<n>■竹・たけのこの日：１９８６年に制定。<n>■ゆかたの日：日本ゆかた連合会が制定。<n>■乾麺の日：全国乾麺協同組合連合会が制定。<n>■ギフトの日：全日本ギフト用品協会が制定。<n>■ポニーテールの日：１９９５年に制定。
+EN: - Tanabata: Legend says the Weaver Girl and Cowherd<n>are allowed to meet just once a year, on this day.<n>- River Day: Established by the Ministry of Construction.<n>- Bamboo and Bamboo Shoot Day: Established in 1986.<n>- Yukata Day: Established by the Japan Yukata Federation.<n>- Dried Noodle Day: Established by the national federation of dried noodle cooperatives.<n>- Gift Day: Established by the All Japan Gift Goods Association.<n>- Ponytail Day: Established in 1995.
+
+@#7
+JP: ■外務省開庁記念日：１８６９年、明治新政<n>府が外務省を創設。<n>■大蔵省開庁記念日：１８６９年、明治新政<n>府が財務省の前身・大蔵省を創設。<n>■質屋の日：数字の語呂合わせから全国質屋<n>組合連合会が制定。<n>■那覇の日：数字の語呂合わせから「那覇が<n>好き友の会」が制定。
+EN: - Foreign Affairs Ministry Day: In 1869, the new Meiji government<n>established the Ministry of Foreign Affairs.<n>- Finance Ministry Day: In 1869, the new Meiji government<n>established the predecessor of today's Ministry of Finance.<n>- Pawnshop Day: Established by the national pawnshop federation.<n>The date, 7/8, sounds like "shichiya," Japanese for pawnshop.<n>- Naha Day: Established by the Friends of Naha Club.<n>The date, 7/8, can be read as "Na-ha."
+
+@#8
+JP: ■ジェットコースター記念日：１９５５年、<n>この日開園した後楽園遊園地に日本初の本格<n>的ジェットコースターが設置されたことから。<n>■鴎外忌：小説家、森鴎外の忌日。
+EN: - Roller Coaster Day: In 1955, Korakuen Amusement Park<n>opened with Japan's first full-scale roller coaster,<n>inspiring this anniversary.<n>- Ogai Memorial Day: The anniversary of novelist Mori Ogai's death.
+
+@#9
+JP: ■納豆の日：全国納豆協同組合連合会が、関<n>西地区の記念日を全国の記念日として制定。<n>■ウルトラマンの日：１９６６年、ＴＢＳテ<n>レビで「ウルトラマン」の放映が開始。<n>■国土建設記念日：現・国土交通省の前身、<n>建設省が開庁。<n>■四万六千日：神社などを参拝すると、４万<n>６千日参拝した分のご利益があるとされる日。
+EN: - Natto Day: The national federation of natto cooperatives<n>made this Kansai observance a nationwide event.<n>- Ultraman Day: In 1966, "Ultraman"<n>began airing on TBS television.<n>- National Construction Day: The Ministry of Construction opened,<n>a predecessor of today's Ministry of Land, Infrastructure and Transport.<n>- Day of 46,000 Blessings: A shrine visit on this day is said<n>to bring the blessings of 46,000 days of worship.
+
+@#10
+JP: ■世界人口デー：１９８７年、地球の人口が<n>５０億人をこえたことから、国連人口基金が<n>人口問題への関心を深める意味で制定。<n>■真珠記念日：１８９３年、三重県の御木本<n>幸吉夫妻が、初めて真珠の養殖に成功。<n>■ＹＳ‐１１記念日：１９６２年、初の国産<n>旅客機ＹＳ‐１１が完成。
+EN: - World Population Day: In 1987, the world's population<n>passed five billion. The UN Population Fund established this day<n>to raise awareness of population issues.<n>- Pearl Anniversary: In 1893, Kokichi Mikimoto and his wife,<n>from Mie Prefecture, first succeeded in cultivating pearls.<n>- YS-11 Anniversary: In 1962, Japan's first domestically built<n>passenger plane, the YS-11, was completed.
+
+@#11
+JP: ■人間ドックの日：１９５４年、国立東京第<n>一病院で人間ドックが始められた。<n>■ローリング・ストーンズ記念日：１９６２<n>年、イギリスのロックバンド、ローリング・<n>ストーンズがロンドンのクラブに初出演。<n>■ラジオ本放送の日：１９２５年、放送開始。<n>■ひかわ銅剣の日：１９８４年、島根県斐川<n>町で弥生時代の銅剣３５８本が発見。
+EN: - Health Checkup Day: In 1954, comprehensive health checkups<n>began at the First National Hospital of Tokyo.<n>- Rolling Stones Anniversary: In 1962,<n>British rock band the Rolling Stones<n>played their first show at a London club.<n>- Regular Radio Broadcast Day: Regular broadcasts began in 1925.<n>- Hikawa Bronze Sword Day: In 1984, 358 Yayoi-period bronze swords<n>were discovered in Hikawa, Shimane Prefecture.
+
+@#12
+JP: ■盆迎え火：盆の初日。祖先の精霊を迎える<n>為、芋殻、麻幹などを夕方に門口で燃やし煙<n>を焚く。<n>■日本標準時刻記念日：東経１３５度の時刻<n>を日本の標準時とすることが定められた。<n>■生命尊重の日：医師、法律家、教育者等で<n>構成される実行委員会が実施。<n>■ナイスの日：数字の語呂合わせから。
+EN: - Obon Welcome Fires: The first day of Obon. In the evening,<n>taro stalks, hemp stalks and similar materials are burned at doorways<n>to welcome ancestral spirits with smoke.<n>- Japan Standard Time Day: The time at 135 degrees east longitude<n>was designated as Japan's standard time.<n>- Respect for Life Day: Organized by a committee<n>of doctors, lawyers, educators and others.<n>- Nice Day: The date, 7/13, sounds like "na-i-su," or "nice."
+
+@#13
+JP: ■パリ祭：１７８９年、パリ市民がバスティ<n>ーユ監獄を襲撃し、多くの政治犯を解放、フ<n>ランス革命の始りとなった。<n>■ひまわりの日：１９７７年、日本初の気象<n>衛星「ひまわり１号」が打ち上げられた。<n>■ペリー上陸記念日：１８５３年、アメリカ<n>のペリー提督が乗船した黒船艦隊が浦賀沖に<n>来航。
+EN: - Bastille Day: In 1789, the people of Paris stormed<n>the Bastille prison and freed many political prisoners,<n>marking the start of the French Revolution.<n>- Himawari Day: In 1977, Japan's first weather satellite,<n>Himawari 1, was launched.<n>- Perry Landing Anniversary: In 1853, a fleet of American<n>Black Ships carrying Commodore Perry<n>arrived off Uraga.
+
+@#14
+JP: ■盆，盂蘭盆会：胡瓜や茄子で牛や馬の形を<n>作りお供して、祖先の霊を供養する行事。<n>■ファミコンの日：１９８３年、任天堂が家<n>庭用ビデオゲーム機「ファミリーコンピュー<n>タ」を発売した。<n>■大阪港開港記念日：１８６８年、安治川の<n>河口に大阪港が開港した。
+EN: - Obon: A festival honoring ancestral spirits.<n>Cucumbers and eggplants are made into horses and cows as offerings.<n>- Famicom Day: In 1983, Nintendo released<n>its Family Computer home video game console,<n>better known as the Famicom.<n>- Osaka Port Opening Day: In 1868, Osaka Port opened<n>at the mouth of the Aji River.
+
+@#15
+JP: ■駅弁記念日：１８８５年、この日に開業し<n>た日本鉄道東北本線宇都宮駅で、日本初の駅<n>弁が発売された。<n>■盆送り火：盆の最終日。<n>■外国人力士の日：１９７２年名古屋場所で、<n>ハワイ出身の高見山が外国人として初めて幕<n>内優勝した。<n>■国土交通ＤＡＹ：国土交通省が制定。
+EN: - Station Lunchbox Day: In 1885, Japan's first station lunchboxes<n>went on sale at Utsunomiya Station on the Tohoku Main Line,<n>which opened that day.<n>- Obon Farewell Fires: The final day of Obon.<n>- Foreign Sumo Wrestler Day: At the 1972 Nagoya tournament,<n>Hawaii-born Takamiyama became the first foreign wrestler<n>to win the top-division championship.<n>- Land, Infrastructure and Transport Day: Established by the ministry of that name.
+
+@#16
+JP: ■東京の日：１８６８年、明治天皇の詔勅に<n>より江戸が東京に改称された。<n>■漫画の日：１８４１年イギリスでイラスト<n>入り風刺週刊誌が発刊された。
+EN: - Tokyo Day: In 1868, an imperial decree from Emperor Meiji<n>changed Edo's name to Tokyo.<n>- Cartoon Day: In 1841, an illustrated satirical weekly<n>was first published in Britain.
+
+@#17
+JP: ■光化学スモッグの日：１９７０年、東京都<n>杉並区で日本初の光化学スモッグが発生。<n>■大河内伝次郎忌：「丹下左膳」などで知ら<n>れる映画俳優、大河内伝次郎の忌日。
+EN: - Photochemical Smog Day: In 1970, Japan's first occurrence<n>of photochemical smog was recorded in Suginami, Tokyo.<n>- Denjiro Okochi Memorial Day: The anniversary of the death<n>of the film actor known for "Tange Sazen" and other works.
+
+@#18
+JP: ■女性大臣の日：１９６０年、日本初の女性<n>大臣、中山マサ厚生大臣が誕生した。<n>■戦後民主主義到来の日：１９４９年、新民<n>主主義の到来を謳った映画『青い山脈』が封<n>切り。<n>■北壁の日：１９６７年、東京女子医大山岳<n>部の今井通子さんと若山美子さんがマッター<n>ホルンの北壁からの登頂に成功。
+EN: - Female Cabinet Minister Day: In 1960, Masa Nakayama became<n>Japan's first female cabinet minister, serving as Minister of Health and Welfare.<n>- Dawn of Postwar Democracy Day: In 1949, the film<n>"Blue Mountains" opened, celebrating the arrival<n>of a new democracy.<n>- North Face Day: In 1967, Michiko Imai and Yoshiko Wakayama<n>of Tokyo Women's Medical University's mountaineering club<n>reached the summit of the Matterhorn via its north face.
+
+@#19
+JP: ■月面着陸の日：１９６９年、アメリカが打<n>ち上げたアポロ１１号が月面の「静かの海」<n>に着陸、人類が初めて月面に立った。<n>■ハンバーガーの日：日本マクドナルドが１<n>９９６年に制定。<n>■Ｔシャツの日：愛知県のファッションメー<n>カーが制定。<n>■修学旅行の日：初の修学旅行が行われた日。
+EN: - Moon Landing Day: In 1969, America's Apollo 11<n>landed in the Sea of Tranquility on the moon,<n>and humans set foot on the lunar surface for the first time.<n>- Hamburger Day: Established by McDonald's Japan<n>in 1996.<n>- T-Shirt Day: Established by a clothing manufacturer<n>in Aichi Prefecture.<n>- School Trip Day: Marks the first school trip.
+
+@#20
+JP: ■神前結婚記念日：１９００年、日比谷大神<n>宮が神前結婚式のＰＲを始めた。それまでは<n>家庭で行われるのが普通だった。<n>■破防法公布記念日：１９５２年、「破壊活<n>動防止法」が公布、施行され、公安調査庁が<n>設置された。<n>■自然公園の日：１９５７年、「自然公園法」<n>が制定された。
+EN: - Shinto Wedding Anniversary: In 1900, Hibiya Daijingu Shrine<n>began promoting Shinto wedding ceremonies. Until then,<n>weddings had usually been held at home.<n>- Subversive Activities Prevention Act Day: In 1952,<n>the act was promulgated and took effect, and the Public Security<n>Intelligence Agency was established.<n>- Natural Parks Day: In 1957, the Natural Parks Act<n>was enacted.
+
+@#21
+JP: ■著作権制度の日：１８９９年、日本の著作<n>権制度が創設。<n>■ナッツの日：数字の語呂合わせから日本ナ<n>ッツ協会が制定。<n>■下駄の日：全国木製はきもの業組合連合会<n>が制定。
+EN: - Copyright System Day: In 1899, Japan's copyright system<n>was established.<n>- Nuts Day: Established by the Japan Nuts Association.<n>The date, 7/22, sounds like "nattsu," Japanese for nuts.<n>- Geta Day: Established by the national federation<n>of wooden footwear makers.
+
+@#22
+JP: ■米騒動の日：１９１８年、富山県魚津の漁<n>家の主婦たちが米の県外移出を阻止するため<n>起こした行動が、全国に広がった。<n>■文月ふみの日：郵政省が１９７９年から実<n>施している手紙の日。<n>■天ぷらの日：夏ばて対策に、大暑の日に天<n>ぷらを食べて元気に過ごそうという日。
+EN: - Rice Riot Day: In 1918, fishermen's wives in Uozu,<n>Toyama Prefecture, tried to stop rice being shipped out of the prefecture.<n>Their protest spread across Japan.<n>- July Letter Day: A letter-writing day observed<n>by the Ministry of Posts and Telecommunications since 1979.<n>- Tempura Day: Eat tempura on the hottest day of the traditional calendar<n>to keep your energy up and beat summer fatigue.
+
+@#23
+JP: ■劇画の日：１９６４年、青林堂が劇画雑誌<n>「ガロ」を創刊した。<n>■河童忌：１９２７年、多量の睡眠薬を飲ん<n>で自殺した小説家の芥川龍之介の忌日。<n>■地蔵盆：子供たちがお地蔵さまにお供えを<n>して祀る日。
+EN: - Gekiga Day: In 1964, Seirindo launched<n>the dramatic comic magazine "Garo."<n>- Kappa Memorial Day: The anniversary of novelist Ryunosuke Akutagawa's death.<n>He took his own life with an overdose of sleeping pills in 1927.<n>- Jizo Festival: A day when children honor Jizo,<n>their guardian deity, with offerings.
+
+@#24
+JP: ■夏氷の日：日本かき氷協会が制定。<n>■体外受精の日：１９７８年、イギリスのオ<n>ールダム総合病院で世界初の試験管ベビーが<n>誕生した。<n>■味の素の日：１９０８年、化学者の池田菊<n>苗博士が、「グルタミン酸塩を主成分とせる<n>調味料製造法」の特許を取得。
+EN: - Shaved Ice Day: Established by the Japan Shaved Ice Association.<n>- IVF Day: In 1978, the world's first test-tube baby<n>was born at Oldham General Hospital<n>in Britain.<n>- Ajinomoto Day: In 1908, chemist Dr. Kikunae Ikeda<n>patented a method for making a seasoning<n>whose main ingredient was glutamate.
+
+@#25
+JP: ■ポツダム宣言記念日：１９４５年、ポツダ<n>ムでアメリカ・イギリス・中国の三国の首脳<n>が戦争終結と日本の無条件降伏等について会<n>談し、「ポツダム宣言」を発表した。<n>■幽霊の日：１８２５年、江戸の中村座で<n>「東海道四谷怪談」が初演された。<n>■日光の日：８２０年、弘法大師が日光山と<n>命名した。
+EN: - Potsdam Declaration Anniversary: In 1945, the leaders<n>of the US, Britain and China discussed ending the war<n>and Japan's unconditional surrender at Potsdam,<n>and issued the Potsdam Declaration.<n>- Ghost Day: In 1825, "The Ghost Story of Yotsuya"<n>premiered at the Nakamura Theater in Edo.<n>- Nikko Day: In 820, Kobo Daishi gave Mount Nikko<n>its name.
+
+@#26
+JP: ■スイカの日：スイカの模様を、綱に見立て、<n>つ、な、の数字の語呂合わせから。<n>■政治を考える日：１９７６年、ロッキード<n>事件で田中角栄前首相（当時）が逮捕された<n>日。
+EN: * Watermelon Day: Watermelon stripes resemble ropes, or "tsuna" in Japanese. "Tsu" and "na" are number puns for 2 and 7.<n>* A Day to Think About Politics: In 1976, former Prime Minister Kakuei Tanaka was arrested in connection with the Lockheed scandal.
+
+@#27
+JP: ■第一次世界大戦開戦記念日：１９１４年、<n>オーストリアがセルビアに宣戦布告し、第一<n>次世界大戦が始った日。<n>■菜っ葉の日：数字の語呂合わせから。<n>■なにわの日：数字の語呂合わせから。<n>■乱歩の日：日本の推理小説の生みの親、江<n>戸川乱歩の忌日。
+EN: * World War I Anniversary: In 1914, Austria declared war on Serbia, beginning World War I.<n>* Leafy Greens Day: Named for a Japanese number pun.<n>* Naniwa Day: Also named for a Japanese number pun.<n>* Ranpo Day: The anniversary of the death of Edogawa Ranpo, the father of Japanese detective fiction.
+
+@#28
+JP: ■アマチュア無線の日：日本アマチュア無線<n>連盟が制定。<n>■凱旋門の日：１８３６年の今日、ナポレオ<n>ンが建造を命じていた凱旋門が完成。
+EN: * Amateur Radio Day: Established by the Japan Amateur Radio League.<n>* Arc de Triomphe Day: On this day in 1836, the Arc de Triomphe, commissioned by Napoleon, was completed.
+
+@#29
+JP: ■プロレス記念日：１９５３年、力道山が中<n>心となって日本プロレスリング協会、結成。<n>■東北自動車道全通記念日：１９８６年、浦<n>和から青森をつなぐ東北自動車道が全線開通。<n>■明治最後の日：１９１２年、明治天皇の崩<n>御により「大正」と改元。
+EN: * Pro Wrestling Day: In 1953, Rikidozan led the formation of the Japan Pro Wrestling Association.<n>* Tohoku Expressway Completion Day: In 1986, the entire Tohoku Expressway opened, linking Urawa and Aomori.<n>* Last Day of the Meiji Era: In 1912, Emperor Meiji's death marked the start of the Taisho era.
+
+@#30
+JP: ■パラグライダー記念日：１９８８年、北九<n>州市で最初のパラグライダー選手権開催。<n>■蓄音機の日：１８７７年、エジソンが蓄音<n>機の特許を取得。<n>■こだまの日：１９５９年、特急こだまが、<n>狭軌鉄道での世界最高速記録を樹立した日。
+EN: * Paragliding Day: In 1988, the first paragliding championships were held in Kitakyushu.<n>* Phonograph Day: In 1877, Edison obtained a patent for the phonograph.<n>* Kodama Day: In 1959, the Kodama limited express set a world speed record for narrow-gauge railways.

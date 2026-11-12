@@ -1,0 +1,247 @@
+# source: PSP_GAME/USRDIR/data/script/gk27.scb
+# format: scb
+# width: 44
+
+@5144 max=639
+JP: む？見たな？<p>我の姿を見てしまったな？<n>ふははは！哀れなやつめ！<p>我らはガイコツナンバーズ！<n>邪悪な秘密結社なのだ！<p>そして我は、ナンバー<GN>！<n>自分で言うのもなんだが、幹部候補だ！
+EN: Hm? You saw me?<p>You have gazed upon my fearsome form?<n>Fwahaha! You poor fool!<p>We are the Skull Numbers!<n>An evil secret society!<p>And I am Number <GN>!<n>Officer material, if I do say so myself!
+
+@53C4 max=639
+JP: む？おまえは<PN>！<n>最近ウワサの、我らの敵だな？<p>我はガイコツナンバー<GN>！<n>ここで会ったが百年目だ！ふはは！
+EN: Hm? You're <PN>!<n>Our enemy everyone's been talking about!<p>I am Skull Number <GN>!<n>At last, your reckoning is at hand! Fwahaha!
+
+@5644 max=639
+JP: …ヤア！元気かーい！<n>ずいぶん顔色いいじゃん！<p>…と、油断させておいて<n>トウッ！<p>…ふはははは！愚かな奴め！<n>我の絶妙の声色に騙されたな！<p>我はガイコツナンバー<GN>！<n>どうだ、驚いたか、ふははは！<p>もはや貴様に勝ち目はない！<n>大人しく降参するがいい！
+EN: ...Hey there! How's it going?<n>You're looking great!<p>...And with your guard down...<n>HIYAH!<p>...Fwahahaha! You fool!<n>My flawless acting had you completely fooled!<p>I am Skull Number <GN>!<n>Surprised? Fwahaha!<p>You have no hope of victory now!<n>Surrender quietly!
+
+@58C4 max=639
+JP: む！おまえは<PN>！<n>なんだ、また我らにやられに来たか！<p>我はガイコツナンバー<GN>！<n>返り討ちにしてやる！カモーン！
+EN: Ah! It's you, <PN>!<n>Back for another beating, are you?<p>I am Skull Number <GN>!<n>I'll send you packing! Come on!
+
+@5B44 max=639
+JP: 我らの目的は、邪悪な占いによって<n>この世を支配することなのだ！ふはは！<p>具体的には、恐怖の「あだな占い」で<n>全人類を精神的に打ちのめすのだ！<p>…む？聞いたな？<n>我らの正体を聞いてしまったな？<p>聞かれたからには覚悟してもらおう。<n>ふははは！泣け！叫べ！
+EN: Our goal is to rule the world<n>through evil fortune-telling! Fwahaha!<p>Specifically, our dreaded nickname fortunes<n>will crush the spirit of all humanity!<p>...Hm? You heard that?<n>You have learned our true identity?<p>Then prepare to face the consequences!<n>Fwahaha! Weep! Scream!
+
+@5DC4 max=639
+JP: 我らは巨大な秘密結社なのだ！<n>全部で、４０人…いや、５０人…<p>ええと、ひいふうみい…<p>…ふ、ふはは！<n>そんなことはどうでもよい！
+EN: Our secret society is vast!<n>We have forty... No, fifty members...<p>Let's see... One, two, three...<p>...F-Fwahaha!<n>Such details are irrelevant!
+
+@6044 max=639
+JP: ガイコツナンバーズ結成より３０年！<n>我が結社は、着々と版図を広げてきた！<p>あと５０年もあれば<n>この島の四分の一は支配できる！<p>これが何を意味するかわかるか？<n>つまり…<p>この調子でいくと<n>世界征服まであと一歩ということだ！
+EN: Thirty years since the Skull Numbers arose!<n>Our territory has steadily expanded!<p>In just fifty more years,<n>we could rule a quarter of this island!<p>Do you know what that means?<n>It means...<p>At this rate, we're just one step away<n>from world domination!
+
+@62C4 max=639
+JP: 我らの目的は、邪悪な占いによって<n>この世を支配することなのだ！ふはは！<p>具体的には、恐怖の「あだな占い」で<n>全人類を精神的に打ちのめすのだ！<p>…む？聞いたな？<n>我らの正体を聞いてしまったな？<p>聞かれたからには覚悟してもらおう。<n>ふははは！泣け！叫べ！
+EN: Our goal is to rule the world<n>through evil fortune-telling! Fwahaha!<p>Specifically, our dreaded nickname fortunes<n>will crush the spirit of all humanity!<p>...Hm? You heard that?<n>You have learned our true identity?<p>Then prepare to face the consequences!<n>Fwahaha! Weep! Scream!
+
+@6544 max=639
+JP: 我らは巨大な秘密結社なのだ！<n>全部で、４０人…いや、５０人…<p>ええと、ひいふうみい…<p>…ふ、ふはは！<n>そんなことはどうでもよい！
+EN: Our secret society is vast!<n>We have forty... No, fifty members...<p>Let's see... One, two, three...<p>...F-Fwahaha!<n>Such details are irrelevant!
+
+@67C4 max=639
+JP: ガイコツナンバーズ結成より３０年！<n>我が結社は、着々と版図を広げてきた！<p>あと５０年もあれば<n>この島の四分の一は支配できる！<p>これが何を意味するかわかるか？<n>つまり…<p>この調子でいくと<n>世界征服まであと一歩ということだ！
+EN: Thirty years since the Skull Numbers arose!<n>Our territory has steadily expanded!<p>In just fifty more years,<n>we could rule a quarter of this island!<p>Do you know what that means?<n>It means...<p>At this rate, we're just one step away<n>from world domination!
+
+@6A44 max=639
+JP: ふははは、聞いておどろくな！<p>我々は、素晴らしい情報を<n>ゲットしたのだぞ！<p>「ものしり海岸」に、われらの祖先<n>ガイコツスリーパーズの像があるという！<p>それこそ、我らの世界征服の<n>新たなカギとなるアイテムなのだ！<p>もはや勝ったも同然よ！ふははは！
+EN: Fwahaha! Prepare to be amazed!<p>We have acquired<n>some magnificent intelligence!<p>A statue of our ancestors, the Skull Sleepers,<n>stands on Know-It-All Coast!<p>That very statue shall be the new key<n>to our conquest of the world!<p>Victory is as good as ours! Fwahaha!
+
+@6CC4 max=639
+JP: くっ、それにしても…<p>ガイコツ大魔王様さえ<n>万全の体調でおられたら…。<p>花粉症とギックリ腰のせいで<n>我らが魔王様は動けないのだ！<p>くっ、無念だ！
+EN: Grr... If only...<p>If only our mighty Skull Overlord<n>were in perfect health...<p>Hay fever and a bad back<n>have left our lord unable to move!<p>Grr! The injustice!
+
+@6F44 max=639
+JP: ふふふ、その目、その表情…<n>ふふふ、我は見抜いているぞ！<p>おまえももう、我らが占いの虜よ！<p>おとなしく、わが結社に<n>忠誠を誓うのだ！ふはは！
+EN: Heh heh heh... Those eyes! That expression!<n>I can see right through you!<p>You, too, are in thrall to our fortunes!<p>Now swear your allegiance<n>to our society! Fwahaha!
+
+@71C4 max=639
+JP: ふはは！ひとつ教えてやろう！<p>ガイコツナンバーズに<n>給与は出ない！<p>全部ボランティアだ！<n>しかし泣かないぞ！
+EN: Fwahaha! Let me tell you something!<p>The Skull Numbers<n>receive no salary!<p>It's all volunteer work!<n>But I shall not cry!
+
+@7444 max=639
+JP: ふははは！貴様は知るまい！<p>我らがガイコツ大魔王様の<n>鎮座まします場所を！<p>そぞろ山の、洞窟の奥深くで<n>花粉症の治療中であることなど<p>貴様には、思いもつかない<n>秘密なのだ！ふははは！
+EN: Fwahaha! You could never guess...<p>The place where our mighty<n>Skull Overlord resides!<p>Deep in a cave on Wanderlust Mountain,<n>receiving treatment for hay fever...<p>Such a secret would never<n>even cross your mind! Fwahahaha!
+
+@76C4 max=639
+JP: ふはは！ひとつ教えてやろう！<p>我らガイコツナンバーズは<n>人類の歴史のはじめより…<p>名を変え、活動内容を変え<n>暗躍を続けてきたのだ！<p>詳しくは、ガイコツ像に添付された<n>邪悪な文書を読むがいい！<p>そして、邪悪な歴史に震えるがいい！<n>ふはははは！
+EN: Fwahaha! Let me tell you something!<p>Since the dawn of human history,<n>we Skull Numbers have...<p>Changed our name and our activities,<n>working tirelessly in the shadows!<p>For details, read the evil document<n>attached to the skeleton statue!<p>Then tremble at our wicked history!<n>Fwahahaha!
+
+@7944 max=639
+JP: ふははは！聞いて驚くな！<p>貴様が、一度手に入れたアイテムは<n>特殊なものをのぞいて…<p>ポッコという生物の経営する店で<n>買うことができるのだ！<p>だが、我らは給与を貰っていないから<n>カネはいっさい持っていない！<p>つまり、我らには、まるで<n>関係のない情報なのだ！ふはは！
+EN: Fwahaha! Prepare to be amazed!<p>Once you've obtained an item,<n>apart from certain special ones...<p>You can buy it again at a shop<n>run by a creature called Pokko!<p>But since we receive no salary,<n>we have no money whatsoever!<p>In other words, this information<n>is utterly useless to us! Fwahaha!
+
+@7BC4 max=639
+JP: ふははは！懲りないやつめ！<p>ククク、それとも<n>我らに忠誠を誓う気になったか？<p>ちなみに、我が組織に忠誠を誓うと<n>特製ハンカチがもらえるぞ！
+EN: Fwahaha! You never learn!<p>Heh heh heh... Or have you finally<n>decided to swear allegiance to us?<p>Incidentally, joining our organization<n>earns you a special handkerchief!
+
+@7E44 max=639
+JP: ならば、特別サービスで<n>貴様の友達を占ってやろう！
+EN: Then, as a special service,<n>I shall tell your friend's fortune!
+
+@80C4 max=639
+JP: ふはははは！<p>我の必殺ワザ、<UC>占いで<n>貴様を地獄に送ってやろう！
+EN: Fwahahaha!<p>My ultimate technique, <UC> fortune-telling,<n>shall send you straight to the underworld!
+
+@8344 max=639
+JP: ふっ、臆したか！<n>我の勝ちだな！ふはははは！
+EN: Hah! Lost your nerve?<n>Victory is mine! Fwahahaha!
+
+@85C4 max=639
+JP: ふははは！無謀なヤツめ！<n>我が占い、受けてみよ！
+EN: Fwahaha! Reckless fool!<n>Face the might of my fortune-telling!
+
+@8844 max=639
+JP: ふふふ、ズバリ！<p><UC>占いでいうと<n>貴様は<UN>だ！
+EN: Heh heh heh... Behold the truth!<p>According to <UC> fortune-telling,<n>you are <UN>!
+
+@8AC4 max=639
+JP: …………<p>…ぷっ！<UN>だってさ！<n>うわー、ハズカシー！<p>これから貴様が何をやっても<n>「でも<UN>だしー」<p>って言われちゃうのだぞ！<n>やーいやーい、<UN>！<p>…ふふふ、どうやら精神に<n>深い傷を負ったようだな？<p>我らの恐怖、思い知ったか！<n>ふははは！…では、さらばだ！
+EN: ............<p>...Pfft! <UN>!<n>Wow, how embarrassing!<p>Whatever you do from now on,<n>people will say, "Still <UN>, though!"<p>That's what they'll say!<n>Nyah nyah! <UN>!<p>...Heh heh heh. It seems I've dealt<n>a deep wound to your spirit!<p>Now you know true terror!<n>Fwahaha! ...Farewell!
+
+@8D44 max=639
+JP: ククク、ならば<n>貴様の友達の秘密を教えるがいい…。<p>さあ、友達を売れ、フフフフ…。
+EN: Heh heh heh... Then reveal<n>your friend's secrets to me...<p>Go on, betray your friend! Heh heh heh...
+
+@8FC4 max=639
+JP: これで良いのか？ククククク…。
+EN: Is this correct? Heh heh heh...
+
+@9244 max=639
+JP: さあ、友達を売れ、フフフフ…。
+EN: Go on, betray your friend! Heh heh heh...
+
+@94C4 max=639
+JP: これで良いのか？ククククク…。
+EN: Is this correct? Heh heh heh...
+
+@9744 max=639
+JP: さあ、友達を売れ、フフフフ…。
+EN: Go on, betray your friend! Heh heh heh...
+
+@99C4 max=639
+JP: ふふふ、ではゆくぞ？<n>貴様の友達はな…。
+EN: Heh heh heh... Shall we begin?<n>Your friend is...
+
+@9C44 max=639
+JP: <UC>占いでいうと<n><UN>だったのだ！ガーン！
+EN: According to <UC> fortune-telling,<n><UN>! Gasp!
+
+@9EC4 max=639
+JP: ふははは！<p>衝撃の事実に<n>声も出ないようだな！<p>哀れなやつめ！ふはははは！<n>…では、さらばだ！
+EN: Fwahaha!<p>The shocking truth<n>has left you speechless!<p>You poor fool! Fwahahaha!<n>...Farewell!
+
+@A144 max=639
+JP: <<テキストチェック>><n>チェックする項目を選んでください。
+EN: 
+
+@A3C4 max=639
+JP: 会話メッセージ<n>イベント用テキスト
+EN: Dialogue<n>Event Text
+
+@A644 max=639
+JP: 表示したい会話メッセージのIDを選んでください。
+EN: 
+
+@A8C4 max=639
+JP: 表示したいテキストのIDを入力してください。
+EN: 
+
+@14E64 max=359
+JP: 味噌汁の具
+EN: Miso Soup Ingredients
+
+@14FCC max=359
+JP: 納豆
+EN: Natto
+
+@15134 max=359
+JP: 気の合う仲間とはうまくいくけれ<n>ど、それ以外の人とは口をきくこ<n>とも少ないあなたは、納豆タイプ。<n>一緒にあわせる具には、相性が必<n>要です。それでも、もう少し周り<n>のペースに合わせるとさらに大勢<n>と仲良くなれるはず。
+EN: You're the natto type!<n>You get along with kindred spirits,<n>but barely talk to anyone else.<n>Like ingredients in a soup,<n>you need a compatible mix.<n>Try matching other people's pace a little,<n>and your circle of friends will grow.
+
+@1529C max=359
+JP: ワカメ
+EN: Wakame
+
+@15404 max=359
+JP: 友人関係はそれほど広くないかも<n>しれませんが、一旦親しくなると<n>一生の友人として付き合うあなた<n>は、ワカメタイプ。ちょっとした<n>トラブルがあったときに、周囲に<n>気付かれずに上手に処理して人望<n>をアップさせます。
+EN: You're the wakame type!<n>Your circle of friends may be small,<n>but once you grow close to someone,<n>you stay friends for life.<n>You quietly smooth over little problems<n>before anyone even notices,<n>earning people's trust along the way.
+
+@1556C max=359
+JP: 豆腐
+EN: Tofu
+
+@156D4 max=359
+JP: 初対面の人ともすぐ仲良くなれる、<n>コミュニケーション上手なあなた<n>は、豆腐タイプ。相手に合わせて<n>行動できるので、対人面のトラブ<n>ルは少ないでしょう。苦手かもし<n>れないけど、一人の人と深く関わ<n>ることにも挑戦してみて。
+EN: You're the tofu type!<n>A gifted communicator, you can make<n>friends with someone you've just met.<n>You adapt well to others, so friction<n>is rarely a problem. Getting close<n>to one particular person may be harder,<n>but why not give it a try?
+
+@1583C max=359
+JP: なめこ
+EN: Nameko Mushrooms
+
+@159A4 max=359
+JP: 家族を大切にするあなたは、友人<n>も家族同様にとても大切にする、<n>なめこタイプ。大切に思うあまり、<n>おせっかいを焼きすぎると、粘っ<n>こいと敬遠されてしまうかも。仕<n>事とプライベートの線引きをしっ<n>かり頭に入れておくこと。
+EN: You're the nameko mushroom type!<n>You treasure your family and treat<n>your friends as if they were family too.<n>But caring too much can turn into meddling,<n>and people may avoid you if you get clingy.<n>Be sure to keep a clear boundary<n>between work and your personal life.
+
+@15B0C max=359
+JP: ジャガイモ
+EN: Potato
+
+@15C74 max=359
+JP: 誰にでも優しくて思いやりもある<n>あなたは、ジャガイモタイプ。あ<n>なたの周りには、常にあなたに賛<n>成してくれる取り巻きが多いので<n>は？ときには、苦言を呈してくれ<n>る数少ない友人からのアドバイス<n>も素直に聞きましょう。
+EN: You're the potato type!<n>You're kind and considerate to everyone.<n>Could it be that you're always surrounded<n>by people who agree with everything you say?<n>Now and then, listen with an open mind<n>to those few friends who care enough<n>to tell you the hard truths.
+
+@15DDC max=359
+JP: タマネギ
+EN: Onion
+
+@15F44 max=359
+JP: 意外に対人関係のトラブルが多い<n>あなたは、タマネギタイプ。時間<n>やマナーにルーズな友人にはイラ<n>イラすることも多いでしょう。学<n>歴や職業で付き合う人を選びがち<n>ですが、人間味のある人と付き合<n>うとリラックスできます。
+EN: You're the onion type!<n>You have a surprising amount of friction<n>with others. Friends with poor manners<n>or timekeeping often get on your nerves.<n>You tend to judge people by education<n>or career, but warm, down-to-earth friends<n>can help you relax.
+
+@160AC max=359
+JP: 油揚げ
+EN: Fried Tofu
+
+@16214 max=359
+JP: 話し上手、聞き上手のあなたは、<n>油揚げタイプ。誰とでもうまく調<n>和できて、対人関係のトラブルは<n>皆無に近いでしょう。初対面の人<n>でもうまく付き合えるかどうか直<n>感でわかるのも特技。その直感を<n>信じて行動しても大丈夫。
+EN: You're the fried tofu type!<n>You're as good at listening as talking,<n>and you blend in well with anyone.<n>Friction with others is almost unheard of.<n>Even when you first meet someone,<n>you can sense whether you'll get along.<n>Go ahead and trust that intuition!
+
+@1637C max=359
+JP: あさり
+EN: Clam
+
+@164E4 max=359
+JP: とても用心深くて、誰かと親しく<n>なるまでに時間がかかるあなたは、<n>あさりタイプ。なかなか自分の殻<n>を開かないので、周りから誤解さ<n>れることも多いのでは？もう少し<n>オープンに心を開いて、あなたの<n>良さをアピールしてみて。
+EN: You're the clam type!<n>You're very cautious, and it takes time<n>for you to grow close to someone.<n>You rarely come out of your shell,<n>so people may often misunderstand you.<n>Try opening your heart a little more<n>and letting your good qualities shine!
+
+@1664C max=359
+JP: ねぎ
+EN: Green Onion
+
+@167B4 max=359
+JP: ひとりで自由に飛び回るのが好き<n>なあなたは、ねぎタイプ。周りと<n>ペースを合わせるのは苦手ですが、<n>一旦仲良くなれば深く付き合おう<n>とするのも特徴です。ビジネスで<n>は、きちんと報告、説明すること<n>が、トラブル回避のカギ。
+EN: You're the green onion type!<n>You love roaming freely on your own.<n>Keeping pace with others isn't your forte,<n>but once you make a friend, you want<n>a deep bond. At work, the key to avoiding<n>trouble is keeping people informed<n>and explaining things clearly.
+
+@1691C max=359
+JP: ホウレン草
+EN: Spinach
+
+@16A84 max=359
+JP: 集団行動がちょっと苦手なあなた<n>は、あくのあるホウレン草タイプ。<n>周りからは不機嫌そうに見えるの<n>で、近寄り難いと思われているよ<n>うです。実はとても孤独で、理解<n>者を求めているのですから、時に<n>はプライドも脱ぎ捨てて！
+EN: You're the spinach type, with a bitter edge!<n>Group activities aren't really your thing.<n>People think you look grumpy,<n>which makes you hard to approach.<n>Deep down, you're lonely and wish<n>someone would understand you.<n>Try setting your pride aside sometimes!
+
+@16BEC max=359
+JP: ダイコン
+EN: Daikon Radish
+
+@16D54 max=359
+JP: 誰にでも優しい反面、誰かと親密<n>になるのもあまり好きではないあ<n>なたは、ダイコンタイプ。友人か<n>らあれこれ干渉されるのが嫌いで<n>す。一風変わった人から気に入ら<n>れやすいのはいいのですが、偽善<n>者にだまされないように！
+EN: You're the daikon radish type!<n>You're kind to everyone, but you aren't<n>keen on getting too close to anyone.<n>You dislike friends meddling in your life.<n>Unusual people tend to take a liking to you,<n>which is fine, but beware of being fooled<n>by people who only pretend to be kind!
+
+@16EBC max=359
+JP: きぬさや
+EN: Snow Peas
+
+@17024 max=359
+JP: 控えめで優しく、人に尽くすのが<n>好きなあなたはきぬさやタイプ。<n>わがままな人とでも仲良くできて<n>しまいます。周りの影響を受けや<n>すいので、意地悪な人と付き合っ<n>て、自分もそうならないように注<n>意したいものです。
+EN: You're the snow pea type!<n>Gentle and modest, you love helping others.<n>You can even get along with selfish people.<n>But those around you can easily<n>influence your behavior.<n>Be careful that spending time with mean people<n>doesn't make you mean too!

@@ -1,0 +1,19 @@
+# source: PSP_GAME/USRDIR/data/script/btlpost.scb
+# format: scb
+# width: 44
+
+@5144 max=639
+JP: どのメールを流しますか？
+EN: Which message would you like to send out to sea?
+
+@53C4 max=639
+JP: <BTLTXT><n><BTLDT><n>これでよろしいですか？
+EN: <BTLTXT><n><BTLDT><n>Is this okay?
+
+@5644 max=639
+JP: <STR>宛のボトルメールを<n>海に流した
+EN: Bottle mail to <STR><n>was sent out to sea.
+
+@58C4 max=639
+JP: ボトルメールを<n>海に流した
+EN: Bottle mail<n>was sent out to sea.

@@ -1,0 +1,123 @@
+# source: PSP_GAME/USRDIR/data/newsppr/apr.bin
+# format: rec
+# width: 42
+
+@#0
+JP: ■エイプリルフール：軽い嘘をついても良い<n>とされている日。フランスから始まった説と<n>インドから始まった説がある。<n>■新学年：学生の、年度始めの日。４月１日<n>から翌年の３月３１日を「年度」とする。<n>■トレーニングの日：スポーツ用品メーカー<n>が１９９４年に制定。
+EN: * April Fools' Day: A day when little fibs are fair game.<n>Some say it began in France;<n>others trace it back to India.<n>* New School Year: The start of the school year in Japan.<n>The year runs from April 1 to March 31 of the following year.<n>* Training Day: Established by a sporting goods maker<n>in 1994.
+
+@#1
+JP: ■国際こどもの本の日：デンマークの童話作<n>家、アンデルセンの誕生日にちなんで日本国<n>際児童図書評議会が中心となって制定。<n>■週刊誌の日：１９２２年、「週刊朝日」と<n>「サンデー毎日」が創刊された。<n>■歯列矯正の日：し、れ、つ、の語呂合わせ<n>より、制定。<n>■光太郎忌：詩人、彫刻家の高村光太郎忌日。
+EN: * International Children's Book Day: Named for the birthday of<n>Danish fairy-tale writer Hans Christian Andersen. The Japanese<n>Board on Books for Young People helped establish it.<n>* Weekly Magazine Day: Shukan Asahi and<n>Sunday Mainichi were first published in 1922.<n>* Orthodontics Day: The date's numbers can be read as<n>"shi-re-tsu," a word referring to the alignment of teeth.<n>* Kotaro Memorial Day: Poet and sculptor Kotaro Takamura's death anniversary.
+
+@#2
+JP: ■シーサーの日：し、さん、の語呂合わせ。<n>■いんげん豆の日：１６７３年、いんげん豆<n>を日本に紹介した隠元禅師が亡くなった。<n>■日本橋開通記念日：１９１１年、東京の日<n>本橋が木橋から石橋になった。日本橋には国<n>道の起点として「日本国道路元標」が設置。<n>■悪天の特異日：過去のデータから、天候の<n>悪くなる確立が高い日とされている。
+EN: * Shisa Day: The date sounds like "shisa," Okinawa's guardian lions.<n>* Green Bean Day: In 1673, Zen master Ingen, who introduced<n>these beans to Japan, passed away.<n>* Nihonbashi Bridge Day: In 1911, Tokyo's wooden Nihonbashi<n>was replaced by a stone bridge. It bears Japan's Road Origin Marker,<n>the starting point for the country's national highways.<n>* Bad Weather Date: Past records suggest that bad weather<n>is especially likely on this date.
+
+@#3
+JP: ■沖縄県誕生の日：１８７９年、琉球王国に<n>明治政府が軍隊と警察を投入、首里城を明け<n>渡させた。沖縄県の誕生。<n>■トランスジェンダーの日：１９９９年、性<n>同一性障害者の自助グループを支える人々の<n>会が制定。<n>■あんぱんの日：１８７５年、水戸邸で、明<n>治天皇に木村屋のあんぱんが出された日。
+EN: * Okinawa Prefecture Day: In 1879, the Meiji government sent<n>troops and police into the Ryukyu Kingdom and forced the surrender<n>of Shuri Castle. Okinawa Prefecture was born.<n>* Transgender Day: Established in 1999 by an association<n>supporting self-help groups for people with<n>gender identity disorder.<n>* Anpan Day: In 1875, Kimuraya's sweet bean buns were served<n>to Emperor Meiji at the Mito residence.
+
+@#4
+JP: ■小笠原返還記念日：１９６８年、アメリカ<n>と日本の間で、返還協定が締結した日。<n>■ヘアカットの日：１８７２年、東京府が女<n>性に対し断髪禁止令を出した。<n>■デビューの日：１９５８年の長嶋茂雄デビ<n>ューにちなんでその年デビューした新人にエ<n>ールを送る日とした。<n>■横町の日：よ、こ（５）の語呂合わせ。
+EN: * Ogasawara Return Agreement Day: In 1968, Japan and the US<n>signed an agreement to return the Ogasawara Islands to Japan.<n>* Haircut Day: In 1872, the Tokyo government issued<n>an order banning women from cutting their hair short.<n>* Debut Day: Inspired by Shigeo Nagashima's debut in 1958,<n>this day cheers on newcomers making their debut<n>that year.<n>* Alley Day: A number pun on "yo-ko," from "yokocho," meaning alley.
+
+@#5
+JP: ■北極の日：１９０９年、アメリカのピアリ<n>ーが、世界で初めて北極点に到達した日。<n>■新聞をヨム日：よ、む、の語呂合わせから、<n>日本新聞協会販売委員会が２００３年に制定。<n>■城の日：１９９１年、し、ろ、の語呂合わ<n>せから、姫路市が姫路城を中心とした市の復<n>興の為に制定。<n>■コンビーフの日：缶の形が特許を受けた日。
+EN: * North Pole Day: In 1909, American explorer Robert Peary<n>was credited with being the first to reach the North Pole.<n>* Read a Newspaper Day: The date sounds like "yomu," meaning read.<n>Established in 2003 by the Japan Newspaper Publishers' sales committee.<n>* Castle Day: Established by Himeji in 1991 to help revitalize<n>the city around Himeji Castle. The date can be read as<n>"shi-ro," meaning castle.<n>* Corned Beef Day: The day the distinctive can shape was patented.
+
+@#6
+JP: ■世界保健デー：１９４９年、すべての人々<n>が可能な最高の健康水準に到達することを目<n>的として、世界保健機関が制定。<n>■農林水産省創立記念日：１８８１年、農林<n>水産省の前身、農商務省が設置された。
+EN: * World Health Day: Established in 1949 by the World Health<n>Organization to help everyone achieve the highest<n>possible standard of health.<n>* Agriculture, Forestry and Fisheries Ministry Day: In 1881,<n>its predecessor, the Ministry of Agriculture and Commerce, was founded.
+
+@#7
+JP: ■花祭り：お釈迦様の誕生日とされる日。立<n>像に甘茶を注いでお参りする。<n>■ヴィーナスの日：１８２０年、エーゲ海の<n>ミロス島でヴィーナス像が発掘された。翌年、<n>パリのルーブル美術館が収蔵。<n>■忠犬ハチ公の日：１９３６年から、慰霊祭<n>が行われている日。<n>■参考書の日：学習参考書協会が制定。
+EN: * Flower Festival: The traditional birthday of the Buddha.<n>Worshippers pour sweet tea over a standing statue of him.<n>* Venus Day: In 1820, the Venus de Milo was unearthed<n>on Milos in the Aegean Sea. The following year,<n>it entered the Louvre's collection in Paris.<n>* Faithful Hachiko Day: A memorial service for the loyal dog<n>has been held on this date since 1936.<n>* Study Guide Day: Established by Japan's study guide publishers' association.
+
+@#8
+JP: ■反核燃の日：１９８５年、青森県労働組合<n>が核燃料リサイクル基地建設に反対して制定。<n>■大仏の日：７５２年、奈良、東大寺で大仏<n>開眼供養が行われた日。<n>■左官の日：日本左官業組合連合会が制定し<n>た。<n>■美術展の日：１６６７年、世界初の美術展<n>がパリで開催された日。
+EN: * Anti-Nuclear Fuel Day: Established in 1985 by an Aomori labor<n>union to oppose construction of a nuclear fuel recycling complex.<n>* Great Buddha Day: In 752, the Great Buddha at Todaiji in Nara<n>was consecrated in an eye-opening ceremony.<n>* Plasterers' Day: Established by Japan's national federation<n>of plastering trade associations.<n>* Art Exhibition Day: In 1667, the world's first art exhibition<n>was held in Paris.
+
+@#9
+JP: ■女性の日：１９４９年、労働省（現・厚生<n>労働省）が「婦人の日」として制定。女性の<n>参政権を行使されたことを記念して。<n>■建具の日：４は良い、１０は戸、で良い戸、<n>の語呂合せ。日本建具組合連合会が制定。<n>■ヨットの日：数字の語呂合わせから、ヤマ<n>ハ発動機が制定。<n>■駅弁の日：日本鉄道構内営業中央会が制定。
+EN: * Women's Day: Established in 1949 by the Ministry of Labour,<n>now part of the Ministry of Health, Labour and Welfare, to mark<n>the first time Japanese women exercised their right to vote.<n>* Doors and Fittings Day: Four can mean "good" and ten "door."<n>Established by Japan's national federation of fittings trade associations.<n>* Yacht Day: Established by Yamaha Motor<n>because the date sounds like "yacht" in Japanese.<n>* Station Bento Day: Established by Japan's railway station vendors' association.
+
+@#10
+JP: ■ガッツポーズの日：１９７４年、この日行<n>われたＷＢＣライト級タイトルマッチで、挑<n>戦者のガッツ石松がＫＯ勝ち。その時喜びを<n>表わした姿を、新聞記者が「ガッツポーズ」<n>と表現したのが始まりと言われている。<n>■メートル法公布記念日：１９２１年、法律<n>によりメートル法を使用することが定められ<n>た。
+EN: * Victory Pose Day: In 1974, challenger Guts Ishimatsu<n>won a WBC lightweight title match<n>by knockout on this date. A newspaper reporter<n>called his triumphant celebration a "guts pose,"<n>said to be the origin of Japan's term for a victory pose.<n>* Metric System Proclamation Day: In 1921,<n>a law was passed requiring the use<n>of the metric system.
+
+@#11
+JP: ■世界宇宙飛行の日：１９６１年、世界初の<n>有人宇宙衛星船ボストーク１号、打ち上げに<n>成功。搭乗したガガーリン少佐の「地球は青<n>かった」という言葉が有名。<n>■パンの記念日：パン食普及協議会がに制定。<n>■東京大学創立記念日：１８７７年、東京開<n>成高校と、東京医学校が統合、東京大学が創<n>立。
+EN: * World Spaceflight Day: In 1961, Vostok 1,<n>the world's first crewed spacecraft, was successfully launched.<n>Its pilot, Major Yuri Gagarin, famously said,<n>"The Earth was blue."<n>* Bread Day: Established by a council promoting bread consumption.<n>* University of Tokyo Founding Day: In 1877, Tokyo Kaisei School<n>and Tokyo Medical School merged to establish<n>the University of Tokyo.
+
+@#12
+JP: ■決闘の日：１６１２年のこの日、巌流島で<n>宮本武蔵と佐々木小次郎の決闘が行われた。<n>■喫茶店の日：１８８８年、上野に日本初の<n>喫茶店「可否茶館」開業。<n>■水産デー：大日本水産会が制定。<n>■啄木忌：歌人、石川啄木が肺結核により２<n>７歳で亡くなった。１９１２年没。
+EN: * Duel Day: On this date in 1612, Miyamoto Musashi<n>and Sasaki Kojiro fought their duel on Ganryujima.<n>* Coffee Shop Day: In 1888, Japan's first coffee shop,<n>Kahiichakan, opened in Ueno.<n>* Fisheries Day: Established by the Japan Fisheries Association.<n>* Takuboku Memorial Day: Poet Ishikawa Takuboku died of<n>tuberculosis in 1912, aged 27 by traditional Japanese reckoning.
+
+@#13
+JP: ■タイタニック号の日：１９１２年、イギリ<n>スを出発した豪華客船タイタニック号がニュ<n>ーファンドランド沖で氷山に衝突して沈没。<n>■オレンジデー：バレンタイン、ホワイトデ<n>ーで結ばれた二人の愛情を確かなものとする<n>日。オレンジ色のプレゼントを持って相手を<n>訪問する。
+EN: * Titanic Day: In 1912, the luxury liner Titanic,<n>having set sail from Britain, struck an iceberg<n>off Newfoundland and sank.<n>* Orange Day: A day for couples brought together<n>by Valentine's Day and White Day to strengthen<n>their love. Visit your sweetheart<n>with an orange-colored gift!
+
+@#14
+JP: ■象供養の日：象牙を扱う、東京象牙美術工<n>芸協同組合制定。<n>■ヘリコプターの日：ヘリコプターの原理を<n>考え出したレオナルド・ダ・ビンチの誕生日。<n>全日本航空事業連合会が制定。<n>■よいこの日：数字との語呂合わせから。<n>■遺言の日：数字の語呂合わせから近畿弁護<n>士会連合会が制定。
+EN: * Elephant Memorial Day: Established by the Tokyo ivory art<n>and craft cooperative, whose members work with ivory.<n>* Helicopter Day: The birthday of Leonardo da Vinci,<n>who devised an early helicopter concept.<n>Established by the All Japan Air Transport and Service Association.<n>* Good Children Day: A number pun on "yo-i-ko," meaning good child.<n>* Will Day: Established by the Kinki Federation of Bar Associations<n>because the date sounds like "yuigon," meaning a will.
+
+@#15
+JP: ■チャップリンデー：１８８９年、世界的喜<n>劇俳優チャップリンの誕生日。<n>■女子マラソンの日：１９７８年、日本初の<n>女子フルマラソンの大会が多摩湖畔で開催。<n>■国民年金法公布記念日：１９５９年、「国<n>民年金法」が公布された。<n>■康成忌：小説家の川端康成、１９７２年の<n>忌日。
+EN: * Chaplin Day: The birthday of world-famous comic actor<n>Charlie Chaplin, born in 1889.<n>* Women's Marathon Day: In 1978, Japan's first women's<n>full marathon was held beside Lake Tama.<n>* National Pension Act Proclamation Day: In 1959,<n>the National Pension Act was proclaimed.<n>* Yasunari Memorial Day: The anniversary of novelist<n>Yasunari Kawabata's death in 1972.
+
+@#16
+JP: ■恐竜の日：１９２３年、アメリカの動物学<n>者アンドルーズが旅行中に、恐竜の卵の化石<n>を世界で初めて発見、恐竜研究の始りに。<n>■ハローワークの日：１９４７年、それまで<n>の職業紹介所が「公共職業安定所」と名前を<n>改めた日。現在は「ハローワーク」。<n>■家康忌：徳川家康の忌日。
+EN: * Dinosaur Day: In 1923, American zoologist Roy Chapman Andrews<n>discovered the world's first fossilized dinosaur eggs on an expedition,<n>marking the beginning of dinosaur research.<n>* Hello Work Day: In 1947, Japan's job placement offices<n>were renamed Public Employment Security Offices.<n>Today, they are known as "Hello Work."<n>* Ieyasu Memorial Day: The anniversary of Tokugawa Ieyasu's death.
+
+@#17
+JP: ■発明の日：１９５４年に制定。１８８５年、<n>現在の特許法の元となる「専売特許条例」が<n>公布された日。<n>■よい歯の日：よ、い、は、の語呂合わせか<n>ら日本歯科医師会が制定。<n>■世界アマチュア無線の日：１９２５年、ソ<n>ルボンヌ大学で世界アマチュア無線連合が創<n>設された。
+EN: * Invention Day: Established in 1954. On this date in 1885,<n>the Patent Monopoly Act, the foundation of Japan's<n>current patent law, was proclaimed.<n>* Healthy Teeth Day: The date sounds like "yo-i-ha," meaning<n>good teeth. Established by the Japan Dental Association.<n>* World Amateur Radio Day: In 1925, the International<n>Amateur Radio Union was founded<n>at the Sorbonne.
+
+@#18
+JP: ■地図の日：１８００年４月１９日、伊能忠<n>敬が蝦夷地の測量に出発したことより。<n>■乗馬許可記念日：１８７１年、庶民が馬に<n>乗ることを許可された日。
+EN: * Map Day: On April 19, 1800, surveyor Ino Tadataka<n>set out to map Ezo, now known as Hokkaido.<n>* Horse Riding Permission Day: In 1871, ordinary people<n>were granted permission to ride horses.
+
+@#19
+JP: ■郵政記念日：逓信省（現・日本郵政公社）<n>が１９３４年に「逓信記念日」として制定。<n>その後名称が二転三転するが、現在は郵政記<n>念日として定着。<n>■青年海外協力隊の日：１９６５年、青年海<n>外協力隊、発足。<n>■女子大の日：１９０１年、日本初の女子大<n>学（現・日本女子大学）が開学。
+EN: * Postal Service Day: Established as "Communications Day"<n>in 1934 by the Ministry of Communications, a predecessor of Japan Post.<n>The name changed several times before<n>settling on Postal Service Day.<n>* Overseas Cooperation Volunteers Day: In 1965, the Japan<n>Overseas Cooperation Volunteers program was launched.<n>* Women's University Day: In 1901, Japan's first women's<n>university, now Japan Women's University, opened.
+
+@#20
+JP: ■民放の日：日本民間放送連盟が１９６８年<n>に「放送広告の日」として制定、その後１９<n>９３年に「民放の日」に改称。
+EN: * Commercial Broadcasting Day: Established in 1968 as "Broadcast<n>Advertising Day" by the Japan Commercial Broadcasters Association.<n>Renamed "Commercial Broadcasting Day" in 1993.
+
+@#21
+JP: ■アースデー：アースデー世界協議会等が主<n>催。地球全体の環境をまもる為、行動を起こ<n>す日。<n>■よい夫婦の日：数字の語呂合わせから講談<n>社が制定。<n>■清掃デー：１９５４年、清掃法が制定され<n>たことを記念して。
+EN: * Earth Day: Organized by the Earth Day World Council and others.<n>A day to take action to protect<n>the environment of our whole planet.<n>* Happy Couples Day: Established by publisher Kodansha<n>because the date sounds like "good couple" in Japanese.<n>* Cleanup Day: Marks the enactment of Japan's Public Cleansing Act in 1954.
+
+@#22
+JP: ■地ビールの日：日本地ビール協会が中心と<n>なった「地ビールの日選考委員会」で制定。<n>■こども読書の日：こどもの読書活動に理解<n>を深め、積極的に読書活動を行えるよう導く<n>ために、文部科学省が実施している。<n>■国際マルコーニデー：世界で初めて無線に<n>よる通信を行ったマルコーニを記念する日と<n>して制定された。
+EN: * Craft Beer Day: Established by a selection committee<n>led by the Japan Craft Beer Association.<n>* Children's Reading Day: Promoted by Japan's Ministry of Education<n>to raise awareness of children's reading<n>and encourage children to enjoy books.<n>* International Marconi Day: Established to honor<n>Guglielmo Marconi, the first person to communicate<n>using radio.
+
+@#23
+JP: ■日本ダービー記念日：１９３２年、目黒競<n>馬場で日本初のダービーが開催された日。<n>■寒の戻りの特異日：過去のデータから、寒<n>の戻りが起こる確率の高い日とされている。<n>■植物学の日：植物学の父と呼ばれた植物分<n>類学者の牧野富太郎の誕生日にちなんで。
+EN: * Japanese Derby Day: In 1932, Japan's first derby<n>was held at Meguro Racecourse.<n>* Cold Snap Date: Past weather records suggest<n>that a return to chilly weather is especially likely on this date.<n>* Botany Day: The birthday of plant taxonomist Tomitaro Makino,<n>known as the father of Japanese botany.
+
+@#24
+JP: ■国連記念日：１９４５年、連合国５０国代<n>表による会議がサンフランシスコで開催、国<n>連憲章が採択された。<n>■ギロチンの日：１７９２年、フランスでギ<n>ロチンが実用化された日。<n>■歩道橋の日：１９６３年、大阪駅前に日本<n>初の横断歩道橋が完成した日。
+EN: - United Nations Commemoration Day: In 1945,<n>representatives of 50 Allied nations met in San Francisco,<n>where the UN Charter was adopted.<n>- Guillotine Day: Marks the day in 1792 when<n>the guillotine first went into use in France.<n>- Pedestrian Bridge Day: Marks the completion of Japan's<n>first pedestrian overpass, outside Osaka Station in 1963.
+
+@#25
+JP: ■リメンバー・チェルノブイリ・デー：１９<n>８６年、ウクライナで発生した史上最悪の原<n>発事故を記憶する意味で制定。<n>■よい風呂の日：数字の語呂合わせから。
+EN: - Remember Chernobyl Day: Commemorates the world's<n>worst nuclear power plant accident, which occurred<n>in Ukraine in 1986.<n>- Nice Bath Day: A number pun on yoi furo, 'a nice bath.'
+
+@#26
+JP: ■哲学の日：紀元前３９９年、ギリシアの哲<n>学者、ソクラテスが死刑宣告を受け、刑の執<n>行として獄中で毒を飲んで亡くなった日。<n>■悪妻の日：ソクラテスの妻が悪妻で有名だ<n>ったことを受けて。<n>■婦人警官記念日：１９４６年、日本初の婦<n>人警官６２人が警視庁で勤務に就いた日。<n>■ロープデー：数字の語呂合わせで、良い綱。
+EN: - Philosophy Day: Marks the day in 399 BC when the Greek<n>philosopher Socrates, sentenced to death, drank poison<n>in prison and died.<n>- Bad Wife Day: Inspired by Socrates' wife,<n>who was famously difficult.<n>- Policewomen's Day: In 1946, Japan's first 62 policewomen<n>began work at the Tokyo Metropolitan Police Department.<n>- Rope Day: A number pun on yoi tsuna, 'a good rope.'
+
+@#27
+JP: ■缶ジュース発売記念日：１９５４年、日本<n>初の缶ジュース、明治オレンジジュースが発<n>売となった。<n>■シニアの日：し、に、や、の語呂合わせ。<n>■サンフランシスコ平和条約発効記念日：１<n>９５２年、前年に調印されたサンフランシス<n>コ平和条約が発効し、日本の主権が回復、国<n>際社会に復帰した日。
+EN: - Canned Juice Day: In 1954, Japan's first canned juice,<n>Meiji Orange Juice,<n>went on sale.<n>- Senior Day: A number pun on shi-ni-ya, Japanese for 'senior.'<n>- San Francisco Peace Treaty Day: In 1952,<n>the treaty signed the previous year took effect,<n>restoring Japan's sovereignty and marking its return<n>to the international community.
+
+@#28
+JP: ■みどりの日：生物学者であり自然を愛した<n>昭和天皇をしのぶ日として、天皇誕生日を祝<n>日とした。<n>■畳の日：全国畳産業振興会が制定。<n>■羊肉の日：２００４年、北海道のジンギス<n>カン食普及拡大促進協議会が制定。<n>■エメラルドの日：コロンビアエメラルド輸<n>入協会が制定。
+EN: - Greenery Day: The birthday of Emperor Showa became<n>a holiday honoring his memory as a biologist<n>and lover of nature.<n>- Tatami Day: Established by Japan's tatami industry association.<n>- Lamb Day: Established in 2004 by a Hokkaido council<n>promoting jingisukan, a grilled mutton dish.<n>- Emerald Day: Established by the<n>Colombian Emerald Importers Association.
+
+@#29
+JP: ■図書館記念日：１９７１年の全国図書館大<n>会で決定、日本図書館協会が翌年から実施。
+EN: - Library Day: Adopted at the 1971 National Library Conference.<n>The Japan Library Association began observing it the following year.

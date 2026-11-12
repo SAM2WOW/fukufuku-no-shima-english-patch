@@ -1,0 +1,123 @@
+# source: PSP_GAME/USRDIR/data/newsppr/nov.bin
+# format: rec
+# width: 42
+
+@#0
+JP: ■点字記念日：１８９０年、日本点字選定会<n>で日本語用の点字が決められた。<n>■全国すしの日：１９６１年、全国すし商環<n>境衛生同業組合連合会が制定。<n>■灯台記念日：観音崎の日本最初の洋式灯台<n>が着工されたことを記念。<n>■犬の日：ペットフード工業会などが制定。<n>「ワン・ワン・ワン」の鳴き声から。
+EN: - Braille Day: In 1890, a Japanese braille committee<n>selected the braille system for Japanese.<n>- National Sushi Day: Established in 1961 by<n>Japan's national federation of sushi trade associations.<n>- Lighthouse Day: Marks the start of construction<n>on Japan's first Western-style lighthouse at Kannonzaki.<n>- Dog Day: Established by the pet food industry and others.<n>The date, 11/1, sounds like "wan, wan, wan": "woof, woof, woof"!
+
+@#1
+JP: ■阪神タイガース記念日：タイガース後援会<n>等が制定。球団創設以来、初めて日本一にな<n>ったことを記念した日。<n>■万霊節：キリスト教で、この世を去ったす<n>べての信徒を記念する日。<n>■白秋忌：詩人、北原白秋の忌日。
+EN: - Hanshin Tigers Day: Established by the team's supporters<n>and others to celebrate the Tigers winning their first-ever<n>Japanese championship.<n>- All Souls' Day: A Christian observance commemorating<n>all the faithful who have died.<n>- Hakushu Memorial Day: The anniversary of poet Hakushu Kitahara's death.
+
+@#2
+JP: ■文化の日：１９４８年制定の国民の祝日。<n>■レコードの日：日本レコード協会、制定。<n>■文具の日：東京文具事務用品商業組合ら文<n>具業界が制定。<n>■サンドウィッチの日：サンドウィッチの生<n>みの親、サンドウィッチ伯爵の誕生日。<n>■ゴジラの日：第１作目が封切られた日。<n>■まんがの日：２００２年、制定。
+EN: - Culture Day: A national holiday established in 1948.<n>- Record Day: Established by the Recording Industry Association of Japan.<n>- Stationery Day: Established by stationery industry groups,<n>including Tokyo's stationery and office supplies trade association.<n>- Sandwich Day: The birthday of the Earl of Sandwich,<n>credited with inventing the sandwich.<n>- Godzilla Day: The date the first Godzilla film opened.<n>- Manga Day: Established in 2002.
+
+@#3
+JP: ■ユネスコ憲章記念日：１９４６年、ユネス<n>コ憲章が発効し、国連教育科学文化機関が発<n>足。日本は１９５１年に加盟。
+EN: - UNESCO Constitution Day: In 1946, UNESCO's constitution<n>came into force, launching the United Nations Educational,<n>Scientific and Cultural Organization. Japan joined in 1951.
+
+@#4
+JP: ■電報の日：電報を電話で申し込む時の番号<n>「１１５」から制定。<n>■いいりんごの日：青森県が２００１年に制<n>定。「いい（１１）りんご（５）」。<n>■雑誌広告の日：日本雑誌広告協会が１９７<n>０年に制定。雑誌広告の信頼を高めることを<n>目的としている。
+EN: - Telegram Day: Chosen because 115 is the phone number<n>used to request a telegram in Japan.<n>- Good Apple Day: Established by Aomori Prefecture in 2001.<n>A pun on 11/5 and ii ringo, meaning "good apples."<n>- Magazine Advertising Day: Established in 1970 by<n>the Japan Magazine Advertising Association to build<n>public trust in magazine advertising.
+
+@#5
+JP: ■アパート記念日：１９１０年、東京、上野<n>に日本初の木造アパート、「上野倶楽部」が<n>完成したことを記念して。<n>■お見合い記念日：１９４７年、結婚紹介雑<n>誌「希望」が東京の多摩川河畔で集団お見合<n>いが開催したことを記念。<n>■馬琴忌：「南総里見八犬伝」の作者、戯作<n>者、滝沢馬琴の命日。
+EN: - Apartment Day: In 1910, Japan's first wooden apartment<n>building, the Ueno Club, was completed in Ueno, Tokyo.<n>This day commemorates its completion.<n>- Matchmaking Day: In 1947, the matchmaking magazine Kibo<n>held a group matchmaking event on the banks of Tokyo's Tama River.<n>This day commemorates that gathering.<n>- Bakin Memorial Day: The anniversary of the death of Takizawa Bakin,<n>the author of Nanso Satomi Hakkenden.
+
+@#6
+JP: ■知恵の日：１９８８年、朝日新聞社が「朝<n>日現代用語知恵蔵」発刊の時に制定。<n>■鍋の日：食品メーカーのヤマキが制定。<n>■ロシア革命記念日：１９１７年、レーニン<n>が指導するボルシェビキが武装蜂起。首都ペ<n>テログラードを占拠、ケレンスキー内閣を倒<n>し、歴史上初めて社会主義政府を実現。
+EN: - Wisdom Day: Established by the Asahi Shimbun in 1988<n>when it launched Chiezo, its encyclopedia of current terms.<n>- Hot Pot Day: Established by food manufacturer Yamaki.<n>- Russian Revolution Day: In 1917, Lenin's Bolsheviks<n>staged an armed uprising, seized the capital, Petrograd,<n>and overthrew Kerensky's government, establishing<n>the first socialist government in history.
+
+@#7
+JP: ■レントゲンの日：１８９５年、ドイツの物<n>理学者、レントゲンがＸ線を発見。<n>■いい歯の日：日本歯科医師会が制定。数字<n>の語呂合わせより。<n>■刃物の日：ハサミや包丁を商う業界団体が、<n>数字の語呂合わせから制定。<n>■世界都市計画の日：１９４９年、都市計画<n>学者のパオレラ教授が定めた。
+EN: - X-ray Day: In 1895, the German physicist<n>Roentgen discovered X-rays.<n>- Good Teeth Day: Established by the Japan Dental Association.<n>The date is a Japanese number pun.<n>- Blades Day: Established by trade groups selling scissors<n>and kitchen knives, based on another number pun.<n>- World Town Planning Day: Established in 1949<n>by Professor Paolera, a town planning scholar.
+
+@#8
+JP: ■ベルリンの壁崩壊の日：１９８９年、西ベ<n>ルリンを囲んでいた壁が取り壊され東西ドイ<n>ツが統一された。<n>■１１９番の日：消防庁が消防発足４０年を<n>記念して制定。<n>■太陽暦採用記念日：太陽暦を採用するとい<n>う詔書が布告されたことによる。<n>■換気の日：日本電機工業会が制定。
+EN: - Fall of the Berlin Wall Day: In 1989, the wall<n>surrounding West Berlin was torn down, bringing<n>East and West Germany together.<n>- 119 Day: Established by the Fire and Disaster Management Agency<n>to mark 40 years of Japan's modern fire services.<n>- Solar Calendar Adoption Day: Marks the proclamation<n>announcing Japan's adoption of the solar calendar.<n>- Ventilation Day: Established by the Japan Electrical Manufacturers' Association.
+
+@#9
+JP: ■トイレの日：１９８６年、日本トイレ協会<n>が制定。<n>■エレベーターの日：１８９０年、浅草の凌<n>雲閣で、日本初の電動エレベーターが公開。<n>■技能の日：１９７０年、アジアで初の技能<n>オリンピックが東京で開幕。<n>■肢体不自由児愛護の日：１９５３年、肢体<n>不自由児協会の主唱で始められた。
+EN: - Toilet Day: Established in 1986<n>by the Japan Toilet Association.<n>- Elevator Day: In 1890, Japan's first electric elevator<n>opened to the public at the Ryounkaku tower in Asakusa.<n>- Skills Day: In 1970, Tokyo hosted the opening<n>of Asia's first International Vocational Training Competition.<n>- Day for Children with Physical Disabilities: Begun in 1953<n>at the urging of Japan's association supporting these children.
+
+@#10
+JP: ■世界平和記念日：第一次世界大戦の終戦記<n>念日。<n>■サッカーの日：エスポートミズノが制定。<n>■おりがみの日：日本折紙協会が制定。<n>■ピーナッツの日：全国落花生協会が制定。<n>■チーズの日：１９９２年に制定。<n>■電池の日：日本乾電池工業会が制定。<n>■配線器具の日：日本配線器具工業会制定。
+EN: - World Peace Day: Commemorates<n>the end of World War I.<n>- Soccer Day: Established by Esport Mizuno.<n>- Origami Day: Established by the Nippon Origami Association.<n>- Peanut Day: Established by Japan's national peanut association.<n>- Cheese Day: Established in 1992.<n>- Battery Day: Established by the Japan Dry Battery Industry Association.<n>- Wiring Devices Day: Established by the Japan Wiring Devices Industry Association.
+
+@#11
+JP: ■洋服記念日：１８７２年、「礼服ニハ洋服<n>ヲ採用ス」という太政官布告が発布されたこ<n>とを記念。全日本洋服協同組合連合会が制定。<n>■皮膚の日：日本臨床皮膚科医学会が制定。
+EN: - Western Clothing Day: Marks an 1872 government proclamation<n>adopting Western clothing as formal dress. Established by<n>Japan's national federation of clothing cooperatives.<n>- Skin Day: Established by the Japan Organization of Clinical Dermatologists.
+
+@#12
+JP: ■うるしの日：日本漆工芸協会が１９８５年<n>に制定。惟喬親王が、嵐山の法輪寺に参詣し<n>漆の製法を菩薩から伝授したのがこの日、と<n>される伝説から。
+EN: - Lacquer Day: Established in 1985 by Japan's lacquer crafts association.<n>Legend says that on this day, Prince Koretaka visited<n>Horinji Temple in Arashiyama, where a bodhisattva<n>taught him how to make lacquer.
+
+@#13
+JP: ■いい石の日：山梨県石材加工業協同組合が<n>数字の語呂合わせなどから１９９９年に制定。<n>■パチンコの日：１９６６年、パチンコ業者<n>の全国遊技業協同組合連合会が発足したこと<n>にちなんで制定。<n>■ウーマンリブの日：１９７０年、渋谷で日<n>本初のウーマンリブの大会が開催。<n>■盛人の日：日本ベテランズ倶楽部が制定。
+EN: - Good Stone Day: Established in 1999 by Yamanashi's stoneworking<n>cooperative, partly because of a Japanese number pun.<n>- Pachinko Day: Marks the founding in 1966<n>of Japan's national federation of pachinko business<n>cooperatives.<n>- Women's Liberation Day: In 1970, Japan's first women's<n>liberation convention was held in Shibuya.<n>- Mature Adults' Day: Established by the Japan Veterans Club.
+
+@#14
+JP: ■七五三：数え年で男子は３、５歳、女子は<n>３歳と７歳のとき、成長を祝い神社に参詣。<n>■かまぼこの日：かまぼこ業者が制定。<n>■きものの日：全日本きもの振興会、制定。<n>■昆布の日：日本昆布協会が制定。<n>■生コンクリート記念日：全国生コンクリー<n>ト工業組合連合会が制定。
+EN: - Shichi-Go-San: Boys aged three and five and girls aged three and seven,<n>by traditional age counting, visit shrines to celebrate growing up.<n>- Kamaboko Day: Established by makers of these fish cakes.<n>- Kimono Day: Established by the All Japan Kimono Promotion Association.<n>- Kelp Day: Established by the Japan Kelp Association.<n>- Ready-Mixed Concrete Day: Established by Japan's national<n>federation of ready-mixed concrete industry cooperatives.
+
+@#15
+JP: ■幼稚園記念日：１８７６年、日本初の官立<n>幼稚園、東京女子師範学校付属幼稚園が神田<n>に開園。<n>■国際寛容デー：１９９６年、国連で制定。<n>■いいいろ塗装の日：日本塗装工業会が制定。<n>■いい色の日：愛知県の塗装・塗料業界団体<n>「愛知昭和会」が制定。
+EN: - Kindergarten Day: In 1876, Japan's first government-run<n>kindergarten opened in Kanda. It was attached to<n>Tokyo Women's Normal School.<n>- International Day for Tolerance: Established by the UN in 1996.<n>- Good Paintwork Day: Established by the Japan Painting Contractors Association.<n>- Good Color Day: Established by Aichi Showakai,<n>an association of painting and paint businesses in Aichi Prefecture.
+
+@#16
+JP: ■ドラフト記念日：１９６５年、第１回プロ<n>野球新人選択会議（ドラフト会議）が開かれ<n>た。<n>■将棋の日：八代将軍徳川吉宗が、この日を<n>「お城将棋の日」と定め、御前対局を行わせ<n>たという史実に基づき、日本将棋連盟が制定。<n>■蓮根の日：茨城県土浦市で開催された「蓮<n>根サミット」で制定。
+EN: - Draft Day: In 1965, Japan's first professional<n>baseball draft meeting was held to select<n>new players.<n>- Shogi Day: Established by the Japan Shogi Association.<n>The eighth shogun, Tokugawa Yoshimune, designated this date<n>as Castle Shogi Day and had matches played in his presence.<n>- Lotus Root Day: Established at the Lotus Root Summit<n>held in Tsuchiura, Ibaraki Prefecture.
+
+@#17
+JP: ■ミッキーマウスの誕生日：１９２８年、ニ<n>ューヨークでミッキーマウスが登場する短編<n>アニメーション「蒸気船ウィリー」が初めて<n>公開。<n>■土木の日：日本工学会が設定。<n>■もりとふるさとの日：国土保全奨励制度全<n>国研究協議会が制定。
+EN: - Mickey Mouse's Birthday: In 1928, Steamboat Willie,<n>the animated short featuring Mickey Mouse,<n>was shown for the first time<n>in New York.<n>- Civil Engineering Day: Established by the Japan Federation of Engineering Societies.<n>- Forests and Hometowns Day: Established by Japan's national<n>research council for the land conservation incentive program.
+
+@#18
+JP: ■鉄道電化の日：鉄道電化協会が制定。<n>■農業共同組合法公布記念日：全国農業協同<n>組合中央会、制定。農業協同組合法を記念。<n>■緑のおばさんの日：１９５９年、通学する<n>児童を交通事故から守るための学童擁護員、<n>緑のおばさんの制度が開始した。<n>■ペレの日：ブラジル・サンパウロ市郊外の<n>サントス市が１９９５年に制定。
+EN: - Railway Electrification Day: Established by the Railway Electrification Association.<n>- Agricultural Cooperatives Act Anniversary: Established by<n>the Central Union of Agricultural Cooperatives to mark the act's promulgation.<n>- Green Ladies' Day: In 1959, Japan introduced<n>the "Green Ladies," crossing guards who protected<n>children from traffic accidents on their way to school.<n>- Pele Day: Established in 1995 by Santos,<n>a city near Sao Paulo, Brazil.
+
+@#19
+JP: ■世界のこどもの日：１９５４年、国連総会<n>で制定。国際デーの一つ。<n>■産業教育記念日：１８８４年、「商業学校<n>通則」が制定、日本の産業教育制度が創設。<n>■毛皮の日：日本原毛皮協会、設定。<n>■ホテルの日：１８９０年、帝国ホテル開業。<n>■ピザの日：凸版印刷が制定。<n>■行政相談委員の日：１９６１年、制定。
+EN: - Universal Children's Day: Established by the UN General Assembly<n>in 1954 as an international observance.<n>- Vocational Education Day: In 1884, regulations for commercial schools<n>were enacted, creating Japan's vocational education system.<n>- Fur Day: Established by the Japan Raw Fur Association.<n>- Hotel Day: In 1890, the Imperial Hotel opened.<n>- Pizza Day: Established by Toppan Printing.<n>- Administrative Counselors' Day: Established in 1961.
+
+@#20
+JP: ■世界テレビデー：１９９６年、国連で制定。<n>■歌舞伎座開業記念日：１８８９年に木挽町<n>（現在の東銀座）に歌舞伎座が開場。<n>■インターネット記念日：１９６９年にイン<n>ターネットの元型の公開実験が行われた。<n>■フライドチキンの日：１９７０年、第１号<n>店がオープン。<n>■早慶戦の日：１９０３年、初の「早慶戦」。
+EN: - World Television Day: Established by the UN in 1996.<n>- Kabukiza Opening Anniversary: In 1889, the Kabukiza theater<n>opened in Kobikicho, now Higashi-Ginza.<n>- Internet Day: In 1969, a public trial<n>of the Internet's forerunner took place.<n>- Fried Chicken Day: In 1970,<n>the first shop opened.<n>- Waseda-Keio Game Day: In 1903, the first Waseda-Keio game was played.
+
+@#21
+JP: ■長野県りんごの日：ＪＡ長野県経済連等が<n>制定。<n>■いい夫婦の日：いいふうふ、の語呂合わせ<n>から通産省と余暇開発センターが提唱。<n>■ボタンの日：全国ボタン興業連合会が１９<n>８７年に制定。<n>■大工さんの日：日本建築大工技能士会が制<n>定。大工の神様とされる聖徳太子の命日。
+EN: - Nagano Apple Day: Established by the Nagano prefectural<n>agricultural cooperative federation and others.<n>- Happy Couples Day: Proposed by Japan's trade ministry and Leisure<n>Development Center. The date sounds like ii fufu, "a happy couple."<n>- Button Day: Established in 1987<n>by Japan's national button industry federation.<n>- Carpenters' Day: Established by the Japan Carpenters Association.<n>Marks the death of Prince Shotoku, regarded as the patron deity of carpenters.
+
+@#22
+JP: ■勤労感謝の日：国民の祝日。<n>■ゲームの日：全日本アミューズメント施設<n>営業者協会連合会などが制定。<n>■Ｊリーグの日：１９９２年、Ｊリーグ初の<n>公式戦の決勝戦が行われたことを記念。<n>■いいふみの日：郵政省が制定。<n>■外食の日：１９８４年制定。<n>■手袋の日：日本手袋工業組合が制定。
+EN: - Labor Thanksgiving Day: A national holiday.<n>- Game Day: Established by Japan's national federation<n>of amusement facility operators and other groups.<n>- J.League Day: Commemorates the final of the J.League's<n>first official tournament, held in 1992.<n>- Good Letter Day: Established by the Ministry of Posts and Telecommunications.<n>- Dining Out Day: Established in 1984.<n>- Gloves Day: Established by the Japan Gloves Industry Association.
+
+@#23
+JP: ■東京天文台設置記念日：１９２１年、東京<n>都麻布に東京天文台が設置されたことを記念。<n>■オペラ記念日：１８９４年、東京音楽学校、<n>奏楽堂で初めてオペラ「ファウスト」が上演<n>されたことを記念して制定。<n>■鰹節の日：食品メーカーのヤマキが「い<n>（１）い（１）ふ（２）し（４）」の語呂合<n>せから制定。
+EN: - Tokyo Astronomical Observatory Day: Commemorates its establishment<n>in Azabu, Tokyo, in 1921.<n>- Opera Day: In 1894, Faust was performed<n>for the first time at Sogakudo Hall at the Tokyo Music School.<n>This day commemorates that performance.<n>- Dried Bonito Day: Established by food manufacturer Yamaki.<n>The digits 1-1-2-4 can be read as ii fushi,<n>a pun suggesting "good bonito flakes."
+
+@#24
+JP: ■ＯＬの日：ＯＬネットワークシステムが１<n>９９４年に制定。<n>■ハイビジョンの日：郵政省、ＮＨＫなどが<n>ハイビジョンの普及を図るために制定。<n>■女性に対する暴力廃絶のための国際デー：<n>１９９９年、国連総会で制定。
+EN: * Office Ladies' Day: Established by the OL Network System<n>in 1994.<n>* HDTV Day: Established by the Ministry of Posts and Telecommunications,<n>NHK and others to promote high-definition TV.<n>* International Day for the Elimination of Violence against Women:<n>Established by the UN General Assembly in 1999.
+
+@#25
+JP: ■ペンの日：１９３５年、日本ペンクラブが<n>創立されたことを記念して制定。
+EN: * Pen Day: Commemorates the founding of the Japan PEN Club<n>in 1935.
+
+@#26
+JP: ■ノーベル賞制定記念日：１９０１年、ノー<n>ベル賞の第１回授賞式が行われた日。<n>■更正保護記念日：１９５２年、東京、日比<n>谷で更正保護大会が開かれたことにちなんで。<n>■いい鮒の日：茨城県の古河鮒甘露煮組合が<n>制定。いいふな、の語呂合わせから。
+EN: * Nobel Prize Anniversary: Marks the first Nobel Prize<n>award ceremony, held in 1901.<n>* Offender Rehabilitation Day: Commemorates a rehabilitation convention<n>held in Hibiya, Tokyo, in 1952.<n>* Good Crucian Carp Day: Established by the Koga Sweet-Simmered Crucian Carp Association in Ibaraki.<n>The date is a pun on 'ii funa,' meaning 'good crucian carp.'
+
+@#27
+JP: ■太平洋記念日：１５２０年、ポルトガルの<n>航海者マゼランが、マゼラン海峡を通過し世<n>界一周を達成。<n>■税関記念日：１８７２年、長崎・横浜・函<n>館に設けられていた海外貿易を扱う運上所が<n>税関と改称された。
+EN: * Pacific Ocean Day: In 1520, Portuguese navigator Magellan<n>passed through the Strait of Magellan and completed<n>his voyage around the world.<n>* Customs Day: In 1872, the offices handling overseas trade<n>in Nagasaki, Yokohama and Hakodate<n>were renamed customs houses.
+
+@#28
+JP: ■議会開設記念日：１８９０年、第一回帝国<n>議会が開会されたことを記念して制定。<n>■いい服の日：数字の語呂合わせから制定。<n>■パレスチナ人民連帯国際デー：１９７７年<n>の国連総会で制定。国際デーの一つ。
+EN: * Parliament Opening Day: Commemorates the opening of the first Imperial Diet<n>in 1890.<n>* Nice Clothes Day: The date is Japanese wordplay for 'nice clothes.'<n>* International Day of Solidarity with the Palestinian People: An international observance<n>established by the UN General Assembly in 1977.
+
+@#29
+JP: ■カメラの日：１９７７年、小西六写真工業<n>が世界初のオートフォーカスカメラを発売し<n>たことを記念。<n>■鏡の日：「いい（１１）ミラー（３０）」<n>の語呂合わせ。<n>■シルバーラブの日：１９４８年、歌人の川<n>田順の不倫の恋から。のち、川田が詠んだ歌<n>の中の一節「老いらくの恋」が流行語に。
+EN: * Camera Day: Commemorates Konishiroku Photo Industry's release<n>of the world's first autofocus camera<n>in 1977.<n>* Mirror Day: Japanese number wordplay turns 11 into 'ii' (good)<n>and 30 into 'miraa' (mirror).<n>* Late-Life Love Day: Inspired by poet Jun Kawada's affair<n>in 1948. A phrase from a poem he later wrote,<n>'love in old age,' became a popular saying.

@@ -1,0 +1,95 @@
+# source: PSP_GAME/USRDIR/data/script/stone.scb
+# format: scb
+# width: 44
+
+@5144 max=639
+JP: 表示したいテキストのIDを入力してください。
+EN: 
+
+@14E64 max=639
+JP: 「賢者マリアローラの歌うアドバイス！」<p>ラララ　ラララ　ラララララ～<n>仕事の運が　高いとね～<p>お店の品物　ふえちゃって～<n>釣りも　きっと　うまくゆく～<p>野原の岩を　壊したときも～<n>たくさん　オカネが　もらえるの～<p>ラララ　ラララ　ラララララ～<n>仕事の運を　上げましょね～
+EN: "Sage Maria Laura's Advice in Song!"<p>La la la, la la la, la la la la!<n>When your work luck's riding high...<p>Shops have more for you to buy!<n>Fishing should go swimmingly too!<p>Smash a rock out in the meadows,<n>and lots of cash will come to you!<p>La la la, la la la, la la la la!<n>Give your work luck a boost today!
+
+@150E4 max=639
+JP: 「賢者ヒヨピンの幸運バンザイ！」<p>１　ペンギンのあてずっぽう万歳！に勝ちたいなら<n>金銭運を上げてみるとええでえ！<p>２　健康運を上げとくと　体力にかんする<n>いろんなことが有利になるでえ！<p>３　幸運アイテムは持ってるだけじゃアカン！<n>力を解放するんや！<p>その日の運が大アップするでえ！<n>使い捨てやけどな…<p>４　ワシの子孫　ヒヨピーのスタンプ<n>いっぱい集めてや！ほな！
+EN: "Sage Hiyopin's Hooray for Luck!"<p>1. Wanna win the penguins' Hooray for Guesswork?<n>Try boosting your money luck!<p>2. Boost your health luck and you'll get<n>all sorts of perks involving stamina!<p>3. Just owning lucky items won't cut it!<n>Ya gotta unleash their power!<p>Your luck that day will skyrocket!<n>One use per item, though...<p>4. Collect plenty of stamps from my<n>descendant Hiyopi! Catch ya later!
+
+@15364 max=639
+JP: 「賢者マリアラのバラード！」<p>ルールルル～　ルールルル～<n>対人運～　ああ　対人運～<p>高いと　池で　いいものが～<n>もらえる気がする　対人運なの～<p>ルールルル～　ルールルル～<n>恋愛運～　ああ　恋愛運～<p>高いと　貧乏神さえも～<n>魅了しちゃって　貢がせちゃうの～<p>運がいいって　ステキなことね～<n>ルールルル～　ルールルル～
+EN: "Sage Mariara's Ballad!"<p>Loo loo loo, loo loo loo...<n>Social luck, oh, social luck...<p>When it's high, I get the feeling<n>ponds have lovely gifts in store...<p>Loo loo loo, loo loo loo...<n>Love luck, oh, love luck...<p>When it's high, even a poverty god<n>falls for you and showers you with gifts...<p>Oh, how lovely good luck can be!<n>Loo loo loo, loo loo loo...
+
+@155E4 max=639
+JP: 「賢者ノクリスの世界見てある記」<p>「第七回　さいはて湿原」<p>現在はほとんど失われてしまった<n>総合武術「サガシミチ」発祥の地。<p>１５世紀頃、「東洋のはぐれイワシ」と怖れられた<n>伝説の武術家、ジゴロー・ダイナマイツが<p>魔術と武道の融合を求めて、この島に至り<n>３年の瞑想のすえ<p>健康体操「サガーシチ」を会得。<n>おもにロシアで大流行したのち<p>日本に渡り、辛子屋二助の手によって<n>武道としての体系を確立した。<p>宗家がフランス王家の指南役を勤めるなど<n>サガシミチは世界中で流行したが、やがて衰亡。<p>現在、その高度な技術体系を伝える者は<n>わずかしか残っていないという。
+EN: "Sage Nocris's World Travelogue"<p>"No. 7: Far End Marsh"<p>Birthplace of the nearly lost martial art,<n>the Way of Searching.<p>In the 1400s, the feared "Stray Sardine<n>of the East," Jigoro Dynamites,<p>came here to unite magic and combat.<n>After three years of meditation,<p>he mastered "Sagarshichi" aerobics.<n>A craze in Russia, it later<p>reached Japan, where Karashiya Nisuke<n>shaped it into a martial art.<p>Its head taught France's royals. A global<n>craze followed, then decline.<p>Few now preserve its advanced techniques.
+
+@15864 max=639
+JP: 「賢者カラシニコフの漢の数え歌」<p>ふん！ふん！漢の数え歌～<n>ひとつ　台地に星が降りゃ～<p>ちかくで　不思議な音がする～<n>ふん！ふん！音がする～<p>ふん！ふん！漢の数え歌～<n>ふたつ　釣り糸たれたなら～<p>日が変わるまで　我慢しろ～<n>ふん！ふん！我慢しろ～<p>ふん！ふん！漢の数え歌～<n>みっつ　クロスワードはな～<p>月曜零時に　新しくなる～<n>ふん！ふん！おニューだぜ～<p>ふん！ふん！漢の数え歌～<n>みっつときたら　ええ次は～<p>…数えられるのは　みっつまで～<n>ふん！ふん！終わりだぜ～
+EN: "Sage Karashnikov's Manly Counting Song"<p>Hup! Hup! Count like a man!<n>One! When stars fall on the plateau,<p>you'll hear strange sounds nearby!<n>Hup! Hup! Hear them go!<p>Hup! Hup! Count like a man!<n>Two! When you cast your fishing line,<p>wait till the date rolls over!<n>Hup! Hup! Bide your time!<p>Hup! Hup! Count like a man!<n>Three! The crossword changes<p>at midnight every Monday!<n>Hup! Hup! Brand-new fun!<p>Hup! Hup! Count like a man!<n>After three comes... uh...<p>...I can only count to three!<n>Hup! Hup! Now we're done!
+
+@15AE4 max=639
+JP: 「賢者ノクリスの世界見てある記」<p>「第十回　迷子の森」<p>世界最高の霊域と名高いこの島であるが<n>バッチリ幽霊と会えるのはここだけである。<p>深く暗く静かなこの森には<n>幼くして死んだ、子供の霊が出没するという。
+EN: "Sage Nocris's World Travelogue"<p>"No. 10: Lost Child Forest"<p>This island is famed as the world's most sacred spiritual site, yet this is the only place you're sure to meet a ghost.<p>In this deep, dark, silent forest, the spirits of children who died young are said to wander.
+
+@15D64 max=639
+JP: 「賢者ノクリスの世界見てある記」<p>「第八回　くぼみ池」<p>一見なんということのない小さな池であり<n>特別、何かが出没するということもない。<p>しかし、庭園に携わる者にとってみれば<n>玄人好みの素晴らしい池であるらしい。<p>現代建築の巨匠、アルバ・アアアルドーは<n>この池の航空写真を見たとたん<p>「なんと素晴らしい曲線！このくぼみこそ芸術だ！」<n>と叫んだという。<p>彼の代表作、ジョッカー団第三秘密基地にも<n>この池の影響を受けた跡が見られる。
+EN: "Sage Nocris's World Travelogue"<p>"No. 8: Hollow Pond"<p>At first glance, an ordinary little pond.<n>No unusual visitors appear here, either.<p>Yet garden experts apparently consider it<n>a splendid pond for the true connoisseur.<p>On seeing an aerial photo of it, the great<n>modern architect Alva Aaalto reportedly cried,<p>"What glorious curves!<n>This hollow is art itself!"<p>Its influence can be seen in his masterpiece,<n>the Jocker Organization's Third Secret Base.
+
+@15FE4 max=639
+JP: 「賢者ノクリスの世界見てある記」<p>「第九回　クレレの森」<p>「神のゆりかご」という異名を持つ<n>神聖な森である。<p>この地に宿る神は、西洋では「スカラカーン」<n>日本では「貧乏神」という名で呼ばれる。<p>この地で幼年期を過ごした神は<n>世界に貧乏を授けるべく旅だってゆくのである。<p>もしあなたが、最高に運が悪いなら<n>この地で幼い神と出会えるかもしれない。
+EN: "Sage Nocris's World Travelogue"<p>"No. 9: Kurere's Forest"<p>A sacred forest also known as<n>the "Cradle of the Gods."<p>The gods dwelling here are called "Skarakan"<n>in the West, and "poverty gods" in Japan.<p>After spending their childhood here,<n>they set out to bestow poverty on the world.<p>If your luck is truly terrible,<n>you may meet a young god here.
+
+@16264 max=639
+JP: 「賢者チワワックナーの秘密のポエム」<p>ああ自宅　すばらしい自宅<n>ずっといたいよ　自宅…<p>パソコンから　ホームページが見られて<n>鏡の前で　服も着替えられるなんて…<p>いい家具を買って　揃えたい！<n>色を揃えれば　運も上がるよ…<p>ああ　いとしい　ぼくの自宅よ<n>もう玄関から　外はいらない…
+EN: "Sage Chiwackner's Secret Poem"<p>O home, my wonderful home!<n>I could stay here forever...<p>A computer to browse websites,<n>a mirror where I can change my clothes...<p>I want fine furniture for every room!<n>Matching colors will boost my luck...<p>O home, my beloved home!<n>Who needs anything beyond the front door?
+
+@164E4 max=639
+JP: 「賢者ガイコツアイコーズ業務日誌」<p>某月某日<p>迷いの洞窟、やっと完成。<p>侵入者に、３度の選択を強いてまどわす<n>我ながらおそるべきトラップだ、ククク！<p>３度、正解を続けるほどの幸運の持ち主だけが<n>わが結社の誇るスペシャル釣り場にたどりつける。<p>これで、あの川辺のスポットは　永遠に<n>わが結社専用キャンプ地となるであろう！クク！<p>…某月某日<p>なんということだ！私も迷ってしまった！<n>どうしよう？
+EN: "Sage Skull Aikoz's Work Log"<p>Date: Some day, some month.<p>Maze Cave is finally complete.<p>Intruders must make three choices.<n>A fiendish trap, if I say so myself! Heh heh!<p>Only those lucky enough to choose correctly three times in a row can reach our society's prized secret fishing spot.<p>Now that riverside spot shall forever be<n>our society's private campsite! Heh heh!<p>...Date: Some day, some month.<p>Impossible! I'm lost in here too!<n>What do I do now?
+
+@16764 max=639
+JP: 「賢者ノクリスの世界見てある記」<p>「第一回　まれびとの浜」<p>この島に伝わる数々の逸話、民話の中でも<n>この浜に伝わる話は古いもののひとつ。<p>言い伝えによれば、この浜に美しい乙女が<n>三日三晩立ち続けて祈ると<p>オッケーでナイスなハンサムガイが海から現れて<n>その乙女と恋に落ちる、という。<p>よくわからない言い伝えではあるが<n>この島のこと、現実である可能性もないではない。
+EN: "Sage Nocris's World Travelogue"<p>"No. 1: Stranger's Beach"<p>Among this island's many legends and folktales,<n>the tale of this beach is one of the oldest.<p>They say that if a beautiful maiden stands here praying for three days and three nights,<p>a totally dreamy, handsome guy will emerge<n>from the sea and fall in love with her.<p>A puzzling legend, certainly.<n>But on this island, it just might be true.
+
+@169E4 max=639
+JP: 「賢者チワ・ワン・チーの天使の詩」<p>おお！わが守護天使よ！<n>私を守る　わがエンジェルよ！<p>そなたを育てることで　私は<n>かつてない幸福を手に入れた！<p>ただよう悪霊を打ち負かし<n>隠されたアイテムを見つける天使よ！<p>そなたがたとえブタの形でも<n>おお　私は気にしない！<p>だんじて気にしてなどいない！<n>ネコならよかったなどと　思いはしない！
+EN: "Sage Chiwa Wan Chi's Ode to an Angel"<p>O my guardian angel!<n>My angel who watches over me!<p>By raising you, I have found<n>happiness beyond anything I ever knew!<p>O angel who defeats wandering evil spirits<n>and finds hidden items!<p>Though you may be shaped like a pig,<n>O, I do not mind!<p>I most certainly do not mind!<n>Nor do I wish you were a cat!
+
+@16C64 max=639
+JP: 「ガイコツナンバーズ　特設掲示板」<p>・３号へ　ソコツ橋で待つ　＜花の７号＞<n>・おーい　２１号どこだー　＜野生の１２号＞<p>・新しい住人が来たらしい。<n>弱そうだが油断するな！　＜幹部の１号＞<p>・…なあ、俺らダサくねえ？　＜青の３３号＞<n>・３３号に鉄拳制裁を！　＜怒りの１６号＞<p>・今月のノルマ<n>たよりが浜の十分の一を制圧！　＜執行部＞<p>・そぞろ山基地の合い言葉忘れた…　＜４号＞<p>・おいおーい　合い言葉は<n>「スケスケのワタシを見て！」だヨ！　＜８号＞<p>・サンクス！　＜４号＞
+EN: "Skull Numbers Special Notice Board"<p>- No. 3: Meet at Klutz Bridge. -Flowery No. 7<n>- Where's No. 21? -Wild No. 12<p>- New islander spotted. Looks weak,<n>but stay alert! -Executive No. 1<p>- ...Are we lame? -Blue No. 33<n>- Punch No. 33! -Angry No. 16<p>- Monthly quota: Conquer one tenth of<n>Message Beach! -The Leadership<p>- Forgot the Wanderlust Mountain base<n>password... -No. 4<p>- Hey! It's "Check out my see-through body!"<n>-No. 8<p>- Thanks! -No. 4
+
+@16EE4 max=639
+JP: 「賢者ノクリスの世界見てある記」<p>「第十一回　カルト海岸」<p>海を望む断崖絶壁に、小さな墓地がある。<n>この島に流れ着き力尽きた航海者たちが眠る。<p>ものさびしい雰囲気にみちた海岸だが<n>それだけでなく、危険な場所でもある。<p>悪霊やタチの悪い天使が出没するので<n>じゅうぶん注意しなくてはいけない。
+EN: "Sage Nocris's World Travelogue"<p>"No. 11: Cult Coast"<p>A small graveyard stands atop a sheer seaside cliff. Here rest sailors who washed ashore on this island and perished.<p>A lonely air hangs over this coast,<n>but it is also a dangerous place.<p>Evil spirits and ill-tempered angels roam here.<n>Take great care.
+
+@17164 max=639
+JP: 「賢者ノクリスの世界見てある記」<p>「第二回　プルル坂」<p>古来より、坂は、現世と冥界をつなぐ<n>象徴的な場所とされてきた。<p>この小さな坂も、現世と別の世界をつなぐ<n>神秘的な坂だといわれている。<p>ただし、この坂からつながっている世界は<n>「プルル界」という異世界である。<p>そこは甘いプリンやゼリーに満ちた<n>ワンダーでカラメルな世界だという。<p>プルル界への扉が開くことはめったにないが<n>たまに、プルル界から珍客が訪れる。
+EN: "Sage Nocris's World Travelogue"<p>"No. 2: Pururu Slope"<p>Since ancient times, slopes have symbolized<n>the link between this world and the underworld.<p>This little slope is also said to be<n>a mystical link to another world.<p>In this case, however, that other world<n>is a dimension called the "Pururu Realm."<p>It is said to be a wondrous, caramel-filled<n>world brimming with sweet puddings and jellies.<p>The door to the Pururu Realm rarely opens,<n>but curious visitors do occasionally emerge.
+
+@173E4 max=639
+JP: 「賢者ノクリスの世界見てある記」<p>「最終回　ふしぎ池」<p>非常にめずらしい妖精が住む池。<n>別名を「元祖かっぱ池」という。<p>この妖精の一族は、３世紀ごろから<n>ここに生息していたらしい。<p>８世紀ごろ、一族で遠泳大会を催したところ<n>一匹が潮に流されて行方不明になった。<p>その一匹は日本に流れつき、現地の妖精と結婚。<n>家族を増やし、かっぱ一族として有名になった。<p>いっぽう、元祖の一族は、いまもこの池にいる。<n>現在は４２代目である。
+EN: "Sage Nocris's World Travelogue"<p>"Final Entry: Mystery Pond"<p>Home to a very rare kind of fairy.<n>Also called the "Original Kappa Pond."<p>This fairy clan has apparently lived here<n>since around the third century.<p>Around the eighth century, the clan held a long-distance swim. One member was swept away by the tide and vanished.<p>It washed ashore in Japan, married a local fairy, and raised a family that became the famous kappa clan.<p>The original clan still lives in this pond.<n>It is now in its 42nd generation.
+
+@17664 max=639
+JP: 「賢者ノクリスの世界見てある記」<p>「第三回　たよりが浜」<p>海のかなたから、ビンに入った<n>ふしぎな手紙が届くことからこの名がある。<p>世界有数のボトルメール漂着率を誇る<n>ボトルメール愛好家あこがれの場所。<p>１９８４年、世界ＢＭ協会から<n>「ボトルメール世界遺産」に認定されている。
+EN: "Sage Nocris's World Travelogue"<p>"No. 3: Message Beach"<p>This beach takes its name from the mysterious<n>letters in bottles that arrive from distant seas.<p>With one of the world's highest rates of bottle mail washing ashore, it is a dream destination for bottle mail fans.<p>In 1984, the World BM Association declared it<n>a "Bottle Mail World Heritage Site."
+
+@178E4 max=639
+JP: 「賢者ノクリスの世界見てある記」<p>「第四回　ソコツ橋」<p>地面に深い深い亀裂が、それも２本も入った<n>非常に危険な場所である。落ちたら最後。<p>この亀裂は、世界を創ったコーサックス神が<n>誤って創ってしまったものだと言われている。<p>ノリとハサミで世界を創っていた神は<n>一瞬、奥さんの声に気を取られ<p>切り取り線以外の場所をハサミで切ってしまった。<n>それがここだという。<p>このふたつの谷にかかる橋が<n>ソコツ橋と呼ばれるゆえんである。
+EN: "Sage Nocris's World Travelogue"<p>"Part 4: Klutz Bridge"<p>Two deep, deep cracks split the ground.<n>One slip here, and you're done for.<p>They say Corsax, the god who made the world,<n>created these cracks by mistake.<p>He was making the world with scissors and glue<n>when his wife's voice distracted him.<p>His scissors strayed from the dotted line.<n>And this, they say, was the result.<p>Hence the name of the bridges over these gorges:<n>Klutz Bridge.
+
+@17B64 max=639
+JP: 「賢者ノクリスの世界見てある記」<p>「第五回　ブラザー橋」<p>義兄弟ゆかりの地といえば、中国にある<n>有名な義兄弟が契りをかわした「桃園」。<p>そして、この橋も、「桃園」に次ぐといわれる<n>由緒正しい義兄弟の聖地。<p>昔から、ひそかにこの島を訪れ<n>兄弟の契りをかわす男たちは少なくない。<p>数多くの、意外な組合せの義兄弟が<n>この橋のたもとで誕生している。<p>中でも、ロビンフッドとジンギスカンの組合せは<n>歴史家にすらほとんど知られていない義兄弟。<p>近年まで保存されていた記念帳には<p>「ロビン兄貴についてくぜ！押忍！」という<n>ジンギスカンの書き込みが残されていたという。
+EN: "Sage Nocris's World Travelogue"<p>"Part 5: Brother Bridge"<p>China's Peach Garden is famed<n>for an oath of sworn brotherhood.<p>This bridge ranks second only to it<n>as a sacred site for such vows.<p>For ages, men have secretly visited<n>this island to become sworn brothers.<p>Many unlikely pairs of sworn brothers<n>have made their vows beside this bridge.<p>Even historians barely know<n>that Robin Hood and Genghis Khan did so.<p>A guest book preserved until recent years<p>reportedly held Genghis Khan's words:<n>"I'll follow you, Brother Robin! Hoorah!"
+
+@17DE4 max=639
+JP: 「賢者ノクリスの世界見てある記」<p>「第十二回　うたかた渓谷」<p>中国の奥地に、仙人が住む、「仙境」という<n>ふしぎな渓谷があるとされる。<p>清らかな気に満ち、住むだけで長寿を約束される<n>そんな夢のような土地である。<p>仙境は中国にしかない、と思われがちだが<n>実はひとつだけ、中国の外に仙境がある。<p>それがここ、うたかた渓谷である。<p>奥深い知識と知恵を持つ賢者が住んでいるが<n>彼は仙人ではなく、妖精である。
+EN: "Sage Nocris's World Travelogue"<p>"Part 12: Bubble Gorge"<p>Deep in China, mysterious valleys called<n>immortal realms are said to house immortal sages.<p>Filled with pure energy, these dreamlike lands<n>promise long life to anyone living there.<p>People think such realms exist only in China,<n>but there is actually one beyond its borders.<p>That realm is here: Bubble Gorge.<p>A sage of profound knowledge and wisdom lives here,<n>though he is a fairy, not an immortal sage.
+
+@18064 max=639
+JP: 「賢者ノクリスの世界見てある記」<p>「第六回　忘れじの浜」<p>ロマンチックな名を持つこの浜には<n>ロマンチックな昔話が伝わっている。<p>この島に住む平凡な少女が<n>創造神の息子、オートマス神と恋に落ちた。<p>だが、オートマス神は天上に<n>空飛ぶ馬車の普通免許を取りに行くことになり<p>来年には帰ってくるよと約束して出て行ったが<n>何年経っても帰ってこなかった。<p>少女は、この浜に毎日立って<n>恋人の帰りを待ったという。<p>オートマスが帰ってくる十年後まで<n>少女は、ひたすら浜に立ち続けたという。<p>ちなみに帰りが遅れた理由は<n>オートマスの運転が下手すぎたからだった。<p>ふたりは結婚し、オートマスは<n>オートマ免許の神になったという。
+EN: "Sage Nocris's World Travelogue"<p>"Part 6: Unforgotten Beach"<p>This romantically named beach<n>has a romantic tale.<p>An ordinary island girl fell in love<n>with Automas, the creator god's son.<p>He left for heaven to get<n>a standard flying-carriage license.<p>"I'll be back next year," he promised.<n>But years passed, and he never came.<p>She stood on this beach every day,<n>waiting for her love.<p>For ten years she waited here,<n>until Automas finally returned.<p>What took so long?<n>He was an awful driver.<p>They married, and Automas became<n>the god of automatic-only licenses.
+
+@182E4 max=639
+JP: 「ボトルメールについて」<p>この「たよりが浜」には、時々<n>ガラスビンが流れ着いていることがあり<p>ビンの中に、手紙が入っていることがあります。<p>友達があなたあてに流した手紙の場合もあれば<n>知らない人からの手紙であることもあります。<p>また、あなたがボトルメールを送ることもできます。<n>この先にあるプレートから、ビンを流しましょう。
+EN: "About Bottle Mail"<p>Here on Message Beach, glass bottles<n>sometimes wash ashore.<p>Some bottles have letters inside.<p>They may be letters a friend sent you,<n>or letters from someone you don't know.<p>You can send bottle mail, too.<n>Use the sign up ahead to set a bottle adrift.

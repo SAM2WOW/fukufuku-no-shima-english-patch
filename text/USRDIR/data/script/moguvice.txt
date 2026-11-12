@@ -1,0 +1,47 @@
+# source: PSP_GAME/USRDIR/data/script/moguvice.scb
+# format: scb
+# width: 44
+
+@5144 max=639
+JP: おう、見かけない顔だな。誰だい？<n>……<PN>？<p>ああ、兄貴の言ってた例の人か。<n>そいつはそいつは。
+EN: Hey, haven't seen you around. Who're you?<n>...<PN>?<p>Oh, you're the one my big brother told me about.<n>Well, how about that!
+
+@53C4 max=639
+JP: おう、どうしたい？<n>まだオレに用かい？
+EN: Hey, what's up?<n>Need somethin' else?
+
+@5644 max=639
+JP: よお、<PN>じゃねーか。
+EN: Well, if it ain't <PN>!
+
+@58C4 max=639
+JP: おう、<PN>、調子はどうだい？
+EN: Hey, <PN>! How's it goin'?
+
+@5B44 max=639
+JP: オレは「有限会社モグやん建設」の副社長。<n>親方やってるのはオレの兄貴だよ。<p>いまはこの島に、ちょいと単身赴任中さ。<n>新規顧客開拓ってやつだあな。<p>てなわけで、どうだい？オレの作った<n>地面クロスワード、やってみねえかい？<p>もうルールはわかってるよな？<n>ちなみに……
+EN: I'm the vice president of Moguyan Construction Ltd.<n>My big brother's the boss.<p>I'm here on the island for a bit, away from the family.<n>Drumming up new business, y'know.<p>So, how about it? Wanna try<n>the crossword I laid out on the ground?<p>You know the rules already, right?<n>By the way...
+
+@5DC4 max=639
+JP: 今日も元気に、クロスワード解いてくんな。<n>ハハハ！
+EN: Go tackle some crosswords today!<n>Ha ha ha!
+
+@6044 max=639
+JP: オレ？オレはいつでも絶好調よ、ハハハ！
+EN: Me? Never better! Ha ha ha!
+
+@62C4 max=639
+JP: 今週のクロスワードは<n>「<CROSS>」だぜ。<p>そういえば、ウチの息子なんざ、よく<p>「<CROSS_COME>」<p>なんて歌ってやがるがな。<n>まったく今の若いもんはよう。<p>おっと、そんなこたあいいか。<n>じゃ、楽しんで解いてくんな！
+EN: This week's crossword is<n>"<CROSS>".<p>Come to think of it, my son's always singing:<p>"<CROSS_COME>"<p>That's how it goes, anyway.<n>Kids these days, I tell ya.<p>Whoops, never mind all that.<n>Have fun solving it!
+
+@6544 max=639
+JP: 今週のクロスワードは<n>「<CROSS>」だぜ。<p>そういえば、ウチの息子なんざ<p>「<CROSS_COME>」<p>なんて言いやがる。わけがわからねえ。<n>そんなこったからモテねえんだっての。<p>おっと、無駄話しちまったな。<n>じゃ、楽しんで解いてくんな！
+EN: This week's crossword is<n>"<CROSS>".<p>Come to think of it, my son's always saying:<p>"<CROSS_COME>"<p>What the heck's that supposed to mean?<n>No wonder he can't get a date.<p>Whoops, got a bit carried away there.<n>Have fun solving it!
+
+@67C4 max=639
+JP: じゃ、来週のパズルを楽しみにしてな！<n>あばよ！
+EN: Look forward to next week's puzzle!<n>See ya!
+
+@6A44 max=639
+JP: <<テキストチェック>><n>表示したい会話メッセージのIDを選んでください。
+EN: 

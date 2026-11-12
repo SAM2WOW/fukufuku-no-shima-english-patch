@@ -1,0 +1,127 @@
+# source: PSP_GAME/USRDIR/data/script/katorea.scb
+# format: scb
+# width: 44
+
+@5144 max=639
+JP: あら？あらあら？あなたはどなた？<n><PN>さん？
+EN: Oh? Oh my? Who might you be?<n><PN>?
+
+@53C4 max=639
+JP: まあ！あらあらあら<n><PN>さん、いらっしゃいませ。
+EN: Well! Oh my, oh my!<n>Welcome, <PN>.
+
+@5644 max=639
+JP: …………ああ！<n>マリアンちゃんのお客さんですわね！<p>わたしはカトレア。<n>島の南にいる、デイジーの姉ですわ。<p>わたしは、手作りの服を<n>みなさまに買っていただいてますの。<p><PN>さん、服のことなら<n>お気軽にご相談くださいね。
+EN: ...Oh!<n>You're one of Marian's guests!<p>I'm Cattleya.<n>Daisy, who lives in the south of the island, is my younger sister.<p>I sell clothes<n>that I make by hand.<p>If you ever need advice on clothes, <PN>,<n>please don't hesitate to ask.
+
+@58C4 max=639
+JP: どう？この島は気に入りまして？<n>とてもいいところですよ。楽しんでね。
+EN: Well? Have you taken a liking to our island?<n>It's such a lovely place. Do enjoy yourself.
+
+@5B44 max=639
+JP: そういえば、妹のデイジーには<n>もうお会いになった？<p>島の南で、美容室をやっていますわ。<n>髪型を変えたくなったなら<p>一度行ってみられたらいかがかしら？<n>あの子も喜びますわ、きっと。
+EN: Speaking of which, have you met<n>my younger sister, Daisy?<p>She runs a salon in the south of the island.<n>If you fancy a new hairstyle,<p>why not pay her a visit?<n>I'm sure she'd be delighted.
+
+@5DC4 max=639
+JP: この島の方々は、服を買ってはくださるの。<n>でも着ない方が多くて、もったいないわ。
+EN: The islanders do buy my clothes.<n>But so many never wear them. Such a waste!
+
+@6044 max=639
+JP: わたしたち姉妹は、ある方にお仕えしていて<n>この仕事は、いわば副業ですの。
+EN: My sister and I are in a certain person's service.<n>This is something of a sideline for us.
+
+@62C4 max=639
+JP: あなたが来てくださるのが楽しみで！<n>さあ、今日はどんな服をお望みかしら？
+EN: I do so look forward to your visits!<n>Now, what sort of outfit takes your fancy today?
+
+@6544 max=639
+JP: マネキンにぴったりの人形を<n>先日、海岸で見つけましたのよ。<p>でも、なんとしゃべるんです、その人形。<n>口をきくんじゃ、マネキンになりませんわ。
+EN: The other day, I found a doll on the beach<n>that would make a perfect mannequin.<p>But would you believe it? The doll talks!<n>A mannequin simply can't go chatting away.
+
+@67C4 max=639
+JP: ここだけのお話、ポッコさんって<n>ちょっと素敵だとお思いになりません？<p>え？趣味がヘン？<n>そ、そうかしら……。
+EN: Just between us, don't you think<n>Pokko is rather dashing?<p>What? I have peculiar taste?<n>O-oh, do you really think so...?
+
+@6A44 max=639
+JP: 森に出る幽霊のお嬢さん<n>いつもパジャマでおかわいそうだわ……。
+EN: That young ghost lady in the forest<n>is always in her pajamas. The poor dear...
+
+@6CC4 max=639
+JP: じっくり選んでいってくださいな。<n>どれも心をこめて作りましたわ！
+EN: Do take your time choosing.<n>I put my heart into every piece!
+
+@6F44 max=639
+JP: 今日は特売日ですわ！ああ、特売日！
+EN: It's sale day today! Oh, a glorious sale day!
+
+@71C4 max=639
+JP: 今日はなんのご用かしら？
+EN: How may I help you today?
+
+@7444 max=639
+JP: 買う<n>売る<n>やめる
+EN: Buy<n>Sell<n>Quit
+
+@76C4 max=639
+JP: まあ！おしゃれな人って、素敵ですわ。
+EN: Oh my! I do adore someone with a sense of style.
+
+@7944 max=639
+JP: まあ、ありがとうございます。<n>他にお気に召した服はあるかしら？
+EN: Why, thank you.<n>Have any other clothes caught your eye?
+
+@7BC4 max=639
+JP: まあ、来店ありがとうございました。<n>またおいでくださいませね。
+EN: Thank you so much for visiting.<n>Do come again.
+
+@7E44 max=639
+JP: <ITEM>は<n><MONEY>ｚになりますわ。
+EN: <ITEM> will be<n><MONEY>z.
+
+@80C4 max=639
+JP: あら、取りやめになさるの？
+EN: Oh, have you changed your mind?
+
+@8344 max=639
+JP: あら、取りやめになさるの？
+EN: Oh, have you changed your mind?
+
+@85C4 max=639
+JP: あのう、お金が足りませんわ。<n>貧乏って悲しいですわね。
+EN: I'm afraid you haven't enough money.<n>Being poor is such a sad business.
+
+@8844 max=639
+JP: あら、持ち物がいっぱいですわ。
+EN: Oh my, your inventory is full.
+
+@8AC4 max=639
+JP: まあ、何でも売ってくださいな。
+EN: Why, I'll gladly buy whatever you have.
+
+@8D44 max=639
+JP: 何個売ってくださるの？
+EN: How many would you like to sell?
+
+@8FC4 max=639
+JP: <ITEM>、<NUM>個で<n><MONEY>ｚになりますわ。
+EN: For <NUM> of <ITEM>,<n>I'll pay <MONEY>z.
+
+@9244 max=639
+JP: あら、取りやめになさるの？
+EN: Oh, have you changed your mind?
+
+@94C4 max=639
+JP: あら、取りやめになさるの？
+EN: Oh, have you changed your mind?
+
+@9744 max=639
+JP: まあ、ありがとうございます。<n>他にも、売りたいものがあれば買いますわよ。
+EN: Why, thank you.<n>If you have anything else to sell, I'll gladly buy it.
+
+@99C4 max=639
+JP: まあ、来店ありがとうございました。<n>またおいでくださいませね。
+EN: Thank you so much for visiting.<n>Do come again.
+
+@9C44 max=639
+JP: <<テキストチェック>><n>表示したい会話メッセージのIDを選んでください。
+EN: 

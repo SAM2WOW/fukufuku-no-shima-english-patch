@@ -1,0 +1,7 @@
+# source: PSP_GAME/USRDIR/data/script/penta2.scb
+# format: scb
+# width: 44
+
+@5144 max=639
+JP: 運試ししたいの？したいでしょ？<n>うんうん、なら、兄さんに話しかけてよ！
+EN: Wanna try your luck? Sure you do!<n>All right, then! Go talk to my big brother!

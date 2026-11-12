@@ -1,0 +1,79 @@
+# source: PSP_GAME/USRDIR/data/script/kurere.scb
+# format: scb
+# width: 44
+
+@5144 max=639
+JP: クレレ？クレレ……<n>クレクレレ……
+EN: Kurere? Kurere...<n>Kurekurere...
+
+@53C4 max=639
+JP: クレ！クレレクレー
+EN: Kure! Kurerekureee!
+
+@5644 max=639
+JP: ……ク？クレレレ！
+EN: ...Ku? Kurerere!
+
+@58C4 max=639
+JP: ……クレレ！
+EN: ...Kurere!
+
+@5B44 max=639
+JP: クレレはアイテムをほしがっているようだ。
+EN: Kurere seems to want an item.
+
+@5DC4 max=639
+JP: あげる<n>あげない
+EN: Feed it<n>Don't feed it
+
+@6044 max=639
+JP: クレレ……。
+EN: Kurere...
+
+@62C4 max=639
+JP: 与えるアイテムを選んでください。
+EN: Choose an item to give.
+
+@6544 max=639
+JP: クレレ……。
+EN: Kurere...
+
+@67C4 max=639
+JP: <ITEM>でいいですか？
+EN: Use <ITEM>?
+
+@6A44 max=639
+JP: …レレ！クーレーレー！
+EN: ...Rere! Kuu-ree-ree!
+
+@6CC4 max=639
+JP: …クレレレ！レーレ！
+EN: ...Kurerere! Ree-re!
+
+@6F44 max=639
+JP: クレレは<n>なにかを差し出した！
+EN: Kurere held out<n>something!
+
+@71C4 max=639
+JP: 持ち物がいっぱいで持てません
+EN: Your inventory is full. You can't carry this.
+
+@7444 max=639
+JP: 持ち物がいっぱいです
+EN: Your bag is full.
+
+@76C4 max=639
+JP: <ITEM>を置きました
+EN: Placed <ITEM>.
+
+@7944 max=639
+JP: クレレが<n><ITEM>をくれた！
+EN: Kurere gave you<n><ITEM>!
+
+@7BC4 max=639
+JP: …クレレレ！レーレ！
+EN: ...Kurerere! Ree-re!
+
+@7E44 max=639
+JP: <<テキストチェック>><n>表示したい会話メッセージのIDを選んでください。
+EN: 

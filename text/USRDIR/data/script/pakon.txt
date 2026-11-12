@@ -1,0 +1,5031 @@
+# source: PSP_GAME/USRDIR/data/script/pakon.scb
+# format: scb
+# width: 44
+
+@5144 max=639
+JP: ん、おまえは何者だ？<p><PN>？ふーん。<p>僕はブリッキ国の王子、パコンだ。<n>この世界に留学に来ている。<p>この島には、僕を導くにふさわしい<n>マシュー博士という方がおられる。<p>博士に学び、知識を身につけよ、と<n>父上が言われるので、来ているのだ。<p>すでにすさまじい量の知識を<n>会得したよ、僕は。<p>…凄い？ふふん、このくらい当然だ。<n>僕はブリッキ国の王子なんだからな。
+EN: Hm? Who are you?<p><PN>? Hmm.<p>I am Pakon, prince of the Kingdom of Brikki.<n>I have come to study in this world.<p>On this island lives Dr. Matthew,<n>a man worthy of being my tutor.<p>My father sent me here to study under him<n>and acquire knowledge.<p>I have already mastered a truly<n>staggering amount, you know.<p>...Impressed? Hmph. It is only natural.<n>I am a prince of Brikki, after all.
+
+@53C4 max=639
+JP: ん、<PN>か。<n>僕になにか用か？
+EN: Ah, <PN>.<n>What do you want with me?
+
+@5644 max=639
+JP: <PN>か。よく来た。<n>僕は今日も勉学に励んでいるぞ。
+EN: <PN>. Welcome.<n>As you see, I am hard at my studies again.
+
+@58C4 max=639
+JP: ところで、おまえは何をしに<n>この島に来ているのだ？<p>運をよくする修行をしてる？<p>おまえの言うことはよくわからんが<n>僕を見習ってがんばるがいいぞ。<p>そうだ！いいことを考えた。<p>僕がおまえの知識を試してやろう。<p>これから、いくつかクイズを出す。<n>多く正解すれば…<p>この僕の尊敬が得られるぞ。<p>ブリッキ国第一王子の尊敬だ。<n>素晴らしい名誉だぞ、ハハハ！
+EN: By the way, what brings you<n>to this island?<p>Training to improve your luck?<p>I have no idea what you mean, but<n>follow my example and apply yourself.<p>Aha! I have a splendid idea.<p>I shall put your knowledge to the test.<p>I shall ask you a few questions.<n>Answer enough correctly, and...<p>You shall earn my respect!<p>The respect of Brikki's first prince!<n>A tremendous honor! Ha ha ha!
+
+@5B44 max=639
+JP: ところで…<p>おまえは、僕の出すクイズに<n>まだ一度も合格していないな。<p>まったく、何をやっている？<n>不勉強にもほどがある。<p>ここがブリッキ国なら<n>３時間くすぐりの刑に処せられるぞ。
+EN: By the way...<p>You have yet to pass<n>a single one of my quizzes.<p>Really, what have you been doing?<n>There are limits to such ignorance.<p>In Brikki, you would be sentenced<n>to three hours of tickling!
+
+@5DC4 max=639
+JP: ふむ、そういえば…<p>おまえは僕のクイズに<n>すでに合格したことがあるのだったな。<p>だが、その程度の知識では、まだまだ<n>僕に仕えるには不足だぞ？<p>よろしい、今日も僕が<n>最新の知識を教えてやろう。
+EN: Hmm, come to think of it...<p>You have passed one of my quizzes<n>before, haven't you?<p>But that meager knowledge is still<n>quite insufficient to enter my service.<p>Very well. Today I shall once again<n>teach you the latest discoveries.
+
+@6044 max=639
+JP: む、そういえば…<p>おまえは僕のクイズに合格して<n>僕の尊敬を勝ち得ていたのだったな。<p>では、我が学友となった証として<n>なにか授けなくてはならないな…。<p>…お！そうだ。<n>おまえに、これを授けよう！<p>ヘンなペンギンから手に入れた<n>ヘンなペンギンの像だ！<p>一国の王子が、こんなヘンなものを<n>いつまでも持ち歩くわけにはいかん。<p>ちょうどよいから、おまえに授ける！<n>感謝するがよい、ハハハ！
+EN: Ah, come to think of it...<p>You passed my quiz<n>and earned my respect.<p>As a token of our scholarly fellowship,<n>I really ought to bestow something on you...<p>...Oh! Of course.<n>I shall bestow this upon you!<p>A strange penguin statue<n>I acquired from a strange penguin!<p>A royal prince cannot go about<n>carrying such an oddity forever.<p>So this is the perfect chance to give it to you!<n>Be grateful! Ha ha ha!
+
+@62C4 max=639
+JP: 僕の国、ブリッキ王国は<n>古くよりこの島と関わりがあるそうだ。<p>僕の祖先のうちひとりが<n>この島の賢者をやっていたとか…<p>何のことだか、よくわからないが<n>ともかく、僕の父上もおじいさまも<p>この島に留学し、マシュー博士に学び<n>王となる修行をしたそうだからな。
+EN: My homeland, the Kingdom of Brikki,<n>has ancient ties to this island, apparently.<p>One of my ancestors is said<n>to have served as its sage...<p>I do not quite know what that means,<n>but both my father and grandfather<p>studied here under Dr. Matthew<n>as part of their training to become king.
+
+@6544 max=639
+JP: ふう…<p>じつは、僕にはわかっているのだ。<p>僕よりペコンのほうが<n>ずっと、頭がいいことをな。<p>王になるべきは、弟なのではないかと<n>時々、考えてしまうんだ…。<p>ん！いけないいけない！<n>もっとしっかりしなくては！
+EN: Sigh...<p>The truth is, I know perfectly well.<p>Pekon is far cleverer<n>than I am.<p>Sometimes I wonder if my little brother<n>ought to be king instead...<p>Ah! No, no!<n>I must pull myself together!
+
+@67C4 max=639
+JP: ふむ…<p>この世界には、高い地位にある者が<n>身分を隠して旅に出る風習があるのだな。<p>だが、最後は「控えーい」と威張るのなら<n>最初から身分など隠さなくてよいのにな。
+EN: Hmm...<p>In this world, people of high rank<n>have a custom of traveling in disguise.<p>But if they end up bellowing, "Bow down!"<n>why bother hiding their rank at all?
+
+@6A44 max=639
+JP: ふう…。<p>ん？なんだ？<n>ぼ、僕は元気だぞ？<p>断じて、ホームシックなどではない！<n>無礼者め！
+EN: Sigh...<p>Hm? What is it?<n>I-I am perfectly well!<p>I am most certainly not homesick!<n>You impertinent wretch!
+
+@6CC4 max=639
+JP: ふふふ…<p>じつは、先日、珍しく<n>南の岸辺に散歩に出たのだ。<p>そうしたら、世にも美しく可憐な<n>娘と出会ってしまったのだよ…。<p>髪を切るのが仕事だといっていたな…。<n>ふ…。ふふふ…。<p>僕も、髪とやらを伸ばして<n>あの娘と仲良くなるのだ！ふふふ！
+EN: Heh heh heh...<p>The other day, I took a rare stroll<n>along the southern shore.<p>There I met a maiden of such beauty,<n>such delicate charm...<p>She said she cuts hair for a living...<n>Heh... Heh heh heh...<p>I shall grow some of this "hair" myself<n>and win her friendship! Heh heh heh!
+
+@6F44 max=639
+JP: さて、クイズに答えてみるか？
+EN: Well? Will you attempt my quiz?
+
+@71C4 max=639
+JP: む、向学心の足りぬやつだ。<n>少しは僕を見習え！ははは！
+EN: Hmph. Such a lack of scholarly ambition.<n>You could learn a thing or two from me! Ha ha ha!
+
+@7444 max=639
+JP: よし！では、まず第一問だ。
+EN: Excellent! Now, the first question.
+
+@76C4 max=639
+JP: うむ、正解だぞ！
+EN: Indeed! Correct!
+
+@7944 max=639
+JP: む…。やるな…。
+EN: Hmm... Not bad...
+
+@7BC4 max=639
+JP: ク…。僕にもわからなかった問題を…。
+EN: Tch... Even I did not know that one...
+
+@7E44 max=639
+JP: ふふん、間違ったな。
+EN: Hah! Wrong.
+
+@80C4 max=639
+JP: どうした、おまえの力はそんなものか？
+EN: What is this? Is that the best you can do?
+
+@8344 max=639
+JP: ん、庶民には難しすぎたか…。<n>無理もないな。
+EN: Hmm. Too difficult for a commoner?<n>Understandable, I suppose.
+
+@85C4 max=639
+JP: どうした？時間切れだぞ。
+EN: What are you doing? Time is up!
+
+@8844 max=639
+JP: よし、次だ。
+EN: Good. Next question.
+
+@8AC4 max=639
+JP: ふん、次の問題にいくぞ。
+EN: Hmph. On to the next question.
+
+@8D44 max=639
+JP: さて、次は難しいぞ！
+EN: Now, this next one is difficult!
+
+@8FC4 max=639
+JP: よし。では結果を発表するぞ！
+EN: Right! I shall announce your results!
+
+@9244 max=639
+JP: 合格だ！なかなか博識ではないか！<n>それでこそ我が学友だ！<p>ほうびとして、王子であるこの僕が<n>君を少しだけ尊敬してやろう！<p>うれしいか？ハハハ、そうか。<n>光栄のあまり声も出ないようだな！
+EN: You pass! Quite knowledgeable, aren't you?<n>A worthy fellow scholar!<p>As your reward, I, a royal prince,<n>shall grant you a small measure of my respect!<p>Delighted? Ha ha ha! Of course.<n>The honor has left you speechless!
+
+@94C4 max=639
+JP: …残念だが、合格点はやれないな。<n>出直してまいれ！
+EN: ...Sadly, I cannot give you a passing grade.<n>Study more, then return!
+
+@9744 max=639
+JP: ま、なにはともあれ、楽しかったぞ。<n>また僕に謁見しに来るがいい。
+EN: Well, I enjoyed myself, at any rate.<n>You may seek another audience with me.
+
+@99C4 max=639
+JP: <HEXP>の経験値を獲得
+EN: Gained <HEXP> experience points.
+
+@9C44 max=639
+JP: <<テキストチェック>><n>チェックする項目を選んでください。
+EN: 
+
+@9EC4 max=639
+JP: 会話メッセージ<n>イベント用テキスト
+EN: Dialogue<n>Event Text
+
+@A144 max=639
+JP: 表示したい会話メッセージのIDを選んでください。
+EN: 
+
+@A3C4 max=639
+JP: 表示したいテキストのIDを入力してください。
+EN: 
+
+@A644 max=639
+JP: うむ、正解だぞ！
+EN: Indeed! Correct!
+
+@A8C4 max=639
+JP: ふふん、間違ったな。
+EN: Hah! Wrong.
+
+@AB44 max=639
+JP: どうした？時間切れだぞ。
+EN: What are you doing? Time is up!
+
+@14E6C max=119
+JP: 純金１ｇを限界まで引き延ばして糸にすると、<n>長さは約６００ｍだ！
+EN: One gram of pure gold can be drawn into a wire<n>about 600 meters long!
+
+@14EE4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@14F2C max=119
+JP: 二十四金とは、１００パーセント金、という意味だ！
+EN: 24-karat gold means 100 percent pure gold!
+
+@14FA4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@14FEC max=119
+JP: 赤ん坊の時には骨は約３５０本だが、<n>大人になると３７２本に増える！
+EN: Babies have about 350 bones,<n>but adults have 372!
+
+@15064 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@150AC max=119
+JP: 人間の血管をつなげると地球２周半の長さだ！
+EN: Your blood vessels could stretch around Earth two and a half times!
+
+@15124 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1516C max=119
+JP: 猿には土踏まずがない！
+EN: Monkeys have no arches in their feet!
+
+@151E4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1522C max=119
+JP: タコの血液は青い！
+EN: Octopuses have blue blood!
+
+@152A4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@152EC max=119
+JP: 人間の小腸の長さは身長とほぼ同じだ！
+EN: Your small intestine is about as long as you are tall!
+
+@15364 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@153AC max=119
+JP: いま食べた物、５時間後もまだ胃にある！
+EN: Food you eat now will still be in your stomach five hours later!
+
+@15424 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1546C max=119
+JP: 温泉法という法律がある！
+EN: Japan has a law called the Hot Springs Act!
+
+@154E4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1552C max=119
+JP: 英語のアルファベットは全部で何文字？
+EN: How many letters are in the English alphabet?
+
+@155A4 max=63
+JP: ２３文字<n>２６文字<n>２８文字
+EN: 23 letters<n>26 letters<n>28 letters
+
+@155EC max=119
+JP: 次の国の中で一番南にある国はどれ？
+EN: Which of these countries lies farthest south?
+
+@15664 max=63
+JP: 日本<n>ベトナム<n>ニュージーランド
+EN: Japan<n>Vietnam<n>New Zealand
+
+@156AC max=119
+JP: 端午の節句と呼ばれている日は次のうちどれ？
+EN: Which date is Tango no Sekku, Japan's Boys' Festival?
+
+@15724 max=63
+JP: ３月３日<n>４月４日<n>５月５日
+EN: March 3<n>April 4<n>May 5
+
+@1576C max=119
+JP: 植物は光合成によってタンパク質を作る！
+EN: Plants make proteins through photosynthesis!
+
+@157E4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1582C max=119
+JP: 法隆寺は、どこにある？
+EN: Where is Horyuji Temple?
+
+@158A4 max=63
+JP: 奈良県<n>京都府<n>大阪府
+EN: Nara Prefecture<n>Kyoto Prefecture<n>Osaka Prefecture
+
+@158EC max=119
+JP: 食塩を水に溶かすと<n>ナトリウムイオンと塩素イオンになる！
+EN: When table salt dissolves in water,<n>it forms sodium ions and chloride ions!
+
+@15964 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@159AC max=119
+JP: 次のうち、ベートーベンが作曲した楽曲はどれ？
+EN: Which of these works did Beethoven compose?
+
+@15A24 max=63
+JP: ドン・ジョバンニ<n>エリーゼのために<n>ザロモン・セット
+EN: Don Giovanni<n>Fur Elise<n>Salomon Set
+
+@15A6C max=119
+JP: ことわざ、犬も歩けば、何に当たる？
+EN: In the Japanese proverb, even a dog out walking may run into what?
+
+@15AE4 max=63
+JP: 宝<n>棒<n>落とし穴
+EN: Treasure<n>A stick<n>A pitfall
+
+@15B2C max=119
+JP: 英語で５月のことを表す言葉は？
+EN: What is the English name for the fifth month?
+
+@15BA4 max=63
+JP: Ｍａｒｃｈ<n>Ｍａｙ<n>Ｊｕｎｅ
+EN: March<n>May<n>June
+
+@15BEC max=119
+JP: 日本のパスポートにデザインされている花は何の花？
+EN: Which flower appears on the cover of a Japanese passport?
+
+@15C64 max=63
+JP: 桜<n>菊<n>梅
+EN: Cherry blossom<n>Chrysanthemum<n>Plum blossom
+
+@15CAC max=119
+JP: 空気の約９９パーセントは酸素と窒素でできている！
+EN: Oxygen and nitrogen make up about 99 percent of the air!
+
+@15D24 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@15D6C max=119
+JP: 十二支で、寅の後に来るものは？
+EN: Which animal follows the Tiger in the Chinese zodiac?
+
+@15DE4 max=63
+JP: 辰<n>卯<n>申
+EN: Dragon<n>Rabbit<n>Monkey
+
+@15E2C max=119
+JP: １時間に１ミリ未満の雨量の雨を小雨と呼ぶ！
+EN: Rainfall of less than 1 mm per hour is called light rain!
+
+@15EA4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@15EEC max=119
+JP: 梅干は酸性食品である！
+EN: Umeboshi pickled plums are acid-forming foods!
+
+@15F64 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@15FAC max=119
+JP: 梨はバラ科の植物だ！
+EN: Pear trees belong to the rose family!
+
+@16024 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1606C max=119
+JP: 月と地球の距離は約３万８千ｋｍだ！
+EN: The Moon is about 38,000 km from Earth!
+
+@160E4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1612C max=119
+JP: 月の直径は地球の約３分の１だ！
+EN: The Moon's diameter is about one-third of Earth's!
+
+@161A4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@161EC max=119
+JP: 月の重力は地球の６分の１だ！
+EN: The Moon's gravity is one-sixth of Earth's!
+
+@16264 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@162AC max=119
+JP: だんご虫の足は何本？
+EN: How many legs does a pill bug have?
+
+@16324 max=63
+JP: ６本<n>１４本<n>２４本
+EN: 6 legs<n>14 legs<n>24 legs
+
+@1636C max=119
+JP: 蚊は人の声に反応して近づく！
+EN: Mosquitoes are drawn to the sound of human voices!
+
+@163E4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1642C max=119
+JP: ぬか漬けは乳酸菌発酵食品だ！
+EN: Rice-bran pickles are fermented by lactic acid bacteria!
+
+@164A4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@164EC max=119
+JP: ティラノサウルスの「ティラノ」とは<n>「大きな」という意味だ！
+EN: The 'tyranno' in Tyrannosaurus<n>means 'big'!
+
+@16564 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@165AC max=119
+JP: 次のうち、猫の品種を表すものはどれ？
+EN: Which of these is a cat breed?
+
+@16624 max=63
+JP: ポメラニアン<n>ダルメシアン<n>アビシニアン
+EN: Pomeranian<n>Dalmatian<n>Abyssinian
+
+@1666C max=119
+JP: 太陽の中心核の温度は６０００度だ！
+EN: The temperature at the Sun's core is 6,000 degrees Celsius!
+
+@166E4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1672C max=119
+JP: 太陽の直径は地球の何倍？
+EN: How many times Earth's diameter is the Sun's diameter?
+
+@167A4 max=63
+JP: 約１９倍<n>約１０９倍<n>約１００９倍
+EN: About 19 times<n>About 109 times<n>About 1,009 times
+
+@167EC max=119
+JP: 蟻の足は何本？
+EN: How many legs does an ant have?
+
+@16864 max=63
+JP: ４本<n>６本<n>８本
+EN: 4 legs<n>6 legs<n>8 legs
+
+@168AC max=119
+JP: 一般的なソメイヨシノの花びらは何枚？
+EN: How many petals does a typical Somei Yoshino cherry blossom have?
+
+@16924 max=63
+JP: ５枚<n>６枚<n>１２枚
+EN: 5 petals<n>6 petals<n>12 petals
+
+@1696C max=119
+JP: 日本の交通信号、向かって左にある色は？
+EN: On a Japanese traffic light, which color is on the left as you face it?
+
+@169E4 max=63
+JP: 青<n>赤<n>黄色
+EN: Blue<n>Red<n>Yellow
+
+@16A2C max=119
+JP: ７４かける７の答えは？
+EN: What is 74 times 7?
+
+@16AA4 max=63
+JP: ５２８<n>５１８<n>５１４
+EN: 528<n>518<n>514
+
+@16AEC max=119
+JP: 海王星は太陽系で最小惑星だ！
+EN: Neptune is the smallest planet in the solar system!
+
+@16B64 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@16BAC max=119
+JP: ゴリラが<n>立って両手で胸を激しくたたく行為を何という？
+EN: What is it called when a gorilla stands up and pounds its chest with both hands?
+
+@16C24 max=63
+JP: ドラミング<n>ドリミング<n>ドルミング
+EN: Drumming<n>Drimming<n>Drummingling
+
+@16C6C max=119
+JP: 普通に体温を測る体温計、<n>最高何度までの表示メモリがある？
+EN: What is the highest temperature marked on a standard medical thermometer?
+
+@16CE4 max=63
+JP: ４０度<n>４２度<n>１００度
+EN: 40 C<n>42 C<n>100 C
+
+@16D2C max=119
+JP: 童話、白雪姫で、姫が食べた果物は？
+EN: In the fairy tale Snow White, what fruit does the princess eat?
+
+@16DA4 max=63
+JP: いちご<n>りんご<n>もも
+EN: Strawberry<n>Apple<n>Peach
+
+@16DEC max=119
+JP: 台風の強さを表す単位はどれ？
+EN: Which unit is used to describe a typhoon's strength?
+
+@16E64 max=63
+JP: オクトパスカル<n>ヘクトパスカル<n>ミリパスカル
+EN: Octopascals<n>Hectopascals<n>Millipascals
+
+@16EAC max=119
+JP: オリオン座にある星は？
+EN: Which star is in the constellation Orion?
+
+@16F24 max=63
+JP: ペテン<n>ペンギン<n>ベテルギウス
+EN: Baloney<n>Penguin<n>Betelgeuse
+
+@16F6C max=119
+JP: 脳の細胞の数はおよそ何個？
+EN: Roughly how many cells are in the human brain?
+
+@16FE4 max=63
+JP: １４億個<n>１４０億個<n>１４００億個
+EN: 1.4 billion<n>14 billion<n>140 billion
+
+@1702C max=119
+JP: 日本の憲法記念日はどれ？
+EN: When is Japan's Constitution Memorial Day?
+
+@170A4 max=63
+JP: ２月１１日<n>５月３日<n>１１月２３日
+EN: February 11<n>May 3<n>November 23
+
+@170EC max=119
+JP: プッシュホン電話の、最下段真ん中にある数字は？
+EN: Which number is in the bottom center of a push-button phone's keypad?
+
+@17164 max=63
+JP: ０<n>５<n>９
+EN: 0<n>5<n>9
+
+@171AC max=119
+JP: 人間の血液量は体重の約１３分の１だ！
+EN: Blood makes up about one thirteenth of a person's body weight!
+
+@17224 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1726C max=119
+JP: 傷口からの出血を止める働きをする、<n>血液中で最も小さい血球は？
+EN: What are the smallest blood cells, which help stop wounds from bleeding?
+
+@172E4 max=63
+JP: 赤血球<n>白血球<n>血小板
+EN: Red blood cells<n>White blood cells<n>Platelets
+
+@1732C max=119
+JP: ビタミンＭはある？
+EN: Is there such a thing as vitamin M?
+
+@173A4 max=63
+JP: ある<n>ない
+EN: Yes<n>No
+
+@173EC max=119
+JP: １円玉の数字の１の下には何が書いてある？
+EN: What is written below the numeral 1 on a one-yen coin?
+
+@17464 max=63
+JP: 日本国<n>製造年<n>漢数字で一円
+EN: Japan<n>Year minted<n>One yen in kanji
+
+@174AC max=119
+JP: ハチは体温を感じて寄ってくる！
+EN: Bees sense body heat and are drawn to it!
+
+@17524 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1756C max=119
+JP: 血液はおよそ１０分で身体中をめぐる！
+EN: Blood takes about ten minutes to circulate around the body!
+
+@175E4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1762C max=119
+JP: 心臓は１日に約１トンの血液を送っている！
+EN: The heart pumps about one metric ton of blood a day!
+
+@176A4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@176EC max=119
+JP: 野球の外野手は何人？
+EN: How many outfielders are on a baseball team?
+
+@17764 max=63
+JP: ３人<n>４人<n>５人
+EN: 3<n>4<n>5
+
+@177AC max=119
+JP: 人のからだには約６０兆個の細胞がある！
+EN: The human body has about 60 trillion cells!
+
+@17824 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1786C max=119
+JP: 次のうち、哺乳類はどれ？
+EN: Which of these is a mammal?
+
+@178E4 max=63
+JP: サメ<n>クジラ<n>マンボウ
+EN: Shark<n>Whale<n>Ocean sunfish
+
+@1792C max=119
+JP: 日本のお札の発行機関は次のうちどれ？
+EN: Which institution issues Japan's banknotes?
+
+@179A4 max=63
+JP: 財務省<n>日本銀行<n>金融庁
+EN: Finance Ministry<n>Bank of Japan<n>Financial Services Agency
+
+@179EC max=119
+JP: 東京のレンタカー、ナンバーに使われている文字は？
+EN: Which kana character appears on rental car license plates in Tokyo?
+
+@17A64 max=63
+JP: ら<n>れ<n>わ
+EN: Ra<n>Re<n>Wa
+
+@17AAC max=119
+JP: 次のうち、ドルはどこの通貨を表す単位？
+EN: Which of these places uses the dollar as its currency?
+
+@17B24 max=63
+JP: イギリス<n>スペイン<n>アメリカ
+EN: Britain<n>Spain<n>USA
+
+@17B6C max=119
+JP: 神の子と呼ばれる気象現象は？
+EN: Which weather phenomenon has a name meaning "the Christ Child"?
+
+@17BE4 max=63
+JP: ハラペーニョ<n>ヘリニーニョ<n>エルニーニョ
+EN: Jalapeno<n>Helinino<n>El Nino
+
+@17C2C max=119
+JP: マラソンのコースは全何キロメートル？
+EN: How many kilometers long is a marathon?
+
+@17CA4 max=63
+JP: ４５．１９５ｋｍ<n>４２．１９５ｋｍ<n>３９．１９５ｋｍ
+EN: 45.195 km<n>42.195 km<n>39.195 km
+
+@17CEC max=119
+JP: 震度とは地震の揺れの回数を表す値である！
+EN: Seismic intensity measures how many times the ground shakes during an earthquake!
+
+@17D64 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@17DAC max=119
+JP: てこの原理を利用してないのはどれ？
+EN: Which does not use the principle of leverage?
+
+@17E24 max=63
+JP: はさみ<n>栓抜き<n>おたま
+EN: Scissors<n>Bottle opener<n>Ladle
+
+@17E6C max=119
+JP: 放射性元素ラジウムを発見したのは？
+EN: Who discovered the radioactive element radium?
+
+@17EE4 max=63
+JP: ヘレン・ケラー<n>ナイチンゲール<n>キューリー夫人
+EN: Helen Keller<n>Nightingale<n>Madame Curie
+
+@17F2C max=119
+JP: 周波数をあらわすヘルツの名の由来は？
+EN: Where does "hertz," the unit of frequency, get its name?
+
+@17FA4 max=63
+JP: 地名<n>人名<n>原素名
+EN: A place<n>A person<n>An element
+
+@17FEC max=119
+JP: 次のうち、モーパッサンの執筆によるものはどれ？
+EN: Which of these works was written by Maupassant?
+
+@18064 max=63
+JP: 桜の園<n>狭き門<n>女の一生
+EN: The Cherry Orchard<n>Strait Is the Gate<n>A Woman's Life
+
+@180AC max=119
+JP: 実際にない風はどれ？
+EN: Which of these winds does not exist?
+
+@18124 max=63
+JP: 極偏東風<n>南東貿易風<n>赤道直風
+EN: Polar easterlies<n>SE trade winds<n>Equatorial straight winds
+
+@1816C max=119
+JP: サハラ砂漠は北海道とほぼ同じ広さだ！
+EN: The Sahara Desert is roughly the same size as Hokkaido!
+
+@181E4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1822C max=119
+JP: 次のうち、鎌倉時代に活躍した文学者は誰？
+EN: Which writer was active during the Kamakura period?
+
+@182A4 max=63
+JP: 清少納言<n>松尾芭蕉<n>吉田兼好
+EN: Sei Shonagon<n>Matsuo Basho<n>Yoshida Kenko
+
+@182EC max=119
+JP: ルイ１４世は、どこの国の国王？
+EN: Louis XIV was king of which country?
+
+@18364 max=63
+JP: イギリス<n>オーストリア<n>フランス
+EN: Britain<n>Austria<n>France
+
+@183AC max=119
+JP: 少年よ、大志を抱け！これ誰の言葉？
+EN: Who said, "Boys, be ambitious!"?
+
+@18424 max=63
+JP: クラーク<n>ガンジー<n>ワシントン
+EN: Clark<n>Gandhi<n>Washington
+
+@1846C max=119
+JP: 東京都の県花は、次のうちどれ？
+EN: Which is Tokyo's official flower?
+
+@184E4 max=63
+JP: チューリップ<n>ツツジ<n>ソメイヨシノ
+EN: Tulip<n>Azalea<n>Somei Yoshino cherry
+
+@1852C max=119
+JP: 宇宙で船外活動をするときの、<n>いわゆる宇宙服をあらわすのはどれ？
+EN: Which abbreviation refers to the spacesuit<n>worn during spacewalks?
+
+@185A4 max=63
+JP: ＥＭＵ<n>ＣＵＳ<n>ＯＡＷ
+EN: EMU<n>CUS<n>OAW
+
+@185EC max=119
+JP: 米国の首都はどこ？
+EN: What is the capital of the United States?
+
+@18664 max=63
+JP: ニューヨーク<n>ロスアンゼルス<n>ワシントンＤＣ
+EN: New York<n>Los Angeles<n>Washington, D.C.
+
+@186AC max=119
+JP: 地球を野球のボールの大きさとすると、火星は？
+EN: If Earth were the size of a baseball, how big would Mars be?
+
+@18724 max=63
+JP: パチンコ玉<n>ゴルフボール<n>バスケットボール
+EN: A pachinko ball<n>A golf ball<n>A basketball
+
+@1876C max=119
+JP: 火星の衛星でないのは？
+EN: Which is not a moon of Mars?
+
+@187E4 max=63
+JP: フォボス<n>ベガ<n>ディモス
+EN: Phobos<n>Vega<n>Deimos
+
+@1882C max=119
+JP: 気象衛星や放送衛星が<n>周回している静止軌道の高度は？
+EN: How high is the geostationary orbit<n>used by weather and broadcasting satellites?
+
+@188A4 max=63
+JP: ５００キロ<n>３６０００キロ<n>７８００００キロ
+EN: 500 km<n>36,000 km<n>780,000 km
+
+@188EC max=119
+JP: ＡＭ放送の周波数はキロヘルツ。<n>では、ＦＭ放送の周波数は？
+EN: AM radio frequencies are given in kilohertz.<n>What unit is used for FM radio?
+
+@18964 max=63
+JP: キロヘルツ<n>メガヘルツ<n>メガキロヘルツ
+EN: Kilohertz<n>Megahertz<n>Megakilohertz
+
+@189AC max=119
+JP: 石炭は太古の微生物の死骸を元にしてできあがった！
+EN: Coal formed from the remains of ancient microorganisms!
+
+@18A24 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@18A6C max=119
+JP: 原油を蒸留するときに<n>最初に液化されて出てくるのは重油である！
+EN: When crude oil is distilled,<n>heavy oil is the first product to condense into liquid!
+
+@18AE4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@18B2C max=119
+JP: クローンとは、ギリシャ語の小枝の意味だ！
+EN: The word "clone" comes from the Greek word for "twig"!
+
+@18BA4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@18BEC max=119
+JP: ＤＮＡの塩基の種類は３種類だ！
+EN: DNA has three types of bases!
+
+@18C64 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@18CAC max=119
+JP: 磁気共鳴映像法はどれ？
+EN: Which of these stands for magnetic resonance imaging?
+
+@18D24 max=63
+JP: ＣＴ<n>ＭＲＩ<n>レントゲン
+EN: CT<n>MRI<n>X-ray
+
+@18D6C max=119
+JP: コロンブスが新大陸を発見したのは何年？
+EN: In what year did Columbus discover the New World?
+
+@18DE4 max=63
+JP: １４９２年<n>１２９２年<n>１０９２年
+EN: 1492<n>1292<n>1092
+
+@18E2C max=119
+JP: 標準時の通報を担当しているのは総務省だ！
+EN: Japan's Ministry of Internal Affairs and Communications is responsible for broadcasting standard time!
+
+@18EA4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@18EEC max=119
+JP: 元日の次にくる、国民の祝日は何の日？
+EN: Which Japanese national holiday comes next after New Year's Day?
+
+@18F64 max=63
+JP: 建国記念の日<n>春分の日<n>成人の日
+EN: Foundation Day<n>Vernal Equinox Day<n>Coming of Age Day
+
+@18FAC max=119
+JP: 次のうち、野菜の切り方を表すものはどれ？
+EN: Which of these is a way of cutting vegetables?
+
+@19024 max=63
+JP: さきがけ<n>ささがき<n>たけがき
+EN: Blazing a trail<n>Shaving slivers<n>Building a fence
+
+@1906C max=119
+JP: 次にあげる球技の中で、いちばん大きいボールを<n>使っているのはどれ？
+EN: Which of these sports uses the largest ball?
+
+@190E4 max=63
+JP: 野球<n>バレーボール<n>バスケットボール
+EN: Baseball<n>Volleyball<n>Basketball
+
+@1912C max=119
+JP: 東京で夏季オリンピックが開催されたのは何年？
+EN: In what year did Tokyo host the Summer Olympics?
+
+@191A4 max=63
+JP: １９４０年<n>１９６４年<n>１９７２年
+EN: 1940<n>1964<n>1972
+
+@191EC max=119
+JP: １９７４年に、ノーベル平和賞を受賞した<n>日本の元総理大臣は誰？
+EN: Which former Japanese prime minister won the Nobel Peace Prize in 1974?
+
+@19264 max=63
+JP: 佐藤栄作<n>田中角栄<n>中曽根康弘
+EN: Eisaku Sato<n>Kakuei Tanaka<n>Yasuhiro Nakasone
+
+@192AC max=119
+JP: 太陽表面の磁場がもつれて再結合することで、<n>大気中のガスが高温になって噴出することを何という？
+EN: What is an eruption of hot gas caused by tangled magnetic fields reconnecting on the Sun called?
+
+@19324 max=63
+JP: ディック・フレア<n>太陽光線<n>太陽フレア
+EN: Dick Flair<n>Sunlight<n>Solar flare
+
+@1936C max=119
+JP: 実際にある宇宙論はどれ？
+EN: Which of these is a real cosmological model?
+
+@193E4 max=63
+JP: ド・ジッタ－<n>マ・イッタ－<n>ヤ・バイッカー
+EN: De Sitter<n>De Quitter<n>De Panicker
+
+@1942C max=119
+JP: ＷＨＯって何の略？
+EN: What does WHO stand for?
+
+@194A4 max=63
+JP: 世界保健機関<n>国連児童基金<n>北大西洋条約機構
+EN: World Health Org.<n>UN Children's Fund<n>NATO
+
+@194EC max=119
+JP: 台風の渦が南半球では時計回り、<n>北半球では反時計回りなのは？
+EN: Why do typhoons spin clockwise in the Southern Hemisphere and counterclockwise in the Northern Hemisphere?
+
+@19564 max=63
+JP: カタコリ効果<n>コリオリ効果<n>オリヨタ効果
+EN: Stiff-neck effect<n>Coriolis effect<n>Oriyota effect
+
+@195AC max=119
+JP: 時報を聞きたいときかける電話番号は？
+EN: What number do you dial in Japan to hear the time?
+
+@19624 max=63
+JP: １７７<n>１１７<n>７１１
+EN: 177<n>117<n>711
+
+@1966C max=119
+JP: 世界一面積の大きい国はどこ？
+EN: Which country is the largest in the world by area?
+
+@196E4 max=63
+JP: カナダ<n>ロシア連邦<n>中国
+EN: Canada<n>Russian Federation<n>China
+
+@1972C max=119
+JP: 世界中で一番、牛の生産が多い国はどこ？
+EN: Which country raises the most cattle in the world?
+
+@197A4 max=63
+JP: ニュージーランド<n>アメリカ<n>インド
+EN: New Zealand<n>United States<n>India
+
+@197EC max=119
+JP: 日本からの出国者が一番多い国はどこ？
+EN: Which country receives the most visitors from Japan?
+
+@19864 max=63
+JP: アメリカ<n>韓国<n>ブラジル
+EN: United States<n>South Korea<n>Brazil
+
+@198AC max=119
+JP: 光の三原則に含まれない色はどれ？
+EN: Which is NOT a primary color of light?
+
+@19924 max=63
+JP: 赤<n>青<n>黄
+EN: Red<n>Blue<n>Yellow
+
+@1996C max=119
+JP: 「オイディプス王」を著したのは？
+EN: Who wrote "Oedipus Rex"?
+
+@199E4 max=63
+JP: 太宰治<n>ソクラテス<n>ソポクレス
+EN: Osamu Dazai<n>Socrates<n>Sophocles
+
+@19A2C max=119
+JP: ダンテの作品でないのはどれ？
+EN: Which of these is NOT a work by Dante?
+
+@19AA4 max=63
+JP: 新生<n>神曲<n>新曲
+EN: The New Life<n>The Divine Comedy<n>A New Tune
+
+@19AEC max=119
+JP: ボッカチオの作品でないはどれ？
+EN: Which of these is NOT a work by Boccaccio?
+
+@19B64 max=63
+JP: デカイメロン<n>フィロコーポ<n>デカメロン
+EN: The Giant Melon<n>Filocolo<n>The Decameron
+
+@19BAC max=119
+JP: 死ぬべきか生きるべきか、それが問題だ。<n>この作品名は？
+EN: "To be, or not to be: that is the question."<n>Which play is this from?
+
+@19C24 max=63
+JP: オセロ<n>ハムレット<n>マクベス
+EN: Othello<n>Hamlet<n>Macbeth
+
+@19C6C max=119
+JP: モリエールの作品はどれ？
+EN: Which play is by Moliere?
+
+@19CE4 max=63
+JP: 英雄気取り<n>才女気取り<n>殿様気取り
+EN: Would-Be Heroes<n>The Affected Ladies<n>Would-Be Lords
+
+@19D2C max=119
+JP: オースティンの作品はどれ？
+EN: Which novel is by Jane Austen?
+
+@19DA4 max=63
+JP: 高慢と偏見<n>分別と廃棄<n>偏見と多感
+EN: Pride and Prejudice<n>Sense and Waste<n>Prejudice & Feeling
+
+@19DEC max=119
+JP: サドの作品でないのはどれ？
+EN: Which work is NOT by the Marquis de Sade?
+
+@19E64 max=63
+JP: 美徳の不運<n>悪徳の栄え<n>美保の不運
+EN: Virtue's Misfortunes<n>Vice's Prosperity<n>Miho's Misfortunes
+
+@19EAC max=119
+JP: アメリカの正式名称は？
+EN: What is America's official name?
+
+@19F24 max=63
+JP: アメリカ共和国<n>アメリカ連邦国<n>アメリカ合衆国
+EN: American Republic<n>U.S. Federation<n>United States of America
+
+@19F6C max=119
+JP: 日本の国鳥は？
+EN: What is Japan's national bird?
+
+@19FE4 max=63
+JP: トキ<n>ツル<n>キジ
+EN: Crested ibis<n>Crane<n>Green pheasant
+
+@1A02C max=119
+JP: スタンダールの作品は？
+EN: Which novel is by Stendhal?
+
+@1A0A4 max=63
+JP: 罪と罰<n>戦争と平和<n>赤と黒
+EN: Crime and Punishment<n>War and Peace<n>The Red and the Black
+
+@1A0EC max=119
+JP: ゾラの作品は？
+EN: Which novel is by Zola?
+
+@1A164 max=63
+JP: 居酒屋<n>家具屋<n>小間物屋
+EN: The Drinking Den<n>The Furniture Shop<n>The Notions Shop
+
+@1A1AC max=119
+JP: 「ジキル博士とハイド氏」でおなじみの<n>スティーブンソンの作品は？
+EN: Which novel is by Stevenson, author of<n>Dr. Jekyll and Mr. Hyde?
+
+@1A224 max=63
+JP: かどわかされて<n>なぐりとばされて<n>いたいめにあって
+EN: Kidnapped<n>Knocked Out<n>Beaten Up
+
+@1A26C max=119
+JP: トマス・ハーディの作品と言えば？
+EN: Which novel is by Thomas Hardy?
+
+@1A2E4 max=63
+JP: テン<n>テス<n>テル
+EN: Ten<n>Tess<n>Tell
+
+@1A32C max=119
+JP: 敵に囲まれ孤立無援になった状態を<n>四文字熟語で表すと？
+EN: Which idiom means being surrounded by enemies<n>with no one to turn to?
+
+@1A3A4 max=63
+JP: 主客転倒<n>木端微塵<n>四面楚歌
+EN: Tables turned<n>Blown to bits<n>Enemies on all sides
+
+@1A3EC max=119
+JP: ヘンリ－・ミラーは<n>「南回帰線」も「北回帰線」も著している！
+EN: Henry Miller wrote both Tropic of Capricorn<n>and Tropic of Cancer!
+
+@1A464 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1A4AC max=119
+JP: ウラジミールとエストラゴンが待っているのは誰？
+EN: Who are Vladimir and Estragon waiting for?
+
+@1A524 max=63
+JP: ガドー<n>クド－<n>ゴドー
+EN: Gadot<n>Kudot<n>Godot
+
+@1A56C max=119
+JP: 大気都比売神（おほげつひめのかみ）のなきがらから<n>生まれた五穀は、稲、小豆、麦、大豆と？
+EN: From Ogetsuhime's body came rice, adzuki beans,<n>barley, soybeans and which other crop?
+
+@1A5E4 max=63
+JP: ごま<n>あわ<n>こま
+EN: Sesame<n>Millet<n>Spinning tops
+
+@1A62C max=119
+JP: たまねぎの切り口からは硫化アリルという<n>硫黄化合物が出るため涙が出る！
+EN: Cut onions release allyl sulfide, a sulfur compound<n>that makes your eyes water!
+
+@1A6A4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1A6EC max=119
+JP: アラビア語で川や河床を意味し、<n>普段は水の流れていない川のことをなんという？
+EN: Which Arabic word for a river or riverbed<n>means a river that is usually dry?
+
+@1A764 max=63
+JP: カジ<n>ソジ<n>ワジ
+EN: Kaji<n>Soji<n>Wadi
+
+@1A7AC max=119
+JP: 中国の砂漠地帯の砂が日本に飛来する現象は？
+EN: What is the dust blown to Japan<n>from China's deserts called?
+
+@1A824 max=63
+JP: 黄砂現象<n>飛砂現象<n>砂嵐現象
+EN: Yellow dust<n>Blowing sand<n>Sandstorms
+
+@1A86C max=119
+JP: 死海は湖だ！
+EN: The Dead Sea is a lake!
+
+@1A8E4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1A92C max=119
+JP: 他人の土地で発見した埋蔵金は誰のもの？
+EN: Who owns buried treasure found on someone else's land?
+
+@1A9A4 max=63
+JP: 発見者<n>土地所有者<n>両方
+EN: The finder<n>The landowner<n>Both
+
+@1A9EC max=119
+JP: 江戸の五街道は、<n>東海道、中山道、甲州街道、日光街道と？
+EN: Edo's Five Routes were the Tokaido, Nakasendo,<n>Koshu Kaido, Nikko Kaido and which other route?
+
+@1AA64 max=63
+JP: 奥州街道<n>本州街道<n>九州街道
+EN: Oshu Kaido<n>Honshu Kaido<n>Kyushu Kaido
+
+@1AAAC max=119
+JP: 果物スイカを英語で言うと？
+EN: What is the English name for the fruit 'suika'?
+
+@1AB24 max=63
+JP: ストライプメロン<n>ピンクメロン<n>ウォーターメロン
+EN: Striped melon<n>Pink melon<n>Watermelon
+
+@1AB6C max=119
+JP: ソクラテスの妻の名前は？
+EN: What was Socrates' wife's name?
+
+@1ABE4 max=63
+JP: イナカッペ<n>クサンチッペ<n>ニギリッペ
+EN: Country bumpkin<n>Xanthippe<n>Handful of fart
+
+@1AC2C max=119
+JP: ソクラテスが唱えたのは？
+EN: Which idea did Socrates teach?
+
+@1ACA4 max=63
+JP: 無知の知<n>無知の無<n>無知の涙
+EN: Aware of ignorance<n>No ignorance<n>Tears of ignorance
+
+@1ACEC max=119
+JP: アメリカの星条旗、現在の星の数はいくつ？
+EN: How many stars are on the current American flag?
+
+@1AD64 max=63
+JP: ３５<n>５０<n>６２
+EN: 35<n>50<n>62
+
+@1ADAC max=119
+JP: 古代ギリシャ人の道徳観の核心である四元徳は、<n>知恵、勇気、節制と？
+EN: The four cardinal virtues of ancient Greece are wisdom, courage, temperance and what?
+
+@1AE24 max=63
+JP: 誠意<n>正義<n>負けん気
+EN: Sincerity<n>Justice<n>Determination
+
+@1AE6C max=119
+JP: 古代ギリシャに実際にいた人物は？
+EN: Who really lived in ancient Greece?
+
+@1AEE4 max=63
+JP: プロタゴラス<n>プロパンガス<n>プレタポルテ
+EN: Protagoras<n>Propane gas<n>Ready-to-wear
+
+@1AF2C max=119
+JP: 思想家でないのは？
+EN: Which is not a philosopher?
+
+@1AFA4 max=63
+JP: カルビン<n>ベーコン<n>ロース
+EN: Calvin<n>Bacon<n>Pork loin
+
+@1AFEC max=119
+JP: 春の七草でないのは？
+EN: Which is not one of Japan's seven herbs of spring?
+
+@1B064 max=63
+JP: ごぎょう<n>おみなえし<n>はこべら
+EN: Cudweed<n>Golden lace<n>Chickweed
+
+@1B0AC max=119
+JP: おとそとは、唐の時代に医者が<n>風邪の予防のために作った薬だった！
+EN: Toso, New Year's spiced sake, began as a Tang-era doctor's remedy to prevent colds!
+
+@1B124 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1B16C max=119
+JP: おせち料理の基本は三つ肴。<n>関東では、黒豆、数の子と、もうひとつは？
+EN: Osechi has three staple dishes. In Kanto, they're black soybeans, herring roe and what?
+
+@1B1E4 max=63
+JP: ごまめ<n>こんにゃく<n>きんとん
+EN: Dried sardines<n>Konjac<n>Sweet chestnut mash
+
+@1B22C max=119
+JP: おせち料理の基本は三つ肴。<n>関西では、黒豆、数の子と、もうひとつは？
+EN: Osechi has three staple dishes. In Kansai, they're black soybeans, herring roe and what?
+
+@1B2A4 max=63
+JP: かつおたたき<n>いりこんにゃく<n>たたきゴボウ
+EN: Seared bonito<n>Fried konjac<n>Pounded burdock
+
+@1B2EC max=119
+JP: 二十四節気にないのはどれ？
+EN: Which is not one of the 24 solar terms in the traditional calendar?
+
+@1B364 max=63
+JP: 雨水<n>節分<n>秋分
+EN: Rain Water<n>Setsubun<n>Autumn Equinox
+
+@1B3AC max=119
+JP: 暦法にないのはどれ？
+EN: Which is not a calendar system?
+
+@1B424 max=63
+JP: グレゴリオ暦<n>ユリエス暦<n>クレレ暦
+EN: Gregorian<n>Julian<n>Kurere
+
+@1B46C max=119
+JP: 実在の人物は？
+EN: Which figure really existed?
+
+@1B4E4 max=63
+JP: 金太郎<n>桃太郎<n>浦島太郎
+EN: Kintaro<n>Momotaro<n>Urashima Taro
+
+@1B52C max=119
+JP: 七つの大罪。高慢、貪欲、色情、怒気、羨望、怠惰、<n>ともうひとつは？
+EN: The seven deadly sins are pride, greed, lust, wrath, envy, sloth and what?
+
+@1B5A4 max=63
+JP: 暴飲<n>暴食<n>浪費
+EN: Binge drinking<n>Gluttony<n>Squandering
+
+@1B5EC max=119
+JP: 七つの徳。深厚、希望、仁愛、分別、正義、自制、<n>ともうひとつは？
+EN: The seven virtues are faith, hope, charity, prudence, justice, temperance and what?
+
+@1B664 max=63
+JP: 不屈<n>誠意<n>慈悲
+EN: Fortitude<n>Sincerity<n>Mercy
+
+@1B6AC max=119
+JP: ラッキーセブンはもともと野球用語だった！
+EN: 'Lucky seven' was originally a baseball term!
+
+@1B724 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1B76C max=119
+JP: 「松明」はなんと読む？
+EN: How do you read the Japanese word for 'torch', written with the kanji for 'pine' and 'bright'?
+
+@1B7E4 max=63
+JP: しょうみょう<n>かがりび<n>たいまつ
+EN: Shomyo<n>Kagaribi<n>Taimatsu
+
+@1B82C max=119
+JP: １０のマイナス２０乗を「清浄」と言う？
+EN: Is 10^-20 called 'seijo' in Japanese?
+
+@1B8A4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1B8EC max=119
+JP: １０の６８乗は？
+EN: What is the Japanese name for 10^68?
+
+@1B964 max=63
+JP: 無量大数<n>素数<n>無限大
+EN: Muryotaisu<n>Prime number<n>Infinity
+
+@1B9AC max=119
+JP: うさぎの数え方は？
+EN: Which Japanese counter is used for rabbits?
+
+@1BA24 max=63
+JP: 一蹄<n>一羽<n>一頭
+EN: Ittei (hoof)<n>Ichiwa (bird)<n>Itto (head)
+
+@1BA6C max=119
+JP: 仏像の数え方にないものは？
+EN: Which Japanese counter is NOT used for Buddha statues?
+
+@1BAE4 max=63
+JP: 一体<n>一頭<n>一像
+EN: Ittai (body)<n>Itto (head)<n>Ichizo (image)
+
+@1BB2C max=119
+JP: 鳥居の数え方は？
+EN: Which Japanese counter is used for torii gates?
+
+@1BBA4 max=63
+JP: 一門<n>一鳥<n>一基
+EN: Ichimon (gate)<n>Ichicho (bird)<n>Ikki (structure)
+
+@1BBEC max=119
+JP: 豆腐の数え方は？
+EN: Which Japanese counter is used for tofu?
+
+@1BC64 max=63
+JP: 一帳<n>一丁<n>一張
+EN: 1 cho (ledger)<n>1 cho (block)<n>1 cho (stretched)
+
+@1BCAC max=119
+JP: タンスの数え方は？
+EN: Which Japanese counter is used for a chest of drawers?
+
+@1BD24 max=63
+JP: 一棹<n>一箱<n>一卓
+EN: 1 sao (pole)<n>1 hako (box)<n>1 taku (table)
+
+@1BD6C max=119
+JP: 鼓の数え方は？
+EN: Which Japanese counter is used for a tsuzumi hand drum?
+
+@1BDE4 max=63
+JP: 一垂<n>一張<n>一面
+EN: 1 sui (hanging)<n>1 cho (stretched)<n>1 men (surface)
+
+@1BE2C max=119
+JP: 髪をとかすクシの数え方は？
+EN: Which Japanese counter is used for a hair comb?
+
+@1BEA4 max=63
+JP: 一串<n>一枚<n>一面
+EN: 1 kushi (skewer)<n>1 mai (sheet)<n>1 men (surface)
+
+@1BEEC max=119
+JP: 琴の数え方は？
+EN: Which Japanese counter is used for a koto?
+
+@1BF64 max=63
+JP: 一台<n>一竿<n>一面
+EN: 1 dai (device)<n>1 sao (pole)<n>1 men (surface)
+
+@1BFAC max=119
+JP: スイカの数え方は？
+EN: Which Japanese counter is used for a watermelon?
+
+@1C024 max=63
+JP: 一球<n>一玉<n>一丸
+EN: 1 kyu (sphere)<n>1 tama (ball)<n>1 maru (circle)
+
+@1C06C max=119
+JP: 本棚の数え方は？
+EN: Which Japanese counter is used for a bookcase?
+
+@1C0E4 max=63
+JP: 一架<n>一箱<n>一棚
+EN: 1 ka (rack)<n>1 hako (box)<n>1 tana (shelf)
+
+@1C12C max=119
+JP: お地蔵様の数え方は？
+EN: Which Japanese counter is used for a Jizo statue?
+
+@1C1A4 max=63
+JP: 一尊<n>一蔵<n>一石
+EN: 1 son (holy image)<n>1 zo (storehouse)<n>1 seki (stone)
+
+@1C1EC max=119
+JP: いちばん長いのは？
+EN: Which traditional Japanese unit is the longest?
+
+@1C264 max=63
+JP: 一尺<n>一間<n>一丈
+EN: 1 shaku<n>1 ken<n>1 jo
+
+@1C2AC max=119
+JP: いちばん大きいのは？
+EN: Which paper size is the largest?
+
+@1C324 max=63
+JP: Ｂ１<n>Ａ１<n>Ｂ２
+EN: B1<n>A1<n>B2
+
+@1C36C max=119
+JP: 日本の動物園にいないのは？
+EN: Which animal won't you find in a Japanese zoo?
+
+@1C3E4 max=63
+JP: 申<n>未<n>辰
+EN: Monkey<n>Sheep<n>Dragon
+
+@1C42C max=119
+JP: 午前０時は？
+EN: In Japan's traditional time system, midnight is the hour of...?
+
+@1C4A4 max=63
+JP: 子の刻<n>親の刻<n>猫の刻
+EN: The Rat<n>The Parent<n>The Cat
+
+@1C4EC max=119
+JP: 二十四節気のうち、１２月にあるのは？
+EN: Which of the 24 solar terms falls in December?
+
+@1C564 max=63
+JP: 小雪<n>大雪<n>小寒
+EN: Minor Snow<n>Major Snow<n>Minor Cold
+
+@1C5AC max=119
+JP: ８０歳のお祝は？
+EN: What is Japan's 80th-birthday celebration called?
+
+@1C624 max=63
+JP: 米寿<n>傘寿<n>卒寿
+EN: Beiju<n>Sanju<n>Sotsuju
+
+@1C66C max=119
+JP: 「論語」で６０歳は？
+EN: In the Analects, what word describes Confucius's ears at age 60?
+
+@1C6E4 max=63
+JP: 耳鳴り<n>耳障り<n>耳順
+EN: Ringing<n>Irritating<n>Obedient
+
+@1C72C max=119
+JP: ２００５年現在、日本の郵便番号は何桁？
+EN: As of 2005, how many digits are in a Japanese postal code?
+
+@1C7A4 max=63
+JP: ３桁<n>６桁<n>７桁
+EN: 3 digits<n>6 digits<n>7 digits
+
+@1C7EC max=119
+JP: オリンピックは参加することに意義がある、<n>と言ったとされるのは？
+EN: Who is credited with saying that, at the Olympics,<n>taking part is what matters?
+
+@1C864 max=63
+JP: クーベルタン<n>アベベ<n>ソクラテス
+EN: Coubertin<n>Abebe<n>Socrates
+
+@1C8AC max=119
+JP: 通常、除夜の鐘は何回打つ？
+EN: How many times are temple bells usually rung on New Year's Eve in Japan?
+
+@1C924 max=63
+JP: １<n>１０８<n>７７７
+EN: 1<n>108<n>777
+
+@1C96C max=119
+JP: 次にあげる国の中で、<n>国旗に葉のデザインが採用されているのは？
+EN: Which of these countries<n>has a leaf on its national flag?
+
+@1C9E4 max=63
+JP: カナダ<n>日本<n>フランス
+EN: Canada<n>Japan<n>France
+
+@1CA2C max=119
+JP: 色の３つの属性は、明度、色相と？
+EN: The three attributes of color are lightness, hue and...?
+
+@1CAA4 max=63
+JP: 色気<n>色温度<n>彩度
+EN: Sex appeal<n>Color temperature<n>Saturation
+
+@1CAEC max=119
+JP: 実際にあったのは？
+EN: Which of these economic booms really happened in Japan?
+
+@1CB64 max=63
+JP: さざなみ景気<n>いざなぎ景気<n>つなみ景気
+EN: Sazanami boom<n>Izanagi boom<n>Tsunami boom
+
+@1CBAC max=119
+JP: 綱引きがオリンピック競技だったことがある！
+EN: Tug-of-war was once an Olympic sport!
+
+@1CC24 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1CC6C max=119
+JP: ゴルフがオリンピック競技だったことがある！
+EN: Golf was once an Olympic sport!
+
+@1CCE4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1CD2C max=119
+JP: モーターボートが<n>オリンピック競技だったことがある！
+EN: Motorboat racing was once<n>an Olympic sport!
+
+@1CDA4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1CDEC max=119
+JP: ダーツがオリンピック競技だったことがある！
+EN: Darts was once an Olympic sport!
+
+@1CE64 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1CEAC max=119
+JP: ビリヤードのできるバーはなんと呼ぶ？
+EN: What do you call a bar where you can play billiards?
+
+@1CF24 max=63
+JP: パブ<n>ヤードバー<n>プールバー
+EN: Pub<n>Yard bar<n>Pool bar
+
+@1CF6C max=119
+JP: オリンピックに選手宣誓がなかったことがある！
+EN: Some Olympic Games had no athletes' oath!
+
+@1CFE4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1D02C max=119
+JP: オリンピックに選手村がなかったことがある！
+EN: Some Olympic Games had no Olympic Village!
+
+@1D0A4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1D0EC max=119
+JP: オリンピックの大会キャラクターでないものは？
+EN: Which of these is NOT an Olympic mascot?
+
+@1D164 max=63
+JP: ホドリ<n>コビ<n>コピタン
+EN: Hodori<n>Cobi<n>Copitan
+
+@1D1AC max=119
+JP: 古事記と日本書紀、先に書かれたのは日本書紀だ。
+EN: The Nihon Shoki was written before the Kojiki.
+
+@1D224 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1D26C max=119
+JP: 大相撲で、一番強い力士の位は何？
+EN: What is the highest rank in sumo wrestling?
+
+@1D2E4 max=63
+JP: 大関<n>小結<n>横綱
+EN: Ozeki<n>Komusubi<n>Yokozuna
+
+@1D32C max=119
+JP: ５つの基本味といわれるのは、<n>塩味、酸味、甘味、うま味、もうひとつは？
+EN: The five basic tastes are salty, sour,<n>sweet, umami... and what else?
+
+@1D3A4 max=63
+JP: 渋味<n>苦味<n>意味
+EN: Astringency<n>Bitterness<n>Meaning
+
+@1D3EC max=119
+JP: イギリスの首都はロンドンである！
+EN: London is the capital of the United Kingdom!
+
+@1D464 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1D4AC max=119
+JP: 「月代」はなんて読む？
+EN: How do you read the kanji for a samurai's shaved crown?
+
+@1D524 max=63
+JP: さかやき<n>つきしろ<n>げっぷ
+EN: Sakayaki<n>Tsukishiro<n>Geppu
+
+@1D56C max=119
+JP: 「ＪＡＰＡＮ」とは国名のほかに<n>漆という意味がある！
+EN: Besides being a country's name,<n>'japan' can also mean lacquer!
+
+@1D5E4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1D62C max=119
+JP: 沖縄料理なのは？
+EN: Which of these is an Okinawan dish?
+
+@1D6A4 max=63
+JP: ミミガー<n>みそカツ<n>きりたんぽ
+EN: Mimiga<n>Miso katsu<n>Kiritanpo
+
+@1D6EC max=119
+JP: 日本の窯場にないものは？
+EN: Which of these is NOT a Japanese pottery style?
+
+@1D764 max=63
+JP: 小鹿田焼<n>波佐見焼<n>明石焼き
+EN: Onta ware<n>Hasami ware<n>Akashiyaki
+
+@1D7AC max=119
+JP: 焼肉などで食べるタンとは、牛の尻尾の部分である！
+EN: The 'tan' served at Japanese barbecues is beef tail!
+
+@1D824 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1D86C max=119
+JP: 富士山の標高は３７７６メートルである！
+EN: Mount Fuji is 3,776 meters tall!
+
+@1D8E4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1D92C max=119
+JP: ベトナムのやきものは何と書く？
+EN: What is Vietnamese pottery called in Japanese?
+
+@1D9A4 max=63
+JP: 南国手<n>安南手<n>ベト焼き
+EN: Nangokude<n>Annande<n>Veto-yaki
+
+@1D9EC max=119
+JP: バターにはゴルゴンゾーラ、リコッタなどの<n>種類がある！
+EN: Gorgonzola and ricotta are<n>types of butter!
+
+@1DA64 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1DAAC max=119
+JP: ハウンド・トゥースとは？
+EN: What does 'houndstooth' refer to?
+
+@1DB24 max=63
+JP: 千鳥格子<n>大島紬<n>水玉模様
+EN: Broken-check pattern<n>Oshima silk<n>Polka dots
+
+@1DB6C max=119
+JP: 母の日に贈る花の定番は、カーネーションである！
+EN: Carnations are the traditional flowers to give on Mother's Day!
+
+@1DBE4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1DC2C max=119
+JP: オリオン座は日本からは見えない星座である！
+EN: Orion is a constellation that cannot be seen from Japan!
+
+@1DCA4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1DCEC max=119
+JP: 袖の種類にないものは？
+EN: Which of these is NOT a type of sleeve?
+
+@1DD64 max=63
+JP: フレンチ<n>ラグラン<n>フリル
+EN: French<n>Raglan<n>Frill
+
+@1DDAC max=119
+JP: フランス国王妃マリー・アントワネットは<n>絞首刑になった！
+EN: Marie Antoinette, Queen of France,<n>was executed by hanging!
+
+@1DE24 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1DE6C max=119
+JP: パティシエとは、お菓子職人のことである！
+EN: A patissier is a pastry chef!
+
+@1DEE4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1DF2C max=119
+JP: 中国の農村の田植え歌は？
+EN: What is the rice-planting song of rural China called?
+
+@1DFA4 max=63
+JP: かごめかごめ<n>ヤンコ<n>第九
+EN: Kagome Kagome<n>Yangge<n>Beethoven's Ninth
+
+@1DFEC max=119
+JP: 今にも雪の降りそうな空模様は？
+EN: What do you call a sky that looks ready to snow?
+
+@1E064 max=63
+JP: 雪天<n>雪前<n>雪だるま
+EN: Snowy sky<n>Before snow<n>Snowman
+
+@1E0AC max=119
+JP: 夏の季語ではないのは？
+EN: Which is NOT a summer season word in haiku?
+
+@1E124 max=63
+JP: 納豆作る<n>木の枝払う<n>庭木刈る
+EN: Making natto<n>Trimming branches<n>Pruning garden trees
+
+@1E16C max=119
+JP: 冬の季語は？
+EN: Which is a winter season word in haiku?
+
+@1E1E4 max=63
+JP: にごり酒<n>にこごり<n>浅漬け
+EN: Cloudy sake<n>Jellied broth<n>Quick pickles
+
+@1E22C max=119
+JP: 風の名前で存在するものは？
+EN: Which of these is a real name for a wind?
+
+@1E2A4 max=63
+JP: いなせ<n>やながせ<n>いなさ
+EN: Inase<n>Yanagase<n>Inasa
+
+@1E2EC max=119
+JP: 本当にあるのは？
+EN: Which of these winds really exists?
+
+@1E364 max=63
+JP: あいの風<n>こいの風<n>ゆめの風
+EN: Ainokaze<n>Koinokaze<n>Yumenokaze
+
+@1E3AC max=119
+JP: 中国語で「おしまい」とは？
+EN: How do you say "It's over" in Chinese?
+
+@1E424 max=63
+JP: スンダ<n>ワンラ<n>シェーシェー
+EN: Sunda<n>Wan le<n>Xie xie
+
+@1E46C max=119
+JP: 理髪店のシンボルの色は、<n>動脈、静脈、包帯を表している！
+EN: The colors on a barber pole<n>represent arteries, veins and bandages!
+
+@1E4E4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1E52C max=119
+JP: タクシーはバックしているとき<n>メーターが上がらない！
+EN: A taxi's meter doesn't go up<n>while it's reversing!
+
+@1E5A4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1E5EC max=119
+JP: 人体で、一番多く水分を含んでいるのは脳である！
+EN: The brain has the highest water content of any part of the human body!
+
+@1E664 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1E6AC max=119
+JP: すーーっっぱいレモン、<n>もちろんレモンは酸性食品である！
+EN: Lemons are sooo sour!<n>Of course they're an acid-forming food!
+
+@1E724 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1E76C max=119
+JP: 将棋の駒、歩は、徒歩の「と」なので<n>裏には「と」と記されている！
+EN: The "to" on a shogi pawn's back<n>stands for "toho," meaning "walking"!
+
+@1E7E4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1E82C max=119
+JP: 観音様は、もともと女性である！
+EN: Kannon, the Buddhist deity of compassion, was originally female!
+
+@1E8A4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1E8EC max=119
+JP: 中華なべでもパラボラ・アンテナの代わりになる！
+EN: You can even use a wok as a satellite dish!
+
+@1E964 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1E9AC max=119
+JP: 映画ローマの休日の主演女優は、<n>キャサリン・ヘップバーンである！
+EN: The leading lady in Roman Holiday<n>is Katharine Hepburn!
+
+@1EA24 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1EA6C max=119
+JP: アメリカ合衆国の独立記念日は７月５日である！
+EN: Independence Day in the United States is July 5!
+
+@1EAE4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1EB2C max=119
+JP: マンボウは一回に２億個以上の卵を産む！
+EN: An ocean sunfish lays over 200 million eggs at a time!
+
+@1EBA4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1EBEC max=119
+JP: フランス語でこんにちは、のことは<n>ボンジュールという！
+EN: In French, you say "bonjour"<n>to say hello!
+
+@1EC64 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1ECAC max=119
+JP: アイスクリームが最初に作られた国は<n>フランスである！
+EN: The first country to make ice cream<n>was France!
+
+@1ED24 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1ED6C max=119
+JP: 蝶々の羽についている粉は、でん粉という！
+EN: The powder on a butterfly's wings is starch!
+
+@1EDE4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1EE2C max=119
+JP: 朝顔は日本原産の花である！
+EN: Morning glories are native to Japan!
+
+@1EEA4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1EEEC max=119
+JP: かんぴょうの原材料は、植物の夕顔である！
+EN: Kanpyo strips are made from bottle gourds!
+
+@1EF64 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1EFAC max=119
+JP: アオザイはモンゴルの民族衣装のことである！
+EN: The ao dai is Mongolia's traditional dress!
+
+@1F024 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1F06C max=119
+JP: 白菜の花はピンク色である！
+EN: Chinese cabbage has pink flowers!
+
+@1F0E4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1F12C max=119
+JP: 米から油を採ることができる！
+EN: You can extract oil from rice!
+
+@1F1A4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1F1EC max=119
+JP: エジプトの首都はカイロである！
+EN: The capital of Egypt is Cairo!
+
+@1F264 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1F2AC max=119
+JP: 画家ゴーギャンは、発作的に自分の耳を<n>切り落としてしまったことがある！
+EN: The painter Gauguin once cut off his own ear<n>in a fit of madness!
+
+@1F324 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1F36C max=119
+JP: メープルシロップは、松の樹液から作られる！
+EN: Maple syrup is made from pine sap!
+
+@1F3E4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1F42C max=119
+JP: 小説「罪と罰」は、<n>作家ドストエフスキーの作品である！
+EN: Crime and Punishment<n>is a novel by Dostoevsky!
+
+@1F4A4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1F4EC max=119
+JP: フェジョアーダはどちらの国の料理？
+EN: Which country does feijoada come from?
+
+@1F564 max=63
+JP: メキシコ<n>ブラジル
+EN: Mexico<n>Brazil
+
+@1F5AC max=119
+JP: 別名、森のバターと呼ばれる果物はアボカドである！
+EN: The avocado is also known as "butter of the forest"!
+
+@1F624 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1F66C max=119
+JP: 生類憐みの令を発布したのは？
+EN: Who issued Japan's Edicts on Compassion for Living Things?
+
+@1F6E4 max=63
+JP: 徳川家康<n>徳川家光<n>徳川綱吉
+EN: Tokugawa Ieyasu<n>Tokugawa Iemitsu<n>Tokugawa Tsunayoshi
+
+@1F72C max=119
+JP: 英語でりんごのことをアップルという！
+EN: The English word for "ringo" is "apple"!
+
+@1F7A4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1F7EC max=119
+JP: ２×４住宅には柱がない！
+EN: Two-by-four houses have no support columns!
+
+@1F864 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1F8AC max=119
+JP: ヤゴはゲンゴロウの幼虫である！
+EN: Dragonfly nymphs are the larvae of diving beetles!
+
+@1F924 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1F96C max=119
+JP: アメリカの初代大統領はリンカーンである！
+EN: America's first president was Lincoln!
+
+@1F9E4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1FA2C max=119
+JP: 満潮と干潮の差がいちばん大きい日を大潮と呼ぶ！
+EN: Tides with the greatest difference between high and low water are called spring tides!
+
+@1FAA4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1FAEC max=119
+JP: ポップコーンの原料はとうもろこしである！
+EN: Popcorn is made from corn!
+
+@1FB64 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1FBAC max=119
+JP: フリーマーケットのフリーは、蚤のことである！
+EN: The "flea" in "flea market" refers to the insect!
+
+@1FC24 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1FC6C max=119
+JP: 犬や猫の足の裏にある組織はどっち？
+EN: What are the soft parts on the soles of dogs' and cats' feet called?
+
+@1FCE4 max=63
+JP: 肉玉<n>肉球
+EN: Meatballs<n>Paw pads
+
+@1FD2C max=119
+JP: じゃがいもの原産は、<n>南アメリカのアンデス山脈である！
+EN: Potatoes originated in the Andes Mountains of South America!
+
+@1FDA4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1FDEC max=119
+JP: 色の三原色は、赤色、青色ともう一つは何色？
+EN: The three primary colors are red, blue and which other color?
+
+@1FE64 max=63
+JP: 白色<n>黄色<n>金色
+EN: White<n>Yellow<n>Gold
+
+@1FEAC max=119
+JP: インターネットのＷＷＷは、<n>ワールドワイドワードの略である！
+EN: On the Internet, WWW stands for World Wide Word!
+
+@1FF24 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1FF6C max=119
+JP: 日本で家畜としてウサギが飼われるようになったのは<n>明治時代からである！
+EN: People in Japan began raising rabbits as livestock during the Meiji era!
+
+@1FFE4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2002C max=119
+JP: ハッブル望遠鏡の「ハッブル」は、科学者の名前である！
+EN: The Hubble telescope is named after a scientist!
+
+@200A4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@200EC max=119
+JP: アメリカとカナダの国境にある滝は<n>ナイアガラである！
+EN: The waterfall on the border between the US and Canada is Niagara Falls!
+
+@20164 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@201AC max=119
+JP: イセエビの胃袋は、頭の部分にある！
+EN: A Japanese spiny lobster's stomach is in its head!
+
+@20224 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2026C max=119
+JP: ボーリングの球には、<n>指を入れる４つの穴が開いている！
+EN: A bowling ball has four finger holes!
+
+@202E4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2032C max=119
+JP: ヨーロッパのアーモンド菓子の名前はどっち？
+EN: Which is a European almond sweet?
+
+@203A4 max=63
+JP: ドラゴン<n>ドラジェ
+EN: Dragon<n>Dragee
+
+@203EC max=119
+JP: 和同開珎は、<n>中国で実際に使われていたお金である！
+EN: Wado Kaichin coins were once used as currency in China!
+
+@20464 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@204AC max=119
+JP: 小説「風と共に去りぬ」の作者は、<n>ヘミングウェーである！
+EN: The novel "Gone with the Wind" was written by Hemingway!
+
+@20524 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2056C max=119
+JP: オーストラリア大陸のアボリジニは、<n>狩猟などにブーメランを使う！
+EN: Aboriginal Australians use boomerangs for hunting and other purposes!
+
+@205E4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2062C max=119
+JP: 人の内耳の器官にある部位はどっち？
+EN: Which structure is found in the human inner ear?
+
+@206A4 max=63
+JP: ナメクジ管<n>カタツムリ管
+EN: Slug canal<n>Snail canal
+
+@206EC max=119
+JP: 音は、空気中より木や鉄のほうが早く伝わる！
+EN: Sound travels faster through wood and iron than through air!
+
+@20764 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@207AC max=119
+JP: 象とイルカ、どちらが耳が良い？
+EN: Which has better hearing: an elephant or a dolphin?
+
+@20824 max=63
+JP: 象<n>イルカ
+EN: Elephant<n>Dolphin
+
+@2086C max=119
+JP: ゲルニカは、画家ピカソの代表的な作品名である！
+EN: Guernica is one of Picasso's most famous paintings!
+
+@208E4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2092C max=119
+JP: オリンピック発祥の地はどっち？
+EN: Where did the Olympic Games originate?
+
+@209A4 max=63
+JP: 古代エジプト<n>古代ギリシャ<n>邪馬台国
+EN: Ancient Egypt<n>Ancient Greece<n>Yamatai
+
+@209EC max=119
+JP: 次のうち、オリンピックの競技でないものはどれ？
+EN: Which of these is not an Olympic sport?
+
+@20A64 max=63
+JP: トライアスロン<n>フェンシング<n>ムエタイ
+EN: Triathlon<n>Fencing<n>Muay Thai
+
+@20AAC max=119
+JP: ペルーの楽器チャランゴは、<n>アルマジロの皮で作られている！
+EN: The charango, an instrument played in Peru, is made from armadillo skin!
+
+@20B24 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@20B6C max=119
+JP: 次の楽器の中で一番大きいのはどれ？
+EN: Which of these instruments is the largest?
+
+@20BE4 max=63
+JP: チェロ<n>ビオラ<n>バイオリン
+EN: Cello<n>Viola<n>Violin
+
+@20C2C max=119
+JP: カイコのえさになる葉は次のうちどれ？
+EN: Which leaves do silkworms eat?
+
+@20CA4 max=63
+JP: ユーカリ<n>桑<n>笹
+EN: Eucalyptus<n>Mulberry<n>Bamboo
+
+@20CEC max=119
+JP: 世界で一番高い山は、エベレストである！
+EN: The world's highest mountain is Everest!
+
+@20D64 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@20DAC max=119
+JP: ギリシャ神話に登場する、<n>頭は牛、身体は人間の怪物といえば？
+EN: Which monster from Greek mythology has a bull's head and a human body?
+
+@20E24 max=63
+JP: ダホー<n>ミノタウロス<n>メデューサ
+EN: Daho<n>Minotaur<n>Medusa
+
+@20E6C max=119
+JP: ギリシャ神話に登場するポセイドンは、<n>山の神である！
+EN: Poseidon, from Greek mythology,<n>is the god of mountains!
+
+@20EE4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@20F2C max=119
+JP: 江戸時代後期に美人とされていた顔立ちの総称は？
+EN: What face shape was considered beautiful in late Edo-period Japan?
+
+@20FA4 max=63
+JP: 寝ぼけ顔<n>うりざね顔
+EN: Sleepy face<n>Oval face
+
+@20FEC max=119
+JP: 道路のカーブミラーなどに使われている鏡の種類は？
+EN: What kind of mirror is used to see around bends in roads?
+
+@21064 max=63
+JP: 凹面鏡<n>凸面鏡
+EN: Concave mirror<n>Convex mirror
+
+@210AC max=119
+JP: 火山の爆発などの影響で、<n>山にできたくぼ地のことをなんと言う？
+EN: What is a large hollow in a mountain<n>formed by a volcanic eruption called?
+
+@21124 max=63
+JP: カンボツ<n>カルデラ<n>盆地
+EN: Sinkhole<n>Caldera<n>Basin
+
+@2116C max=119
+JP: 古生代の海に住んでいた、<n>固いカラに覆われた身体を持つ動物は？
+EN: Which animal had a hard outer shell<n>and lived in the seas during the Paleozoic Era?
+
+@211E4 max=63
+JP: 一葉虫<n>三葉虫<n>五葉虫
+EN: Unilobite<n>Trilobite<n>Quintilobite
+
+@2122C max=119
+JP: ４億年前の生存が確認され、<n>生きた化石、と呼ばれる魚は何？
+EN: Which fish lived 400 million years ago<n>and is known as a "living fossil"?
+
+@212A4 max=63
+JP: ソーラカンス<n>シーラカンス<n>ツーラカンス
+EN: Solacanth<n>Coelacanth<n>Tulacanth
+
+@212EC max=119
+JP: ヒダリマキマイマイというカタツムリは、<n>殻が左に巻いている？
+EN: Does the snail called Hidari-maki-maimai<n>have a shell that coils to the left?
+
+@21364 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@213AC max=119
+JP: おとぎ話浦島太郎で、<n>太郎が助けるのはサメである！
+EN: In the fairy tale Urashima Taro,<n>Taro rescues a shark!
+
+@21424 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2146C max=119
+JP: 肉牛の部位で、次のうちもっとも<n>お尻に近いところにあるのはどれ？
+EN: Which of these cuts of beef<n>comes from closest to the rear end?
+
+@214E4 max=63
+JP: リブロース<n>サーロイン<n>ランプ
+EN: Rib eye<n>Sirloin<n>Rump
+
+@2152C max=119
+JP: 鹿の肉は、別名何と呼ばれる？
+EN: In Japan, deer meat is also named after what?
+
+@215A4 max=63
+JP: さくら<n>モミジ<n>ぼたん
+EN: Cherry blossoms<n>Maple leaves<n>Peonies
+
+@215EC max=119
+JP: ネプチューンオオカブトという<n>１５センチもあるカブトムシがいる
+EN: There is a beetle called the Neptune beetle<n>that measures a whopping 15 centimeters.
+
+@21664 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@216AC max=119
+JP: 古代エジプトで紙の原料となっていた草の名前は？
+EN: What plant did the ancient Egyptians use to make paper?
+
+@21724 max=63
+JP: パルプ<n>ヤシの木<n>パピルス
+EN: Pulp<n>Palm tree<n>Papyrus
+
+@2176C max=119
+JP: 次のカメのうち、一番大きく成長するものはどれ？
+EN: Which of these turtles grows the largest?
+
+@217E4 max=63
+JP: イシガメ<n>オサガメ<n>ワニガメ
+EN: Japanese pond turtle<n>Leatherback<n>Alligator snapper
+
+@2182C max=119
+JP: 次の内臓のうち、一番、肛門に近いものはどれ？
+EN: Which of these organs is closest to the anus?
+
+@218A4 max=63
+JP: 小腸<n>十二指腸<n>大腸
+EN: Small intestine<n>Duodenum<n>Large intestine
+
+@218EC max=119
+JP: 日本人の血液型で一番多いのはどれ？
+EN: Which blood type is most common among Japanese people?
+
+@21964 max=63
+JP: Ａ型<n>Ｏ型<n>Ｂ型
+EN: Type A<n>Type O<n>Type B
+
+@219AC max=119
+JP: 杉やヒノキなど、細い葉のついた木を<n>一般的になんと呼ぶ？
+EN: What are trees with thin leaves, like Japanese cedar<n>and hinoki cypress, generally called?
+
+@21A24 max=63
+JP: 針葉樹<n>細葉樹<n>糸葉樹
+EN: Needleleaf trees<n>Narrowleaf trees<n>Threadleaf trees
+
+@21A6C max=119
+JP: 日本の冬の気圧配置は主にどの型になることが多い？
+EN: Which pressure pattern is most common in Japan in winter?
+
+@21AE4 max=63
+JP: 南高北低<n>西高東低<n>東高西低
+EN: High S, low N<n>High W, low E<n>High E, low W
+
+@21B2C max=119
+JP: 日本が夏のとき、オーストラリアの季節は？
+EN: When it is summer in Japan, what season is it in Australia?
+
+@21BA4 max=63
+JP: 秋<n>夏<n>冬
+EN: Autumn<n>Summer<n>Winter
+
+@21BEC max=119
+JP: 日本の憲法記念日は何月何日？
+EN: On what date is Japan's Constitution Memorial Day?
+
+@21C64 max=63
+JP: ２月１１日<n>５月３日<n>１１月２３日
+EN: February 11<n>May 3<n>November 23
+
+@21CAC max=119
+JP: 世界で初めて切手が発行された国はどこ？
+EN: Which country issued the world's first postage stamp?
+
+@21D24 max=63
+JP: ドイツ<n>イギリス<n>日本
+EN: Germany<n>Britain<n>Japan
+
+@21D6C max=119
+JP: トランプの１２は、一般的に王様の絵柄で表される！
+EN: In a deck of cards, the 12 is usually shown as a king!
+
+@21DE4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@21E2C max=119
+JP: 次のうち、牛乳を原料としない食物はどれ？
+EN: Which of these foods is not made from cow's milk?
+
+@21EA4 max=63
+JP: スキムミルク<n>練乳<n>ラード
+EN: Skim milk<n>Condensed milk<n>Lard
+
+@21EEC max=119
+JP: どちらの恐竜の方が大きかった？
+EN: Which dinosaur was bigger?
+
+@21F64 max=63
+JP: イグアノドン<n>ブラキオサウルス
+EN: Iguanodon<n>Brachiosaurus
+
+@21FAC max=119
+JP: ティラノサウルスは、ジュラ紀の恐竜である！
+EN: Tyrannosaurus was a dinosaur of the Jurassic period!
+
+@22024 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2206C max=119
+JP: 次のうち、日本に実際にいた恐竜の名前はどれ？
+EN: Which dinosaur actually lived in Japan?
+
+@220E4 max=63
+JP: タカクラリュウ<n>ミフネリュウ<n>キムラリュウ
+EN: Takakura-ryu<n>Mifune-ryu<n>Kimura-ryu
+
+@2212C max=119
+JP: 一本釣り漁で知られる魚は次のうちどれ？
+EN: Which fish is known for being caught by pole-and-line fishing?
+
+@221A4 max=63
+JP: イワシ<n>クジラ<n>カツオ
+EN: Sardine<n>Whale<n>Skipjack tuna
+
+@221EC max=119
+JP: 枝豆は大豆と同じ種である！
+EN: Edamame and soybeans are the same species!
+
+@22264 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@222AC max=119
+JP: バームクーヘンは、どこの国のお菓子？
+EN: Which country does baumkuchen cake come from?
+
+@22324 max=63
+JP: オランダ<n>ドイツ<n>ベルギー
+EN: The Netherlands<n>Germany<n>Belgium
+
+@2236C max=119
+JP: 次のうち、体長がいちばん大きいクジラはどれ？
+EN: Which of these whales grows the longest?
+
+@223E4 max=63
+JP: マッコウクジラ<n>ザトウクジラ<n>シロナガスクジラ
+EN: Sperm whale<n>Humpback whale<n>Blue whale
+
+@2242C max=119
+JP: 次の果物のうち、<n>日本では主に夏に収穫されるものはどれ？
+EN: Which fruit is mainly harvested in summer in Japan?
+
+@224A4 max=63
+JP: ブルーベリー<n>ミカン<n>イチゴ
+EN: Blueberry<n>Mandarin orange<n>Strawberry
+
+@224EC max=119
+JP: 水中に巣を張るクモがいる！
+EN: Some spiders build their webs underwater!
+
+@22564 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@225AC max=119
+JP: お釈迦様の誕生日は何月何日？
+EN: On what date is Buddha's birthday celebrated in Japan?
+
+@22624 max=63
+JP: ４月８日<n>９月１５日<n>１２月２５日
+EN: April 8<n>September 15<n>December 25
+
+@2266C max=119
+JP: 体の色が緑に光っているクワガタがいる！
+EN: Some stag beetles have shiny green bodies!
+
+@226E4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2272C max=119
+JP: 化粧品で、主にまつげに使うものはどれ？
+EN: Which cosmetic is mainly used on eyelashes?
+
+@227A4 max=63
+JP: コンシーラー<n>マスカラ<n>チーク
+EN: Concealer<n>Mascara<n>Blush
+
+@227EC max=119
+JP: オーストラリアに生息している有袋類はどれ？
+EN: Which of these is a marsupial found in Australia?
+
+@22864 max=63
+JP: カンガルーネコ<n>フクロネコ<n>三毛ネコ
+EN: Kangaroo cat<n>Quoll<n>Calico cat
+
+@228AC max=119
+JP: 水の中に生息している甲虫はどれ？
+EN: Which of these beetles lives underwater?
+
+@22924 max=63
+JP: ダイゴロウ<n>ゲンゴロウ<n>マイマイカブリ
+EN: Daigoro<n>Diving beetle<n>Snail-eating beetle
+
+@2296C max=119
+JP: 次の交通標識のうち、青色が使われていないのはどれ？
+EN: Which Japanese road sign uses no blue?
+
+@229E4 max=63
+JP: 横断禁止<n>車両通行止め<n>Ｕターン禁止
+EN: No crossing<n>No vehicles<n>No U-turns
+
+@22A2C max=119
+JP: 輝安鉱という鉱石は、ライターの火でも溶ける！
+EN: The mineral stibnite can melt in the flame of a lighter!
+
+@22AA4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@22AEC max=119
+JP: 次の古墳のうち、<n>日本でもっとも多く発見されている型はどっち？
+EN: Which type of ancient burial mound is most common in Japan?
+
+@22B64 max=63
+JP: 前方後方墳<n>円墳
+EN: Square keyhole mound<n>Round mound
+
+@22BAC max=119
+JP: 塩素を含むごみを低温で燃やすと発生するものは？
+EN: What is produced when trash containing chlorine is burned at low temperatures?
+
+@22C24 max=63
+JP: ダイオキシン<n>キシリトール<n>酸素
+EN: Dioxin<n>Xylitol<n>Oxygen
+
+@22C6C max=119
+JP: 日本に最初に伝わった米は？
+EN: Which type of rice was first brought to Japan?
+
+@22CE4 max=63
+JP: 黒米<n>赤米<n>もち米
+EN: Black rice<n>Red rice<n>Sticky rice
+
+@22D2C max=119
+JP: 次のうち、トンボはどれ？
+EN: Which of these is a dragonfly?
+
+@22DA4 max=63
+JP: アキアカネ<n>オオムラサキ<n>ベニシジミ
+EN: Autumn darter<n>Japanese emperor<n>Small copper
+
+@22DEC max=119
+JP: 銀行やコンビニなどでお金をおろしたり<n>預けたりする機械のことをなんという？
+EN: What do you call a machine used to withdraw or deposit money at banks and convenience stores?
+
+@22E64 max=63
+JP: ＩＴＣ<n>ＡＴＭ<n>ＮＰＣ
+EN: ITC<n>ATM<n>NPC
+
+@22EAC max=119
+JP: 大雨警報が出るときは、<n>一日に何ミリ以上の雨量が想定されるとき？
+EN: A heavy rain warning is issued when at least how much rain is expected in one day?
+
+@22F24 max=63
+JP: ５０ミリ<n>１５０ミリ<n>５００ミリ
+EN: 50 mm<n>150 mm<n>500 mm
+
+@22F6C max=119
+JP: 絵の具の赤と青、混ぜると緑になる！
+EN: Mixing red and blue paint makes green!
+
+@22FE4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2302C max=119
+JP: 次のうち、十二支にいない動物は？
+EN: Which animal is absent from the Chinese zodiac?
+
+@230A4 max=63
+JP: サル<n>馬<n>猫
+EN: Monkey<n>Horse<n>Cat
+
+@230EC max=119
+JP: アメリカのブッシュ大統領は、<n>兄弟とも大統領になっている！
+EN: US President Bush and his brother<n>have both been president!
+
+@23164 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@231AC max=119
+JP: 鏡餅を割ってお汁粉にして食べる行事を<n>「鏡開き」という！
+EN: Breaking New Year's rice cakes to eat in sweet bean soup<n>is called "kagami biraki"!
+
+@23224 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2326C max=119
+JP: 醤油は、米から作る！
+EN: Soy sauce is made from rice!
+
+@232E4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2332C max=119
+JP: フランスの首都はパリだ！
+EN: The capital of France is Paris!
+
+@233A4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@233EC max=119
+JP: むかごとは昆虫の一種である！
+EN: A bulbil is a type of insect!
+
+@23464 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@234AC max=119
+JP: 広島県には、福山城というお城がある！
+EN: There is a castle called Fukuyama Castle in Hiroshima Prefecture!
+
+@23524 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2356C max=119
+JP: フランスのＴＶＧと並んで世界一の速さを誇っている<n>新幹線は、５００系のぞみである！
+EN: The 500 Series Nozomi bullet train is tied<n>with France's TGV as the world's fastest!
+
+@235E4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2362C max=119
+JP: 人工衛星ひまわりは、どっち？
+EN: What kind of satellite is Himawari?
+
+@236A4 max=63
+JP: 通信衛星<n>気象衛星
+EN: Communications<n>Weather
+
+@236EC max=119
+JP: 中華料理などで食べるツバメの巣は、<n>アナツバメの巣である
+EN: The bird's nests eaten in Chinese cuisine<n>are swiftlet nests!
+
+@23764 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@237AC max=119
+JP: マングローブは砂漠の、<n>まったく水のないところに生息する植物である！
+EN: Mangroves are plants that live in deserts,<n>where there is no water at all!
+
+@23824 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2386C max=119
+JP: スケート靴で刃の先にぎざぎざがついているのは、<n>スピードスケート用の靴である！
+EN: Ice skates with jagged teeth at the front of the blades<n>are used for speed skating!
+
+@238E4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2392C max=119
+JP: お寿司で、紫、といえば、海苔のことである！
+EN: In sushi slang, "purple" means nori seaweed!
+
+@239A4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@239EC max=119
+JP: うっちゃり、という相撲の決まり手がある！
+EN: There is a winning sumo move called "utchari"!
+
+@23A64 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@23AAC max=119
+JP: いるか座、という星座がある！
+EN: There is a constellation called Delphinus, the Dolphin!
+
+@23B24 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@23B6C max=119
+JP: ＵＮＩＣＥＦ（ユニセフ）は、どっち？
+EN: What does UNICEF stand for?
+
+@23BE4 max=63
+JP: 国連食糧農業機関<n>国連児童基金
+EN: UN Food & Agriculture Org.<n>UN Children's Fund
+
+@23C2C max=119
+JP: ナスカの地上絵は、世界文化遺産に登録されている！
+EN: The Nazca Lines are a UNESCO World Cultural Heritage Site!
+
+@23CA4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@23CEC max=119
+JP: 世界最大のさんご礁グレートバリアリーフは、<n>ハワイのマウイ島にある！<p>
+EN: The Great Barrier Reef, the world's largest coral reef,<n>is on the Hawaiian island of Maui!<p>
+
+@23D64 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@23DAC max=119
+JP: アブラゼミの幼虫は、<n>地中で何年間過ごしてから、地上に出てくる？
+EN: How many years do large brown cicada nymphs<n>spend underground before emerging?
+
+@23E24 max=63
+JP: １年<n>６年<n>６０年
+EN: 1 year<n>6 years<n>60 years
+
+@23E6C max=119
+JP: ニイニイゼミと、ミンミンゼミは、<n>同じセミのことである！
+EN: Niinii cicadas and minmin cicadas<n>are the same species!
+
+@23EE4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@23F2C max=119
+JP: アジア象の前足の指の数は、アフリカ象よりも多い！
+EN: Asian elephants have more toes on their front feet than African elephants!
+
+@23FA4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@23FEC max=119
+JP: アメリカの独立記念日は７月４日だ！
+EN: American Independence Day is July 4!
+
+@24064 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@240AC max=119
+JP: 太陽系にある惑星はいくつある？
+EN: How many planets are in the solar system?
+
+@24124 max=63
+JP: ７個<n>９個<n>数え切れない
+EN: 7<n>9<n>Too many to count
+
+@2416C max=119
+JP: 織姫と彦星の言い伝えでは、<n>年に一度、二人が会えるのは元旦の朝である！
+EN: In the Tanabata legend, Orihime and Hikoboshi<n>can meet once a year, on New Year's morning!
+
+@241E4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2422C max=119
+JP: 松の木の種はマツボックリの中に入っている！
+EN: Pine tree seeds are found inside pine cones!
+
+@242A4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@242EC max=119
+JP: ＡＰＥＣはアジア太平洋経済協力会議の略である！
+EN: APEC stands for Asia-Pacific Economic Cooperation!
+
+@24364 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@243AC max=119
+JP: 日本で一番高い建築物は、東京タワーである！
+EN: The tallest structure in Japan is Tokyo Tower!
+
+@24424 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2446C max=119
+JP: 地球上の物質を地球の中心に<n>引っ張る力のことを引力という！
+EN: The force that pulls things on Earth toward its center<n>is called gravity!
+
+@244E4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2452C max=119
+JP: 地球温暖化の原因は、主に、地球上をとりまく<n>温室効果ガスが減ってしまったことにある！
+EN: Global warming is mainly caused by a decrease<n>in greenhouse gases surrounding Earth!
+
+@245A4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@245EC max=119
+JP: 中国茶のプーアール茶は、<n>こうじ菌で発酵させたお茶である！
+EN: Chinese pu-erh tea is fermented<n>using koji mold!
+
+@24664 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@246AC max=119
+JP: 茶道で、お茶をたてる竹製の道具はどれ？
+EN: Which bamboo tool is used to whisk tea in the Japanese tea ceremony?
+
+@24724 max=63
+JP: 茶柱<n>茶せん<n>茶たて
+EN: Chabashira (stalk)<n>Chasen (whisk)<n>Chatate (beater)
+
+@2476C max=119
+JP: チョコレートは、初めは、<n>カカオ豆から作った飲み物だった！
+EN: Chocolate was originally a drink<n>made from cacao beans!
+
+@247E4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2482C max=119
+JP: 気圧配置「西高東低」とは、<n>一般的に日本では冬によく見られる！
+EN: High pressure in the west and low pressure in the east<n>is a common winter weather pattern in Japan!
+
+@248A4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@248EC max=119
+JP: ガラスの原料は石である！
+EN: Glass is made from stone!
+
+@24964 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@249AC max=119
+JP: 「叫び」などで知られるムンクは、<n>スウェーデンの画家である！
+EN: Munch, famous for works such as "The Scream,"<n>was a Swedish painter!
+
+@24A24 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@24A6C max=119
+JP: 日本最初の公衆電話が置かれたのは、上野駅とどこ？
+EN: Japan's first public phones were installed at Ueno Station and where else?
+
+@24AE4 max=63
+JP: 東京駅<n>新橋駅<n>渋谷駅
+EN: Tokyo Station<n>Shimbashi Station<n>Shibuya Station
+
+@24B2C max=119
+JP: 電話で現在時刻を聞くときの番号はどっち？
+EN: Which number do you dial in Japan to hear the current time?
+
+@24BA4 max=63
+JP: １７７番<n>１１７番
+EN: 177<n>117
+
+@24BEC max=119
+JP: 鯨は哺乳類である！
+EN: Whales are mammals!
+
+@24C64 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@24CAC max=119
+JP: どんぐり、という名前の木はない！
+EN: There is no such tree as an "acorn tree"!
+
+@24D24 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@24D6C max=119
+JP: シオカラトンボのメスは、<n>ムギワラトンボと呼ばれている
+EN: Female white-tailed skimmers are called<n>"straw dragonflies" in Japan!
+
+@24DE4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@24E2C max=119
+JP: 鈴虫は、<n>羽をこすり合わせて音を出して鳴く！
+EN: Bell crickets chirp by rubbing their wings together!
+
+@24EA4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@24EEC max=119
+JP: いるかには、歯がない！
+EN: Dolphins have no teeth!
+
+@24F64 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@24FAC max=119
+JP: １トンは何キログラム？
+EN: How many kilograms are in one metric ton?
+
+@25024 max=63
+JP: １００ｋｇ<n>１０００ｋｇ<n>１００００ｋｇ
+EN: 100 kg<n>1,000 kg<n>10,000 kg
+
+@2506C max=119
+JP: 「G線上のアリア」は、バッハの代表曲である！
+EN: "Air on the G String" is one of Bach's best-known works!
+
+@250E4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2512C max=119
+JP: イタリアのパスタのファルファッレは、<n>何のかたちをしている？
+EN: What shape is the Italian pasta called farfalle?
+
+@251A4 max=63
+JP: ２枚貝<n>蝶々<n>カタツムリ
+EN: Clams<n>Butterflies<n>Snails
+
+@251EC max=119
+JP: スパイスのスターアニスの和名は八角である！
+EN: The Japanese name for star anise is "hakkaku"!
+
+@25264 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@252AC max=119
+JP: バレエ曲、白鳥の湖の作曲者はワーグナーである！
+EN: Wagner composed the ballet Swan Lake!
+
+@25324 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2536C max=119
+JP: パンダは６本指がある！
+EN: Pandas have six fingers!
+
+@253E4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2542C max=119
+JP: 火が燃えるために必要な気体は、二酸化炭素である！
+EN: Carbon dioxide is the gas needed to keep a fire burning!
+
+@254A4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@254EC max=119
+JP: 次のなかで一番細いパスタはどれ？
+EN: Which of these types of pasta is the thinnest?
+
+@25564 max=63
+JP: フェデリーニ<n>カッペリーニ<n>スパゲッティ
+EN: Fedelini<n>Capellini<n>Spaghetti
+
+@255AC max=119
+JP: イギリスとフランスで共同開発した<n>超音速の旅客機の名前はなんという？
+EN: What was the supersonic passenger plane jointly developed by Britain and France called?
+
+@25624 max=63
+JP: コンコルド<n>ボーイング<n>エアバス
+EN: Concorde<n>Boeing<n>Airbus
+
+@2566C max=119
+JP: 次のなかで一番古いとされている人類の種類はどれ？
+EN: Which of these types of early humans is considered the oldest?
+
+@256E4 max=63
+JP: 北京原人<n>クロマニヨン人<n>ハビリス人
+EN: Peking Man<n>Cro-Magnon<n>Homo habilis
+
+@2572C max=119
+JP: 雛飾りで、次のうち、一番低い位置に座っているのは？
+EN: On a traditional Hina doll display, which of these groups sits on the lowest tier?
+
+@257A4 max=63
+JP: お雛様<n>三官女<n>五人ばやし
+EN: Empress Doll<n>Three Court Ladies<n>Five Musicians
+
+@257EC max=119
+JP: １９７７年に打ち上げられ、<n>木星や土星を観測したアメリカの惑星探査機の名前は？
+EN: Which American space probe launched in 1977 and studied Jupiter and Saturn?
+
+@25864 max=63
+JP: ひまわり<n>リンカーン<n>ボイジャー
+EN: Himawari<n>Lincoln<n>Voyager
+
+@258AC max=119
+JP: 世界で最初にピラミッドを作ったのはクフ王である！
+EN: King Khufu built the world's first pyramid!
+
+@25924 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2596C max=119
+JP: 次のうち、ハムスターの名前ではないのはどれ？
+EN: Which of these is not a kind of hamster?
+
+@259E4 max=63
+JP: ロボロフスキー<n>クロハラ<n>クレレ
+EN: Roborovski<n>European Hamster<n>Kurere
+
+@25A2C max=119
+JP: 日本に野生で生息している蛇はどれ？
+EN: Which of these snakes lives in the wild in Japan?
+
+@25AA4 max=63
+JP: アナコンダ<n>ガラガラヘビ<n>シマヘビ
+EN: Anaconda<n>Rattlesnake<n>Japanese Rat Snake
+
+@25AEC max=119
+JP: オーストラリアに生息しているペンギンは<n>コビトペンギンである！
+EN: The penguins that live in Australia are little penguins!
+
+@25B64 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@25BAC max=119
+JP: 次の宝石のうち、<n>主に青い色が特徴とされているのはどれ？
+EN: Which of these gemstones is best known for its blue color?
+
+@25C24 max=63
+JP: ルビー<n>トパーズ<n>ターコイズ
+EN: Ruby<n>Topaz<n>Turquoise
+
+@25C6C max=119
+JP: 次のお祭りのうち、徳島市で行われているのはどれ？
+EN: Which of these festivals takes place in Tokushima City?
+
+@25CE4 max=63
+JP: 盆踊り<n>祇園祭<n>阿波踊り
+EN: Bon Odori<n>Gion Festival<n>Awa Odori
+
+@25D2C max=119
+JP: 大化の改新が起きたのは？
+EN: When did the Taika Reform take place?
+
+@25DA4 max=63
+JP: ６４５年<n>８５１年<n>９０５年
+EN: 645 AD<n>851 AD<n>905 AD
+
+@25DEC max=119
+JP: スキューバーダイビングをするときに使う、<n>水中眼鏡をなんという？
+EN: What do you call the eyewear used for scuba diving?
+
+@25E64 max=63
+JP: スノーケル<n>ゴーグル<n>フィン
+EN: Snorkel<n>Goggles<n>Fins
+
+@25EAC max=119
+JP: 次のミカンの種類で<n>いちばん大きい実となるのはどれ？
+EN: Which of these citrus fruits<n>grows the largest?
+
+@25F24 max=63
+JP: イヨカン<n>グレープフルーツ<n>ブンタン
+EN: Iyokan<n>Grapefruit<n>Pomelo
+
+@25F6C max=119
+JP: 著書「夢判断」で有名な心理学者はユングである！
+EN: Jung is the psychologist famous for writing "The Interpretation of Dreams"!
+
+@25FE4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2602C max=119
+JP: 小説や映画に登場するSFとは、<n>サイエンスフューチャーの略である！
+EN: In books and films, SF<n>stands for "science future"!
+
+@260A4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@260EC max=119
+JP: 世界の文字で、<n>次のうち右から書いていくものはどれ？
+EN: Which of these writing systems<n>is written from right to left?
+
+@26164 max=63
+JP: ギャル文字<n>ロシア文字<n>アラビア文字
+EN: Gyaru script<n>Cyrillic<n>Arabic
+
+@261AC max=119
+JP: 童謡、森のくまさんで、<n>お嬢さんが落としたものは何？
+EN: In the song "The Bear in the Woods,"<n>what did the girl drop?
+
+@26224 max=63
+JP: ネックレス<n>イヤリング<n>ハンカチ
+EN: Necklace<n>Earring<n>Handkerchief
+
+@2626C max=119
+JP: 次の野菜のうち、通常、<n>根の部分を食べているのはどれ？
+EN: Which of these vegetables<n>do we usually eat the root of?
+
+@262E4 max=63
+JP: かぼちゃ<n>だいこん<n>アスパラガス
+EN: Pumpkin<n>Daikon radish<n>Asparagus
+
+@2632C max=119
+JP: 黄色い郵便ポストの国はどこ？
+EN: Which country has yellow mailboxes?
+
+@263A4 max=63
+JP: アメリカ<n>韓国<n>スウェーデン
+EN: USA<n>South Korea<n>Sweden
+
+@263EC max=119
+JP: スペインの、お米と魚介類などを使った<n>炊き込みご飯のことをなんと言う？
+EN: What is the Spanish dish made by<n>cooking rice with seafood and other ingredients?
+
+@26464 max=63
+JP: ピラフ<n>リゾット<n>パエリア
+EN: Pilaf<n>Risotto<n>Paella
+
+@264AC max=119
+JP: 俗に百獣の王といわれる動物は何？
+EN: Which animal is known as the king of beasts?
+
+@26524 max=63
+JP: トラ<n>象<n>ライオン
+EN: Tiger<n>Elephant<n>Lion
+
+@2656C max=119
+JP: 次の調味料のうち、<n>石鹸を作ることができるのはどれ？
+EN: Which of these cooking ingredients<n>can be used to make soap?
+
+@265E4 max=63
+JP: 醤油<n>サラダ油<n>酢
+EN: Soy sauce<n>Vegetable oil<n>Vinegar
+
+@2662C max=119
+JP: 青い品種のりんごはどれ？
+EN: Which apple variety has green skin?
+
+@266A4 max=63
+JP: ふじ<n>金星<n>祝
+EN: Fuji<n>Kinsei<n>Iwai
+
+@266EC max=119
+JP: 次のうち、りんごから作れない調味料はどれ？
+EN: Which seasoning cannot be made from apples?
+
+@26764 max=63
+JP: りんご酢<n>りんご醤油<n>りんご塩
+EN: Apple vinegar<n>Apple soy sauce<n>Apple salt
+
+@267AC max=119
+JP: １５９０年ごろ、<n>オランダで最初に顕微鏡を作った親子は誰？
+EN: Which father-and-son team built the first<n>microscope in the Netherlands around 1590?
+
+@26824 max=63
+JP: マイセン親子<n>ヤンセン親子<n>レンズ親子
+EN: The Meissens<n>The Janssens<n>The Lenses
+
+@2686C max=119
+JP: アポロ１１号が初めて月着陸に成功した年は何年？
+EN: In what year did Apollo 11 make the first successful Moon landing?
+
+@268E4 max=63
+JP: １９２９年<n>１９６９年<n>１９９０年
+EN: 1929<n>1969<n>1990
+
+@2692C max=119
+JP: 月の模様が入っていない国旗はどっち？
+EN: Which country's flag does NOT feature a moon?
+
+@269A4 max=63
+JP: パキスタン<n>モロッコ
+EN: Pakistan<n>Morocco
+
+@269EC max=119
+JP: ドライアイスが溶けると、窒素になる！
+EN: Dry ice turns into nitrogen when it melts!
+
+@26A64 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@26AAC max=119
+JP: 蜂は五角形の部屋がいくつも連なった巣を作る！
+EN: Bees build nests made of many connected five-sided cells!
+
+@26B24 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@26B6C max=119
+JP: 水を凍らせるときに一度沸騰させると、<n>曇りのない透明の氷ができる！
+EN: Boiling water before freezing it<n>makes clear ice with no cloudiness!
+
+@26BE4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@26C2C max=119
+JP: 地球の周りを回っている人工衛星は、<n>人間の力で動かすことができる！
+EN: Artificial satellites orbiting Earth<n>can be moved by human muscle power!
+
+@26CA4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@26CEC max=119
+JP: 発泡スチロールはオレンジの皮で溶ける！
+EN: Orange peel can dissolve Styrofoam!
+
+@26D64 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@26DAC max=119
+JP: こんにゃくは、海草から作られる！
+EN: Konjac is made from seaweed!
+
+@26E24 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@26E6C max=119
+JP: 山手線、恵比寿駅と原宿駅の間にあるのは<n>目黒駅である！
+EN: On the Yamanote Line, the station between<n>Ebisu and Harajuku is Meguro!
+
+@26EE4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@26F2C max=119
+JP: 名画モナリザは、大英博物館に収蔵されている！
+EN: The famous Mona Lisa is housed in the British Museum!
+
+@26FA4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@26FEC max=119
+JP: 次の栄養素のうち、<n>ご飯から得ている主な栄養素はどれ？
+EN: Which of these is the main nutrient<n>we get from rice?
+
+@27064 max=63
+JP: たんぱく質<n>脂肪<n>炭水化物
+EN: Protein<n>Fat<n>Carbohydrates
+
+@270AC max=119
+JP: 酵母を使って作る食品はどれ？
+EN: Which food is made using yeast?
+
+@27124 max=63
+JP: うどん<n>パン<n>お好み焼き
+EN: Udon<n>Bread<n>Okonomiyaki
+
+@2716C max=119
+JP: 数日、つけておくと卵のカラを<n>溶かしてしまう液体は次のうちどれ？
+EN: Which liquid can dissolve an eggshell<n>if you leave it soaking for a few days?
+
+@271E4 max=63
+JP: 水<n>酢<n>紅茶
+EN: Water<n>Vinegar<n>Black tea
+
+@2722C max=119
+JP: ポップコーンの原料になっている野菜はどれ？
+EN: Which vegetable is popcorn made from?
+
+@272A4 max=63
+JP: 米<n>とうもろこし<n>大豆
+EN: Rice<n>Corn<n>Soybeans
+
+@272EC max=119
+JP: 岐阜県にある観測施設スーパーカミオカンデは、<n>主に何の観測に使われる？
+EN: What does the Super-Kamiokande observatory<n>in Gifu Prefecture mainly detect?
+
+@27364 max=63
+JP: オーロラ<n>ニュートリノ<n>長良川
+EN: Auroras<n>Neutrinos<n>The Nagara River
+
+@273AC max=119
+JP: イギリスで、乳腺の細胞から生まれた<n>クローン羊の名前は？
+EN: What was the name of the sheep cloned in Britain<n>from a mammary gland cell?
+
+@27424 max=63
+JP: マリー<n>メリー<n>ドリー
+EN: Marie<n>Merry<n>Dolly
+
+@2746C max=119
+JP: 植物が、二酸化炭素と水、太陽の光を使って<n>糖を作り出すことをなんという？
+EN: What process lets plants use carbon dioxide, water<n>and sunlight to make sugar?
+
+@274E4 max=63
+JP: 細胞分裂<n>光合成<n>発酵
+EN: Cell division<n>Photosynthesis<n>Fermentation
+
+@2752C max=119
+JP: じゃがいもにはビタミンCは含まれていない！
+EN: Potatoes contain no vitamin C!
+
+@275A4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@275EC max=119
+JP: 蒸したお茶の葉を<n>細かい粉末にしたものをなんという？
+EN: What do you call steamed tea leaves<n>ground into a fine powder?
+
+@27664 max=63
+JP: 煎茶<n>砂茶<n>抹茶
+EN: Sencha<n>Sand tea<n>Matcha
+
+@276AC max=119
+JP: 次の寿司ネタのうち、<n>俗にひかりものとも言われるのはどれ？
+EN: Which sushi topping belongs to the category<n>known as 'silver-skinned fish'?
+
+@27724 max=63
+JP: ヒラメ<n>コハダ<n>タコ
+EN: Flounder<n>Gizzard shad<n>Octopus
+
+@2776C max=119
+JP: 欧州連合内１２カ国で使っている<n>共通の貨幣をなんという？
+EN: What common currency is used<n>by 12 countries in the European Union?
+
+@277E4 max=63
+JP: イーユー<n>ユーロ<n>フラン
+EN: EU<n>Euro<n>Franc
+
+@2782C max=119
+JP: 次のうち、韓国の民族衣装の名前はどれ？
+EN: Which of these is traditional Korean clothing?
+
+@278A4 max=63
+JP: サリー<n>チマチョゴリ<n>アオザイ
+EN: Sari<n>Chima jeogori<n>Ao dai
+
+@278EC max=119
+JP: 次のうち、木星の衛星はどれ？
+EN: Which of these is a moon of Jupiter?
+
+@27964 max=63
+JP: キマイラ<n>トリトン<n>ガニメデ
+EN: Chimera<n>Triton<n>Ganymede
+
+@279AC max=119
+JP: ローマ字で「ＬＸＩＸ」の意味は？
+EN: What does the Roman numeral 'LXIX' mean?
+
+@27A24 max=63
+JP: 数字の６９<n>ＬＯＶＥ<n>ありがとう！
+EN: The number 69<n>LOVE<n>Thank you!
+
+@27A6C max=119
+JP: ハロウィーンで、ランタンなどにして<n>飾られる野菜は何？
+EN: Which vegetable is carved into lanterns<n>and used as a Halloween decoration?
+
+@27AE4 max=63
+JP: ニンジン<n>ダイコン<n>カボチャ
+EN: Carrot<n>Daikon radish<n>Pumpkin
+
+@27B2C max=119
+JP: 日本でいちばん深い湖は？
+EN: What is Japan's deepest lake?
+
+@27BA4 max=63
+JP: 摩周湖<n>田沢湖<n>琵琶湖
+EN: Lake Mashu<n>Lake Tazawa<n>Lake Biwa
+
+@27BEC max=119
+JP: 貝に耳はある。
+EN: Shellfish have ears.
+
+@27C64 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@27CAC max=119
+JP: 「カタロニア讃歌」の背景になってる戦争は？
+EN: Which war is the setting of 'Homage to Catalonia'?
+
+@27D24 max=63
+JP: 銀河大戦争<n>応仁の乱<n>スペイン市民戦争
+EN: Galactic War<n>Onin War<n>Spanish Civil War
+
+@27D6C max=119
+JP: メキシコにある半島の名前は？
+EN: Which of these peninsulas is in Mexico?
+
+@27DE4 max=63
+JP: ユカタン半島<n>ミカタン半島<n>ユミタン半島
+EN: Yucatan Peninsula<n>Mikatan Peninsula<n>Yumitan Peninsula
+
+@27E2C max=119
+JP: キング・オブ・スポーツと言われるのは？
+EN: Which is known as the 'king of sports'?
+
+@27EA4 max=63
+JP: ラグビー<n>競馬<n>ゲートボール
+EN: Rugby<n>Horse racing<n>Gateball
+
+@27EEC max=119
+JP: フロリダをアメリカに売ったのはどこの国？
+EN: Which country sold Florida to the United States?
+
+@27F64 max=63
+JP: スペイン<n>イギリス<n>日本
+EN: Spain<n>Britain<n>Japan
+
+@27FAC max=119
+JP: 国産第一号ＬＰレコードに入っていた曲の作曲者は？
+EN: Who composed the music on Japan's first domestically produced LP record?
+
+@28024 max=63
+JP: ビートルズ<n>ベートーベン<n>滝廉太郎
+EN: The Beatles<n>Beethoven<n>Rentaro Taki
+
+@2806C max=119
+JP: スキーを日本に紹介したのは？
+EN: Who introduced skiing to Japan?
+
+@280E4 max=63
+JP: スイス人<n>ギニア人<n>オーストリア人
+EN: Swiss<n>Guinean<n>Austrian
+
+@2812C max=119
+JP: 緯度２３度２７分にあるものは？
+EN: What lies at 23 degrees, 27 minutes latitude?
+
+@281A4 max=63
+JP: 走査線<n>回帰線<n>赤道
+EN: Scan lines<n>The tropics<n>The equator
+
+@281EC max=119
+JP: 弁慶と牛若丸が出会った場所は？
+EN: Where did Benkei and Ushiwakamaru first meet?
+
+@28264 max=63
+JP: 三条大橋<n>四条大橋<n>五条大橋
+EN: Sanjo Bridge<n>Shijo Bridge<n>Gojo Bridge
+
+@282AC max=119
+JP: 太陽系第３惑星とは？
+EN: What is the third planet from the Sun?
+
+@28324 max=63
+JP: 地球<n>水星<n>月
+EN: Earth<n>Mercury<n>The Moon
+
+@2836C max=119
+JP: 大相撲本場所で、その日最後の取り組みのことを、<n>何の一番と呼ぶ？
+EN: What is the final bout of each day at a grand sumo tournament called?
+
+@283E4 max=63
+JP: 決め<n>結び<n>千秋楽
+EN: Decisive bout<n>Closing bout<n>Final day
+
+@2842C max=119
+JP: 人類が最初に月を踏んだのは<n>アームストロング船長の右足だ。
+EN: The first human foot to touch the Moon was Captain Armstrong's right foot.
+
+@284A4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@284EC max=119
+JP: 日本の鎖国を決めた将軍は？
+EN: Which shogun closed Japan to the outside world?
+
+@28564 max=63
+JP: 徳川吉宗<n>徳川家光<n>徳川慶喜
+EN: Tokugawa Yoshimune<n>Tokugawa Iemitsu<n>Tokugawa Yoshinobu
+
+@285AC max=119
+JP: マリー・アントワネットが、人民にパンがないなら<n>何を食べればいいといったか。
+EN: What did Marie Antoinette say people should eat if they had no bread?
+
+@28624 max=63
+JP: 小麦<n>砂<n>お菓子
+EN: Wheat<n>Sand<n>Cake
+
+@2866C max=119
+JP: ヒトの染色体はサルの染色体より少ない？
+EN: Do humans have fewer chromosomes than monkeys?
+
+@286E4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2872C max=119
+JP: 日本の三名園にないのは？
+EN: Which is NOT one of Japan's Three Great Gardens?
+
+@287A4 max=63
+JP: 後楽園<n>快楽園<n>兼六園
+EN: Korakuen<n>Pleasure Garden<n>Kenrokuen
+
+@287EC max=119
+JP: ウナギの蒲焼きを背開きにするのは大阪だ。
+EN: In Osaka, eels are split along the back when making kabayaki.
+
+@28864 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@288AC max=119
+JP: バレンタインデーは２月１４日だ！
+EN: Valentine's Day is February 14!
+
+@28924 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2896C max=119
+JP: 童謡「とうりゃんせ」で、ここはどこの細道？
+EN: In the children's song 'Toryanse,' whose narrow path is it?
+
+@289E4 max=63
+JP: 弁天様<n>大師様<n>天神様
+EN: Benten's<n>Daishi's<n>Tenjin's
+
+@28A2C max=119
+JP: ＢＭＸは何を使った競技？
+EN: What do you ride in BMX racing?
+
+@28AA4 max=63
+JP: 自転車<n>バイク<n>ボート
+EN: A bicycle<n>A motorcycle<n>A boat
+
+@28AEC max=119
+JP: アドリア海に面したクロアチアの城塞都市は？
+EN: Which Croatian fortress city faces the Adriatic Sea?
+
+@28B64 max=63
+JP: ドブロブニク<n>ドブロクノム<n>ドロブニコム
+EN: Dubrovnik<n>Doburokunomu<n>Dorobunikomu
+
+@28BAC max=119
+JP: 森林浴といえば？
+EN: Which substance is associated with forest bathing?
+
+@28C24 max=63
+JP: コエンザイム１０<n>キシリトール<n>フィトンチッド
+EN: Coenzyme Q10<n>Xylitol<n>Phytoncides
+
+@28C6C max=119
+JP: マダガスカル島と日本では<n>マダガスカル島の方が面積が広い。
+EN: Madagascar is larger in area than Japan.
+
+@28CE4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@28D2C max=119
+JP: カエルの前足の指は何本？
+EN: How many toes does a frog have on each front foot?
+
+@28DA4 max=63
+JP: ２本<n>４本<n>５本
+EN: 2<n>4<n>5
+
+@28DEC max=119
+JP: 蝶々夫人が待っていたのは？
+EN: Who was Madame Butterfly waiting for?
+
+@28E64 max=63
+JP: ピンカートン<n>ワンカートン<n>イチカートン
+EN: Pinkerton<n>Wankarton<n>Ichikarton
+
+@28EAC max=119
+JP: 版画の技法にあるものは？
+EN: Which is a printmaking technique?
+
+@28F24 max=63
+JP: メゾ・フォルテ<n>メゾチント<n>メタノール
+EN: Mezzo-forte<n>Mezzotint<n>Methanol
+
+@28F6C max=119
+JP: 蚊には歯がはえている。
+EN: Mosquitoes have teeth.
+
+@28FE4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2902C max=119
+JP: もともとはパイ皿を投げたことから<n>はじまったのはどれ？
+EN: Which activity began with people throwing pie tins?
+
+@290A4 max=63
+JP: 円盤投げ<n>フリスビー<n>ブーメラン
+EN: Discus throwing<n>Frisbee<n>Boomerang throwing
+
+@290EC max=119
+JP: ベニスにある広場は？
+EN: Which square is in Venice?
+
+@29164 max=63
+JP: サンマルコ広場<n>サンピエトロ広場<n>コンコルド広場
+EN: St. Mark's Square<n>St. Peter's Square<n>Place de la Concorde
+
+@291AC max=119
+JP: 「我思う、故に我あり」と言ったのは？
+EN: Who said, 'I think, therefore I am'?
+
+@29224 max=63
+JP: プラトン<n>デカルト<n>サルトル
+EN: Plato<n>Descartes<n>Sartre
+
+@2926C max=119
+JP: 七色の虹。いちばん内側の色は？
+EN: A rainbow has seven colors. Which is on the innermost edge?
+
+@292E4 max=63
+JP: 赤<n>紫<n>黄色
+EN: Red<n>Violet<n>Yellow
+
+@2932C max=119
+JP: 明治時代はコーヒーはなんと呼ばれていた？
+EN: What was coffee called in Japan during the Meiji era?
+
+@293A4 max=63
+JP: 豆茶<n>西洋番茶<n>黒汁
+EN: Bean tea<n>Western tea<n>Black juice
+
+@293EC max=119
+JP: 猫のおっぱいはいくつ？
+EN: How many nipples does a cat have?
+
+@29464 max=63
+JP: ４<n>６<n>８
+EN: 4<n>6<n>8
+
+@294AC max=119
+JP: 豊臣秀吉の正妻、北の政所とはだれ？
+EN: Who was Toyotomi Hideyoshi's principal wife, known as Kita no Mandokoro?
+
+@29524 max=63
+JP: あねね<n>いねね<n>おねね
+EN: Anene<n>Inene<n>Onene
+
+@2956C max=119
+JP: ビクトリア・ピークのある街はどこ？
+EN: Which city is home to Victoria Peak?
+
+@295E4 max=63
+JP: 上海<n>香港<n>台湾
+EN: Shanghai<n>Hong Kong<n>Taiwan
+
+@2962C max=119
+JP: 「君が代」のもと歌がのっているのは？
+EN: Which work contains the poem that became Japan's anthem, "Kimigayo"?
+
+@296A4 max=63
+JP: 古事記<n>古今和歌集<n>源氏物語
+EN: Kojiki<n>Kokin Wakashu<n>The Tale of Genji
+
+@296EC max=119
+JP: ハープの弦は通常何本あるでしょう。
+EN: How many strings does a harp usually have?
+
+@29764 max=63
+JP: ６本<n>４７本<n>１０８本
+EN: 6<n>47<n>108
+
+@297AC max=119
+JP: 大相撲で、平幕力士が横綱に勝つことをなんと言う？
+EN: In sumo, what is it called when a rank-and-file wrestler defeats a yokozuna?
+
+@29824 max=63
+JP: 綱取り<n>ふんどしかつぎ<n>金星
+EN: Yokozuna bid<n>Loincloth bearer<n>Gold star
+
+@2986C max=119
+JP: 人が吐いた息にいちばん多くふくまれている元素は？
+EN: Which substance makes up most of the air we breathe out?
+
+@298E4 max=63
+JP: 二酸化炭素<n>窒素<n>臭素
+EN: Carbon dioxide<n>Nitrogen<n>Bromine
+
+@2992C max=119
+JP: 世界の三大美港でないのはどれ？
+EN: Which is NOT one of the world's three most beautiful harbors?
+
+@299A4 max=63
+JP: リオデジャネイロ<n>シドニー<n>横浜
+EN: Rio de Janeiro<n>Sydney<n>Yokohama
+
+@299EC max=119
+JP: モンティニャックの少年が見つけた、<n>雄牛の間のある洞窟の名前は？
+EN: Which cave, discovered by boys from Montignac, contains the Hall of the Bulls?
+
+@29A64 max=63
+JP: ブスコ－<n>ラスコ－<n>シスコ－
+EN: Buscaux<n>Lascaux<n>Siscaux
+
+@29AAC max=119
+JP: 松茸のみつかる木は？
+EN: By which tree would you find matsutake mushrooms?
+
+@29B24 max=63
+JP: ジュウシマツ<n>アカマツ<n>トドマツ
+EN: Society finch<n>Red pine<n>Sakhalin fir
+
+@29B6C max=119
+JP: 液体と結晶の両方の性質をもつ物質とは？
+EN: What substance has the properties of both a liquid and a crystal?
+
+@29BE4 max=63
+JP: 氷<n>液晶<n>水晶
+EN: Ice<n>Liquid crystal<n>Quartz
+
+@29C2C max=119
+JP: 画家モネが晩年に描きつづけたのは？
+EN: What did Monet keep painting in his later years?
+
+@29CA4 max=63
+JP: 睡蓮<n>木蓮<n>蓮華
+EN: Water lilies<n>Magnolias<n>Lotus flowers
+
+@29CEC max=119
+JP: チチカカ湖は南半球で一番高いところに位置する湖である！
+EN: Lake Titicaca is the highest lake in the Southern Hemisphere!
+
+@29D64 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@29DAC max=119
+JP: エッフェル塔には何段の階段がある？
+EN: How many steps are there in the Eiffel Tower?
+
+@29E24 max=63
+JP: １６５段<n>１６６５段<n>１６６５５段
+EN: 165<n>1665<n>16655
+
+@29E6C max=119
+JP: 鳥取県と岡山県の境にあるのは？
+EN: Which lies on the border of Tottori and Okayama prefectures?
+
+@29EE4 max=63
+JP: 積木川<n>人形峠<n>折紙谷
+EN: Tsumiki River<n>Ningyo Pass<n>Origami Valley
+
+@29F2C max=119
+JP: 冬至のお風呂といえば？
+EN: What goes in a traditional Japanese winter solstice bath?
+
+@29FA4 max=63
+JP: 柚子湯<n>菖蒲湯<n>葛根湯
+EN: Yuzu citrus<n>Iris leaves<n>Kudzu cold remedy
+
+@29FEC max=119
+JP: ウーロン茶は、ウーロンの実を煎じて作る！
+EN: Oolong tea is made by brewing the fruit of the oolong plant!
+
+@2A064 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2A0AC max=119
+JP: 五月雨をあつめて早し、は何川？
+EN: In Basho's haiku, which river rushes along, swollen with early summer rain?
+
+@2A124 max=63
+JP: 大井川<n>最上川<n>長良川
+EN: Oi River<n>Mogami River<n>Nagara River
+
+@2A16C max=119
+JP: 野球で、右でも左でも打てる人のことを何という？
+EN: In baseball, what do you call someone who bats both right- and left-handed?
+
+@2A1E4 max=63
+JP: スイッチ・ヒッター<n>スイッチ・バッター<n>バイリンガル
+EN: Switch-hitter<n>Switch-batter<n>Bilingual
+
+@2A22C max=119
+JP: バイロイト音楽祭で演奏されるのは？
+EN: Whose music is performed at the Bayreuth Festival?
+
+@2A2A4 max=63
+JP: ワーグナー<n>シューベルト<n>モーツァルト
+EN: Wagner<n>Schubert<n>Mozart
+
+@2A2EC max=119
+JP: 「みにくいあひるの子」の作者は？
+EN: Who wrote "The Ugly Duckling"?
+
+@2A364 max=63
+JP: シェークスピア<n>アンデルセン<n>イソップ
+EN: Shakespeare<n>Andersen<n>Aesop
+
+@2A3AC max=119
+JP: ポリグラフでわかることは？
+EN: What does a polygraph detect?
+
+@2A424 max=63
+JP: 嘘<n>性格<n>知能
+EN: Lies<n>Personality<n>Intelligence
+
+@2A46C max=119
+JP: 北大西洋条約機構は次のうちどれ？
+EN: Which stands for the North Atlantic Treaty Organization?
+
+@2A4E4 max=63
+JP: Ｇ７<n>ＮＡＴＯ<n>ＰＫＯ
+EN: G7<n>NATO<n>PKO
+
+@2A52C max=119
+JP: 世界初の女性首相が誕生した国は？
+EN: Which country had the world's first female prime minister?
+
+@2A5A4 max=63
+JP: インド<n>スリランカ<n>イギリス
+EN: India<n>Sri Lanka<n>United Kingdom
+
+@2A5EC max=119
+JP: 日光の華厳の滝は約何メートルある？
+EN: About how high is Kegon Falls in Nikko?
+
+@2A664 max=63
+JP: ９メートル<n>９７メートル<n>９８８メートル
+EN: 9 meters<n>97 meters<n>988 meters
+
+@2A6AC max=119
+JP: 地図に描かれている海岸線は満潮時のものだ。
+EN: Coastlines shown on maps mark the shoreline at high tide.
+
+@2A724 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2A76C max=119
+JP: 東京が世界最初の１０００万都市になったのはいつ？
+EN: When did Tokyo become the world's first city of 10 million people?
+
+@2A7E4 max=63
+JP: １９６２年<n>１９８５年<n>２００１年
+EN: 1962<n>1985<n>2001
+
+@2A82C max=119
+JP: 「若草物語」の四姉妹。末っ子の名前は？
+EN: Who is the youngest of the four sisters in "Little Women"?
+
+@2A8A4 max=63
+JP: ジョー<n>メアリ－<n>エイミ－
+EN: Jo<n>Mary<n>Amy
+
+@2A8EC max=119
+JP: 物質の３つの状態ではないものは？
+EN: Which is NOT one of the three states of matter?
+
+@2A964 max=63
+JP: 個体<n>液体<n>気体
+EN: Individual<n>Liquid<n>Gas
+
+@2A9AC max=119
+JP: １９６９年に松戸市役所にできた課はどれ？
+EN: Which department did Matsudo City Hall establish in 1969?
+
+@2AA24 max=63
+JP: なんでもやる課<n>相談にのる課<n>すぐやる課
+EN: Do-It-All Dept.<n>Advice Dept.<n>Do-It-Now Dept.
+
+@2AA6C max=119
+JP: 体に斑点がないのは次のうちどれ？
+EN: Which animal has no spots on its body?
+
+@2AAE4 max=63
+JP: ライオン<n>ジャガー<n>チータ
+EN: Lion<n>Jaguar<n>Cheetah
+
+@2AB2C max=119
+JP: 風が吹くと何屋がもうかる？
+EN: According to a Japanese saying, whose business booms when the wind blows?
+
+@2ABA4 max=63
+JP: 風呂屋<n>桶屋<n>蕎麦屋
+EN: Bathhouse owner<n>Barrel maker<n>Soba shop owner
+
+@2ABEC max=119
+JP: 関ヶ原の戦いがあったときの年号は？
+EN: In which Japanese era did the Battle of Sekigahara take place?
+
+@2AC64 max=63
+JP: 慶長<n>元和<n>寛永
+EN: Keicho<n>Genna<n>Kan'ei
+
+@2ACAC max=119
+JP: カモノハシのお母さんのおっぱいはいくつだ？
+EN: How many nipples does a mother platypus have?
+
+@2AD24 max=63
+JP: ない<n>２個<n>６個
+EN: None<n>2<n>6
+
+@2AD6C max=119
+JP: 大相撲で土俵上の力士が口にふくむ水は？
+EN: What is the water sumo wrestlers rinse their mouths with in the ring called?
+
+@2ADE4 max=63
+JP: 神水<n>力水<n>霊水
+EN: Divine water<n>Strength water<n>Spirit water
+
+@2AE2C max=119
+JP: 大相撲の土俵上に４つあるのは？
+EN: Which type of straw bale is found at four points around a sumo ring?
+
+@2AEA4 max=63
+JP: 徳俵<n>避俵<n>金俵
+EN: Recessed bales<n>Escape bales<n>Gold bales
+
+@2AEEC max=119
+JP: プロレスのリングに通常ロープは何本ある？
+EN: How many ropes does a pro wrestling ring usually have on each side?
+
+@2AF64 max=63
+JP: ２本<n>３本<n>４本
+EN: 2<n>3<n>4
+
+@2AFAC max=119
+JP: コウゾやミツマタを使用してできるものは<n>次のうちどれ？
+EN: Which of these is made from<n>kozo and mitsumata shrubs?
+
+@2B024 max=63
+JP: 日本酒<n>海苔<n>和紙
+EN: Sake<n>Nori seaweed<n>Washi paper
+
+@2B06C max=119
+JP: ラグビーの試合中、監督のいる場所は？
+EN: Where does a rugby coach sit during a match?
+
+@2B0E4 max=63
+JP: 観客席<n>ベンチ<n>向こう正面
+EN: In the stands<n>On the bench<n>Across the field
+
+@2B12C max=119
+JP: 「アリババと４０人の盗賊」の魔法の呪文といえば？
+EN: What are the magic words in "Ali Baba and the Forty Thieves"?
+
+@2B1A4 max=63
+JP: イエローブリック<n>オープンセサミ<n>マハリクマハリタ
+EN: Yellow Brick<n>Open Sesame<n>Mahariku Maharita
+
+@2B1EC max=119
+JP: クリスマスは、正式にはなんのお祭り？
+EN: What does Christmas celebrate?
+
+@2B264 max=63
+JP: サンタ生誕祭<n>キリスト生誕祭<n>ブッダ生誕祭
+EN: Santa's birth<n>Christ's birth<n>Buddha's birth
+
+@2B2AC max=119
+JP: 鉄の元素記号はどれ？
+EN: Which is the chemical symbol for iron?
+
+@2B324 max=63
+JP: Ｆｅ<n>Ｆｕ<n>Ｆｉ
+EN: Fe<n>Fu<n>Fi
+
+@2B36C max=119
+JP: コンサート・マスターが担当しているのは？
+EN: What does an orchestra's concertmaster play?
+
+@2B3E4 max=63
+JP: バイオリン<n>指揮<n>ピアノ
+EN: Violin<n>Conducting<n>Piano
+
+@2B42C max=119
+JP: 新撰組局長は、近藤勇である！
+EN: Isami Kondo was the commander of the Shinsengumi!
+
+@2B4A4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2B4EC max=119
+JP: 小泉総理の前の前の総理大臣は誰だっけ？
+EN: Who was Japan's prime minister before Koizumi's predecessor?
+
+@2B564 max=63
+JP: 森<n>小渕<n>橋本
+EN: Mori<n>Obuchi<n>Hashimoto
+
+@2B5AC max=119
+JP: ９月１５日生まれの人は何座？
+EN: What is the star sign of someone born on September 15?
+
+@2B624 max=63
+JP: 獅子座<n>乙女座<n>天秤座
+EN: Leo<n>Virgo<n>Libra
+
+@2B66C max=119
+JP: 時計の長針は１時間に何度進む？
+EN: How many degrees does a clock's minute hand move in one hour?
+
+@2B6E4 max=63
+JP: ３０度<n>１２０度<n>３６０度
+EN: 30 degrees<n>120 degrees<n>360 degrees
+
+@2B72C max=119
+JP: 陰暦の葉月は何月？
+EN: Which month is called Hazuki in Japan's old lunar calendar?
+
+@2B7A4 max=63
+JP: １月<n>４月<n>８月
+EN: January<n>April<n>August
+
+@2B7EC max=119
+JP: イノシシのこどもは次のうちどれ？
+EN: What is a baby wild boar called in Japanese?
+
+@2B864 max=63
+JP: ヤン坊<n>マ－坊<n>ウリ坊
+EN: Yanbo<n>Mabo<n>Uribo
+
+@2B8AC max=119
+JP: ウ－パールーパーの別名は？
+EN: What is a "wooper looper" also called?
+
+@2B924 max=63
+JP: アホロートル<n>ボケノートル<n>カスマートル
+EN: Axolotl<n>Foololotl<n>Jerkolotl
+
+@2B96C max=119
+JP: 日本ではじめて上演されたオペラの演目は？
+EN: Which opera was the first to be performed in Japan?
+
+@2B9E4 max=63
+JP: 蝶々夫人<n>ファウスト<n>フィガロの結婚
+EN: Madama Butterfly<n>Faust<n>Marriage of Figaro
+
+@2BA2C max=119
+JP: 長嶋茂雄選手の現役最後の試合の対戦チームは？
+EN: Which team did Shigeo Nagashima face in his final game as a player?
+
+@2BAA4 max=63
+JP: 中日ドラゴンズ<n>阪神タイガース<n>西武ライオンズ
+EN: Chunichi Dragons<n>Hanshin Tigers<n>Seibu Lions
+
+@2BAEC max=119
+JP: 知床岬とはアイヌ語でどのような意味でしょう。
+EN: What does Cape Shiretoko's name mean in the Ainu language?
+
+@2BB64 max=63
+JP: 誰も知らぬ岬<n>地の果ての岬<n>忘れられた岬
+EN: Cape nobody knows<n>Cape at land's end<n>Forgotten cape
+
+@2BBAC max=119
+JP: 学校では１月１日からいつまでに生まれた人が<n>早生まれ？
+EN: In Japan, "early-born" pupils are born from January 1<n>through which date?
+
+@2BC24 max=63
+JP: ３月３１日<n>４月１日<n>４月２日
+EN: March 31<n>April 1<n>April 2
+
+@2BC6C max=119
+JP: 中国の四大発明に含まれないのはどれですか？
+EN: Which is NOT one of China's Four Great Inventions?
+
+@2BCE4 max=63
+JP: 火薬<n>紙<n>数字の０
+EN: Gunpowder<n>Paper<n>The number zero
+
+@2BD2C max=119
+JP: ギリシャ神話で芸術の女神とは次のうちどれ？
+EN: In Greek myth, which of these are the goddesses of the arts?
+
+@2BDA4 max=63
+JP: ニケ<n>ミューズ<n>アフロディーテ
+EN: Nike<n>The Muses<n>Aphrodite
+
+@2BDEC max=119
+JP: 音楽記号のアレグロとアンダンテ。<n>速いのはアンダンテだ！
+EN: Of the musical tempos allegro and andante,<n>andante is faster!
+
+@2BE64 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2BEAC max=119
+JP: 日本の初代総理大臣は伊藤博文である！
+EN: Hirobumi Ito was Japan's first prime minister!
+
+@2BF24 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2BF6C max=119
+JP: シロサイに角は？
+EN: How many horns does a white rhino have?
+
+@2BFE4 max=63
+JP: ない<n>１本ある<n>２本ある
+EN: None<n>One<n>Two
+
+@2C02C max=119
+JP: 「三国一の花婿」の、三国でないのは？
+EN: In Japan's phrase "the finest groom in three lands," which country is NOT one of the three?
+
+@2C0A4 max=63
+JP: 日本<n>韓国<n>インド
+EN: Japan<n>Korea<n>India
+
+@2C0EC max=119
+JP: レコードの溝は曲によって本数が異なる。
+EN: The number of grooves on a record varies with the song.
+
+@2C164 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2C1AC max=119
+JP: ゴルフでパーより３打少ないスコアはどれ？
+EN: What is a golf score of three under par called?
+
+@2C224 max=63
+JP: アルバトロス<n>ターキー<n>ボギー
+EN: Albatross<n>Turkey<n>Bogey
+
+@2C26C max=119
+JP: インドの貨幣は？
+EN: What is India's currency?
+
+@2C2E4 max=63
+JP: ウォン<n>ぺソ<n>ルピー
+EN: Won<n>Peso<n>Rupee
+
+@2C32C max=119
+JP: フェアの打球が外野でワンバウンドしてスタンドに<n>入ったとき、打者は何塁に行ける？
+EN: A fair ball bounces once in the outfield, then enters the stands.<n>Which base is the batter awarded?
+
+@2C3A4 max=63
+JP: １塁<n>２塁<n>アウト
+EN: First base<n>Second base<n>Out
+
+@2C3EC max=119
+JP: 実母と結婚してしまったテーベの王の名前は？
+EN: Which king of Thebes unwittingly married his own mother?
+
+@2C464 max=63
+JP: オイディプス<n>エディプス<n>マクベス
+EN: Oedipus<n>Edipus<n>Macbeth
+
+@2C4AC max=119
+JP: 東に向かって立っています。<n>そのときあなたの左手のある方角は？
+EN: You are facing east.<n>Which direction is to your left?
+
+@2C524 max=63
+JP: 北<n>南
+EN: North<n>South
+
+@2C56C max=119
+JP: ハンバーガーのバンズ、上はクラウン。<n>では下の部分は何と呼ぶ？
+EN: The top half of a hamburger bun is called the crown.<n>What is the bottom half called?
+
+@2C5E4 max=63
+JP: ボトム<n>ブーツ<n>ヒール
+EN: Bottom<n>Boots<n>Heel
+
+@2C62C max=119
+JP: 小泉八雲が生まれた島は？
+EN: On which island was Lafcadio Hearn, also known as Koizumi Yakumo, born?
+
+@2C6A4 max=63
+JP: 西表島<n>レフカダ島<n>ボルネオ島
+EN: Iriomote<n>Lefkada<n>Borneo
+
+@2C6EC max=119
+JP: 大正元年を西暦になおすと？
+EN: What year was the first year of Japan's Taisho era?
+
+@2C764 max=63
+JP: １８６８年<n>１９１２年<n>１９２６年
+EN: 1868<n>1912<n>1926
+
+@2C7AC max=119
+JP: パリ-ダカール・ラリー。<n>ゴールのダカールはどこの国？
+EN: The Paris-Dakar Rally finishes in Dakar.<n>In which part of Africa is it?
+
+@2C824 max=63
+JP: 北アフリカ<n>南アフリカ<n>西アフリカ
+EN: North Africa<n>South Africa<n>West Africa
+
+@2C86C max=119
+JP: オリンピックの五色にないのは？
+EN: Which color is NOT one of the five Olympic ring colors?
+
+@2C8E4 max=63
+JP: 黒<n>白<n>黄色
+EN: Black<n>White<n>Yellow
+
+@2C92C max=119
+JP: ふつうＡ型の父親とＢ型の母親から<n>生まれない血液型は？
+EN: Which blood type is normally impossible for a child<n>with a type A father and a type B mother?
+
+@2C9A4 max=63
+JP: ない<n>Ｏ型<n>ＡＢ型
+EN: None<n>Type O<n>Type AB
+
+@2C9EC max=119
+JP: アレキサンダー大王の家庭教師だったギリシャ人は？
+EN: Which Greek philosopher tutored Alexander the Great?
+
+@2CA64 max=63
+JP: ソクラテス<n>ニーチェ<n>アリストテレス
+EN: Socrates<n>Nietzsche<n>Aristotle
+
+@2CAAC max=119
+JP: ナポレオンが死んだ島は？
+EN: On which island did Napoleon die?
+
+@2CB24 max=63
+JP: 獄門島<n>セント・ヘレナ島<n>マヨルカ島
+EN: Gokumon Island<n>Saint Helena<n>Mallorca
+
+@2CB6C max=119
+JP: 不動明王が右手に持っているのは剣。<n>では左手には何を持っている？
+EN: Fudo Myoo holds a sword in his right hand.<n>What does he hold in his left?
+
+@2CBE4 max=63
+JP: 縄<n>網<n>棒
+EN: Rope<n>Net<n>Staff
+
+@2CC2C max=119
+JP: ソウル・オリンピックの<n>シンボルキャラクターだったのは？
+EN: What was the name of the mascot<n>for the Seoul Olympics?
+
+@2CCA4 max=63
+JP: ホドリ<n>フドリ<n>ブドリ
+EN: Hodori<n>Fudori<n>Budori
+
+@2CCEC max=119
+JP: １９８２年１１月に中国から来たパンダは？
+EN: Which panda arrived in Japan from China in November 1982?
+
+@2CD64 max=63
+JP: カンカン<n>フェイフェイ<n>フクフク
+EN: Kan Kan<n>Fei Fei<n>Fukufuku
+
+@2CDAC max=119
+JP: １７０２年１２月１４日におこった事件の首謀者は？
+EN: Who carried out the raid dated December 14, 1702 in Japan's old calendar?
+
+@2CE24 max=63
+JP: 赤穂浪士<n>壬生義士<n>白虎隊
+EN: The Ako Ronin<n>The Mibu Warriors<n>The Byakkotai
+
+@2CE6C max=119
+JP: 「好色五人女」を書いたのは？
+EN: Who wrote "Five Women Who Loved Love"?
+
+@2CEE4 max=63
+JP: 谷崎潤一郎<n>井原西鶴<n>近松門左衛門
+EN: Junichiro Tanizaki<n>Saikaku Ihara<n>Monzaemon Chikamatsu
+
+@2CF2C max=119
+JP: 大阪のおでんに入っているコロって何？
+EN: What is "koro," an ingredient in Osaka-style oden stew?
+
+@2CFA4 max=63
+JP: クジラのヒレ<n>クジラのヒゲ<n>クジラのカワ
+EN: Whale fins<n>Whale baleen<n>Whale skin
+
+@2CFEC max=119
+JP: プロ野球の公認ボールには縫い目の数は１０８本だ！
+EN: An official professional baseball has 108 stitches!
+
+@2D064 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2D0AC max=119
+JP: メキシコ湾とカリブ海を結ぶのは？
+EN: What connects the Gulf of Mexico and the Caribbean Sea?
+
+@2D124 max=63
+JP: ユミタン海峡<n>ユカタン海峡<n>モリタン海峡
+EN: Yumitan Strait<n>Yucatan Strait<n>Moritan Strait
+
+@2D16C max=119
+JP: オングストロームは何の単位？
+EN: What does an angstrom measure?
+
+@2D1E4 max=63
+JP: 重さ<n>長さ<n>硬さ
+EN: Weight<n>Length<n>Hardness
+
+@2D22C max=119
+JP: 何もない、と探検家が言ったことから<n>国名がついたという国とは？
+EN: Which country was supposedly named after<n>an explorer said, "There's nothing here"?
+
+@2D2A4 max=63
+JP: メキシコ<n>モンゴル<n>カナダ
+EN: Mexico<n>Mongolia<n>Canada
+
+@2D2EC max=119
+JP: 大相撲の土俵のすぐ近くの席はなんと呼ばれる？
+EN: What are the seats right beside a sumo ring called?
+
+@2D364 max=63
+JP: 塩なめ<n>尻のぞき<n>砂かぶり
+EN: Salt-licking seats<n>Rear-peeking seats<n>Sand-splashed seats
+
+@2D3AC max=119
+JP: ロダンの「考える人」のポーズで<n>正しいのは次のうちどれ？
+EN: Which correctly describes the pose<n>of Rodin's "The Thinker"?
+
+@2D424 max=63
+JP: 右足の上に右ひじ<n>左足の上に右ひじ
+EN: R elbow on R knee<n>R elbow on L knee
+
+@2D46C max=119
+JP: 小笠原諸島にない島はどれ？
+EN: Which island is NOT part of the Ogasawara Islands?
+
+@2D4E4 max=63
+JP: むこ島<n>なこうど島<n>おい島
+EN: Mukojima<n>Nakodojima<n>Oijima
+
+@2D52C max=119
+JP: バス釣りなどで使用する疑似餌のことをなんという？
+EN: What is the artificial bait used in bass fishing called?
+
+@2D5A4 max=63
+JP: ルアー<n>ギアー<n>バナー
+EN: Lure<n>Gear<n>Banner
+
+@2D5EC max=119
+JP: ルビーが誕生石の人は何月生まれ？
+EN: Ruby is the birthstone for which month?
+
+@2D664 max=63
+JP: ６月<n>７月<n>８月
+EN: June<n>July<n>August
+
+@2D6AC max=119
+JP: ●○で勝敗をあらわす大相撲の星取り表。<n>では休場は？
+EN: Sumo charts use black and white circles for wins and losses.<n>What marks an absence?
+
+@2D724 max=63
+JP: ▲<n>×<n>や
+EN: Triangle<n>X<n>ya
+
+@2D76C max=119
+JP: ミミズが呼吸するのは？
+EN: What do earthworms breathe through?
+
+@2D7E4 max=63
+JP: 皮膚<n>口<n>肛門
+EN: Skin<n>Mouth<n>Anus
+
+@2D82C max=119
+JP: 親知らずをのぞくと、成人の歯は何本？
+EN: Excluding wisdom teeth, how many teeth does an adult have?
+
+@2D8A4 max=63
+JP: ２４本<n>２６本<n>２８本
+EN: 24<n>26<n>28
+
+@2D8EC max=119
+JP: 「欲望」という名の電車に乗ったブランチは<n>どの電車に乗り換えた？
+EN: After taking a streetcar named Desire,<n>which line did Blanche transfer to?
+
+@2D964 max=63
+JP: 墓場<n>暗黒<n>地獄
+EN: Cemeteries<n>Darkness<n>Hell
+
+@2D9AC max=119
+JP: ペナルティ・ボックスのあるスポーツと言えば？
+EN: Which sport has a penalty box?
+
+@2DA24 max=63
+JP: ラグビー<n>アイスホッケー<n>セパタクロー
+EN: Rugby<n>Ice hockey<n>Sepak takraw
+
+@2DA6C max=119
+JP: 実際にあるのはどれ？
+EN: Which of these places exists in the real world?
+
+@2DAE4 max=63
+JP: カラコルム山脈<n>ケラルムレ海溝<n>うたかた渓谷
+EN: Karakoram Range<n>Kerarumure Trench<n>Bubble Gorge
+
+@2DB2C max=119
+JP: 静脈は脈を打たない。
+EN: Veins do not pulse.
+
+@2DBA4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2DBEC max=119
+JP: 歌舞伎の創始者といえば？
+EN: Who founded kabuki theater?
+
+@2DC64 max=63
+JP: 団十郎<n>阿国<n>世阿弥
+EN: Danjuro<n>Okuni<n>Zeami
+
+@2DCAC max=119
+JP: 亜鉛メッキがほどこされた鉄板って？
+EN: What do you call a sheet of iron coated with zinc?
+
+@2DD24 max=63
+JP: ステンレス<n>トタン<n>ホーロー
+EN: Stainless steel<n>Galvanized iron<n>Enamelware
+
+@2DD6C max=119
+JP: 鉛筆に記されている記号、HB、B等は、<n>芯の濃さと硬さを表すものである！
+EN: Pencil markings like HB and B<n>indicate the darkness and hardness of the lead!
+
+@2DDE4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2DE2C max=119
+JP: １９５３年にイギリスの首相チャーチルがもらった<n>ノーベル賞は？
+EN: Which Nobel Prize did British Prime Minister Churchill<n>receive in 1953?
+
+@2DEA4 max=63
+JP: 平和賞<n>文学賞<n>物理科学賞
+EN: Peace<n>Literature<n>Physics
+
+@2DEEC max=119
+JP: お灸につかわれる「もぐさ」の原料は？
+EN: What is moxa, burned in moxibustion, made from?
+
+@2DF64 max=63
+JP: てんぐさ<n>わら<n>よもぎ
+EN: Agar seaweed<n>Straw<n>Mugwort
+
+@2DFAC max=119
+JP: 米俵１俵とは何ｋｇのこと？
+EN: How many kilograms are in one traditional Japanese rice bale?
+
+@2E024 max=63
+JP: ６０ｋｇ<n>８０ｋｇ<n>１００ｋｇ
+EN: 60 kg<n>80 kg<n>100 kg
+
+@2E06C max=119
+JP: １９７２年に沖縄では通貨が円に変わりました。<n>では、それまでの通貨は？
+EN: Okinawa switched to the yen in 1972.<n>What currency did it use before that?
+
+@2E0E4 max=63
+JP: ドル<n>元<n>沖縄フラン
+EN: Dollar<n>Yuan<n>Okinawa franc
+
+@2E12C max=119
+JP: 元旦に最初に汲む水のことを何という？
+EN: What is the first water drawn on New Year's Day called?
+
+@2E1A4 max=63
+JP: 神水<n>若水<n>元水
+EN: Sacred water<n>Young water<n>Original water
+
+@2E1EC max=119
+JP: 既婚者が指輪をしているのは<n>向かって右手の左から２本目の指だ。
+EN: Married people wear a ring on the second finger from the left on the hand to your right when facing them!
+
+@2E264 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2E2AC max=119
+JP: 国民栄誉賞の第一号は？
+EN: Who was the first recipient of Japan's People's Honor Award?
+
+@2E324 max=63
+JP: 植村直巳<n>王貞治<n>美空ひばり
+EN: Naomi Uemura<n>Sadaharu Oh<n>Hibari Misora
+
+@2E36C max=119
+JP: 「ジ・オープン」と呼ばれる<n>ゴルフ・トーナメントは？
+EN: Which golf tournament is known as "The Open"?
+
+@2E3E4 max=63
+JP: 全英オープン<n>全豪オープン<n>全米オープン
+EN: British Open<n>Australian Open<n>US Open
+
+@2E42C max=119
+JP: シュークリームのシューとは<n>フランス語で「キャベツ」のことである！
+EN: The "chou" in "choux pastry" is French for "cabbage"!
+
+@2E4A4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2E4EC max=119
+JP: 花札で牡丹の札に一緒に描かれているのは？
+EN: What appears alongside the peonies on hanafuda cards?
+
+@2E564 max=63
+JP: イノシシ<n>鹿<n>蝶
+EN: Wild boar<n>Deer<n>Butterflies
+
+@2E5AC max=119
+JP: ヒマラヤ山脈といえば？
+EN: What nickname is given to the Himalayas?
+
+@2E624 max=63
+JP: 世界の屋根<n>世界の天井<n>世界のとんがり帽
+EN: Roof of the World<n>Ceiling of the World<n>World's Pointy Hat
+
+@2E66C max=119
+JP: モモンガやムササビは何科？
+EN: What family do Japanese and giant flying squirrels belong to?
+
+@2E6E4 max=63
+JP: リス科<n>ムササビ科<n>ネズミ科
+EN: Squirrels<n>Flying squirrels<n>Mice
+
+@2E72C max=119
+JP: なすの原産地はインドである！
+EN: Eggplants originated in India!
+
+@2E7A4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2E7EC max=119
+JP: バナナの皮にある茶色の斑点を何という？
+EN: What are the brown spots on a banana peel called?
+
+@2E864 max=63
+JP: シュガーポイント<n>シュガースポット<n>シュガーポット
+EN: Sugar points<n>Sugar spots<n>Sugar pots
+
+@2E8AC max=119
+JP: コロンビア大学の学園紛争をモデルにした<n>白書といえば？
+EN: Which "Statement" was inspired by the student protests at Columbia University?
+
+@2E924 max=63
+JP: オレンジ白書<n>りんご白書<n>いちご白書
+EN: Orange Statement<n>Apple Statement<n>Strawberry Statement
+
+@2E96C max=119
+JP: 長崎の平和祈念像で、空に向かってあげているのは？
+EN: Which hand does Nagasaki's Peace Statue raise toward the sky?
+
+@2E9E4 max=63
+JP: 右手<n>左手<n>両手
+EN: Right hand<n>Left hand<n>Both hands
+
+@2EA2C max=119
+JP: アルパカは、南米アンデス山脈に生息する<n>ヤギの一種である！
+EN: Alpacas are a type of goat found in South America's Andes Mountains!
+
+@2EAA4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2EAEC max=119
+JP: ハドソン川を３２時間かけて走った、<n>フルトンがつくった最初の蒸気船の名は？
+EN: What was Fulton's first steamboat called? It traveled up the Hudson River in 32 hours.
+
+@2EB64 max=63
+JP: タイタニック号<n>トウェイン号<n>クラモンド号
+EN: Titanic<n>Twain<n>Clermont
+
+@2EBAC max=119
+JP: ショパンが生まれた国は？
+EN: In which country was Chopin born?
+
+@2EC24 max=63
+JP: スペイン<n>ポーランド<n>オーストリア
+EN: Spain<n>Poland<n>Austria
+
+@2EC6C max=119
+JP: ４月の誕生石はダイヤモンドである！
+EN: April's birthstone is the diamond!
+
+@2ECE4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2ED2C max=119
+JP: ボート競技のエイト。オールをもたない選手は？
+EN: In an eight-person rowing crew, which member has no oar?
+
+@2EDA4 max=63
+JP: オックス<n>コックス<n>ノックス
+EN: Ox<n>Cox<n>Nox
+
+@2EDEC max=119
+JP: 皇居のいちばん西にある門は半蔵門だ！
+EN: Hanzomon is the westernmost gate of Tokyo's Imperial Palace!
+
+@2EE64 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2EEAC max=119
+JP: 一等星は六等星の何倍の明るさでしょう。
+EN: How many times brighter is a first-magnitude star than a sixth-magnitude star?
+
+@2EF24 max=63
+JP: ６０倍<n>１００倍<n>６００倍
+EN: 60 times<n>100 times<n>600 times
+
+@2EF6C max=119
+JP: 大相撲の弓取り式。<n>本場所中に何回おこなわれる？
+EN: How often is sumo's bow-twirling ceremony performed during a grand tournament?
+
+@2EFE4 max=63
+JP: 初日だけの１回<n>毎日で１５回
+EN: Once, on day one<n>Daily, 15 times
+
+@2F02C max=119
+JP: ピドメーターでは何を計れる？
+EN: What does a pedometer measure?
+
+@2F0A4 max=63
+JP: 体脂肪率<n>歩数<n>虚偽
+EN: Body fat percentage<n>Steps<n>Lies
+
+@2F0EC max=119
+JP: 紀元前１年の次の年は？
+EN: Which year comes immediately after 1 BC?
+
+@2F164 max=63
+JP: 紀元０年<n>紀元１年
+EN: AD 0<n>AD 1
+
+@2F1AC max=119
+JP: 第１回万博の開催地は？
+EN: Where was the first World's Fair held?
+
+@2F224 max=63
+JP: ロンドン<n>パリ<n>アテネ
+EN: London<n>Paris<n>Athens
+
+@2F26C max=119
+JP: ９人制バレーボールを考案した国は？
+EN: Which country invented nine-player volleyball?
+
+@2F2E4 max=63
+JP: 米国<n>中国<n>日本
+EN: USA<n>China<n>Japan
+
+@2F32C max=119
+JP: 黄道を通るのは？
+EN: Which travels along the ecliptic?
+
+@2F3A4 max=63
+JP: 月<n>太陽
+EN: The Moon<n>The Sun
+
+@2F3EC max=119
+JP: ゴリラのろっ骨は人間と同じ１２対だ。
+EN: Gorillas have 12 pairs of ribs, just like humans.
+
+@2F464 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2F4AC max=119
+JP: 二条城を設計したのは誰？
+EN: Who designed Nijo Castle?
+
+@2F524 max=63
+JP: 小堀遠州<n>中堀豪州<n>大堀上州
+EN: Kobori Enshu<n>Nakabori Goshu<n>Obori Joshu
+
+@2F56C max=119
+JP: 将棋の歩が成るのは？
+EN: In shogi, what does a pawn promote to?
+
+@2F5E4 max=63
+JP: 金<n>銀<n>銅
+EN: Gold<n>Silver<n>Bronze
+
+@2F62C max=119
+JP: 北極星があるのは？
+EN: Which constellation contains the North Star?
+
+@2F6A4 max=63
+JP: おおくま座<n>こぐま座<n>カシオペア座
+EN: Ursa Major<n>Ursa Minor<n>Cassiopeia
+
+@2F6EC max=119
+JP: ベートーベンとモーツァルトで同名異曲があるのは？
+EN: Which title did Beethoven and Mozart each use for a different piece?
+
+@2F764 max=63
+JP: 田園<n>結婚狂騒曲<n>トルコ行進曲
+EN: Pastoral<n>Wedding Rhapsody<n>Turkish March
+
+@2F7AC max=119
+JP: ヘビはまばたきをする。
+EN: Snakes blink.
+
+@2F824 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2F86C max=119
+JP: イモリとヤモリ、お腹が赤いのはイモリだ。
+EN: Of newts and geckos, it's the newt that has a red belly.
+
+@2F8E4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2F92C max=119
+JP: 日本地図上で「×」といえば？
+EN: What does an "X" mark on a Japanese map?
+
+@2F9A4 max=63
+JP: 役所<n>警察<n>裁判所
+EN: Government office<n>Police station<n>Courthouse
+
+@2F9EC max=119
+JP: 真珠はアコヤ貝を母貝として採れたものだけを呼ぶ！
+EN: Only pearls from Akoya oysters can be called pearls!
+
+@2FA64 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2FAAC max=119
+JP: アオガエルのお腹の色は青色だ！
+EN: A tree frog's belly is blue!
+
+@2FB24 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2FB6C max=119
+JP: リリパット国やブロブディンナグ国を<n>旅した人といえば？
+EN: Who traveled to Lilliput<n>and Brobdingnag?
+
+@2FBE4 max=63
+JP: 三蔵法師<n>ガリバー<n>ドンキホーテ
+EN: Tripitaka<n>Gulliver<n>Don Quixote
+
+@2FC2C max=119
+JP: ゴルフのホールの直径は？
+EN: What is the diameter of a golf hole?
+
+@2FCA4 max=63
+JP: ８．５７ｃｍ<n>９．８３ｃｍ<n>１０．７９ｃｍ
+EN: 8.57 cm<n>9.83 cm<n>10.79 cm
+
+@2FCEC max=119
+JP: 日本に標準語ができたのは？
+EN: When did Japan establish a standard language?
+
+@2FD64 max=63
+JP: １８６８年<n>１９１６年<n>１９４５年
+EN: 1868<n>1916<n>1945
+
+@2FDAC max=119
+JP: 馬にない骨は？
+EN: Which bone do horses lack?
+
+@2FE24 max=63
+JP: 肩甲骨<n>坐骨<n>鎖骨
+EN: Shoulder blade<n>Sitting bone<n>Collarbone
+
+@2FE6C max=119
+JP: 正しくは８分の１マイルのことだが、<n>日本では２００メートルなのは？
+EN: Which unit is actually one-eighth of a mile,<n>but is treated as 200 meters in Japan?
+
+@2FEE4 max=63
+JP: １ガロン<n>１ハロン<n>１トロン
+EN: One gallon<n>One furlong<n>One trone
+
+@2FF2C max=119
+JP: 弔電や祝電を申し込むＮＴＴの番号は？
+EN: What NTT number do you call to send a condolence or congratulatory telegram?
+
+@2FFA4 max=63
+JP: １１５<n>１１６<n>１１７
+EN: 115<n>116<n>117
+
+@2FFEC max=119
+JP: なくて七癖、あれば何癖？
+EN: A Japanese saying gives even those with no quirks seven. How many do those with quirks have?
+
+@30064 max=63
+JP: ４８癖<n>８８癖<n>１０８癖
+EN: 48 quirks<n>88 quirks<n>108 quirks
+
+@300AC max=119
+JP: 馬の始祖だといわれている動物は？
+EN: Which animal is considered an early ancestor of the horse?
+
+@30124 max=63
+JP: ヒラコテリウム<n>ナトリウム<n>プラレタリウム
+EN: Hyracotherium<n>Natrium<n>Planretarium
+
+@3016C max=119
+JP: サラブレッドの頭はその形状のパターンから<n>名前がつけられています。実際にないのは？
+EN: Thoroughbred head shapes have descriptive names.<n>Which of these is not one of them?
+
+@301E4 max=63
+JP: 兎頭<n>鮫頭<n>鳩頭
+EN: Rabbit head<n>Shark head<n>Pigeon head
+
+@3022C max=119
+JP: 植物にも血液型がある！
+EN: Plants have blood types too!
+
+@302A4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@302EC max=119
+JP: 横綱の土俵入りにないのは？
+EN: Which is not a yokozuna ring-entry style?
+
+@30364 max=63
+JP: 雲龍型<n>竜虎型<n>不知火型
+EN: Unryu style<n>Ryuko style<n>Shiranui style
+
+@303AC max=119
+JP: 小腸の長さが約１４メートルある鳥といえば？
+EN: Which bird has a small intestine about 14 meters long?
+
+@30424 max=63
+JP: ペンギン<n>ニワトリ<n>ダチョウ
+EN: Penguin<n>Chicken<n>Ostrich
+
+@3046C max=119
+JP: フレミングの左手の法則。<n>電流の向きを示すのは何指？
+EN: In Fleming's left-hand rule, which finger shows the direction of the current?
+
+@304E4 max=63
+JP: 親指<n>人さし指<n>中指
+EN: Thumb<n>Index finger<n>Middle finger
+
+@3052C max=119
+JP: ペンペン草の別名は？
+EN: Which plant is also called penpengusa?
+
+@305A4 max=63
+JP: なずな<n>ごぎょう<n>はこべら
+EN: Shepherd's purse<n>Cudweed<n>Chickweed
+
+@305EC max=119
+JP: 忠犬ハチ公の犬種は？
+EN: What breed was the famously loyal dog Hachiko?
+
+@30664 max=63
+JP: 柴犬<n>土佐犬<n>秋田犬
+EN: Shiba Inu<n>Tosa Inu<n>Akita
+
+@306AC max=119
+JP: えびかずらって何？
+EN: Which plant is also called ebikazura?
+
+@30724 max=63
+JP: かぼちゃ<n>ぶどう<n>さといも
+EN: Pumpkin<n>Grape<n>Taro
+
+@3076C max=119
+JP: バレエ楽曲、白鳥の湖の作者は誰？
+EN: Who composed the ballet Swan Lake?
+
+@307E4 max=63
+JP: ワーグナー<n>チャイコフスキー<n>モーツァルト
+EN: Wagner<n>Tchaikovsky<n>Mozart
+
+@3082C max=119
+JP: 伊賀忍者のふるさと「伊賀」は、今でいう何県のこと？
+EN: Iga, home of the Iga ninja, is in which present-day prefecture?
+
+@308A4 max=63
+JP: 三重<n>滋賀<n>長崎
+EN: Mie<n>Shiga<n>Nagasaki
+
+@308EC max=119
+JP: ヒ臓は体の右側にある。
+EN: The spleen is on the right side of the body.
+
+@30964 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@309AC max=119
+JP: 一寸法師が剣にしたのは？
+EN: What did Issun-boshi, the inch-high boy, use as a sword?
+
+@30A24 max=63
+JP: 楊枝<n>針<n>魚の骨
+EN: Toothpick<n>Needle<n>Fish bone
+
+@30A6C max=119
+JP: 大和山脈はどこにある？
+EN: Where are the Yamato Mountains?
+
+@30AE4 max=63
+JP: 奈良県<n>南極<n>月
+EN: Nara Prefecture<n>Antarctica<n>The Moon
+
+@30B2C max=119
+JP: ラグビーボールは何枚の皮が張ってある？
+EN: How many leather panels make up a rugby ball?
+
+@30BA4 max=63
+JP: １枚<n>４枚<n>８枚
+EN: 1<n>4<n>8
+
+@30BEC max=119
+JP: 重要無形文化財保持者の別名は？
+EN: What is someone recognized as a bearer of Japan's Important Intangible Cultural Properties also called?
+
+@30C64 max=63
+JP: 文化功労者<n>人間国宝<n>名誉国民
+EN: Cultural Honoree<n>Living National Treasure<n>Honorary Citizen
+
+@30CAC max=119
+JP: 日本最初の年号は？
+EN: What was Japan's first era name?
+
+@30D24 max=63
+JP: 大和<n>大化<n>和銅
+EN: Yamato<n>Taika<n>Wado
+
+@30D6C max=119
+JP: 水の融点は何度Ｃだ？
+EN: What is the melting point of water in degrees Celsius?
+
+@30DE4 max=63
+JP: ０度<n>１度
+EN: 0 C<n>1 C
+
+@30E2C max=119
+JP: 真冬日とは１日の最高気温が<n>０度Ｃ未満の日のことだ。
+EN: An "ice day" is a day when the highest temperature stays below 0 C.
+
+@30EA4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@30EEC max=119
+JP: マンモスの足１本に指は何本？
+EN: How many toes did a mammoth have on each foot?
+
+@30F64 max=63
+JP: ３本<n>４本<n>５本
+EN: 3<n>4<n>5
+
+@30FAC max=119
+JP: 茶室で広間とは何畳以上のこと？
+EN: How many tatami mats must a tea room have to count as a "hiroma," or large room?
+
+@31024 max=63
+JP: 四畳半以上<n>六畳以上<n>十畳以上
+EN: 4.5 or more<n>6 or more<n>10 or more
+
+@3106C max=119
+JP: 古事記と日本書紀、先に書かれたのは日本書紀だ。
+EN: The Nihon Shoki was written before the Kojiki.
+
+@310E4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@3112C max=119
+JP: クフ王のピラミッドの底辺の長さと関係するのは？
+EN: Which mathematical concept is linked to the base length of Khufu's pyramid?
+
+@311A4 max=63
+JP: 円周率<n>黄金分割<n>台形の面積
+EN: Pi<n>The golden ratio<n>Area of a trapezoid
+
+@311EC max=119
+JP: 光の三原色にないのは？
+EN: Which is NOT a primary color of light?
+
+@31264 max=63
+JP: 白<n>赤<n>緑
+EN: White<n>Red<n>Green
+
+@312AC max=119
+JP: フラフープ発祥の国は？
+EN: In which country did the hula hoop originate?
+
+@31324 max=63
+JP: 日本<n>オーストラリア<n>フランス
+EN: Japan<n>Australia<n>France
+
+@3136C max=119
+JP: 源氏物語は４５帖ある。
+EN: The Tale of Genji has 45 chapters.
+
+@313E4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@3142C max=119
+JP: 五大湖でないのは？
+EN: Which is NOT one of the Great Lakes?
+
+@314A4 max=63
+JP: ヒューロン湖<n>スペリオル湖<n>バイカル湖
+EN: Lake Huron<n>Lake Superior<n>Lake Baikal
+
+@314EC max=119
+JP: 鎌倉の大仏の耳の長さは？
+EN: How long are the ears of the Great Buddha of Kamakura?
+
+@31564 max=63
+JP: ８０ｃｍ<n>１２０ｃｍ<n>１９０ｃｍ
+EN: 80 cm<n>120 cm<n>190 cm
+
+@315AC max=119
+JP: シーボルトが長崎に開いたのは？
+EN: Which school did Siebold open in Nagasaki?
+
+@31624 max=63
+JP: 鳴滝塾<n>呼鳥塾<n>眺山塾
+EN: Narutaki School<n>Kocho School<n>Chozan School
+
+@3166C max=119
+JP: おせち料理の田作りの別名は？
+EN: What is another name for tazukuri, the candied fish served at New Year?
+
+@316E4 max=63
+JP: ゴマメ<n>コマメ<n>ニマメ
+EN: Gomame<n>Komame<n>Nimame
+
+@3172C max=119
+JP: 石油のドラム缶１本は何リットル？
+EN: How many liters does a standard oil drum hold?
+
+@317A4 max=63
+JP: ２００リットル<n>２０００リットル<n>２００００リットル
+EN: 200 liters<n>2,000 liters<n>20,000 liters

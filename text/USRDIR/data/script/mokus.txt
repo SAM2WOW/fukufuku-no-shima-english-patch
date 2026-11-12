@@ -1,0 +1,1607 @@
+# source: PSP_GAME/USRDIR/data/script/mokus.scb
+# format: scb
+# width: 44
+
+@5144 max=639
+JP: …こんにちは。<n><PN>さん、ですね？<p>ボクはモークス。闇の妖精です。<p>いつか、守護天使になることを<n>夢みて、この島で働いています。<p>ボクに与えられた、大天使からの試練は<n>落ち込んでる人を、百万回励ますこと。<p>それが、闇に生まれたボクが<n>天使になれる、唯一の方法なんです。<p>あの…もし、なにかつらいことがあったら<n>ボクに声をかけてみてください。<p>励ますことぐらいしかできないけど…。<n>なにかの役には立つかもしれません。
+EN: ...Hello.<n>You're <PN>, aren't you?<p>I'm Mokus, a fairy of darkness.<p>I work on this island, dreaming of becoming a guardian angel someday.<p>The Archangel has given me a trial:<n>cheer up someone who's feeling down a million times.<p>It's the only way for someone born in darkness, like me, to become an angel.<p>Um... if something's troubling you,<n>please come and talk to me.<p>Cheering you up is all I can do...<n>but maybe it'll help a little.
+
+@53C4 max=639
+JP: <PN>さん！
+EN: <PN>!
+
+@5644 max=639
+JP: あ、<PN>さん。
+EN: Oh, <PN>.
+
+@58C4 max=639
+JP: あの…<PN>さん<p>守護天使って、ご存じですか？<p>人を守り、助ける<n>天界に属する素晴らしい存在です。<p>ふだんは目に見えないけれど<n>この島にいるときは、見えるんです。<p>□ボタンで、呼び出してみてください。<n>きっと役に立ちますよ。<p>ああ、ボクもなりたいなあ<n>守護天使…。
+EN: Um... <PN>?<p>Do you know about guardian angels?<p>They're wonderful beings from the heavens<n>who protect and help people.<p>You can't usually see them,<n>but you can while you're on this island.<p>Try pressing the Square button to call yours.<n>I'm sure they'll be a big help.<p>Oh, how I wish I could be<n>a guardian angel, too...
+
+@5B44 max=639
+JP: あの…ご存じですか<p>守護天使は、ソウル玉をあげると<n>成長してゆくんですよ。<p>あと、邪悪な敵と戦うことでも<n>成長するそうですが…<p>このあたりには、敵なんて<n>いませんからね…。<p>あ、それと、守護天使は<n>この世に現れるのに、パワーを使います。<p>出しっぱなしだと、疲れてしまって<n>しばらく使えなくなりますよ。
+EN: Um... did you know?<p>Guardian angels grow stronger<n>when you give them Soul orbs.<p>I hear they also grow stronger<n>by fighting evil enemies...<p>But there aren't any enemies<n>around here...<p>Oh, and guardian angels use energy<n>to appear in this world.<p>If you leave yours out too long, they'll get tired,<n>and you won't be able to call them for a while.
+
+@5DC4 max=639
+JP: あの…ご存じですか<p>島の北のほうに<n>不思議な人形があるそうですよ。<p>なんでも、ソウル玉を使ってあげると<n>動き出すとか…<p>ソウル玉を拾ったら、全部使わずに<n>貯めておくといいかもしれませんね。
+EN: Um... did you know?<p>There's supposed to be a mysterious doll<n>in the north of the island.<p>They say it starts moving<n>if you use Soul orbs on it...<p>If you find any Soul orbs, it might be wise<n>to save some instead of using them all.
+
+@6044 max=639
+JP: あの…<PN>さん<p>守護天使って、ご存じですか？<p>人を守り、助ける<n>天界に属する素晴らしい存在です。<p>ふだんは目に見えないけれど<n>この島にいるときは、見えるんです。<p>□ボタンで、呼び出してみてください。<n>きっと役に立ちますよ。<p>ああ、ボクもなりたいなあ<n>守護天使…。
+EN: Um... <PN>?<p>Do you know about guardian angels?<p>They're wonderful beings from the heavens<n>who protect and help people.<p>You can't usually see them,<n>but you can while you're on this island.<p>Try pressing the Square button to call yours.<n>I'm sure they'll be a big help.<p>Oh, how I wish I could be<n>a guardian angel, too...
+
+@62C4 max=639
+JP: あの…ご存じですか<p>守護天使は、ソウル玉をあげると<n>成長してゆくんですよ。<p>あと、邪悪な敵と戦うことでも<n>成長するそうですが…<p>このあたりには、敵なんて<n>いませんからね…。<p>あ、それと、守護天使は<n>この世に現れるのに、パワーを使います。<p>出しっぱなしだと、疲れてしまって<n>しばらく使えなくなりますよ。
+EN: Um... did you know?<p>Guardian angels grow stronger<n>when you give them Soul orbs.<p>I hear they also grow stronger<n>by fighting evil enemies...<p>But there aren't any enemies<n>around here...<p>Oh, and guardian angels use energy<n>to appear in this world.<p>If you leave yours out too long, they'll get tired,<n>and you won't be able to call them for a while.
+
+@6544 max=639
+JP: あの…ご存じですか<p>島の北のほうに<n>不思議な人形があるそうですよ。<p>なんでも、ソウル玉を使ってあげると<n>動き出すとか…<p>ソウル玉を拾ったら、全部使わずに<n>貯めておくといいかもしれませんね。
+EN: Um... did you know?<p>There's supposed to be a mysterious doll<n>in the north of the island.<p>They say it starts moving<n>if you use Soul orbs on it...<p>If you find any Soul orbs, it might be wise<n>to save some instead of using them all.
+
+@67C4 max=639
+JP: あの…<PN>さん<p>守護天使って、ご存じですか？<p>人を守り、助ける<n>天界に属する素晴らしい存在です。<p>ふだんは目に見えないけれど<n>この島にいるときは、見えるんです。<p>□ボタンで、呼び出してみてください。<n>きっと役に立ちますよ。<p>ああ、ボクもなりたいなあ<n>守護天使…。
+EN: Um... <PN>?<p>Do you know about guardian angels?<p>They're wonderful beings from the heavens<n>who protect and help people.<p>You can't usually see them,<n>but you can while you're on this island.<p>Try pressing the Square button to call yours.<n>I'm sure they'll be a big help.<p>Oh, how I wish I could be<n>a guardian angel, too...
+
+@6A44 max=639
+JP: あの…ご存じですか<p>守護天使は、ソウル玉をあげると<n>成長してゆくんですよ。<p>あと、邪悪な敵と戦うことでも<n>成長するそうですが…<p>このあたりには、敵なんて<n>いませんからね…。<p>あ、それと、守護天使は<n>この世に現れるのに、パワーを使います。<p>出しっぱなしだと、疲れてしまって<n>しばらく使えなくなりますよ。
+EN: Um... did you know?<p>Guardian angels grow stronger<n>when you give them Soul orbs.<p>I hear they also grow stronger<n>by fighting evil enemies...<p>But there aren't any enemies<n>around here...<p>Oh, and guardian angels use energy<n>to appear in this world.<p>If you leave yours out too long, they'll get tired,<n>and you won't be able to call them for a while.
+
+@6CC4 max=639
+JP: あの…これ、さしあげます。<p>福福先生からいただいた<n>賢者の像です。<p>ええ、いいんです。使ってください。<p>ボクは、闇の妖精ですから<n>あんまり出歩くのはまずいんです…。<p>ですから、お気になさらず。<n>はい、どうぞ！
+EN: Um... I'd like you to have this.<p>It's a Sage Statue<n>that Master Fukufuku gave me.<p>Really, it's all right. Please use it.<p>I'm a fairy of darkness,<n>so I really shouldn't wander around too much...<p>So please, don't worry about me.<n>Here you go!
+
+@6F44 max=639
+JP: こんなボクと、いやがらずに<n>話してくれるのは…<p>マリアンさんと、先生と<n><PN>さんだけです。<p>ほんとうに、いつも<n>ありがとうございます…。
+EN: The only people who don't mind<n>talking to someone like me...<p>are Marian, Master Fukufuku,<n>and you, <PN>.<p>Thank you, really,<n>for always being so kind...
+
+@71C4 max=639
+JP: あの…ご存じですか<p>この島のどこかに<n>守護天使を束ねる、という…<p>大天使が現れる場所が<n>あるそうですよ。<p>大天使かあ…。<n>きっと素晴らしい方なんでしょうね。
+EN: Um... did you know?<p>Somewhere on this island,<n>there's supposed to be a place where...<p>the Archangel, who watches over<n>all the guardian angels, appears.<p>The Archangel...<n>They must be someone truly wonderful.
+
+@7444 max=639
+JP: なぜボクは、この島に<n>いるんでしょうか…。<p>ええ。自分でも<n>よくわからないんです。<p>気がついたら、この島で<n>こうやって立っていたんですよ。
+EN: Why am I here<n>on this island...?<p>Yes... even I<n>don't really know.<p>The first thing I remember is standing here<n>on this island, just like this.
+
+@76C4 max=639
+JP: 大きなマイナスは<n>きっと大きなプラスに変わる…。<p>妖精王さまは、そうおっしゃったと<n>福福先生から聞かされました。<p>その言葉を信じて<n>ボクは、がんばるつもりです。<p>ええ。いつかきっと、守護天使に<n>なるつもりです！
+EN: A great misfortune can surely<n>become a great blessing...<p>Master Fukufuku told me<n>those were the Fairy King's words.<p>I believe in those words,<n>so I'm going to keep trying.<p>Yes. Someday, I really will<n>become a guardian angel!
+
+@7944 max=639
+JP: あなたの服装、最近<n>とてもおしゃれでいいですね！<p>ボクだけじゃなく、みんな<n>そう言ってますよ！
+EN: You've been dressing<n>so stylishly lately!<p>It's not just me.<n>Everyone's been saying so!
+
+@7BC4 max=639
+JP: ボクの身体をおおう<n>この煙みたいな闇…<p>これが晴れるとき、ボクは<n>生まれ変われるそうです。<p>いつか、その日が<n>来るといいなあ…。
+EN: This smoky darkness<n>that covers my body...<p>They say that when it clears,<n>I'll be reborn.<p>I hope that day<n>comes someday...
+
+@7E44 max=639
+JP: あのう…。<n>悩みごとが、あるんですか？
+EN: Um...<n>Is something troubling you?
+
+@80C4 max=639
+JP: ボクには<n>励ますことしかできないけど…<p>それでもよかったら<n>また会いに来てくださいね…。
+EN: All I can do<n>is try to cheer you up...<p>But if that's enough,<n>please come see me again...
+
+@8344 max=639
+JP: ボクには<n>励ますことしかできないけど…<p>それでもよかったら<n>また会いに来てくださいね…。
+EN: All I can do<n>is try to cheer you up...<p>But if that's enough,<n>please come see me again...
+
+@85C4 max=639
+JP: <HEXP>の経験値を獲得
+EN: Gained <HEXP> experience points.
+
+@8844 max=639
+JP: <<テキストチェック>><n>チェックする項目を選んでください。
+EN: 
+
+@8AC4 max=639
+JP: 会話メッセージ<n>イベント用テキスト
+EN: Dialogue<n>Event Text
+
+@8D44 max=639
+JP: 表示したい会話メッセージのIDを選んでください。
+EN: 
+
+@8FC4 max=639
+JP: 表示したいテキストのIDを入力してください。
+EN: 
+
+@14E64 max=359
+JP: 元気だしてください、<n><PN>さん
+EN: Please cheer up,<n><PN>.
+
+@14FCC max=359
+JP: 元気だしてほしいなぁ。元気だしてほしいです。
+EN: I hope you feel better soon. I really do.
+
+@15134 max=359
+JP: がんばりましょう、一緒に。
+EN: Let's keep trying, together.
+
+@1529C max=359
+JP: がんばってほしいです、<n><PN>さんには。
+EN: I'm rooting for you,<n><PN>.
+
+@15404 max=359
+JP: がんばりすぎないでもいいんです。
+EN: You don't have to push yourself so hard.
+
+@1556C max=359
+JP: もう充分がんばってますです。
+EN: You've already been trying so hard.
+
+@156D4 max=359
+JP: いいこ、いいこ、です。
+EN: You're doing well. So very well.
+
+@1583C max=359
+JP: よしよし、です。
+EN: There, there.
+
+@159A4 max=359
+JP: どうしたのかな、だいじょーぶかな。
+EN: What's wrong? Are you feeling all right?
+
+@15B0C max=359
+JP: へーきへーき、へーきへーき、です。
+EN: It's okay. It's okay. Everything's okay.
+
+@15C74 max=359
+JP: そんなときもありますです。
+EN: These things happen sometimes.
+
+@15DDC max=359
+JP: こんな日もたまにはありますですよ。
+EN: We all have days like this now and then.
+
+@15F44 max=359
+JP: 落ち込むのもたまにはイイじゃないですか。
+EN: It's all right to feel down sometimes, isn't it?
+
+@160AC max=359
+JP: ブルーな気分ってのも、楽しんじゃいましょう。
+EN: Maybe we can even find a little joy in feeling blue.
+
+@16214 max=359
+JP: 凹むこともたまにはないと、人生つまらないです。
+EN: Life would be dull without a few low moments.
+
+@1637C max=359
+JP: いいことばっかりじゃ、人生つまらないです。
+EN: Life would be dull if only good things ever happened.
+
+@164E4 max=359
+JP: 調子のいいときばっかりじゃないです、誰でも。
+EN: Nobody's at their best all the time.
+
+@1664C max=359
+JP: 気分が沈む日があっても当然です。
+EN: It's only natural to have days when you feel low.
+
+@167B4 max=359
+JP: 誰だって落ち込むことありますです。ボクだって。
+EN: Everyone feels down sometimes. Even me.
+
+@1691C max=359
+JP: この世の中で悩んでない人はいないです。
+EN: There's no one in this world without a worry.
+
+@16A84 max=359
+JP: 悩んだことのない人にあったことありますですか？<n>ボクはないです。
+EN: Have you ever met someone who's never had a worry?<n>I haven't.
+
+@16BEC max=359
+JP: 泣いちゃいましょう。
+EN: Go ahead. Have a good cry.
+
+@16D54 max=359
+JP: 泣いたほうがいい日もありますです。
+EN: Some days, a good cry is just what you need.
+
+@16EBC max=359
+JP: 泣いてもいいです。
+EN: It's all right to cry.
+
+@17024 max=359
+JP: 泣く子は育ちますです、大人になっても。
+EN: Crying helps you grow, even when you're all grown up.
+
+@1718C max=359
+JP: よく泣いておくと、あとでよく笑えますです。
+EN: Have a good cry now, and you'll have a good laugh later.
+
+@172F4 max=359
+JP: 泣き顔もステキです。
+EN: You look lovely even when you cry.
+
+@1745C max=359
+JP: きっとみんな同じ気持ちです。今の<PN>さんと。
+EN: I'm sure everyone feels just like you do right now, <PN>.
+
+@175C4 max=359
+JP: せつないですね。ボクもせつなくなっちゃいます。
+EN: It makes your heart ache, doesn't it? Mine's starting to ache, too.
+
+@1772C max=359
+JP: くやしいですね。ボクもくやしくなっちゃいました。
+EN: It's so frustrating, isn't it? Now I'm feeling frustrated, too.
+
+@17894 max=359
+JP: さみしいですね。ボクもさみしくなっちゃいます。
+EN: It's lonely, isn't it? I'm starting to feel lonely, too.
+
+@179FC max=359
+JP: かなしいですね。ボクもかなしいです。
+EN: It's sad, isn't it? I'm sad, too.
+
+@17B64 max=359
+JP: だいじょうぶ、きっとうまくいきますですよ。
+EN: It's all right. I'm sure things will work out.
+
+@17CCC max=359
+JP: うかない顔もかわいいです。
+EN: You look cute even with that gloomy face.
+
+@17E34 max=359
+JP: 凹んだ顔もセクシーです。
+EN: You look sexy even when you're down.
+
+@17F9C max=359
+JP: おもいっきり凹めば、<n>今度は新鮮な空気が入ってきますです。
+EN: Let yourself deflate all the way.<n>Then you can fill up with fresh air.
+
+@18104 max=359
+JP: 凹みきったら、あとは元気になるばっかりです。
+EN: Once you've hit rock bottom, things can only get better.
+
+@1826C max=359
+JP: <PN>さんには、<n>ボクがついてますです。
+EN: You've got me by your side,<n><PN>.
+
+@183D4 max=359
+JP: ボクはいつでもここにいますです。
+EN: I'll always be right here.
+
+@1853C max=359
+JP: ボクはいつだって<n><PN>さんと一緒です。
+EN: I'm always with you,<n><PN>.
+
+@186A4 max=359
+JP: <PN>さんと<n>ずっと一緒にいたいです。
+EN: I'd like to stay with you forever,<n><PN>.
+
+@1880C max=359
+JP: <PN>さんに会えてうれしいです。
+EN: I'm happy to see you, <PN>.
+
+@18974 max=359
+JP: <PN>さんに会えたことに<n>感謝したいです。
+EN: I'm so grateful<n>that I got to meet you, <PN>.
+
+@18ADC max=359
+JP: <PN>さんつらいことがあったら<n>ボクに言ってくださいね。
+EN: <PN>, if something's troubling you,<n>please tell me.
+
+@18C44 max=359
+JP: 怒ってることあれば、<n>ボクにあたってくれていいです。
+EN: If you're angry about something,<n>it's okay to take it out on me.
+
+@18DAC max=359
+JP: <PN>さんがつらいと、<n>ボクもつらいです。
+EN: When you're hurting, <PN>,<n>I'm hurting, too.
+
+@18F14 max=359
+JP: ボクはいつだって<n><PN>さんの味方です。
+EN: I'm always on your side,<n><PN>.
+
+@1907C max=359
+JP: ボクはいつだって<n><PN>さんを見ています。
+EN: I'm always<n>watching over you, <PN>.
+
+@191E4 max=359
+JP: ボクが本当の<n><PN>さんを知っています。
+EN: I know the real you,<n><PN>.
+
+@1934C max=359
+JP: 誰がなんと言おうと<n><PN>さんの味方です。
+EN: Whatever anyone says,<n>I'm on your side, <PN>.
+
+@194B4 max=359
+JP: 応援しています、<PN>さん。
+EN: I'm rooting for you, <PN>.
+
+@1961C max=359
+JP: <PN>さんがかなしそうだと、かなしいです。
+EN: Seeing you look sad makes me sad, <PN>.
+
+@19784 max=359
+JP: <PN>さんがさみしそうだと、さみしいです。
+EN: Seeing you look lonely makes me lonely, <PN>.
+
+@198EC max=359
+JP: <PN>さんをずっと待っていましたよ、ボク。
+EN: I've been waiting for you all this time, <PN>.
+
+@19A54 max=359
+JP: 今日はこれからいいことがあるようです。
+EN: It looks like something good is coming your way today.
+
+@19BBC max=359
+JP: 今日はツイてる日になりますです。
+EN: Today's going to be a lucky day for you.
+
+@19D24 max=359
+JP: あ、いま、いい予感がしました。<n>ボクの予感はあたると評判なんです。
+EN: Oh, I just got a good feeling.<n>People say my hunches tend to come true.
+
+@19E8C max=359
+JP: ケセラセラ、です。
+EN: Que sera, sera. What will be, will be.
+
+@19FF4 max=359
+JP: なんくるないさ、です。
+EN: It'll all work out somehow.
+
+@1A15C max=359
+JP: ヘッチャラ、ヘッチャラ、です。
+EN: It's okay. It's okay.
+
+@1A2C4 max=359
+JP: ドンマイ、ドンマイ、です。
+EN: Never mind. Never mind.
+
+@1A42C max=359
+JP: 終わったことは気にしない気にしない、です。
+EN: What's done is done. Don't let it bother you.
+
+@1A594 max=359
+JP: 無問題！です。
+EN: No problem!
+
+@1A6FC max=359
+JP: なんの問題もないです。
+EN: There's no problem at all.
+
+@1A864 max=359
+JP: 心配無用です。
+EN: There's no need to worry.
+
+@1A9CC max=359
+JP: 心配する必要なんて、ぜんぜんないです。
+EN: There's no need to worry at all.
+
+@1AB34 max=359
+JP: これからはすべてがうまくいきますです。
+EN: Things will go well from now on.
+
+@1AC9C max=359
+JP: <PN>さんは<n>間違ってなんかないです。
+EN: You haven't done anything wrong,<n><PN>.
+
+@1AE04 max=359
+JP: 笑う門には福きたる、です。
+EN: Good fortune comes to those who smile.
+
+@1AF6C max=359
+JP: 明けない夜はない、です。
+EN: Even the longest night ends in dawn.
+
+@1B0D4 max=359
+JP: やまない雨はない、です。
+EN: No rain lasts forever.
+
+@1B23C max=359
+JP: 月が見えない夜でも、月はそこにいるんです。
+EN: Even when you can't see the moon, it's still up there.
+
+@1B3A4 max=359
+JP: 日はまた昇る、です。
+EN: The sun will rise again.
+
+@1B50C max=359
+JP: 果報は寝て待て、です。
+EN: Good things come to those who wait.
+
+@1B674 max=359
+JP: あきらめないでください。願えば叶う、です。
+EN: Please don't give up. Wishes can come true.
+
+@1B7DC max=359
+JP: あきらめないようにしましょう。<n>思えば思われる、です。
+EN: Let's not give up.<n>The love you give can find its way back to you.
+
+@1B944 max=359
+JP: 明日は明日の風が吹く、です。
+EN: Tomorrow will bring a fresh breeze.
+
+@1BAAC max=359
+JP: フレー！フレー！です、<n><PN>さん！
+EN: Hip, hip, hooray!<n>Go, <PN>!
+
+@1BC14 max=359
+JP: ガンバレ、ガンバレ、<n><PN>さん！
+EN: You can do it,<n><PN>!
+
+@1BD7C max=359
+JP: 負けるが勝ちです。
+EN: Sometimes giving in is how you win.
+
+@1BEE4 max=359
+JP: 今日のところは負けてやっておけ、です。
+EN: Let them have their victory for today.
+
+@1C04C max=359
+JP: やりなおすのに遅いなんてことありませんです。
+EN: It's never too late to start over.
+
+@1C1B4 max=359
+JP: 人生いくらだってやりなおしはきくんです。
+EN: You can start over in life as many times as you need.
+
+@1C31C max=359
+JP: 落ち込み上等！です。
+EN: Feeling down? That's okay too!
+
+@1C484 max=359
+JP: 落ち込んでるヒマなんてないです！
+EN: There's no time to feel down!
+
+@1C5EC max=359
+JP: 落ち込むような価値もないような話です！<n>ムダムダ！
+EN: This isn't even worth getting upset over!<n>It's a waste of your worries!
+
+@1C754 max=359
+JP: しっかり落ち込んでおくと、<n>あとですっきりしますです。
+EN: Let yourself feel sad for a while,<n>and you'll feel better afterward.
+
+@1C8BC max=359
+JP: どん底まで落ち込めば、<n>あとははい上がるだけです。
+EN: Once you've hit rock bottom,<n>the only way left is up.
+
+@1CA24 max=359
+JP: チャンスは何度でもやってくるもんです。
+EN: More chances will come your way.
+
+@1CB8C max=359
+JP: チャンスは一度きりってことはありませんです。
+EN: You always get more than one chance.
+
+@1CCF4 max=359
+JP: 全てはこれっきりじゃありません、大丈夫です。
+EN: It's all right. This isn't the end of everything.
+
+@1CE5C max=359
+JP: 上を見ればキリがない、<n>下を見てもキリがない、です。
+EN: There's always someone better off,<n>and always someone worse off.
+
+@1CFC4 max=359
+JP: ツイてない日だってたまにはありますです。
+EN: Everyone has an unlucky day now and then.
+
+@1D12C max=359
+JP: 凶があっての大吉です。
+EN: Bad luck makes good luck shine all the brighter.
+
+@1D294 max=359
+JP: 大丈夫です、明日はうまくいきますです。
+EN: It's all right. Tomorrow will go better.
+
+@1D3FC max=359
+JP: 大丈夫です、次はうまくいきますです。
+EN: It's all right. Next time will go better.
+
+@1D564 max=359
+JP: 大丈夫です、幸運はめぐってきますです。
+EN: It's all right. Good luck will come your way.
+
+@1D6CC max=359
+JP: 金は天下のまわりもの、です。
+EN: Money goes around. It'll come your way again.
+
+@1D834 max=359
+JP: 禍福はあざなえる縄のごとし、です。
+EN: Good luck and bad luck are strands of the same rope.
+
+@1D99C max=359
+JP: 天はその人に<n>耐えられるだけの苦労しか与えませんです。
+EN: Heaven only gives you burdens<n>you're strong enough to bear.
+
+@1DB04 max=359
+JP: 人間万事塞翁が馬、です。
+EN: Bad luck can turn to good, and good luck can turn to bad.
+
+@1DC6C max=359
+JP: 人間一人は世の宝、です。
+EN: Every person is a treasure to the world.
+
+@1DDD4 max=359
+JP: 人間いたるところ青山あり、です。
+EN: The world has a place for you wherever you roam.
+
+@1DF3C max=359
+JP: 人の噂も七十五日、です。
+EN: Even the juiciest gossip fades in time.
+
+@1E0A4 max=359
+JP: 気にしてもどうしようもないことは、<n>気にしないことです。
+EN: If worrying won't change a thing,<n>try to let it go.
+
+@1E20C max=359
+JP: 近く、朗報がありますです。
+EN: Some good news is coming your way soon.
+
+@1E374 max=359
+JP: もうすぐ、いい風が吹いてきますです。
+EN: A favorable breeze will be blowing your way soon.
+
+@1E4DC max=359
+JP: すぐそこで、幸運が待機していますです。
+EN: Good luck is waiting just around the corner.
+
+@1E644 max=359
+JP: 失敗は成功のもと、です。
+EN: Failure is a stepping stone to success.
+
+@1E7AC max=359
+JP: ノープロブレム！です。
+EN: No problem! Really.
+
+@1E914 max=359
+JP: 人生における幸せの量は誰もに平等、です。
+EN: Everyone gets an equal share of happiness in life.
+
+@1EA7C max=359
+JP: なるようにしかならないことは、<n>心配しないことです。
+EN: Try not to worry about things<n>you can't control.
+
+@1EBE4 max=359
+JP: なんとかなります、大丈夫です。
+EN: You'll find a way. It'll be okay.
+
+@1ED4C max=359
+JP: なるようになるもんです、大丈夫です。
+EN: Things have a way of working out. It'll be okay.
+
+@1EEB4 max=359
+JP: 勝負は時の運、です。
+EN: Winning or losing comes down to luck sometimes.
+
+@1F01C max=359
+JP: 変えられない運命なんてありませんです。
+EN: No fate is set in stone.
+
+@1F184 max=359
+JP: 運命は自分で変えるもの、です。
+EN: Your destiny is yours to change.
+
+@1F2EC max=359
+JP: 一度も失敗したことのない人なんていませんです。
+EN: There's no one who's never failed.
+
+@1F454 max=359
+JP: 一度も後悔したことのない人なんていませんです。
+EN: There's no one who's never regretted anything.
+
+@1F5BC max=359
+JP: かなしみを知っている人はやさしくなれますです。
+EN: Knowing sadness can help you become kinder.
+
+@1F724 max=359
+JP: 苦しみを知らない人は、幸せも感じられないんです。
+EN: Without knowing hardship, you can't feel happiness either.
+
+@1F88C max=359
+JP: かなしいことのあとには、<n>うれしいニュースがやってくるものです。
+EN: After something sad,<n>happy news tends to follow.
+
+@1F9F4 max=359
+JP: なりたい自分を想像してみてください。<n>きっとなれますです。
+EN: Try picturing the person you want to be.<n>I know you can become that person.
+
+@1FB5C max=359
+JP: やりたいことを書いてみてください。<n>きっとやれますです。
+EN: Try writing down what you want to do.<n>I know you can do it.
+
+@1FCC4 max=359
+JP: <PN>さんは<n>今のままでいいんです。
+EN: You're fine just as you are,<n><PN>.
+
+@1FE2C max=359
+JP: <PN>さんは<n>この世にたった一人の人なんです。
+EN: There's only one you in the whole world,<n><PN>.
+
+@1FF94 max=359
+JP: あせらないことです。
+EN: There's no need to rush.
+
+@200FC max=359
+JP: 急いては事をしそんじる、です。
+EN: Haste makes waste, you know.
+
+@20264 max=359
+JP: 後悔先にたたず、は、みんな同じです。
+EN: Regret comes too late to change things. That's true for everyone.
+
+@203CC max=359
+JP: あきらめるのは、いつでもできますです。
+EN: You can always give up later.
+
+@20534 max=359
+JP: 明日のことで今日悩むのは、<n>なんかもったいないです。
+EN: Spending today worrying about tomorrow<n>seems like a bit of a waste.
+
+@2069C max=359
+JP: 明日のことは明日考えるです。
+EN: Think about tomorrow when tomorrow comes.
+
+@20804 max=359
+JP: 明日のことは明日悩むです。
+EN: Save tomorrow's worries for tomorrow.
+
+@2096C max=359
+JP: 昨日のことはもう忘れるです。
+EN: Let yesterday go.
+
+@20AD4 max=359
+JP: 起こってしまったことを後悔するのはヤメるです。
+EN: Try to stop regretting what's already happened.
+
+@20C3C max=359
+JP: あせらずにマイペースでいくです。
+EN: Take your time and go at your own pace.
+
+@20DA4 max=359
+JP: 時代はめぐる、です。
+EN: History goes in circles.
+
+@20F0C max=359
+JP: きっと、ちょっと休めと言ってくれてるんです。
+EN: I'm sure it's life's way of telling you to take a little break.
+
+@21074 max=359
+JP: たぶん、少しゆっくりしたらと言ってるんです。
+EN: Maybe it's life's way of telling you to slow down a little.
+
+@211DC max=359
+JP: きっと、たまには落ち込めって言ってるんです。
+EN: I'm sure it's life's way of telling you to let yourself feel down sometimes.
+
+@21344 max=359
+JP: ボク、<PN>さんには<n>夢を現実にできる力があると思いますです。
+EN: I think you have what it takes<n>to make your dreams come true, <PN>.
+
+@214AC max=359
+JP: 形あるものは壊れるもの、です。
+EN: Anything that has a shape can break.
+
+@21614 max=359
+JP: 人生に必要なものって、ほんの少しなんです。
+EN: There are only a few things you really need in life.
+
+@2177C max=359
+JP: <PN>さんには<n>愛される価値があるです。
+EN: You deserve to be loved,<n><PN>.
+
+@218E4 max=359
+JP: 全ての人が幸せになる資格を持ってますです。
+EN: Everyone has the right to be happy.
+
+@21A4C max=359
+JP: 気持ちが息切れしたら、深呼吸するといいんです。
+EN: When your heart feels out of breath, try taking a deep breath.
+
+@21BB4 max=359
+JP: ボクたちは生まれたときから愛で満ちてるんです。
+EN: We're all full of love from the moment we're born.
+
+@21D1C max=359
+JP: ボクたちは愛情に支えられて一生を生きるんです。
+EN: Love supports us all through our lives.
+
+@21E84 max=359
+JP: みな善の善たるを知るもこれ不善のみ、です。
+EN: When everyone calls something good, they also define what's bad.
+
+@21FEC max=359
+JP: 上善は水の如し、です。
+EN: The highest goodness is like water.
+
+@22154 max=359
+JP: 学を絶てば憂い無し、です。
+EN: Let go of learning, and your worries fall away.
+
+@222BC max=359
+JP: つまだつ者は立たず、またぐものは行かず、です。
+EN: Stand on tiptoe and you won't stand firm. Take giant strides and you won't get far.
+
+@22424 max=359
+JP: じしてこれをみたすは、そのやむるにしかず、です。
+EN: Better to stop pouring than to fill a cup too full.
+
+@2258C max=359
+JP: 人を知るものは智なり、自ら知るものは明なり、です。
+EN: Knowing others is wisdom. Knowing yourself is enlightenment.
+
+@226F4 max=359
+JP: 知りて知らずとするは上なり、です。
+EN: It's best to know that you don't know.
+
+@2285C max=359
+JP: 天道は親無し、常に善人に与す、です。
+EN: Heaven plays no favorites, but always helps those who do good.
+
+@229C4 max=359
+JP: <PN>さんが<n>元気になりますように。
+EN: May you feel better soon,<n><PN>.
+
+@22B2C max=359
+JP: <PN>さんが笑顔になりますように。
+EN: May you find a reason to smile, <PN>.
+
+@22C94 max=359
+JP: <PN>さんに<n>いいことがいっぱいありますように。
+EN: May lots of good things<n>come your way, <PN>.
+
+@22DFC max=359
+JP: <PN>さんの<n>今日がとびっきりのいい日になりますように。
+EN: May today be an extra-special day<n>for you, <PN>.
+
+@22F64 max=359
+JP: <PN>さんに幸せが訪れますように。
+EN: May happiness find you, <PN>.
+
+@230CC max=359
+JP: <PN>さんの<n>願いが叶いますように。
+EN: May your wish come true,<n><PN>.
+
+@23234 max=359
+JP: <PN>さんの思いが伝わりますように。
+EN: May your feelings reach the one you hold dear, <PN>.
+
+@2339C max=359
+JP: 一の裏は六、悪の裏は善、です。
+EN: On a die, behind the one lies a six. Behind evil, there is good.
+
+@23504 max=359
+JP: 希望を忘れちゃいけませんです。
+EN: Please don't forget to hold on to hope.
+
+@2366C max=359
+JP: あきらめたらおしまいです。
+EN: It's only over when you give up.
+
+@237D4 max=359
+JP: 成せばなる成さねば成らぬなにごとも、です。
+EN: You can make things happen if you try. Nothing happens if you don't.
+
+@2393C max=359
+JP: あたってくだけろ、です。
+EN: Give it all you've got, come what may.
+
+@23AA4 max=359
+JP: 雨降って地かたまる、です。
+EN: After the rain, the ground grows firmer.
+
+@23C0C max=359
+JP: 雨が降ろうが槍が降ろうが、です。
+EN: Come rain or shine... or even falling spears.
+
+@23D74 max=359
+JP: どんなトンネルにも出口はありますです。
+EN: Every tunnel has a way out.
+
+@23EDC max=359
+JP: どんなことにも解決の糸口はありますです。
+EN: There's always a thread you can follow toward a solution.
+
+@24044 max=359
+JP: 気にしない、気にしない。
+EN: Never mind. Don't let it bother you.
+
+@241AC max=359
+JP: 案じるより産むが易し、です。
+EN: Doing it is easier than worrying about it.
+
+@24314 max=359
+JP: 念力岩をも通す、です。
+EN: Determination can pierce even stone.
+
+@2447C max=359
+JP: 一念天に通ず、です。
+EN: A wholehearted wish can reach the heavens.
+
+@245E4 max=359
+JP: 一心岩をも通す、です。
+EN: A focused heart can pierce even stone.
+
+@2474C max=359
+JP: 運は天にあり、です。
+EN: Fortune rests in heaven's hands.
+
+@248B4 max=359
+JP: 栄枯盛衰、です。
+EN: Everything has its rise and fall.
+
+@24A1C max=359
+JP: そもそも、いいことなんてしょっちゅうはないです。
+EN: Good things don't happen all the time, you know.
+
+@24B84 max=359
+JP: だいたい、そんなにイイことばかりじゃ<n>バチがあたります。
+EN: Besides, having nothing but good luck<n>would be tempting fate.
+
+@24CEC max=359
+JP: 大風のあした、大天気、です。
+EN: A windy night gives way to a bright, clear morning.
+
+@24E54 max=359
+JP: 台風一過、です。
+EN: After the storm comes clear weather.
+
+@24FBC max=359
+JP: 窮すれば通ず、です。
+EN: When you reach a dead end, a new way opens.
+
+@25124 max=359
+JP: 猿だって木から落ちるんですから。
+EN: Even monkeys fall out of trees, you know.
+
+@2528C max=359
+JP: 弘法だって筆を誤るんですから。
+EN: Even a master makes mistakes.
+
+@253F4 max=359
+JP: カッパだって川を流れちゃうんですから。
+EN: Even the best swimmers can get swept downstream.
+
+@2555C max=359
+JP: 上手の手からも水がもれるんですから。
+EN: Even the steadiest hands can spill water.
+
+@256C4 max=359
+JP: 釈迦にも経の読み違い、です。
+EN: Even the Buddha can misread a sutra.
+
+@2582C max=359
+JP: すてる神あれば拾う神あり、です。
+EN: When one god turns you away, another takes you in.
+
+@25994 max=359
+JP: 渡る世間に鬼はなし、です。
+EN: Wherever you go, there are kind people to be found.
+
+@25AFC max=359
+JP: 思い立ったが吉日です。
+EN: The day you decide to start is a lucky day to begin.
+
+@25C64 max=359
+JP: 善は急げ、です。
+EN: Never put off a good deed.
+
+@25DCC max=359
+JP: 千里の道も一歩から、です。
+EN: A journey of a thousand miles begins with a single step.
+
+@25F34 max=359
+JP: 大丈夫なとき、大丈夫なら、大丈夫！
+EN: If you're okay when things are okay, then you're okay!
+
+@2609C max=359
+JP: 天上天下唯我独尊、です。
+EN: In all of heaven and earth, you're one of a kind.
+
+@26204 max=359
+JP: いたいのいたいのとんでいけ、です。
+EN: Pain, pain, fly away.
+
+@2636C max=359
+JP: 彼も人なり我も人なり、です。
+EN: They're human, just like you. You can do it too.
+
+@264D4 max=359
+JP: 大丈夫、天はお見通しです。
+EN: It's all right. Heaven sees everything.
+
+@2663C max=359
+JP: 本来無一物、です。
+EN: Nothing is truly ours to begin with.
+
+@267A4 max=359
+JP: 相撲に負けて勝負に勝つ、です。
+EN: You can lose the battle and still win the war.
+
+@2690C max=359
+JP: 迷わぬ者に悟りなし、です。
+EN: Without a little confusion, there can be no enlightenment.
+
+@26A74 max=359
+JP: わざわいは、さいわいの種です。
+EN: Misfortune holds the seeds of good fortune.
+
+@26BDC max=359
+JP: だまされたと思って笑ってください。<n>元気が出ますです。
+EN: Humor me and try smiling.<n>It'll lift your spirits.
+
+@26D44 max=359
+JP: うそでもいいから笑ってみて。<n>楽しくなってきますです。
+EN: Try smiling, even if you have to fake it.<n>Soon, you might really feel happy.
+
+@26EAC max=359
+JP: 口角をあげるだけで、元気になれますです。
+EN: Just turning up the corners of your mouth can lift your spirits.
+
+@27014 max=359
+JP: 大切なのは、善く生きることです。
+EN: What matters is living a good life.
+
+@2717C max=359
+JP: 思いわずらうことなかれ、です。
+EN: Don't let worry weigh you down.
+
+@272E4 max=359
+JP: いまいちばんやりたいことを、やるといいです。
+EN: Do the thing you most want to do right now.
+
+@2744C max=359
+JP: くだらないことこそ大事です。
+EN: Silly little things matter too.
+
+@275B4 max=359
+JP: <PN>さんは<n>立派だと思いますです。
+EN: <PN>,<n>I think you're a wonderful person.
+
+@2771C max=359
+JP: <PN>さんは<n>スゴイと思いますです。
+EN: <PN>,<n>I think you're amazing.
+
+@27884 max=359
+JP: <PN>さんにしか<n>できないことってありますです。
+EN: <PN>,<n>there are things only you can do.
+
+@279EC max=359
+JP: 会いたい人には、いますぐ会いにいくのがいいです。
+EN: If there's someone you want to see, go see them now.
+
+@27B54 max=359
+JP: 懲りちゃダメです。
+EN: Don't let a setback put you off trying again.
+
+@27CBC max=359
+JP: 降りちゃダメです。
+EN: Don't drop out now.
+
+@27E24 max=359
+JP: ガマンなんかしなくていいです。
+EN: You don't have to just grin and bear it.
+
+@27F8C max=359
+JP: よくがんばりましたです。スゴイです。
+EN: You worked so hard. You're amazing.
+
+@280F4 max=359
+JP: <PN>さんは<n>スゴクがんばりましたです。
+EN: <PN>,<n>you really gave it your all.
+
+@2825C max=359
+JP: たいへんよくできましたです！
+EN: You did such a wonderful job!
+
+@283C4 max=359
+JP: <PN>さんは<n>そのままでかんぺきです。
+EN: <PN>,<n>you're perfect just as you are.
+
+@2852C max=359
+JP: ボクちゃんと見てますです、<n><PN>さんのこと。
+EN: I do notice how you're doing,<n><PN>. I really do.
+
+@28694 max=359
+JP: 大変だったね。でもよくがんばったね。
+EN: That was hard, wasn't it? But you did so well.
+
+@287FC max=359
+JP: スゴイです、<PN>さん！
+EN: You're amazing, <PN>!
+
+@28964 max=359
+JP: エライです、<PN>さん！
+EN: I'm proud of you, <PN>!
+
+@28ACC max=359
+JP: ボクは好きです、<n><PN>さんのそういうとこ。
+EN: I like that about you,<n><PN>.
+
+@28C34 max=359
+JP: 気合いれていきましょう！
+EN: Let's give it our all!
+
+@28D9C max=359
+JP: 昨日より明日より、今日がいちばんです。
+EN: Yesterday and tomorrow are nice, but today is best.
+
+@28F04 max=359
+JP: ここを乗り越えたら、新しい風景が広がりますです。
+EN: Once you get through this, a whole new view will open up.
+
+@2906C max=359
+JP: 誰もが通る道です。
+EN: Everyone walks this road sooner or later.
+
+@291D4 max=359
+JP: だんだんよくなってきてますですよ。
+EN: Things are getting better, little by little.
+
+@2933C max=359
+JP: <PN>さんなら<n>きっとできますです。
+EN: I know you can do it,<n><PN>.
+
+@294A4 max=359
+JP: ここはひとつ、こっちが大人になりましょう。
+EN: Let's be the grown-up about this.
+
+@2960C max=359
+JP: 腹がたってあたりまえです。
+EN: It's only natural to feel angry.
+
+@29774 max=359
+JP: 一度でうまくいっちゃったらつまらないです。
+EN: It would be boring if everything worked on the first try.
+
+@298DC max=359
+JP: 次があるさ、です。
+EN: There's always next time.
+
+@29A44 max=359
+JP: 結果は結果。<n>人生にムダなことなんて１つもないです。
+EN: Whatever the result,<n>nothing in life ever goes to waste.
+
+@29BAC max=359
+JP: <PN>さんのやったことは、<n>決してムダにならないです。
+EN: Your efforts won't go to waste,<n><PN>.
+
+@29D14 max=359
+JP: いいことだけ信じてればいいんです。
+EN: You can just believe in the good things.
+
+@29E7C max=359
+JP: 過去はもう過去です。<n>着れなくなった服みたいなもんです。
+EN: The past is in the past.<n>It's like clothes that don't fit anymore.
+
+@29FE4 max=359
+JP: すべてはいい想い出になりますです。
+EN: It'll all become happy memories someday.
+
+@2A14C max=359
+JP: もう許してあげましょう。
+EN: Maybe it's time to forgive them.
+
+@2A2B4 max=359
+JP: 許して欲しいことがあるですか？<n>大丈夫、もう許されてますです！
+EN: Is there something you want forgiveness for?<n>It's all right. You're already forgiven!
+
+@2A41C max=359
+JP: 大丈夫、すべてがうまくいきますです。
+EN: It's all right. Everything will work out.
+
+@2A584 max=359
+JP: もっと自由になっていいんですよ。
+EN: It's okay to give yourself a little more freedom.
+
+@2A6EC max=359
+JP: 期待していて大丈夫です。
+EN: It's okay to get your hopes up.
+
+@2A854 max=359
+JP: もう一度がんばってみましょうか。
+EN: Shall we give it another try?
+
+@2A9BC max=359
+JP: <PN>さんの望むものは<n>すべて手に入るはずです。
+EN: Everything you wish for should be within reach,<n><PN>.
+
+@2AB24 max=359
+JP: 今のこの状況を楽しんじゃいましょう。
+EN: Let's enjoy things as they are right now.
+
+@2AC8C max=359
+JP: もっともっとハッピーになれますです。
+EN: You can be so much happier still.
+
+@2ADF4 max=359
+JP: たくさんのラッキーが訪れますです。
+EN: Lots of good luck is coming your way.
+
+@2AF5C max=359
+JP: 大丈夫、すべてが丸くおさまりますです。
+EN: It's all right. Everything will sort itself out.
+
+@2B0C4 max=359
+JP: 逆境もまた楽しみましょう。
+EN: Let's find some joy in the hard times, too.
+
+@2B22C max=359
+JP: 先のことを心配してもはじまりませんです。
+EN: Worrying about what's ahead won't get us anywhere.
+
+@2B394 max=359
+JP: ゆっくり行っても、ちゃんとゴールできますです。
+EN: You can take your time and still reach the finish line.
+
+@2B4FC max=359
+JP: あきらめないでください。<n>約束です。指きりげんまんです。
+EN: Please don't give up.<n>Promise me? Pinky promise.
+
+@2B664 max=359
+JP: 大丈夫、<PN>さんは<n>愛で守られてますです。
+EN: It's all right, <PN>.<n>Love is watching over you.
+
+@2B7CC max=359
+JP: 大丈夫、問題は解決の時を迎えてますです。
+EN: It's all right. The time has come for things to be resolved.
+
+@2B934 max=359
+JP: 選択肢はたくさんありますです。
+EN: You have plenty of choices.
+
+@2BA9C max=359
+JP: 悩みは打ち明けた方がラクになれますです。
+EN: Sharing your worries can help you feel better.
+
+@2BC04 max=359
+JP: 大丈夫、未来は明るいです。
+EN: It's all right. The future is bright.
+
+@2BD6C max=359
+JP: 大丈夫、おそれるに足りずです。
+EN: It's all right. There's nothing here to fear.
+
+@2BED4 max=359
+JP: <PN>さんは自分を信じて<n>前に進めばいいんです。
+EN: Just believe in yourself and keep going,<n><PN>.
+
+@2C03C max=359
+JP: 大丈夫、すべては何とかなるものです。
+EN: It's all right. Things have a way of working out.
+
+@2C1A4 max=359
+JP: 心配ないです、<n>人生ってのは喜びに満ちてるもんです。
+EN: Don't worry.<n>Life is full of joy.
+
+@2C30C max=359
+JP: なんか新しいことにチャレンジしてみませんですか。
+EN: Maybe you could try something new?
+
+@2C474 max=359
+JP: ずっとしたくてまだできてなかったこと、<n>今日しませんですか。
+EN: That thing you've always wanted to do but haven't yet...<n>Why not try it today?
+
+@2C5DC max=359
+JP: 今日は部屋の模様替えでもしませんですか。
+EN: How about rearranging your room today?
+
+@2C744 max=359
+JP: パーッと買物にでもでかけませんですか。
+EN: How about going out for a little shopping spree?
+
+@2C8AC max=359
+JP: 子供の頃の夢、<n>いっこでも叶えてれば立派なもんです。
+EN: Those dreams you had as a child...<n>Even making one come true is something to be proud of.
+
+@2CA14 max=359
+JP: 大丈夫です、<n>まだまだ夢はふくらむ余地がありますです。
+EN: It's all right.<n>Your dreams still have plenty of room to grow.
+
+@2CB7C max=359
+JP: 幸せにはレベルなんてないです。<n>幸せな気分があるだけです。
+EN: Happiness doesn't come in levels.<n>There's just that happy feeling.
+
+@2CCE4 max=359
+JP: 幸せは競いあって獲得するものじゃないです。
+EN: Happiness isn't something you win by competing with others.
+
+@2CE4C max=359
+JP: 足るを知る、です。
+EN: Be content with what you have.
+
+@2CFB4 max=359
+JP: あとほかにどんなものが欲しいんですか。<n>ボクにあげられるといいけどなぁ。
+EN: What else are you wishing for?<n>I wish I could give it to you.
+
+@2D11C max=359
+JP: どんな人になりたいですか。<n>ボクはそのままの<PN>さん好きです。
+EN: What kind of person do you want to be?<n>I like you just the way you are, <PN>.
+
+@2D284 max=359
+JP: なにか心配してることがあるですか。<n>ボクは<PN>さんのことが心配です。
+EN: Is something worrying you?<n>I'm worried about you, <PN>.
+
+@2D3EC max=359
+JP: 髪型かえたんですか？<n>よく似合ってますです。
+EN: Did you change your hairstyle?<n>It really suits you.
+
+@2D554 max=359
+JP: ちょっと散歩に出ましょう。気分が変わりますです。
+EN: Let's go for a little walk. It'll lift your spirits.
+
+@2D6BC max=359
+JP: みじめだなんて思っちゃいけないです。
+EN: Please don't think of yourself as pitiful.
+
+@2D824 max=359
+JP: かっこわるいなんてことないです。
+EN: You're not uncool at all.
+
+@2D98C max=359
+JP: 誰にだって、素直になれない時はありますです。
+EN: Everyone has times when it's hard to be honest about their feelings.
+
+@2DAF4 max=359
+JP: わかっててもできないことって、<n>いっぱいありますですよ。
+EN: Knowing what to do doesn't always make it easy.<n>That happens a lot, you know.
+
+@2DC5C max=359
+JP: いいんですよ、明日からで。
+EN: It's okay to start tomorrow.
+
+@2DDC4 max=359
+JP: もう、今日からはじめちゃいましょう、です。
+EN: Let's go ahead and start today.
+
+@2DF2C max=359
+JP: 今からさっそく、どうですか。
+EN: How about starting right now?
+
+@2E094 max=359
+JP: 自分で自分をかわいそうに思っちゃ、<n>いけませんです。
+EN: You mustn't feel sorry for yourself.<n>Please don't.
+
+@2E1FC max=359
+JP: <PN>さんのせいじゃないです。<n>ぜんぜんないです！
+EN: It's not your fault, <PN>.<n>Not one bit!
+
+@2E364 max=359
+JP: みんな見る目がないだけです。<n>ボクにはわかりますです！
+EN: They just can't see how wonderful you are.<n>But I can!
+
+@2E4CC max=359
+JP: 人がなんと言おうが、<n><PN>さんはベストを尽くしましたです！
+EN: Whatever anyone says,<n>you did your very best, <PN>!
+
+@2E634 max=359
+JP: 人がなんと言おうが、<n><PN>さんはそれでいいんです。
+EN: Whatever anyone says,<n>you're fine just as you are, <PN>.
+
+@2E79C max=359
+JP: ちょうど変わり目が来たんですよ。<n>これからはよくなるばっかりですよ。
+EN: You've reached a turning point.<n>Things can only get better from here.
+
+@2E904 max=359
+JP: つらいときこそ、笑顔に効き目があるんです。
+EN: A smile helps most when times are hard.
+
+@2EA6C max=359
+JP: <PN>さんは、<n>堂々としてていいんです。
+EN: You have every right to stand tall,<n><PN>.
+
+@2EBD4 max=359
+JP: 胸をはって行きましょう！
+EN: Let's hold our heads high!
+
+@2ED3C max=359
+JP: 前進あるのみ！大股で歩きましょう！
+EN: Onward we go! Let's take big strides!
+
+@2EEA4 max=359
+JP: 何かボクにできることありませんですか？
+EN: Is there anything I can do for you?
+
+@2F00C max=359
+JP: ボクでお役に立つことありませんですか？
+EN: Could I be of any help?
+
+@2F174 max=359
+JP: ボクにして欲しいこと、言ってみて欲しいです。
+EN: Please tell me if there's anything you'd like me to do.
+
+@2F2DC max=359
+JP: 今日はネガティブでも許しますです。<n>ポジティブは明日からにしましょう！
+EN: It's okay to feel gloomy today.<n>Let's save positive thinking for tomorrow!
+
+@2F444 max=359
+JP: <PN>さんのしあわせ、<n>いつも祈ってるです。
+EN: I'm always praying for your happiness,<n><PN>.
+
+@2F5AC max=359
+JP: <PN>さんのしあわせ、いつも願ってるです。
+EN: I'm always wishing you happiness, <PN>.
+
+@2F714 max=359
+JP: 無神経な人ってどこにでもいるもんです。<n>気にしない気にしない。
+EN: There are thoughtless people everywhere.<n>Don't let them get to you.
+
+@2F87C max=359
+JP: 憎んだり恨んだりは、<n><PN>さんには似合いませんです。
+EN: Hatred and grudges...<n>They don't suit you, <PN>.
+
+@2F9E4 max=359
+JP: 怒りたくなったら、深呼吸するです。
+EN: When you feel yourself getting angry, take a deep breath.
+
+@2FB4C max=359
+JP: 悪気はないんだと思うです。<n>でもカチンとくるのは当然です。
+EN: I don't think they meant any harm.<n>But of course you'd be upset.
+
+@2FCB4 max=359
+JP: 今日は自分にごほうびをあげるです！
+EN: Treat yourself to something nice today!
+
+@2FE1C max=359
+JP: 今日は自分をほめまくるです！
+EN: Give yourself lots of praise today!
+
+@2FF84 max=359
+JP: 今日は自分に、いいこいいこ、してあげるです。
+EN: Give yourself a little pat on the head today.
+
+@300EC max=359
+JP: う～ん、マイナスのエネルギーが出てますです。<n>大丈夫？
+EN: Hmm... I can feel some negative energy.<n>Are you okay?
+
+@30254 max=359
+JP: う～ん、かなりこってるです。<n>マッサージしてあげたいです。
+EN: Hmm... You're awfully tense.<n>I wish I could give you a massage.
+
+@303BC max=359
+JP: <PN>さんは、<n>とってもたよりになるですね。
+EN: You're someone people can really count on,<n><PN>.
+
+@30524 max=359
+JP: <PN>さんは、みんなを元気にできる人だと思うです。
+EN: I think you have a gift for cheering people up, <PN>.
+
+@3068C max=359
+JP: 大丈夫、<PN>さんならできるです！
+EN: It's okay, <PN>. You can do this!
+
+@307F4 max=359
+JP: そりゃあ、ヤキモチぐらい焼こうってもんです。
+EN: It's only natural to feel a little jealous.
+
+@3095C max=359
+JP: あ、いま、ネガティブなこと考えてるですね。<n>ダメダメ。いいこと考えますですよ。
+EN: Oh, you're thinking something negative right now.<n>No, no. Let's think of something nice.
+
+@30AC4 max=359
+JP: どうにもならないことなんて、ないです。
+EN: There's always something you can do.
+
+@30C2C max=359
+JP: どうせ、なんて言っちゃダメです。
+EN: Don't say things like, "What's the point?"
+
+@30D94 max=359
+JP: 自分なんか、なんて思っちゃダメです。
+EN: Don't go thinking you're not good enough.
+
+@30EFC max=359
+JP: やりたいこと、やってますですか？
+EN: Are you doing what you want to do?
+
+@31064 max=359
+JP: なりたい自分に、なってますですか？
+EN: Are you becoming the person you want to be?
+
+@311CC max=359
+JP: 必ず道はひらかれますです。
+EN: A path will open up. I'm sure of it.
+
+@31334 max=359
+JP: 望めば道はひらかれますです。
+EN: If you truly want it, a path will open up.
+
+@3149C max=359
+JP: 答えは、<PN>さんが<n>いちばんよく知ってるはずです。
+EN: Deep down, you know the answer better than anyone,<n><PN>.
+
+@31604 max=359
+JP: 答えは、自分の中にしかないです。
+EN: The answer can only come from within you.
+
+@3176C max=359
+JP: 正しいかどうかの基準は誰が決めるんでしょうね。
+EN: Who gets to decide what makes something right, anyway?
+
+@318D4 max=359
+JP: ないものねだりはほどほどに、です。
+EN: Try not to spend too long wishing for what you don't have.
+
+@31A3C max=359
+JP: もうすぐ、ピン、ときますです。大丈夫。
+EN: It'll click soon. Don't worry.
+
+@31BA4 max=359
+JP: 晴れない霧はない。
+EN: Every fog clears eventually.
+
+@31D0C max=359
+JP: <PN>さんの<n>やりたい方を選べば大丈夫！
+EN: Choose whichever you want,<n><PN>. It'll be okay!
+
+@31E74 max=359
+JP: <PN>さんの<n>行きたい方に行けば大丈夫！
+EN: Go whichever way you want,<n><PN>. It'll be okay!
+
+@31FDC max=359
+JP: 力になってくれる人が現れますです、すぐに。
+EN: Someone will come along to help you. Very soon.
+
+@32144 max=359
+JP: いつも見守っててくれる人がいますです、<n>すぐ近くに。
+EN: Someone is always looking out for you.<n>They're closer than you think.
+
+@322AC max=359
+JP: 大丈夫、みんな<PN>さんのこと<n>わかってくれてますです。
+EN: Don't worry, <PN>.<n>Everyone understands how you feel.
+
+@32414 max=359
+JP: これがいいきっかけになる予感がしますです。
+EN: I have a feeling something good will come of this.
+
+@3257C max=359
+JP: きっと、あとで笑い話になりますです。
+EN: I'm sure you'll laugh about this someday.
+
+@326E4 max=359
+JP: きっと、将来は今日のことを懐かしく思いますです。
+EN: I'm sure someday you'll look back on today fondly.
+
+@3284C max=359
+JP: 迷ってるうちが華です。
+EN: There's joy in still having choices to ponder.
+
+@329B4 max=359
+JP: あの頃はよかったなぁ、ってきっと将来思うはずです。
+EN: Someday, I'm sure you'll look back and think, "Those were the days."
+
+@32B1C max=359
+JP: 誰も自分のことなんてわかりっこない、<n>なんて、大きな勘違いです。
+EN: If you think no one could ever understand you...<n>Well, you've got it all wrong.
+
+@32C84 max=359
+JP: ハズレのあとには当たりがきますです。
+EN: After a losing streak, a win will come.
+
+@32DEC max=359
+JP: 誤解なら、それは真実じゃないんですから大丈夫。<n>気にしないことです。
+EN: If it's a misunderstanding, then it isn't the truth.<n>So don't let it bother you.
+
+@32F54 max=359
+JP: ハズレでもいいんです。<n>そんなとこで運を使わなくてラッキーなんです。
+EN: It's okay if you didn't win.<n>You're lucky you didn't use up your luck on that.
+
+@330BC max=359
+JP: 無神経な人には、腹を立てるだけムダです。
+EN: Getting angry at insensitive people is just a waste of energy.
+
+@33224 max=359
+JP: 今日はいっぱい「ありがとう」と言ってみるです。
+EN: Try saying "thank you" lots of times today.
+
+@3338C max=359
+JP: うれしいことは「うれしい」と声に出してみるです。
+EN: When something makes you happy, try saying "I'm happy" out loud.
+
+@334F4 max=359
+JP: 好きなものには「好き」と声に出してみるです。
+EN: When you like something, try saying "I like it" out loud.
+
+@3365C max=359
+JP: <PN>さんの夢は、<n><PN>さんが叶えてあげなくっちゃです。
+EN: Your dreams are counting on you, <PN>.<n>Only you can make them come true, <PN>.
+
+@337C4 max=359
+JP: 大丈夫、<PN>さんの夢は<n>ひとつずつ叶ってきてますです。
+EN: It's all right, <PN>.<n>Your dreams are coming true, one by one.
+
+@3392C max=359
+JP: スゴイ、スゴイ、<n><PN>さんはスゴイです。
+EN: Amazing, amazing!<n>You're amazing, <PN>.
+
+@33A94 max=359
+JP: まぁいっか、です。
+EN: Oh well. That's okay.
+
+@33BFC max=359
+JP: ぼちぼちでんな、です。
+EN: Oh, I'm getting by.
+
+@33D64 max=359
+JP: 出会いにはすべて意味があるです。<n>ムダな出会いはないんです。
+EN: Everyone you meet has a place in your life.<n>No meeting is ever wasted.
+
+@33ECC max=359
+JP: 背伸びしてると、足がつっちゃうです。<n>しんどいです。
+EN: Stand on tiptoe too long, and your feet will cramp.<n>Trying too hard wears you out.
+
+@34034 max=359
+JP: 夜明け前がいちばん暗い、です。
+EN: It's always darkest before the dawn.
+
+@3419C max=359
+JP: 世間なんか気にしないことです。
+EN: Try not to worry about what the world thinks.
+
+@34304 max=359
+JP: <PN>さんには実力があります！<n>太鼓判を押します！
+EN: You've got what it takes, <PN>!<n>You have my seal of approval!
+
+@3446C max=359
+JP: 喝っ！
+EN: Snap out of it!
+
+@345D4 max=359
+JP: 白黒つけなくってもいいんです。
+EN: You don't have to settle everything once and for all.
+
+@3473C max=359
+JP: <PN>さんは、<n>きっとわざわざ心配の種を探してるですよ。
+EN: I think you might be going out of your way<n>to find things to worry about, <PN>.
+
+@348A4 max=359
+JP: 知らなくったっていいこと、たくさんあるです。
+EN: There are plenty of things it's okay not to know.
+
+@34A0C max=359
+JP: 無知で悪いかっ！です。
+EN: So what if I don't know? Is that so bad?
+
+@34B74 max=359
+JP: 自分にウソをついちゃ、いけませんです。
+EN: Please don't lie to yourself.
+
+@34CDC max=359
+JP: 小さいウソは、自分を傷つけるだけです。
+EN: Little lies only end up hurting you.
+
+@34E44 max=359
+JP: 人生に近道なし、です。
+EN: There are no shortcuts in life.
+
+@34FAC max=359
+JP: 日々是好日、です。
+EN: Every day is a good day.
+
+@35114 max=359
+JP: 今日という日は二度とこない、です。
+EN: This day will never come again.
+
+@3527C max=359
+JP: 無常迅速、です。人生はマッハです。
+EN: Everything changes so quickly. Life moves at Mach speed.
+
+@353E4 max=359
+JP: 人はみんな選ばれてこの世に来たんです。
+EN: Every one of us was chosen to come into this world.
+
+@3554C max=359
+JP: みんな祝福されてこの世に生まれてきてるんです。
+EN: Every one of us comes into this world with a blessing.
+
+@356B4 max=359
+JP: イジワルする人は、かなしい人なんです。<n>許してあげるです。
+EN: People who are mean are sad inside.<n>Try to forgive them.
+
+@3581C max=359
+JP: 怒ってばかりいる人は、つらい人なんです。<n>許してあげるです。
+EN: People who are always angry are hurting inside.<n>Try to forgive them.
+
+@35984 max=359
+JP: 人生うまくいかなくてナンボのものです。
+EN: Things going wrong is all part of life.
+
+@35AEC max=359
+JP: いつだって、今がチャンスです。
+EN: Now is always your chance.
+
+@35C54 max=359
+JP: 縁は異なもの味なもの、です。
+EN: Fate brings people together in the strangest, sweetest ways.

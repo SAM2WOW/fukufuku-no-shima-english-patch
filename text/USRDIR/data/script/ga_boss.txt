@@ -1,0 +1,63 @@
+# source: PSP_GAME/USRDIR/data/script/ga_boss.scb
+# format: scb
+# width: 44
+
+@5144 max=639
+JP: なにをしますか？
+EN: What would you like to do?
+
+@53C4 max=639
+JP: 話す<n>やめる
+EN: Talk<n>Quit
+
+@5644 max=639
+JP: ドドーン！と出現！<n>愚かなる人間よ、よく来たな！<p>そう、ワシが、ワシが！天使の長<n>大天使ドドリエルじゃーっ！
+EN: KA-BOOM! Behold my entrance!<n>Welcome, foolish human!<p>Yes, it is I! I! Leader of the angels!<n>Dodoriel, the Archangel!
+
+@58C4 max=639
+JP: 呼ばれて飛び出て…<n>おっとこれ以上はいかんいかん。<p>ワシが、ワシが！天上のナイスガイ<n>大天使ドドリエルじゃーっ！
+EN: You rang? Out I sprang...<n>Oops! Best stop that bit right there.<p>It is I! I! Heaven's favorite fellow!<n>Dodoriel, the Archangel!
+
+@5B44 max=639
+JP: ふふふ、ついにわしの出番か！<n>ワシの愛が、世界を救うーっ！<p>そう、ワシが、ワシが！愛の伝道師<n>大天使ドドリエルじゃーっ！
+EN: Heh heh! My moment has finally come!<n>My love shall save the world!<p>Yes, it is I! I! The ambassador of love!<n>Dodoriel, the Archangel!
+
+@5DC4 max=639
+JP: ワシこそ、この世界にあまたいる<n>守護天使たちのリーダー様じゃ！<p>ワシの可愛い手下を<n>可愛がってくれとるか？んん？<p>いまの守護天使は可愛くない！とか<n>人間はぜいたくでいかんよ。ホント。<p>善意で守護してやっとるわけじゃから<n>基本的には、苦情は受け付けんぞ。<p>じゃが、ワシは心優しい天使じゃ…。<n>場合によっては、特別に。特別に！<p>守護天使を交代させてやってもよい。<n>…ただし、わかっとるな？<p>魚心あれば水心あり！<n>出すもん出してもらおうかの！
+EN: I lead all the guardian angels<n>in this world! Yes, ALL of them!<p>Are you treating my dear little minions<n>well? Hmm? HMM?<p>"My guardian angel isn't cute!"<n>You humans are so spoiled. Honestly!<p>We guard you out of pure kindness,<n>so complaints are generally ignored.<p>But I am a kindhearted angel...<n>I might make a special exception. SPECIAL!<p>I could change your guardian angel.<n>But... you know the deal, yes?<p>You scratch my wings, I scratch your back!<n>Now, cough up a little something!
+
+@6044 max=639
+JP: どうじゃ、ワシの可愛い手下は<n>役に立っとるか？んん？
+EN: Well? Is my dear little minion<n>proving useful? Hmm? HMM?
+
+@62C4 max=639
+JP: で、用はなんじゃ？<n>守護天使を変えたいのか？<p>って、人間、おまえレベル低すぎじゃ！<n>そんな精神力で、守護天使を変えたら<p>何が起こるかわからんぞ？<n>経験を積んで、出直してくるのじゃ！
+EN: So, what do you want?<n>A different guardian angel?<p>Wait! Human, your level is far too low!<n>With so little spiritual strength,<p>who knows what changing angels might do?<n>Gain some experience, then come back!
+
+@6544 max=639
+JP: で、用はなんじゃ？<n>守護天使を変えたいのか？
+EN: So, what do you want?<n>A different guardian angel?
+
+@67C4 max=639
+JP: なんじゃ？用はないのか？<p>ということは、この大天使ドドリエルを<n>なんとなく呼び出しちゃったのか？<p>…カーッ！ワシゃかなわんよ、プンプン！<n>さ、帰って寝よ！
+EN: What? You don't want anything?<p>You summoned ME, Dodoriel the Archangel,<n>just because you felt like it?<p>Bah! The things I put up with! Hmph!<n>I'm going home to bed!
+
+@6A44 max=639
+JP: ふん、まあよかろう。<n>ふふふ、ただし！わかっとるな？<p>今回は、<NUM>ｚほど<n>山吹色の菓子が、欲しいのう？
+EN: Hmph. Very well.<n>Heh heh... But! You know the deal, yes?<p>This time, I'd like some "golden treats"<n>worth, oh... <NUM>z?
+
+@6CC4 max=639
+JP: なんじゃ？払いたくない？<n>ちっ、融通のきかん奴じゃ。<p>つまらんのう。<n>さ、帰って寝よ。
+EN: What? You won't pay?<n>Tch! Can't you bend a little?<p>How dull.<n>I'm going home to bed.
+
+@6F44 max=639
+JP: …なんじゃ、カネがないのか。<n>なら話はここまでじゃ。<p>つまらんのう。<n>さ、帰って寝よ。
+EN: ...What? You have no money?<n>Then we have nothing more to discuss.<p>How dull.<n>I'm going home to bed.
+
+@71C4 max=639
+JP: ん、守護天使を変えてやったぞ。<n>新しい奴はテキトーに選んどいた。<p>文句があるなら、また来るがいい。<n>山吹色の菓子を忘れるでないぞ？
+EN: There! I've changed your guardian angel.<n>I just picked whoever came to mind.<p>Any complaints? Come see me again.<n>And don't forget the "golden treats"!
+
+@7444 max=639
+JP: <<テキストチェック>><n>表示したい会話メッセージのIDを選んでください。
+EN: 

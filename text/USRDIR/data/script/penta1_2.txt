@@ -1,0 +1,75 @@
+# source: PSP_GAME/USRDIR/data/script/penta1_2.scb
+# format: scb
+# width: 44
+
+@5144 max=639
+JP: よう！<n>…あれ、どこかで会ったっけ？<p>…オイラはペン。しがないペンギンさ。<n>いつもは兄弟３人で行動してるんだがな。
+EN: Hey!<n>...Huh, have we met somewhere?<p>...I'm Pen. Just your average penguin.<n>Usually, I hang out with my two brothers.
+
+@53C4 max=639
+JP: よう！元気かい？
+EN: Hey! How's it going?
+
+@5644 max=639
+JP: ところで…。<p>せっかく会えたんだ。<n>オイラと、遊ばないかい？
+EN: By the way...<p>Since you're here,<n>how about a little game?
+
+@58C4 max=639
+JP: オイラ、思うんだが…<p>賭け事をするんなら<n>やっぱり勝たなきゃな…。<p>あんたも、一度くらいオイラに<n>勝ちたいだろ？<p>ふふ、というわけで…
+EN: The way I see it...<p>If you're gonna gamble,<n>you oughta win now and then...<p>You'd like to beat me at least once,<n>wouldn't you?<p>Heh heh. So, with that in mind...
+
+@5B44 max=639
+JP: （現実にはあり得ないので<n>会話省略）
+EN: 
+
+@5DC4 max=639
+JP: ところで…。<n>あんたと遊んで思ったんだが…<p>あんた、なかなか運が強いな。<p>オイラは運の強い奴が好きでね…<n>ま、あんたなら合格かな。<p>というわけで、こいつをやるよ。<n>オイラの祖先、ペンターパンの像さ。<p>ただし！これを渡す以上、あんたにも<n>してもらわなきゃいけないことがある。<p>それは…<p>ときどき、オイラたちに会いにきて<n>ギャンブルしていってくれることさ。<p>いいかい、わかったかい？<n>…よっしゃ。<p>じゃ、これな。役に立つぜ！
+EN: By the way...<n>Playing with you got me thinking...<p>You've got some serious luck.<p>I like folks with luck on their side...<n>And I'd say you make the cut.<p>So here, this is for you.<n>A statue of my ancestor, Penta Pan.<p>But! If I give you this,<n>you gotta do something for me.<p>And that is...<p>Come see us now and then<n>and have a little flutter.<p>Got it? We got a deal?<n>...All right!<p>Here you go. It'll come in handy!
+
+@6044 max=639
+JP: 弟たち？あー、今日はちょっとな。<p>ゴンのやつ、どっかで拾い食いして<n>腹こわしちまったんで、ターと留守番さ。<p>ま、それはともかく…
+EN: My brothers? Oh, they're busy today.<p>Gon ate something he found lying around<n>and got a stomachache. Ta's home with him.<p>Anyway, enough about that...
+
+@62C4 max=639
+JP: ふー、まいっちゃうぜ。<p>福福のじいさんときたら、また<n>マジメにやれ！って説教だよ。<p>そう言われてもなー。<n>たしかに、オイラたちの祖先にゃ<p>将軍とか、学者とか<n>偉いペンギンもいたそうだけどな。<p>ま、そりゃオイラたちには<n>関係ない話だし…
+EN: Whew, gimme a break.<p>Old Master Fukufuku gave us another<n>lecture about getting our act together.<p>Easy for him to say.<n>Sure, our family tree's got some<p>big-shot penguins in it.<n>Generals, scholars, that sort of thing.<p>But what's any of that<n>got to do with us...?
+
+@6544 max=639
+JP: まあ、言ってみりゃ<p>オイラたちの賭け事好きは<n>育ての親の影響なんだよなー。<p>…ああ、ばーちゃんのことだよ。<n>ペンチーピンばーちゃん。<p>あんなばーちゃんに育てられりゃ<n>いまさらどうにもならねー。<p>ま、こうやって島の連中と賭け事して<n>兄弟三匹、気楽に生きてくさ。<p>てなわけで…
+EN: Well, if you ask me...<p>We got our love of gambling<n>from the one who raised us.<p>...Our granny, I mean.<n>Granny Penchipin.<p>After growing up with a granny like that,<n>we're hardly gonna change now.<p>Us three brothers'll just take it easy,<n>having a flutter with the islanders.<p>So, on that note...
+
+@67C4 max=639
+JP: オイラと運試ししようぜ？<n>楽しくお金を賭けて遊ぼうぜ？<p>今日のゲームは、オイラが持ってる<n>看板に描かれた形を当てるんだ！<p>題して、「あてずっぽう万歳」！<n>参加料、５０ｚだけど、やるかい？
+EN: Wanna try your luck against me?<n>A friendly little wager, just for fun?<p>Today's game is to guess the shape<n>on the sign I'm holding!<p>I call it "Long Live Lucky Guesses!"<n>It's 50z to play. You in?
+
+@6A44 max=639
+JP: オイコラ、金が足りねーぞ！<n>ナメてんじゃねーぞゴラア！<p>…じゃなくて、お金足りないぜ？<n>これから気をつけてくれよな？
+EN: HEY! You're short on cash!<n>You think you can mess with me, PUNK?!<p>...I mean, you haven't got enough money.<n>Keep an eye on that next time, okay?
+
+@6CC4 max=639
+JP: じゃあ、はじめるぜ！<n>いま、オイラが持ったこの看板…<p>これに描かれてるマークを<n>直感でズバリ当ててくれ！
+EN: All right, let's get started!<n>See this sign I'm holding?<p>Trust your gut and tell me<n>what shape's on it!
+
+@6F44 max=639
+JP: 　○　<n>　△　<n>　□　
+EN: Circle<n>Triangle<n>Square
+
+@71C4 max=639
+JP: おいおい…<p>じゃなかった、おめでとう！<p>えーと、３００ｚね。
+EN: Oh, come on...<p>I mean, congratulations!<p>Let's see... That's 300z.
+
+@7444 max=639
+JP: うーん、残念だったな！ははは！<p>でもいいカンしてるよ<n>次はだいじょぶだよ！
+EN: Ooh, tough luck! Ha ha ha!<p>You've got good instincts, though.<n>You'll get it next time!
+
+@76C4 max=639
+JP: というわけで、もう一度やろうぜ？
+EN: So, how about another round?
+
+@7944 max=639
+JP: なんだい、もう帰るのかい？<p>ま、いいや。また遊ぼうぜ！
+EN: What, heading off already?<p>All right. Let's play again sometime!
+
+@7BC4 max=639
+JP: <<テキストチェック>><n>表示したい会話メッセージのIDを選んでください。
+EN: 

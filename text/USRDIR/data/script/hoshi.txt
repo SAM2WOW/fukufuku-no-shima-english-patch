@@ -1,0 +1,91 @@
+# source: PSP_GAME/USRDIR/data/script/hoshi.scb
+# format: scb
+# width: 44
+
+@5144 max=639
+JP: おうおうおう。<p>ここらは、泣く子も黙る<n>ホシダケ組の縄張りじゃ、おう。<p>こんなとこでシノギをやっちゃいるが<n>ワシらをなめちゃいかんのう！<p>ワシらあ怒らすと、数千は兵隊が来る。<n>全部キノコじゃけえ、怖いじゃろ？ん？<p>こう見えても、ワシら、東のほうで<n>三つの星を仕切る大勢力よ。<p>隣の星へ殴り込みに出かけたんじゃが<n>間違って、こんなとこに来てしもうた。<p>…おう。いま笑わんかったか、おう？<p>ま、ええわい、勘弁しちゃる。
+EN: Well, well, well.<p>You're on Hoshidake Gang turf, pal.<n>Our name alone stops babies cryin'.<p>We may be workin' this little patch,<n>but don't you go underestimatin' us!<p>Cross us and thousands of goons'll come.<n>Every last one's a mushroom. Scared yet? Eh?<p>Believe it or not, we run three planets<n>out east. We're a big deal.<p>We went to raid the next planet over,<n>but took a wrong turn and ended up here.<p>...Hey. Did you just laugh at us, pal?<p>Ah, forget it. We'll let it slide.
+
+@53C4 max=639
+JP: 組に帰るためにゃどうすりゃいいか<n>いくら考えてもわからんかったが…<p>マシューの叔父貴と知り合いになって<n>いいことを教わったっちゅーわけよ。<p>…なんでも、この島には<n>「星のかけら」っちゅー<p>「宇宙えねるぎー」が<n>降ってくるらしいのう。<p>そいつを集めて、願いをかけりゃ<n>ワシら、宇宙へ帰れるかもしれんのう。<p>おう。見ず知らずのお客人よう<p>ワシらの幸せのために<n>ちびっと協力してくれんかのう、のう？
+EN: We racked our brains tryin' to figure out<n>how to get back to the gang...<p>Then we got friendly with Dr. Matthew,<n>and he gave us a useful tip.<p>Seems things called "star fragments"<n>fall on this island...<p>They're some kinda<n>"cosmic energy," see?<p>Gather 'em up and make a wish,<n>and we might get back to space.<p>So, our dear friend we just met...<p>How about pitchin' in a little<n>for our happiness? Eh?
+
+@5644 max=639
+JP: おうおうおう！なんじゃ、あんたかい。<n>ホシダケ組の事務所によう来たのう。
+EN: Well, well, well! Oh, it's you.<n>Welcome to Hoshidake Gang headquarters.
+
+@58C4 max=639
+JP: なんじゃ？ホシダケ組に入りたいんか？<n>そりゃちと無理な相談じゃのう。
+EN: What's that? You wanna join our gang?<n>That's askin' a bit much, pal.
+
+@5B44 max=639
+JP: ワシらが夜なべして作った<n>お手製の、こいつ…<p>「ろまんちっく星座パネル」に<n>星のかけらを並べりゃ…<p>宇宙えねるぎーがバリバリ！で<n>願いが叶うっちゅー寸法よ。<p>てなわけでのう…
+EN: We stayed up all night<n>makin' this little beauty...<p>Put star fragments on our homemade<n>"Romantic Constellation Panel"...<p>And BAM! Cosmic energy galore!<n>That's how we get our wish granted.<p>So, here's the deal...
+
+@5DC4 max=639
+JP: マシューの叔父貴がいうには<n>星のかけらってヤツは…<p>「月齢」とやらで<n>降ったり降らなかったりするそうじゃ。<p>よくわからんが、いつでも<n>取れるもんじゃないそうじゃのう。<p>ま、そんなわけじゃ。<n>気長に集めてくれや！ガハハ！<p>おう、で、肝心の用事じゃがのう…
+EN: Dr. Matthew tells us<n>these star fragments...<p>Only fall at certain times,<n>dependin' on the "phase of the moon."<p>Beats us, but apparently<n>you can't just grab 'em anytime.<p>So that's the deal.<n>Take your time collectin' 'em! Gahaha!<p>Anyway, down to business...
+
+@6044 max=639
+JP: んー…<p>なんでも、星のかけらの近くにいくと<n>ヘンな音がするそうじゃのう。<p>その音を手がかりにすると<n>うまいこと集められるかもしれんのう。<p>…と、マシューの叔父貴がいっとった。<n>参考にしてくれや！ガハハ！<p>てなわけでのう…
+EN: Hmm...<p>They say you hear a weird noise<n>when you're near a star fragment.<p>Follow that sound, and you might<n>have an easier time collectin' 'em.<p>...That's what Dr. Matthew said, anyway.<n>Keep it in mind! Gahaha!<p>So, here's the deal...
+
+@62C4 max=639
+JP: おう、そうじゃそうじゃ。<p>あんたとわしらの仲じゃけえ<n>特別に教えちゃるよ。<p>「さいはて湿原　東」の<n>どこかにのう…<p>サガシニコフのご先祖さまの<n>像が埋まっとるそうじゃ！<p>わしらはそんなもん要らんがのう。<n>あんたにゃ役に立つんじゃないかのう。
+EN: Oh, yeah. Almost forgot.<p>Since we're such good pals,<n>we'll let you in on a little secret.<p>Somewhere in Far End Marsh E...<p>There's a buried statue<n>of Sagashnikov's ancestor!<p>We got no use for it ourselves,<n>but you might get somethin' out of it.
+
+@6544 max=639
+JP: ところで<n>小耳にはさんだんじゃがのう…<p>ワシらみたいに、星座パネルで<n>神さんに願いをかなえさせるのを…<p>この地球じゃ、「おまじない」と<n>言うそうじゃのう…<p>無事帰れたら、組のやつらにも<n>おまじないを広めちゃろうかのう。
+EN: By the way,<n>we heard a little somethin'...<p>Usin' a constellation panel to get<n>the gods to grant wishes, like we do...<p>Here on Earth,<n>they call that a "magic charm."<p>If we make it home in one piece,<n>maybe we'll teach the gang a few charms.
+
+@67C4 max=639
+JP: ところでのう…<p>こないだ、ハサミ持った女に<n>追いかけられてのう。<p>ありゃ怖い女じゃのう。ブルブル！<n>ワシら、もうかなわんよ…<p>んー、そういや…
+EN: By the way...<p>The other day, some woman<n>came chasin' us with scissors.<p>That dame's terrifyin'! Brrr!<n>We can't take much more of that...<p>Hmm, come to think of it...
+
+@6A44 max=639
+JP: いつも思うんじゃが…<p>マシューの叔父貴は、物知りじゃのう。<n>ウチの客分として、来てくれんかのう。<p>あのモワモワを、キノコ型に刈りこめば<n>貫禄も出るんじゃないかのう。<p>ま、それはおいおい考えようかのう。<n>で…
+EN: We keep thinkin'...<p>Dr. Matthew sure knows his stuff.<n>Think he'd join us as an honored guest?<p>Trim that fluff into a mushroom shape,<n>and he'd look like a real big shot.<p>Eh, we'll work out the details later.<n>Anyway...
+
+@6CC4 max=639
+JP: んー…<p>ワシらの星じゃ、ワシらとマッタケ組が<n>どえらい抗争をやっとってのう。<p>マッタケ組のやつらは、我慢ならんのじゃ。<n>あの匂いがいかん！いかんのじゃ！<p>はー、はー…<n>思わず血がたぎっちまったのう。<p>で…
+EN: Hmm...<p>Back on our planet, we're in a nasty<n>turf war with the Matsutake Gang.<p>We can't stand those punks.<n>That smell! That stinkin' smell!<p>Huff... Puff...<n>Got our blood boilin' just thinkin' of it.<p>Anyway...
+
+@6F44 max=639
+JP: ふふふ…<p>わしらの組のおやっさんダケは<n>任侠に厚い大親分よ。<p>幾多のキノコ刈りを生き延びて<n>身体は古傷だらけなんじゃ。<p>…お元気かのう。<p>おやっさんの下で、ブイブイ言わしとった<n>あのころが懐かしいのう。<p>で…
+EN: Heh heh heh...<p>The old mushroom who runs our gang<n>is a true boss. Honor means everythin' to him.<p>He's survived countless mushroom hunts.<n>Got old scars all over his body.<p>...Hope he's doin' all right.<p>Those were the days, raisin' hell<n>with the boss back home.<p>Anyway...
+
+@71C4 max=639
+JP: おう、そうじゃそうじゃ。<p>赤の星のかけらは、なんでも<n>取るのが相当難しいらしいんじゃ。<p>見かけたら、逃さずに<n>取っとかんと後悔するらしいのう。<p>ま、がんばってくれや。ガハハ！<n>で…
+EN: Oh, yeah. Almost forgot.<p>Seems red star fragments<n>are real tough to get hold of.<p>If you spot one, grab it.<n>Let it get away and you'll regret it.<p>Give it your best shot! Gahaha!<n>Anyway...
+
+@7444 max=639
+JP: ここから西に行くと、犬がおるんじゃ。<n>あいつの足もとに、なんかありそうじゃ。
+EN: There's a dog west of here.<n>Looks like there's somethin' at its feet.
+
+@76C4 max=639
+JP: おう、ぜんぶ埋まっとらんのう、このパネル。<n>完成させてから来いや、おう？
+EN: Hey, this panel ain't full yet.<n>Come back when you've finished it, eh?
+
+@7944 max=639
+JP: おお！完成しとるのう。よっしゃ！<n>どうじゃ？いい経験になったじゃろ？ハハ！<p>これでワシらが帰れる日が、また近づいた。<n>サンキューじゃ！また助けてくれや、のう！
+EN: Oh! It's finished! Now we're talkin'!<n>Well? Good experience for ya, right? Haha!<p>One step closer to gettin' us home.<n>Thanks, pal! Help us out again sometime, eh?
+
+@7BC4 max=639
+JP: <HEXP>の経験値を獲得
+EN: Gained <HEXP> experience points.
+
+@7E44 max=639
+JP: このパネルを渡すけえ、この島にある<n>星のかけらを集めて、埋めてくれや。<p>ワシら可哀想な宇宙難民じゃけんのう。<n>無償で協力してくれるじゃろ？ん？
+EN: We'll give you this panel. Gather star<n>fragments around the island and fill it up.<p>We're poor refugees from space, see.<n>You'll help us for free, won't ya? Eh?
+
+@80C4 max=639
+JP: ほほー、ワシらに逆らうたあ、いい度胸じゃ。<n>度胸にめんじて、今日は見逃しちゃるわい。
+EN: Hoho! Takes guts to turn us down.<n>We respect guts. You get a pass today.
+
+@8344 max=639
+JP: ハハハ！さすが物わかりがええのう。<n>あんた大物じゃ！<p>星のかけらは、島のあっちこっちにある<n>台座みたいなもんの上にあるんじゃ。<p>ワシらのために、働いてくれや、ハハハ！<n>ほいじゃ、ワシらここで待っとるけーの！
+EN: Hahaha! Knew you'd see reason.<n>You're goin' places, pal!<p>Star fragments sit on these pedestal<n>things scattered all over the island.<p>Get to work for us, eh? Hahaha!<n>We'll be right here waitin'!
+
+@85C4 max=639
+JP: <<テキストチェック>><n>表示したい会話メッセージのIDを選んでください。
+EN: 

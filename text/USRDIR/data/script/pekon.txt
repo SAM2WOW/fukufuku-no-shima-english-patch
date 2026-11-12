@@ -1,0 +1,5935 @@
+# source: PSP_GAME/USRDIR/data/script/pekon.scb
+# format: scb
+# width: 44
+
+@5144 max=639
+JP: もう君、ブリッキ国の全資格を取っちゃってるよ！<n>うちの国に来て、大学教授やらないー？
+EN: You've already earned every qualification in Brikki!<n>Want to come teach at one of our universities?
+
+@53C4 max=639
+JP: あれー、君はだれ？<n><PN>？へー。<p>僕はブリッキ国の王子、ペコンだよ。<n>お兄ちゃんといっしょに、留学中なんだー。
+EN: Oh, hey! Who are you?<n><PN>? Huh, neat.<p>I'm Pekon, a prince of the Kingdom of Brikki.<n>My big brother and I are studying abroad here.
+
+@5644 max=639
+JP: あー、<PN>か。<n>どうしたのー。
+EN: Oh, hey, <PN>.<n>What's up?
+
+@58C4 max=639
+JP: <PN>じゃない。<n>僕？うん、元気だよー。
+EN: Hey, it's <PN>!<n>Me? Yeah, I'm doing fine.
+
+@5B44 max=639
+JP: いやー、もう大変だよー。<n>覚えなくちゃいけないこと多くてさー。<p>マシュー先生も、あんなに丸いのに<n>もー、厳しいのなんの。
+EN: Whew, studying is rough.<n>There's so much stuff to remember!<p>Dr. Matthew may look all round and cuddly,<n>but wow, is he strict!
+
+@5DC4 max=639
+JP: ウチの国って、物知りが尊敬されるから<n>王子もつらいんだー。<p>ま、お兄ちゃんがいるから<n>僕はまだ気楽なんだけどねー。
+EN: People back home really respect knowledge,<n>so being a prince is pretty tough.<p>Well, my big brother's around,<n>so I get to take it a little easier.
+
+@6044 max=639
+JP: あー、こないだ森で会ったんだけど<n>ジルって子、可愛かったなー。<p>え？あの子、幽霊なの？<n>なんだ、ちぇーっ…。
+EN: Oh, I met this girl Jill in the forest the other day.<n>She was really cute.<p>Huh? She's a ghost?<n>Aw, man...
+
+@62C4 max=639
+JP: あー、おなかすいたなー。
+EN: Ahh, I'm hungry.
+
+@6544 max=639
+JP: あー、眠いねー。眠くない？<n>僕、よく居眠りしちゃうんだよー。
+EN: Ahh, I'm sleepy. Aren't you?<n>I'm always nodding off.
+
+@67C4 max=639
+JP: あー、ねえ、もしよければ<n>僕の復習につきあってくれないかなー。<p>いろんな資格を取るための問題を出すから<n>君、答えてみてくれるとうれしいなー。<p>もし、成績がよかったら<n>正式な資格をあげるよ！<p>どう？やってみる？
+EN: Hey, if you've got a minute,<n>could you help me study?<p>I'll ask you questions from qualification exams.<n>I'd love it if you could try answering them.<p>If you do well enough,<n>I'll give you an official qualification!<p>How about it? Want to try?
+
+@6A44 max=639
+JP: うーん、やっぱり無理かなー。<n>気が向いたら、また来てよ。
+EN: Hmm, maybe that's asking a bit much.<n>Come back if you feel like it.
+
+@6CC4 max=639
+JP: わお！ありがと。<p>今日は<CERT>関係の<n>問題でどう？<p>じゃ、第一問、よく聞いてねー。
+EN: Wow! Thanks.<p>How about some questions on<n><CERT> today?<p>Okay, here's question one. Listen closely!
+
+@6F44 max=639
+JP: 正解！すごいじゃんー。
+EN: Correct! You're good at this!
+
+@71C4 max=639
+JP: おー！よくわかったねー！
+EN: Whoa! You knew that one!
+
+@7444 max=639
+JP: すごい！<n>これがわかるとは思わなかったよ！
+EN: Wow!<n>I didn't think you'd get that!
+
+@76C4 max=639
+JP: あー、それ違うと思う…。
+EN: Ah, I don't think that's right...
+
+@7944 max=639
+JP: 残念！ちょっと間違えたね！
+EN: Aw, too bad! That's not quite right!
+
+@7BC4 max=639
+JP: 惜しいなー。
+EN: Ooh, so close.
+
+@7E44 max=639
+JP: じゃ、次ねー。
+EN: Okay, next one.
+
+@80C4 max=639
+JP: それじゃ、これはどうかなー。
+EN: All right, how about this one?
+
+@8344 max=639
+JP: えーと、じゃあね…。
+EN: Let's see, um...
+
+@85C4 max=639
+JP: んー、いまの結果は…
+EN: Hmm, your results are...
+
+@8844 max=639
+JP: すごいね！合格してるよ！<n>よーし、正式な資格をあげちゃおう。<p>僕、王子だからだいじょぶ！<n>じゃあ、授与式やるよー。<p>じゃーん！じゃじゃじゃーん！<p>我、第二王子ペコン…<n>汝、<PN>に…<p>「<CERT>」の<n>資格を与える！<p>ブリッキ国の資格だから<n>ここじゃ使えないんだけどね！あはは！<p>ま、なにはともあれ<n>ぱちぱち、おめでとー！
+EN: Wow! You passed!<n>Okay, let's make that qualification official.<p>It's fine! I'm a prince!<n>Now, time for the ceremony.<p>Ta-daa! Ta-da-da-daa!<p>I, Pekon, second prince of Brikki...<n>do hereby grant unto thee, <PN>...<p>the qualification of<n>"<CERT>"!<p>It's a Brikki qualification,<n>so you can't use it here! Ahaha!<p>Well, anyway...<n>Clap, clap! Congratulations!
+
+@8AC4 max=639
+JP: …あー、やっぱり難しかったかなー。<n>ごめんね、無理言っちゃって。
+EN: ...Ah, maybe that was a bit too hard.<n>Sorry to put you on the spot.
+
+@8D44 max=639
+JP: 今日はありがとー。また、僕に<n>つきあってくれるとうれしいなー。<p>それじゃ、またねー！
+EN: Thanks for today! I'd love it<n>if you could help me study again sometime.<p>See you around!
+
+@8FC4 max=639
+JP: <HEXP>の経験値を獲得
+EN: Gained <HEXP> experience points.
+
+@9244 max=639
+JP: <<テキストチェック>><n>チェックする項目を選んでください。
+EN: 
+
+@94C4 max=639
+JP: 会話メッセージ<n>イベント用テキスト
+EN: Dialogue<n>Event Text
+
+@9744 max=639
+JP: 表示したい会話メッセージのIDを選んでください。
+EN: 
+
+@99C4 max=639
+JP: 表示したいテキストのIDを入力してください。
+EN: 
+
+@9C44 max=639
+JP: 正解！すごいじゃんー。
+EN: Correct! You're good at this!
+
+@9EC4 max=639
+JP: あー、それ違うと思う…。
+EN: Ah, I don't think that's right...
+
+@14E6C max=119
+JP: 日　私は野球を愛しています。<n>英　I （　　　） baseball.
+EN: Meaning: I love baseball.<n>Fill in: I (      ) baseball.
+
+@14F2C max=119
+JP: 「October」は（　　　）のことである。
+EN: October is the (      ) month of the year.
+
+@14FA4 max=63
+JP: ９月<n>１０月<n>１１月
+EN: 9th<n>10th<n>11th
+
+@14FEC max=119
+JP: Ａ　（　　　） go to the movie.<n>Ｂ　Good idea.
+EN: A: (      ) go to the movies.<n>B: Good idea.
+
+@150AC max=119
+JP: 日　私の姉はたくさんのＣＤを持っています。<n>英　My sister has a （　　　） of CDs.
+EN: Meaning: My sister has lots of CDs.<n>Fill in: My sister has a (      ) of CDs.
+
+@1516C max=119
+JP: Ａ　（　　　） fruit do you like?<n>Ｂ　I like apples.
+EN: A: (      ) fruit do you like?<n>B: I like apples.
+
+@1522C max=119
+JP: Ａ　Don't eat all the cakes, Bob.<n>Ｂ　（　　　）.
+EN: A: Don't eat all the cakes, Bob.<n>B: (      ).
+
+@152EC max=119
+JP: Ａ　Thank you for these nice shoes.<n>Ｂ　（　　　）.
+EN: A: Thank you for these nice shoes.<n>B: (      ).
+
+@153AC max=119
+JP: 日　あなた達はどこでサッカーをしますか？<n>英　（　　　） do you play football?
+EN: Meaning: Where do you play football?<n>Fill in: (      ) do you play football?
+
+@1546C max=119
+JP: 日　私達の学校から東京タワーが見えます。<n>英　We （　　　） Tokyo Tower from our school.
+EN: Meaning: We can see Tokyo Tower from our school.<n>Fill in: We (      ) Tokyo Tower from our school.
+
+@1552C max=119
+JP: Ａ　What （　　　） is it today?<n>Ｂ　It's Tuesday.
+EN: A: What (      ) is it today?<n>B: It's Tuesday.
+
+@155EC max=119
+JP: Ａ　Can I （　　　） your eraser?<n>Ｂ　Of course.
+EN: A: Can I (      ) your eraser?<n>B: Of course.
+
+@156AC max=119
+JP: 「How about you?」は、<n>「あなたはどうですか」という意味である。
+EN: "How about you?"<n>means "And you?"
+
+@15724 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1576C max=119
+JP: 日　あなたにここで会えて嬉しいです。<n>英　I'm （　　　） see you here.
+EN: Meaning: I'm happy to see you here.<n>Fill in: I'm (      ) see you here.
+
+@1582C max=119
+JP: Ａ　What time do you （　　　） up?<n>Ｂ　I （　　　） up at 7 every morning.
+EN: A: What time do you (      ) up?<n>B: I (      ) up at 7 every morning.
+
+@158EC max=119
+JP: 日　このバッグを開けてはいけません。<n>英　（　　　） open this bag.
+EN: Meaning: You must not open this bag.<n>(___) open this bag.
+
+@159AC max=119
+JP: 日　どこに行くのですか？<n>英　Where are you （　　　）？
+EN: Meaning: Where are you headed?<n>Where are you (___)?
+
+@15A6C max=119
+JP: 日　どういたしまして。<n>英　Not （　　　） all.
+EN: Meaning: You're welcome.<n>Not (___) all.
+
+@15B2C max=119
+JP: 日　私は２０歳です。<n>英　I'm twenty （　　　） old.
+EN: Meaning: I am 20.<n>I'm twenty (___) old.
+
+@15BEC max=119
+JP: 日　あなたはいつ勉強しますか？<n>英　（　　　） do you study?
+EN: Meaning: At what time do you study?<n>(___) do you study?
+
+@15CAC max=119
+JP: 日　この帽子は大きすぎます。<n>英　This hat is （　　　） big.
+EN: Meaning: This hat is bigger than it should be.<n>This hat is (___) big.
+
+@15D6C max=119
+JP: 日　野球は私の好きなスポーツです。<n>英　Baseball is my （　　　） sport.
+EN: Meaning: Baseball is the sport I like best.<n>Baseball is my (___) sport.
+
+@15E2C max=119
+JP: 日　あの花を見て。<n>英　（　　　） at those flowers.
+EN: Meaning: Take a look at those flowers.<n>(___) at those flowers.
+
+@15EEC max=119
+JP: 日　いいえ、結構です。<n>英　No, （　　　）.
+EN: Meaning: No, thank you.<n>No, (___).
+
+@15FAC max=119
+JP: 日　どうやって、図書館に行きますか？<n>英　（　　　）do you get to the library?
+EN: Meaning: What's the way to the library?<n>(___) do you get to the library?
+
+@1606C max=119
+JP: 「誕生日」を意味する英単語で<n>正しいつづりはどれか？
+EN: Which correctly spells the word for<n>the day you were born?
+
+@1612C max=119
+JP: Ａ　Where are my novels, Dad?<n>Ｂ　（　　　） your desk.
+EN: A: Where are my novels, Dad?<n>B: (___) your desk.
+
+@161EC max=119
+JP: 「often」の意味はどれか？
+EN: What does "often" mean?
+
+@16264 max=63
+JP: 毎日<n>しばしば<n>まれに
+EN: Every day<n>Frequently<n>Rarely
+
+@162AC max=119
+JP: 日　私とボブはサッカーのチームに入っています。<n>英　I and Bob （　　　） the soccer team.
+EN: Meaning: Bob and I are members of the soccer team.<n>Bob and I (___) the soccer team.
+
+@1636C max=119
+JP: 「math」の意味はどれか？
+EN: What does "math" mean?
+
+@163E4 max=63
+JP: 口<n>月<n>数学
+EN: Mouth<n>Moon<n>Mathematics
+
+@1642C max=119
+JP: 日　あなたは日本語が話せますか？<n>英　（　　　） speak Japanese?
+EN: Meaning: Are you able to speak Japanese?<n>(___) speak Japanese?
+
+@164EC max=119
+JP: 日　暗くなってきた。<n>英　It's （　　　） dark.
+EN: Meaning: It's becoming dark.<n>It's (___) dark.
+
+@165AC max=119
+JP: 日　昨日、買い物に行きましたね？<n>英　You went to shopping yesterday, （　　　）？
+EN: Meaning: You went shopping yesterday, right?<n>You went shopping yesterday, (___)?
+
+@1666C max=119
+JP: 日　この通りを上ってください。<n>英　（　　　）go up this street.
+EN: Meaning: Kindly go up this street.<n>(___) go up this street.
+
+@1672C max=119
+JP: 日　病院へ行く道を教えてくださいませんか？<n>英　Could you tell me （　　） to the hospital?
+EN: Meaning: Could you give me directions to the hospital?<n>Could you tell me (___) to the hospital?
+
+@167EC max=119
+JP: 「farm」の意味はどれか？
+EN: What does "farm" mean?
+
+@16864 max=63
+JP: 工場<n>会場<n>農場
+EN: Factory<n>Event venue<n>Agricultural land
+
+@168AC max=119
+JP: Ａ　That's a beautiful flower,（　　　）？<n>Ｂ　No, it's artificial.
+EN: A: That's a beautiful flower, (___)?<n>B: No, it's artificial.
+
+@1696C max=119
+JP: 日　品物がやっと届いた。<n>英　Goods arrived at （　　　）.
+EN: Meaning: The goods finally arrived.<n>The goods arrived at (___).
+
+@16A2C max=119
+JP: 日　どうすればいいですか？<n>英　（　　　） should I do?
+EN: Meaning: What am I supposed to do?<n>(___) should I do?
+
+@16AEC max=119
+JP: 日　彼はテニスコートのある家に住んでいます。<n>英　He lives in a house （　　） a tennis court.
+EN: Meaning: His home has a tennis court.<n>He lives in a house (___) a tennis court.
+
+@16BAC max=119
+JP: 「卒業」を意味する英単語は次のうちどれか？
+EN: Which word means completing your studies at a school?
+
+@16C6C max=119
+JP: Ａ　How was the coffee?<n>Ｂ　It （　　　） good.
+EN: A: How was the coffee?<n>B: It (___) good.
+
+@16D2C max=119
+JP: 「Get excited.」の意味はどれか？
+EN: What does "Get excited" mean?
+
+@16DA4 max=63
+JP: 落胆する<n>怒鳴る<n>興奮する
+EN: Feel discouraged<n>Shout<n>Feel thrilled
+
+@16DEC max=119
+JP: 日　私の代わりに、彼によろしく言ってください。<n>英　（　　　） him for me.
+EN: Meaning: Please give him my regards.<n>(___) him for me.
+
+@16EAC max=119
+JP: 日　映画に行きませんか？<n>英　How （　　　） going to a movie?
+EN: Meaning: Would you like to go to a movie?<n>How (___) going to a movie?
+
+@16F6C max=119
+JP: 「exam」の意味はどれか？
+EN: What does "exam" mean?
+
+@16FE4 max=63
+JP: 化学<n>試験<n>人工知能
+EN: Chemistry<n>Test<n>AI
+
+@1702C max=119
+JP: 日　私は水泳を楽しんでいます。<n>英　I （　　　） fun swimming.
+EN: Meaning: I enjoy swimming.<n>I (___) fun swimming.
+
+@170EC max=119
+JP: 日　私はあなたに働いてほしい。<n>英　I （　　　） you to work.
+EN: Meaning: I'd like you to work.<n>I (___) you to work.
+
+@171AC max=119
+JP: 日　一日中かかるだろう。<n>英　It's going to （　　　） all day.
+EN: Meaning: It will last the whole day.<n>It's going to (___) all day.
+
+@1726C max=119
+JP: 日　お花見に行きましたか？<n>英　Did you go to see the （　　　）？
+EN: Meaning: Did you go cherry blossom viewing?<n>Did you go to see the (___)?
+
+@1732C max=119
+JP: 「information」の意味はどれか？
+EN: What does "information" mean?
+
+@173A4 max=63
+JP: 説明<n>情報<n>解説
+EN: An explanation<n>Facts and details<n>A commentary
+
+@173EC max=119
+JP: 日　私の服は今汚れている。<n>英　My clothes are （　　　） now.
+EN: My clothes need a wash.<n>My clothes are (...) now.
+
+@174AC max=119
+JP: Ａ　Who is Hanako ?<n>Ｂ　She's a friend （　　　） mine.
+EN: A: Who is Hanako?<n>B: She's a friend (...) mine.
+
+@1756C max=119
+JP: 日　それはやったことがない。<n>英　I've （　　　） done that.
+EN: I haven't done it before.<n>I've (...) done that.
+
+@1762C max=119
+JP: 日　病院までどの位かかりますか？<n>英　（　　　） does it take to the hospital?
+EN: Ask how long the trip takes.<n>(...) does it take to the hospital?
+
+@176EC max=119
+JP: 「Take care of a cat.」の意味はどれか？
+EN: What does "Take care of a cat" mean?
+
+@17764 max=63
+JP: 猫を動かして<n>猫を持ち帰って<n>猫の世話をして
+EN: Move the cat<n>Take the cat home<n>Care for the cat
+
+@177AC max=119
+JP: 日　弟は８時から４時まで勉強をしています。<n>英　My brother studies （　　　） four.
+EN: My brother studies from 8:00 to 4:00.<n>My brother studies (...) four.
+
+@1786C max=119
+JP: Ａ　I want to be a writer someday.<n>Ｂ　I hope your （　　　） true.
+EN: A: I want to be a writer someday.<n>B: I hope your (...) true.
+
+@1792C max=119
+JP: 日　良い腕前だと聞いた。<n>英　I've （　　　） you have a good skill.
+EN: I hear you're skilled.<n>I've (...) you're very skilled.
+
+@179EC max=119
+JP: 「medicine」の意味はどれか？
+EN: What does "medicine" mean?
+
+@17A64 max=63
+JP: 治療<n>対策<n>薬
+EN: Treatment<n>A countermeasure<n>A drug
+
+@17AAC max=119
+JP: 「around the world」は<n>「世界中の」という意味である。
+EN: "Around the world" means<n>"all over the world."
+
+@17B24 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@17B6C max=119
+JP: 次の赤字部分の正しい読みはどれか？<n>この店は商品を<col.RED>廉価</col>で販売している。
+EN: Which spelling means 'low-priced'?<n>This shop's goods are <col.RED>(...)</col>.
+
+@17BE4 max=63
+JP: れんか<n>けんか<n>あんか
+EN: inexpensive<n>inexpencive<n>inexpensiv
+
+@17C2C max=119
+JP: 次のカタカナ部分の漢字はどれか？<n><col.RED>エツ</col>に入る。
+EN: Which spelling completes the sentence?<n>He was filled with <col.RED>(...)</col>.
+
+@17CA4 max=63
+JP: 税<n>悦<n>説
+EN: delite<n>delight<n>delyte
+
+@17CEC max=119
+JP: 次のカタカナ部分の漢字はどれか？<n>真夏の<col.RED>エン</col>天下はとても暑い。
+EN: Which spelling completes the sentence?<n>The midsummer sun is <col.RED>(...)</col> hot.
+
+@17D64 max=63
+JP: 焔<n>災<n>炎
+EN: scortching<n>scorchhing<n>scorching
+
+@17DAC max=119
+JP: 次のカタカナ部分の漢字はどれか？<n><col.RED>サイケン</col>者に返金を催促される。
+EN: Which spelling completes the sentence?<n>My <col.RED>(...)</col> demanded repayment.
+
+@17E24 max=63
+JP: 債権<n>責権<n>債巻
+EN: creditor<n>credditor<n>crediter
+
+@17E6C max=119
+JP: 「安定」の対義語は次のうちどれか？
+EN: Which word is the opposite of 'stability'?
+
+@17EE4 max=63
+JP: 働揺<n>動揺<n>動遥
+EN: Instabillity<n>Instability<n>Instabilitty
+
+@17F2C max=119
+JP: 「便利」の対義語は「重宝」である。
+EN: 'Convenient' is the opposite of 'handy'.
+
+@17FA4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@17FEC max=119
+JP: 「該当」の類義語は次のうちどれか？
+EN: Which correctly spelled word means 'applicable'?
+
+@18064 max=63
+JP: 敵合<n>滴合<n>適合
+EN: Suitible<n>Sutable<n>Suitable
+
+@180AC max=119
+JP: 次のカタカナ部分の漢字はどれか？<n><col.RED>トクメイ</col>希望の葉書が届く。
+EN: Which spelling completes the sentence?<n>The postcard's sender wished to stay <col.RED>(...)</col>.
+
+@18124 max=63
+JP: 匿名<n>特名<n>得名
+EN: anonymous<n>anonimous<n>annonymous
+
+@1816C max=119
+JP: 次のカタカナ部分の漢字はどれか？<n>顔の<col.RED>リンカク</col>が整っている。
+EN: Which spelling completes the sentence?<n>Her face has a well-defined <col.RED>(...)</col>.
+
+@181E4 max=63
+JP: 隣郭<n>輪郭<n>論郭
+EN: outlyne<n>outline<n>outtline
+
+@1822C max=119
+JP: 左の字が右の字の目的語・補語になっている熟語は<n>次のうちどれか？
+EN: Which phrase has a verb<n>followed by its object?
+
+@182A4 max=63
+JP: 墜落<n>不吉<n>排他
+EN: Fall down<n>Bad luck<n>Exclude others
+
+@182EC max=119
+JP: 「賢明」の対義語は「暗愚」である。
+EN: 'Foolish' is the opposite of 'wise'.
+
+@18364 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@183AC max=119
+JP: 次のカタカナ部分の漢字はどれか？<n><col.RED>キソク</col>が厳しい。
+EN: Which spelling completes the sentence?<n>The <col.RED>(...)</col> are strict.
+
+@18424 max=63
+JP: 規則<n>規測<n>規側
+EN: rules<n>rulles<n>ruls
+
+@1846C max=119
+JP: 左の字が右の字を修飾している熟語は<n>次のうちどれか？
+EN: Which phrase starts with an adjective<n>describing the noun after it?
+
+@184E4 max=63
+JP: 捕鯨<n>怪力<n>不遇
+EN: Catch whales<n>Monstrous strength<n>Out of luck
+
+@1852C max=119
+JP: 「哀歓」は反対、または対応の意味を表す字を<n>重ねた熟語である。
+EN: 'Sorrow and joy' pairs words with opposite<n>or contrasting meanings.
+
+@185A4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@185EC max=119
+JP: （　　　）妙、（　　　）峰、幽（　　　）、<n>三つの（　　　）に入る共通した漢字はどれか？
+EN: Which kanji completes all three words?<n>(...)myo (mystic), (...)ho (sacred peak), yu(...) (ghost).
+
+@18664 max=63
+JP: 神<n>獄<n>霊
+EN: God<n>Prison<n>Spirit
+
+@186AC max=119
+JP: 豪（　　　）、（　　　）駄、（　　　）崩、<n>三つの（　　　）に入る共通した漢字はどれか？
+EN: Which kanji appears in all three?<n>Gosetsu (heavy snow), setta (sandals), nadare (avalanche).
+
+@18724 max=63
+JP: 雪<n>屈<n>力
+EN: Snow<n>Bend<n>Power
+
+@1876C max=119
+JP: 「符」の部首は竹冠である。
+EN: 'Fu,' the kanji for 'tally,' has the bamboo radical.
+
+@187E4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1882C max=119
+JP: 次の赤字部分の正しい読みはどれか？<n><col.RED>卓越</col>した能力の持ち主。
+EN: How do you read the Japanese word for<n><col.RED>outstanding</col> in 'outstanding ability'?
+
+@188A4 max=63
+JP: たくごし<n>たくごえ<n>たくえつ
+EN: Takugoshi<n>Takugoe<n>Takuetsu
+
+@188EC max=119
+JP: 左の字が右の字の意味を打ち消している熟語は<n>次のうちどれか？
+EN: Which compound's first kanji negates<n>the meaning of its second kanji?
+
+@18964 max=63
+JP: 不滅<n>官民<n>禁欲
+EN: Immortality<n>Officials and people<n>Abstinence
+
+@189AC max=119
+JP: 「父兄」の類義語は「子弟」である。
+EN: 'Fukei' (parents or guardians) and 'shitei' (children or pupils) are synonyms.
+
+@18A24 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@18A6C max=119
+JP: 「処罰」の類義語は次のうちどれか？
+EN: Which word is a synonym for 'punishment'?
+
+@18AE4 max=63
+JP: 死刑<n>制裁<n>裁判
+EN: Death penalty<n>Sanction<n>Trial
+
+@18B2C max=119
+JP: 次のカタカナ部分の漢字はどれか？<n>部活の先輩に敬<col.RED>ボ</col>の念を抱く。
+EN: Which kanji completes kei-<col.RED>bo</col>?<n>It means admiration for a senior club member.
+
+@18BA4 max=63
+JP: 募<n>墓<n>慕
+EN: Recruit<n>Grave<n>Admire
+
+@18BEC max=119
+JP: 次のカタカナ部分の漢字はどれか？<n>荷物を<col.RED>ハン</col>送する。
+EN: Which kanji fits <col.RED>han</col> in hansou?<n>It means to transport luggage.
+
+@18C64 max=63
+JP: 搬<n>般<n>帆
+EN: Carry<n>General<n>Sail
+
+@18CAC max=119
+JP: 「郊外」の対義語は次のうちどれか？
+EN: Which is the opposite of 'suburbs'?
+
+@18D24 max=63
+JP: 中心<n>市街<n>都心
+EN: Middle<n>Town streets<n>City center
+
+@18D6C max=119
+JP: 次のうち正しい送り仮名はどれか？
+EN: Which spelling is correct?
+
+@18DE4 max=63
+JP: 最も<n>最とも<n>最っとも
+EN: Most<n>Moast<n>Mosst
+
+@18E2C max=119
+JP: 次のうち正しい送り仮名はどれか？
+EN: Which spelling is correct?
+
+@18EA4 max=63
+JP: 導く<n>導びく<n>導ちびく
+EN: Guide<n>Guied<n>Giuide
+
+@18EEC max=119
+JP: 「犠セイ」「同セイ同名」「セイ別」<n>上記のカタカナ部分はすべて同じ漢字を書く。
+EN: 'Sacrifice,' 'same surname,' and 'gender'<n>all use the same kanji for the sound 'sei'.
+
+@18F64 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@18FAC max=119
+JP: 次のカタカナ部分の漢字はどれか？<n><col.RED>レイ</col>下の気温に身体が震える。
+EN: Which kanji fits <col.RED>rei</col> in reika?<n>I shiver in temperatures below zero.
+
+@19024 max=63
+JP: 冷<n>怜<n>零
+EN: Cold<n>Clever<n>Zero
+
+@1906C max=119
+JP: 「精巧」の対義語は次のうちどれか？
+EN: Which is the opposite of 'intricate craftsmanship'?
+
+@190E4 max=63
+JP: 粗悪<n>粗雑<n>乱雑
+EN: Poor quality<n>Crude workmanship<n>Untidiness
+
+@1912C max=119
+JP: 次のカタカナ部分の漢字はどれか？<n><col.RED>カロ</col>やかに踊る。
+EN: Which kanji fits <col.RED>karo</col> in karoyaka?<n>It means to dance lightly.
+
+@191A4 max=63
+JP: 輪<n>軸<n>軽
+EN: Wheel<n>Axle<n>Light
+
+@191EC max=119
+JP: 次の赤字部分の正しい読みはどれか？<n>警備員に<col.RED>誰何</col>された。
+EN: How do you read the Japanese word for<n>a guard's <col.RED>identity check</col>?
+
+@19264 max=63
+JP: だれか<n>だれなに<n>すいか
+EN: Dareka<n>Darenani<n>Suika
+
+@192AC max=119
+JP: 次の赤字部分の正しい読みはどれか？<n>議論中、相手の意見に<col.RED>論駁</col>した。
+EN: How do you read the Japanese word for <col.RED>rebuttal</col>?<n>I refuted my opponent's argument.
+
+@19324 max=63
+JP: ろんばく<n>ろんぱく<n>ろんはく
+EN: Ronbaku<n>Ronpaku<n>Ronhaku
+
+@1936C max=119
+JP: 「意志が強く、物事に屈しないこと」<n>という意味の四文字熟語は次のうちどれか？
+EN: Which four-kanji idiom means<n>'strong-willed and unyielding'?
+
+@193E4 max=63
+JP: 剛毅果断<n>竹頭木屑<n>情緒纏綿
+EN: Firm and decisive<n>Save every scrap<n>Tender feelings
+
+@1942C max=119
+JP: 次のカタカナ部分の漢字はどれか？<n>秘密が<col.RED>ロウエイ</col>した。
+EN: Which kanji pair spells <col.RED>rouei</col>?<n>The secret leaked out.
+
+@194A4 max=63
+JP: 朗詠<n>朗英<n>漏洩
+EN: Recital<n>Bright + hero<n>Leak
+
+@194EC max=119
+JP: 次のカタカナ部分の漢字はどれか？<n>日照りで池の<col.RED>ミズカサ</col>が減った。
+EN: Which kanji pair spells <col.RED>mizukasa</col>?<n>The drought made the pond's water level fall.
+
+@19564 max=63
+JP: 水傘<n>水嵩<n>水笠
+EN: Water + umbrella<n>Water + height<n>Water + hat
+
+@195AC max=119
+JP: 次のカタカナ部分の漢字はどれか？<n><col.RED>ヒンシ</col>の重傷を負う。
+EN: Which kanji pair spells <col.RED>hinshi</col>?<n>He suffered a near-fatal injury.
+
+@19624 max=63
+JP: 瀕死<n>貧死<n>瀕刺
+EN: Brink + death<n>Poor + death<n>Brink + stab
+
+@1966C max=119
+JP: 「進取」の対義語は次のうちどれか？
+EN: Which is the opposite of 'enterprising'?
+
+@196E4 max=63
+JP: 退避<n>退却<n>退嬰
+EN: Take shelter<n>Retreat<n>Regress
+
+@1972C max=119
+JP: 「監視」の類義語は「哨戒」である。
+EN: 'Keeping watch' and 'patrolling' have similar meanings.
+
+@197A4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@197EC max=119
+JP: 次の赤字部分の正しい読みはどれか？<n><col.RED>烏鷺</col>の争い
+EN: How is the Japanese term for <col.RED>crow and heron</col> read?<n>It also refers to a game of Go.
+
+@19864 max=63
+JP: うろ<n>うの<n>うも
+EN: uro<n>uno<n>umo
+
+@198AC max=119
+JP: 次の赤字部分の読みはどれか？<n><col.RED>錫杖</col>の音が響く。
+EN: What is the Japanese name for this?<n>The sound of a <col.RED>monk's staff</col> echoes.
+
+@19924 max=63
+JP: せきじょう<n>しゃくじょう<n>しゃくづえ
+EN: sekijou<n>shakujou<n>shakuzue
+
+@1996C max=119
+JP: 次のカタカナ部分の漢字はどれか？<n>果物の種を<col.RED>エンカ</col>してしまった。
+EN: What does <col.RED>enka</col> mean here?<n>I accidentally did this to a fruit seed.
+
+@199E4 max=63
+JP: 塩化<n>咽下<n>煙霞
+EN: Chlorination<n>Swallowing<n>Mist and haze
+
+@19A2C max=119
+JP: 次のカタカナ部分の漢字はどれか？<n>煙草は<col.RED>ハツガン</col>性物質を含んでいる。
+EN: What does <col.RED>hatsugan</col> mean?<n>Tobacco contains substances with this effect.
+
+@19AA4 max=63
+JP: 発癌<n>初癌<n>発岩
+EN: Cancer-causing<n>Early cancer<n>Rock-forming
+
+@19AEC max=119
+JP: 「固執」の類義語は次のうちどれか？
+EN: Which word is closest in meaning to 'stubborn insistence'?
+
+@19B64 max=63
+JP: 遮蔽<n>逼迫<n>拘泥
+EN: Concealment<n>Urgency<n>Fixation
+
+@19BAC max=119
+JP: 次のうち、<n>（　　　）内の読みが間違っているのはどれか？
+EN: Which Japanese word below<n>is paired with the wrong reading?
+
+@19C24 max=63
+JP: 尤物（けんぶつ）<n>蜂起（ほうき）<n>俗諺（ぞくげん）
+EN: Beauty (kenbutsu)<n>Uprising (houki)<n>Proverb (zokugen)
+
+@19C6C max=119
+JP: 「慾」を書き換えた常用漢字は次のうちどれか？
+EN: Which word is closest in meaning to 'greed'?
+
+@19CE4 max=63
+JP: 欲<n>浴<n>沃
+EN: Desire<n>Bathing<n>Irrigation
+
+@19D2C max=119
+JP: 次の赤字部分の正しい読みはどれか？<n>戦時中、<col.RED>焼夷</col>弾を見たことがある。
+EN: How is the Japanese term for <col.RED>incendiary</col> read?<n>I saw such bombs during the war.
+
+@19DA4 max=63
+JP: しょうえ<n>しょうい<n>しょうらい
+EN: shoue<n>shoui<n>shourai
+
+@19DEC max=119
+JP: 次のうち、間違った四文字熟語はどれか？
+EN: Which expression contains an incorrect word?
+
+@19E64 max=63
+JP: 黄塵万丈<n>旗織鮮明<n>呉越同舟
+EN: Clouds of dust<n>Show true collars<n>In the same boat
+
+@19EAC max=119
+JP: 次の赤字部分の正しい読みはどれか？<n>稲麻<col.RED>竹葦</col>。
+EN: How is the Japanese term for <col.RED>bamboo and reeds</col> read?<n>It appears in an idiom for a crowd.
+
+@19F24 max=63
+JP: ちくし<n>ちくえ<n>ちくい
+EN: chikushi<n>chikue<n>chikui
+
+@19F6C max=119
+JP: 次のカタカナ部分の漢字はどれか？<n><col.RED>サジ</col>を投げる。
+EN: What is thrown in the Japanese idiom for giving up?<n>A <col.RED>saji</col>.
+
+@19FE4 max=63
+JP: 匙<n>杓<n>椀
+EN: Spoon<n>Ladle<n>Bowl
+
+@1A02C max=119
+JP: 次の赤字部分の正しい読みはどれか？<n>態度を<col.RED>詰</col>る。
+EN: Complete the Japanese verb meaning <col.RED>to berate</col>:<n>___ru.
+
+@1A0A4 max=63
+JP: せめ<n>なじ
+EN: seme<n>naji
+
+@1A0EC max=119
+JP: 次の赤字部分の正しい読みはどれか？<n><col.RED>咽</col>び泣く。
+EN: Complete the Japanese phrase for <col.RED>sobbing</col>:<n>___binaku.
+
+@1A164 max=63
+JP: むせ<n>さけ<n>まろ
+EN: muse<n>sake<n>maro
+
+@1A1AC max=119
+JP: 次の赤字部分の正しい読みはどれか？<n><col.RED>熱</col>り立って抗議した。
+EN: Complete the Japanese verb for <col.RED>flying into a rage</col>:<n>___ritatsu.
+
+@1A224 max=63
+JP: いか<n>いき<n>どな
+EN: ika<n>iki<n>dona
+
+@1A26C max=119
+JP: 次のカタカナ部分の漢字はどれか？<n>自治が<col.RED>ケイガイ</col>化する。
+EN: What does <col.RED>keigai</col> mean here?<n>Self-rule has become an empty formality.
+
+@1A2E4 max=63
+JP: 形骸<n>形外<n>型骸
+EN: Empty shell<n>Beyond form<n>Model skeleton
+
+@1A32C max=119
+JP: 「守宮」の読みは次のうちどれか？
+EN: Which Japanese reading means 'gecko'?
+
+@1A3A4 max=63
+JP: しゅきゅう<n>もりみや<n>やもり
+EN: shukyuu<n>morimiya<n>yamori
+
+@1A3EC max=119
+JP: 「莫大小」は「メリヤス」と読む。
+EN: The Japanese term 'meriyasu' means knitted fabric.
+
+@1A464 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1A4AC max=119
+JP: 次のカタカナ部分の漢字はどれか？<n><col.RED>ウダツ</col>の上がらない奴だ。
+EN: Which literal meaning fits <col.RED>udatsu</col>,<n>as in 'udatsu ga agaranai' (never getting ahead)?
+
+@1A524 max=63
+JP: 雨絶<n>卯建<n>鵜立
+EN: Rain stops<n>Roof partition<n>Standing cormorant
+
+@1A56C max=119
+JP: 次の赤字部分の正しい読みはどれか？<n>大根の<col.RED>桂</col>剥き。
+EN: Complete the Japanese term for <col.RED>thinly peeling a daikon</col>:<n>___muki.
+
+@1A5E4 max=63
+JP: かつら<n>はしら<n>けい
+EN: katsura<n>hashira<n>kei
+
+@1A62C max=119
+JP: 次の赤字部分の正しい読みはどれか？<n><col.RED>楠</col>は建材に用いられる。
+EN: How is the Japanese word for <col.RED>camphor tree</col> read?<n>Its wood is used for building.
+
+@1A6A4 max=63
+JP: ひのき<n>かしわ<n>くすのき
+EN: Hinoki cypress<n>Oak<n>Camphor tree
+
+@1A6EC max=119
+JP: 「石竜子」は「ヤモリ」と読む。
+EN: The Japanese word 'tokage' means 'gecko'.
+
+@1A764 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1A7AC max=119
+JP: 次のカタカナ部分の漢字はどれか？<n>僧侶が<col.RED>ケサ</col>を身にまとった。
+EN: What is a Buddhist monk's <col.RED>robe</col> called?
+
+@1A824 max=63
+JP: 懸裟<n>袈裟<n>卦婆
+EN: Kensa<n>Kesa<n>Keba
+
+@1A86C max=119
+JP: 航空券は何ヵ月前から発売しているか？
+EN: How many months before departure do airline tickets go on sale?
+
+@1A8E4 max=63
+JP: １ヵ月<n>２ヵ月<n>３ヵ月
+EN: 1 month<n>2 months<n>3 months
+
+@1A92C max=119
+JP: 国観連、日観連、（　　　）を旅館三団体という。
+EN: Kokkanren, Nikkanren and ( ) are Japan's three main innkeepers' associations.
+
+@1A9A4 max=63
+JP: 全旅連<n>全日連<n>国旅連
+EN: Zenryoren<n>Zennichiren<n>Kokuryoren
+
+@1A9EC max=119
+JP: 国内旅行傷害保険の対象とならないけがは、<n>次のうちどれか？
+EN: Which injury is not covered by domestic travel accident insurance?
+
+@1AA64 max=63
+JP: 浴場での転倒<n>観光バスの事故<n>地震による転倒
+EN: Bathhouse fall<n>Tour bus accident<n>Earthquake fall
+
+@1AAAC max=119
+JP: 兵庫県にある温泉はどれか？
+EN: Which hot spring is in Hyogo Prefecture?
+
+@1AB24 max=63
+JP: 有馬温泉<n>道後温泉<n>登別カルルス温泉
+EN: Arima Onsen<n>Dogo Onsen<n>Noboribetsu Karurusu
+
+@1AB6C max=119
+JP: 旅行業において、日帰り旅行のみを実施する場合、<n>旅行業の登録は必要としない。
+EN: A travel business that only runs day trips does not need to register as a travel agency.
+
+@1ABE4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1AC2C max=119
+JP: 旅行業務取扱主任者の職務には、広告の実施、<n>書面の交付、取引条件の説明と（　　　）がある。
+EN: A travel manager oversees ads, issues documents, explains terms and handles ( ).
+
+@1ACA4 max=63
+JP: 旅行業約款の掲示<n>苦情の処理<n>営業所の開設
+EN: Posting agency terms<n>Complaints<n>Opening branches
+
+@1ACEC max=119
+JP: １つの営業所に旅行業務取扱主任者は何人必要か？
+EN: How many qualified travel managers must each office have?
+
+@1AD64 max=63
+JP: １人以上<n>５人以上<n>特に必要ない
+EN: At least 1<n>At least 5<n>None required
+
+@1ADAC max=119
+JP: 旅行業務取扱主任者は、同じ系列の会社であれば<n>営業所が違っても業務を兼任することが可能である。
+EN: A travel manager may serve multiple offices if they belong to the same corporate group.
+
+@1AE24 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1AE6C max=119
+JP: 国土交通省令で定められている、業者が旅行者募集の<n>広告に記載しなければならないものはどれか？
+EN: Under Japan's transport ministry rules, what must an agency include in an ad recruiting travelers?
+
+@1AEE4 max=63
+JP: 責任者の氏名<n>募集人員<n>旅行業者の住所
+EN: Manager's name<n>Group size<n>Agency address
+
+@1AF2C max=119
+JP: 旅行者が契約期日までに旅行代金を支払わなかった<n>場合、旅行業者に対して支払うべきものはなにか？
+EN: What must a traveler pay the travel agency if they fail to pay for their trip by the agreed deadline?
+
+@1AFA4 max=63
+JP: 取消し料<n>違約料<n>迷惑料
+EN: Cancellation fee<n>Contract penalty<n>Inconvenience fee
+
+@1AFEC max=119
+JP: 海外旅行において、最小催行人数に満たない場合、<n>旅行の中止は何日前に知らせなければならないか？
+EN: If an overseas tour lacks the minimum group size, how many days' notice is required to cancel it?
+
+@1B064 max=63
+JP: １３日<n>２４日<n>３０日
+EN: 13 days<n>24 days<n>30 days
+
+@1B0AC max=119
+JP: 国内旅行において、最小催行人数に満たない場合、<n>旅行の中止は何日前に知らせなければならないか？
+EN: If a domestic tour lacks the minimum group size, how many days' notice is required to cancel it?
+
+@1B124 max=63
+JP: １４日<n>２１日<n>２８日
+EN: 14 days<n>21 days<n>28 days
+
+@1B16C max=119
+JP: 旅行中に起きた出来事で、<n>特別補償規程で補償されるものはどれか？
+EN: Which incident during a trip is covered by the special compensation rules?
+
+@1B1E4 max=63
+JP: パスポート紛失<n>国内での地震災害<n>海外での地震災害
+EN: Lost passport<n>Quake in Japan<n>Quake abroad
+
+@1B22C max=119
+JP: ＪＲの旅客営業規則において大人運賃、料金が<n>適用されるのは１２歳以上の中学生からである。
+EN: Under JR rules, adult fares and charges apply to junior high students aged 12 and up.
+
+@1B2A4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1B2EC max=119
+JP: ホテルの宿泊料は通貨以外に、指定の宿泊券、旅行小<n>切手、（　　　）などによって支払うことが出来る。
+EN: Hotel bills can be paid in cash, approved hotel vouchers, traveler's checks or ( ).
+
+@1B364 max=63
+JP: マイレージカード<n>クレジットカード
+EN: Frequent flyer card<n>Credit card
+
+@1B3AC max=119
+JP: 国際航空運送約款では、<n>グアム島はアメリカ合衆国に含まれる。
+EN: Under international airline carriage rules, Guam is included in the United States.
+
+@1B424 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1B46C max=119
+JP: 国内航空運送約款において、旅客運賃または料金の<n>払い戻し期間は有効期間満了後いつまでか？
+EN: Under domestic airline rules, how long after a ticket expires can fares and charges be refunded?
+
+@1B4E4 max=63
+JP: ７日以内<n>１０日以内<n>１４日以内
+EN: Within 7 days<n>Within 10 days<n>Within 14 days
+
+@1B52C max=119
+JP: 国際航空運送約款において、旅客運賃または料金の<n>払い戻し期間は有効期間満了後いつまでか？
+EN: Under international airline rules, how long after a ticket expires can fares and charges be refunded?
+
+@1B5A4 max=63
+JP: １０日以内<n>２０日以内<n>３０日以内
+EN: Within 10 days<n>Within 20 days<n>Within 30 days
+
+@1B5EC max=119
+JP: アメリカ、マサチューセッツ州の州都となっている<n>都市はどこか？
+EN: Which city is the capital of the US state of Massachusetts?
+
+@1B664 max=63
+JP: ボストン<n>ニューヨーク<n>フィラデルフィア
+EN: Boston<n>New York<n>Philadelphia
+
+@1B6AC max=119
+JP: キザの３大ピラミッドといえばクフ、カフラー、<n>（　　　）をいう。
+EN: The three great pyramids of Giza belong to Khufu, Khafre and ( ).
+
+@1B724 max=63
+JP: ツタンカーメン<n>メンカウラー<n>クレオパトラ
+EN: Tutankhamun<n>Menkaure<n>Cleopatra
+
+@1B76C max=119
+JP: 日本３大急流とは<n>富士川、球磨川、（　　　）をいう。
+EN: Japan's three fastest-flowing rivers are<n>the Fuji, Kuma and (   ).
+
+@1B7E4 max=63
+JP: 四万十川<n>鬼怒川<n>最上川
+EN: Shimanto River<n>Kinu River<n>Mogami River
+
+@1B82C max=119
+JP: 別名金閣寺として知られている寺はどれか？
+EN: Which temple is also known as Kinkakuji, the Golden Pavilion?
+
+@1B8A4 max=63
+JP: 鹿苑寺<n>慈照寺<n>銀閣寺
+EN: Rokuonji<n>Jishoji<n>Ginkakuji
+
+@1B8EC max=119
+JP: ＥＵ加盟国で、立憲君主制を執っているのはどこか？
+EN: In 2005, which EU member was a constitutional monarchy?
+
+@1B964 max=63
+JP: フランス<n>オーストリア<n>イギリス
+EN: France<n>Austria<n>United Kingdom
+
+@1B9AC max=119
+JP: シルクロード観光の起点となっている都市はどこか？
+EN: Which city is the starting point for sightseeing tours of the Silk Road?
+
+@1BA24 max=63
+JP: 北京<n>南京<n>西安
+EN: Beijing<n>Nanjing<n>Xi'an
+
+@1BA6C max=119
+JP: アンコールワットのある国はどこか？
+EN: In which country is Angkor Wat?
+
+@1BAE4 max=63
+JP: ベトナム<n>カンボジア<n>タイ
+EN: Vietnam<n>Cambodia<n>Thailand
+
+@1BB2C max=119
+JP: １５３６年に発見され、<n>ダーウィンの進化論のヒントとなった諸島はどこか？
+EN: Which islands, discovered in 1536,<n>helped inspire Darwin's theory of evolution?
+
+@1BBA4 max=63
+JP: ガラパゴス諸島<n>トンガ諸島<n>バハマ諸島
+EN: Galapagos Islands<n>Tonga Islands<n>Bahamas
+
+@1BBEC max=119
+JP: カナダのプリンスエドワード島は<n>どの小説の舞台として有名か？
+EN: Which novel is famously set on<n>Prince Edward Island in Canada?
+
+@1BC64 max=63
+JP: 若草物語<n>あしながおじさん<n>赤毛のアン
+EN: Little Women<n>Daddy-Long-Legs<n>Anne of Green Gables
+
+@1BCAC max=119
+JP: 次のうち、ハワイ諸島のマウイ島にある<n>火山はどれか？
+EN: Which volcano is on the Hawaiian island of Maui?
+
+@1BD24 max=63
+JP: キラウエア<n>マウナケア<n>ハレアカラ
+EN: Kilauea<n>Mauna Kea<n>Haleakala
+
+@1BD6C max=119
+JP: 食事を含まない室料のみの料金制度を<n>ヨーロピアンプランという。
+EN: A European plan hotel rate covers only the room,<n>with no meals included.
+
+@1BDE4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1BE2C max=119
+JP: アメリカンプランとは<n>（　　　）が含まれた宿泊料金のことである。
+EN: An American plan hotel rate includes (   ).
+
+@1BEA4 max=63
+JP: １泊２食つき<n>１泊３食つき<n>１泊夕食つき
+EN: Night + 2 meals<n>Night + 3 meals<n>Night + dinner
+
+@1BEEC max=119
+JP: 地球をおおう大気の構造の中で、<n>地表から最も低い位に存在するのはどれか？
+EN: Which layer of Earth's atmosphere<n>is closest to the ground?
+
+@1BF64 max=63
+JP: 熱圏<n>対流圏<n>成層圏
+EN: Thermosphere<n>Troposphere<n>Stratosphere
+
+@1BFAC max=119
+JP: モンスーンが吹く地域に当てはまるのはどこか？
+EN: Which region experiences monsoon winds?
+
+@1C024 max=63
+JP: 東アジア<n>西ヨーロッパ<n>北アメリカ
+EN: East Asia<n>Western Europe<n>North America
+
+@1C06C max=119
+JP: 日本付近で、梅雨時期に発生する気団はどれか？
+EN: Which air mass forms near Japan during its early summer rainy season?
+
+@1C0E4 max=63
+JP: 小笠原気団<n>揚子江気団<n>オホーツク海気団
+EN: Ogasawara air mass<n>Yangtze air mass<n>Okhotsk Sea air mass
+
+@1C12C max=119
+JP: 赤道付近の海上で発生する<n>気圧のことを（　　　）という。
+EN: A weather system that forms over seas near the equator<n>is called a (   ).
+
+@1C1A4 max=63
+JP: 熱帯低気圧<n>熱帯高気圧<n>温帯低気圧
+EN: Tropical low<n>Tropical high<n>Extratropical low
+
+@1C1EC max=119
+JP: 雷雨をもたらす原因となる積乱雲は、<n>発生期、成熟期、（　　　）の３段階に分類される。
+EN: Thunderstorm-producing cumulonimbus clouds have three stages:<n>developing, mature and (   ).
+
+@1C264 max=63
+JP: 減退消滅期<n>自然消滅期<n>衰弱消滅期
+EN: Decline and decay<n>Natural dissipation<n>Weakening and decay
+
+@1C2AC max=119
+JP: インド洋付近などで発生する<n>台風の名称を（　　　）という。
+EN: A typhoon that forms in the Indian Ocean region<n>is called a (   ).
+
+@1C324 max=63
+JP: サイクロン<n>ハリケーン<n>トルネード
+EN: Cyclone<n>Hurricane<n>Tornado
+
+@1C36C max=119
+JP: 現在、日本で観測されている１時間の最高雨量は、<n>１９８２年長崎で観測された（　　　）ｍｍである。
+EN: Japan's record hourly rainfall, measured in Nagasaki in 1982,<n>was (   ) mm.
+
+@1C3E4 max=63
+JP: １６９<n>１８３<n>２０７
+EN: 169<n>183<n>207
+
+@1C42C max=119
+JP: 主に夏季と冬季に地表付近で吹き、<n>風向きを大きく変える風のことを（　　　）という。
+EN: A near-surface wind that reverses direction between summer and winter<n>is called a (   ).
+
+@1C4A4 max=63
+JP: フェーン<n>モンスーン<n>ジェット気流
+EN: Foehn<n>Monsoon<n>Jet stream
+
+@1C4EC max=119
+JP: 梅雨前線とは、停滞前線の代表的なものであり、<n>秋雨前線とは閉塞前線の代表的なものである。
+EN: Japan's summer rain front is a typical stationary front;<n>its autumn rain front is a typical occluded front.
+
+@1C564 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1C5AC max=119
+JP: 低気圧には、温帯低気圧、熱帯低気圧、地形性低気圧、<n>熱的低気圧および（　　　）がある。
+EN: Low-pressure systems include extratropical, tropical,<n>orographic and thermal lows, as well as (   ).
+
+@1C624 max=63
+JP: 切離低気圧<n>上昇低気圧<n>散開低気圧
+EN: Cutoff low<n>Ascending low<n>Divergent low
+
+@1C66C max=119
+JP: 大陸から日本にやってくる移動性高気圧は通常、<n>（　　　）に通過する。
+EN: Migratory high-pressure systems from the continent<n>usually pass over Japan from (   ).
+
+@1C6E4 max=63
+JP: 東から西<n>西から東<n>南から北
+EN: East to west<n>West to east<n>South to north
+
+@1C72C max=119
+JP: 湿潤な空気が山岳などを越えて、<n>乾燥した熱風に変化することを（　　　）現象という。
+EN: When moist air crosses mountains and becomes a hot, dry wind,<n>this is called the ( ) effect.
+
+@1C7A4 max=63
+JP: フェーン<n>コリオリカ<n>ブロッキング
+EN: Foehn<n>Coriolis<n>Blocking
+
+@1C7EC max=119
+JP: 天気図の中に場所と天気を表す天気記号には、<n>日本式と国際式、もう１つは中国式がある。
+EN: Map symbols show location and weather.<n>There are Japanese, international and Chinese systems.
+
+@1C864 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1C8AC max=119
+JP: 世界気象機関はつぎのうちどれか？
+EN: Which is the World Meteorological Organization?
+
+@1C924 max=63
+JP: ＷＭＯ<n>ＷＨＯ<n>ＷＦＣ
+EN: WMO<n>WHO<n>WFC
+
+@1C96C max=119
+JP: 気象庁が示す異常気象の定義とは、過去（　　　）年<n>間の気候に対し著しい偏りを示す天気のことをいう。
+EN: The JMA defines abnormal weather as a marked departure<n>from the climate of the past ( ) years.
+
+@1C9E4 max=63
+JP: ２０<n>３０<n>４０
+EN: 20<n>30<n>40
+
+@1CA2C max=119
+JP: エルニーニョ現象とは正反対に起こる事象のことを<n>（　　　）現象という。
+EN: The phenomenon opposite to El Nino<n>is called ( ).
+
+@1CAA4 max=63
+JP: ラニーニャ<n>ラニーニュ<n>ラニーニョ
+EN: La Nina<n>La Ninu<n>La Nino
+
+@1CAEC max=119
+JP: 気象予報士になるには試験に合格して資格を有するだ<n>けでなく、（　　　）の登録を受けなければならない。
+EN: To become a weather forecaster, you must pass an exam<n>and be registered with the ( ).
+
+@1CB64 max=63
+JP: 都道府県知事<n>気象庁長官<n>国土交通大臣
+EN: Governor<n>JMA Director-General<n>Transport Minister
+
+@1CBAC max=119
+JP: 気象衛星「ひまわり」では、（　　　）時間おきに<n>可視画像データを取得している。
+EN: The Himawari weather satellite collects visible-light images<n>every ( ) hours.
+
+@1CC24 max=63
+JP: １<n>２<n>３
+EN: 1<n>2<n>3
+
+@1CC6C max=119
+JP: 都道府県やその細分地域内で洪水のおそれがある場合、<n>洪水警報を発表するのはだれか？
+EN: Who issues flood warnings when flooding is likely<n>within a prefecture or one of its regions?
+
+@1CCE4 max=63
+JP: 市町村長<n>都道府県知事<n>気象庁長官
+EN: Mayor<n>Governor<n>JMA Director-General
+
+@1CD2C max=119
+JP: 気象庁のみが行うことのできる警報は気象、津波、<n>高潮、波浪および（　　　）警報である。
+EN: Only the JMA may issue weather, tsunami, storm surge,<n>high wave and ( ) warnings.
+
+@1CDA4 max=63
+JP: 洪水<n>航空路<n>海上
+EN: Flood<n>Air route<n>Marine
+
+@1CDEC max=119
+JP: 週間天気予報で報じられる内容は毎日の天気、<n>最高気温、最低気温および（　　　）である。
+EN: Weekly forecasts give each day's weather,<n>high and low temperatures, and ( ).
+
+@1CE64 max=63
+JP: 湿度<n>降水量<n>降水確率
+EN: Humidity<n>Rainfall amount<n>Chance of rain
+
+@1CEAC max=119
+JP: ナウキャストとは（　　　）時間程度先までの<n>短期予報のことをいう。
+EN: A nowcast is a short-term forecast<n>covering roughly the next ( ) hours.
+
+@1CF24 max=63
+JP: １から３<n>２から４<n>３から５
+EN: 1 to 3<n>2 to 4<n>3 to 5
+
+@1CF6C max=119
+JP: 次の気象災害のうち雨によってもたらされるのは<n>どれか？
+EN: Which of these weather disasters<n>is caused by rain?
+
+@1CFE4 max=63
+JP: 雨氷害<n>積雪害<n>洪水害
+EN: Glaze ice damage<n>Snow damage<n>Flood damage
+
+@1D02C max=119
+JP: 地球の大気で<n>一番多く占める成分は（　　　）である。
+EN: The most abundant gas<n>in Earth's atmosphere is ( ).
+
+@1D0A4 max=63
+JP: 酸素<n>窒素<n>二酸化炭素
+EN: Oxygen<n>Nitrogen<n>Carbon dioxide
+
+@1D0EC max=119
+JP: 地球全体をおおうオゾン層がもっとも少ない地域は<n>どこか？
+EN: Where is Earth's ozone layer<n>most depleted?
+
+@1D164 max=63
+JP: 南極付近<n>北極付近<n>赤道付近
+EN: Near the South Pole<n>Near the North Pole<n>Near the equator
+
+@1D1AC max=119
+JP: 水蒸気が凝結して雲ができると、<n>大気中の温度はどのように変化するか？
+EN: When water vapor condenses to form clouds,<n>what happens to the air temperature?
+
+@1D224 max=63
+JP: 上がる<n>下がる
+EN: It rises<n>It falls
+
+@1D26C max=119
+JP: ラジオゾンデ観測によって測定されるものは<n>気圧、気温および（　　　）である。
+EN: Radiosondes measure air pressure,<n>air temperature and ( ).
+
+@1D2E4 max=63
+JP: 風向<n>風力<n>湿度
+EN: Wind direction<n>Wind force<n>Humidity
+
+@1D32C max=119
+JP: 天気図では、風向を１６方位であらわし、<n>風力を（　　　）階級であらわす。
+EN: Weather maps show wind direction using 16 compass points<n>and wind force on a ( )-level scale.
+
+@1D3A4 max=63
+JP: ４<n>８<n>１２
+EN: 4<n>8<n>12
+
+@1D3EC max=119
+JP: 一日のうち前半がくもりで、後半が晴れの場合は<n>次のうちどれにあてはまるか？
+EN: If the first half of a day is cloudy and the second half sunny,<n>which forecast describes it?
+
+@1D464 max=63
+JP: くもり時々晴れ<n>くもりのち晴れ<n>くもり一時晴れ
+EN: Cloudy, sunny spells<n>Cloudy, then sunny<n>Cloudy, brief sun
+
+@1D4AC max=119
+JP: アメダスが観測した降水量は<n>何分ごとに計測しているか？
+EN: How many minutes apart are<n>AMeDAS rainfall measurements?
+
+@1D524 max=63
+JP: １０分<n>３０分<n>６０分
+EN: 10 minutes<n>30 minutes<n>60 minutes
+
+@1D56C max=119
+JP: 消防法において、危険物は第１類から<n>第（　　　）類までの性質に分類されている。
+EN: Under Japan's Fire Service Act, hazardous materials<n>are grouped by their properties into classes 1 through ( ).
+
+@1D5E4 max=63
+JP: ５<n>６<n>１６
+EN: 5<n>6<n>16
+
+@1D62C max=119
+JP: 地中に設置されたタンクで危険物を貯蔵、<n>取り扱う施設を（　　　）という。
+EN: A facility that stores and handles hazardous materials<n>in tanks below ground is called a ( ).
+
+@1D6A4 max=63
+JP: 地下貯蔵所<n>地下タンク貯蔵室<n>地下タンク貯蔵所
+EN: Underground storage<n>Buried tank room<n>Buried tank storage
+
+@1D6EC max=119
+JP: タンクを設置するには完成検査前検査を<n>行わなければならない。
+EN: A tank installation requires an inspection<n>before the final completion inspection.
+
+@1D764 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1D7AC max=119
+JP: 危険物施設保安員の選任または解任を行う場合は、<n>市町村長などに届け出なければならない。
+EN: Notify the mayor or equivalent authority<n>when appointing or dismissing a hazardous materials safety officer.
+
+@1D824 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1D86C max=119
+JP: 危険物取扱者免状を交付するのは次のうち誰か？
+EN: Who issues hazardous materials handler licenses?
+
+@1D8E4 max=63
+JP: 町長<n>都道府県知事<n>総理大臣
+EN: Town mayor<n>Prefectural governor<n>Prime minister
+
+@1D92C max=119
+JP: 指定された危険物の取扱作業および立会いが<n>認められるのは（　　　）危険物取扱者である。
+EN: A Class ( ) hazardous materials handler may<n>handle and supervise work with specified hazardous materials.
+
+@1D9A4 max=63
+JP: 甲種<n>乙種<n>丙種
+EN: Class A<n>Class B<n>Class C
+
+@1D9EC max=119
+JP: 危険物保安監督者を必要としない施設は、<n>次のうちどれか？
+EN: Which facility does not require<n>a hazardous materials safety supervisor?
+
+@1DA64 max=63
+JP: 屋内タンク貯蔵所<n>第１種販売取扱所
+EN: Indoor tank storage<n>Type 1 sales outlet
+
+@1DAAC max=119
+JP: 第４類危険物の指定数量の倍数が３０００の場合、<n>一般取扱所は自衛消防組織を設置せねばならない。
+EN: A general handling site with 3,000 times the specified<n>quantity of Class 4 materials must have a fire brigade.
+
+@1DB24 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1DB6C max=119
+JP: 次のうち、保安距離の規制を受けない施設はどれか？
+EN: Which facility is exempt from safety distance requirements?
+
+@1DBE4 max=63
+JP: 屋内貯蔵所<n>屋内タンク貯蔵所<n>移動タンク貯蔵所
+EN: Indoor storage<n>Indoor tank storage<n>Mobile tank storage
+
+@1DC2C max=119
+JP: 過塩素酸は第１類の危険物ではない。
+EN: Perchloric acid is not a Class 1 hazardous material.
+
+@1DCA4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1DCEC max=119
+JP: 第４類の危険物を運搬容器に収納したとき、<n>表示するのは（　　　）である。
+EN: A shipping container holding Class 4 hazardous materials<n>must be labeled ( ).
+
+@1DD64 max=63
+JP: 衝撃注意<n>火気厳禁<n>禁水
+EN: Avoid impacts<n>No open flames<n>No water
+
+@1DDAC max=119
+JP: （　　　）を放射する消火器は、<n>塩素酸塩類に適応する消化設備である。
+EN: An extinguisher that sprays ( )<n>is suitable for chlorate fires.
+
+@1DE24 max=63
+JP: 二酸化炭素<n>ハロゲン化物<n>棒状の水
+EN: Carbon dioxide<n>Halogenated agents<n>Solid water stream
+
+@1DE6C max=119
+JP: 屋外貯蔵所に貯蔵できるのは、次のうちどれか？
+EN: Which material can be kept in an outdoor storage facility?
+
+@1DEE4 max=63
+JP: 重油<n>ガソリン<n>二硫化炭素
+EN: Heavy fuel oil<n>Gasoline<n>Carbon disulfide
+
+@1DF2C max=119
+JP: 第５類の危険物を貯蔵している<n>貯蔵所には「禁水」の掲示板が掲げられている。
+EN: A storage site holding Class 5 hazardous materials<n>displays a "NO WATER" sign.
+
+@1DFA4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1DFEC max=119
+JP: 次のうち、第５類危険物はどれか？
+EN: Which is a Class 5 hazardous material?
+
+@1E064 max=63
+JP: トルエン<n>ニトロベンゼン<n>過酸化ベンゾイル
+EN: Toluene<n>Nitrobenzene<n>Benzoyl peroxide
+
+@1E0AC max=119
+JP: 無機過酸化物は第５類の危険物である。
+EN: Inorganic peroxides are Class 5 hazardous materials.
+
+@1E124 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1E16C max=119
+JP: 第６類の危険物と同じ車両で<n>運搬できるのは（　　　）である。
+EN: Class 6 hazardous materials may be transported<n>in the same vehicle as ( ) hazardous materials.
+
+@1E1E4 max=63
+JP: 第１類<n>第２類<n>第３類
+EN: Class 1<n>Class 2<n>Class 3
+
+@1E22C max=119
+JP: 次のうち、主に昇華と関連するのはどれか？
+EN: Which is most closely related to sublimation?
+
+@1E2A4 max=63
+JP: 蒸気圧<n>引火点<n>沸点
+EN: Vapor pressure<n>Flash point<n>Boiling point
+
+@1E2EC max=119
+JP: 亜鉛に希硫酸を加えると水素と硫酸亜鉛ができる。<n>この現象を（　　　）という。
+EN: Adding dilute sulfuric acid to zinc produces hydrogen<n>and zinc sulfate. This reaction is called ( ).
+
+@1E364 max=63
+JP: 分解<n>置換<n>化合
+EN: Decomposition<n>Displacement<n>Combination
+
+@1E3AC max=119
+JP: 物質が水を含んだときに発生する熱量を比熱という。
+EN: Specific heat is the heat released when a substance absorbs water.
+
+@1E424 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1E46C max=119
+JP: 液体が気体に変化するときに必要とする熱を、<n>（　　　）という。
+EN: The heat needed to change a liquid into a gas<n>is called ( ).
+
+@1E4E4 max=63
+JP: 昇華熱<n>燃焼熱<n>気化熱
+EN: Sublimation heat<n>Combustion heat<n>Vaporization heat
+
+@1E52C max=119
+JP: 酸と塩基が中和して、<n>生成する熱量を中和熱という。
+EN: The heat produced when an acid and a base neutralize<n>each other is called the heat of neutralization.
+
+@1E5A4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1E5EC max=119
+JP: （　　　）とは、流体自身が移動することによって<n>起こる熱移動の現象である。
+EN: The transfer of heat caused by the movement<n>of a fluid itself is called ( ).
+
+@1E664 max=63
+JP: 伝導<n>ふく射<n>対流
+EN: Conduction<n>Radiation<n>Convection
+
+@1E6AC max=119
+JP: 蒸発とは、液体が気体になる現象のことである。
+EN: Evaporation is the process of a liquid turning into a gas.
+
+@1E724 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1E76C max=119
+JP: 固体が液体化するときの温度を融点という。
+EN: The temperature at which a solid becomes a liquid is its melting point.
+
+@1E7E4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1E82C max=119
+JP: 金属を粉末状にすると危険性が大きくなるのは、<n>空気に触れる面積が（　　　）なるからである。
+EN: Powdered metal is more dangerous because<n>its surface area exposed to air becomes ( ).
+
+@1E8A4 max=63
+JP: 小さく<n>大きく
+EN: Smaller<n>Larger
+
+@1E8EC max=119
+JP: 危険物の第２類は（　　　）である。
+EN: Class 2 hazardous materials are ( ).
+
+@1E964 max=63
+JP: 酸化性液体<n>引火性液体<n>可燃性固体
+EN: Oxidizing liquids<n>Flammable liquids<n>Combustible solids
+
+@1E9AC max=119
+JP: （　　　）は水に溶け、<n>なおかつ衝撃によって爆発する危険がある。
+EN: (    ) dissolves in water and may explode on impact.
+
+@1EA24 max=63
+JP: 硝酸カリウム<n>アルミニウム粉<n>過酸化ベンゾイル
+EN: Potassium nitrate<n>Aluminum powder<n>Benzoyl peroxide
+
+@1EA6C max=119
+JP: 塩素酸カリウムは、強い酸化剤で加熱すると<n>約（　　　）度で分解を始める。
+EN: Potassium chlorate is a strong oxidizer. When heated, it begins to decompose at about (    ) degrees C.
+
+@1EAE4 max=63
+JP: ２００<n>３００<n>４００
+EN: 200<n>300<n>400
+
+@1EB2C max=119
+JP: 水によって消火できる危険物は、次のうちどれか？
+EN: Which of these hazardous materials can be extinguished with water?
+
+@1EBA4 max=63
+JP: マグネシウム粉<n>赤りん<n>三硫化りん
+EN: Magnesium powder<n>Red phosphorus<n>Phosphorus trisulfide
+
+@1EBEC max=119
+JP: 電熱器を５分間、２ｋＷで使用した場合の<n>発熱量は何ｋＪか？
+EN: How much heat, in kJ, does an electric heater produce when run at 2 kW for 5 minutes?
+
+@1EC64 max=63
+JP: ４００ｋＪ<n>６００ｋＪ<n>８００ｋＪ
+EN: 400 kJ<n>600 kJ<n>800 kJ
+
+@1ECAC max=119
+JP: 三層３線式屋内配線に流れる電流が１．５倍になった<n>場合、配線の電気抵抗による発熱量は３倍になる。
+EN: If current in three-phase, three-wire indoor wiring rises 1.5-fold, resistive heat output triples.
+
+@1ED24 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1ED6C max=119
+JP: 正弦波交流電圧とは、交流が時間とともに規則正しく<n>変化する様子をいう。
+EN: Sinusoidal AC voltage describes alternating current that changes regularly over time.
+
+@1EDE4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1EE2C max=119
+JP: 屋内配線に使用される電線は、機械的強度、許容電流<n>に加え、（　　　）によって太さを決定する。
+EN: Indoor wire size is determined by mechanical strength, current capacity and (    ).
+
+@1EEA4 max=63
+JP: 絶縁抵抗<n>電圧降下
+EN: Insulation resistance<n>Voltage drop
+
+@1EEEC max=119
+JP: 逆転した三相誘導電動機の回転方向を変えるには、３<n>本の結線のうち２本を入れ替える。
+EN: To reverse a three-phase induction motor, swap any two of its three connecting wires.
+
+@1EF64 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1EFAC max=119
+JP: ６０Ｈｚで無負荷運転した三相誘導電動機は、同条件<n>で５０Ｈｚにした時と比べ、回転速度はどうなるか？
+EN: At no load, how does a three-phase induction motor's speed at 60 Hz compare with its speed at 50 Hz?
+
+@1F024 max=63
+JP: 増加する<n>減少する
+EN: It increases<n>It decreases
+
+@1F06C max=119
+JP: チョークコイルが蛍光灯器具に取り付けられるのはな<n>ぜか？
+EN: Why is a choke coil fitted to a fluorescent light fixture?
+
+@1F0E4 max=63
+JP: 雑音の防止<n>放電の安定<n>力率の改善
+EN: Prevent noise<n>Stabilize discharge<n>Improve power factor
+
+@1F12C max=119
+JP: 同じワット数の蛍光灯と白熱電灯を比べた場合、蛍光<n>灯のほうが寿命が長い。
+EN: A fluorescent lamp lasts longer than an incandescent lamp of the same wattage.
+
+@1F1A4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1F1EC max=119
+JP: 電動機用のヒューズは、主に（　　　）を遮断する役<n>割がある。
+EN: A motor fuse mainly cuts off (    ).
+
+@1F264 max=63
+JP: 漏れ電流<n>過負荷電流
+EN: Leakage current<n>Overload current
+
+@1F2AC max=119
+JP: 鋼製電線管の長さは、標準（　　　）ｍである。
+EN: The standard length of steel electrical conduit is (    ) m.
+
+@1F324 max=63
+JP: ２．５６<n>３．０６<n>３．６６
+EN: 2.56<n>3.06<n>3.66
+
+@1F36C max=119
+JP: 金属管の切断に使用する工具はどれか？
+EN: Which tool is used to cut metal conduit?
+
+@1F3E4 max=63
+JP: パイプベンダ<n>パイプレンチ<n>パイプカッタ
+EN: Pipe bender<n>Pipe wrench<n>Pipe cutter
+
+@1F42C max=119
+JP: 電気機械器具の中では、電熱器よりも誘導電動機のほ<n>うが力率がよい。
+EN: An induction motor has a better power factor than an electric heater.
+
+@1F4A4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1F4EC max=119
+JP: 低圧配線工事の際、臨時配線以外のビニル外装ケーブ<n>ルを直接設置してはならない場所はどこか？
+EN: Except for temporary wiring, where must low-voltage vinyl-sheathed cable never be installed directly?
+
+@1F564 max=63
+JP: モルタル壁の屋側<n>木造家屋の床下<n>コンクリート壁中
+EN: Outside mortar wall<n>Under a wooden house<n>In a concrete wall
+
+@1F5AC max=119
+JP: 低圧屋内配線工事の際、湿気の多い場所で金属ダクト<n>工事を行ってはならない。
+EN: Metal ducts must not be used for low-voltage indoor wiring in damp locations.
+
+@1F624 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1F66C max=119
+JP: 最大電圧（　　　）ｖ以下の電路を<n>小勢力回路という。
+EN: A limited-energy circuit has a maximum voltage of (    ) V.
+
+@1F6E4 max=63
+JP: ６０<n>７０<n>８０
+EN: 60<n>70<n>80
+
+@1F72C max=119
+JP: 接地抵抗を接地抵抗計で測定する場合、原則として補<n>助接地極は２箇所必要である。
+EN: Measuring earth resistance with an earth resistance tester generally requires two auxiliary earth electrodes.
+
+@1F7A4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1F7EC max=119
+JP: 電気工事士免状は、電気工事の作業現場では必ず携帯<n>していなければならない。
+EN: Electricians must always carry their electrician's license at electrical work sites.
+
+@1F864 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1F8AC max=119
+JP: 浴室など水気のある場所に使用する配線器具は、<n>レセプタクルが適している。
+EN: Lamp sockets are suitable wiring devices for wet places such as bathrooms.
+
+@1F924 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1F96C max=119
+JP: 電力量計の取り付けは、<n>電気工事士でなければできない。
+EN: Only a licensed electrician may install an electricity meter.
+
+@1F9E4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1FA2C max=119
+JP: 電気用品安全法により、<n>特定電気用品に指定されているものはどれか？
+EN: Under Japan's Electrical Appliances and Materials Safety Act, which item is in the specified category?
+
+@1FAA4 max=63
+JP: 電気時計<n>蛍光灯電線<n>ねじ込み接続器
+EN: Electric clock<n>Fluorescent lamp wire<n>Screw-in connector
+
+@1FAEC max=119
+JP: 住宅の屋内に施設する白熱電灯まで流れる電路に、<n>原則として使用できる対地電圧の最高値は何Ｖか？
+EN: For a home's indoor incandescent light circuit, what is the usual maximum voltage to ground, in V?
+
+@1FB64 max=63
+JP: １００Ｖ<n>１５０Ｖ<n>２００Ｖ
+EN: 100 V<n>150 V<n>200 V
+
+@1FBAC max=119
+JP: 最も耐熱性の優れている電線は（　　　）である。
+EN: The wire with the best heat resistance is (    ).
+
+@1FC24 max=63
+JP: ＣＶケーブル<n>ＭＩケーブル<n>ＶＶＦケーブル
+EN: CV cable<n>MI cable<n>VVF cable
+
+@1FC6C max=119
+JP: ネオン放電灯が１０００Ｖを超える管灯回路の<n>屋内配線工事で正しい方法はどれか？
+EN: For indoor wiring of a neon lamp circuit over 1,000 V,<n>which installation method is correct?
+
+@1FCE4 max=63
+JP: 金属管工事<n>ケーブル工事<n>がいし引き工事
+EN: Metal conduit<n>Cable wiring<n>Insulator wiring
+
+@1FD2C max=119
+JP: 漏電遮断器は、電気用品安全法による<n>特定電気用品に適用される。
+EN: Earth-leakage breakers are specified appliances<n>under the Electrical Appliances and Materials Safety Act.
+
+@1FDA4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1FDEC max=119
+JP: 小勢力回路の施設で、<n>絶縁変圧器を使用してはならない。
+EN: Isolation transformers must not be used<n>in low-power circuits.
+
+@1FE64 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1FEAC max=119
+JP: 自家用電気工作物の地中電線用暗きょ設置工事は、<n>第２種電気工事士の資格があってもできない。
+EN: A Class 2 electrician cannot install underground cable ducts<n>for private-use electrical systems.
+
+@1FF24 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@1FF6C max=119
+JP: 主としてキャノピスイッチが取り付けられている<n>箇所は、電灯器具のフランジ内である。
+EN: Canopy switches are mainly fitted<n>inside the flanges of light fixtures.
+
+@1FFE4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2002C max=119
+JP: 低圧屋内配線の接地側と非接地側を、通電中に<n>見分けるのにもっとも簡単なものはどれか？
+EN: What is the simplest way to tell live and neutral wires apart<n>in energized low-voltage indoor wiring?
+
+@200A4 max=63
+JP: 検相器<n>ネオン検電器<n>絶縁抵抗計
+EN: Phase tester<n>Neon voltage tester<n>Insulation tester
+
+@200EC max=119
+JP: 電気工事士免状を紛失した際、最初に交付を受けた<n>（　　　）に再交付申請書を届けなければならない。
+EN: If you lose your electrician's license, apply for a replacement<n>to the (___) who first issued it.
+
+@20164 max=63
+JP: 市町村長<n>都道府県知事<n>経済産業局長
+EN: Municipal mayor<n>Prefectural governor<n>METI bureau director
+
+@201AC max=119
+JP: 合成樹脂管工事において接着剤で管相互を接続する場<n>合、さし込み深さの最小値は管の（　　　）である。
+EN: For glued plastic conduits, the minimum insertion depth<n>is (___) of the pipe.
+
+@20224 max=63
+JP: 内径の０．８倍<n>内径の１．２倍<n>外径の０．８倍
+EN: 0.8 x inner dia.<n>1.2 x inner dia.<n>0.8 x outer dia.
+
+@2026C max=119
+JP: 色の３属性とは、色相、彩度、（　　　）である。
+EN: The three attributes of color are hue, saturation and (___).
+
+@202E4 max=63
+JP: 光度<n>濃度<n>明度
+EN: Luminous intensity<n>Density<n>Lightness
+
+@2032C max=119
+JP: 通常、冷温水配管系に膨張タンクは設置しない。
+EN: Expansion tanks are not normally installed in hot/chilled water piping systems.
+
+@203A4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@203EC max=119
+JP: ヤング係数は、単位が断面係数と同じである。
+EN: Young's modulus has the same units as the section modulus.
+
+@20464 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@204AC max=119
+JP: 固い地盤を削ってならし、支持面とする地業を、<n>（　　　）という。
+EN: Cutting and leveling firm ground to form a foundation bed<n>is called (___).
+
+@20524 max=63
+JP: 砂利地業<n>地肌地業<n>そろばん地業
+EN: Gravel bedding<n>Natural soil bedding<n>Timber raft bedding
+
+@2056C max=119
+JP: 照度の単位はどれか？
+EN: Which unit measures illuminance?
+
+@205E4 max=63
+JP: ｇａｌ<n>Ｓｔ<n>ｌｘ
+EN: gal<n>St<n>lx
+
+@2062C max=119
+JP: ファンコイルユニット方式では、<n>個別制御が容易な空気調和設備である。
+EN: Fan-coil air-conditioning systems<n>allow easy control of individual units.
+
+@206A4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@206EC max=119
+JP: 二級建築士は、延べ面積５００平方メートル以上の<n>病院を設計できない。
+EN: Class 2 architects cannot design hospitals<n>with a total floor area of 500 sq. m or more.
+
+@20764 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@207AC max=119
+JP: シルトよりも粒径が小さいのは、どれか？
+EN: Which has smaller particles than silt?
+
+@20824 max=63
+JP: 砂<n>粘土
+EN: Sand<n>Clay
+
+@2086C max=119
+JP: 部材の接合部などをあらかじめ工場で加工しておく方<n>式を、なんというか。
+EN: What is the method of machining component joints<n>in a factory before construction called?
+
+@208E4 max=63
+JP: プレハブ方式<n>プレカット方式<n>スローダウン方式
+EN: Prefabrication<n>Precutting<n>Slowdown
+
+@2092C max=119
+JP: （　　　）水圧が上昇し、<n>せん断抵抗を失う現象を液状化という。
+EN: Liquefaction occurs when (___) water pressure rises<n>and soil loses its shear resistance.
+
+@209A4 max=63
+JP: 間隙<n>地中<n>流動
+EN: Pore<n>Underground<n>Flowing
+
+@209EC max=119
+JP: セメントを保管する際は、<n>（　　　）に注意する必要がある。
+EN: When storing cement,<n>you must watch out for (___).
+
+@20A64 max=63
+JP: 腐食<n>吸湿<n>防臭
+EN: Corrosion<n>Moisture absorption<n>Odor prevention
+
+@20AAC max=119
+JP: ＬＰガスのガス漏れ探知機は、<n>床から３０センチ以内になるよう設置する。
+EN: LPG leak detectors must be installed<n>within 30 cm of the floor.
+
+@20B24 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@20B6C max=119
+JP: 照明によって色の見え方に及ぼす影響のことを、<n>光源色という。
+EN: The effect of lighting on how colors appear<n>is called light-source color.
+
+@20BE4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@20C2C max=119
+JP: 建築物の所有者、あるいは管理者は、<n>定期報告を（　　　）に行わなければならない。
+EN: Building owners or managers must submit<n>periodic reports to the (___).
+
+@20CA4 max=63
+JP: 特定行政庁<n>都道府県知事
+EN: Designated authority<n>Prefectural governor
+
+@20CEC max=119
+JP: 木材の伸縮性を考慮し、ひび割れを防ぐために木材の<n>中心まで切れ目を入れることを背割りという。
+EN: Back kerfing means cutting to a timber's center<n>to prevent cracks from shrinkage or swelling.
+
+@20D64 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@20DAC max=119
+JP: 建築工事の際、道路使用許可申請は、<n>（　　　）に届ける。
+EN: For construction work, road-use permit applications<n>must be submitted to the (___).
+
+@20E24 max=63
+JP: 道路管理者<n>都道府県知事<n>警察署長
+EN: Road administrator<n>Prefectural governor<n>Police chief
+
+@20E6C max=119
+JP: ヴァチカンのサン・ピエトロ大聖堂は、<n>バロック建築として有名である。
+EN: St. Peter's Basilica in Vatican City<n>is famous for its Baroque architecture.
+
+@20EE4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@20F2C max=119
+JP: 建築基準法では、映画館などの場合、<n>客席側からの出口は外開きの戸でなければならない。
+EN: The Building Standards Act requires exits from cinema auditoriums<n>and similar venues to have outward-opening doors.
+
+@20FA4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@20FEC max=119
+JP: 構造用合板を床の下地板として張ると、<n>床の内面剛性は高まる。
+EN: Structural plywood used as subflooring<n>increases a floor's in-plane stiffness.
+
+@21064 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@210AC max=119
+JP: 電気のスイッチボックスを、合成樹脂板を用いて<n>（　　　）に接さぬよう絶縁した。
+EN: A plastic sheet insulates an electrical switch box<n>to keep it from touching the (   ).
+
+@21124 max=63
+JP: メタルリス<n>メタルラス<n>メタルレス
+EN: Metal lith<n>Metal lath<n>Metal leth
+
+@2116C max=119
+JP: ゴシック建築のひとつに、<n>（　　　）大聖堂がある。
+EN: (   ) Cathedral is an example<n>of Gothic architecture.
+
+@211E4 max=63
+JP: 聖ペトロ<n>ベルヴェデーレ<n>ノートルダム
+EN: St. Peter's<n>Belvedere<n>Notre-Dame
+
+@2122C max=119
+JP: イタリア、フィレンツェ大聖堂は、<n>ロマネスク建築として有名である。
+EN: Florence Cathedral in Italy is famous<n>as an example of Romanesque architecture.
+
+@212A4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@212EC max=119
+JP: 構成される三角形を単位とし、節点がすべて<n>ピン接合の構造骨組みを（　　　）という。
+EN: A frame of triangular units with pin joints<n>at every node is called a (   ).
+
+@21364 max=63
+JP: トライ構造<n>トラス構造<n>トライス構造
+EN: Try frame<n>Truss frame<n>Trice frame
+
+@213AC max=119
+JP: 構造物の加重を基礎スラブから地盤まで<n>伝達させる地業を、杭地業という。
+EN: Pile foundation work transfers a structure's loads<n>from its foundation slab to the ground.
+
+@21424 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2146C max=119
+JP: 防水工事の工法はどれか？
+EN: Which method is used for waterproofing?
+
+@214E4 max=63
+JP: パイル工法<n>シールド工法<n>トーチ工法
+EN: Piling<n>Shield tunneling<n>Torch application
+
+@2152C max=119
+JP: ロサンゼルス現代美術館は、磯崎新の設計である。
+EN: Arata Isozaki designed the Museum of Contemporary Art in Los Angeles.
+
+@215A4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@215EC max=119
+JP: 色温度では、赤い色ほど数値が低く、<n>青い色ほど数値が高くなる。
+EN: In color temperature, redder colors have lower values,<n>while bluer colors have higher values.
+
+@21664 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@216AC max=119
+JP: 最高裁判所の設計者はだれか？
+EN: Who designed Japan's Supreme Court building?
+
+@21724 max=63
+JP: 大谷幸夫<n>岡田新一<n>安藤忠夫
+EN: Yukio Otani<n>Shinichi Okada<n>Tadao Ando
+
+@2176C max=119
+JP: 柱脚の接合形式は、根巻、埋込、（　　　）がある。
+EN: Column base connections can be concrete-encased, embedded, or (   ).
+
+@217E4 max=63
+JP: 通し<n>差込<n>露出
+EN: Through<n>Inserted<n>Exposed
+
+@2182C max=119
+JP: 準工事費とは、直接工事費と共通仮設費を合わせたも<n>ののことである。
+EN: Net construction cost is the sum of direct costs<n>and shared temporary works costs.
+
+@218A4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@218EC max=119
+JP: 一般的に舗装コンクリートに適しているのは<n>（　　　）ポルトランドセメントである。
+EN: (   ) Portland cement is generally suitable<n>for concrete paving.
+
+@21964 max=63
+JP: 普通<n>中庸熱<n>低熱
+EN: Ordinary<n>Moderate-heat<n>Low-heat
+
+@219AC max=119
+JP: コンクリートの温度が低くなると、凝結は遅くなる。
+EN: Concrete sets more slowly at lower temperatures.
+
+@21A24 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@21A6C max=119
+JP: コンクリート中の鉄筋の腐食がもっとも激しく影響を<n>受けるのは、次のうちどれか？
+EN: Which environment causes the worst corrosion<n>of steel reinforcement in concrete?
+
+@21AE4 max=63
+JP: 海中<n>海上大気<n>波しぶき
+EN: Underwater<n>Sea air<n>Sea spray
+
+@21B2C max=119
+JP: コンクリートの凍害を生じにくくさせるには、<n>防水加工を施すのがよい。
+EN: Waterproofing concrete helps make it<n>less susceptible to frost damage.
+
+@21BA4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@21BEC max=119
+JP: 膨張材を使用したコンクリートは、<n>ひび割れが発生しやすくなる。
+EN: Concrete containing an expansive additive<n>is more likely to crack.
+
+@21C64 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@21CAC max=119
+JP: コンクリートを高強化することは、<n>必然的にひび割れ抑制効果につながる。
+EN: Increasing concrete's strength<n>always helps prevent cracking.
+
+@21D24 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@21D6C max=119
+JP: コンクリートの練り混ぜ時間は、<n>コンクリートミキサが示す容量別により決定する。
+EN: Concrete mixing time is determined<n>by the mixer's rated capacity.
+
+@21DE4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@21E2C max=119
+JP: コンクリートの運搬中に材料分離を抑制するために<n>使用するのがトラックアジテータである。
+EN: Agitator trucks are used to limit segregation<n>of concrete during transport.
+
+@21EA4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@21EEC max=119
+JP: 鉄筋コンクリートとは、コンクリートの中に<n>鉄筋を埋め込んだものをいう。
+EN: Reinforced concrete is concrete<n>with steel reinforcing bars embedded in it.
+
+@21F64 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@21FAC max=119
+JP: 鉄筋を曲げ加工するときの<n>適切な温度は次のうちどれか？
+EN: Which temperature is appropriate<n>for bending steel reinforcing bars?
+
+@22024 max=63
+JP: 低温<n>高熱<n>常温
+EN: Cold<n>Hot<n>Room temperature
+
+@2206C max=119
+JP: 寒中コンクリートとして扱う期間は、<n>平均気温が（　　　）度以下と予想された場合である。
+EN: Cold-weather concreting rules apply when the expected<n>average temperature is (   ) degrees C or lower.
+
+@220E4 max=63
+JP: ４<n>５<n>７
+EN: 4<n>5<n>7
+
+@2212C max=119
+JP: 暑中コンクリートとして扱う期間は、<n>平均気温が（　　　）度以上と予想された場合である。
+EN: Hot-weather concreting rules apply when the expected<n>average temperature is (   ) degrees C or higher.
+
+@221A4 max=63
+JP: ２０<n>２３<n>２５
+EN: 20<n>23<n>25
+
+@221EC max=119
+JP: マスコンクリートの表面に発生する温度ひび割れの防<n>止には、強度発現の早いセメントを使用するのがよい。
+EN: High-early-strength cement helps prevent<n>surface thermal cracking in mass concrete.
+
+@22264 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@222AC max=119
+JP: コンクリートの凍害を防止するために使用するのは、<n>次のうちどれか？
+EN: Which additive is used to prevent<n>frost damage in concrete?
+
+@22324 max=63
+JP: ＡＣ剤<n>ＡＥ剤<n>ＡＦ剤
+EN: AC agent<n>AE agent<n>AF agent
+
+@2236C max=119
+JP: コンクリートの材料分離により、余剰水が浮上する<n>現象のことを（　　　）と言う。
+EN: Excess water rising to the surface due to segregation<n>in concrete is called (   ).
+
+@223E4 max=63
+JP: スランプ<n>ブリーディング<n>ポゾラン
+EN: Slump<n>Bleeding<n>Pozzolan
+
+@2242C max=119
+JP: コンクリートの劣化の原因のひとつに酸性雨がある。
+EN: Acid rain is one cause of concrete deterioration.
+
+@224A4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@224EC max=119
+JP: セメントの強さの試験では質量比がセメント１、<n>標準砂３、水２のモルタルの配合にする。
+EN: For cement strength tests, mix mortar by mass:<n>1 part cement, 3 parts standard sand and 2 parts water.
+
+@22564 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@225AC max=119
+JP: コンクリート中の鉄筋が腐食すると、鉄筋に沿って<n>コンクリートの表面にひび割れが生じる。
+EN: When rebar in concrete corrodes, cracks form<n>on the concrete's surface along the bars.
+
+@22624 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2266C max=119
+JP: 冷水、氷、液体窒素等によってコンクリートの<n>打込み温度を低減させる工法はどれか？
+EN: Which method uses chilled water, ice or liquid nitrogen<n>to lower concrete's placement temperature?
+
+@226E4 max=63
+JP: ブリーディング<n>エトリンガイト<n>プレクーリング
+EN: Bleeding<n>Ettringite<n>Precooling
+
+@2272C max=119
+JP: 鉄筋コンクリートの、鉄筋のひずみができる<n>原因のひとつにコンクリートの乾燥収縮がある。
+EN: Drying shrinkage of concrete is one cause<n>of strain in the rebar inside reinforced concrete.
+
+@227A4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@227EC max=119
+JP: 河川工事や港湾工事などに使用されるセメントは、<n>（　　　）セメントである。
+EN: Cement used in river and harbor construction<n>is (     ) cement.
+
+@22864 max=63
+JP: フライアッシュ<n>ポルトランド<n>高炉
+EN: Fly ash<n>Portland<n>Blast furnace
+
+@228AC max=119
+JP: 次のうち、コンクリートの設計基準強度が高いのは<n>どちらの方式か？
+EN: Which method requires concrete<n>with a higher specified design strength?
+
+@22924 max=63
+JP: ポストテンション<n>プレテンション
+EN: Post-tensioning<n>Pre-tensioning
+
+@2296C max=119
+JP: コンクリートの練り混ぜに使用する水のうち、<n>特に品質試験を必要としないものはどれか？
+EN: Which type of water used to mix concrete<n>requires no special quality testing?
+
+@229E4 max=63
+JP: スラッジ水<n>地下水<n>上水道水
+EN: Sludge water<n>Groundwater<n>Tap water
+
+@22A2C max=119
+JP: レディーミクストコンクリートの発注で、生産者と<n>購入者が協議の上でも指定できないものはどれか？
+EN: When ordering ready-mixed concrete, which cannot be<n>specified even by agreement with the producer?
+
+@22AA4 max=63
+JP: 骨材の種類<n>混和材料の使用量<n>単位水量の下限値
+EN: Aggregate type<n>Admixture amount<n>Min. water content
+
+@22AEC max=119
+JP: コンクリートの中性化とは、コンクリート中の水酸化<n>カルシウムが何に変化することか？
+EN: Concrete carbonation occurs when calcium hydroxide<n>in the concrete turns into what?
+
+@22B64 max=63
+JP: 水酸化アルカリ<n>炭酸カルシウム<n>塩化ナトリウム
+EN: Alkali hydroxide<n>Calcium carbonate<n>Sodium chloride
+
+@22BAC max=119
+JP: エフロレッセンスとは、コンクリートやモルタル等の<n>表面に生じる斑点のことで、別名（　　　）ともいう。
+EN: Efflorescence forms patches on concrete or mortar<n>surfaces. It is also called (     ).
+
+@22C24 max=63
+JP: 黒華<n>白華<n>緑華
+EN: Black bloom<n>White bloom<n>Green bloom
+
+@22C6C max=119
+JP: コンクリートの凝結の開始は、（　　　）が大きい<n>ほど遅くなる。
+EN: Concrete takes longer to begin setting<n>as its (     ) increases.
+
+@22CE4 max=63
+JP: レイタンス<n>プロクター貫入<n>水セメント比
+EN: Laitance<n>Proctor penetration<n>Water-cement ratio
+
+@22D2C max=119
+JP: 舗装コンクリートの目地には、<n>縦目地と横目地がある。
+EN: Concrete pavement has two types of joints:<n>longitudinal and transverse.
+
+@22DA4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@22DEC max=119
+JP: コンクリートの力学的性質で、圧縮強度が大きいほど<n>静弾性係数は大きくなる。
+EN: The higher concrete's compressive strength,<n>the greater its static modulus of elasticity.
+
+@22E64 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@22EAC max=119
+JP: 鉄筋やＰＣ剛材の代わりとして使用される連続繊維補<n>強材の特徴として、当てはまらないものはどれか？
+EN: Which is NOT a feature of continuous fiber reinforcement<n>used in place of rebar or prestressing steel?
+
+@22F24 max=63
+JP: 耐火性が高い<n>耐食性が高い<n>非磁性
+EN: Fire resistant<n>Corrosion resistant<n>Nonmagnetic
+
+@22F6C max=119
+JP: 自由権は、近代市民国家より以前から成立していた。
+EN: Civil liberties were established before the rise of modern liberal states.
+
+@22FE4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2302C max=119
+JP: アメリカ合衆国では、議会が可決した法案を<n>大統領は拒否する権限を持っていない。
+EN: In the United States, the president has no power<n>to veto bills passed by Congress.
+
+@230A4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@230EC max=119
+JP: １９８８年のアジア金融危機の発端となったのは、<n>通貨（　　　）の大暴落であった。
+EN: The 1988 Asian financial crisis began<n>with a crash in the value of the (     ).
+
+@23164 max=63
+JP: バーツ<n>ルピー<n>円
+EN: Baht<n>Rupee<n>Yen
+
+@231AC max=119
+JP: 所得税、法人税などは間接税である。
+EN: Income tax and corporate tax are indirect taxes.
+
+@23224 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2326C max=119
+JP: 人間はポリス的動物であると、<n>唱えた思想家はだれか？
+EN: Which philosopher declared<n>that humans are political animals?
+
+@232E4 max=63
+JP: ソクラテス<n>プラトン<n>アリストテレス
+EN: Socrates<n>Plato<n>Aristotle
+
+@2332C max=119
+JP: 「我思うゆえに我あり」という原理に到達する<n>探求を行ったのはデカルトである。
+EN: Descartes pursued the inquiry that led him<n>to the principle "I think, therefore I am."
+
+@233A4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@233EC max=119
+JP: 都心から人口が減少し、郊外の人口が増えていく<n>現象を（　　　）という。
+EN: The phenomenon of city centers losing people<n>as suburbs gain them is called the (     ) effect.
+
+@23464 max=63
+JP: スプレッド現象<n>ドーナツ現象
+EN: Spread<n>Doughnut
+
+@234AC max=119
+JP: 明治時代、モース博士が調査したのはどれか？
+EN: Which site did Dr. Morse investigate during the Meiji era?
+
+@23524 max=63
+JP: 三内丸山遺跡<n>登呂遺跡<n>大森貝塚
+EN: Sannai-Maruyama Site<n>Toro Site<n>Omori Shell Mounds
+
+@2356C max=119
+JP: 小野妹子は、６０７年聖徳太子の命を受け、<n>（　　　）として中国に渡った。
+EN: In 607, Prince Shotoku sent Ono no Imoko to China<n>as an envoy to the (     ).
+
+@235E4 max=63
+JP: 遣隋使<n>遣唐使
+EN: Sui dynasty<n>Tang dynasty
+
+@2362C max=119
+JP: 日本で初めて、政党による政治体制を<n>つくったのはだれか？
+EN: Who was the first to establish<n>a party-based government in Japan?
+
+@236A4 max=63
+JP: 伊藤博文<n>原敬<n>犬養毅
+EN: Hirobumi Ito<n>Takashi Hara<n>Tsuyoshi Inukai
+
+@236EC max=119
+JP: フランス革命の中で、山岳派による恐怖政治を<n>指導した人物は（　　　）である。
+EN: During the French Revolution, ( ) led<n>the Montagnards' Reign of Terror.
+
+@23764 max=63
+JP: ルソー<n>ナポレオン<n>ロベスピエール
+EN: Rousseau<n>Napoleon<n>Robespierre
+
+@237AC max=119
+JP: カシミール問題で対立しているのはインドと<n>（　　　）である。
+EN: The Kashmir dispute is between India<n>and ( ).
+
+@23824 max=63
+JP: イラク<n>中国<n>パキスタン
+EN: Iraq<n>China<n>Pakistan
+
+@2386C max=119
+JP: 地球上で地表の占める割合は、<n>およそ（　　　）％である。
+EN: Land accounts for about ( )%<n>of Earth's surface.
+
+@238E4 max=63
+JP: １６<n>２９<n>３７
+EN: 16<n>29<n>37
+
+@2392C max=119
+JP: （　　　）とは、同じ気温や湿度が広範囲に渡って<n>大気に停滞して発生する。
+EN: A(n) ( ) forms when air with similar temperature and humidity<n>stays over a large area.
+
+@239A4 max=63
+JP: 気団<n>気圧配置<n>前線
+EN: Air mass<n>Pressure pattern<n>Front
+
+@239EC max=119
+JP: ユーラシア大陸や北アメリカ大陸の北部の<n>針葉樹林帯をなんと呼ぶか？
+EN: What is the coniferous forest belt in northern<n>Eurasia and North America called?
+
+@23A64 max=63
+JP: コウガ<n>ロウガ<n>タイガ
+EN: Koga<n>Roga<n>Taiga
+
+@23AAC max=119
+JP: ドライファーミングとは、灌漑用水を用いて<n>作物を栽培する方法である。
+EN: Dry farming is a method of growing crops<n>using irrigation water.
+
+@23B24 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@23B6C max=119
+JP: 混合農業とは、家畜の飼育と農耕を組み合わせた<n>農業の形式である。
+EN: Mixed farming combines raising livestock<n>with growing crops.
+
+@23BE4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@23C2C max=119
+JP: 音は気温が（　　　）ほど速く伝わる。
+EN: Sound travels faster when the air temperature is ( ).
+
+@23CA4 max=63
+JP: 低い<n>高い
+EN: Lower<n>Higher
+
+@23CEC max=119
+JP: 電気抵抗は導線の長さに比例し、断面積に反比例する。
+EN: Electrical resistance is proportional to wire length and inversely proportional to its cross-sectional area.
+
+@23D64 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@23DAC max=119
+JP: 原子番号は陽子の数と等しい。
+EN: An atom's atomic number equals its number of protons.
+
+@23E24 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@23E6C max=119
+JP: ドライアイスは分子が分子間力によって<n>規則正しく配列された結晶である。
+EN: Dry ice is a crystal whose molecules are held in a regular<n>pattern by intermolecular forces.
+
+@23EE4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@23F2C max=119
+JP: ＲＮＡは（　　　）らせん構造である。
+EN: RNA has a ( ) helix structure.
+
+@23FA4 max=63
+JP: 一重<n>二重<n>三重
+EN: Single<n>Double<n>Triple
+
+@23FEC max=119
+JP: 熱いものに触ったとき、<n>思わず手を引っ込める反応を何というか？
+EN: What is the reaction called when you touch something hot<n>and pull your hand away without thinking?
+
+@24064 max=63
+JP: 本能<n>思考<n>反射
+EN: Instinct<n>Thought<n>Reflex
+
+@240AC max=119
+JP: ワクチンを接種すると免疫記憶ができるので<n>同じ病原体に対して予防効果がある。
+EN: Vaccination creates immune memory,<n>helping protect against the same pathogen.
+
+@24124 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2416C max=119
+JP: 大気の気温は高度とともに上昇していく。
+EN: Air temperature rises as altitude increases.
+
+@241E4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2422C max=119
+JP: 中生代の示準化石に（　　　）が挙げられる。
+EN: An example of a Mesozoic index fossil is the ( ).
+
+@242A4 max=63
+JP: サンヨウチュウ<n>マンモス<n>アンモナイト
+EN: Trilobite<n>Mammoth<n>Ammonite
+
+@242EC max=119
+JP: 温暖前線が通過すると気温は下がる。
+EN: The temperature drops after a warm front passes.
+
+@24364 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@243AC max=119
+JP: 地球から見える月の表面はいつも同じである。
+EN: The same side of the Moon always faces Earth.
+
+@24424 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2446C max=119
+JP: 「弘法も筆の誤り」と同じ意味の諺はどれか？
+EN: Which proverb also means "Even a master makes mistakes"?
+
+@244E4 max=63
+JP: 漁夫の利<n>馬の耳に念仏<n>河童の川流れ
+EN: A bystander's gain<n>Words on deaf ears<n>Even swimmers drown
+
+@2452C max=119
+JP: 「卯月」は、陰暦で３月のことである。
+EN: "Uzuki" is the third month of Japan's lunar calendar.
+
+@245A4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@245EC max=119
+JP: 爆発反応が音速よりも早く伝わる、<n>現象を（　　　）という。
+EN: An explosive reaction that travels faster than sound<n>is called ( ).
+
+@24664 max=63
+JP: 爆発<n>爆ごう<n>爆燃
+EN: Explosion<n>Detonation<n>Deflagration
+
+@246AC max=119
+JP: 硝酸エステルのなかで、（　　　）は、<n>自然分解を起こしにくい性質をもつ。
+EN: Among nitrate esters, ( ) is particularly resistant<n>to spontaneous decomposition.
+
+@24724 max=63
+JP: ニトロセルロース<n>ダイナマイト<n>ペンスリット
+EN: Nitrocellulose<n>Dynamite<n>PETN
+
+@2476C max=119
+JP: 爆薬の酸素バランスがマイナスになるにつれ、<n>一酸化炭素の発生量も増えていく。
+EN: As an explosive's oxygen balance becomes more negative,<n>it produces more carbon monoxide.
+
+@247E4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2482C max=119
+JP: 摩擦、衝撃に鋭敏で、着火しやすいのはどちらか？
+EN: Which is sensitive to friction and impact, and ignites easily?
+
+@248A4 max=63
+JP: 無煙火薬<n>黒色火薬
+EN: Smokeless powder<n>Black powder
+
+@248EC max=119
+JP: 黒色火薬の成分は木炭、硫黄と、（　　　）である。
+EN: Black powder consists of charcoal, sulfur and ( ).
+
+@24964 max=63
+JP: ニトロセルロース<n>アルミニウム<n>硝酸カリウム
+EN: Nitrocellulose<n>Aluminum<n>Potassium nitrate
+
+@249AC max=119
+JP: ニトロセルロースは、水やアルコールを（　　　）<n>パーセント以上含ませると衝撃に強くなる。
+EN: Nitrocellulose becomes more resistant to impact<n>when its water or alcohol content is at least ( ) percent.
+
+@24A24 max=63
+JP: ２３<n>２７<n>３２
+EN: 23<n>27<n>32
+
+@24A6C max=119
+JP: 乾燥させたニトロセルロースは、<n>液状よりも危険性が増す。
+EN: Dried nitrocellulose is more dangerous<n>than nitrocellulose in liquid form.
+
+@24AE4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@24B2C max=119
+JP: 吸湿した導火線が、乾燥すると、<n>元の導火線よりも（　　　）なる。
+EN: When a damp fuse dries out, it will burn (   )<n>compared with its original state.
+
+@24BA4 max=63
+JP: 燃焼が速く<n>燃焼が遅く<n>燃焼しなく
+EN: Faster<n>Slower<n>Not at all
+
+@24BEC max=119
+JP: 段発発破の第一段に用いるのは、<n>次のうちどれか？
+EN: Which of these is used for the first stage<n>of delay blasting?
+
+@24C64 max=63
+JP: ＤＳ電気雷管<n>工業雷管<n>瞬発電気雷管
+EN: DS electric cap<n>Plain blasting cap<n>Instant electric cap
+
+@24CAC max=119
+JP: １８才未満の者は火薬を取り扱うことはできない。
+EN: People under 18 may not handle gunpowder.
+
+@24D24 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@24D6C max=119
+JP: 薬包径が大きくなると殉爆度はどうなるか？
+EN: How does a larger cartridge diameter affect the capacity for sympathetic detonation?
+
+@24DE4 max=63
+JP: 小さくなる<n>大きくなる<n>変わらない
+EN: It decreases<n>It increases<n>It stays the same
+
+@24E2C max=119
+JP: 最小抵抗線とは、<n>装薬の中心から自由面までの最短距離のことをいう。
+EN: The line of least resistance is the shortest distance<n>from a charge's center to a free face.
+
+@24EA4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@24EEC max=119
+JP: 岩石の抗力係数は、<n>対象となる岩石が軟らかくなるにつれどうなるか？
+EN: What happens to a rock's resistance coefficient<n>as the rock gets softer?
+
+@24F64 max=63
+JP: 小さくなる<n>大きくなる<n>変わらない
+EN: It decreases<n>It increases<n>It stays the same
+
+@24FAC max=119
+JP: 電気発破による<n>もっとも一般的な結線方法は（　　　）である。
+EN: The most common wiring method for electric blasting<n>is a (   ) connection.
+
+@25024 max=63
+JP: 並列結線<n>直列結線<n>直並列結線
+EN: Parallel<n>Series<n>Series-parallel
+
+@2506C max=119
+JP: 爆ごう生成ガスの流速は<n>およそ爆速の約（　　　）といわれている。
+EN: Gas produced by detonation flows at roughly<n>(   ) of the detonation velocity.
+
+@250E4 max=63
+JP: ４分の１<n>５分の１<n>６分の１
+EN: One quarter<n>One fifth<n>One sixth
+
+@2512C max=119
+JP: 黒色火薬の主な成分は硝酸塩である。
+EN: Nitrates are the main component of black powder.
+
+@251A4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@251EC max=119
+JP: 電気雷管は次のどれに属するか？
+EN: Which category do electric detonators belong to?
+
+@25264 max=63
+JP: 火薬<n>火工品<n>爆薬
+EN: Gunpowder<n>Pyrotechnic articles<n>High explosives
+
+@252AC max=119
+JP: 火薬類の販売業は、<n>販売所ごとに都道府県知事の許可が必要である。
+EN: Selling explosives requires the prefectural governor's<n>permission for each sales location.
+
+@25324 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2536C max=119
+JP: 火薬類の運搬には、<n>都道府県知事の許可が必要である。
+EN: Transporting explosives requires<n>the prefectural governor's permission.
+
+@253E4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2542C max=119
+JP: 販売業者が火薬類を安全な場所に貯蔵する場合、<n>爆薬は（　　　）まで貯蔵できる。
+EN: When a dealer stores explosives in a safe place,<n>up to (   ) of high explosives may be stored.
+
+@254A4 max=63
+JP: ５ｋｇ<n>１５ｋｇ<n>５０ｋｇ
+EN: 5 kg<n>15 kg<n>50 kg
+
+@254EC max=119
+JP: １級火薬庫の場合、<n>火薬は（　　　）まで貯蔵できる。
+EN: A Class 1 explosives magazine can store<n>up to (   ) of gunpowder.
+
+@25564 max=63
+JP: ８ｔ<n>８０ｔ<n>８００ｔ
+EN: 8 t<n>80 t<n>800 t
+
+@255AC max=119
+JP: 標識をつけずに無届けで、運搬できる火薬の量は<n>３０キログラム以下である。
+EN: Up to 30 kg of gunpowder may be transported<n>without warning signs or prior notification.
+
+@25624 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2566C max=119
+JP: 火薬類の運搬終了後は、到達地の市町村に<n>運搬証明書を提出しなければならない。
+EN: After transporting explosives, the transport certificate<n>must be submitted to the destination's municipality.
+
+@256E4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2572C max=119
+JP: 火薬類の容器を作るのに適した材料は、<n>次のうちどれか？
+EN: Which of these materials is suitable<n>for making explosives containers?
+
+@257A4 max=63
+JP: アルミ<n>鉄<n>木
+EN: Aluminum<n>Iron<n>Wood
+
+@257EC max=119
+JP: 一日の消費量が爆薬２５ｋｇ以下と見込まれる場合は<n>火薬類取扱所を設けなくてよい。
+EN: No explosives handling station is needed if daily use<n>is expected to be 25 kg of high explosives or less.
+
+@25864 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@258AC max=119
+JP: 火薬類取扱所に入れる作業者の人数に定員はない。
+EN: There is no limit to the number of workers allowed in an explosives handling station.
+
+@25924 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2596C max=119
+JP: 火薬類を爆発処理、または燃焼処理する場合、<n>（　　　）を掲げる必要がある。
+EN: When disposing of explosives by detonation or burning,<n>a (   ) must be displayed.
+
+@259E4 max=63
+JP: 白旗<n>赤旗<n>黄旗
+EN: White flag<n>Red flag<n>Yellow flag
+
+@25A2C max=119
+JP: 導火線の廃棄方法として、正しいのはどれか？
+EN: Which is the correct way to dispose of a fuse?
+
+@25AA4 max=63
+JP: 地中に埋める<n>燃やす
+EN: Bury it<n>Burn it
+
+@25AEC max=119
+JP: 火薬庫の定期自主検査は、<n>年（　　　）回以上行わなければならない。
+EN: An explosives magazine must undergo routine self-inspection<n>at least (   ) times a year.
+
+@25B64 max=63
+JP: ２<n>３<n>１２
+EN: 2<n>3<n>12
+
+@25BAC max=119
+JP: 火薬類取扱保安責任者を選任、または解任したとき、<n>都道府県知事にその旨を届け出る必要がある。
+EN: Appointing or dismissing an explosives handling safety officer<n>must be reported to the prefectural governor.
+
+@25C24 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@25C6C max=119
+JP: 第二種福祉事業に属する社会福祉施設は<n>次のうちどれか？
+EN: Which of these facilities falls under<n>Type 2 social welfare services?
+
+@25CE4 max=63
+JP: 乳児院<n>養護老人ホーム<n>保育所
+EN: Infant care home<n>Elderly care home<n>Day nursery
+
+@25D2C max=119
+JP: 児童福祉法では、小学校就学から<n>満１８歳に達するまでの者を少年としている。
+EN: Under the Child Welfare Act, a juvenile is a person<n>from elementary school entry until their 18th birthday.
+
+@25DA4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@25DEC max=119
+JP: 智歯を除く永久歯２８本は（　　　）ごろまでに<n>生えそろう。
+EN: All 28 permanent teeth, excluding wisdom teeth, have emerged by about age (    ).
+
+@25E64 max=63
+JP: １２から１４歳<n>１５から１７歳<n>１９から２１歳
+EN: 12 to 14<n>15 to 17<n>19 to 21
+
+@25EAC max=119
+JP: 幼児の呼吸数は、標準値として１分間に<n>（　　　）回である。
+EN: A young child's normal breathing rate is (    ) breaths per minute.
+
+@25F24 max=63
+JP: １０～２０<n>２０～３０<n>４０～５０
+EN: 10-20<n>20-30<n>40-50
+
+@25F6C max=119
+JP: 三大栄養素とは、<n>糖質、たんぱく質、（　　　）である。
+EN: The three main nutrients are carbohydrates, protein and (    ).
+
+@25FE4 max=63
+JP: ミネラル<n>ビタミン<n>脂質
+EN: Minerals<n>Vitamins<n>Fats
+
+@2602C max=119
+JP: 児童相談所には、一時的に児童を<n>保護することのできる施設が必要である。
+EN: Child guidance centers must have facilities where children can be taken into temporary protective care.
+
+@260A4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@260EC max=119
+JP: 新生児性出血症は、<n>ビタミンＫが欠乏しておこる症状である。
+EN: Hemorrhagic disease of the newborn is caused by a vitamin K deficiency.
+
+@26164 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@261AC max=119
+JP: 乳幼児期に結核に感染すると、<n>比較的軽い症状ですむ場合が多い。
+EN: Tuberculosis infections in infants and young children often cause relatively mild symptoms.
+
+@26224 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2626C max=119
+JP: 教育思想を著した、<n>「人間の教育」を書いたのはだれか？
+EN: Who wrote "The Education of Man," a book outlining his educational philosophy?
+
+@262E4 max=63
+JP: デューイ<n>エリクソン<n>フレーベル
+EN: Dewey<n>Erikson<n>Froebel
+
+@2632C max=119
+JP: 過去の自分と比べて進歩の状況を評価することを<n>なんというか？
+EN: What is it called when progress is assessed by comparing your current and past performance?
+
+@263A4 max=63
+JP: 相対評価<n>個人内評価<n>絶対評価
+EN: Norm-referenced<n>Self-referenced<n>Criterion-referenced
+
+@263EC max=119
+JP: 「児童は人として尊ばれる」。<n>この一文があるのはどれか？
+EN: Which document states, "Children shall be respected as human beings"?
+
+@26464 max=63
+JP: 日本国憲法<n>児童福祉法<n>児童憲章
+EN: Japan's Constitution<n>Child Welfare Act<n>Children's Charter
+
+@264AC max=119
+JP: 足裏を刺激すると、足の指が反り返ったり、<n>指が開く反射を（　　　）という。
+EN: The (    ) reflex makes the toes bend upward or fan out when the sole of the foot is stimulated.
+
+@26524 max=63
+JP: ダーウィン反射<n>モロー反射<n>バビンスキー反射
+EN: Darwin reflex<n>Moro reflex<n>Babinski reflex
+
+@2656C max=119
+JP: 乳幼児は胸式呼吸よりも腹式呼吸が主である。
+EN: Infants and young children breathe mainly with their abdomen rather than their chest.
+
+@265E4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2662C max=119
+JP: 離乳食には、砂糖よりも<n>ハチミツを使用するのが好ましい。
+EN: Honey is preferable to sugar when preparing weaning foods.
+
+@266A4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@266EC max=119
+JP: 次のうち、「イソップ物語」はどれか？
+EN: Which of these is one of Aesop's fables?
+
+@26764 max=63
+JP: おやゆびひめ<n>しらゆきひめ<n>北風と太陽
+EN: Thumbelina<n>Snow White<n>North Wind and Sun
+
+@267AC max=119
+JP: 次のうち、「アンデルセン物語」はどれか？
+EN: Which of these is a fairy tale by Hans Christian Andersen?
+
+@26824 max=63
+JP: うさぎとかめ<n>にんぎょひめ<n>赤ずきん
+EN: The Hare and Tortoise<n>The Little Mermaid<n>Red Riding Hood
+
+@2686C max=119
+JP: 日常生活に必要な挨拶ができるようになるのは、<n>およそ（　　　）である。
+EN: Children become able to use everyday greetings at around age (    ).
+
+@268E4 max=63
+JP: ２歳<n>４歳<n>６歳
+EN: 2<n>4<n>6
+
+@2692C max=119
+JP: 次のうち、フィンガーペインティングに<n>関係のないものはどれか？
+EN: Which of these is NOT used for finger painting?
+
+@269A4 max=63
+JP: 絵の具<n>大きな紙<n>色えんぴつ
+EN: Paint<n>Large sheets of paper<n>Colored pencils
+
+@269EC max=119
+JP: 児童自立支援施設の職員は、生活支援員である。
+EN: Staff at juvenile self-reliance support facilities are daily living support workers.
+
+@26A64 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@26AAC max=119
+JP: 少年法によれば触法少年とは、１８歳未満で<n>刑罰法令に触れる行為を行った少年をいう。
+EN: Under Japan's Juvenile Act, "law-breaking juveniles" are under 18 and have committed acts punishable by law.
+
+@26B24 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@26B6C max=119
+JP: ダウン症とは染色体の異常が<n>原因で起こる障害である。
+EN: Down syndrome is a condition caused by a chromosomal abnormality.
+
+@26BE4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@26C2C max=119
+JP: 新生児訪問指導は都道府県が主体で行う。
+EN: Home visits to advise on newborn care are primarily run by prefectural governments.
+
+@26CA4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@26CEC max=119
+JP: （　　　）は、１日に摂取するエネルギーの<n>約６０％を占める。
+EN: (    ) account for about 60 percent<n>of daily energy intake.
+
+@26D64 max=63
+JP: 食物繊維<n>脂質<n>糖質
+EN: Dietary fiber<n>Fats<n>Carbohydrates
+
+@26DAC max=119
+JP: 離乳食で生後５カ月から米を与える場合、<n>次のうちどれか適当か？
+EN: Which is suitable when introducing rice as a weaning food to a five-month-old baby?
+
+@26E24 max=63
+JP: つぶしがゆ<n>２割がゆ<n>５割がゆ
+EN: Mashed rice porridge<n>20% rice porridge<n>50% rice porridge
+
+@26E6C max=119
+JP: 一組の夫婦と未婚の子からなる家族を（　　　）と<n>いう。
+EN: A family consisting of a married couple and their unmarried children is called a (    ).
+
+@26EE4 max=63
+JP: 小家族<n>拡大家族<n>核家族
+EN: Small family<n>Extended family<n>Nuclear family
+
+@26F2C max=119
+JP: 離乳食で卵を与える場合、アレルギーの少ない<n>（　　　）だけを使うようにする。
+EN: When adding eggs to a baby's diet, use only the (    ), which is less likely to cause allergies.
+
+@26FA4 max=63
+JP: 卵黄<n>卵白
+EN: Yolk<n>White
+
+@26FEC max=119
+JP: 乳幼児期の子どもの精神発達は脳神経系の（　　　）<n>と、周囲の相互作用を通じて促進される。
+EN: Mental development in young children is aided by nervous system (    ) and interaction with their surroundings.
+
+@27064 max=63
+JP: 分化<n>肥大化<n>成熟
+EN: Differentiation<n>Hypertrophy<n>Maturation
+
+@270AC max=119
+JP: ＭＲＳＡは<n>メチシリン耐性黄色ブドウ球菌のことである。
+EN: MRSA stands for<n>methicillin-resistant Staphylococcus aureus.
+
+@27124 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2716C max=119
+JP: ビタミンＡが欠乏すると、どのような症状が出るのか<n>選びなさい。
+EN: Which symptom is caused by a vitamin A deficiency?<n>Choose the correct answer.
+
+@271E4 max=63
+JP: くる病<n>口角炎<n>夜盲症
+EN: Rickets<n>Angular cheilitis<n>Night blindness
+
+@2722C max=119
+JP: 教科書無償給付の制度対象は、<n>小学校だけである。
+EN: The free textbook program<n>covers only elementary schools.
+
+@272A4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@272EC max=119
+JP: 労災保険の保険料は、<n>事業主と労働者の両方で負担する。
+EN: Workers' compensation insurance premiums<n>are paid by both employers and workers.
+
+@27364 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@273AC max=119
+JP: 国民健康保険の自己負担率は３割である。
+EN: The patient copayment under National Health Insurance is 30%.
+
+@27424 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2746C max=119
+JP: 贈与税の配偶者控除を受ける場合には、<n>（　　　）年以上の婚姻期間が条件である。
+EN: The gift tax spousal deduction requires<n>at least ( ) years of marriage.
+
+@274E4 max=63
+JP: ２０<n>２５<n>３０
+EN: 20<n>25<n>30
+
+@2752C max=119
+JP: 現在のような低金利時代では、<n>ローンの返済は（　　　）による方法がよい。
+EN: In today's low-interest climate,<n>( ) is the better choice for repaying a loan.
+
+@275A4 max=63
+JP: 固定金利<n>変動金利
+EN: Fixed interest<n>Variable interest
+
+@275EC max=119
+JP: 年金法で「子」とは、原則として未婚であり<n>（　　　）歳に達した日以後の３月３１日までをいう。
+EN: Under pension law, a child is generally unmarried<n>and covered through the first March 31 on or after turning ( ).
+
+@27664 max=63
+JP: １８<n>２０<n>２２
+EN: 18<n>20<n>22
+
+@276AC max=119
+JP: 保険業法は、<n>消費者の保護を目的として定められている。
+EN: The Insurance Business Act<n>was established to protect consumers.
+
+@27724 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2776C max=119
+JP: 生命保険料の控除は、その年の４月１日から翌年の<n>３月３１日までに支払った保険料が対象となる。
+EN: Life insurance premium deductions apply to premiums<n>paid from April 1 through March 31 of the next year.
+
+@277E4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2782C max=119
+JP: 病気などで仕事ができなくなったときのために、<n>加入しておくとよいのは（　　　）である。
+EN: To cover periods when illness or other issues prevent work,<n>it is wise to take out ( ).
+
+@278A4 max=63
+JP: 普通障害保険<n>人身傷害補償保険<n>所得補償保険
+EN: Accident insurance<n>Auto injury cover<n>Income protection
+
+@278EC max=119
+JP: 自賠責保険では自動車事故で死亡した場合、被害者<n>１名あたり最高（　　　）万円の賠償金が支払われる。
+EN: Compulsory auto insurance pays up to ( ) x 10,000 yen<n>per victim killed in a car accident.
+
+@27964 max=63
+JP: ３０００<n>５０００<n>８０００
+EN: 3000<n>5000<n>8000
+
+@279AC max=119
+JP: 被保険者に支払われる搭乗者傷害保険の保険料は<n>課税される。
+EN: Occupant accident insurance payments made<n>to the insured are taxable.
+
+@27A24 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@27A6C max=119
+JP: 預金保護制度では、元本（　　　）までと<n>その利息等を保護される。
+EN: The deposit protection system covers up to ( ) in principal<n>plus the interest on it.
+
+@27AE4 max=63
+JP: ５００万円<n>１０００万円<n>２０００万円
+EN: 5 million yen<n>10 million yen<n>20 million yen
+
+@27B2C max=119
+JP: 株価と１株あたり純資産との関係をみた投資尺度を、<n>（　　　）という。
+EN: The investment measure comparing share price<n>with net assets per share is called ( ).
+
+@27BA4 max=63
+JP: ＰＥＲ<n>ＰＢＲ
+EN: PER<n>PBR
+
+@27BEC max=119
+JP: 株式を一切組み入れない投資信託では、<n>公社債投資信託に分類される。
+EN: An investment trust that holds no stocks<n>is classified as a bond investment trust.
+
+@27C64 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@27CAC max=119
+JP: 日銀から発表される景気動向指数とは、<n>景気の動向をつかむための代表的な指標である。
+EN: The economic trend index published by the Bank of Japan<n>is a key indicator of business conditions.
+
+@27D24 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@27D6C max=119
+JP: 銀行が顧客に外貨を売るレートを（　　　）という。
+EN: The rate at which banks sell foreign currency to customers is called ( ).
+
+@27DE4 max=63
+JP: ＴＴＢ<n>ＴＴＣ<n>ＴＴＳ
+EN: TTB<n>TTC<n>TTS
+
+@27E2C max=119
+JP: 所得税は、<n>国内に住所を持っている者にのみ課税される。
+EN: Income tax is imposed only on people<n>with an address in Japan.
+
+@27EA4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@27EEC max=119
+JP: 配当控除を受けるには、<n>確定申告をしなければならない。
+EN: To claim the dividend tax credit,<n>you must file a tax return.
+
+@27F64 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@27FAC max=119
+JP: 納税者本人の合計所得金額が１０００万円以下の場合、<n>配偶者控除の適用を受けられる。
+EN: Taxpayers whose total income is 10 million yen or less<n>can claim the spousal deduction.
+
+@28024 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2806C max=119
+JP: 給与所得者は、医療費控除は<n>年末調整で受けることができる。
+EN: Salaried workers can claim medical expense deductions<n>through their year-end tax adjustment.
+
+@280E4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2812C max=119
+JP: 不動産登記簿の閲覧は、<n>その不動産の権利関係者しかできない。
+EN: Only people with rights to a property<n>may inspect its real estate register.
+
+@281A4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@281EC max=119
+JP: 無条件で全ての納税者に適用される<n>基礎控除額は（　　　）である。
+EN: The basic deduction granted unconditionally<n>to every taxpayer is ( ).
+
+@28264 max=63
+JP: １２万円<n>３８万円<n>６４万円
+EN: 120,000 yen<n>380,000 yen<n>640,000 yen
+
+@282AC max=119
+JP: 都市計画税は、市街化区域内にある全ての土地、<n>建物に課税される。
+EN: City planning tax applies to all land<n>and buildings within urbanization promotion areas.
+
+@28324 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2836C max=119
+JP: 容積率とは、敷地面積に対する建築物の延べ面積の<n>割合のことをいう。
+EN: The floor area ratio is a building's total floor area<n>divided by the area of its lot.
+
+@283E4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2842C max=119
+JP: 不動産業者と媒介契約形態の中で、自己発見取引が<n>禁止されているのは一般媒介契約である。
+EN: A general real estate brokerage agreement<n>prohibits sellers from finding buyers themselves.
+
+@284A4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@284EC max=119
+JP: 離婚による財産分与で受けた財産は、<n>原則として非課税である。
+EN: Property received through a divorce settlement<n>is generally tax-exempt.
+
+@28564 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@285AC max=119
+JP: 遺言者は遺言を、何度でも自由に変更したり<n>撤回することができる。
+EN: A person may freely change or revoke their will<n>as many times as they wish.
+
+@28624 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2866C max=119
+JP: 相続税を金銭で一度に納付することが不可能な場合は<n>分割で納付することもできる。
+EN: If inheritance tax cannot be paid in one lump sum,<n>it may be paid in installments.
+
+@286E4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2872C max=119
+JP: 自筆証書遺言の開封にあたっては、<n>（　　　）裁判所の検認が必要である。
+EN: Opening a handwritten will requires<n>probate by the ( ) court.
+
+@287A4 max=63
+JP: 地方<n>最高<n>家庭
+EN: District<n>Supreme<n>Family
+
+@287EC max=119
+JP: 遺産を現物で相続した者が、<n>共同相続人に財産を分与する方法はどれか？
+EN: Which method lets an heir keep inherited assets<n>by compensating the other heirs?
+
+@28864 max=63
+JP: 換価分割<n>現物分割<n>代償分割
+EN: Sale and split<n>Split in kind<n>Compensation split
+
+@288AC max=119
+JP: 相続税の課税価格に算入される財産は、<n>相続開始時の（　　　）によって評価される。
+EN: Assets subject to inheritance tax are valued<n>at their ( ) when the inheritance begins.
+
+@28924 max=63
+JP: 所得原価<n>時価<n>公示価格
+EN: Acquisition cost<n>Market value<n>Official land value
+
+@2896C max=119
+JP: 美容師試験は、受験者の本籍地でしか受けられない。
+EN: You can only take the beautician exam where your family register is held.
+
+@289E4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@28A2C max=119
+JP: 美容所の開設者が無資格の者を働かせた場合、<n>閉鎖命令を出すことができるのは（　　　）である。
+EN: If a salon employs an unlicensed beautician,<n>the ( ) can order its closure.
+
+@28AA4 max=63
+JP: 環境衛生監視員<n>厚生労働大臣<n>都道府県知事
+EN: Sanitation inspector<n>Health minister<n>Prefectural governor
+
+@28AEC max=119
+JP: 美容所は、資格を有する者だけが開設できる。
+EN: Only licensed beauticians may open a beauty salon.
+
+@28B64 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@28BAC max=119
+JP: 脚気や神経炎は、<n>ビタミン（　　　）の不足が原因である。
+EN: Beriberi and neuritis are caused<n>by a deficiency of vitamin ( ).
+
+@28C24 max=63
+JP: Ａ<n>Ｂ１<n>Ｃ
+EN: A<n>B1<n>C
+
+@28C6C max=119
+JP: 次の中で、呼吸器系感染症ではないのはどれか？
+EN: Which of these is NOT a respiratory infection?
+
+@28CE4 max=63
+JP: インフルエンザ<n>ジフテリア<n>コレラ
+EN: Influenza<n>Diphtheria<n>Cholera
+
+@28D2C max=119
+JP: 次の中で、保健所の事業に属さないものはどれか？
+EN: Which is NOT a responsibility of public health centers?
+
+@28DA4 max=63
+JP: 歯科保健<n>健康保険<n>人口動態統計
+EN: Dental health<n>Health insurance<n>Vital statistics
+
+@28DEC max=119
+JP: 消毒すると、病原微生物以外のすべての微生物も<n>取り除くことができる。
+EN: Disinfection removes all microbes, including<n>those that do not cause disease.
+
+@28E64 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@28EAC max=119
+JP: １９１７年から１９１８年に世界的な大流行を起こし<n>た「スペインかぜ」とは、（　　　）のことである。
+EN: The "Spanish flu" that caused a worldwide pandemic<n>in 1917-1918 was ( ).
+
+@28F24 max=63
+JP: インフルエンザ<n>日本脳炎<n>コレラ
+EN: Influenza<n>Japanese encephalitis<n>Cholera
+
+@28F6C max=119
+JP: 平均寿命とは、死亡時の年齢を平均したものである。
+EN: Life expectancy is the average age at death.
+
+@28FE4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2902C max=119
+JP: 不快指数とは、温度だけではなく、<n>湿度も考慮して計算されたものである。
+EN: The discomfort index is calculated using<n>both temperature and humidity.
+
+@290A4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@290EC max=119
+JP: 人体の骨格は、<n>頭蓋骨、胴骨、上肢骨、下肢骨の四つに大別される。
+EN: The skeleton has four main divisions:<n>skull, trunk, upper limbs and lower limbs.
+
+@29164 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@291AC max=119
+JP: 人体の皮膚から生えている毛の数は、<n>約（　　　）万本と言われている。
+EN: The human body is said to have<n>about ( ) hairs growing from its skin.
+
+@29224 max=63
+JP: １４<n>１４０<n>１４００
+EN: 140,000<n>1,400,000<n>14,000,000
+
+@2926C max=119
+JP: 体温は、汗腺と（　　　）によって調節されている。
+EN: Body temperature is regulated by sweat glands and ( ).
+
+@292E4 max=63
+JP: 脂線<n>皮下脂肪<n>毛細血管
+EN: Sebaceous glands<n>Subcutaneous fat<n>Capillaries
+
+@2932C max=119
+JP: 尿は腎臓で作られ、（　　　）から排泄される。
+EN: Urine is produced in the kidneys and excreted through the ( ).
+
+@293A4 max=63
+JP: 尿管<n>膀胱<n>尿道
+EN: Ureters<n>Bladder<n>Urethra
+
+@293EC max=119
+JP: 頭部の毛の数は、およそ（　　　）万本である。
+EN: There are roughly ( ) hairs on the human head.
+
+@29464 max=63
+JP: １０<n>１００<n>１０００
+EN: 100,000<n>1,000,000<n>10,000,000
+
+@294AC max=119
+JP: 鳥肌とは、立毛筋が収縮して起こる現象である。
+EN: Goosebumps occur when the hair erector muscles contract.
+
+@29524 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2956C max=119
+JP: 爪と毛では、（　　　）の方が生長が速い。
+EN: Of nails and hair, ( ) grows faster.
+
+@295E4 max=63
+JP: 爪<n>毛
+EN: Nails<n>Hair
+
+@2962C max=119
+JP: 脂肪膜とは、汗と皮脂が混ざり、<n>皮膚の表面で形成される薄い膜のことをいう。
+EN: A lipid film is a thin layer formed on the skin's surface<n>by a mixture of sweat and sebum.
+
+@296A4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@296EC max=119
+JP: ケラチンは化学的刺激に対しての抵抗力は強いが、<n>（　　　）にだけは弱い。
+EN: Keratin resists chemical irritation well,<n>but is vulnerable to ( ).
+
+@29764 max=63
+JP: 酸<n>アルカリ
+EN: Acids<n>Alkalis
+
+@297AC max=119
+JP: 水を電気分解すると、水素と酸素を生じる。
+EN: Electrolysis of water produces hydrogen and oxygen.
+
+@29824 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2986C max=119
+JP: （　　　）とは、固体が気体に変化することをいう。
+EN: ( ) is the process of a solid turning directly into a gas.
+
+@298E4 max=63
+JP: 融解<n>凝固<n>昇華
+EN: Melting<n>Freezing<n>Sublimation
+
+@2992C max=119
+JP: チオグリコール酸カリウムが除毛効果を高めるのは、<n>（　　　）作用によるものである。
+EN: Potassium thioglycolate boosts hair removal through<n>its ( ) action.
+
+@299A4 max=63
+JP: 酸化<n>還元
+EN: Oxidation<n>Reduction
+
+@299EC max=119
+JP: 石鹸には、（　　　）界面活性剤が含まれている。
+EN: Soap contains ( ) surfactants.
+
+@29A64 max=63
+JP: 非イオン<n>陽イオン<n>陰イオン
+EN: Nonionic<n>Cationic<n>Anionic
+
+@29AAC max=119
+JP: 酸素と窒素の混合物が空気である。
+EN: Air is a mixture of oxygen and nitrogen.
+
+@29B24 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@29B6C max=119
+JP: 液体が熱を放出することで<n>固体に変化する現象はどれか？
+EN: What is the process in which a liquid releases heat<n>and becomes a solid?
+
+@29BE4 max=63
+JP: 気化<n>凝固<n>融解
+EN: Vaporization<n>Freezing<n>Melting
+
+@29C2C max=119
+JP: 美容具に付着した水分や薬剤は、<n>材質が変わるのを防ぐために（　　　）ふき取る。
+EN: To prevent damage to salon tools, wipe off moisture<n>and chemicals ( ).
+
+@29CA4 max=63
+JP: 一日一回<n>三日に一回<n>使用の度に
+EN: Once a day<n>Every three days<n>After every use
+
+@29CEC max=119
+JP: 頭髪を脱色する技術をヘアブリーチ、<n>頭髪を変色する技術をヘアティントという。
+EN: Hair bleaching removes hair color,<n>while hair tinting changes hair color.
+
+@29D64 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@29DAC max=119
+JP: シャンプーイングに使う湯の適温は、<n>（　　　）度である。
+EN: The ideal water temperature for shampooing<n>is ( ) degrees Celsius.
+
+@29E24 max=63
+JP: ３８から４０<n>４０から４５<n>４５から５０
+EN: 38 to 40<n>40 to 45<n>45 to 50
+
+@29E6C max=119
+JP: ヘアブラッシングには、出来るだけ弾力がなく、<n>柔らかいブラシを使用するとよい。
+EN: For hair brushing, use a soft brush with as little<n>springiness as possible.
+
+@29EE4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@29F2C max=119
+JP: 頭髪の全体的な長さを変えずに<n>量だけを減らす方法を（　　　）という。
+EN: Removing bulk without changing the overall hair length<n>is called ( ).
+
+@29FA4 max=63
+JP: テーパリング<n>スリザリング<n>セニング
+EN: Tapering<n>Slithering<n>Thinning
+
+@29FEC max=119
+JP: 日本で豆腐、納豆が製造されるようになったのは<n>何時代からか？
+EN: In which era did Japan begin producing<n>tofu and natto?
+
+@2A064 max=63
+JP: 鎌倉時代<n>室町時代<n>江戸時代
+EN: Kamakura period<n>Muromachi period<n>Edo period
+
+@2A0AC max=119
+JP: アルコール消毒において、最も消毒力が強いのは<n>何パーセントのアルコールか？
+EN: What percentage of alcohol gives the strongest<n>disinfecting effect?
+
+@2A124 max=63
+JP: ７０パーセント<n>８０パーセント<n>９０パーセント
+EN: 70 percent<n>80 percent<n>90 percent
+
+@2A16C max=119
+JP: 調理作業において、手や指先の消毒に<n>適しているのはどれか？
+EN: Which is suitable for disinfecting hands and fingers<n>when preparing food?
+
+@2A1E4 max=63
+JP: しょうこう水<n>逆性せっけん<n>中性洗剤
+EN: Mercuric chloride<n>Cationic soap<n>Neutral detergent
+
+@2A22C max=119
+JP: 次のうち必須アミノ酸でないものはどれか？
+EN: Which of these is NOT an essential amino acid?
+
+@2A2A4 max=63
+JP: ロイシン<n>グリシン<n>イソロイシン
+EN: Leucine<n>Glycine<n>Isoleucine
+
+@2A2EC max=119
+JP: カナッペとは、（　　　）に用いられる料理である。
+EN: Canapes are served as ( ).
+
+@2A364 max=63
+JP: サラダ<n>デザート<n>オードブル
+EN: Salad<n>Dessert<n>Hors d'oeuvres
+
+@2A3AC max=119
+JP: 西洋料理において世界三大珍味とは<n>フォアグラ、キャビア、（　　　）である。
+EN: The three great Western delicacies are foie gras,<n>caviar and ( ).
+
+@2A424 max=63
+JP: トリュフ<n>ピータン<n>フカヒレ
+EN: Truffles<n>Century eggs<n>Shark fin
+
+@2A46C max=119
+JP: 具に味を染みこませるため目立たない場所に<n>切り込みを入れる方法は？
+EN: What technique involves making discreet cuts<n>to help flavor soak into ingredients?
+
+@2A4E4 max=63
+JP: 隠し包丁<n>飾り包丁<n>菜切包丁
+EN: Hidden scoring<n>Decorative cutting<n>Vegetable knife
+
+@2A52C max=119
+JP: 次のうち四川料理にあたるものはどれか？
+EN: Which of these is a Sichuan dish?
+
+@2A5A4 max=63
+JP: 点心飲茶<n>ギョウザ<n>麻婆豆腐
+EN: Dim sum<n>Gyoza<n>Mapo tofu
+
+@2A5EC max=119
+JP: 調理師の免許を交付するのは、次のうちだれか？
+EN: Who issues a cook's license in Japan?
+
+@2A664 max=63
+JP: 保健所の所長<n>都道府県知事<n>厚生労働大臣
+EN: Health center chief<n>Prefectural governor<n>Health minister
+
+@2A6AC max=119
+JP: がんの発生と脂肪摂取量との間に<n>相関がないのはどれか？
+EN: Which cancer has no correlation<n>with dietary fat intake?
+
+@2A724 max=63
+JP: 乳がん<n>大腸がん<n>胃がん
+EN: Breast cancer<n>Colorectal cancer<n>Stomach cancer
+
+@2A76C max=119
+JP: ５大栄養素とは、たんぱく質、脂質、糖質、無機質<n>（　　　）の５つをいう。
+EN: The five major nutrients are protein, fat,<n>carbohydrates, minerals and ( ).
+
+@2A7E4 max=63
+JP: ビタミン<n>アミノ酸<n>食物繊維
+EN: Vitamins<n>Amino acids<n>Dietary fiber
+
+@2A82C max=119
+JP: みかんは酸性食品である。
+EN: Mandarins are acid-forming foods.
+
+@2A8A4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2A8EC max=119
+JP: 調理師が死亡または失踪宣告を受けた時は（　　　）<n>以内に名簿の消除を申請しなくてはならない。
+EN: If a cook dies or is legally declared missing, apply<n>for removal from the license register within ( ).
+
+@2A964 max=63
+JP: １０日<n>３０日<n>６０日
+EN: 10 days<n>30 days<n>60 days
+
+@2A9AC max=119
+JP: 日本人の２５才の成人男性が普通の労働をするとき、<n>一日に約何カロリー必要とするのか？
+EN: About how many calories a day does a 25-year-old Japanese man<n>need when doing ordinary work?
+
+@2AA24 max=63
+JP: ２０００カロリー<n>２５００カロリー<n>３０００カロリー
+EN: 2,000 calories<n>2,500 calories<n>3,000 calories
+
+@2AA6C max=119
+JP: バターにはたんぱく質が豊富に含まれている。
+EN: Butter is rich in protein.
+
+@2AAE4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2AB2C max=119
+JP: 次のうち、高血圧症の原因となるものはどれか？
+EN: Which of these can cause high blood pressure?
+
+@2ABA4 max=63
+JP: 静脈血流<n>過コレステロール<n>動脈硬化
+EN: Venous blood flow<n>Excess cholesterol<n>Arterial hardening
+
+@2ABEC max=119
+JP: 膿が発生する原因は、<n>（　　　）という食中毒菌によるものである。
+EN: Pus is caused by a food-poisoning bacterium<n>called (     ).
+
+@2AC64 max=63
+JP: ウエルシュ菌<n>ブドウ球菌<n>サルモネラ菌
+EN: C. perfringens<n>Staphylococcus<n>Salmonella
+
+@2ACAC max=119
+JP: 日本で最も食中毒が<n>発生しやすい時期は（　　　）である。
+EN: In Japan, food poisoning is most likely to occur<n>during (     ).
+
+@2AD24 max=63
+JP: ５月から８月<n>６月から９月<n>７月から１０月
+EN: May to August<n>June to September<n>July to October
+
+@2AD6C max=119
+JP: 豆の全体を均一に加熱するために、<n>途中で加える差し水のことを（　　　）という。
+EN: Water added while cooking beans to heat them evenly<n>is known as (     ).
+
+@2ADE4 max=63
+JP: しゃっくり水<n>ばっちり水<n>びっくり水
+EN: Hiccup water<n>Spot-on water<n>Surprise water
+
+@2AE2C max=119
+JP: お茶やコーヒーなどに含まれているカフェインのよう<n>な苦味は、舌の（　　　）で感じる。
+EN: Bitterness, such as caffeine in tea or coffee,<n>is tasted at the (     ) of the tongue.
+
+@2AEA4 max=63
+JP: 先<n>両側<n>奥
+EN: Tip<n>Sides<n>Back
+
+@2AEEC max=119
+JP: 次のうち、獣肉を中間宿主とする寄生虫はどれか？
+EN: Which parasite uses a meat animal as its intermediate host?
+
+@2AF64 max=63
+JP: 肝吸虫<n>旋毛虫<n>肺吸虫
+EN: Liver fluke<n>Trichinella<n>Lung fluke
+
+@2AFAC max=119
+JP: 次のうち、発熱量が最も高いものはどれか？
+EN: Which of these fuels produces the most heat?
+
+@2B024 max=63
+JP: 石炭<n>木炭<n>まき
+EN: Coal<n>Charcoal<n>Firewood
+
+@2B06C max=119
+JP: ほうれんそうをゆでるときは、<n>水からゆでると鮮やかな色に仕上がる。
+EN: To keep boiled spinach a vivid green,<n>start it in cold water.
+
+@2B0E4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2B12C max=119
+JP: 飲食業では調理は必ず<n>調理師が行わなければならない。
+EN: In the food service industry, all cooking<n>must be done by licensed cooks.
+
+@2B1A4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2B1EC max=119
+JP: 水道水に含まれている塩素は<n>（　　　）を目的としている。
+EN: Chlorine is added to tap water<n>in order to (     ).
+
+@2B264 max=63
+JP: 無味透明化<n>栄養補給<n>病原体の殺菌
+EN: Make tasteless/clear<n>Add nutrients<n>Kill pathogens
+
+@2B2AC max=119
+JP: アミラーゼとは（　　　）などを<n>消化する酵素のことである。
+EN: Amylase is an enzyme<n>that digests (     ) and similar substances.
+
+@2B324 max=63
+JP: たんぱく質<n>でんぷん<n>アミノ酸
+EN: Protein<n>Starch<n>Amino acids
+
+@2B36C max=119
+JP: 次の卵の状態のうち、<n>もっとも早く消化吸収されるのはどれか？
+EN: Which type of egg is digested<n>and absorbed the fastest?
+
+@2B3E4 max=63
+JP: 生たまご<n>半熟たまご<n>たまご焼き
+EN: Raw egg<n>Soft-boiled egg<n>Omelet
+
+@2B42C max=119
+JP: 食品が腐るのは、主に（　　　）が<n>分解することが原因である。
+EN: Food rots mainly because<n>its (     ) breaks down.
+
+@2B4A4 max=63
+JP: たんぱく質<n>ビタミン<n>グルタミン酸
+EN: Protein<n>Vitamins<n>Glutamic acid
+
+@2B4EC max=119
+JP: 魚を調理するとき最初に弱火で煮焼きすると、表面が<n>収縮し、うまみがにげないのでおいしくなる。
+EN: Starting fish over low heat makes the surface contract,<n>sealing in flavor and making it tastier.
+
+@2B564 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2B5AC max=119
+JP: ロースやヒレは、どの部分の肉か？
+EN: What part of the body do loin and tenderloin come from?
+
+@2B624 max=63
+JP: 背中<n>胸<n>もも
+EN: Back<n>Chest<n>Thigh
+
+@2B66C max=119
+JP: 木材の強度は、含水率が（　　　）方が<n>大きくなる。
+EN: Wood is stronger when its moisture content<n>is (     ).
+
+@2B6E4 max=63
+JP: 高い<n>低い
+EN: Higher<n>Lower
+
+@2B72C max=119
+JP: 根抵当権は、一定の範囲に属する不特定の債権を<n>極度額まで担保する権利のことである。
+EN: A revolving mortgage secures unspecified claims within a set scope,<n>up to a maximum amount.
+
+@2B7A4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2B7EC max=119
+JP: 売買契約が詐欺によって取り消される場合、生ずる<n>原状回復義務は、同時履行の関係にある。
+EN: When a sale is canceled due to fraud, both parties must<n>restore what they received at the same time.
+
+@2B864 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2B8AC max=119
+JP: 定期借家契約は、期間の満了により、更新されること<n>はなく、借家契約が終了するものをいう。
+EN: A fixed-term building lease ends when its term expires<n>and is not renewed.
+
+@2B924 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2B96C max=119
+JP: （　　　）における市街地再開発事業の施行として行<n>う土地の区画形質変更には、開発許可が不要である。
+EN: Plot or terrain changes for urban redevelopment in a (     )<n>require no development permit.
+
+@2B9E4 max=63
+JP: 都市化区域<n>都市計画区域<n>市街化区域
+EN: Urbanized zone<n>City planning zone<n>Urbanization zone
+
+@2BA2C max=119
+JP: 地すべり等防止法によれば、ぼた山崩壊防止区域内で<n>土石の採取を行う場合（　　　）の許可が必要である。
+EN: Taking earth or stone from a protected spoil tip requires<n>(     )'s permit under the Landslide Prevention Act.
+
+@2BAA4 max=63
+JP: 役場職員<n>内閣総理大臣<n>都道府県知事
+EN: Town hall staff<n>Prime Minister<n>Prefectural governor
+
+@2BAEC max=119
+JP: 地図上で、等高線の間隔がせまいものほど、<n>ゆるやかな土地である
+EN: On a map, the closer the contour lines are,<n>the gentler the slope.
+
+@2BB64 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2BBAC max=119
+JP: 委任による登記申請の代理権は、本人の死亡によって<n>も消滅しない。
+EN: Authority delegated for a registration application<n>does not end when the principal dies.
+
+@2BC24 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2BC6C max=119
+JP: 都市計画区域の指定は、２以上の都府県にまたがって<n>指定することができるのは（　　　）である。
+EN: A city planning area spanning two or more prefectures<n>may be designated by the ( ).
+
+@2BCE4 max=63
+JP: 都府県知事<n>市町村長<n>国土交通大臣
+EN: Prefectural governor<n>Municipal mayor<n>Land Minister
+
+@2BD2C max=119
+JP: 河川保全区域内で、土地の掘削、盛土などを行う場合<n>原則として（　　　）の許可を受けなければならない。
+EN: Digging or adding fill in a river conservation zone<n>generally requires permission from the ( ).
+
+@2BDA4 max=63
+JP: 都道府県知事<n>道路管理者<n>河川管理者
+EN: Prefectural governor<n>Road administrator<n>River administrator
+
+@2BDEC max=119
+JP: 土地所有権の移転登記に係る登録免許税の納期限は、<n>登記を受けた一カ月以内である。
+EN: Registration tax on a land ownership transfer<n>is due within one month of registration.
+
+@2BE64 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2BEAC max=119
+JP: 鉄骨造では、高力ボルトやリベットによる接合は<n>認められていない。
+EN: In steel construction, joints using high-strength bolts<n>or rivets are not permitted.
+
+@2BF24 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2BF6C max=119
+JP: 使用者貸借契約において効力が抹消するのは、<n>（　　　）の死亡だけである。
+EN: A loan-for-use agreement ends upon the death<n>of the ( ) only.
+
+@2BFE4 max=63
+JP: 借主<n>貸主
+EN: Borrower<n>Lender
+
+@2C02C max=119
+JP: 特定行政庁は、都市計画区域内に建築物がある場合は<n>道路としてみなすことはできない。
+EN: The local building authority cannot designate a road<n>where buildings stand within a city planning area.
+
+@2C0A4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2C0EC max=119
+JP: 不動産所得税は、その不動産の所在する<n>（　　　）に納付する。
+EN: Real estate acquisition tax is paid to the ( )<n>where the property is located.
+
+@2C164 max=63
+JP: 市町村<n>都道府県
+EN: Municipality<n>Prefecture
+
+@2C1AC max=119
+JP: 住宅金融公庫の貸付けを受けて建設した賃貸住宅の家<n>賃は、自由に家賃額を設定することができる。
+EN: Rent for housing built with Housing Loan Corporation<n>loans may be set freely.
+
+@2C224 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2C26C max=119
+JP: 平成１０年の住宅・土地統計調査では、<n>全国の住宅戸数は総世帯数よりも多い。
+EN: The 1998 Housing and Land Survey shows that Japan<n>has more housing units than households.
+
+@2C2E4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2C32C max=119
+JP: 木材の（　　　）は、材質が柔らかく、<n>腐朽しやすい。
+EN: The ( ) of a tree is soft<n>and prone to decay.
+
+@2C3A4 max=63
+JP: 心材<n>辺材
+EN: Heartwood<n>Sapwood
+
+@2C3EC max=119
+JP: 指名債権の譲渡は、譲渡人自身が責務者に対し通知す<n>ることが必要である。
+EN: The assignor must personally notify the debtor<n>when assigning a named claim.
+
+@2C464 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2C4AC max=119
+JP: １つの土地を複数の土地に分割する手続きを<n>（　　　）登記という。
+EN: The procedure for splitting one plot into several<n>is called ( ) registration.
+
+@2C524 max=63
+JP: 分割<n>分筆<n>分離
+EN: Division<n>Subdivision<n>Separation
+
+@2C56C max=119
+JP: 高さ（　　　）を超える建築物には、原則として避雷<n>施設を設けなければならない。
+EN: Buildings taller than ( ) must generally<n>have lightning protection installed.
+
+@2C5E4 max=63
+JP: ２０メートル<n>３０メートル<n>４０メートル
+EN: 20 meters<n>30 meters<n>40 meters
+
+@2C62C max=119
+JP: 道路法における道路は、幅員２ｍ以上のものが<n>該当する。
+EN: Under the Road Act, roads must be at least<n>2 meters wide.
+
+@2C6A4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2C6EC max=119
+JP: 建物の賃貸人は定期建物賃貸借を締結以前に、その旨<n>を記載した書面を賃借人に交付し説明する義務がある。
+EN: Before a fixed-term lease is signed, the landlord<n>must give the tenant written notice and explain its terms.
+
+@2C764 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2C7AC max=119
+JP: 継手、仕口は木材の（　　　）方法である。
+EN: Splices and joints are methods of ( ) timber.
+
+@2C824 max=63
+JP: 分解<n>運搬<n>接合
+EN: Dismantling<n>Transporting<n>Joining
+
+@2C86C max=119
+JP: 満２０歳に達した者は、民法上では成年とされる。
+EN: Under the Civil Code, anyone aged 20 or over is an adult.
+
+@2C8E4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2C92C max=119
+JP: 民法上、男は満１８歳、女は満１５歳にならなければ<n>婚姻することはできない。
+EN: Under the Civil Code, men must be at least 18<n>and women at least 15 to marry.
+
+@2C9A4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2C9EC max=119
+JP: 地目が田である土地と地目が住宅である土地を合併す<n>る合筆の登記は可能である。
+EN: A rice paddy lot and a residential lot can be merged<n>into one registered parcel.
+
+@2CA64 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2CAAC max=119
+JP: 国定公園の特別地域内に建物を新築する場合、<n>（　　　）の許可が必要である。
+EN: Building in a special zone of a quasi-national park<n>requires permission from the ( ).
+
+@2CB24 max=63
+JP: 市町村長<n>都道府県知事<n>内閣総理大臣
+EN: Municipal mayor<n>Prefectural governor<n>Prime Minister
+
+@2CB6C max=119
+JP: 専任媒介契約の有効期限は、依頼者の申し出により更<n>新することができる。
+EN: An exclusive brokerage agreement may be renewed<n>at the client's request.
+
+@2CBE4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2CC2C max=119
+JP: 地層や岩石に亀裂が入り、ずれが生じた地形を<n>何というか？
+EN: What do you call terrain where layers of earth or rock<n>have cracked and shifted?
+
+@2CCA4 max=63
+JP: 断崖地形<n>団塊地形<n>断層地形
+EN: Cliff terrain<n>Nodular terrain<n>Fault terrain
+
+@2CCEC max=119
+JP: モーターボートの引き波が原因で、<n>手漕ぎボートが転覆することがある。
+EN: A motorboat's wake can cause<n>a rowboat to capsize.
+
+@2CD64 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2CDAC max=119
+JP: 水上交通は万国共通で（　　　）通行が原則である。
+EN: Worldwide, water traffic generally keeps to the ( ).
+
+@2CE24 max=63
+JP: 右側<n>左側
+EN: Right<n>Left
+
+@2CE6C max=119
+JP: エンジンだけでの航行時の操縦性能は、<n>帆だけでの航行時と同じである。
+EN: A boat handles the same under engine power alone<n>as it does under sail alone.
+
+@2CEE4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2CF2C max=119
+JP: プレジャーボートの発航前にする準備事項として<n>適当なのはどちらか？
+EN: Which is a proper preparation to make<n>before setting out in a pleasure boat?
+
+@2CFA4 max=63
+JP: 漁網の保守<n>水域調査
+EN: Maintain fishing nets<n>Study the waters
+
+@2CFEC max=119
+JP: プレジャーボートの衝突事故の発生原因として<n>最も多いのは「水域調査不十分」である。
+EN: The most common cause of pleasure boat collisions<n>is 'insufficient study of the waters.'
+
+@2D064 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2D0AC max=119
+JP: プレジャーボートの海難事故は、約８割が<n>岸から（　　　）海里までの水域で発生している。
+EN: About 80 percent of pleasure boat accidents occur<n>within (    ) nautical miles of shore.
+
+@2D124 max=63
+JP: ３<n>５<n>１０
+EN: 3<n>5<n>10
+
+@2D16C max=119
+JP: 船舶検査証書のない船舶を航行させた場合でも、<n>行政処分の対象とはならない。
+EN: Operating a vessel without an inspection certificate<n>does not result in administrative penalties.
+
+@2D1E4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2D22C max=119
+JP: 同乗者が小型船舶を操縦した結果起こった事故でも、<n>船長が責任を負わなければならない。
+EN: The captain is responsible even for accidents caused<n>by a passenger operating the small boat.
+
+@2D2A4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2D2EC max=119
+JP: 潮流は、沖合いよりも湾港の方が強い。
+EN: Tidal currents are stronger in bays and harbors than offshore.
+
+@2D364 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2D3AC max=119
+JP: （　　　）は海上での緊急連絡先の電話番号である。
+EN: The phone number for emergencies at sea is ( ).
+
+@2D424 max=63
+JP: １１７<n>１１８<n>１１９
+EN: 117<n>118<n>119
+
+@2D46C max=119
+JP: 操縦免許証は、（　　　）が変わった場合に<n>訂正の申請をせねばならない。
+EN: You must apply to update your boating license<n>if there is a change to ( ).
+
+@2D4E4 max=63
+JP: 船舶の名称<n>船舶の保管場所<n>氏名
+EN: The boat's name<n>The storage location<n>Your name
+
+@2D52C max=119
+JP: 操縦免許証の有効期限は（　　　）である。
+EN: A boating license is valid for ( ).
+
+@2D5A4 max=63
+JP: ４年<n>５年<n>６年
+EN: 4 years<n>5 years<n>6 years
+
+@2D5EC max=119
+JP: 向かい合う二隻の動力船が衝突しそうな場合、<n>針路を互いに（　　　）に転じる。
+EN: If two powerboats meeting head-on risk colliding,<n>both must turn to the ( ).
+
+@2D664 max=63
+JP: 右<n>左
+EN: Right<n>Left
+
+@2D6AC max=119
+JP: 水上オートバイは動力船である。
+EN: A jet ski is a power-driven vessel.
+
+@2D724 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2D76C max=119
+JP: 他の船舶が接近してくる際、（　　　）に変化がない<n>場合は衝突の恐れがあると判断しなければならない。
+EN: When another vessel approaches, a constant ( )<n>indicates a risk of collision.
+
+@2D7E4 max=63
+JP: 針路<n>速力<n>コンパス方位
+EN: Course<n>Speed<n>Compass bearing
+
+@2D82C max=119
+JP: 他船との衝突の回避のため針路を転じる場合、右は短<n>音１回、左は短音（　　　）回の汽笛信号を行なう。
+EN: To avoid a collision, signal a right turn with one short<n>horn blast, or a left turn with ( ) short blasts.
+
+@2D8A4 max=63
+JP: ２<n>３<n>４
+EN: 2<n>3<n>4
+
+@2D8EC max=119
+JP: 防波堤の突端を左舷に見るときは、<n>出来るだけ防波堤に近寄って航行しなければならない。
+EN: When passing a breakwater's tip on your port side,<n>you must stay as close to the breakwater as possible.
+
+@2D964 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2D9AC max=119
+JP: （　　　）小型船舶操縦士の免許があれば、<n>水上オートバイを操縦できる。
+EN: A ( ) small-craft license lets you operate<n>a jet ski.
+
+@2DA24 max=63
+JP: 一級<n>二級<n>特殊
+EN: Class 1<n>Class 2<n>Special
+
+@2DA6C max=119
+JP: 水上オートバイの船底にあるジェット（　　　）から<n>ゴミを吸い込んだ場合、航行不能になることがある。
+EN: Debris sucked into the jet ( ) under a jet ski's hull<n>can leave it unable to move.
+
+@2DAE4 max=63
+JP: ノズル<n>インテーク
+EN: Nozzle<n>Intake
+
+@2DB2C max=119
+JP: 水上オートバイを荒天時に操縦する場合、できるだけ<n>波を（　　　）方向から受けるようにする。
+EN: When operating a jet ski in rough weather, try to take<n>the waves from the ( ).
+
+@2DBA4 max=63
+JP: 船腹<n>船尾<n>船首
+EN: Side<n>Stern<n>Bow
+
+@2DBEC max=119
+JP: １海里は１８５２ｍである。
+EN: One nautical mile is 1,852 meters.
+
+@2DC64 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2DCAC max=119
+JP: 次の電話番号のうち、<n>気象庁予報部の気象情報が聞けるのはどれか？
+EN: Which phone number provides weather information<n>from the Japan Meteorological Agency?
+
+@2DD24 max=63
+JP: １１５<n>１１７<n>１７７
+EN: 115<n>117<n>177
+
+@2DD6C max=119
+JP: 干潮の回数は普通、１日に（　　　）回起こる。
+EN: Low tide normally occurs ( ) times a day.
+
+@2DDE4 max=63
+JP: １<n>２<n>３
+EN: 1<n>2<n>3
+
+@2DE2C max=119
+JP: 潮流とは、潮汐によって生じる<n>海水の流れのことである。
+EN: A tidal current is a flow of seawater<n>caused by the tides.
+
+@2DEA4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2DEEC max=119
+JP: 水上オートバイでの航行中に他船と衝突し、<n>他船の被害が大きい場合は（　　　）を第一に行なう。
+EN: If your jet ski collides with another boat and badly<n>damages it, your first priority is to ( ).
+
+@2DF64 max=63
+JP: 救助要請<n>人命救助
+EN: Call for rescue<n>Save lives
+
+@2DFAC max=119
+JP: 航行中の水上オートバイが浅瀬に乗り上げた時、<n>第一にエンジンを停止しなければならない。
+EN: If your jet ski runs aground in shallow water,<n>you must first stop the engine.
+
+@2E024 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2E06C max=119
+JP: 風波がある時に落水者を水上オートバイで救助する際、<n>落水者を（　　　）からの接近が最も操縦しやすい。
+EN: When rescuing someone by jet ski in wind and waves,<n>it is easiest to approach them ( ).
+
+@2E0E4 max=63
+JP: 風下に見る方向<n>風上に見る方向
+EN: From upwind<n>From downwind
+
+@2E12C max=119
+JP: 小型船舶用信号紅炎は、一定の条件を満たした<n>携帯電話があれば搭載しなくてもよい。
+EN: A small boat need not carry red distress flares<n>if it has a mobile phone that meets certain requirements.
+
+@2E1A4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2E1EC max=119
+JP: 生態系を破壊する恐れがあるため、<n>水上オートバイで浅瀬を航行してはならない。
+EN: You must not ride a jet ski in shallow water,<n>as this may damage the ecosystem.
+
+@2E264 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2E2AC max=119
+JP: 次の中で、水上オートバイ操縦前に行う法定備品の<n>点検項目に適さないのはどれか？
+EN: Which is NOT a legally required piece of equipment<n>to check before operating a jet ski?
+
+@2E324 max=63
+JP: 信号紅炎<n>救命胴衣<n>消火器
+EN: Red distress flares<n>Life jacket<n>Fire extinguisher
+
+@2E36C max=119
+JP: アウトソーシングとは、企業の一部の業務を<n>外部に委託し、コストを削減することである。
+EN: Outsourcing means hiring outside providers<n>to handle some of a company's work and reduce costs.
+
+@2E3E4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2E42C max=119
+JP: 次のうち、毎日の状況を記述し、<n>システム障害などの対策に役に立つのはどれか？
+EN: Which records daily system conditions<n>to help deal with system failures?
+
+@2E4A4 max=63
+JP: 仕様書<n>説明書<n>運用日誌
+EN: Specifications<n>Instruction manual<n>Operations log
+
+@2E4EC max=119
+JP: ＥＵＣとは、システムの管理者自身が<n>直接業務を行うことである。
+EN: EUC means system administrators<n>carry out business tasks themselves.
+
+@2E564 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2E5AC max=119
+JP: プリントアウトの際に、用紙の上下左右に設定する<n>余白の部分を（　　　）という。
+EN: The blank space around the edges<n>of a printed page is called the (      ).
+
+@2E624 max=63
+JP: マージン<n>フッタ<n>タブ
+EN: Margin<n>Footer<n>Tab
+
+@2E66C max=119
+JP: ＳＭＴＰとは、サーバー間のメールのやり取りに<n>使われる電子メールのプロトコルである。
+EN: SMTP is an email protocol used<n>to exchange messages between servers.
+
+@2E6E4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2E72C max=119
+JP: 次のうち、光ディスクではないものはどれか？
+EN: Which of these is not an optical disc?
+
+@2E7A4 max=63
+JP: ＤＶＤ<n>ＤＡＴ<n>ＣＤ‐Ｒ
+EN: DVD<n>DAT<n>CD-R
+
+@2E7EC max=119
+JP: 通常、企業の会計の管理や資金の運用などを<n>担当する部門は、次のうちどれか？
+EN: Which department usually handles<n>a company's accounts and funds?
+
+@2E864 max=63
+JP: 総務部門<n>人事部門<n>経理部門
+EN: General Affairs<n>Human Resources<n>Accounting
+
+@2E8AC max=119
+JP: 職場で疑似体験を行う、企業の教育研修はどれか？
+EN: Which type of company training uses simulated workplace situations?
+
+@2E924 max=63
+JP: ロールプレイング<n>ＯＪＴ<n>ケーススタディ
+EN: Role-playing<n>On-the-job training<n>Case study
+
+@2E96C max=119
+JP: 多くの人に質問し、その回答の統計をとり、<n>調査することを（　　　）という。
+EN: Asking many people questions and statistically<n>analyzing their answers is called a (      ).
+
+@2E9E4 max=63
+JP: 資料調査<n>観測調査<n>アンケート調査
+EN: Document research<n>Observation study<n>Questionnaire survey
+
+@2EA2C max=119
+JP: 定期発注法とは、発注サイクルを定め、<n>需要を予測して注文することをいう。
+EN: Periodic ordering uses a fixed order cycle<n>and places orders based on forecast demand.
+
+@2EAA4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2EAEC max=119
+JP: 次のうち、無形固定資産のものはどれか？
+EN: Which of these is an intangible fixed asset?
+
+@2EB64 max=63
+JP: 建設仮勘定<n>車両運搬具<n>営業権
+EN: Construction in prog<n>Vehicles<n>Goodwill
+
+@2EBAC max=119
+JP: 債務を免除された場合は、<n>帳簿に記帳しなくてもよい。
+EN: If a debt is forgiven,<n>it need not be recorded in the accounts.
+
+@2EC24 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2EC6C max=119
+JP: 業務の流れを矢印を使って示す<n>図式をなんというか？
+EN: What diagram uses arrows<n>to show the flow of work?
+
+@2ECE4 max=63
+JP: ＡＢＣ<n>ＤＦＤ<n>ＥＲ
+EN: ABC<n>DFD<n>ER
+
+@2ED2C max=119
+JP: ディスプレイ上で印刷のイメージを表示する機能を<n>（　　　）機能という。
+EN: The function that shows how a page will look<n>when printed is called (      ).
+
+@2EDA4 max=63
+JP: バックグラウンド<n>プレビュー<n>ページ設定
+EN: Background<n>Preview<n>Page setup
+
+@2EDEC max=119
+JP: 次のうち、最も出現頻度の多い値のことを指す言葉は<n>どれか？
+EN: Which term refers to the value<n>that occurs most frequently?
+
+@2EE64 max=63
+JP: レンジ<n>メジアン<n>モード
+EN: Range<n>Median<n>Mode
+
+@2EEAC max=119
+JP: 次のうち、棒グラフと折れ線グラフを組み合わせた図<n>の名称はどれか？
+EN: Which chart combines<n>a bar chart and a line graph?
+
+@2EF24 max=63
+JP: 散布図<n>パレート図<n>ヒストグラム
+EN: Scatter plot<n>Pareto chart<n>Histogram
+
+@2EF6C max=119
+JP: インターネットとネットワークの間に、外部からの不<n>正なアクセスを防ぐ目的で設置されるのはどれか？
+EN: Which is placed between a network and the internet<n>to block unauthorized access from outside?
+
+@2EFE4 max=63
+JP: ファイアウォール<n>イントラネット<n>プロキシサーバ
+EN: Firewall<n>Intranet<n>Proxy server
+
+@2F02C max=119
+JP: 「情報処理技術者試験合格証書」は、<n>（　　　）から交付される。
+EN: Japan's IT Engineers Examination certificate<n>is issued by the (      ).
+
+@2F0A4 max=63
+JP: 厚生労働大臣<n>文部科学大臣<n>経済産業大臣
+EN: Health/Labor Min.<n>Education/Sci. Min.<n>Economy/Trade Min.
+
+@2F0EC max=119
+JP: チェックディジットは、データの入力ミスを防ぐ、<n>チェック方式である。
+EN: A check digit is a checking method<n>used to prevent data entry errors.
+
+@2F164 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2F1AC max=119
+JP: 絵や図形の座標の情報を<n>入力する装置は次のうちどれか？
+EN: Which device inputs coordinate data<n>for pictures and shapes?
+
+@2F224 max=63
+JP: タッチパネル<n>イメージスキャナ<n>ディジタイザ
+EN: Touch panel<n>Image scanner<n>Digitizer
+
+@2F26C max=119
+JP: 漢字やひらがななどの１文字を２バイトで表すのは<n>（　　　）である。
+EN: Which encoding uses two bytes<n>per kanji or hiragana character?
+
+@2F2E4 max=63
+JP: ＪＩＳコード<n>ＪＩＳ漢字コード<n>ＡＳＣＩＩコード
+EN: JIS code<n>JIS Kanji code<n>ASCII code
+
+@2F32C max=119
+JP: 次のうち、ＯＳ（オペレーティングシステム）の<n>機能でないものはどれか。
+EN: Which is not a function<n>of an OS (operating system)?
+
+@2F3A4 max=63
+JP: ジョブ管理<n>タスク管理<n>個人管理
+EN: Job management<n>Task management<n>Personal management
+
+@2F3EC max=119
+JP: 実行中のプログラムが、お互いに処理が終了するのを<n>待ち続け、処理が進まなくなることを何というか？
+EN: What is it called when running programs stall<n>because each is waiting for another to finish?
+
+@2F464 max=63
+JP: バックアップ<n>デッドロック<n>ロールバック
+EN: Backup<n>Deadlock<n>Rollback
+
+@2F4AC max=119
+JP: インターネット上のコンピュータにログインし、<n>遠隔操作を行うサービスを（　　　）という。
+EN: The service for logging into a computer online<n>and operating it remotely is called (      ).
+
+@2F524 max=63
+JP: ＰＯＰ<n>ＦＴＰ<n>ＴＥＬＮＥＴ
+EN: POP<n>FTP<n>TELNET
+
+@2F56C max=119
+JP: シェアウェアとは、著作権を放棄して、<n>使用を認めたソフトウェアのことである。
+EN: Shareware is software made available for use<n>with its copyright relinquished.
+
+@2F5E4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2F62C max=119
+JP: ディスク装置の障害対策として、データを複数のディ<n>スクに分割して格納する方法を（　　　）という。
+EN: Splitting data across multiple disks as a safeguard<n>against disk failure is called (      ).
+
+@2F6A4 max=63
+JP: ＲＡＩＤ０<n>ＲＡＩＤ１<n>ＲＡＩＤ５
+EN: RAID 0<n>RAID 1<n>RAID 5
+
+@2F6EC max=119
+JP: 商標権は、著作権に属する。
+EN: Trademark rights are a form of copyright.
+
+@2F764 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2F7AC max=119
+JP: 一定期間の売上実績の動向を分析するのに適している<n>のは（　　　）である。
+EN: The best chart for analyzing sales trends<n>over a set period is a (      ).
+
+@2F824 max=63
+JP: 層グラフ<n>二重円グラフ<n>Ｚグラフ
+EN: Stacked area chart<n>Double pie chart<n>Z chart
+
+@2F86C max=119
+JP: コンピュータシステムの信頼性を評価するＲＡＳＩＳ<n>の「Ｒ」は（　　　）のことである。
+EN: In RASIS, which rates computer system dependability,<n>the R stands for (      ).
+
+@2F8E4 max=63
+JP: 可能性<n>信頼性<n>保守性
+EN: Possibility<n>Reliability<n>Maintainability
+
+@2F92C max=119
+JP: 項目間の相互関係を表現するのに適している、<n>図解はどれか？
+EN: Which diagram is best for showing<n>relationships between items?
+
+@2F9A4 max=63
+JP: 系統図<n>特性要因図<n>円交差図解
+EN: Tree diagram<n>Fishbone diagram<n>Venn diagram
+
+@2F9EC max=119
+JP: 次の有機塩素化合物の中で、<n>排水基準の健康項目に規定されていないのはどれか？
+EN: Which organochlorine compound is NOT regulated<n>by health-based effluent standards?
+
+@2FA64 max=63
+JP: クロロホルム<n>ジクロロメタン<n>四塩化炭素
+EN: Chloroform<n>Dichloromethane<n>Carbon tetrachloride
+
+@2FAAC max=119
+JP: 有機汚染が原因で河川が嫌気性状態になった場合、<n>発生する気体として不適当なものはどれか？
+EN: Which gas is NOT produced when organic pollution<n>makes a river anaerobic?
+
+@2FB24 max=63
+JP: 硫化水素<n>水素<n>二酸化炭素
+EN: Hydrogen sulfide<n>Hydrogen<n>Carbon dioxide
+
+@2FB6C max=119
+JP: 最も汚染が少ない水域に棲む生物は、<n>次のうちではどれか？
+EN: Which of these organisms lives<n>in the least polluted water?
+
+@2FBE4 max=63
+JP: シジミ類<n>イトミミズ<n>カワゲラ類
+EN: Corbicula clams<n>Sludge worms<n>Stoneflies
+
+@2FC2C max=119
+JP: 流達率とは、発生負荷に対する到達負荷の比率のこと<n>である。
+EN: The pollutant delivery ratio is the load reaching a water body<n>divided by the load generated.
+
+@2FCA4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@2FCEC max=119
+JP: 「トリクロロエチレン」によって生じる<n>健康障害として正しいのはどれか？
+EN: Which health problem is caused<n>by trichloroethylene?
+
+@2FD64 max=63
+JP: 色素沈着<n>肝障害<n>下痢
+EN: Hyperpigmentation<n>Liver damage<n>Diarrhea
+
+@2FDAC max=119
+JP: 次の魚で、最も水質の有機汚染に強いのはどれか？
+EN: Which fish is most tolerant of organic water pollution?
+
+@2FE24 max=63
+JP: アユ<n>イワナ<n>コイ
+EN: Sweetfish<n>Char<n>Carp
+
+@2FE6C max=119
+JP: 環境基本法に規定されている<n>「典型七公害」といわれているものはどれか？
+EN: Which is one of the seven major types of pollution<n>under Japan's Basic Environment Act?
+
+@2FEE4 max=63
+JP: 日照阻害<n>オゾン層破壊<n>騒音
+EN: Blocked sunlight<n>Ozone depletion<n>Noise
+
+@2FF2C max=119
+JP: 炊事、洗濯、入浴などの人の生活に伴い（　　　）に<n>排出される水を「生活排水」という。
+EN: Domestic wastewater is water from cooking, laundry and bathing<n>discharged into (      ).
+
+@2FFA4 max=63
+JP: 公共下水道<n>公共用水域
+EN: Public sewers<n>Public waters
+
+@2FFEC max=119
+JP: 排出水とは、工場などから公共用水域に<n>排出される（　　　）をいう。
+EN: Effluent is (      ) discharged from factories<n>into public waters.
+
+@30064 max=63
+JP: 水<n>汚水
+EN: Water<n>Polluted water
+
+@300AC max=119
+JP: 上乗せ排水基準の適用（　　　）は、前もって定めて<n>おかなければならない。
+EN: The (      ) covered by stricter effluent limits<n>must be designated in advance.
+
+@30124 max=63
+JP: 期間<n>区域
+EN: Period<n>Area
+
+@3016C max=119
+JP: 水質汚濁防止法により、総量削減計画は、<n>（　　　）が定めるものである。
+EN: Under Japan's Water Pollution Control Act,<n>total load reduction plans are set by (      ).
+
+@301E4 max=63
+JP: 市町村長<n>都道府県知事<n>環境大臣
+EN: Municipal mayor<n>Prefectural governor<n>Environment Minister
+
+@3022C max=119
+JP: 特定施設の設置をするときに水質汚濁防止法により<n>届出なければならないのは（　　　）である。
+EN: Under the Water Pollution Control Act, what must be reported<n>when installing a specified facility? (      )
+
+@302A4 max=63
+JP: 汚水の処理費用<n>特定施設の構造
+EN: Treatment costs<n>Facility structure
+
+@302EC max=119
+JP: 次の検定項目で、<n>コンポジット試料を調整できるのはどれか？
+EN: For which test can<n>a composite sample be prepared?
+
+@30364 max=63
+JP: ＢＯＤ<n>大腸菌群数<n>フッ素
+EN: BOD<n>Coliform count<n>Fluoride
+
+@303AC max=119
+JP: 次の測定項目で、試料の保管の際に<n>アルカリ性にしなければならないのはどれか？
+EN: For which test must a sample<n>be made alkaline before storage?
+
+@30424 max=63
+JP: ヒ素<n>シアン<n>全窒素
+EN: Arsenic<n>Cyanide<n>Total nitrogen
+
+@3046C max=119
+JP: 吸光光度法で、吸収セルの長さは<n>吸光度に影響を及ぼさない。
+EN: In absorptiometry, the absorption cell's length<n>does not affect absorbance.
+
+@304E4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@3052C max=119
+JP: 鉛を処理するとき、硫酸処理法は適さない。
+EN: Sulfuric acid treatment is unsuitable for treating lead.
+
+@305A4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@305EC max=119
+JP: 富山県神通川流域で発生した公害病は、<n>次のうちのどれか？
+EN: Which pollution-related disease occurred<n>along the Jinzu River in Toyama Prefecture?
+
+@30664 max=63
+JP: 水俣病<n>イタイイタイ病
+EN: Minamata disease<n>Itai-itai disease
+
+@306AC max=119
+JP: ジフェニルカルバジドは、クロムを吸光光度法で<n>検定する際の発色試薬である。
+EN: Diphenylcarbazide is a color reagent used<n>to measure chromium by spectrophotometry.
+
+@30724 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@3076C max=119
+JP: 工場内で汚水を処理するとき、各種の排水を混合して<n>処理すると、再利用が（　　　）になる。
+EN: Mixing different factory wastewater streams<n>for treatment makes reuse ( ).
+
+@307E4 max=63
+JP: 容易<n>困難
+EN: Easy<n>Difficult
+
+@3082C max=119
+JP: 工場内で、処理される排水は、主に製造排水、<n>冷却排水、衛生排水である。
+EN: The main factory wastewaters treated come from production,<n>cooling and sanitation.
+
+@308A4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@308EC max=119
+JP: フロックとは、凝集処理によって生じた<n>大型の粒子塊のことをいう。
+EN: Flocs are large clumps of particles<n>formed during coagulation treatment.
+
+@30964 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@309AC max=119
+JP: 凝集沈殿処理では、<n>（　　　）の除去はほとんどできない。
+EN: Coagulation and sedimentation remove<n>almost no ( ).
+
+@30A24 max=63
+JP: 濁度<n>リン酸イオン<n>アンモニア態窒素
+EN: Turbidity<n>Phosphate ions<n>Ammonia nitrogen
+
+@30A6C max=119
+JP: 活性炭の乾式加熱再生法では、<n>炭素の回収率が低い。
+EN: Dry thermal regeneration of activated carbon<n>has a low carbon recovery rate.
+
+@30AE4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@30B2C max=119
+JP: 汚泥の処理に、（　　　）は用いられない。
+EN: Which method is NOT used to treat sludge?
+
+@30BA4 max=63
+JP: 真空ろ過法<n>遠心分離法<n>電気透析法
+EN: Vacuum filtration<n>Centrifugation<n>Electrodialysis
+
+@30BEC max=119
+JP: 有機物からメタンを生成する場合、<n>主に（　　　）を経由して行う。
+EN: Methane production from organic matter<n>mainly proceeds via ( ).
+
+@30C64 max=63
+JP: シュウ酸<n>酢酸<n>塩酸
+EN: Oxalic acid<n>Acetic acid<n>Hydrochloric acid
+
+@30CAC max=119
+JP: バルキング現象とは、<n>活性汚泥が膨れて軽くなる現象のことをいう。
+EN: Bulking is a phenomenon in which activated sludge<n>swells and becomes lighter.
+
+@30D24 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@30D6C max=119
+JP: ヒ素は、水酸化鉄共沈法で処理できる。
+EN: Arsenic can be treated by coprecipitation with iron hydroxide.
+
+@30DE4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@30E2C max=119
+JP: 農薬系有機化合物は難溶性である。
+EN: Organic pesticide compounds are poorly soluble in water.
+
+@30EA4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@30EEC max=119
+JP: ＰＣＢは酸やアルカリと煮沸しても分解はしない。
+EN: PCBs do not break down even when boiled with acids or alkalis.
+
+@30F64 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@30FAC max=119
+JP: 冬場、プランクトンの大量発生により低層に貧酸素水<n>塊ができ、水面に移動した現象を何というか？
+EN: What is it called when a winter plankton bloom creates<n>oxygen-poor bottom water that rises to the surface?
+
+@31024 max=63
+JP: 赤潮<n>青潮
+EN: Red tide<n>Blue tide
+
+@3106C max=119
+JP: 飲酒していても、<n>酔っていなければ車を運転してもよい。
+EN: You may drive after drinking alcohol<n>as long as you are not drunk.
+
+@310E4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@3112C max=119
+JP: 車とは、自動車と原動機付自転車、<n>（　　　）のことをいう。
+EN: The term "vehicles" includes automobiles, mopeds<n>and ( ).
+
+@311A4 max=63
+JP: 軽車両<n>オートバイ<n>トラック
+EN: Light vehicles<n>Motorcycles<n>Trucks
+
+@311EC max=119
+JP: 正面の信号が黄色のときでも、<n>他の通行に注意すれば渡ることは出来る。
+EN: Even if the light ahead is yellow, you may cross<n>if you watch for other traffic.
+
+@31264 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@312AC max=119
+JP: 車の運転中でも、携帯電話は使用してよい。
+EN: You may use a mobile phone while driving.
+
+@31324 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@3136C max=119
+JP: 道路が混雑しているとき、車両通行帯が二つあれば<n>なるべく流れのよい方を選んで走行するべきである。
+EN: When traffic is heavy and there are two lanes,<n>you should choose whichever lane is moving faster.
+
+@313E4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@3142C max=119
+JP: 定員６名の車に運転手を含め大人３人が乗っている<n>場合、１２歳未満の子供は何人乗れるか？
+EN: A six-seat car has three adults aboard, including the driver.<n>How many children under 12 can also ride?
+
+@314A4 max=63
+JP: ３人<n>４人<n>５人
+EN: 3<n>4<n>5
+
+@314EC max=119
+JP: 路線バスの運行が終了していれば、停留所の<n>１０メートル以内にも駐車や停車をしてよい。
+EN: Once bus service has ended for the day, you may stop<n>or park within 10 meters of a bus stop.
+
+@31564 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@315AC max=119
+JP: 視界が狭くなる夜間は、<n>出来るだけ（　　　）を見る。
+EN: At night, when visibility is reduced,<n>look ( ) as much as possible.
+
+@31624 max=63
+JP: 遠く<n>近く<n>左右
+EN: Far ahead<n>Close ahead<n>Left and right
+
+@3166C max=119
+JP: 普通免許では、７５０キログラムまでの<n>被牽引車を牽引できる。
+EN: An ordinary driver's license allows you to tow<n>a trailer weighing up to 750 kilograms.
+
+@316E4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@3172C max=119
+JP: 一方通行で通れる部分は、<n>道路の（　　　）部分である。
+EN: On a one-way road, you may drive<n>on the ( ) of the road.
+
+@317A4 max=63
+JP: 右側<n>左側<n>中央
+EN: Right side<n>Left side<n>Center
+
+@317EC max=119
+JP: 自家用の普通自動車は、定期点検を<n>（　　　）年ごとに受けなければならない。
+EN: Private passenger cars must undergo<n>a periodic maintenance inspection every ( ) year(s).
+
+@31864 max=63
+JP: 半<n>１<n>２
+EN: Half<n>1<n>2
+
+@318AC max=119
+JP: やむをえない場合に限り、<n>原動機付自転車の荷台に人を乗せてもよい。
+EN: If absolutely necessary, you may carry a passenger<n>on a moped's rear rack.
+
+@31924 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@3196C max=119
+JP: 以下のうち、普通免許では運転できないのはどれか？
+EN: Which vehicle can you NOT drive with an ordinary driver's license?
+
+@319E4 max=63
+JP: 普通自動車<n>小型特殊自動車<n>自動二輪車
+EN: Passenger cars<n>Small special autos<n>Motorcycles
+
+@31A2C max=119
+JP: ほぼ同じ幅の道路の交差点において、<n>進行を妨げてはいけないのはどの方向の車か？
+EN: At an intersection of roads of roughly equal width,<n>vehicles from which direction have priority?
+
+@31AA4 max=63
+JP: 右<n>左<n>左右両方
+EN: Right<n>Left<n>Both sides
+
+@31AEC max=119
+JP: 運転免許試験に合格後、免許証が交付される前に<n>普通自動車を運転しても無免許運転にはならない。
+EN: Driving a car after passing the test but before<n>your license is issued does not count as unlicensed driving.
+
+@31B64 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@31BAC max=119
+JP: 追い越し禁止なのは次のうちどれか？
+EN: Where is overtaking prohibited?
+
+@31C24 max=63
+JP: 上り坂の頂上付近<n>勾配の急な下り坂
+EN: Near a hill's crest<n>On a steep downhill
+
+@31C6C max=119
+JP: 車を駐車する場合、右側の道路には<n>（　　　）メートル以上の余地がなければならない。
+EN: When parking, you must leave at least<n>( ) meters of road clear to your right.
+
+@31CE4 max=63
+JP: ２．５メートル<n>３．５メートル<n>４．５メートル
+EN: 2.5 meters<n>3.5 meters<n>4.5 meters
+
+@31D2C max=119
+JP: 普通免許取得後（　　　）年間は、車の定められた<n>位置に初心者マークをつけなければならない。
+EN: For ( ) year(s) after getting a car license,<n>you must display beginner marks in the required positions.
+
+@31DA4 max=63
+JP: １<n>２<n>３
+EN: 1<n>2<n>3
+
+@31DEC max=119
+JP: 普通自動車が一般道路で出せる最高速度は<n>（　　　）キロメートル毎時である。
+EN: The maximum speed for an ordinary car on<n>regular roads is ( ) kilometers per hour.
+
+@31E64 max=63
+JP: ４０<n>６０<n>８０
+EN: 40<n>60<n>80
+
+@31EAC max=119
+JP: 普通自動車の定員は（　　　）人以下である。
+EN: An ordinary car may carry no more than ( ) people.
+
+@31F24 max=63
+JP: ６<n>８<n>１０
+EN: 6<n>8<n>10
+
+@31F6C max=119
+JP: 原付免許では、原動機付自転車だけでなく<n>農業用の小型特殊自動車も運転できる。
+EN: A moped license lets you drive both mopeds<n>and small special-purpose farm vehicles.
+
+@31FE4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@3202C max=119
+JP: 自動二輪の最大積載量は<n>（　　　）キログラムである。
+EN: The maximum load a motorcycle may carry<n>is ( ) kilograms.
+
+@320A4 max=63
+JP: ６０<n>７０<n>８０
+EN: 60<n>70<n>80
+
+@320EC max=119
+JP: 普通車は、最大（　　　）台まで車を牽引できる。
+EN: An ordinary car may tow up to ( ) vehicles at once.
+
+@32164 max=63
+JP: １<n>２<n>３
+EN: 1<n>2<n>3
+
+@321AC max=119
+JP: 車両通行帯のある道路では、追越などのやむをえない<n>状況に限り、車両通行帯からはみ出してもよい。
+EN: On roads with marked lanes, you may cross lane lines<n>only when necessary, such as to overtake.
+
+@32224 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@3226C max=119
+JP: ブレーキが利き始めてから完全に停止するまでに<n>走る距離を、（　　　）という。
+EN: The distance traveled from when the brakes take effect<n>until the vehicle stops is called ( ).
+
+@322E4 max=63
+JP: 空走距離<n>停止距離<n>制動距離
+EN: Reaction distance<n>Stopping distance<n>Braking distance
+
+@3232C max=119
+JP: 運転者の疲労が溜まっていると危険を察知してから<n>判断するまで時間がかかるので空走距離は長くなる。
+EN: Fatigue delays a driver's response to danger,<n>increasing the distance traveled before braking.
+
+@323A4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@323EC max=119
+JP: 右左折や回転を行う場合は、実行する<n>（　　　）メートル手前から合図を送る。
+EN: When turning left, right or making a U-turn,<n>signal ( ) meters before the turn.
+
+@32464 max=63
+JP: ２０<n>３０<n>４０
+EN: 20<n>30<n>40
+
+@324AC max=119
+JP: 進路変更の際には、実行する<n>（　　　）秒前に合図を送る。
+EN: When changing lanes, signal<n>( ) seconds before you begin.
+
+@32524 max=63
+JP: ３<n>１３<n>３０
+EN: 3<n>13<n>30
+
+@3256C max=119
+JP: 交差点とその手前（　　　）メートル以内の場所は、<n>追い越しが禁止されている。
+EN: Overtaking is prohibited at intersections<n>and within ( ) meters before them.
+
+@325E4 max=63
+JP: ３０<n>４０<n>５０
+EN: 30<n>40<n>50
+
+@3262C max=119
+JP: トンネル内では、<n>駐停車が禁止されている。
+EN: Stopping and parking are prohibited<n>inside tunnels.
+
+@326A4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@326EC max=119
+JP: 通常、株式会社の「重役」とは<n>（　　　）の別称である。
+EN: 'Executive' is usually another term for<n>a ( ) in a corporation.
+
+@32764 max=63
+JP: 社長<n>代表取締役<n>取締役
+EN: President<n>Representative dir.<n>Director
+
+@327AC max=119
+JP: 次の頭語に対して、<n>「敬具」という結語が適しないのはどれか？
+EN: Which Japanese letter opening does NOT go with<n>the closing 'Keigu' (Yours sincerely)?
+
+@32824 max=63
+JP: 拝啓<n>拝復<n>急啓
+EN: Haikei (Dear Sir)<n>Haifuku (In reply)<n>Kyukei (Urgent)
+
+@3286C max=119
+JP: 企業の一定期間の売り上げから使用した経費を<n>差し引いて算出した利益を（　　　）という。
+EN: The profit calculated by subtracting a company's expenses<n>from its sales over a given period is called ( ).
+
+@328E4 max=63
+JP: 財産目録<n>監査報告書<n>損益計算書
+EN: Asset inventory<n>Audit report<n>Income statement
+
+@3292C max=119
+JP: 次のうち、「文章や原稿の下書き」はどれか？
+EN: Which means a preliminary version of a piece of writing?
+
+@329A4 max=63
+JP: 校正<n>草稿<n>改訂
+EN: Proofreading<n>Draft<n>Revision
+
+@329EC max=119
+JP: 次のうち、不祝儀袋に<n>「御香典」と書くべき葬儀はどれか？
+EN: For which funeral should a condolence envelope<n>be labeled 'Gokoden' (incense offering)?
+
+@32A64 max=63
+JP: 神式<n>キリスト教式<n>仏式
+EN: Shinto<n>Christian<n>Buddhist
+
+@32AAC max=119
+JP: 株式が証券取引所で売買取引されている会社を、<n>「上場会社」という。
+EN: A company whose shares are traded on a stock exchange<n>is called a 'listed company.'
+
+@32B24 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@32B6C max=119
+JP: マーチャンダイジングとは、<n>店頭で実演販売などを行う活動のことである。
+EN: Merchandising means activities such as<n>giving sales demonstrations in stores.
+
+@32BE4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@32C2C max=119
+JP: 時候のあいさつで「薫風の候」とは何月のことか？
+EN: In Japanese seasonal greetings, 'the season of fragrant breezes' refers to which month?
+
+@32CA4 max=63
+JP: ５月<n>８月<n>１１月
+EN: May<n>August<n>November
+
+@32CEC max=119
+JP: 敬語として次の文に当てはまる語句はどれか？<n>「社長は（　　　）そうです」
+EN: Which is correct honorific Japanese for<n>'The president has apparently gone out'?
+
+@32D64 max=63
+JP: 出掛けた<n>出掛けられた<n>お出掛けされた
+EN: Dekaketa<n>Dekakerareta<n>Odekake sareta
+
+@32DAC max=119
+JP: 社内で備品や事務用品を管理している部署はどこか？
+EN: Which department manages a company's equipment and office supplies?
+
+@32E24 max=63
+JP: 経理部門<n>厚生部門<n>総務部門
+EN: Accounting<n>Staff Welfare<n>General Affairs
+
+@32E6C max=119
+JP: オペレーションとは販売という意味である。
+EN: The word "operation" means selling.
+
+@32EE4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@32F2C max=119
+JP: 次の中で、「書類に書かれている内容ごとにまとめた<n>もの」はどれか？
+EN: Which method groups documents according to their contents?
+
+@32FA4 max=63
+JP: 標題別整理<n>一件別整理<n>主題別整理
+EN: Filing by title<n>Filing by case<n>Filing by subject
+
+@32FEC max=119
+JP: 上司から商品券を取引先に送るように頼まれた場合、<n>どの方法が適切か？
+EN: Your boss asks you to mail gift certificates to a client. Which method should you use?
+
+@33064 max=63
+JP: 速達<n>書留<n>現金書留
+EN: Express mail<n>Registered mail<n>Registered cash mail
+
+@330AC max=119
+JP: 葬式を営む人のことを、喪主という。
+EN: The person responsible for arranging a funeral is called the chief mourner.
+
+@33124 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@3316C max=119
+JP: 畳２枚分の大きさのことを通常、１坪と呼ぶ。
+EN: An area the size of two tatami mats is usually called one tsubo.
+
+@331E4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@3322C max=119
+JP: インフレとは、お金の量が物に比べて（　　　）なり、<n>物価が上昇することである。
+EN: Inflation occurs when there is ( ) money relative to goods, causing prices to rise.
+
+@332A4 max=63
+JP: 少なく<n>多く
+EN: Less<n>More
+
+@332EC max=119
+JP: コンピューターシステムにより銀行と家庭を結ぶ<n>金融サービスを、ホームバンキングという。
+EN: Home banking is a financial service that links banks and households through a computer system.
+
+@33364 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@333AC max=119
+JP: オピニオンとは、「意見」という意味である。
+EN: The word "opinion" means a person's view.
+
+@33424 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@3346C max=119
+JP: 宣伝や案内などのための<n>１枚刷りの印刷物のことを（　　　）という。
+EN: A single printed sheet used for advertising or information is called a ( ).
+
+@334E4 max=63
+JP: バックナンバー<n>奥付<n>リーフレット
+EN: Back issue<n>Colophon<n>Leaflet
+
+@3352C max=119
+JP: （　　　）に入れるのに適している語句はどれか？<n>貴社ますます（　　　）のこととお喜び申し上げます。
+EN: Which phrase best fills the blank?<n>We are delighted by your company's continued ( ).
+
+@335A4 max=63
+JP: ご健勝<n>ご発展<n>ご清祥
+EN: Good health<n>Prosperity<n>Well-being
+
+@335EC max=119
+JP: コンピューターを動かすためには<n>（　　　）が必要である。
+EN: A computer needs ( ) to operate.
+
+@33664 max=63
+JP: データベース<n>スキャナー<n>ソフトウェア
+EN: A database<n>A scanner<n>Software
+
+@336AC max=119
+JP: ８８歳を迎えた方にお祝品を送るとき、<n>上書きとして適当なのはどれか？
+EN: Which inscription is suitable for a gift celebrating someone's 88th birthday?
+
+@33724 max=63
+JP: 古希御祝<n>米寿御祝<n>白寿御祝
+EN: 70th Birthday<n>88th Birthday<n>99th Birthday
+
+@3376C max=119
+JP: 昇進した上司宛ての祝いの品を記録をする場合、<n>項目として不必要なものはどれか？
+EN: When logging gifts celebrating your boss's promotion, which detail is unnecessary?
+
+@337E4 max=63
+JP: 上書き<n>品名<n>贈り主の会社名
+EN: Gift inscription<n>Gift description<n>Sender's company
+
+@3382C max=119
+JP: 名刺の整理は、仕事上のものと<n>プライベートなものとに分けてしたほうがよい。
+EN: It is best to file business cards from work separately from those from personal contacts.
+
+@338A4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@338EC max=119
+JP: フォルダーで文書を整理する場合、<n>原則としてフォルダーは（　　　）。
+EN: When filing documents in folders, as a rule the papers should be ( ).
+
+@33964 max=63
+JP: とじる<n>とじない
+EN: Bound<n>Left unbound
+
+@339AC max=119
+JP: １０日ごとに発行される<n>刊行物のことを（　　　）という。
+EN: A publication issued every ten days is called a ( ).
+
+@33A24 max=63
+JP: 旬刊<n>創刊<n>季刊
+EN: Ten-day periodical<n>Debut issue<n>Quarterly
+
+@33A6C max=119
+JP: 新聞や雑誌などマスコミを通して<n>宣伝する方法を（　　　）という。
+EN: Promotion through mass media, such as newspapers and magazines, is called ( ).
+
+@33AE4 max=63
+JP: パブリシティー<n>キャンペーン<n>セールス
+EN: Publicity<n>A campaign<n>Sales
+
+@33B2C max=119
+JP: 次の中で、「贈答品」として使われるものはどれか？
+EN: Which of these is used as a gift?
+
+@33BA4 max=63
+JP: タイムカード<n>クレジットカード<n>ギフトカード
+EN: Time card<n>Credit card<n>Gift card
+
+@33BEC max=119
+JP: 仏式の葬儀の香典返しをする時の上書きは「御霊前」<n>である。
+EN: Buddhist funeral thank-you gifts should be labeled "Goreizen" (Before the Spirit).
+
+@33C64 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@33CAC max=119
+JP: 花を贈る手配をするように上司に頼まれた場合、<n>確認事項として不適切なのはどれか？
+EN: Your boss asks you to arrange a flower delivery. Which question is inappropriate?
+
+@33D24 max=63
+JP: 手配の時期<n>花屋の希望<n>花の種類の希望
+EN: When to arrange it<n>Preferred florist<n>Preferred flowers
+
+@33D6C max=119
+JP: 眼球の大部分を覆う３層の被殻のうち、<n>もっとも内側の層は網膜という。
+EN: The innermost of the three layers covering most of the eyeball is called the retina.
+
+@33DE4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@33E2C max=119
+JP: ＰＣＣＳでは各色相の代表色は全部で何種類あるか？
+EN: How many representative hues are there in the PCCS color system?
+
+@33EA4 max=63
+JP: １４種類<n>２４種類<n>４３種類
+EN: 14<n>24<n>43
+
+@33EEC max=119
+JP: ＰＣＣＳの色相環上の色で、<n>心理四原色といわれる色は次のうちどれか？
+EN: Which set lists the four psychological primary colors on the PCCS color wheel?
+
+@33F64 max=63
+JP: 赤、黒、緑、青<n>赤、黄、青緑、紫<n>赤、黄、緑、青
+EN: Red/Blk/Green/Blue<n>Red/Yel/Teal/Purple<n>Red/Yel/Green/Blue
+
+@33FAC max=119
+JP: 着色フィルタを重ねて得られる色は次のうちどれか？
+EN: Which of these colors is produced by layering colored filters?
+
+@34024 max=63
+JP: 回転混色<n>同時加法混色<n>減法混色
+EN: Rotational mixing<n>Simultaneous additive<n>Subtractive mixing
+
+@3406C max=119
+JP: 系統色による色の表示は、<n>（　　　）に適当な修飾語をつけて表す。
+EN: Systematic color names are formed by adding suitable modifiers to a (       ).
+
+@340E4 max=63
+JP: 慣用色名<n>基本色名<n>固有色名
+EN: Common color names<n>Basic color names<n>Proper color names
+
+@3412C max=119
+JP: 色料の三原色には、（　　　）の寒色が含まれる。<n>（　　　）に入るのはどれか？
+EN: The three pigment primaries include (       ) cool colors.<n>What fills the blank?
+
+@341A4 max=63
+JP: １色<n>２色<n>３色
+EN: 1 color<n>2 colors<n>3 colors
+
+@341EC max=119
+JP: リネンは（　　　）である。<n>（　　　）に入るのはどれか？
+EN: Linen is a (       ).<n>What fills the blank?
+
+@34264 max=63
+JP: 化学繊維<n>再生繊維<n>植物繊維
+EN: Synthetic fiber<n>Regenerated fiber<n>Plant fiber
+
+@342AC max=119
+JP: アパレルとは、<n>ファッション素材に用いられる布地である。
+EN: Apparel is fabric used as a material for fashion.
+
+@34324 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@3436C max=119
+JP: 同じ色でも周囲の色との関係によって、<n>見えやすさが変わる。これを（　　　）と呼ぶ。
+EN: A color's visibility changes depending on the colors around it.<n>This is called (       ).
+
+@343E4 max=63
+JP: 誘目性<n>視認性<n>演色性
+EN: Conspicuity<n>Visibility<n>Color rendering
+
+@3442C max=119
+JP: 虹彩は目に入る光を（　　　）する
+EN: The iris (       ) the light entering the eye.
+
+@344A4 max=63
+JP: 屈折<n>調節
+EN: Refracts<n>Regulates
+
+@344EC max=119
+JP: 日本工業規格では、無彩色の基本色名は、<n>何段階と定めているか？
+EN: How many levels of basic achromatic color names do Japanese Industrial Standards specify?
+
+@34564 max=63
+JP: ３段階<n>４段階<n>６段階
+EN: 3 levels<n>4 levels<n>6 levels
+
+@345AC max=119
+JP: 色彩体系の中から規則的に選び出された色同士は、<n>調和しやすくなる。これを（　　　）という。
+EN: Colors selected systematically from a color system tend to harmonize.<n>This is the principle of (       ).
+
+@34624 max=63
+JP: 近接の原理<n>否不明瞭性の原理<n>秩序の原理
+EN: Proximity<n>Unambiguity<n>Order
+
+@3466C max=119
+JP: 先染めの柄はどれか？
+EN: Which pattern is made using yarn dyed before weaving?
+
+@346E4 max=63
+JP: アニメ柄<n>文字柄<n>プリント柄
+EN: Anime motifs<n>Lettering<n>Printed patterns
+
+@3472C max=119
+JP: （　　　）によって規定した測色用の照明光を、<n>標準イルミナントという。
+EN: A standard illuminant is light for color measurement defined by its (       ).
+
+@347A4 max=63
+JP: 分光感度<n>分光分布<n>分光反射率
+EN: Spectral sensitivity<n>Power spectrum<n>Spectral reflectance
+
+@347EC max=119
+JP: 同時対比の研究から配色調和を６通りに分類した<n>化学者は？
+EN: Which chemist classified color harmony into six types based on studies of simultaneous contrast?
+
+@34864 max=63
+JP: シュブルール<n>ルード<n>パーキン
+EN: Chevreul<n>Rood<n>Perkin
+
+@348AC max=119
+JP: 壁に使う色は、次のどれが望ましいか？
+EN: Which type of color is best suited to walls?
+
+@34924 max=63
+JP: 低明度・高彩度<n>低明度・中彩度<n>高明度・低彩度
+EN: Dark, high chroma<n>Dark, mid chroma<n>Light, low chroma
+
+@3496C max=119
+JP: 全波長域にわたって１００パーセントの<n>反射率をもつ色を「オプティマルカラー」という。
+EN: A color with 100% reflectance across all wavelengths is called an "optimal color".
+
+@349E4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@34A2C max=119
+JP: ＤＩＮでは透明度をＳで表す。
+EN: In the DIN color system, S represents transparency.
+
+@34AA4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@34AEC max=119
+JP: 心理原色は全部で６種類ある。<n>そう唱えたのは次のうち誰か？
+EN: Who proposed that there are six psychological primary colors?
+
+@34B64 max=63
+JP: へリング<n>マンセル<n>リヒター
+EN: Hering<n>Munsell<n>Richter
+
+@34BAC max=119
+JP: 光源から出た光が直接目に入ったとき、<n>人間が感じる色をなんというか？
+EN: What do we call the color we see when light from a source enters our eyes directly?
+
+@34C24 max=63
+JP: 直接光<n>表面色<n>光源色
+EN: Direct light<n>Surface color<n>Light-source color
+
+@34C6C max=119
+JP: アメリカで色彩計画の色彩調節が<n>発祥したのはいつか？
+EN: When did color conditioning, a form of color planning, originate in the United States?
+
+@34CE4 max=63
+JP: １９２０年代<n>１９３０年代<n>１９４０年代
+EN: 1920s<n>1930s<n>1940s
+
+@34D2C max=119
+JP: 新築住宅でのインテリアの色彩計画は「事前検討」、<n>「調査分析」「色彩設計」の３段階に区分される。
+EN: Interior color planning for a new home has three stages: preliminary review, survey analysis and color design.
+
+@34DA4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@34DEC max=119
+JP: メンズファッションでカラーシャツが流行する<n>きっかけとなったのは（　　　）である。
+EN: The (       ) sparked the trend for colorful shirts in men's fashion.
+
+@34E64 max=63
+JP: ピーコック革命<n>インコ革命<n>カラー革命
+EN: Peacock Revolution<n>Parakeet Revolution<n>Color Revolution
+
+@34EAC max=119
+JP: 三刺激値がすべて同等の色は無彩色である。
+EN: A color whose three tristimulus values are all equal is achromatic.
+
+@34F24 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@34F6C max=119
+JP: 色度図の原点は、無彩色を表している。
+EN: The origin of a chromaticity diagram represents an achromatic color.
+
+@34FE4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@3502C max=119
+JP: １９６０年代、パリのオートクチュールでは<n>（　　　）を手掛ける店が増えてきた。
+EN: In the 1960s, more Paris haute couture houses began producing (       ).
+
+@350A4 max=63
+JP: 高級既製服<n>大衆衣料
+EN: Luxury ready-to-wear<n>Mass-market clothing
+
+@350EC max=119
+JP: ６０年代末にアメリカから伝えられ、<n>ファッション化したのは次のうちどれか？
+EN: Which arrived from America in the late 1960s and became a fashion trend?
+
+@35164 max=63
+JP: ウエスタン<n>ヒッピー<n>スポーツ
+EN: Western<n>Hippie<n>Sports
+
+@351AC max=119
+JP: 「調和は秩序に等しい」という考え方を基本とした、<n>色彩調和論を唱えたのは誰か？
+EN: Who proposed a theory of color harmony<n>based on the idea that "harmony equals order"?
+
+@35224 max=63
+JP: ルード<n>スペンサー<n>オストワルト
+EN: Rood<n>Spencer<n>Ostwald
+
+@3526C max=119
+JP: 更紗は、南国の花や果物などをモチーフにした<n>柄が特徴である。
+EN: Chintz features patterns inspired by<n>tropical flowers and fruits.
+
+@352E4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@3532C max=119
+JP: 化学反応によって、<n>繊維上で染料を合成して染める方法をなんというか？
+EN: What dyeing method uses chemical reactions<n>to form dyes directly on the fibers?
+
+@353A4 max=63
+JP: 反応染法<n>媒染染法<n>発色染法
+EN: Reactive dyeing<n>Mordant dyeing<n>Development dyeing
+
+@353EC max=119
+JP: （　　　）を行う場合、精油は３滴以下にする。
+EN: Use no more than three drops of essential oil for a (     ).
+
+@35464 max=63
+JP: 半身浴<n>全身浴<n>芳香浴法
+EN: Half-body bath<n>Full-body bath<n>Aroma diffusion
+
+@354AC max=119
+JP: ゼラニウムの精油は<n>ホルモンの調整作用に優れている。
+EN: Geranium essential oil is especially effective<n>at regulating hormones.
+
+@35524 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@3556C max=119
+JP: 鎮静作用に優れるものはどれか？
+EN: Which has a strong calming effect?
+
+@355E4 max=63
+JP: レモン<n>ジュニパー<n>ラベンダー
+EN: Lemon<n>Juniper<n>Lavender
+
+@3562C max=119
+JP: オーデコロンは、別名（　　　）の水という。
+EN: Eau de cologne is also known as "water of (     )."
+
+@356A4 max=63
+JP: ケルス<n>ケルト<n>ケルン
+EN: Kels<n>Celt<n>Cologne
+
+@356EC max=119
+JP: アロマポットは（　　　）式芳香拡散器である。
+EN: An aroma pot is a diffuser powered by (     ).
+
+@35764 max=63
+JP: 電気<n>ファン<n>キャンドル
+EN: Electricity<n>A fan<n>A candle
+
+@357AC max=119
+JP: 精油の抽出のとき、<n>レモンは水蒸気蒸留法で抽出される。
+EN: Lemon essential oil is extracted<n>by steam distillation.
+
+@35824 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@3586C max=119
+JP: ラベンダーは、イギリスやヨーロッパの<n>（　　　）地帯が原産である。
+EN: Lavender is native to the (     ) regions<n>of Britain and Europe.
+
+@358E4 max=63
+JP: 平原<n>高原<n>湿原
+EN: Plains<n>Highlands<n>Wetlands
+
+@3592C max=119
+JP: アロマテラピーに大きな影響をもたらした、<n>「伝承医学」とも呼ばれる医学はどれか？
+EN: Which system, also called "traditional medicine,"<n>had a major influence on aromatherapy?
+
+@359A4 max=63
+JP: リガベーダ<n>ヤグルベーダ<n>アーユルベーダ
+EN: Rigveda<n>Yajurveda<n>Ayurveda
+
+@359EC max=119
+JP: ＡＪＪとは、日本アロマテラピー協会の略である。
+EN: AJJ stands for the Aromatherapy Association of Japan.
+
+@35A64 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@35AAC max=119
+JP: 精油の原液が皮膚についたときは、<n>どう処置すればよいか？
+EN: What should you do if undiluted essential oil<n>gets on your skin?
+
+@35B24 max=63
+JP: 水で洗い流す<n>布で拭う<n>アルコール消毒
+EN: Rinse with water<n>Wipe with a cloth<n>Disinfect with alcohol
+
+@35B6C max=119
+JP: 精油は（　　　）で薄める。<n>（　　　）に当てはまらないものはどれか？
+EN: Essential oils are diluted with (     ).<n>Which does NOT belong in the blank?
+
+@35BE4 max=63
+JP: 水道水<n>蒸留水<n>ウォッカ
+EN: Tap water<n>Distilled water<n>Vodka
+
+@35C2C max=119
+JP: 「Ｃａｎａｎｇａ　ｏｄｏｒａｔａ」は、<n>イランイランの学名である。
+EN: "Cananga odorata" is the scientific name<n>for ylang-ylang.
+
+@35CA4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@35CEC max=119
+JP: 精油のネロリの抽出部位はどれか？
+EN: Which part of the plant is neroli essential oil extracted from?
+
+@35D64 max=63
+JP: 葉<n>花<n>果皮
+EN: Leaves<n>Flowers<n>Fruit peel
+
+@35DAC max=119
+JP: 人や霊長類は（　　　）が著しく発達している。
+EN: Humans and other primates have a highly developed (     ).
+
+@35E24 max=63
+JP: 大脳新皮質<n>小脳<n>大脳旧皮質
+EN: Neocortex<n>Cerebellum<n>Paleocortex
+
+@35E6C max=119
+JP: ウォーキングは有酸素運動である。
+EN: Walking is an aerobic exercise.
+
+@35EE4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@35F2C max=119
+JP: （　　　）は、高比重コレステロールのことである。
+EN: (     ) refers to high-density cholesterol.
+
+@35FA4 max=63
+JP: ＡＤＬ<n>ＨＤＬ<n>ＬＤＬ
+EN: ADL<n>HDL<n>LDL
+
+@35FEC max=119
+JP: ホホバ油は、（　　　）に自生する<n>ツゲ科の植物からとれる。
+EN: Jojoba oil comes from a plant in the boxwood family<n>that grows wild in (     ).
+
+@36064 max=63
+JP: 砂漠<n>湿地<n>高原
+EN: Deserts<n>Wetlands<n>Highlands
+
+@360AC max=119
+JP: クラリセージの科名はどれか？
+EN: Which plant family does clary sage belong to?
+
+@36124 max=63
+JP: イネ科<n>シソ科<n>キク科
+EN: Grass family<n>Mint family<n>Daisy family
+
+@3616C max=119
+JP: 柑橘系のオイルは（　　　）があるため、<n>使用した後は陽に当たらないよう注意する。
+EN: Citrus oils have (     ),<n>so take care to avoid sunlight after using them.
+
+@361E4 max=63
+JP: 光毒性<n>紫外性<n>柑橘性
+EN: Phototoxicity<n>UV reactivity<n>Citrus properties
+
+@3622C max=119
+JP: 視床下部は（　　　）の一部である。
+EN: The hypothalamus is part of the (     ).
+
+@362A4 max=63
+JP: 大脳辺縁系<n>間脳<n>中枢神経系
+EN: Limbic system<n>Diencephalon<n>Central nervous system
+
+@362EC max=119
+JP: 脂質１ｇ当たりエネルギー（　　　）ｋｃａｌである。
+EN: One gram of fat provides (   ) kcal of energy.
+
+@36364 max=63
+JP: ４<n>６<n>９
+EN: 4<n>6<n>9
+
+@363AC max=119
+JP: 全身浴は体調を崩しているときにこそ効果的である。
+EN: A full-body bath is especially effective when you are feeling unwell.
+
+@36424 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@3646C max=119
+JP: 南フランスのプロバンスにある（　　　）は、<n>香水の町と呼ばれている。
+EN: (   ), in Provence in southern France,<n>is known as the town of perfume.
+
+@364E4 max=63
+JP: プラハ<n>ボルドー<n>グラース
+EN: Prague<n>Bordeaux<n>Grasse
+
+@3652C max=119
+JP: 「Ｃｉｔｒｕｓ　ｐａｒａｄｉｓｉ」は、<n>グレープフルーツの学名である。
+EN: "Citrus paradisi" is the scientific name<n>for grapefruit.
+
+@365A4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@365EC max=119
+JP: （　　　）を下げる効果があるホルモンは、<n>インスリンである。
+EN: Insulin is a hormone that lowers<n>(   ).
+
+@36664 max=63
+JP: 血圧<n>脈拍<n>血糖値
+EN: Blood pressure<n>Pulse rate<n>Blood sugar
+
+@366AC max=119
+JP: ローズオットーは、精油の（　　　）と呼ばれる。
+EN: Rose otto is known as the (   ) of essential oils.
+
+@36724 max=63
+JP: 女神<n>女王<n>女帝
+EN: Goddess<n>Queen<n>Empress
+
+@3676C max=119
+JP: 太陽の動きに合わせ、朝起きて夜眠るリズムを<n>（　　　）リズムと呼ぶ。
+EN: The rhythm of waking by day and sleeping at night<n>is called the (   ) rhythm.
+
+@367E4 max=63
+JP: アルトディアン<n>アルカディアン<n>サーカディアン
+EN: Altodian<n>Arcadian<n>Circadian
+
+@3682C max=119
+JP: ラードオイルは精油を薄める基材として使用できる。
+EN: Lard oil can be used as a base for diluting essential oils.
+
+@368A4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@368EC max=119
+JP: 日本アロマテラピー協会は、トリートメントオイルの<n>希釈濃度を（　　　）とするよう推奨している。
+EN: The Japan Aromatherapy Association recommends<n>a (   ) dilution for massage oils.
+
+@36964 max=63
+JP: ０．１パーセント<n>０．５パーセント<n>１パーセント
+EN: 0.1 percent<n>0.5 percent<n>1 percent
+
+@369AC max=119
+JP: 脂質、タンパク質、ビタミン、ミネラル、（　　　）<n>を五大栄養素と呼ぶ。
+EN: The five major nutrients are fats, proteins,<n>vitamins, minerals and (   ).
+
+@36A24 max=63
+JP: 糖質<n>無機質<n>食物繊維
+EN: Carbohydrates<n>Minerals<n>Dietary fiber
+
+@36A6C max=119
+JP: 低い背当てと肘掛けが片方だけにある、<n>ソファ状の寝椅子を（　　　）という。
+EN: A sofa-like reclining seat with a low back and<n>an armrest at only one end is called a (   ).
+
+@36AE4 max=63
+JP: カウチ<n>スツール<n>オットマン
+EN: Couch<n>Stool<n>Ottoman
+
+@36B2C max=119
+JP: 表面仕上げ技術のひとつであるサテンは、<n>（　　　）仕上げともいう。
+EN: A satin surface finish is also called<n>a (   ) finish.
+
+@36BA4 max=63
+JP: フォッグ<n>スクラッチ<n>シャープ
+EN: Fog<n>Scratch<n>Sharp
+
+@36BEC max=119
+JP: 防滴型の照明は、湿度が９０パーセントを越える<n>浴室などに取り付ける
+EN: Drip-proof lights are installed in bathrooms<n>where humidity exceeds 90%.
+
+@36C64 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@36CAC max=119
+JP: 最も「アクリル系」に近い性質を持つ繊維はどれか？
+EN: Which fiber has properties most similar to acrylic fibers?
+
+@36D24 max=63
+JP: ラバー<n>ポリプロピレン<n>ウール
+EN: Rubber<n>Polypropylene<n>Wool
+
+@36D6C max=119
+JP: 着色ガラスに鉄やニッケルを加え、紫外線を透過させ<n>ないようにしたガラスを（　　　）という。
+EN: Colored glass with added iron or nickel to block<n>ultraviolet rays is called (   ).
+
+@36DE4 max=63
+JP: 熱線吸収ガラス<n>結晶化ガラス<n>紫外線反射ガラス
+EN: Heat-absorbing glass<n>Glass-ceramic<n>UV-reflecting glass
+
+@36E2C max=119
+JP: （　　　）を切り抜き、コンロを設置することを<n>ドロップインという。
+EN: A drop-in stove is installed by cutting<n>an opening in the (   ).
+
+@36EA4 max=63
+JP: ビルト<n>ワークトップ<n>キャビネット
+EN: Built-in unit<n>Worktop<n>Cabinet
+
+@36EEC max=119
+JP: 市場調査は、<n>マーケティングミックスの構成要素である。
+EN: Market research is a component<n>of the marketing mix.
+
+@36F64 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@36FAC max=119
+JP: 逆系列戦略とは、流通業者がメーカーを<n>（　　　）に置こうとする戦略である。
+EN: In reverse keiretsu, a distributor aims to place<n>a manufacturer (   ).
+
+@37024 max=63
+JP: 自己と同列<n>自己の上位<n>自己の支配下
+EN: On its own level<n>Above itself<n>Under its control
+
+@3706C max=119
+JP: 売価値入率が（　　　）パーセントの商品の、<n>原価値入率は２５パーセントである。
+EN: A product with a margin of (    ) percent on sales<n>has a markup of 25 percent on cost.
+
+@370E4 max=63
+JP: １０<n>１５<n>２０
+EN: 10<n>15<n>20
+
+@3712C max=119
+JP: 国内の図書館で用いられている分類法は、<n>（　　　）である。
+EN: The classification system used in Japanese libraries<n>is (   ).
+
+@371A4 max=63
+JP: ＮＤＣ<n>ＮＯＰ<n>ＮＧＫ
+EN: NDC<n>NOP<n>NGK
+
+@371EC max=119
+JP: ＣＡＭとは、<n>コンピュータ制御生産システムのことである。
+EN: CAM is a computer-controlled<n>manufacturing system.
+
+@37264 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@372AC max=119
+JP: アイドマモデルとは、購買心理過程を示す<n>（　　　）段階説である。
+EN: The AIDMA model divides the psychology of buying<n>into (   ) stages.
+
+@37324 max=63
+JP: ３<n>４<n>５
+EN: 3<n>4<n>5
+
+@3736C max=119
+JP: 連鎖販売取引のクーリングオフ期間は、<n>契約書の交付を受けてから（　　　）日間である。
+EN: For multilevel marketing, the cooling-off period is<n>(   ) days from receipt of the contract.
+
+@373E4 max=63
+JP: ２０<n>２５<n>３０
+EN: 20<n>25<n>30
+
+@3742C max=119
+JP: 民法において（　　　）による契約は、<n>取り消すことができる。
+EN: Under civil law, a contract made through (     ) can be canceled.
+
+@374A4 max=63
+JP: 強制法規<n>公序良俗違反<n>詐欺・脅迫
+EN: Mandatory laws<n>Public policy breach<n>Fraud or duress
+
+@374EC max=119
+JP: カーペット製品に<n>ＮＰＣマークがつくのは不自然である。
+EN: It is unusual for carpet products to bear the NPC mark.
+
+@37564 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@375AC max=119
+JP: 鉄骨鉄筋コンクリート構造のことを、<n>（　　　）構造という。
+EN: A steel-framed reinforced concrete structure is known as a (     ) structure.
+
+@37624 max=63
+JP: シェル<n>ＳＲＣ<n>プラットホーム
+EN: Shell<n>SRC<n>Platform
+
+@3766C max=119
+JP: 湿式工法とは、ラスボードやラス下地に<n>（　　　）などを使って仕上げる工法である。
+EN: In wet construction, lath boards or lath bases are finished with materials such as (     ).
+
+@376E4 max=63
+JP: ブロック<n>石膏ボード<n>モルタル
+EN: Blocks<n>Plasterboard<n>Mortar
+
+@3772C max=119
+JP: ヒバは国産針葉樹であり、耐蟻性や耐朽性に富む。
+EN: Hiba is a Japanese conifer with excellent resistance to termites and decay.
+
+@377A4 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@377EC max=119
+JP: 「蔀戸」の読み方はどれか？
+EN: What is the Japanese term for a wooden lattice shutter that swings upward?
+
+@37864 max=63
+JP: しばみど<n>しずみど<n>しとみど
+EN: Shibamido<n>Shizumido<n>Shitomido
+
+@378AC max=119
+JP: メガロンとは、ギリシャ神殿の基本型となった<n>（　　　）文化の住居建築様式である。
+EN: The megaron, a model for Greek temples, was a house style of the (     ) civilization.
+
+@37924 max=63
+JP: ミケーネ<n>エーゲ<n>ヤヌス
+EN: Mycenaean<n>Aegean<n>Janus
+
+@3796C max=119
+JP: 図書館の椅子配置が例としてあげられる、<n>プライバシーを優先した離反の集合系はどれか？
+EN: Which seating layout prioritizes privacy and separation, as seen in libraries?
+
+@379E4 max=63
+JP: ソシオペタル<n>ソシオフーガル<n>パーソナルエリア
+EN: Sociopetal<n>Sociofugal<n>Personal area
+
+@37A2C max=119
+JP: ＰＣＣＳは、（　　　）が開発した<n>色彩の表示体系である。
+EN: PCCS is a color notation system developed by the (     ).
+
+@37AA4 max=63
+JP: 色彩管理局<n>日本色彩管理局<n>日本色彩研究所
+EN: Color Bureau<n>Japan Color Bureau<n>Japan Color Res. Inst.
+
+@37AEC max=119
+JP: タイルより畳の方が吸音率に優れている。
+EN: Tatami mats absorb sound better than tiles do.
+
+@37B64 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@37BAC max=119
+JP: 高低差によってタンク内の水を排水洗浄する方式を<n>（　　　）弁式という。
+EN: A (     ) valve system flushes water from a tank using the difference in height.
+
+@37C24 max=63
+JP: 高架タンク<n>シスタン<n>ブローアウト
+EN: Elevated tank<n>Cistern<n>Blowout
+
+@37C6C max=119
+JP: 斜透視図法は、前後左右と（　　　）方向の<n>遠近を表現する３消点図法のことである。
+EN: Oblique perspective uses three vanishing points to show depth, width and (     ).
+
+@37CE4 max=63
+JP: 高さ<n>奥行き<n>歪み
+EN: Height<n>Depth<n>Distortion
+
+@37D2C max=119
+JP: 木造一戸建て住宅は、（　　　）を受けない。
+EN: Detached wooden houses are not subject to (     ).
+
+@37DA4 max=63
+JP: 防火法制<n>防炎法制<n>防炎規制
+EN: Fire prevention laws<n>Flameproofing laws<n>Flameproofing rules
+
+@37DEC max=119
+JP: 比重が小さく耐熱性に優れた、<n>ポリプロピレンに近似した樹脂はどれか？
+EN: Which lightweight, heat-resistant resin is similar to polypropylene?
+
+@37E64 max=63
+JP: ポリアミド<n>ポリエチレン<n>ポリ塩化ビニル
+EN: Polyamide<n>Polyethylene<n>Polyvinyl chloride
+
+@37EAC max=119
+JP: 新用途の開発は、製品ライフサイクル延命策である。
+EN: Developing new uses for a product extends its life cycle.
+
+@37F24 max=63
+JP: ○<n>×
+EN: True<n>False
+
+@37F6C max=119
+JP: 最も美しい比率と呼ばれ、比例値が「１対１．６１８」<n>であるのは（　　　）である。
+EN: The (     ), often called the most beautiful proportion, has a ratio of 1 to 1.618.
+
+@37FE4 max=63
+JP: 黄金比<n>純金比<n>錬金比
+EN: Golden ratio<n>Pure gold ratio<n>Alchemy ratio
+
+@3802C max=119
+JP: 一般的に、イスに最も適している樹種はどれか？
+EN: Which type of wood is generally best suited for chairs?
+
+@380A4 max=63
+JP: ヒノキ<n>ヒッコリー<n>ブナ
+EN: Hinoki cypress<n>Hickory<n>Beech

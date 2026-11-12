@@ -1,0 +1,19 @@
+# source: PSP_GAME/USRDIR/data/script/gk_boss.scb
+# format: scb
+# width: 44
+
+@5144 max=639
+JP: わが居城に迷い込んだ、哀れな人間よ！<n>おまえに最大級に邪悪な占いをしてやろう！
+EN: Pitiful human, you have strayed into my castle!<n>I shall tell you the most diabolical fortune of all!
+
+@53C4 max=639
+JP: ふはは、ならば立ち去れっー！<n>我はガイコツキング、悪の魔王なのだ！
+EN: Fwahaha! Then begone!<n>I am the Skull King, lord of evil!
+
+@5644 max=639
+JP: ふはは、この邪悪な結果に震えて眠れ！<n>我はガイコツキング、悪の魔王なのだ！
+EN: Fwahaha! May this wicked fortune haunt your dreams!<n>I am the Skull King, lord of evil!
+
+@58C4 max=639
+JP: <<テキストチェック>><n>表示したい会話メッセージのIDを選んでください。
+EN: 

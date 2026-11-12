@@ -1,0 +1,1803 @@
+# source: PSP_GAME/USRDIR/data/misctext/kakugen.bin
+# format: rec
+# width: 42
+
+@#0
+JP: 解決策が分らないのではない。<n>問題が分っていないのだ。<n>ｂｙチェスタートン
+EN: It is not that we cannot find the solution.<n>It is that we do not understand the problem.<n>by Chesterton
+
+@#1
+JP: 哲学がないと人間は<n>自分が何のために生まれたか分からない。<n>宗教がないと<n>自分がなぜ生まれたか分からない。<n>ｂｙエリックギル
+EN: Without philosophy, we cannot know<n>what we were born for.<n>Without religion, we cannot know<n>why we were born at all.<n>by Eric Gill
+
+@#2
+JP: 私が自分だけのために働いている時には、<n>自分だけしか私のために働かなかった。<n>しかし、<n>私が人のために働くようになってからは、<n>人も私のために働いてくれたのだ。<n>ｂｙフランクリン
+EN: When I worked only for myself,<n>I was the only one working for me.<n>But once<n>I began working for others,<n>they began working for me, too.<n>by Franklin
+
+@#3
+JP: 腹が立ったら、<n>何か言ったり、したりする前に十まで数えよ。<n>それでも怒りがおさまらなかったら<n>百まで数えよ。<n>それでもだめなら千まで数えよ。<n>ｂｙジェファーソン
+EN: When angry,<n>count to ten before you speak or act.<n>If you are still angry,<n>count to a hundred. If that fails, count to a thousand.<n>by Jefferson
+
+@#4
+JP: 悪の葉っぱに斧を向ける人は千人いても、<n>根っこに斧を向けるものは一人しかいない。<n>ｂｙソロー
+EN: For every thousand people hacking at the leaves of evil,<n>only one strikes at its roots.<n>by Thoreau
+
+@#5
+JP: 金は天下のまわりものだ。<n>いつもこちらを<n>よけてまわるのが気にくわないが。<n>ｂｙツルゲーネフ
+EN: Money makes its rounds in this world.<n>What annoys me is<n>how it always manages to go around me.<n>by Turgenev
+
+@#6
+JP: 時はその使い方によって金にも鉛にもなる。<n>ｂｙプレヴォ
+EN: Time becomes gold or lead, depending on how you use it.<n>by Prevost
+
+@#7
+JP: 過去のことは過去のことだといって<n>片付けてしまえば、それによって、<n>我々は未来をも放棄してしまうことになる。<n>ｂｙチャーチル
+EN: If we dismiss the past<n>by saying, "What's done is done,"<n>we surrender the future as well.<n>by Churchill
+
+@#8
+JP: どんな困難な状況にあっても、<n>解決策は必ずある。<n>救いのない運命というものはない。<n>災難に合わせて、どこか一方の扉を開けて、<n>救いの道を残している。<n>ｂｙセルバンテス
+EN: However difficult the situation,<n>there is always a solution.<n>No fate is utterly hopeless.<n>With every disaster, a door is left open somewhere,<n>offering a way to safety.<n>by Cervantes
+
+@#9
+JP: 今日という日を自分自身のものと<n>呼びうる人は幸せである。<n>いや、彼のみが幸せである。<n>ｂｙドライデン
+EN: Happy is the person who can call<n>this day their own.<n>Indeed, only that person is happy.<n>by Dryden
+
+@#10
+JP: 人生はチャンスだ。結婚もチャンスだ。<n>恋愛もチャンスだ。と、<n>したり顔して教える苦労人が多いけれども、<n>私は、そうでないと思う。<n>ｂｙ太宰治
+EN: Life is a chance. Marriage is a chance.<n>Love is a chance. So say<n>many worldly souls, with knowing looks.<n>But I do not agree.<n>by Osamu Dazai
+
+@#11
+JP: 金銭は無慈悲な主人だが、<n>有益な召使いにもなる。<n>ｂｙユダヤのことわざ
+EN: Money is a merciless master,<n>but it can be a useful servant.<n>A Jewish proverb
+
+@#12
+JP: 将来のことを考えていると憂うつになった<n>ので、そんなことはやめてマーマレードを<n>作ることにした。オレンジを刻んだり、<n>床を磨いたりするうちに、気分が明るく<n>なっていくのには全くびっくりする。<n>ｂｙＤ・Ｈ・ローレンス
+EN: Thinking about the future made me miserable,<n>so I stopped and decided to make marmalade.<n>It is quite astonishing how chopping oranges<n>and polishing the floor<n>can lift your spirits.<n>by D. H. Lawrence
+
+@#13
+JP: 真の友をもてないのは<n>まったく惨めな孤独である。<n>友人が無ければ世界は荒野に過ぎない。<n>ｂｙベーコン
+EN: To have no true friend<n>is a wretched loneliness indeed.<n>Without friends, the world is only a wilderness.<n>by Bacon
+
+@#14
+JP: 恋をしている人間は、どんなことでも<n>まず恋愛に結び付けて考えるものである。<n>ｂｙサント・ブーヴ
+EN: A person in love sees everything<n>through the lens of love.<n>by Sainte-Beuve
+
+@#15
+JP: 過ぎ去りし麗しき日々は、<n>再び我が元に返り来たらず。<n>ｂｙテニソン
+EN: Those lovely days gone by<n>will never return to me.<n>by Tennyson
+
+@#16
+JP: 雨は一人だけに降り注ぐわけではない。<n>ｂｙロングフェロー
+EN: The rain does not fall on you alone.<n>by Longfellow
+
+@#17
+JP: 二人の間に恋がなくなったとき、<n>愛し愛された昔を恥ずかしく思わない人は<n>ほとんどいない<n>ｂｙラ・ロシュフーコー
+EN: When love between two people fades,<n>few can look back without embarrassment<n>on the days when they loved and were loved.<n>by La Rochefoucauld
+
+@#18
+JP: 新しい料理の発見は、<n>新しい星の発見よりも人類を幸福にする。<n>ｂｙサヴァラン
+EN: The discovery of a new dish brings humanity<n>more happiness than the discovery of a new star.<n>by Brillat-Savarin
+
+@#19
+JP: 報いられぬ恋は<n>霜にうたれてしおれた樹木に似ている。<n>ｂｙローぺ・デ・べガ
+EN: Unrequited love is like a tree<n>withered by frost.<n>by Lope de Vega
+
+@#20
+JP: その日その日が一年中の最善の日である。<n>ｂｙエマソン
+EN: Each day is the best day of the year.<n>by Emerson
+
+@#21
+JP: 他人と比較して、<n>他人が自分より優れていたとしても、<n>それは恥ではない。しかし、去年の自分より<n>今年の自分が優れていないのは立派な恥だ。<n>ｂｙラポック
+EN: If you compare yourself with others<n>and find them better than you,<n>there is no shame in that. But to be no better this year<n>than you were last year is shameful indeed.<n>by Lubbock
+
+@#22
+JP: 地獄の沙汰も金次第。<n>ｂｙ竹川黙阿弥
+EN: Even in hell, money talks.<n>by Mokuami Kawatake
+
+@#23
+JP: 努力だ。勉強だ。それが天才だ。<n>誰よりも三倍、四倍、五倍勉強する者、<n>それが天才だ。<n>ｂｙ野口英世
+EN: Effort. Study. That is genius.<n>The person who studies three, four, five times harder<n>than anyone else: that is a genius.<n>by Hideyo Noguchi
+
+@#24
+JP: 運の悪い人は安心するがよい。<n>なぜなら、なおいっそうの悪運に<n>おちいる心配はないから。<n>ｂｙオーヴィット
+EN: Those with bad luck may rest easy.<n>After all, they need not fear<n>that their luck will get any worse.<n>by Ovid
+
+@#25
+JP: 仕事を追え。仕事に追われるな。<n>ｂｙフランクリン
+EN: Chase your work. Do not let it chase you.<n>by Franklin
+
+@#26
+JP: 賢者が格言をつくり、<n>愚者がそれをくりかえす。<n>ｂｙパルマー
+EN: The wise make maxims,<n>and fools repeat them.<n>by Palmer
+
+@#27
+JP: 星をつかもうとして手を伸ばしても、<n>なかなかつかめないかもしれない。<n>でも星をつかもうとして<n>泥をつかまされる事はありません。<n>ｂｙレオ・バネット
+EN: When you reach for the stars,<n>you may not manage to catch one.<n>But reaching for the stars<n>will never leave you holding a handful of mud.<n>by Leo Burnett
+
+@#28
+JP: 問題なのは人生ではなく、<n>人生に対する勇気だ。<n>ｂｙサー・ヒュー・ウォルポール
+EN: The problem is not life itself,<n>but finding the courage to face it.<n>by Sir Hugh Walpole
+
+@#29
+JP: 誰もが自分の選んだ運命や<n>偶然与えられた運命に満足せず、<n>他の道を歩んだ人々を羨むのは<n>どういうわけだろう。<n>ｂｙホラーチウス
+EN: Why is it that no one is content<n>with the fate they chose<n>or the one chance gave them,<n>but envies those who took another path?<n>by Horace
+
+@#30
+JP: その女性がもし男であったなら<n>きっと友達に選んだろう、<n>と思われるような女でなければ<n>妻に選んではいけない。<n>ｂｙジュベール
+EN: Do not choose a woman as your wife<n>unless you can honestly say,<n>"If she were a man,<n>I would choose her as my friend."<n>by Joubert
+
+@#31
+JP: 人生は苦しむためのものではない。<n>それはただ、一つの所から別の所へと<n>穏やかに進んで行くものなのだ。<n>ちょうど、天気のよい日に<n>谷間をゆっくり歩いてゆくように。<n>ｂｙワイルド
+EN: Life is not meant for suffering.<n>It is simply a gentle journey<n>from one place to another,<n>like a leisurely walk through a valley<n>on a fine day.<n>by Wilde
+
+@#32
+JP: 世の中の人は何とも言わば言え<n>わが成すことは我のみぞ知る<n>ｂｙ坂本龍馬
+EN: Let the world say what it will.<n>I alone know what I set out to do.<n>by Ryoma Sakamoto
+
+@#33
+JP: 弱き人こそ薄情である。<n>やさしさは強き人にしか期待できない。<n>ｂｙレオ・ロスキン
+EN: It is the weak who are cruel.<n>Only the strong can be counted on for kindness.<n>by Leo Rosten
+
+@#34
+JP: なんと大洋の美しいことよ！<n>なんと大空の澄んでいることか！<n>点のような太陽！<n>何事が起ころうと、この瞬間、<n>生きていることでたくさんだ。<n>ｂｙリンドバーグ
+EN: How beautiful the ocean!<n>How clear the vast sky!<n>The sun, a tiny speck!<n>Whatever may happen, at this moment,<n>it is enough simply to be alive.<n>by Lindbergh
+
+@#35
+JP: 財産は来るもので、作るものではない。<n>ｂｙヘンリー・フォード
+EN: Wealth is something that comes to you, not something you make.<n>by Henry Ford
+
+@#36
+JP: 死んだら葬儀屋も悲しんでくれるくらいに<n>一生懸命生きよう。<n>ｂｙマーク・トウェイン
+EN: Live so fully that when you die,<n>even the undertaker will mourn.<n>by Mark Twain
+
+@#37
+JP: たとえ今日負けても、人生は続くのさ。<n>ｂｙメチージュ
+EN: Even if you lose today, life goes on.<n>by Mecir
+
+@#38
+JP: 我々の直面する重要な問題は、<n>それをつくったときと同じ考えのレベルで<n>解決することは出来ない。<n>ｂｙアインシュタイン
+EN: The great problems we face<n>cannot be solved with the same level of thinking<n>that created them.<n>by Einstein
+
+@#39
+JP: 明日だ明日だ、今日はやめよう。<n>怠惰な人達がこういうのを聞くがいい。<n>ｂｙワイセ
+EN: "Tomorrow, tomorrow, never today!"<n>Just listen to what the lazy say.<n>by Weisse
+
+@#40
+JP: 人々は悲しみを分かち合ってくれる<n>友達さえいれば、悲しみを和らげられる。<n>ｂｙシェークスピア
+EN: Sorrow grows lighter when we have a friend<n>to share it with.<n>by William Shakespeare
+
+@#41
+JP: われわれは現在だけを耐え忍べばよい。<n>過去にも未来にも苦しむ必要はない。<n>過去はもう存在しないし、<n>未来はまだ存在していないのだから。<n>ｂｙアラン
+EN: We need only endure the present.<n>There is no need to suffer over the past or future.<n>The past no longer exists,<n>and the future does not exist yet.<n>by Alain
+
+@#42
+JP: 恩を受けた人は<n>その恩を心に留めておかなければならない。<n>しかし、恩を与えた人は<n>それを覚えているべきではない。<n>ｂｙキケロ
+EN: Those who receive a kindness<n>must keep it in their hearts.<n>But those who give a kindness<n>should forget it.<n>by Cicero
+
+@#43
+JP: 金持ちでも貧乏人でも<n>強い者でも弱い者でも、<n>遊んで暮らしている市民はみんな詐欺師だ。<n>ｂｙルソー
+EN: Rich or poor,<n>strong or weak,<n>every citizen who lives in idleness is a cheat.<n>by Jean-Jacques Rousseau
+
+@#44
+JP: 未来のことは分らない。しかし、我々には<n>過去が希望を与えてくれるはずである。<n>ｂｙチャーチル
+EN: We cannot know the future, but surely<n>the past can give us hope.<n>by Winston Churchill
+
+@#45
+JP: 傷ついたのは、生きたからである。<n>ｂｙ高見順
+EN: You have been hurt because you have lived.<n>by Jun Takami
+
+@#46
+JP: 友人が成功するたびに、<n>私は少しずつ死んでゆく。<n>ｂｙゴア・ヴィダル
+EN: Every time a friend succeeds,<n>I die a little.<n>by Gore Vidal
+
+@#47
+JP: 人は、運命を避けようとしてとった道で、<n>しばしば運命にであう。<n>ｂｙラ・フォンテーヌ
+EN: We often meet our fate on the road<n>we took to escape it.<n>by Jean de La Fontaine
+
+@#48
+JP: たとえあなたが何をしていようとも、<n>それをしている自分を愛せ。<n>ｂｙタデウス・ゴラス
+EN: Whatever you may be doing,<n>love yourself for doing it.<n>by Thaddeus Golas
+
+@#49
+JP: 涙とともにパンを食べたものでなければ<n>人生の味はわからない。<n>ｂｙゲーテ
+EN: Unless you have eaten bread in tears,<n>you cannot know the taste of life.<n>by Johann Wolfgang von Goethe
+
+@#50
+JP: 「人を外見で判断するな」<n>という教訓は事実でない。<n>人は誰でも第一印象で評価している。<n>だから、外見には気を付けろ。<n>ｂｙカリン・アイルランド
+EN: "Don't judge people by appearances"<n>isn't how the world really works.<n>Everyone judges by first impressions.<n>So take care of your appearance.<n>by Karin Ireland
+
+@#51
+JP: もしも心がすべてなら、<n>いとしいお金はなにになる。<n>ｂｙフランク・シナトラ
+EN: If the heart is all that matters,<n>what is dear old money for?<n>by Frank Sinatra
+
+@#52
+JP: 書物なき部屋は魂なき肉体のごとし。<n>ｂｙキケロ
+EN: A room without books is like a body without a soul.<n>by Cicero
+
+@#53
+JP: 愛することによって失うものは何もない。<n>しかし、愛することを怖がっていたら、<n>何も得られない。<n>ｂｙＢ・ｄ・アンジェリス
+EN: You lose nothing by loving.<n>But if you are afraid to love,<n>you gain nothing.<n>by Barbara de Angelis
+
+@#54
+JP: 幸せでありたいというのか。<n>まず苦悩することを覚えよ。<n>ｂｙツルゲーネフ
+EN: Do you wish to be happy?<n>First, learn to suffer.<n>by Ivan Turgenev
+
+@#55
+JP: 人生は、<n>ケチな心配事ばかりしているのには短すぎる。<n>ｂｙＣ・キングスリー
+EN: Life is too short<n>to spend it on petty worries.<n>by Charles Kingsley
+
+@#56
+JP: 力なき正義は無能であり、<n>正義なき力は圧制である。<n>力なき正義は反抗を受け、<n>正義なき力は弾劾を受ける。<n>それゆえ正義を力を結合せねばならない。<n>ｂｙパスカル
+EN: Justice without strength is powerless;<n>strength without justice is tyranny.<n>Justice without strength meets resistance;<n>strength without justice meets condemnation.<n>Therefore, justice and strength must be united.<n>by Blaise Pascal
+
+@#57
+JP: 初恋に勝って人生に失敗する<n>というのは良くある例で、<n>初恋は破れるほうがいいと言う説もある。<n>ｂｙ三島由紀夫
+EN: Many win their first love<n>only to fail at life.<n>Some say it is better for first love to end in heartbreak.<n>by Yukio Mishima
+
+@#58
+JP: 食欲なくして食べることが<n>健康に害あるごとく、<n>欲望を伴わぬ勉強は記憶をそこない、<n>記憶したことを保存しない。<n>ｂｙダ・ビンチ
+EN: Just as eating without an appetite<n>harms your health,<n>studying without desire harms your memory<n>and leaves you unable to retain what you learn.<n>by Leonardo da Vinci
+
+@#59
+JP: 人間が人間として生きていくのに<n>一番大切なのは、頭の良し悪しではなく、<n>心の良し悪しだ。<n>ｂｙ中村天風
+EN: What matters most in living a decent human life<n>isn't how clever your mind is,<n>but how good your heart is.<n>by Tempu Nakamura
+
+@#60
+JP: 一番だまし易い人間は、<n>すなわち、自分自身である。<n>ｂｙパルワー・リットン
+EN: The easiest person to deceive<n>is yourself.<n>by Edward Bulwer-Lytton
+
+@#61
+JP: 自分自信を幸福だと思わない人は、<n>決して幸福になれない。<n>ｂｙサイラス
+EN: Those who do not consider themselves happy<n>can never be happy.<n>by Publilius Syrus
+
+@#62
+JP: 一番大きな愛は母親の愛、<n>次は犬の愛、次は恋人の愛。<n>ｂｙポリッシュ
+EN: The greatest love is a mother's,<n>then a dog's, then a lover's.<n>Polish proverb
+
+@#63
+JP: 人間は負けたら終わりなのではない。<n>辞めたら終わりなのだ。<n>ｂｙリチャード・Ｍ・ニクソン
+EN: You aren't finished when you lose.<n>You're finished when you quit.<n>by Richard M. Nixon
+
+@#64
+JP: 人生は、私たちが人生とは何かを知る前に<n>もう半分過ぎている。<n>ｂｙＷ・Ｅ・ヘンリー
+EN: Life is already half over<n>before we know what it is.<n>by W. E. Henley
+
+@#65
+JP: あらゆる生あるものの目指すところは<n>死である。<n>ｂｙフロイト
+EN: The goal of all living things<n>is death.<n>by Sigmund Freud
+
+@#66
+JP: 老人はあらゆる事を信じる。<n>中年はあらゆる事を疑う。<n>青年はあらゆる事を知っている。<n>ｂｙワイルド
+EN: The old believe everything.<n>The middle-aged doubt everything.<n>The young know everything.<n>by Oscar Wilde
+
+@#67
+JP: 世の中には創造する天才があるように、<n>探す天才もあり、書く天才があるように、<n>読む天才もある。<n>ｂｙヴァレリー
+EN: Just as there is genius in creating,<n>there is genius in discovering; just as in writing,<n>there is genius in reading.<n>by Paul Valery
+
+@#68
+JP: 恋をすることは苦しむことだ。<n>苦しみたくないなら、恋をしてはいけない。<n>でもそうすると、恋をしていないことで<n>また苦しむことになる。<n>ｂｙウディ・アレン
+EN: To love is to suffer.<n>To avoid suffering, you must not love.<n>But then you suffer<n>from not loving.<n>by Woody Allen
+
+@#69
+JP: 友人の失敗には目をつぶれ、<n>だが悪口には目をつぶるな。<n>ｂｙフランスのことわざ
+EN: Turn a blind eye to a friend's faults,<n>but never to their slander.<n>French proverb
+
+@#70
+JP: 時間を浪費するな、<n>人生は時間の積み重ねなのだから。<n>ｂｙフランクリン
+EN: Do not waste time,<n>for time is what life is made of.<n>by Benjamin Franklin
+
+@#71
+JP: 貧乏人の写真が新聞に出るのは、<n>犯罪を犯したときに限られる。<n>ｂｙゴーリキー
+EN: The poor only get their pictures in the newspaper<n>when they commit a crime.<n>by Maxim Gorky
+
+@#72
+JP: 人間は、自分が他人より劣っているのは<n>能力のためでなく、<n>運のせいだと思いたがるものだ。<n>ｂｙプルタルコス
+EN: People like to believe they fall behind others<n>because of bad luck,<n>rather than a lack of ability.<n>by Plutarch
+
+@#73
+JP: たいていの人々は、<n>運命に過度の要求をすることによって、<n>自ら不満の種をつくっている。<n>ｂｙフンボルト
+EN: Most people<n>ask too much of fate,<n>and so sow the seeds of their own discontent.<n>by Humboldt
+
+@#74
+JP: 敵を知り己を知れば百戦危うからず<n>ｂｙ孫子
+EN: Know your enemy and yourself, and you need not fear a hundred battles.<n>by Sun Tzu
+
+@#75
+JP: 貧乏はハシカと同じだ。<n>どうせかかるなら早いほうがいい。<n>貧乏な家に生まれたことを喜べ。<n>ｂｙ本田静六
+EN: Poverty is like measles.<n>If you must catch it, the sooner the better.<n>Be glad you were born poor.<n>by Seiroku Honda
+
+@#76
+JP: 俺たちの一生を台無しにするのは、<n>運なんて言うものじゃない。人間なんだ。<n>ｂｙガルシン
+EN: It isn't some thing called fate that ruins our lives.<n>It's people.<n>by Vsevolod Garshin
+
+@#77
+JP: カリフラワーの中にいる虫は、<n>カリフラワーが全世界だと思っている。<n>ｂｙユダヤのことわざ
+EN: A worm inside a cauliflower<n>thinks the cauliflower is the whole world.<n>Jewish proverb
+
+@#78
+JP: 誠実に君の時間を利用せよ！<n>何かを理解しようと思ったら、遠くを探すな。<n>ｂｙゲーテ
+EN: Make honest use of your time!<n>If you wish to understand something, don't look far away.<n>by Johann Wolfgang von Goethe
+
+@#79
+JP: 時のある間にバラの花を摘むがよい。<n>時は絶えず流れ行き、今日微笑んでいる花も<n>明日には枯れてしまうのだから。<n>ｂｙへリック
+EN: Gather roses while you have time.<n>Time flows on, and the flower smiling today<n>will have withered by tomorrow.<n>by Robert Herrick
+
+@#80
+JP: 旅行は人間を謙虚にします。<n>世の中で人間の占める立場が、<n>いかにささやかなものであるかを<n>つくづく悟らされるからです。<n>ｂｙフローベル
+EN: Travel makes us humble.<n>It brings home to us<n>just how small a place<n>we occupy in the world.<n>by Gustave Flaubert
+
+@#81
+JP: 「時」の歩みは三重である。<n>未来はためらいつつ近づき、<n>現在は矢のように速く飛び去り、<n>過去は永久に静かに立っている。<n>ｂｙシラー
+EN: Time moves in three ways.<n>The future approaches hesitantly,<n>the present flies past like an arrow,<n>and the past stands forever still.<n>by Friedrich Schiller
+
+@#82
+JP: 恋の火は、ときとして友情の灰を残す。<n>ｂｙレニエ
+EN: The fire of love sometimes leaves the ashes of friendship.<n>by Henri de Regnier
+
+@#83
+JP: 落し物の広告。<n>昨日、日の出から日の入りの間のどこかで、<n>それぞれ六十分のダイヤモンドをちりばめた<n>貴重な時間を紛失。なお、拾い主には<n>賞金なし。永遠に失われしゆえ。<n>ｂｙホーリス・マン
+EN: Lost and found notice.<n>Lost yesterday, somewhere between sunrise and sunset:<n>precious hours, each set with sixty diamond minutes.<n>No reward is offered to the finder,<n>for they are lost forever.<n>by Horace Mann
+
+@#84
+JP: 彼は私の北であり、南であり、西であり、東<n>であった。私の出勤日であり、日曜の休息で<n>あった。私の正午であり、真夜中であり、私<n>のおしゃべりであり、私の歌であった。あの<n>愛が永遠に続くと思ったけれど、私は間違っ<n>ていた。ｂｙW・H・オーデン
+EN: He was my North, my South, my East and West,<n>my working week and my Sunday rest,<n>my noon, my midnight,<n>my talk, my song.<n>I thought that love would last forever.<n>I was wrong. by W. H. Auden
+
+@#85
+JP: 一度だけの人生だ。<n>だから今この時だけを考えろ。<n>過去は及ばず、未来は知れず。<n>死んでからのことは宗教にまかせろ。<n>ｂｙ中村天風
+EN: You only live once.<n>So give your thoughts to this moment.<n>The past is beyond reach, the future unknown.<n>Leave what comes after death to religion.<n>by Tempu Nakamura
+
+@#86
+JP: 敵は常にあるであろう。<n>敵がないように生きることはできない。<n>それどころか、<n>善良な生きかたをすればするほど<n>敵は多いのだ。<n>ｂｙトルストイ
+EN: You will always have enemies.<n>You cannot live without making any.<n>On the contrary,<n>the more virtuously you live,<n>the more enemies you will have.<n>by Leo Tolstoy
+
+@#87
+JP: 私の人生は、一度もリハーサルのチャンスを<n>もらえなかった公演のようなものです。<n>ｂｙアシュレイ・ブリリアント
+EN: My life is like a performance<n>I never had a chance to rehearse.<n>by Ashleigh Brilliant
+
+@#88
+JP: 何をするにも時間は見つからないだろう。<n>時間が欲しければ自分で作ることだ。<n>ｂｙチャールズ・バクストン
+EN: You will never find time for anything.<n>If you want time, you must make it.<n>by Charles Buxton
+
+@#89
+JP: あなたがたのなかには<n>いつでも貧しい者がいるだろう。というのは、<n>いつでも富める者がいるからなのだ。<n>富める者、すなわち、所有よりも<n>権力のほうを求める貪欲で冷酷な者が。<n>ｂｙペルナノス
+EN: There will always be poor people among you,<n>because there will always be rich people:<n>greedy, coldhearted people<n>who crave power<n>even more than possessions.<n>by Georges Bernanos
+
+@#90
+JP: 人生は<n>それを感ずる人間にとっては悲劇であり、<n>考える人間にとっては喜劇である。<n>ｂｙラ・ブリュイエール
+EN: Life is<n>a tragedy to those who feel<n>and a comedy to those who think.<n>by Jean de La Bruyere
+
+@#91
+JP: 人生は全て次の二つから成り立っている。<n>したいけど、できない。<n>できるけど、したくない。<n>ｂｙゲーテ
+EN: All of life comes down to two things:<n>wanting to, but being unable;<n>being able, but not wanting to.<n>by Johann Wolfgang von Goethe
+
+@#92
+JP: 未来を予測する最善の方法は、<n>自らそれを創りだすことである。<n>ｂｙアラン・ケイ
+EN: The best way to predict the future<n>is to create it yourself.<n>by Alan Kay
+
+@#93
+JP: 時は万物を運び去る。心までも。<n>ｂｙウェルギリウス
+EN: Time carries everything away, even the heart.<n>by Virgil
+
+@#94
+JP: 過去は常に、今から見れば<n>実際の過去より美しく思える。<n>過去が楽しいのは、<n>過去が今ここにないからに過ぎない。<n>ｂｙピーター・フィンリー・ダン
+EN: Looking back, the past always seems<n>more beautiful than it really was.<n>We enjoy the past simply because<n>it is no longer here with us.<n>by Finley Peter Dunne
+
+@#95
+JP: 往く者は追わず、来る者は拒まず。<n>ｂｙ孟子
+EN: Do not pursue those who leave or turn away those who come.<n>by Mencius
+
+@#96
+JP: 私は、人生の岐路に立った時、<n>いつも困難なほうの道を選んできた。<n>ｂｙ岡本太郎
+EN: Whenever I have stood at a crossroads in life,<n>I have always chosen the harder path.<n>by Taro Okamoto
+
+@#97
+JP: われわれの人生は織り糸で織られているが、<n>良い糸も悪い糸も混じっている。<n>ｂｙシェークスピア
+EN: Our lives are woven from threads,<n>with good and bad mingled together.<n>by William Shakespeare
+
+@#98
+JP: あたたかい心で人のなかに住め。<n>人のあたたかさは、自分の心が<n>あたたかでいなければ分かる筈もない。<n>ｂｙ吉川英治
+EN: Live among others with a warm heart.<n>You cannot recognize their warmth<n>unless your own heart is warm.<n>by Eiji Yoshikawa
+
+@#99
+JP: 運命をあざ笑うものが<n>幸運を手に入れるだろう。<n>ｂｙベンジャミン・ディストレイ
+EN: Those who laugh in the face of fate<n>will find good fortune.<n>by Benjamin Disraeli
+
+@#100
+JP: ああ、金、金！<n>この金のためにどれほど多くの悲しいことが<n>この世に起こることであろうか！<n>ｂｙトルストイ
+EN: Oh, money, money!<n>How much sorrow it brings<n>into this world!<n>by Leo Tolstoy
+
+@#101
+JP: 我々は、自ら幸、不幸をつくって、<n>これに運命なる名称をつける。<n>ｂｙジョンソン
+EN: We make our own happiness and misery,<n>then give them the name of fate.<n>by Johnson
+
+@#102
+JP: 財布は、その中に何か入っていなければ<n>ボロきれと変わらない。<n>ｂｙメルヴィル
+EN: A purse with nothing in it<n>is no better than a scrap of cloth.<n>by Herman Melville
+
+@#103
+JP: この世界は、大勢の人に愛読される<n>絵本のようなものである。<n>ページをめくって一つ一つの絵を楽しむが、<n>原文の一行もみんな読みはしない。<n>ｂｙＰ・ハイゼ
+EN: The world is like a much-loved picture book.<n>People turn its pages,<n>enjoying every picture,<n>yet never reading a single line.<n>by Paul Heyse
+
+@#104
+JP: 仕事が楽しみならば人生は極楽だ。<n>仕事が義務ならば人生は地獄だ。<n>ｂｙゴーリキー
+EN: When work is a pleasure, life is paradise.<n>When work is a duty, life is hell.<n>by Maxim Gorky
+
+@#105
+JP: 人のために何かをすることで<n>誰もが素晴らしい人になれます。<n>ｂｙマーチン・ルーサー・キング
+EN: Anyone can be great<n>by doing something for others.<n>by Martin Luther King Jr.
+
+@#106
+JP: 人生は外国語だ。<n>たいていの人間はそれを間違って発音する。<n>ｂｙクリストファ・モレイ
+EN: Life is a foreign language.<n>Most people mispronounce it.<n>by Christopher Morley
+
+@#107
+JP: 人生の半分はトラブルで、あとの半分は<n>それを乗り越えるためにある。<n>ｂｙ映画『八月の鯨』
+EN: Half of life is trouble; the other half<n>is there for us to overcome it.<n>from the film The Whales of August
+
+@#108
+JP: 富を軽蔑する人間をあまり信ずるな。<n>富を得ることに絶望した人間が<n>富を軽蔑するのだ。<n>こういう人間がたまたま富を得ると、<n>一番始末が悪い人間になる。<n>ｂｙベーコン
+EN: Do not put much faith in those who scorn wealth.<n>People scorn it when they have given up<n>all hope of acquiring it.<n>Should they happen to become rich,<n>they become the most troublesome of all.<n>by Francis Bacon
+
+@#109
+JP: 幸福になりたいのだったら、<n>人を喜ばすことを勉強したまえ。<n>ｂｙＭ・プリオール
+EN: If you want to be happy,<n>learn how to make others happy.<n>by Matthew Prior
+
+@#110
+JP: 芸術とは目に見えるものを写すことではない。<n>見えないものを見えるようにすることなのだ。<n>ｂｙクレー
+EN: Art does not reproduce what we can see.<n>It makes the unseen visible.<n>by Paul Klee
+
+@#111
+JP: 絶対に失敗しない人というのは、<n>何も挑戦しない人のことです。<n>ｂｙイルカ・チェース
+EN: The only people who never fail<n>are those who never try.<n>by Ilka Chase
+
+@#112
+JP: 恋愛というものは、振幅が大きくて、<n>情熱の波に弄ばれます。<n>友情は静かで安定した流れを辿ります。<n>ｂｙモーロア
+EN: Love swings from one extreme to another,<n>tossed about by waves of passion.<n>Friendship follows a calm and steady course.<n>by Andre Maurois
+
+@#113
+JP: 時間が過ぎ去って行くのではない。<n>われわれが過ぎ去っていくのだ。<n>ｂｙ西洋のことわざ
+EN: It is not time that passes.<n>It is we who pass.<n>Western proverb
+
+@#114
+JP: 人間は理由もなしに<n>生きていくことはできないのだ。<n>ｂｙカミュ
+EN: We cannot go on living<n>without a reason to live.<n>by Albert Camus
+
+@#115
+JP: 私達はいわば二回この世に生まれる。<n>一回目は存在するために、<n>二回目は生きるために。<n>ｂｙルソー
+EN: In a sense, we are born into this world twice:<n>once to exist,<n>and once to live.<n>by Jean-Jacques Rousseau
+
+@#116
+JP: 一見して人生には何の意味もない。<n>しかし<n>一つの意味もないということはあり得ない。<n>ｂｙアインシュタイン
+EN: At first glance, life seems to have no meaning.<n>And yet,<n>it cannot be entirely without meaning.<n>by Albert Einstein
+
+@#117
+JP: 明日はなんとかなると思う馬鹿者。<n>今日でさえ遅すぎるのだ。<n>賢者はもう昨日済ましている。<n>ｂｙクーリー
+EN: Fools think tomorrow will do.<n>Even today is too late.<n>The wise finished yesterday.<n>by Cooley
+
+@#118
+JP: 男女の仲というのは、<n>夕食を二人っきりで三度して、<n>それでどうにかならなかったときは<n>あきらめろ。<n>ｂｙ小津安二郎
+EN: When it comes to romance,<n>have dinner alone together three times.<n>If nothing comes of it,<n>give it up.<n>by Yasujiro Ozu
+
+@#119
+JP: 恋愛は人を強くすると同時に弱くする。<n>友情は人を強くするばかりである。<n>ｂｙボナール
+EN: Love makes us stronger and weaker at the same time.<n>Friendship only makes us stronger.<n>by Bonnard
+
+@#120
+JP: 人間の運命は、ルール通りに行われるチェス<n>というよりむしろ宝くじを思い起こさせる。<n>ｂｙエレンブルグ
+EN: Human fate is less like chess, played by fixed rules,<n>and more like a lottery.<n>by Ehrenburg
+
+@#121
+JP: 友人はメロンに似ている。<n>５０個も試さなければ、<n>いいのにめぐり合わない。<n>ｂｙクロード・メルメ
+EN: Friends are like melons.<n>You have to try fifty<n>before you find a good one.<n>by Claude Mermet
+
+@#122
+JP: 時の言うことをよく聴け。<n>時はもっとも賢明なる法律顧問なり。<n>ｂｙペリクレス
+EN: Listen closely to time.<n>It is the wisest legal adviser of all.<n>by Pericles
+
+@#123
+JP: 結婚前には両目を大きく開いて見よ。<n>結婚してからは片目を閉じよ。<n>ｂｙフラー
+EN: Keep both eyes wide open before marriage.<n>Afterward, keep one eye shut.<n>by Fuller
+
+@#124
+JP: 愛する事を教えてくれたあなた。<n>今度は忘れる事を教えて下さい。<n>ｂｙアイリス・マードリック
+EN: You taught me how to love.<n>Now please teach me how to forget.<n>by Iris Murdoch
+
+@#125
+JP: どんなふうに記憶し、何を記憶し、<n>なぜ記憶しているかによって、<n>各個人の心の地図が作られる。<n>ｂｙボールドウィン
+EN: How we remember, what we remember,<n>and why we remember it<n>draw the map of each person's mind.<n>by Baldwin
+
+@#126
+JP: 充実した一時間は<n>忘却と不注意の数世紀より価値がある。<n>ｂｙイオネスコ
+EN: One hour fully lived is worth more<n>than centuries of forgetfulness and neglect.<n>by Ionesco
+
+@#127
+JP: 大文字ばかりで印刷された書物は読みにくい。<n>日曜日ばかりの人生もそれと同じだ。<n>ｂｙジョン・パウル
+EN: A book printed entirely in capitals is hard to read.<n>A life made entirely of Sundays is much the same.<n>by Jean Paul
+
+@#128
+JP: 人生の真実は、<n>美味で、恐ろしく、魅力的で、<n>奇怪、甘くて、苦い。<n>そしてそれがすべてである。<n>ｂｙＡ・フランス
+EN: The truth of life is delicious,<n>terrifying, enchanting,<n>strange, sweet, and bitter.<n>And that is all there is to it.<n>by Anatole France
+
+@#129
+JP: チャレンジして<n>失敗することを恐れるよりも、<n>何もしないことを恐れろ。<n>ｂｙ本田宗一郎
+EN: Fear doing nothing<n>more than you fear<n>trying and failing.<n>by Soichiro Honda
+
+@#130
+JP: 未来がどうなるか、<n>あれこれと詮索するのをやめよ。<n>そして、時がもたらすものが何であれ、<n>贈り物として受けよ。<n>ｂｙホラティウス
+EN: Stop trying to pry<n>into what the future holds.<n>Whatever time brings you,<n>accept it as a gift.<n>by Horace
+
+@#131
+JP: 私が猫と戯れている時、<n>私が猫と遊んでいるのだろうか、<n>それとも猫が私と遊んでいるのだろうか。<n>ｂｙモンテーニュ
+EN: When I play with my cat,<n>am I playing with the cat,<n>or is the cat playing with me?<n>by Montaigne
+
+@#132
+JP: 少年老い易く、学成り難し。<n>一寸の光陰軽んずべからず。<n>ｂｙ朱子
+EN: Youth slips away; learning takes a lifetime.<n>Do not waste even a moment.<n>by Zhu Xi
+
+@#133
+JP: あなたの許可なしで、<n>誰もあなたを傷つけることは出来ない。<n>ｂｙルーズベルト
+EN: Without your permission,<n>no one can hurt you.<n>by Roosevelt
+
+@#134
+JP: 人間として最大の美徳は、<n>上手に金をかき集めることである。<n>つまり、どんなことがあっても<n>他人の厄介になるなということだ。<n>ｂｙドストエフスキー
+EN: Our greatest virtue as human beings<n>is knowing how to gather money.<n>In other words, whatever happens,<n>never become a burden to others.<n>by Dostoevsky
+
+@#135
+JP: あなたの敵を許しなさい。<n>しかし、絶対に名前を忘れてはなりません。<n>ｂｙジョン・Ｆ・ケネディ
+EN: Forgive your enemies.<n>But never forget their names.<n>by John F. Kennedy
+
+@#136
+JP: 友人とは、<n>あなたについてすべてのことを知っていて、<n>それにもかかわらず<n>あなたを好んでいる人のことである。<n>ｂｙエルバード・ハーバード
+EN: A friend is someone<n>who knows everything about you<n>and likes you<n>all the same.<n>by Elbert Hubbard
+
+@#137
+JP: 忘れること、それが最上の治療法であり、<n>恋人との愛をつなぐエチケットです。<n>ｂｙ宇野千代
+EN: Forgetting is the best remedy,<n>and the courtesy that keeps love alive.<n>by Chiyo Uno
+
+@#138
+JP: 真の友は共に孤独である。<n>ｂｙボナール
+EN: True friends can be alone together.<n>by Bonnard
+
+@#139
+JP: 失望に終わった恋は、<n>次の恋に対するちょっとした免疫になる。<n>ｂｙウルスラ・アンドロス
+EN: A love that ends in disappointment<n>gives you a little immunity for the next one.<n>by Ursula Andress
+
+@#140
+JP: 運命のなかに偶然はない。<n>人間はある運命に出会う以前に、<n>自分がそれを作っているのだ。<n>ｂｙウィルソン
+EN: There is no chance in destiny.<n>Before we meet our fate,<n>we have already made it ourselves.<n>by Wilson
+
+@#141
+JP: 女の行動に理由なんかないわ。<n>男は理由を求めて恋を失うのよ。<n>ｂｙ映画『天使』
+EN: A woman needs no reason for what she does.<n>Men lose love by demanding one.<n>from the film "Angel"
+
+@#142
+JP: いつまでも人を恨んでいてはならない。<n>あなたが恨んでいる人は、<n>人生を楽しんでいる。<n>ｂｙハケット
+EN: Don't hold a grudge forever.<n>The person you resent<n>is busy enjoying life.<n>by Hackett
+
+@#143
+JP: 我々は探求をやめてはならない。<n>そして、我々のすべての探求の最後は、<n>初めにいた場所であり<n>その場所をはじめて知ることである。<n>ｂｙエリオット
+EN: We must never stop exploring.<n>At the end of all our searching,<n>we will return to where we began<n>and know the place for the first time.<n>by Eliot
+
+@#144
+JP: 人は簡単に手に入るものには、<n>価値をおこうとはしない。<n>物に価値を与えるのは<n>その代価の高さだけである。<n>ｂｙトーマス・ペイン
+EN: We place little value<n>on what comes easily.<n>Only a high price<n>makes a thing seem precious.<n>by Thomas Paine
+
+@#145
+JP: この道より、われを生かす道なし。<n>この道を歩く。<n>ｂｙ武者小路実篤
+EN: Only this path lets me live as I truly am.<n>This is the path I will walk.<n>by Saneatsu Mushanokoji
+
+@#146
+JP: 幸福とはそれ自体が長い忍耐である。<n>ｂｙカミュ
+EN: Happiness itself is a long act of patience.<n>by Camus
+
+@#147
+JP: 深海にいきる魚のように<n>自ら燃えなければどこにも光はない。<n>ｂｙ明石海人
+EN: Like a fish living in the deep sea,<n>unless you kindle your own light, there is none.<n>by Kaijin Akashi
+
+@#148
+JP: 人生は何事もなさぬにはあまりにも長いが、<n>何事かをなすにはあまりにも短い。<n>ｂｙ中島敦
+EN: Life is far too long to do nothing,<n>yet far too short to accomplish anything.<n>by Atsushi Nakajima
+
+@#149
+JP: 自分のポケットの小銭は、<n>他人のポケットの大金にまさる。<n>ｂｙセルバンテス
+EN: A little change in your own pocket<n>beats a fortune in someone else's.<n>by Cervantes
+
+@#150
+JP: 人生とは、<n>病人の一人一人が寝台を変えたいという<n>欲望に取りつかれている一個の病院である。<n>ｂｙボードレール
+EN: Life is a hospital<n>where every patient is obsessed<n>with the wish to change beds.<n>by Baudelaire
+
+@#151
+JP: 君、時というものは、<n>それぞれの人間によって、<n>それぞれの速さで走るものなのだよ。<n>ｂｙシェークスピア
+EN: You see, time runs<n>at a different pace<n>for each of us.<n>by Shakespeare
+
+@#152
+JP: 三度炊く飯さえ硬し軟らかし<n>思うままにはならぬ世の中<n>ｂｙ魯山人
+EN: Even rice cooked three times a day comes out too firm or soft.<n>In this world, things never go quite as we wish.<n>by Rosanjin
+
+@#153
+JP: しばらく二人で黙っているといい。<n>その沈黙に耐えられる関係かどうか。<n>ｂｙキルケゴール
+EN: Sit together in silence for a while.<n>See whether yours is a bond that can bear it.<n>by Kierkegaard
+
+@#154
+JP: 人間は自己の運命を創造するのであって、<n>これを迎えるものではない。<n>ｂｙヴィルマン
+EN: We create our own destiny;<n>we do not simply wait for it.<n>by Villemain
+
+@#155
+JP: 酒が作り出した友情は、<n>酒のように一晩しかもたない。<n>ｂｙローガウ
+EN: Friendship made over wine,<n>like the wine itself, lasts only one night.<n>by Logau
+
+@#156
+JP: 乗りかけた船には、ためらわず乗ってしまえ。<n>ｂｙツルゲーネフ
+EN: Once you've set foot aboard, get on the boat without hesitation.<n>by Turgenev
+
+@#157
+JP: 習慣は太い縄のようなものだ。<n>毎日一本ずつ糸を撚りつづけると、<n>やがてそれは<n>断ち切ることの出来ないほどのものになる。<n>ｂｙホーレス・マン
+EN: Habit is like a thick rope.<n>Twist in one thread each day,<n>and before long<n>it will be too strong to break.<n>by Horace Mann
+
+@#158
+JP: あたかも良く過ごした1日が、<n>安らかな眠りをもたらすように、<n>良く生きられた一生は、<n>安らかな死をもたらす。<n>ｂｙダ・ビンチ
+EN: Just as a day well spent<n>brings peaceful sleep,<n>a life well lived<n>brings a peaceful death.<n>by Leonardo da Vinci
+
+@#159
+JP: この世で一番大切な事は、<n>自分が『どこ』にいるかという事ではなく、<n>『どの方向』に向かっているか、<n>ということである。<n>ｂｙホームズ
+EN: What matters most in this world<n>is not where we stand,<n>but the direction<n>in which we are heading.<n>by Holmes
+
+@#160
+JP: 恋わずらいの人は、ある種の病人のように<n>自分自身が医者になる。<n>苦悩の原因をなした相手から<n>癒してもらえることはないのだから、<n>結局は、その苦悩の中に薬を見出すのである。<n>ｂｙプルースト
+EN: The lovesick, like certain patients,<n>must become their own doctors.<n>The person who caused their suffering<n>cannot cure it for them,<n>so they must find the remedy in the suffering itself.<n>by Proust
+
+@#161
+JP: 些細なことが我々を慰めるのは、<n>些細なことが我々を悩ますからである。<n>ｂｙパスカル
+EN: Little things comfort us<n>because little things trouble us.<n>by Pascal
+
+@#162
+JP: 恋はその始まりがいつも美しすぎる。<n>結末が決して良くないのも無理からぬことだ。<n>ｂｙドーマ
+EN: Love is always far too beautiful at the start.<n>No wonder it never ends well.<n>by Daumer
+
+@#163
+JP: 悪い仲間は犬のようなものだ。<n>一番好きな相手を一番ひどく汚してしまう。<n>ｂｙスウィフト
+EN: Bad company is like a dog:<n>it dirties those it loves best the most.<n>by Swift
+
+@#164
+JP: ナルヨウニナルシンパイスルナ<n>ｂｙ一休和尚
+EN: WHAT WILL BE WILL BE. DON'T WORRY.<n>by Ikkyu
+
+@#165
+JP: 新聞を読まない人は幸福である。<n>なぜならば、彼らは自然に目を向け、<n>それを通じて神を見るからである。<n>ｂｙソロー
+EN: Happy are those who do not read newspapers.<n>They turn their eyes to nature<n>and see God through it.<n>by Thoreau
+
+@#166
+JP: 誰の友にもなろうとする人間は、<n>誰の友人でもない。<n>ｂｙプフェッフェル
+EN: A friend to everyone<n>is a friend to no one.<n>by Pfeffel
+
+@#167
+JP: 人生における大きな喜びは、<n>君にはできないと世間がいうことを<n>やることである。<n>ｂｙウォルター・バジョット
+EN: One of life's great pleasures<n>is doing what the world says<n>you cannot do.<n>by Walter Bagehot
+
+@#168
+JP: 決して時計を見るな。<n>これは若い人に覚えてもらいたいことだ。<n>ｂｙエジソン
+EN: Never watch the clock.<n>That is what I want young people to remember.<n>by Edison
+
+@#169
+JP: 良い記憶力は素晴らしいが、<n>忘れる能力はいっそう偉大である。<n>ｂｙハバード
+EN: A good memory is wonderful,<n>but the ability to forget is greater still.<n>by Hubbard
+
+@#170
+JP: 苦しい時には<n>自分よりもっと不幸な男がいたことを考えよ。<n>ｂｙゴーガン
+EN: When times are hard,<n>remember those who have suffered more than you.<n>by Gauguin
+
+@#171
+JP: 相談するときには過去を、<n>享楽するときには現在を、<n>何かするときには未来を思うがよい。<n>ｂｙジュベール
+EN: When seeking advice, think of the past.<n>When enjoying yourself, think of the present.<n>When taking action, think of the future.<n>by Joubert
+
+@#172
+JP: お前がいつか出会う災いは、<n>おまえがおろそかにしたある時間の報いだ。<n>ｂｙナポレオン
+EN: The misfortune you meet one day<n>is the price of time you once wasted.<n>by Napoleon
+
+@#173
+JP: 借金して明日起きるより、<n>今夜食わずに寝よ。<n>ｂｙフランクリン
+EN: Better to go to bed hungry tonight<n>than wake up in debt tomorrow.<n>by Franklin
+
+@#174
+JP: 知らざると知らずとせよ。これ知るなり。<n>ｂｙ孔子
+EN: To admit what you do not know: that is knowledge.<n>by Confucius
+
+@#175
+JP: 女は結婚したときから奥さんだと思っている。<n>バカな事を言うな。奥さんだって<n>一人前になるには大工・左官と同じように<n>１０年の年期がいるんだ。<n>ｂｙ石川達三
+EN: Women think marriage alone makes them wives.<n>What nonsense! To master the role,<n>a wife needs ten years of apprenticeship,<n>just like a carpenter or plasterer.<n>by Tatsuzo Ishikawa
+
+@#176
+JP: 子供のすることは行動としてではなく、<n>症状として理解せねばならない。<n>ｂｙエッシェンバッハ
+EN: What children do must be understood<n>as symptoms, rather than actions.<n>by Ebner-Eschenbach
+
+@#177
+JP: 友情のための最大の努力は、<n>友人に我々の欠点を見せることではない。<n>彼に彼の欠点を悟らせることだ。<n>ｂｙラ・ロシュフーコー
+EN: Friendship's greatest task<n>is not to show a friend our faults,<n>but to help them recognize their own.<n>by La Rochefoucauld
+
+@#178
+JP: 恋とは巨大な矛盾であります。<n>それなくしては生きられず、<n>しかもそれによって傷つく。<n>ｂｙ亀井勝一郎
+EN: Love is an enormous contradiction.<n>We cannot live without it,<n>yet it wounds us.<n>by Katsuichiro Kamei
+
+@#179
+JP: 人は反感から愛へ向かう。だが<n>愛することから始めて反感に達する場合には、<n>けっして愛には戻らない。<n>ｂｙバルザック
+EN: Dislike can turn into love. But<n>when love turns into dislike,<n>it never turns back.<n>by Balzac
+
+@#180
+JP: ある男がはじめて君をあざむいたときには、<n>彼を辱めるがいい。しかし、<n>その男がもう一度君をあざむいたとしたら、<n>君自身を恥じるがいい。<n>ｂｙ西洋のことわざ
+EN: If someone fools you once,<n>shame on them. But if<n>that same person fools you again,<n>shame on you.<n>Western proverb
+
+@#181
+JP: 過ぎ去った恋の思い出は、<n>それが強く記憶にとどまっている時には、<n>恋をしていた時にも<n>劣らず魂を奪うものである。<n>ｂｙジャン・ルイ・ヴォイドワイエ
+EN: Memories of a past love,<n>when they remain vivid,<n>can steal your soul just as surely<n>as being in love once did.<n>by Jean-Louis Vaudoyer
+
+@#182
+JP: 幸せとは「瞬間」的なものだ。<n>ほとんど毎日、幸せな瞬間なら、<n>少なくとも一度はある。<n>ｂｙメイ・サートン
+EN: Happiness comes in moments.<n>Almost every day has at least<n>one happy moment.<n>by May Sarton
+
+@#183
+JP: どうにもならないことは、<n>忘れることが幸福だ。<n>ｂｙドイツのことわざ
+EN: Happiness is forgetting<n>what you cannot change.<n>German proverb
+
+@#184
+JP: 金持ちは世界の隅々にまで<n>従兄弟やおばさんをもっている。<n>貧乏人が持っている親戚は不幸だけだ。<n>ｂｙコッツェブー
+EN: The rich have cousins and aunts<n>in every corner of the world.<n>The poor have no kin but misfortune.<n>by Kotzebue
+
+@#185
+JP: 笑いとは、地球上で一番<n>苦しんでいる動物が発明したものである。<n>ｂｙニーチェ
+EN: Laughter was invented by the animal<n>that suffers most on earth.<n>by Nietzsche
+
+@#186
+JP: 一人の父親は、百人の校長に勝る。<n>ｂｙハーバート
+EN: One father is worth a hundred headmasters.<n>by Herbert
+
+@#187
+JP: いいアイディアなら、<n>いいからやってしまえ。<n>許可を得るより、謝るほうがずっと簡単だ。<n>ｂｙマーレイ・フーパー
+EN: If it's a good idea,<n>go ahead and do it.<n>It's much easier to apologize than to get permission.<n>by Grace Murray Hopper
+
+@#188
+JP: 一番幸せなのは、<n>幸福なんて特別必要でないと悟ることです。<n>ｂｙウィリアム・サローヤン
+EN: The greatest happiness<n>is realizing you have no special need for it.<n>by William Saroyan
+
+@#189
+JP: 恋愛は常に不意打ちの形をとる。<n>ｂｙ立原正秋
+EN: Love always takes us by surprise.<n>by Masaaki Tachihara
+
+@#190
+JP: 世に銭ほど面白き物はなし。<n>ｂｙ井原西鶴
+EN: Nothing in this world is as fascinating as money.<n>by Saikaku Ihara
+
+@#191
+JP: 自分が立っている所を深く掘れ。<n>そこからきっと泉が湧きでる。<n>ｂｙ高山樗牛
+EN: Dig deep where you stand.<n>A spring is sure to well up there.<n>by Chogyu Takayama
+
+@#192
+JP: 現在一つ持っているほうが、<n>未来において二つ持っているより<n>値打ちがある。<n>ｂｙラ・フォンテーヌ
+EN: One thing in hand today<n>is worth more than two<n>you might have tomorrow.<n>by La Fontaine
+
+@#193
+JP: 幸福とは幸福を探すことである。<n>ｂｙジュール・ルナール
+EN: Happiness is the search for happiness.<n>by Jules Renard
+
+@#194
+JP: もっとも親しき友人というのは、<n>つねに兄弟のように退屈である。<n>ｂｙ萩原朔太郎
+EN: Our closest friends<n>are always as boring as our siblings.<n>by Sakutaro Hagiwara
+
+@#195
+JP: 短く笑って、長く泣く。それが恋の習いだ。<n>ｂｙガイベル
+EN: Laugh briefly, weep long. Such is the way of love.<n>by Geibel
+
+@#196
+JP: 服装は時には君に代わってものを言う<n>ｂｙキングス・レイ・ウォード
+EN: Sometimes your clothes speak for you.<n>by Kingsley Ward
+
+@#197
+JP: 今日という一日は<n>明日という二日分の値打ちを持っている。<n>ｂｙフランクリン
+EN: One today<n>is worth two tomorrows.<n>by Franklin
+
+@#198
+JP: 真の友情は、前と後ろ、<n>どちらから見ても同じもの。<n>前から見ればバラ、後ろから見ればトゲ<n>などというものではない。<n>ｂｙリュッカート
+EN: True friendship is the same<n>from the front or the back.<n>It is not a rose from one side<n>and thorns from the other.<n>by Ruckert
+
+@#199
+JP: 恋の苦しみは、<n>あらゆるほかの悦びよりずっと愉しい。<n>ｂｙドライデン
+EN: The pain of love<n>is sweeter than every other pleasure.<n>by Dryden
+
+@#200
+JP: ある人に合う靴も、別の人には窮屈である。<n>あらゆるケースに適用する<n>人生の秘訣などない。<n>ｂｙユング
+EN: A shoe that fits one person may pinch another.<n>There is no secret to living<n>that works in every situation.<n>by Jung
+
+@#201
+JP: 目の見える人間は、<n>見えるという幸福を知らずにいる。<n>ｂｙジッド
+EN: Those who can see<n>do not know the joy of having sight.<n>by Gide
+
+@#202
+JP: 私は私。そのままを受け止めてくれるか、<n>さもなければ放っといて。<n>ｂｙロザリオ・モラレス
+EN: I am who I am. Take me as I am,<n>or leave me alone.<n>by Rosario Morales
+
+@#203
+JP: 寝床につくときに、<n>翌朝起きることを楽しみにしている人は<n>幸福である。<n>ｂｙヒルティ
+EN: Happy is the person who goes to bed<n>looking forward to waking up<n>the next morning.<n>by Hilty
+
+@#204
+JP: 短い人生は<n>時間の浪費によっていっそう短くなる。<n>ｂｙジョンソン
+EN: Life is short,<n>and wasting time makes it shorter still.<n>by Johnson
+
+@#205
+JP: 立ち止まることを学べ。さもなければ、<n>価値あるものがあなたに追いつけない。<n>ｂｙダグ・キング
+EN: Learn to pause. Otherwise,<n>nothing worthwhile can catch up with you.<n>by Doug King
+
+@#206
+JP: 朝起きる時は「今日も会えないだろう」<n>と思い、寝る時には「今日も会えなかった」<n>と思うのです。長い長い毎日に、幸福な時は<n>片時もありません。全ては物足りなさ、<n>全ては後悔、全ては絶望です。<n>ｂｙラクロ
+EN: I wake thinking, "I probably won't see you today."<n>I go to bed thinking, "Another day without you."<n>Through these long, long days, there is not<n>a single moment of happiness. All is longing,<n>all is regret, all is despair.<n>by Laclos
+
+@#207
+JP: 自分は自分である。<n>何億の人間がいても自分は自分である。<n>そこに自分の自信があり、誇りがある。<n>ｂｙ松下幸之助
+EN: I am myself.<n>Among hundreds of millions, I am still myself.<n>There lie my confidence and my pride.<n>by Konosuke Matsushita
+
+@#208
+JP: いらぬ物を買えば、いるものを売るに至る。<n>ｂｙフランクリン
+EN: Buy what you do not need, and you will end up selling what you do.<n>by Franklin
+
+@#209
+JP: ある年齢以後になると友人を選ぶよりは、<n>友人に選ばれる場合の方が多い。<n>ｂｙジード
+EN: Beyond a certain age, we are more often<n>chosen by our friends than choosing them.<n>by Gide
+
+@#210
+JP: 服装は生き方である。<n>ｂｙイブ・サンローラン
+EN: The way you dress is a way of life.<n>by Yves Saint Laurent
+
+@#211
+JP: 恋は気がつかないうちにおとずれてくる。<n>われわれはただ、それが去っていくのを<n>みるだけである。<n>ｂｙドブソン
+EN: Love arrives without our noticing.<n>All we ever see<n>is its departure.<n>by Dobson
+
+@#212
+JP: 睡眠は最高のめい想である。<n>ｂｙダライ・ラマ
+EN: Sleep is the best meditation.<n>by the Dalai Lama
+
+@#213
+JP: 幸せとは欲しいものを得たり、<n>なりたいものになったり、したいことを<n>したりするところから来るものではなく、<n>今得ているもの、今していることを、<n>あなたが好きになるところから生まれる。<n>ｂｙトリーチェ
+EN: Happiness does not come from getting what you want,<n>becoming who you want to be,<n>or doing whatever you please.<n>It comes from learning to love what you have<n>and what you are doing now.<n>by Triche
+
+@#214
+JP: 人生はマラソンなんだから、<n>百メートルで一等をもらったって<n>しょうがない。<n>ｂｙ石坂泰三
+EN: Life is a marathon.<n>There is little point in winning<n>the first hundred meters.<n>by Taizo Ishizaka
+
+@#215
+JP: あちこち旅をしてまわっても、<n>自分自身から逃れられるものではない。<n>ｂｙヘミングウェイ
+EN: You can travel far and wide,<n>but you cannot escape yourself.<n>by Hemingway
+
+@#216
+JP: ある人が実際にどんな人であるかを<n>知りたければ、<n>その人がお金をなくした時に<n>どう振舞うかに注目するがよい。<n>ｂｙニューイングランドのことわざ
+EN: If you want to know<n>what someone is really like,<n>watch how they behave<n>when they lose money.<n>New England proverb
+
+@#217
+JP: 可愛い女の子と１時間一緒にいると、<n>１分しか経っていないように思える。<n>熱いストーブの上に１分座らせされたら、<n>どんな１時間よりも長いはずだ。<n>相対性とはそういうことである。<n>ｂｙアインシュタイン
+EN: An hour with a pretty girl<n>seems to pass in a minute.<n>Sit on a hot stove for a minute,<n>and it will feel longer than any hour.<n>That is relativity.<n>by Einstein
+
+@#218
+JP: 人生はつくるものだ。<n>必然の姿などというものはない。<n>ｂｙ坂口安吾
+EN: Life is something you create.<n>It has no predetermined shape.<n>by Ango Sakaguchi
+
+@#219
+JP: 友人に不信をいだくことは、<n>友人にあざむかれるより<n>もっと恥ずべきことだ。<n>ｂｙラ・ロシュフーコー
+EN: It is more shameful<n>to distrust a friend<n>than to be deceived by one.<n>by La Rochefoucauld
+
+@#220
+JP: 恋の悲しみを知らぬものに<n>恋の味は話せない。<n>ｂｙ伊藤左千夫
+EN: You cannot explain the taste of love<n>to someone who has never known its sorrow.<n>by Sachio Ito
+
+@#221
+JP: 親はもとより大切である。<n>しかし自分の道を見出す事はなお大切だ。<n>人は各自自分の道を見出すべきだ。<n>ｂｙ島村藤村
+EN: Your parents matter, of course.<n>But finding your own path matters even more.<n>Each of us must find our own way.<n>by Toson Shimazaki
+
+@#222
+JP: 時を短くするものはなにか、活動。<n>時を絶えがたくするものはなにか、怠惰。<n>ｂｙゲーテ
+EN: What makes time fly? Activity.<n>What makes time unbearable? Idleness.<n>by Goethe
+
+@#223
+JP: 心が変われば態度が変わる。<n>態度が変われば習慣が変わる。<n>習慣が変われば人格が変わる。<n>人格が変われば運命が変わる。<n>ｂｙ蓮沼文三
+EN: Change your heart, and your attitude changes.<n>Change your attitude, and your habits change.<n>Change your habits, and your character changes.<n>Change your character, and your destiny changes.<n>by Bunzo Hasunuma
+
+@#224
+JP: 私はつねに、<n>ニ年先のことを考えて生きている。<n>ｂｙナポレオン
+EN: I always live<n>with my thoughts two years ahead.<n>by Napoleon
+
+@#225
+JP: いい日は幾らでもある。<n>手に入れるのが難しいのはいい人生だ。<n>ｂｙアニー・ディラード
+EN: There is no shortage of good days.<n>It is a good life that is hard to come by.<n>by Annie Dillard
+
+@#226
+JP: 天才とは、<n>複雑なものを簡単なものに<n>変化させる能力である。<n>ｂｙＣ・Ｗ・シーラム
+EN: Genius is the ability<n>to turn something complex<n>into something simple.<n>by C. W. Ceram
+
+@#227
+JP: 誤りを犯さなければ、<n>人生は非常に面白いものである。<n>ｂｙジョルジュ・カルパンティエ
+EN: Life is very interesting,<n>provided you make no mistakes.<n>by Georges Carpentier
+
+@#228
+JP: 希望は人を成功に導く信仰である。<n>希望がなければ、<n>何事も成就するものではない。<n>ｂｙヘレン・ケラー
+EN: Hope is the faith that leads to success.<n>Without hope,<n>nothing can be achieved.<n>by Helen Keller
+
+@#229
+JP: 逆境が人格を作る<n>ｂｙトルストイ
+EN: Hardship shapes us<n>by Tolstoy
+
+@#230
+JP: 「許すことはできるが忘れることは出来ない」<n>というのは、結局、<n>「許すことは出来ない」<n>というのと同じことだ。<n>ｂｙヘンリー・ウォード・ビーチャー
+EN: To say, "I can forgive, but I cannot forget,"<n>is, in the end,<n>the same as saying,<n>"I cannot forgive."<n>by Henry Ward Beecher
+
+@#231
+JP: 人間はみな月だ。<n>誰にも見せたことのない暗い面を持っている。<n>ｂｙマーク・トウェイン
+EN: Everyone is a moon,<n>with a dark side they never show anyone.<n>by Mark Twain
+
+@#232
+JP: 将来を思い煩うな。現在為すべきことを為せ。<n>ｂｙアミエル
+EN: Do not fret about the future. Do what must be done today.<n>by Amiel
+
+@#233
+JP: 世の中には幸も不幸もない。<n>ただ、考え方でどうにもなるのだ。<n>ｂｙシェークスピア
+EN: There is no happiness or unhappiness in the world.<n>It all depends on how you see things.<n>by Shakespeare
+
+@#234
+JP: 人生とは、切符を買って軌道の上を走る車に<n>乗る人には分からないものである。<n>ｂｙサモセット・モーム
+EN: You cannot understand life by buying a ticket<n>and riding along a fixed track.<n>by Somerset Maugham
+
+@#235
+JP: 諸君が<n>自分自身に対して関心を持つのと同じように、<n>他人が自分に関心を持っているとは<n>期待するな。<n>ｂｙラッセル
+EN: Do not expect<n>other people to take as much<n>interest in you<n>as you take in yourself.<n>by Russell
+
+@#236
+JP: とにかくね、生きているのだから<n>インチキをやっているのに違いないのさ。<n>ｂｙ太宰治
+EN: Well, I'm still alive,<n>so I must be cheating somehow.<n>by Osamu Dazai
+
+@#237
+JP: 友情は人生の酒である。<n>ｂｙヤング
+EN: Friendship is the wine of life.<n>by Young
+
+@#238
+JP: 全ての人には個性の美しさがある。<n>ｂｙエマーソン
+EN: There is beauty in everyone's individuality.<n>by Emerson
+
+@#239
+JP: 人の運命を決定するのは、<n>その人が自分自身をいかに理解しているか<n>ということである。<n>ｂｙソロー
+EN: What determines a person's destiny<n>is how well<n>they understand themselves.<n>by Thoreau
+
+@#240
+JP: 誰でも死ななくちゃいけない。<n>でも私はいつも自分は例外だと信じていた。<n>なのに、なんてこった。<n>ｂｙウィリアム・サローヤン
+EN: Everyone has to die.<n>But I always believed I'd be the exception.<n>And now... damn it.<n>by William Saroyan
+
+@#241
+JP: 恋人どうしのけんかは、恋の更新である。<n>ｂｙテレンティウス
+EN: Lovers' quarrels renew their love.<n>by Terence
+
+@#242
+JP: 状況？何が状況だ。俺が状況をつくるのだ。<n>ｂｙナポレオン
+EN: Circumstances? What circumstances? I make my own.<n>by Napoleon
+
+@#243
+JP: 一日だけ幸せでいたいならば、床屋にいけ。<n>一週間だけ幸せでいたいなら、車を買え。<n>一カ月だけ幸せでいたいなら、結婚をしろ。<n>一年だけ幸せでいたいなら、家を買え。<n>一生幸せでいたいなら、正直でいることだ。<n>ｂｙ西洋のことわざ
+EN: For a day's happiness, get a haircut.<n>For a week's happiness, buy a car.<n>For a month's happiness, get married.<n>For a year's happiness, buy a house.<n>For a lifetime's happiness, be honest.<n>by a Western proverb
+
+@#244
+JP: 不平が出るようになれば愛はおしまい。<n>ｂｙマレーネ・ディートリヒ
+EN: Once the complaints begin, love is over.<n>by Marlene Dietrich
+
+@#245
+JP: 人生にはただ三つの事件しかない。<n>生まれること、生きること、死ぬことである。<n>生まれるときは気がつかない。<n>死ぬときは苦しむ。<n>そして生きているときは忘れている。<n>ｂｙラ・ブリュイエール
+EN: Life has only three events:<n>being born, living, and dying.<n>We are unaware when we are born.<n>We suffer when we die.<n>And while we live, we forget.<n>by La Bruyere
+
+@#246
+JP: 家庭、最後の頼みの綱として語れる場所。<n>２４時間営業中。<n>ｂｙビアス
+EN: Home: a place to turn to as a last resort.<n>Open 24 hours a day.<n>by Bierce
+
+@#247
+JP: 人間よりは<n>金のほうがはるかに頼りになりますよ。<n>頼りにならんのは人の心です。<n>ｂｙ尾崎紅葉
+EN: Compared with people,<n>money is far more dependable.<n>It's the human heart you can't rely on.<n>by Koyo Ozaki
+
+@#248
+JP: 女は愛されることを求め、<n>理解されることを求めない。<n>ｂｙワイルド
+EN: Women want to be loved,<n>not understood.<n>by Wilde
+
+@#249
+JP: 「時」をまねるがよい。<n>「時」は一切のものをゆっくりと破壊する。<n>「時」はおもむろに浸蝕し、消耗させ、<n>根こそぎにし、引き離す。<n>だが、ひったくることはない。<n>ｂｙジュベール
+EN: Take your cue from Time.<n>Time destroys everything slowly.<n>It gradually wears things away, exhausts them,<n>uproots them, and pulls them apart.<n>But it never snatches them away.<n>by Joubert
+
+@#250
+JP: おもしろきこともなき世を<n>おもしろくすみなしものは心なりけり<n>ｂｙ高杉晋作
+EN: To make this joyless world a joyful place,<n>it all depends on the heart you bring to it.<n>by Shinsaku Takasugi
+
+@#251
+JP: 強い人間は自分の運命を嘆かない。<n>ｂｙショーペンハウエル
+EN: A strong person does not lament their fate.<n>by Schopenhauer
+
+@#252
+JP: 一方からあまりに大きな重みをかけると、<n>友情は破壊される。<n>ｂｙクニッゲ男爵
+EN: Put too much weight on one side,<n>and a friendship will break.<n>by Baron Knigge
+
+@#253
+JP: 人生は退屈すれば長く、充実すれば短い。<n>ｂｙシラー
+EN: Life is long when dull, short when full.<n>by Schiller
+
+@#254
+JP: 人生に執着する理由がない者ほど、<n>人生にしがみつく。<n>ｂｙエラスムス
+EN: Those with the least reason to cling to life<n>cling to it the hardest.<n>by Erasmus
+
+@#255
+JP: 自分の全生命を女の愛というカードに賭けた<n>男が、このカードが殺された時、<n>がっくりとなって何事も手につかないほど<n>放心してしまうようなら、そんな人間は、<n>男ではなく、ただのオスである。<n>ｂｙツルゲーネフ
+EN: If a man stakes his whole life on the card<n>of a woman's love, and, when that card is lost,<n>collapses so completely that he can do nothing,<n>too dazed to take an interest in anything,<n>he is no man, merely a male.<n>by Turgenev
+
+@#256
+JP: 仕事は目的である。<n>仕事をはっきりした目的と思って<n>やっているやつにとって、<n>結果は対した問題ではない。<n>ｂｙ志賀直哉
+EN: Work is an end in itself.<n>For someone who works<n>with that purpose clearly in mind,<n>the results matter little.<n>by Naoya Shiga
+
+@#257
+JP: 幸せとは経験するものではなく、<n>記憶するものである。<n>ｂｙレヴァント
+EN: Happiness is not something you experience,<n>but something you remember.<n>by Levant
+
+@#258
+JP: 人生を楽しむ秘訣は<n>普通にこだわらないこと。<n>普通と言われる人生を送る人間なんて、<n>一人としていやしない。<n>いたらお目にかかりたいものだ。<n>ｂｙアインシュタイン
+EN: The secret to enjoying life<n>is not getting hung up on being normal.<n>No one lives<n>a so-called normal life.<n>If anyone does, I'd like to meet them.<n>by Einstein
+
+@#259
+JP: 自分にとって大切なことは、<n>他人が自分のことをどう考えているか<n>ということではなく、<n>自分が彼らのことを<n>どう考えているかということだ。<n>ｂｙブリヤン
+EN: What matters to me<n>is not what other people<n>think of me,<n>but what I<n>think of them.<n>by Briand
+
+@#260
+JP: 運がいいからといって得意になるな。<n>不運だからといってがっかりするな。<n>ｂｙクレオパルス
+EN: Don't let good fortune go to your head.<n>Don't let bad fortune get you down.<n>by Cleobulus
+
+@#261
+JP: 友人同士は完全な平等のうちに生きる。<n>この平等は、まず第一に、<n>彼らが会ったときに社会上のあらゆる相違を<n>忘れるという事実から生まれる。<n>ｂｙボナール
+EN: Friends live as complete equals.<n>Above all, that equality<n>comes from forgetting every difference in status<n>whenever they meet.<n>by Bonnard
+
+@#262
+JP: 友人はあなたのためでなく、<n>自分の利益のために忠告する。<n>ｂｙトルコのことわざ
+EN: Friends give advice for their own benefit,<n>not yours.<n>by a Turkish proverb
+
+@#263
+JP: ひとりの人と友人になるときは、<n>その人といつか必ず<n>絶交する事あるを忘るるな。<n>ｂｙ石川啄木
+EN: When you make a friend,<n>never forget that someday<n>you are sure to part ways.<n>by Takuboku Ishikawa
+
+@#264
+JP: 何もかも失われた時にも、<n>未来だけはまだ残っている。<n>ｂｙボビー
+EN: Even when everything is lost,<n>the future still remains.<n>by Bovee
+
+@#265
+JP: 人生のバッターボックスに立ったら、<n>見送りの三振だけはするなよ。<n>ｂｙ小林茂
+EN: When you step up to the plate in life,<n>don't strike out looking.<n>by Shigeru Kobayashi
+
+@#266
+JP: わたしの人生を<n>わたしはコーヒースプーンで測ってきた。<n>ｂｙエリオット
+EN: I have measured out my life<n>with coffee spoons.<n>by Eliot
+
+@#267
+JP: お世辞を言われたら、あなたのことは<n>信じない。批判されれば、あなたのことを<n>嫌いになる。無視されれば、あなたのことは<n>許さない。勇気づけてくれれば、<n>あなたのことを忘れない。<n>ｂｙウィリアム・Ａ・ウォード
+EN: Flatter me, and I won't believe you.<n>Criticize me, and I'll dislike you.<n>Ignore me, and I won't forgive you.<n>Encourage me,<n>and I'll never forget you.<n>by William A. Ward
+
+@#268
+JP: 人生には、全てをなくしても、<n>それに値するような何かが<n>あるんじゃないだろうか。<n>ｂｙ映画『風とライオン』
+EN: Surely there is something in life<n>worth losing<n>everything for.<n>from the film The Wind and the Lion
+
+@#269
+JP: 悪い人間に親切をすると<n>二度ひどい目にあう。<n>金を失って、しかも感謝されない。<n>ｂｙテオグニス
+EN: Be kind to a wicked person,<n>and you suffer twice:<n>you lose your money and get no thanks.<n>by Theognis
+
+@#270
+JP: 真実味のある言葉は美しくなく、<n>美しい言葉には真実味がない。<n>ｂｙ老子
+EN: Truthful words are not beautiful,<n>and beautiful words are not truthful.<n>by Lao Tzu
+
+@#271
+JP: 登山の目標は山頂と決まっている。<n>しかし、人生の面白さはその山頂にはなく、<n>かえって逆境の、山の中腹にある。<n>ｂｙ吉川英治
+EN: A climber's goal is always the summit.<n>But life's pleasures aren't found at the top.<n>They lie halfway up, amid the hardships.<n>by Eiji Yoshikawa
+
+@#272
+JP: お金は必要だが、重要ではない。<n>ｂｙインディアンのことわざ
+EN: Money is necessary, but not important.<n>by a Native American proverb
+
+@#273
+JP: 男には怠けたがる気持ちと同じくらいに<n>働きたがる気持ちがある。<n>ｂｙ庄野潤三
+EN: A man has as much desire to work<n>as he has to be idle.<n>by Junzo Shono
+
+@#274
+JP: 全てが失われようとも、まだ未来が残ってる。<n>ｂｙボヴィー
+EN: Even if all is lost, the future still remains.<n>by Bovee
+
+@#275
+JP: 人が天から心を授かっているのは、<n>人を愛するためである。<n>ｂｙボワロー
+EN: Heaven gave us hearts<n>so that we could love others.<n>by Boileau
+
+@#276
+JP: 恋という奴は<n>一度失敗してみるのもいいかも知れぬ、<n>そこで初めて味がつくような気がするね。<n>ｂｙ若山牧水
+EN: Perhaps it's good<n>to fail in love once.<n>I feel that's when it first acquires flavor.<n>by Bokusui Wakayama
+
+@#277
+JP: 真の友愛においては、<n>私は友を自分のほうにひきつけるよりも<n>むしろ自分を友に与える。<n>ｂｙモンテーニュ
+EN: In true friendship,<n>I give myself to my friend<n>rather than draw my friend to me.<n>by Montaigne
+
+@#278
+JP: 多くの愚者を友とするより、<n>一人の知者を友とするべきである。<n>ｂｙデモクリトス
+EN: Better to have one wise friend<n>than a crowd of foolish ones.<n>by Democritus
+
+@#279
+JP: 百人の医者を呼ぶよりも、<n>夜更かしと夜食をやめよ。<n>ｂｙスペインのことわざ
+EN: Rather than summon a hundred doctors,<n>give up late nights and midnight snacks.<n>by a Spanish proverb
+
+@#280
+JP: 人生は一箱のマッチに似ている。<n>重大に扱うのはばかばかしい。<n>しかし重大に扱わなければ危険である。<n>ｂｙ芥川龍之介
+EN: Life is like a box of matches.<n>Taking it seriously is foolish.<n>But failing to take it seriously is dangerous.<n>by Ryunosuke Akutagawa
+
+@#281
+JP: 一人を失ったからといって嘆くことはない。<n>男と女は半分ずついるのだから。<n>ｂｙ礼記
+EN: Do not mourn the loss of one lover.<n>After all, half the world is men and half is women.<n>by The Book of Rites
+
+@#282
+JP: 話すことは知識の領域であり、<n>聞くことは英知の特権である。<n>ｂｙホームズ
+EN: Speaking belongs to the realm of knowledge;<n>listening is the privilege of wisdom.<n>by Holmes
+
+@#283
+JP: 自分で投げ捨てさえしなければ、<n>誰も私達の自尊心を奪うことは出来ない。<n>ｂｙガンジー
+EN: No one can take away our self-respect<n>unless we throw it away ourselves.<n>by Gandhi
+
+@#284
+JP: 運の良い人々とは、強い信念を維持し、<n>数々の犠牲を払い、<n>粘り強い努力を続けてきた人々である。<n>ｂｙジェームズ・アレン
+EN: The lucky are those who have held firm in their beliefs,<n>made countless sacrifices,<n>and kept working with persistence.<n>by James Allen
+
+@#285
+JP: 冷たい茶と冷たい飯は、まだ我慢できるが、<n>冷たい言葉と冷たい話は、<n>耐えることが出来ない。<n>ｂｙ中国のことわざ
+EN: Cold tea and cold rice I can endure,<n>but cold words and cold conversation<n>are more than I can bear.<n>by a Chinese proverb
+
+@#286
+JP: 恋愛は戦争のようなものである。<n>始めるのは容易だが、やめるのは困難である。<n>ｂｙメンケン
+EN: Love is like war:<n>easy to begin, but difficult to end.<n>by Mencken
+
+@#287
+JP: ゆっくりとあせらずに歩む者にとって<n>長い途はない。<n>辛抱強く優越を準備する者にとって<n>手のとどかぬ優越はない。<n>ｂｙラ・ブリュイエール
+EN: No road is too long for those<n>who walk slowly and without haste.<n>No achievement is beyond reach for those<n>who patiently prepare to excel.<n>by La Bruyere
+
+@#288
+JP: 過去の否認は有害な態度である。<n>現在と戦い、未来を創造するには、<n>往々にして過去が最も有効な武器なのである。<n>ｂｙジュリアン・グリーン
+EN: Denying the past is a harmful habit.<n>To face the present and create the future,<n>the past is often our most effective weapon.<n>by Julien Green
+
+@#289
+JP: たった五分！ちくしょう！<n>私は一生を通して五分遅れ通しだった。<n>ｂｙクーリー
+EN: Just five minutes! Damn it!<n>All my life, I've been five minutes late.<n>by Cooley
+
+@#290
+JP: 毎日自分に言い聞かせなさい。<n>今日が人生最後の日だと。<n>あるとは期待していなかった時間が<n>驚きとして訪れるでしょう。<n>ｂｙホラティウス
+EN: Tell yourself each day<n>that this is your last.<n>Then every hour you never expected to have<n>will come as a surprise.<n>by Horace
+
+@#291
+JP: 今あなたが不運な状態にあるなら、それは<n>あなたがそうなるように仕向けた結果です。<n>逆に、今あなたが幸運に恵まれているなら、<n>それもあなたがそうなるように<n>仕向けた結果です。<n>ｂｙJ・マーフィー
+EN: If you are unlucky now, it is because<n>you have brought that situation about.<n>If, on the other hand, you enjoy good fortune,<n>that too is the result of circumstances<n>you have brought about.<n>by J. Murphy
+
+@#292
+JP: 成功は重要な事ではない。<n>重要な事は努力である。<n>ｂｙテオドール・ジュロフア
+EN: Success is not what matters.<n>What matters is effort.<n>by Theodore Jouffroy
+
+@#293
+JP: 東に旅しても西に旅しても、<n>自分の家に勝るところはない。<n>ｂｙドイツのことわざ
+EN: Travel east or travel west,<n>there is no place like home.<n>by a German proverb
+
+@#294
+JP: 運は我々から富を奪うことはできても、<n>勇気を奪うことはできない。<n>ｂｙセネカ
+EN: Fortune may rob us of our wealth,<n>but it cannot rob us of our courage.<n>by Seneca
+
+@#295
+JP: 恋には経験というものはない。<n>なぜなら、<n>そのときにはもう恋していないのだから。<n>ｂｙレニエ
+EN: There is no such thing as experience in love.<n>For by the time you have gained it,<n>you are no longer in love.<n>by Regnier
+
+@#296
+JP: 時間の使い方の最も下手なものが、<n>まずその短さについて苦情をいう。<n>ｂｙラ・ブリュイエール
+EN: Those who make the worst use of their time<n>are the first to complain that it is too short.<n>by La Bruyere
+
+@#297
+JP: 森の分かれ道では人の通らぬ道を選ぼう。<n>すべてが変わる。<n>ｂｙフロスト
+EN: When the path forks in the woods, take the less traveled road.<n>It will make all the difference.<n>by Frost
+
+@#298
+JP: 人生は己を探す旅である。<n>ｂｙ藤本義一
+EN: Life is a journey to find yourself.<n>by Giichi Fujimoto
+
+@#299
+JP: 人間は毅然として<n>現実の運命に耐えていくべきだ。<n>そこには一切の真理が潜んでいる。<n>ｂｙソロー
+EN: We must stand firm<n>and endure the fate that is truly ours.<n>Within it lies all truth.<n>by Thoreau
+
+@#300
+JP: 人生は学校である。<n>そこでは幸福より不幸の方が<n>良い教師である。<n>ｂｙフリーチェ
+EN: Life is a school.<n>There, misfortune is a better teacher<n>than happiness.<n>by Fritsche
+
+@#301
+JP: 自分の人格と人生を変えることのできるのは<n>自分のみである。<n>ｂｙジェームズ・アレン
+EN: Only you can change<n>your character and your life.<n>by James Allen
+
+@#302
+JP: 運命は花こう岩より堅固だが、<n>人間の良心は運命より堅固である。<n>ｂｙユーゴー
+EN: Fate is harder than granite,<n>but the human conscience is harder still.<n>by Hugo
+
+@#303
+JP: 体が重いと足跡も深くなる。<n>恋心も強いと傷が深い。<n>ｂｙ映画『ニュー・シネマ・パラダイス』
+EN: The heavier the body, the deeper the footprints.<n>The stronger the love, the deeper the wounds.<n>from the film Cinema Paradiso
+
+@#304
+JP: 諸悪の根源は金そのものではなく、<n>金に対する愛である。<n>ｂｙサミュエル・スマイルズ
+EN: The root of all evil is not money itself,<n>but the love of money.<n>by Samuel Smiles
+
+@#305
+JP: 友情とは二つの肉体に宿れる一つの魂である。<n>ｂｙアリストテレス
+EN: Friendship is one soul dwelling in two bodies.<n>by Aristotle
+
+@#306
+JP: 金は借りてもならず、貸してもならない。<n>貸せば金を失うし、友も失う。<n>借りれば倹約が馬鹿らしくなる。<n>ｂｙシェークスピア
+EN: Neither borrow money nor lend it.<n>Lend it, and you lose both money and friend.<n>Borrow it, and thrift begins to seem foolish.<n>by Shakespeare
+
+@#307
+JP: 運命がカードを混ぜ、われわれが勝負する。<n>ｂｙショーペンハウエル
+EN: Fate shuffles the cards, and we play the game.<n>by Schopenhauer
+
+@#308
+JP: 恋をして恋を失った方が、<n>一度も恋をしなかったよりマシである。<n>ｂｙテニソン
+EN: It is better to have loved and lost<n>than never to have loved at all.<n>by Tennyson
+
+@#309
+JP: 友情は瞬間が咲かせる花であり、<n>そして時間が実らせる果実である。<n>ｂｙコッツェブー
+EN: Friendship is a flower that blooms in a moment<n>and a fruit that ripens with time.<n>by Kotzebue
+
+@#310
+JP: 片思いでもいいの。二人分愛するから。<n>ｂｙ映画『荒野を歩け』
+EN: It's all right if you don't love me. I'll love enough for both of us.<n>from the film Walk on the Wild Side
+
+@#311
+JP: レジャーと好奇心は<n>人類に有益な知識を発展させる。<n>しかし、つまらない争いごとや、<n>骨の折れる仕事からはなにも生まれない。<n>ｂｙジョンソン
+EN: Leisure and curiosity<n>advance knowledge that benefits humanity.<n>But petty quarrels<n>and backbreaking toil produce nothing.<n>by Johnson
+
+@#312
+JP: 与えようとばかりして、<n>もらおうとしなかった。<n>なんと愚かな、間違った、誇張された、<n>高慢な、短気な恋愛ではなかったか。<n>ただ相手に与えるだけではいけない。<n>相手からも貰わなくては。ｂｙゴッホ
+EN: I wanted only to give,<n>never to receive.<n>What a foolish, misguided, excessive,<n>proud and impatient love that was!<n>We must do more than give to the one we love.<n>We must also receive. by Van Gogh
+
+@#313
+JP: 運命占星学では、平穏無事な一生、<n>可もなく不可もない人生が<n>最幸運となっています。<n>ｂｙ和泉宗章
+EN: In the astrology of fate, a peaceful, uneventful life,<n>neither especially good nor especially bad,<n>is considered the greatest good fortune.<n>by Socho Izumi
+
+@#314
+JP: 借金を返すということは<n>収入の問題ではない。性質の問題だ。<n>ｂｙローガン・スミス
+EN: Repaying a debt is not a matter<n>of income. It is a matter of character.<n>by Logan Pearsall Smith
+
+@#315
+JP: 人生に疲れたという人がいたら、<n>それは人生のほうがその人間に疲れたのだと<n>思えば間違いはない。<n>ｂｙジョージ・サンダース
+EN: When someone says they are tired of life,<n>you can safely assume that life<n>has grown tired of them.<n>by George Sanders
+
+@#316
+JP: よいアイデアには国境がなく、<n>よい製品には国境がない<n>ｂｙ本田宗一郎
+EN: Good ideas know no borders,<n>and neither do good products.<n>by Soichiro Honda
+
+@#317
+JP: 王様であろうと百姓であろうと、<n>自分の家庭で平和を見出す者が<n>一番幸福な人間である。<n>ｂｙゲーテ
+EN: Be they king or peasant,<n>those who find peace in their own home<n>are the happiest of all.<n>by Goethe
+
+@#318
+JP: 恋の味を痛烈に味わいたいならば、<n>それは片思いか失恋する以外にないだろう。<n>ｂｙ亀井勝一郎
+EN: To taste love at its most intense,<n>you must love without being loved, or lose the love you had.<n>by Katsuichiro Kamei
+
+@#319
+JP: 友情とは、誰かに小さな親切をしてやり、<n>お返しに大きな親切を期待する契約である。<n>ｂｙモンテスキュー
+EN: Friendship is an agreement to do someone a small kindness<n>and expect a great one in return.<n>by Montesquieu
+
+@#320
+JP: 私の実際的な読書の法則は三つある。<n>１．一年を経過していない本は<n>どれも読まないこと。<n>２．有名な本のほか読まないこと。<n>３．好きな本のほか読まないこと。<n>ｂｙエマーソン
+EN: I have three practical rules for reading:<n>1. Never read a book<n>that is less than a year old.<n>2. Read only famous books.<n>3. Read only books you like.<n>By Emerson
+
+@#321
+JP: レストランで何を注文しても、<n>人が頼んだもののほうが絶対によく見える。<n>ｂｙポーリーナ・ボースーク
+EN: Whatever you order at a restaurant,<n>someone else's food always looks better.<n>By Paulina Borsook
+
+@#322
+JP: 会って、知って、愛して、<n>そして別れていくのが幾多の人間の<n>悲しい物語である。<n>ｂｙコールリッジ
+EN: To meet, to know, to love,<n>and then to part: such is the sad story<n>of so many lives.<n>By Coleridge
+
+@#323
+JP: 誰かが覆さない限り、<n>世の中のものは覆らない。<n>ｂｙジェームズ・Ａ・ガーフィールド
+EN: Nothing in this world is overturned<n>until someone overturns it.<n>By James A. Garfield
+
+@#324
+JP: 男は退屈から結婚し、<n>女は好奇心から結婚する。<n>そして双方とも失望する。<n>ｂｙワイルド
+EN: Men marry out of boredom,<n>women out of curiosity.<n>Both are disappointed.<n>By Wilde
+
+@#325
+JP: 三月の風と四月のにわか雨とが<n>五月の花をもたらす。<n>ｂｙ西洋のことわざ
+EN: March winds and April showers<n>bring forth May flowers.<n>A Western proverb
+
+@#326
+JP: できるだけ儲けて、できるだけ貯めて、<n>できるだけ与えなさい。<n>ｂｙウェスレー
+EN: Earn all you can, save all you can,<n>and give all you can.<n>By Wesley
+
+@#327
+JP: 会社で働くなら知恵を出せ。<n>知恵のないものは汗を出せ。<n>汗も出ないものは静かに去って行け。<n>ｂｙ土光敏夫
+EN: If you work for a company, contribute ideas.<n>If you have no ideas, contribute sweat.<n>If you cannot even sweat, leave quietly.<n>By Toshio Doko
+
+@#328
+JP: 親切にしなさい。<n>あなたが会う人はみんな、<n>厳しい闘いをしているのだから。<n>ｂｙプラトン
+EN: Be kind.<n>Everyone you meet<n>is fighting a hard battle.<n>By Plato
+
+@#329
+JP: 困難な情勢になってはじめて誰が敵か、<n>誰が味方顔をしていたか、<n>そして誰が本当の味方だったかわかるものだ。<n>ｂｙ小林多喜二
+EN: Only when times get tough do you learn who your enemies are,<n>who merely pretended to be your friends,<n>and who your true friends were all along.<n>By Takiji Kobayashi
+
+@#330
+JP: 深く愛していたものを憎むことは<n>なかなかできない。火は消し方が悪いと、<n>まもなく、また燃え上がる。<n>ｂｙコルネイユ
+EN: It is hard to hate what you once loved deeply.<n>A fire poorly put out<n>will soon flare up again.<n>By Corneille
+
+@#331
+JP: 言っている内容はそうでもない。<n>言い方が気に食わぬだけだ。<n>ｂｙシェイクスピア
+EN: It's not so much what's being said.<n>It's the way it's said that I can't stand.<n>By Shakespeare
+
+@#332
+JP: 結婚するのも幸せだし、<n>結婚しないのも幸せだ。<n>どっちにも人間としての喜びがある。<n>ｂｙ武者小路実篤
+EN: There is happiness in marriage,<n>and happiness in staying single.<n>Both offer the joys of being human.<n>By Saneatsu Mushanokoji
+
+@#333
+JP: 思い込みは失敗の母。<n>ｂｙアンジェロ・ドンジア
+EN: Assumption is the mother of failure.<n>By Angelo Donghia
+
+@#334
+JP: 「運」ってやつは、たえず変わる。<n>いま後頭部にがんと一撃くわせたかと思うと、<n>次の瞬間には砂糖をほおばらせて<n>くれたりする。問題はただ一つ、<n>へこたれてしまわないことだ。<n>ｂｙA・シリトー
+EN: Luck is always changing.<n>One moment it whacks you on the back of the head,<n>and the next it stuffs your mouth<n>with sweets. Only one thing matters:<n>never let it beat you down.<n>By Alan Sillitoe
+
+@#335
+JP: 女の性格がわかるのは<n>恋が始まる時ではないわ。<n>恋が終わる時よ。<n>ｂｙローザ・ルクセンブルク
+EN: You learn a woman's true character<n>not when love begins,<n>but when it ends.<n>By Rosa Luxemburg
+
+@#336
+JP: 過去の記憶がお前に喜びを与えるときにのみ、<n>過去について考えよ。<n>ｂｙオースティン
+EN: Think of the past only when remembering it<n>brings you pleasure.<n>By Austen
+
+@#337
+JP: 友とぶどう酒は古いほど良し<n>ｂｙイギリスのことわざ
+EN: Friends and wine improve with age.<n>An English proverb
+
+@#338
+JP: 最も難しい三つのことは、秘密を守ること、<n>他人から受けた危害を忘れること、<n>暇な時間を利用すること。<n>ｂｙキケロ
+EN: The three hardest things are keeping a secret,<n>forgetting the harm others have done you,<n>and making good use of your spare time.<n>By Cicero
+
+@#339
+JP: 人間が幸福であるために<n>避けることのできない条件は勤労である。<n>ｂｙトルストイ
+EN: Work is an essential condition<n>of human happiness.<n>By Tolstoy
+
+@#340
+JP: 人生は道路のようなものだ。<n>一番の近道は、たいてい一番悪い道だ。<n>ｂｙベーコン
+EN: Life is like a road.<n>The shortest route is usually the worst.<n>By Bacon
+
+@#341
+JP: 私は運命の喉首を締め上げてやるのだ。<n>決して運命に圧倒されないぞ。<n>この人生を千倍も生きたなら、<n>どんなに素敵だろう。<n>ｂｙベートーヴェン
+EN: I will seize fate by the throat.<n>It shall never overpower me.<n>How wonderful it would be<n>to live this life a thousand times over!<n>By Beethoven
+
+@#342
+JP: 二人の人間が愛し合えば、<n>ハッピーエンドはあり得ない。<n>ｂｙヘミングウェイ
+EN: When two people love each other,<n>there can be no happy ending.<n>By Hemingway
+
+@#343
+JP: 嫉妬は常に恋と共に生まれる。<n>しかし必ずしも恋と共には滅びない。<n>ｂｙラ・ロシュフーコー
+EN: Jealousy is always born with love,<n>but does not always die with it.<n>By La Rochefoucauld
+
+@#344
+JP: 朝寝は時間の出費である。<n>しかも、これほど高価な出費は他にない。<n>ｂｙカーネギー
+EN: Sleeping late is an expense of time,<n>and no expense is more costly.<n>By Carnegie
+
+@#345
+JP: 貧乏には、<n>楽しいことが沢山あるに違いない。<n>でなければ、<n>こんなに沢山の人が貧乏であるわけがない。<n>ｂｙドン・ヘロルド
+EN: There must be<n>plenty of pleasures in being poor.<n>Otherwise,<n>why would so many people be poor?<n>By Don Herold
+
+@#346
+JP: 悪い話は単刀直入に言うのがよい。<n>ｂｙワイルド
+EN: Bad news is best delivered straight out.<n>By Wilde
+
+@#347
+JP: 人生は、必ずしも<n>思うようになるとは限らない。<n>ｂｙ映画『ローマの休日』
+EN: Life doesn't always<n>turn out the way you want it to.<n>From the film "Roman Holiday"
+
+@#348
+JP: 現在の一瞬は<n>この上なく素晴らしい一瞬である。<n>現在夕食に五分遅れることは、<n>十年間の大きな悲しみより重要である。<n>ｂｙサミュエル・バトラー
+EN: The present moment<n>is the most wonderful moment of all.<n>Being five minutes late for dinner now<n>matters more than ten years of great sorrow.<n>By Samuel Butler
+
+@#349
+JP: 若い者も美しい。<n>しかし、老いたる者は<n>若い者よりさらに美しい。<n>ｂｙホイットマン
+EN: The young are beautiful.<n>But the old<n>are more beautiful still.<n>By Whitman
+
+@#350
+JP: 自分に打ち勝つことは勝利のうちで<n>最大のものである。<n>ｂｙプラトン
+EN: To conquer yourself is<n>the greatest of all victories.<n>By Plato
+
+@#351
+JP: この世に運などない。<n>全ては試練、刑罰、保証ないしは先見である。<n>ｂｙヴォルテール
+EN: There is no such thing as luck.<n>Everything is a trial, a punishment, an assurance, or foresight.<n>By Voltaire
+
+@#352
+JP: 自分自身に満足できない人は、<n>どこへ行っても満足できないだろう。<n>ｂｙラ・ロシュフーコー
+EN: Those who are dissatisfied with themselves<n>will find satisfaction nowhere.<n>By La Rochefoucauld
+
+@#353
+JP: 過去と未来は最高によく思える。<n>現在の事柄は最高に悪い。<n>ｂｙシェークスピア
+EN: The past and future always seem best.<n>The present always seems worst.<n>By Shakespeare
+
+@#354
+JP: 金を稼ごうと思ったら、<n>金を使わなければならない。<n>ｂｙプラウトゥス
+EN: If you want to make money,<n>you have to spend money.<n>By Plautus
+
+@#355
+JP: 人間の運命よ。<n>お前はなんと風に似ていることか。<n>ｂｙゲーテ
+EN: O human destiny,<n>how much you resemble the wind!<n>By Goethe
+
+@#356
+JP: 世の中には幸福も不幸もない。<n>ただ、考え方でどうにでもなるのだ。<n>ｂｙシェークスピア
+EN: There is no happiness or unhappiness in this world.<n>It all depends on how you see things.<n>By Shakespeare
+
+@#357
+JP: 恋の喜びは一瞬しか続かない。<n>恋の悲しみは一生続く。<n>ｂｙフロリアン
+EN: The joy of love lasts only a moment.<n>The sorrow of love lasts a lifetime.<n>By Florian
+
+@#358
+JP: 人は労働なしに休息に達することなく、<n>戦闘なしに勝利に達することもない。<n>ｂｙトーマス・ア・ケンピス
+EN: There is no rest without labor,<n>and no victory without a fight.<n>By Thomas a Kempis
+
+@#359
+JP: 青春は何もかも実験である。<n>ｂｙスティーブンソン
+EN: In youth, everything is an experiment.<n>By Stevenson
+
+@#360
+JP: 所有している金銭は自由への手段であるが、<n>追い求める金銭は隷属への手段である。<n>ｂｙルソー
+EN: The money you possess is a means to freedom;<n>the money you pursue is a means to slavery.<n>By Rousseau
+
+@#361
+JP: 平らな道でもつまずくことがある。<n>人間の運命もそうしたものだ。<n>神以外に誰も真実を知るものはないのだから。<n>ｂｙチェーホフ
+EN: We can stumble even on a level road.<n>Human destiny is much the same.<n>For no one but God knows the truth.<n>By Chekhov
+
+@#362
+JP: 馬で行くことも、車で行くことも、<n>二人で行くことも、三人で行くこともできる。<n>だが、最後の一歩は<n>自分ひとりで歩かなければならない。<n>ｂｙゲーテ
+EN: You may go by horse or by carriage,<n>in twos or in threes.<n>But the final step<n>must be taken alone.<n>By Goethe
+
+@#363
+JP: せっかく思い立ったのです。思い立ったら<n>決心して気が変わらないうちに<n>さっと実行に移しましょう。<n>ｂｙトーベ・ヤンソン
+EN: You've had the idea. Now make up your mind<n>and put it into action quickly,<n>before you have a change of heart.<n>By Tove Jansson
+
+@#364
+JP: 今今と今という間に今ぞ無く<n>今という間に今ぞ過ぎ行く<n>ｂｙ道歌
+EN: Say "now," and already that now is gone.<n>Even as you say it, now slips away.<n>From a Japanese wisdom poem
+
+@#365
+JP: 会社は集団だが、その集団で成功するには、<n>自分の考えが集団的であってはならない。<n>ｂｙJ・マーフィー
+EN: A company is a group, but to succeed in it,<n>you must think for yourself.<n>By J. Murphy
+
+@#366
+JP: 恋愛は幸福を殺し、幸福は恋愛を殺す。<n>ｂｙウナムノ
+EN: Love kills happiness, and happiness kills love.<n>By Unamuno
+
+@#367
+JP: 小さなミソサザイを傷つけるような人間は<n>決して人から愛されないだろう。<n>ｂｙウィリアム・ブレーク
+EN: Anyone who would hurt a little wren<n>will never be loved by others.<n>By William Blake
+
+@#368
+JP: 誰かを真似て他人の二級品になるよりも、<n>常に自分自身の一級品でありなさい。<n>ｂｙジュディ・ガーランド
+EN: Always be a first-rate version of yourself,<n>instead of a second-rate version of someone else.<n>By Judy Garland
+
+@#369
+JP: 馬鹿をさらけ出すよりは<n>黙っていて馬鹿だと思われる方がましである。<n>ｂｙキングス・レイ・ウォード
+EN: Better to stay silent and be thought a fool<n>than to speak and prove it.<n>By Kingsley Ward
+
+@#370
+JP: あなたの友人があなたを<n>裏切るようなことをしたからといって、<n>あなたは友人の悪口を人に語ってはならぬ。<n>長い間の友情がゼロになるから。<n>ｂｙシング
+EN: Even if a friend<n>has betrayed you,<n>you must not speak ill of them to others.<n>You would wipe out years of friendship.<n>By Synge
+
+@#371
+JP: 雲や嵐がなければ、いかなる虹もありえない。<n>ｂｙＪ・Ｈ・ヴィンセント
+EN: Without clouds or storms, there can be no rainbow.<n>By J. H. Vincent
+
+@#372
+JP: 時間こそ最も賢明な相談相手である。<n>ｂｙペリクレス
+EN: Time is the wisest counselor of all.<n>By Pericles
+
+@#373
+JP: 友情は不変といってよいが<n>色と恋が絡めば話は別になる。<n>ｂｙシェイクスピア
+EN: Friendship may be constant,<n>but love and desire change everything.<n>By Shakespeare
+
+@#374
+JP: 貧乏のいいところは<n>泥棒の恐れがないことだ。<n>ｂｙアルフォンス・アレー
+EN: The good thing about being poor<n>is having no fear of thieves.<n>By Alphonse Allais
+
+@#375
+JP: 一番多忙な人間が一番多くの時間をもつ。<n>ｂｙアレクサンドル・ビネ
+EN: The busiest person has the most time.<n>By Alexandre Vinet
+
+@#376
+JP: 一人で石を持ち上げる気がなかったら、<n>二人がかりでも持ち上がらない。<n>ｂｙゲーテ
+EN: If you won't try to lift a stone alone,<n>two people won't lift it either.<n>By Goethe
+
+@#377
+JP: 誰かを愛することは、<n>その人に幸福になってもらいたいと<n>願うことである。<n>ｂｙＴ・アクイナス
+EN: To love someone<n>is to wish<n>for their happiness.<n>By T. Aquinas
+
+@#378
+JP: 古き良き時代。<n>全ての時代は古くなると良くなるもの。<n>ｂｙバイロン
+EN: The good old days.<n>Every age becomes good once it becomes old.<n>By Byron
+
+@#379
+JP: 信頼は、<n>年を重ねた胸の中で<n>ゆっくりと育つ植物である。<n>ｂｙウィリアム・ピット
+EN: Trust is a plant<n>that grows slowly<n>in a heart seasoned by years.<n>By William Pitt
+
+@#380
+JP: 恋する人のために<n>食事の支度をしている女の姿ほど、<n>胸打つものはない。<n>ｂｙＴ・ウルフ
+EN: Nothing is more touching<n>than the sight of a woman preparing a meal<n>for the person she loves.<n>By T. Wolfe
+
+@#381
+JP: 恐怖の数のほうが危険の数より常に多い<n>ｂｙセネカ
+EN: Our fears always outnumber our dangers.<n>By Seneca
+
+@#382
+JP: 愛にとげがあるのは仕方がない。<n>愛は一輪の花なのだから。<n>それにひきかえ友情とはなんだ。<n>野菜にすぎない。<n>ｂｙポール＝ジャン・トゥーレ
+EN: We must forgive love its thorns.<n>After all, it is a flower.<n>And what is friendship by comparison?<n>A mere vegetable.<n>By Paul-Jean Toulet
+
+@#383
+JP: 広く好かれれば好かれるほど、<n>深く好かれないものだ。<n>ｂｙスタンダール
+EN: The more widely you are liked,<n>the less deeply you are loved.<n>By Stendhal
+
+@#384
+JP: 絶えず警戒しつづけることの必要が、<n>ついには恋しあう人達を疲労させてしまう。<n>ｂｙヴィニィ
+EN: The need to stay constantly on guard<n>eventually wears lovers out.<n>By Vigny
+
+@#385
+JP: 男は別れの言い方が分からない。<n>女はそれを言うべき時が分からない。<n>ｂｙヘレン・ローランド
+EN: Men don't know how to say goodbye.<n>Women don't know when to say it.<n>By Helen Rowland
+
+@#386
+JP: 山から遠ざかれば<n>ますますその本当の姿を見ることができる。<n>友人にしてもこれと同じである。<n>ｂｙアンデルセン
+EN: The farther you stand from a mountain,<n>the more clearly you see its true shape.<n>The same is true of friends.<n>By Andersen
+
+@#387
+JP: あらゆる創造活動はまずなによりも<n>破壊活動である。<n>ｂｙパブロ・ピカソ
+EN: Every act of creation is, first of all,<n>an act of destruction.<n>By Pablo Picasso
+
+@#388
+JP: この地上における二人の暴君、<n>それは偶然と時間だ。<n>ｂｙへルダー
+EN: There are two tyrants on this earth:<n>chance and time.<n>By Herder
+
+@#389
+JP: 欲しいと思うものを買うな。<n>必要なものだけ買え。<n>ｂｙカトー
+EN: Don't buy what you want.<n>Buy only what you need.<n>By Cato
+
+@#390
+JP: 金を持っている人間は、<n>貧乏人がそのはかない運命を<n>訴えることを聞くのが<n>大嫌いである。<n>ｂｙドストエフスキー
+EN: Those with money<n>cannot bear<n>to hear the poor lament<n>their wretched lot.<n>By Dostoevsky
+
+@#391
+JP: 考えるな、感じろ<n>ｂｙ『燃えよドラゴン』
+EN: Don't think. Feel.<n>From "Enter the Dragon"
+
+@#392
+JP: この人生は、<n>どんなにつらくとも生きるに値する。<n>そのためには三つのことが必要だ。<n>それは、勇気と、希望と、いくらかのお金だ。<n>ｂｙチャーリー・チャップリン
+EN: Life is worth living,<n>however hard it may be.<n>All it takes are three things:<n>courage, hope, and a little money.<n>By Charlie Chaplin
+
+@#393
+JP: 成功は、失敗の彼方にある。<n>ｂｙＴ・Ｊ・ワトソン
+EN: Success lies on the far side of failure.<n>By T. J. Watson
+
+@#394
+JP: 金持ちがどんなにその富を<n>自慢しているとしても、<n>彼がその富を<n>どんなふうに使うかが判るまで、<n>彼をほめてはいけない。<n>ｂｙソクラテス
+EN: However much a rich man<n>may boast of his wealth,<n>do not praise him<n>until you have seen<n>how he uses it.<n>By Socrates
+
+@#395
+JP: 寒さにふるえた者ほど太陽を暖かく感じる。<n>人生の悩みをくぐった者ほど<n>生命の尊さを知る。<n>ｂｙホイットマン
+EN: Those who have shivered feel the sun's warmth most.<n>Those who have endured life's troubles<n>know best how precious life is.<n>By Whitman
+
+@#396
+JP: 学校での成績がよいからといって、<n>社会で認められるとは限らない<n>ｂｙイソップ
+EN: Good grades at school<n>do not guarantee recognition in the world.<n>By Aesop
+
+@#397
+JP: 人生から友情を除かば、<n>世界から太陽を除くにひとし。<n>ｂｙキケロ
+EN: To take friendship out of life<n>is to take the sun out of the world.<n>By Cicero
+
+@#398
+JP: 二度読む価値のないものは、<n>一度読む価値もない。<n>ｂｙヴェーバー
+EN: What is not worth reading twice<n>is not worth reading once.<n>By Weber
+
+@#399
+JP: ヤギだの羊だのを<n>各自がどれくらい持っているかは言えても、<n>友だちをどれくらい持っているかは言えない。<n>ｂｙキケロ
+EN: We can each say<n>how many goats or sheep we own,<n>but not how many friends we have.<n>By Cicero
+
+@#400
+JP: 幸福の便りというものは、<n>待っている時には決して来ないものだ。<n>ｂｙ太宰治
+EN: Good news never comes<n>while you're waiting for it.<n>by Osamu Dazai
+
+@#401
+JP: 荷物が重くてくじけそうになったら、<n>ほかの荷物を軽くすればいい。<n>ｂｙジョージ・Ｓ・メリアム
+EN: When a burden feels too heavy to bear,<n>lighten another load.<n>by George S. Merriam
+
+@#402
+JP: 神は人間に額に汗して働けと命じている。<n>銀行に金を積んで、<n>何もしないで食べていこうとするのは<n>人間のおきてに反することだ。<n>ｂｙトルストイ
+EN: God commands us to earn our bread by our sweat.<n>To pile up money in a bank<n>and expect to eat without working<n>goes against the laws of humanity.<n>by Tolstoy
+
+@#403
+JP: 愚か者は、金を持って死んでいくために、<n>貧乏で暮らす。<n>ｂｙブロッケス
+EN: A fool lives in poverty<n>so he can die rich.<n>by Brockes
+
+@#404
+JP: 人間、<n>志を立てるのに遅すぎるということはない。<n>ｂｙボールドウィン
+EN: It is never too late<n>to set yourself a goal.<n>by Baldwin
+
+@#405
+JP: 人間の一生を支配するのは運であって、<n>知恵ではない。<n>ｂｙキケロ
+EN: Luck rules our lives,<n>not wisdom.<n>by Cicero
+
+@#406
+JP: 少し食べ、少し飲み、早くから休むことだ。<n>これは世界的な万能薬だ。<n>ｂｙドラクロア
+EN: Eat a little, drink a little, and go to bed early.<n>That's a universal cure.<n>by Delacroix
+
+@#407
+JP: 恋の喜びが結局悲しみをもたらす<n>ということは、もういろいろな女の例で<n>はっきりしているんですもの。<n>私は恋も悩みも両方捨てますから、<n>悪いことも起こらないでしょう。<n>ｂｙ『ニーベルンゲンの歌』
+EN: The lives of so many women have shown<n>that the joys of love<n>bring sorrow in the end.<n>I'll give up both love and heartache,<n>and then no harm can come to me.<n>from The Song of the Nibelungs
+
+@#408
+JP: 終わりのある愛は悲劇じゃないわ。<n>終わりのない愛こそ悲劇なのよ。<n>ｂｙシャーリ・ハザード
+EN: Love that ends is no tragedy.<n>Love that never ends is the real tragedy.<n>by Shirley Hazzard
+
+@#409
+JP: もしあなたが約束の時間より早く着いたら、<n>あなたは心配性である。<n>もし遅れてきたら挑発家、<n>時間どうりに来れば強迫観念の持ち主。<n>もし来なかったら、知恵遅れという事になる。<n>ｂｙアンリ・ジャンソン
+EN: If you arrive before the appointed time,<n>you're a worrier.<n>If you're late, you're looking for trouble.<n>If you're on time, you're obsessive.<n>If you never show up, you're a half-wit.<n>by Henri Jeanson
+
+@#410
+JP: 金儲けのうまい人は、<n>無一文になっても<n>自分自身という財産を持っている。<n>ｂｙアラン
+EN: Someone with a knack for making money<n>still has one asset after losing every penny:<n>themselves.<n>by Alain
+
+@#411
+JP: 幸福は夢にすぎず、苦痛は現実である。<n>ｂｙボルテール
+EN: Happiness is only a dream; pain is real.<n>by Voltaire
+
+@#412
+JP: 他の人に一生懸命サービスする人が、<n>最も利益を得る人間である。<n>ｂｙカーネル・サンダース
+EN: Those who work hardest to serve others<n>are the ones who gain the most.<n>by Colonel Sanders
+
+@#413
+JP: 毎月少しずつお金を貯めていきなさい。<n>そうすれば<n>年末にはびっくりすることでしょう。<n>あまりの少なさに。<n>ｂｙアーネスト・ハスキンズ
+EN: Save a little money each month.<n>By the end of the year,<n>you'll be surprised...<n>at how little you have.<n>by Ernest Haskins
+
+@#414
+JP: 他人の生活と比較することなく、<n>君自身の生活を楽しめ。<n>ｂｙコンドルセ
+EN: Enjoy your own life<n>without comparing it to anyone else's.<n>by Condorcet
+
+@#415
+JP: 一番多忙な人間が一番多くの時間をもつ。<n>ｂｙアレクサンドル・ビネ
+EN: The busiest person has the most time.<n>By Alexandre Vinet
+
+@#416
+JP: 金は良い召使いでもあるが、<n>悪い主人でもある。<n>ｂｙフランクリン
+EN: Money is a good servant<n>but a bad master.<n>by Franklin
+
+@#417
+JP: 友人が片目なら、私は友人を横顔から眺める。<n>ｂｙジュべール
+EN: If my friend has only one eye, I look at him in profile.<n>by Joubert
+
+@#418
+JP: 三人の信用するに足る友がいる。<n>老妻、老犬、それと貯金。<n>ｂｙワシントン
+EN: There are three friends you can count on:<n>an old wife, an old dog, and savings.<n>by Washington
+
+@#419
+JP: 天才？そんなものは決してない。<n>ただ勉強です。方法です。<n>不断に計画しているということです。<n>ｂｙロダン
+EN: Genius? There's no such thing.<n>Only study. Method.<n>Constant planning.<n>by Rodin
+
+@#420
+JP: 若いときの自分は、<n>金こそ人生でもっとも大切なものだ<n>と思っていた。今、歳をとってみると、<n>その通りだと知った。<n>ｂｙワイルド
+EN: When I was young,<n>I thought money was the most important thing in life.<n>Now that I'm old,<n>I know I was right.<n>by Wilde
+
+@#421
+JP: 時間の価値を知れ。<n>あらゆる瞬間をつかまえて享受せよ。<n>今日出来る事を明日まで延ばすな。<n>ｂｙチェスターフィールド
+EN: Know the value of time.<n>Seize and enjoy every moment.<n>Never put off until tomorrow what you can do today.<n>by Chesterfield
+
+@#422
+JP: お互い友人だといっても、<n>それを信じるのは愚か者。<n>この名ほど世間にありふれたものはなく、<n>その実ほど天下にまれなものはない。<n>ｂｙラ・フォンテーヌ
+EN: Only a fool believes that calling each other friends<n>makes it so.<n>No name is more common in this world,<n>and nothing is rarer than the real thing.<n>by La Fontaine
+
+@#423
+JP: 少しの悲しみもない純粋な幸福なんて、<n>めったにあるものではない。<n>ｂｙハイネ
+EN: Pure happiness without a trace of sorrow<n>is a rare thing indeed.<n>by Heine
+
+@#424
+JP: 失恋すると、５年後に素晴らしい事が<n>起こります。エレベーターに乗ったら、<n>ハゲて太ったあの人がいて、葉巻を<n>くゆらせながら「ずいぶん長いこと<n>会わなかったね」なんて言ってたりするの。<n>ｂｙフィリス・バテレ
+EN: Five years after a broken heart,<n>something wonderful happens. You step into an elevator,<n>and there he is, bald and fat,<n>puffing on a cigar and saying,<n>"Long time no see!"<n>by Phyllis Battelle
+
+@#425
+JP: うまくいかなかった日は、<n>寝る前に自問する。<n>今ここで何かできることがあるのか、と。<n>なければぐっすり寝る。<n>ｂｙＬ・Ｌ・コルベルト
+EN: After a day when nothing goes right,<n>I ask myself before bed:<n>Can I do anything about it here and now?<n>If not, I sleep soundly.<n>by L. L. Colbert
+
+@#426
+JP: 難問は分割せよ<n>ｂｙデカルト
+EN: Divide hard problems<n>by Descartes
+
+@#427
+JP: 貧しくとも、君の生活を愛したまえ<n>ｂｙソロー
+EN: Love your life, however poor it may be.<n>by Thoreau
+
+@#428
+JP: 人間のエッセンスは願いと希望である。<n>ｂｙヒッペル
+EN: Wishes and hopes are the essence of being human.<n>by Hippel
+
+@#429
+JP: 人生とは、二気筒のエンジンで<n>４４０馬力を出すことだ。<n>ｂｙヘンリー・ミラー
+EN: Life is getting 440 horsepower<n>out of a two-cylinder engine.<n>by Henry Miller
+
+@#430
+JP: レモンを手に入れたらレモネードを作れ。<n>すっぱいからといって捨ててしまうな。<n>ｂｙジュリアス・ローザンヴォルド
+EN: When you get a lemon, make lemonade.<n>Don't throw it away just because it's sour.<n>by Julius Rosenwald
+
+@#431
+JP: 天体の運動はいくらでも計算できるが、<n>人の気持ちはとても計算できない。<n>ｂｙニュートン
+EN: I can calculate the movements of the heavens,<n>but human feelings are beyond calculation.<n>by Newton
+
+@#432
+JP: 青年にすすめたいことは、<n>ただ三語につきる。<n>すなわち働け、もっと働け、あくまで働け。<n>ｂｙビスマルク
+EN: My advice to young people<n>comes down to three things:<n>work, work harder, and keep working.<n>by Bismarck
+
+@#433
+JP: 友人の果たすべき役割は、<n>間違っているときにも味方すること。<n>正しいときには<n>だれだって味方になってくれる。<n>ｂｙマーク・トウェイン
+EN: A friend's duty<n>is to stand by you when you're wrong.<n>When you're right,<n>anyone will stand by you.<n>by Mark Twain
+
+@#434
+JP: 未来はすでに始まっている。<n>ｂｙロベルト・ユンク
+EN: The future has already begun.<n>by Robert Jungk
+
+@#435
+JP: 人と人との友情は、<n>賢者でも結ぶのが難しいのに、<n>愚者はあっさりほどいてしまう。<n>ｂｙシェイクスピア
+EN: The bonds of friendship<n>are hard even for the wise to tie,<n>yet fools undo them with ease.<n>by Shakespeare
+
+@#436
+JP: 完全であること自体が不完全なのだ。<n>ｂｙウラジミール・ホロヴィッツ
+EN: Perfection is itself an imperfection.<n>by Vladimir Horowitz
+
+@#437
+JP: 自分の目標を達成している人、あるいは<n>今の自分に本当に満足している人には<n>滅多に出会うものではない。それなのに<n>人生を左右するような問題の選択を<n>大多数の意見に委ねるべきだろうか？<n>ｂｙキングス・レイ・ウォード
+EN: We rarely meet anyone who has achieved their goals<n>or feels truly satisfied with who they are.<n>Why, then, should we leave<n>the choices that shape our lives<n>to the opinion of the majority?<n>by Kingsley Ward
+
+@#438
+JP: 私達は金を稼ぐために頭脳をもち、<n>金を使うために心情を持っている。<n>ｂｙジョージ・ファーカー
+EN: We have brains to earn money<n>and hearts to spend it.<n>by George Farquhar
+
+@#439
+JP: 今日卵を一つ持つより、<n>明日めんどりを一羽持つほうがよい。<n>ｂｙフラー
+EN: Better a hen tomorrow<n>than an egg today.<n>by Fuller
+
+@#440
+JP: 貧しさは貧しいと感じるところにある。<n>ｂｙエマーソン
+EN: Poverty lies in feeling poor.<n>by Emerson
+
+@#441
+JP: 運命は我々の行為の半分を支配し、<n>他の半分を我々自身にゆだねる。<n>ｂｙマキャベリ
+EN: Fate governs half our actions,<n>and leaves the other half to us.<n>by Niccolo Machiavelli
+
+@#442
+JP: くだらなく過ごしても一生、<n>苦しんで過ごしても一生だ。<n>苦しんで生き生きと暮らすべきだ。<n>ｂｙ志賀直哉
+EN: Whether wasted or spent in hardship,<n>a lifetime is still a lifetime.<n>Better to live fully, even through hardship.<n>by Naoya Shiga
+
+@#443
+JP: 今日を楽しめ。<n>自分自身の人生を忘れがたいものにするのだ。<n>ｂｙＮ・Ｈ・クラインバウム
+EN: Seize the day.<n>Make your own life unforgettable.<n>by N. H. Kleinbaum
+
+@#444
+JP: 一生の仕事を見出した人には、<n>ほかの幸福を探す必要はない。<n>ｂｙカーライル
+EN: Those who find their life's work<n>need seek no other happiness.<n>by Thomas Carlyle
+
+@#445
+JP: みだりに人の師となるべからず。<n>又みだりに人を師とすべからず。<n>ｂｙ吉田兼好
+EN: Do not lightly set yourself up as a teacher.<n>Nor lightly choose someone as your teacher.<n>by Yoshida Kenko
+
+@#446
+JP: 子供の頃に起こった事に<n>あなたはどんな責任もない。<n>大人としてあなたが何をしようと、<n>それは全てあなたの責任だ。<n>ｂｙスーザン・フォワード
+EN: You bear no responsibility<n>for what happened to you as a child.<n>Whatever you do as an adult,<n>you are fully responsible for it.<n>by Susan Forward
+
+@#447
+JP: ただしき者は、悩み多し。<n>ｂｙ旧約聖書
+EN: The righteous have many troubles.<n>by the Old Testament
+
+@#448
+JP: 私には、これから一生やっていけるだけの<n>金がある。何も買わなければ。<n>ｂｙジャッキー・メーソン
+EN: I have enough money to last the rest of my life.<n>As long as I don't buy anything.<n>by Jackie Mason
+
+@#449
+JP: つまづいたっていいじゃないか<n>ｂｙ相田みつを
+EN: It's okay to stumble.<n>by Mitsuo Aida

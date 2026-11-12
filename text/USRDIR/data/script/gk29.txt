@@ -1,0 +1,247 @@
+# source: PSP_GAME/USRDIR/data/script/gk29.scb
+# format: scb
+# width: 44
+
+@5144 max=639
+JP: む？見たな？<p>我の姿を見てしまったな？<n>ふははは！哀れなやつめ！<p>我らはガイコツナンバーズ！<n>邪悪な秘密結社なのだ！<p>そして我は、ナンバー<GN>！<n>自分で言うのもなんだが、幹部候補だ！
+EN: Hm? You saw me?<p>You have gazed upon my fearsome form?<n>Fwahaha! You poor fool!<p>We are the Skull Numbers!<n>An evil secret society!<p>And I am Number <GN>!<n>Officer material, if I do say so myself!
+
+@53C4 max=639
+JP: む？おまえは<PN>！<n>最近ウワサの、我らの敵だな？<p>我はガイコツナンバー<GN>！<n>ここで会ったが百年目だ！ふはは！
+EN: Hm? You're <PN>!<n>Our enemy everyone's been talking about!<p>I am Skull Number <GN>!<n>At last, your reckoning is at hand! Fwahaha!
+
+@5644 max=639
+JP: …ヤア！元気かーい！<n>ずいぶん顔色いいじゃん！<p>…と、油断させておいて<n>トウッ！<p>…ふはははは！愚かな奴め！<n>我の絶妙の声色に騙されたな！<p>我はガイコツナンバー<GN>！<n>どうだ、驚いたか、ふははは！<p>もはや貴様に勝ち目はない！<n>大人しく降参するがいい！
+EN: ...Hey there! How's it going?<n>You're looking great!<p>...And with your guard down...<n>HIYAH!<p>...Fwahahaha! You fool!<n>My flawless acting had you completely fooled!<p>I am Skull Number <GN>!<n>Surprised? Fwahaha!<p>You have no hope of victory now!<n>Surrender quietly!
+
+@58C4 max=639
+JP: む！おまえは<PN>！<n>なんだ、また我らにやられに来たか！<p>我はガイコツナンバー<GN>！<n>返り討ちにしてやる！カモーン！
+EN: Ah! It's you, <PN>!<n>Back for another beating, are you?<p>I am Skull Number <GN>!<n>I'll send you packing! Come on!
+
+@5B44 max=639
+JP: 我らの目的は、邪悪な占いによって<n>この世を支配することなのだ！ふはは！<p>具体的には、恐怖の「あだな占い」で<n>全人類を精神的に打ちのめすのだ！<p>…む？聞いたな？<n>我らの正体を聞いてしまったな？<p>聞かれたからには覚悟してもらおう。<n>ふははは！泣け！叫べ！
+EN: Our goal is to rule the world<n>through evil fortune-telling! Fwahaha!<p>Specifically, our dreaded nickname fortunes<n>will crush the spirit of all humanity!<p>...Hm? You heard that?<n>You have learned our true identity?<p>Then prepare to face the consequences!<n>Fwahaha! Weep! Scream!
+
+@5DC4 max=639
+JP: 我らは巨大な秘密結社なのだ！<n>全部で、４０人…いや、５０人…<p>ええと、ひいふうみい…<p>…ふ、ふはは！<n>そんなことはどうでもよい！
+EN: Our secret society is vast!<n>We have forty... No, fifty members...<p>Let's see... One, two, three...<p>...F-Fwahaha!<n>Such details are irrelevant!
+
+@6044 max=639
+JP: ガイコツナンバーズ結成より３０年！<n>我が結社は、着々と版図を広げてきた！<p>あと５０年もあれば<n>この島の四分の一は支配できる！<p>これが何を意味するかわかるか？<n>つまり…<p>この調子でいくと<n>世界征服まであと一歩ということだ！
+EN: Thirty years since the Skull Numbers arose!<n>Our territory has steadily expanded!<p>In just fifty more years,<n>we could rule a quarter of this island!<p>Do you know what that means?<n>It means...<p>At this rate, we're just one step away<n>from world domination!
+
+@62C4 max=639
+JP: 我らの目的は、邪悪な占いによって<n>この世を支配することなのだ！ふはは！<p>具体的には、恐怖の「あだな占い」で<n>全人類を精神的に打ちのめすのだ！<p>…む？聞いたな？<n>我らの正体を聞いてしまったな？<p>聞かれたからには覚悟してもらおう。<n>ふははは！泣け！叫べ！
+EN: Our goal is to rule the world<n>through evil fortune-telling! Fwahaha!<p>Specifically, our dreaded nickname fortunes<n>will crush the spirit of all humanity!<p>...Hm? You heard that?<n>You have learned our true identity?<p>Then prepare to face the consequences!<n>Fwahaha! Weep! Scream!
+
+@6544 max=639
+JP: 我らは巨大な秘密結社なのだ！<n>全部で、４０人…いや、５０人…<p>ええと、ひいふうみい…<p>…ふ、ふはは！<n>そんなことはどうでもよい！
+EN: Our secret society is vast!<n>We have forty... No, fifty members...<p>Let's see... One, two, three...<p>...F-Fwahaha!<n>Such details are irrelevant!
+
+@67C4 max=639
+JP: ガイコツナンバーズ結成より３０年！<n>我が結社は、着々と版図を広げてきた！<p>あと５０年もあれば<n>この島の四分の一は支配できる！<p>これが何を意味するかわかるか？<n>つまり…<p>この調子でいくと<n>世界征服まであと一歩ということだ！
+EN: Thirty years since the Skull Numbers arose!<n>Our territory has steadily expanded!<p>In just fifty more years,<n>we could rule a quarter of this island!<p>Do you know what that means?<n>It means...<p>At this rate, we're just one step away<n>from world domination!
+
+@6A44 max=639
+JP: ふははは、聞いておどろくな！<p>我々は、素晴らしい情報を<n>ゲットしたのだぞ！<p>「ものしり海岸」に、われらの祖先<n>ガイコツスリーパーズの像があるという！<p>それこそ、我らの世界征服の<n>新たなカギとなるアイテムなのだ！<p>もはや勝ったも同然よ！ふははは！
+EN: Fwahaha! Prepare to be amazed!<p>We have acquired<n>some magnificent intelligence!<p>A statue of our ancestors, the Skull Sleepers,<n>stands on Know-It-All Coast!<p>That very statue shall be the new key<n>to our conquest of the world!<p>Victory is as good as ours! Fwahaha!
+
+@6CC4 max=639
+JP: くっ、それにしても…<p>ガイコツ大魔王様さえ<n>万全の体調でおられたら…。<p>花粉症とギックリ腰のせいで<n>我らが魔王様は動けないのだ！<p>くっ、無念だ！
+EN: Grr... If only...<p>If only our mighty Skull Overlord<n>were in perfect health...<p>Hay fever and a bad back<n>have left our lord unable to move!<p>Grr! The injustice!
+
+@6F44 max=639
+JP: ふふふ、その目、その表情…<n>ふふふ、我は見抜いているぞ！<p>おまえももう、我らが占いの虜よ！<p>おとなしく、わが結社に<n>忠誠を誓うのだ！ふはは！
+EN: Heh heh heh... Those eyes! That expression!<n>I can see right through you!<p>You, too, are in thrall to our fortunes!<p>Now swear your allegiance<n>to our society! Fwahaha!
+
+@71C4 max=639
+JP: ふはは！ひとつ教えてやろう！<p>ガイコツナンバーズに<n>給与は出ない！<p>全部ボランティアだ！<n>しかし泣かないぞ！
+EN: Fwahaha! Let me tell you something!<p>The Skull Numbers<n>receive no salary!<p>It's all volunteer work!<n>But I shall not cry!
+
+@7444 max=639
+JP: ふははは！貴様は知るまい！<p>我らがガイコツ大魔王様の<n>鎮座まします場所を！<p>そぞろ山の、洞窟の奥深くで<n>花粉症の治療中であることなど<p>貴様には、思いもつかない<n>秘密なのだ！ふははは！
+EN: Fwahaha! You could never guess...<p>The place where our mighty<n>Skull Overlord resides!<p>Deep in a cave on Wanderlust Mountain,<n>receiving treatment for hay fever...<p>Such a secret would never<n>even cross your mind! Fwahahaha!
+
+@76C4 max=639
+JP: ふはは！ひとつ教えてやろう！<p>我らガイコツナンバーズは<n>人類の歴史のはじめより…<p>名を変え、活動内容を変え<n>暗躍を続けてきたのだ！<p>詳しくは、ガイコツ像に添付された<n>邪悪な文書を読むがいい！<p>そして、邪悪な歴史に震えるがいい！<n>ふはははは！
+EN: Fwahaha! Let me tell you something!<p>Since the dawn of human history,<n>we Skull Numbers have...<p>Changed our name and our activities,<n>working tirelessly in the shadows!<p>For details, read the evil document<n>attached to the skeleton statue!<p>Then tremble at our wicked history!<n>Fwahahaha!
+
+@7944 max=639
+JP: ふははは！聞いて驚くな！<p>貴様が、一度手に入れたアイテムは<n>特殊なものをのぞいて…<p>ポッコという生物の経営する店で<n>買うことができるのだ！<p>だが、我らは給与を貰っていないから<n>カネはいっさい持っていない！<p>つまり、我らには、まるで<n>関係のない情報なのだ！ふはは！
+EN: Fwahaha! Prepare to be amazed!<p>Once you've obtained an item,<n>apart from certain special ones...<p>You can buy it again at a shop<n>run by a creature called Pokko!<p>But since we receive no salary,<n>we have no money whatsoever!<p>In other words, this information<n>is utterly useless to us! Fwahaha!
+
+@7BC4 max=639
+JP: ふははは！懲りないやつめ！<p>ククク、それとも<n>我らに忠誠を誓う気になったか？<p>ちなみに、我が組織に忠誠を誓うと<n>特製ハンカチがもらえるぞ！
+EN: Fwahaha! You never learn!<p>Heh heh heh... Or have you finally<n>decided to swear allegiance to us?<p>Incidentally, joining our organization<n>earns you a special handkerchief!
+
+@7E44 max=639
+JP: ならば、特別サービスで<n>貴様の友達を占ってやろう！
+EN: Then, as a special service,<n>I shall tell your friend's fortune!
+
+@80C4 max=639
+JP: ふはははは！<p>我の必殺ワザ、<UC>占いで<n>貴様を地獄に送ってやろう！
+EN: Fwahahaha!<p>My ultimate technique, <UC> fortune-telling,<n>shall send you straight to the underworld!
+
+@8344 max=639
+JP: ふっ、臆したか！<n>我の勝ちだな！ふはははは！
+EN: Hah! Lost your nerve?<n>Victory is mine! Fwahahaha!
+
+@85C4 max=639
+JP: ふははは！無謀なヤツめ！<n>我が占い、受けてみよ！
+EN: Fwahaha! Reckless fool!<n>Face the might of my fortune-telling!
+
+@8844 max=639
+JP: ふふふ、ズバリ！<p><UC>占いでいうと<n>貴様は<UN>だ！
+EN: Heh heh heh... Behold the truth!<p>According to <UC> fortune-telling,<n>you are <UN>!
+
+@8AC4 max=639
+JP: …………<p>…ぷっ！<UN>だってさ！<n>うわー、ハズカシー！<p>これから貴様が何をやっても<n>「でも<UN>だしー」<p>って言われちゃうのだぞ！<n>やーいやーい、<UN>！<p>…ふふふ、どうやら精神に<n>深い傷を負ったようだな？<p>我らの恐怖、思い知ったか！<n>ふははは！…では、さらばだ！
+EN: ............<p>...Pfft! <UN>!<n>Wow, how embarrassing!<p>Whatever you do from now on,<n>people will say, "Still <UN>, though!"<p>That's what they'll say!<n>Nyah nyah! <UN>!<p>...Heh heh heh. It seems I've dealt<n>a deep wound to your spirit!<p>Now you know true terror!<n>Fwahaha! ...Farewell!
+
+@8D44 max=639
+JP: ククク、ならば<n>貴様の友達の秘密を教えるがいい…。<p>さあ、友達を売れ、フフフフ…。
+EN: Heh heh heh... Then reveal<n>your friend's secrets to me...<p>Go on, betray your friend! Heh heh heh...
+
+@8FC4 max=639
+JP: これで良いのか？ククククク…。
+EN: Is this correct? Heh heh heh...
+
+@9244 max=639
+JP: さあ、友達を売れ、フフフフ…。
+EN: Go on, betray your friend! Heh heh heh...
+
+@94C4 max=639
+JP: これで良いのか？ククククク…。
+EN: Is this correct? Heh heh heh...
+
+@9744 max=639
+JP: さあ、友達を売れ、フフフフ…。
+EN: Go on, betray your friend! Heh heh heh...
+
+@99C4 max=639
+JP: ふふふ、ではゆくぞ？<n>貴様の友達はな…。
+EN: Heh heh heh... Shall we begin?<n>Your friend is...
+
+@9C44 max=639
+JP: <UC>占いでいうと<n><UN>だったのだ！ガーン！
+EN: According to <UC> fortune-telling,<n><UN>! Gasp!
+
+@9EC4 max=639
+JP: ふははは！<p>衝撃の事実に<n>声も出ないようだな！<p>哀れなやつめ！ふはははは！<n>…では、さらばだ！
+EN: Fwahaha!<p>The shocking truth<n>has left you speechless!<p>You poor fool! Fwahahaha!<n>...Farewell!
+
+@A144 max=639
+JP: <<テキストチェック>><n>チェックする項目を選んでください。
+EN: 
+
+@A3C4 max=639
+JP: 会話メッセージ<n>イベント用テキスト
+EN: Dialogue<n>Event Text
+
+@A644 max=639
+JP: 表示したい会話メッセージのIDを選んでください。
+EN: 
+
+@A8C4 max=639
+JP: 表示したいテキストのIDを入力してください。
+EN: 
+
+@14E64 max=359
+JP: 漢字
+EN: Kanji
+
+@14FCC max=359
+JP: 礼
+EN: Courtesy
+
+@15134 max=359
+JP: 「礼」。礼儀を最も大事にし、失<n>礼を最も嫌う人です。人が守るべ<n>きことを常に念頭において行動し<n>ています。おもしろみのないヤツ<n>と他人に言われることが気にはな<n>りますが、最後に笑うのは自分だ<n>とひそかに思っています。
+EN: "Courtesy." Manners mean everything to you,<n>and rudeness is your pet peeve.<n>You always act with a clear sense of<n>how people ought to behave.<n>Being called dull does bother you,<n>but deep down, you're sure<n>you'll have the last laugh.
+
+@1529C max=359
+JP: 誠
+EN: Sincerity
+
+@15404 max=359
+JP: 「誠」。人生には誠実さが大切だ<n>と考える人です。偉い人にゴマを<n>すったり、納得のいかないことで<n>形式的に謝ることがいちばん許せ<n>ません。人にも事がらにもまっす<n>ぐに誠心誠意ぶちあたります。そ<n>のためには労をおしみません。
+EN: "Sincerity." You believe honesty<n>is what matters most in life.<n>You can't stand flattery of the powerful<n>or empty apologies for things you don't regret.<n>You face people and problems head-on,<n>with all your heart,<n>and spare no effort to do so.
+
+@1556C max=359
+JP: 義
+EN: Duty
+
+@156D4 max=359
+JP: 「義」。義理と人情を大事にし、<n>不義理をいちばん嫌う人です。小<n>さくまとまることなく、大きな夢<n>の実現にチャレンジしてこそ吉。<n>強い正義感を発揮しながら上へ上<n>へと目指しましょう。ただし周囲<n>に自己犠牲を強いてはダメです。
+EN: "Duty." You cherish loyalty and compassion,<n>and hate letting people down.<n>Don't settle for a small, safe life.<n>Luck favors those who chase big dreams!<n>Let your strong sense of justice<n>guide you ever higher. Just don't<n>demand that others sacrifice themselves.
+
+@1583C max=359
+JP: 夢
+EN: Dream
+
+@159A4 max=359
+JP: 「夢」。自分の理想のためになら<n>時を忘れて無我夢中になれる人で<n>す。決してせかせかしたとこはな<n>く、ゆったりと構える印象です。<n>その様子から、ともすれば現実離<n>れしていると思われがちですが、<n>実は地に足がついた現実派です。
+EN: "Dream." When pursuing your ideals,<n>you can get so absorbed that time flies by.<n>You never seem rushed,<n>and take life at an easy pace.<n>This can make you seem<n>out of touch with reality, but actually,<n>you're a realist with both feet on the ground.
+
+@15B0C max=359
+JP: 極
+EN: Perfection
+
+@15C74 max=359
+JP: 「極」。極上を愛し、究極を追い<n>求める人です。独立心が強く、セ<n>ンスも抜群ですが、人から意見を<n>言われることを極端に嫌う傾向が<n>あるのが欠点です。逆に人を追い<n>つめるような言動を好みます。勝<n>負へこだわりもほどほどが大事。
+EN: "Perfection." You love the finest things<n>and always seek the ultimate.<n>Independent and blessed with great taste,<n>you really hate being told what others think.<n>Yet you enjoy putting others on the spot<n>with your words and actions.<n>Try not to make winning everything.
+
+@15DDC max=359
+JP: 忍
+EN: Endurance
+
+@15F44 max=359
+JP: 「忍」。忍耐を美徳とする物静か<n>な人です。強じんな精神力でコツ<n>コツと趣味や仕事をこなし、大き<n>な成果をあげることができるでし<n>ょう。本来は他人の過ちにも寛容<n>ですが、いったん信頼をうらぎら<n>れると、残忍な一面も見せます。
+EN: "Endurance." Quiet by nature,<n>you see patience as a virtue.<n>Your mental strength and steady effort<n>can bring great results in work and hobbies.<n>You're usually forgiving of others' mistakes,<n>but once someone betrays your trust,<n>you can show a cruel streak.
+
+@160AC max=359
+JP: 命
+EN: Life
+
+@16214 max=359
+JP: 「命」。運命を信じる人で、与え<n>られた事がらを自分なりの方法で<n>楽しくこなす才能に恵まれていま<n>す。友だちとの他愛のない会話や<n>毎日の暮らしの中にこそ喜びを見<n>い出すことができるでしょう。快<n>楽主義に走らないよう慎んで。
+EN: "Life." You believe in fate,<n>and have a gift for finding your own fun<n>in whatever life hands you.<n>You find joy in everyday living<n>and carefree chats with friends.<n>Just take care not to let<n>the pursuit of pleasure rule your life.
+
+@1637C max=359
+JP: 智
+EN: Wisdom
+
+@164E4 max=359
+JP: 「智」。智恵や知識に恵まれた人<n>です。未知のものに対しては、既<n>成の常識にとらわれることなく自<n>分なりに本質をあきらかにしたい<n>と考えるタイプです。それゆえ、<n>こもりがちなところも。くよくよ<n>しないことを心がけて吉です。
+EN: "Wisdom." You are blessed with<n>both knowledge and insight.<n>When faced with the unknown, you seek<n>its true nature in your own way,<n>unbound by conventional wisdom.<n>This can make you a bit of a recluse.<n>For better luck, try not to dwell on worries.
+
+@1664C max=359
+JP: 愛
+EN: Love
+
+@167B4 max=359
+JP: 「愛」。いつくしむ心を大事にし<n>たいと願う人です。人に頼られる<n>ことも多く、お世話することも大<n>好き。が、単に用事をいいつけら<n>れていると受け止めてしまい拒絶<n>することも。情を持つことで、人<n>生の幅が広がるでしょう。
+EN: "Love." You want to keep<n>a caring heart.<n>People often rely on you,<n>and you love looking after them.<n>But if it feels like they're ordering you<n>around, you may refuse to help.<n>Compassion will open up your world.
+
+@1691C max=359
+JP: 炎
+EN: Flame
+
+@16A84 max=359
+JP: 「炎」。野心のたぎる情熱の人で<n>す。厳しい状況におかれればおか<n>れるほど、実力を発揮して問題を<n>解決へと導きます。どんなときで<n>も一人で考えすみやかに決断を下<n>せますが、たまには人に相談して<n>みる心のゆとりも必要です。
+EN: "Flame." You burn with passion and ambition.<n>The tougher things get,<n>the more your talents shine,<n>helping you find a way through.<n>You think for yourself and decide quickly<n>in any situation. Still, leave yourself<n>room to ask others for advice sometimes.
+
+@16BEC max=359
+JP: 侍
+EN: Samurai
+
+@16D54 max=359
+JP: 「侍」。やりがいがあると思える<n>ことは実直にやりとげられる強い<n>精神力を持った人です。尊敬する<n>人につかえるためには辛抱もいと<n>わないのですが、少々ガンコなき<n>らいも。たまにはタイプの違う人<n>とも積極的に話してみては？
+EN: "Samurai." You have the strength of mind<n>to see worthwhile tasks through<n>with honesty and dedication.<n>You'll endure hardship to serve<n>someone you respect, but you can<n>be a little stubborn. Why not try<n>chatting with people unlike yourself?
+
+@16EBC max=359
+JP: 魂
+EN: Soul
+
+@17024 max=359
+JP: 「魂」。自分の信念に率直に行動<n>したいと願う人です。仲間うちで<n>もなくてはならない存在感があり<n>ます。心の中の鬼とつねに葛藤し<n>ているのか、自分の内面にこだわ<n>りがある反面で見た目や形にもと<n>らわれる一面も。浪費に注意。
+EN: "Soul." You want to act true<n>to your convictions.<n>Your friends see you as indispensable.<n>Perhaps you're always battling inner demons:<n>you dwell on your inner self, yet also<n>get caught up in appearances and formalities.<n>Watch out for wasteful spending.

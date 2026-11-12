@@ -1,0 +1,79 @@
+# source: PSP_GAME/USRDIR/data/script/moguboss.scb
+# format: scb
+# width: 44
+
+@5144 max=639
+JP: おう、見かけない顔だな。誰だい？<n>……<PN>？<p>ああ、外から来たって客か。<n>そいつはそいつは。<p>オレは「有限会社モグやん建設」の社長さ。<n>みんなはモグやん親方と呼んでるがな。<p>オレの仕事は、地面にパズルを作ることだ。<p>地面パズルについちゃ自慢じゃないが…<n>オレの右に出るやつあ、そういねえ。<p>だが、ここんとこ、仕事が減っちまってな。<n>福福先生のお世話になってるんだよ。<p>てなわけで、どうだい？オレらの作った<n>地面クロスワード、やってみねえかい？<p>解けたら、またオレのとこに来な。<n>ちょっとした報酬もあるからよ。
+EN: Hey, a new face! Who're you?<n>...<PN>?<p>Oh, the visitor from off-island!<n>Well, how about that!<p>I run Moguyan Construction Ltd.<n>Folks call me Boss Moguyan.<p>My job? Making puzzles in the ground.<p>Not to brag about my ground puzzles...<n>but hardly anyone can top me.<p>Work's been scarce lately, though.<n>Master Fukufuku's been helping us out.<p>So, how about it? Wanna try<n>one of our ground crosswords?<p>Come see me when you solve it.<n>There's a little reward in it for ya.
+
+@53C4 max=639
+JP: おう、どうしたい？<n>まだオレに用かい？
+EN: Hey, what's up?<n>Need somethin' else?
+
+@5644 max=639
+JP: よお、<PN>じゃねーか。
+EN: Well, if it ain't <PN>!
+
+@58C4 max=639
+JP: おう、<PN>、調子はどうだい？
+EN: Hey, <PN>! How's it goin'?
+
+@5B44 max=639
+JP: ちなみに……
+EN: By the way...
+
+@5DC4 max=639
+JP: なあ…<p>一度でいいから、クロスワード<n>挑戦してみてくれよな。<p>せっかく作ったんだからよ<n>頼むぜ、なあ。<p>面白いぜえ、クロスワードは。<p>つまったときは、ドングリさえありゃ<n>ウチの社員どもから答えを聞けるから。<p>ドングリを穴に投げ入れりゃ<n>ほいほい出てきてしゃべるからよ！<p>おう、そうそう…
+EN: Hey, listen...<p>Give a crossword a shot,<n>just once, will ya?<p>We worked hard makin' these things.<n>C'mon, do me a favor!<p>Crosswords are a blast!<p>If ya get stuck, my workers'll give ya<n>answers in exchange for acorns.<p>Just toss an acorn down a hole,<n>and they'll pop right up and spill!<p>Oh, yeah, that reminds me...
+
+@6044 max=639
+JP: そういや…<p>おめえも、クロスワード<n>相当好きだな？<p>はっは！いいっていいって<n>わかってるってばよ！<p>クロスワード解いてくれるヤツに<n>悪いやつあいねえってのよ！<p>おめー、気に入ったぜ！<n>また来な、また来な！<p>そのうち、いーいもんを<n>用意しとくからよ！<p>おっと、そうだそうだ…
+EN: Say...<p>You're pretty crazy about<n>crosswords too, huh?<p>Ha ha! No need to say it.<n>I can tell!<p>Anyone who solves our crosswords<n>is all right in my book!<p>I like ya, kid!<n>Come back anytime!<p>I'll have somethin' real nice<n>waitin' for ya one of these days!<p>Oh, right, right...
+
+@62C4 max=639
+JP: なあ…<p>一度でいいから、クロスワード<n>挑戦してみてくれよな。<p>せっかく作ったんだからよ<n>頼むぜ、なあ。<p>面白いぜえ、クロスワードは。<p>つまったときは、ドングリさえありゃ<n>ウチの社員どもから答えを聞けるから。<p>ドングリを穴に投げ入れりゃ<n>ほいほい出てきてしゃべるからよ！<p>おう、そうそう…
+EN: Hey, listen...<p>Give a crossword a shot,<n>just once, will ya?<p>We worked hard makin' these things.<n>C'mon, do me a favor!<p>Crosswords are a blast!<p>If ya get stuck, my workers'll give ya<n>answers in exchange for acorns.<p>Just toss an acorn down a hole,<n>and they'll pop right up and spill!<p>Oh, yeah, that reminds me...
+
+@6544 max=639
+JP: そういや…<p>おめえも、クロスワード<n>相当好きだな？<p>はっは！いいっていいって<n>わかってるってばよ！<p>クロスワード解いてくれるヤツに<n>悪いやつあいねえってのよ！<p>おめー、気に入ったぜ！<p>よし！こいつをやろう。<n>なんでも、賢者の像ってやつだ。<p>みょーなペンギンの像だけどな<n>なんでも、役に立つしろもんらしいぜ。<p>はっはっは！<n>オラ、持ってけ持ってけ！
+EN: Say...<p>You're pretty crazy about<n>crosswords too, huh?<p>Ha ha! No need to say it.<n>I can tell!<p>Anyone who solves our crosswords<n>is all right in my book!<p>I like ya, kid!<p>Here! Take this.<n>They call it a Sage Statue.<p>Funny-lookin' penguin, ain't it?<n>Supposed to come in handy, though.<p>Ha ha ha!<n>Go on, it's yours!
+
+@67C4 max=639
+JP: 今日も元気に、クロスワード解いてくんな。<n>ハハハ！
+EN: Go tackle some crosswords today!<n>Ha ha ha!
+
+@6A44 max=639
+JP: オレ？オレはいつでも絶好調よ、ハハハ！
+EN: Me? Never better! Ha ha ha!
+
+@6CC4 max=639
+JP: うーん…。<p>いやな…。<n>娘にカレシが出来たらしいんだよ…。<p>まだまだガキだと思ってたが…。<n>クソッ！<p>おりゃ、どんな顔すりゃいいんだ…。<n>トホホ…。<p>おっと、すまねえ、グチっちまって…。<n>あー、そうだそうだ…
+EN: Hmm...<p>Well, see...<n>Seems my daughter's got a boyfriend...<p>I thought she was still just a kid...<n>Blast it!<p>How am I supposed to take that?<n>Aw, geez...<p>Sorry, didn't mean to moan at ya...<n>Oh, right, right...
+
+@6F44 max=639
+JP: まったく、うちの社員どもは…<n>クロスワードの心がわかってねえ！<p>からみ合うタテとヨコ！<p>つながりあい、別れてゆく<n>はかない音の交差点！<p>クロスワードってのは、魂の芸術よ！<n>かーっ、てやんでえ！<p>…おっと、すまねえ<n>ついつい興奮しちまって…
+EN: Those workers of mine...<n>They don't get the soul of a crossword!<p>Across and down, all intertwined!<p>A crossroads of fleeting sounds,<n>comin' together, driftin' apart!<p>Crosswords are art from the soul!<n>That's what I'm talkin' about!<p>...Whoops, sorry.<n>Got a little carried away...
+
+@71C4 max=639
+JP: 今週のクロスワードのお題は<n>「<CROSS>」だぜ。<p>そういえば、ウチの娘なんざ、よく<p>「<CROSS_COME>」<p>なんて歌ってやがるがな。<p>若い娘の考えるこたあ<n>わからねえ…。<p>おっと、そんなこたあいいか。<n>じゃ、楽しんで解いてくんな！
+EN: This week's crossword theme is<n>"<CROSS>"!<p>Come to think of it, my daughter's always singin'...<p>"<CROSS_COME>"<p>That's how it goes, anyway.<p>Who knows what goes on<n>in a young girl's head...<p>Aw, never mind all that.<n>Have fun solvin' it!
+
+@7444 max=639
+JP: 今週のクロスワードのお題は<n>「<CROSS>」だぜ。<p>そういえば、ウチの娘なんざ、たまに<p>「<CROSS_COME>」<p>…なんて言いやがる。<p>…わけがわからねえ。<n>娘なんて持つもんじゃねえな…。<p>おっと、無駄話しちまったな。<n>じゃ、楽しんで解いてくんな！
+EN: This week's crossword theme is<n>"<CROSS>"!<p>Come to think of it, my daughter sometimes says...<p>"<CROSS_COME>"<p>...Whatever that's supposed to mean.<p>...I don't get it.<n>Havin' a daughter sure ain't easy...<p>Whoops, I'm ramblin' again.<n>Have fun solvin' it!
+
+@76C4 max=639
+JP: おっ、今週のクロスワード<n>解けたようじゃねーか。<p>やるなあ、おめえ！<n>どうやら、ぐっと経験を積んだようだな！
+EN: Hey, looks like you cracked<n>this week's crossword!<p>Nice work, kid!<n>You've really learned a thing or two!
+
+@7944 max=639
+JP: じゃ、来週のパズルを楽しみにしてな！<n>あばよ！
+EN: Look forward to next week's puzzle!<n>See ya!
+
+@7BC4 max=639
+JP: <HEXP>の経験値を獲得
+EN: Gained <HEXP> experience points.
+
+@7E44 max=639
+JP: <<テキストチェック>><n>表示したい会話メッセージのIDを選んでください。
+EN: 

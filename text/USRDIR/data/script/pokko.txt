@@ -1,0 +1,131 @@
+# source: PSP_GAME/USRDIR/data/script/pokko.scb
+# format: scb
+# width: 44
+
+@5144 max=639
+JP: やあやあ、見知らぬ御仁でござる。<n>どなたでござろうか？<p><PN>どの！おお！<n>よくわからぬが歓迎でござるよ。<p>拙者はポッコ。<n>雑貨屋のプッカのいとこでござるよ。<p>拙者のなりわいは、リサイクル業でござる。<n>シンプルに解説申し上げると…<p>一度入手されたアイテムは、いつでも<n>拙者の店にくれば、再入手でき申す。<p>ただし、ごく一部の特殊アイテムは<n>その限りではありませぬぞ。
+EN: Well met, stranger!<n>Who might thou be?<p><PN>! Ho!<n>I know thee not, but I bid thee welcome!<p>I am Pokko.<n>Pukka, the general-store keeper, is my cousin.<p>Recycling is my trade.<n>To put it simply...<p>Any item thou hast acquired before<n>may be purchased anew at my shop.<p>A few special items, however,<n>are exceptions to this rule.
+
+@53C4 max=639
+JP: <PN>どの　よく来られたな！
+EN: <PN>! A pleasure to see thee!
+
+@5644 max=639
+JP: いざというとき、助けになりますぞ。<n>万事、拙者にお任せあれ！
+EN: I shall aid thee in thy hour of need.<n>Leave all to me!
+
+@58C4 max=639
+JP: 拙者の話しかたでござるか？<n>ふふ、よくぞ聞いてくだされた。<p>これは、最近宇宙で流行の話法でござる。<n>いちばんナウい若者言葉でござるぞ。<p>プッカルライト星人といえば<n>プッカダンスと歌しか能がない…<p>そんな常識は、流行に敏感な拙者には<n>通用しないでござるよ。
+EN: Thou art curious about my manner of speech?<n>Heh heh! Well asked!<p>'Tis the latest craze across the cosmos.<n>The very hippest slang among the young!<p>They say we Pukkarlites know nothing<n>but singing and doing the Pukka Dance...<p>But such notions hardly apply<n>to a trendsetter such as myself!
+
+@5B44 max=639
+JP: プッカのやつ、いっこうに成長せず<n>相変わらずの話し方でござる。<p>あんな重々しい話し方では<n>今時の女子から、敬遠されること必定。<p>わがいとこながら、堅苦しいやつで<n>いや、困ったものでござるな！
+EN: That Pukka never moves with the times.<n>He still speaks as he always has.<p>Such ponderous speech is certain<n>to scare off the young ladies of today!<p>My own cousin, such a stuffy fellow!<n>Alas, what is one to do?
+
+@5DC4 max=639
+JP: 俗に、守護天使の強さ、美しさは<n>その人の底力を映すという…<p>ふむう、見たところ…<p>貴殿の守護天使…<n>まだまだ修行が足りぬでござるよ<p>ソウル玉を与え、敵と戦い<n>もちっと強くなられてはいかがか？
+EN: They say a guardian angel's strength and beauty<n>reflect its person's hidden potential...<p>Hmm... Let me see...<p>Thy guardian angel...<n>still has much training to do.<p>Perhaps thou shouldst feed it Soul orbs,<n>battle foes, and build its strength?
+
+@6044 max=639
+JP: 俗に、守護天使の強さ、美しさは<n>その人の底力を映すという…<p>ふむう、見たところ…<p>貴殿の守護天使…<n>すばらしい輝きでござるな！<p>天晴れ！さらに精進めされよ！
+EN: They say a guardian angel's strength and beauty<n>reflect its person's hidden potential...<p>Hmm... Let me see...<p>Thy guardian angel...<n>shines with a splendid radiance!<p>Bravo! Strive ever onward!
+
+@62C4 max=639
+JP: 俗に、守護天使の強さ、美しさは<n>その人の底力を映すという…<p>ふむう、見たところ…<p>貴殿の守護天使…<n>まだまだ修行が足りぬでござるよ<p>ソウル玉を与え、敵と戦い<n>もちっと強くなられてはいかがか？
+EN: They say a guardian angel's strength and beauty<n>reflect its person's hidden potential...<p>Hmm... Let me see...<p>Thy guardian angel...<n>still has much training to do.<p>Perhaps thou shouldst feed it Soul orbs,<n>battle foes, and build its strength?
+
+@6544 max=639
+JP: 俗に、守護天使の強さ、美しさは<n>その人の底力を映すという…<p>ふむう、見たところ…<p>貴殿の守護天使…<n>すばらしい輝きでござるな！<p>天晴れ！さらに精進めされよ！<p>おう、そうそう、じつは拙者<n>面白い話を聞きましてな…。<p>なんでも「マツの細道」のどこかに<n>貴重なアイテムが埋もれているとか…<p>貴殿の守護天使を持ってすれば<n>見つけること叶うかもしれませぬな！
+EN: They say a guardian angel's strength and beauty<n>reflect its person's hidden potential...<p>Hmm... Let me see...<p>Thy guardian angel...<n>shines with a splendid radiance!<p>Bravo! Strive ever onward!<p>Ah, yes! That reminds me.<n>I heard an intriguing tale...<p>A precious item is said to lie buried<n>somewhere along Matsu's Path...<p>With thy guardian angel's aid,<n>thou mayst well find it!
+
+@67C4 max=639
+JP: 拙者とプッカは、プッカルライトなる<n>小さな星の出身でござるよ。<p>宇宙で石堀りの職についており申した。<n>懐かしい想い出でござるよ…。
+EN: Pukka and I hail from a little planet<n>called Pukkarlite.<p>We once worked as miners out in space.<n>Ah, such fond memories...
+
+@6A44 max=639
+JP: 幸運のアイテムなるものは<n>使い捨てでござるによって。<p>拙者の店に来て、どんどんと<n>買っては使われるがよいですぞ！
+EN: Lucky items, as thou knowest,<n>are spent after a single use.<p>So visit my shop, stock up,<n>and use them to thy heart's content!
+
+@6CC4 max=639
+JP: ふしぎ池のサラオ殿は<n>拙者の親友でござるが…<p>テレビ録画だ、デートだと<n>むやみに忙しい様子…<p>なかなか、拙者と<n>遊んでくれぬでござるよ…
+EN: Sarao of Mystery Pond<n>is my dear friend, but...<p>Between recording TV shows and going on dates,<n>he seems frightfully busy...<p>He scarcely ever has time<n>to play with me...
+
+@6F44 max=639
+JP: 島のところどころにある石碑…<n>あれは、よいものでござるな。<p>この島にまつわる秘話の数々…<n>歴史の浪漫を感じるでござるよ。<p>ふむ…今度の定休日にでも<n>石碑めぐりに出かけるとしよう！
+EN: Those stone monuments around the island...<n>Fine things, are they not?<p>So many hidden tales of this island...<n>They stir my passion for history!<p>Hmm... On my next day off,<n>I shall take a tour of the monuments!
+
+@71C4 max=639
+JP: そういえば、今日は特売日でござる！
+EN: Ah, yes! Today is our sale day!
+
+@7444 max=639
+JP: さて、何でもお申し付けくだされ。
+EN: Now then, how may I serve thee?
+
+@76C4 max=639
+JP: 買う<n>売る<n>やめる
+EN: Buy<n>Sell<n>Quit
+
+@7944 max=639
+JP: ほほう、買い物をされるでござるか。
+EN: Oho! Thou wouldst make a purchase?
+
+@7BC4 max=639
+JP: 何個でござるか？
+EN: How many dost thou require?
+
+@7E44 max=639
+JP: <ITEM>、<NUM>個で<n><MONEY>ｚとなり申す。いかがか？
+EN: <NUM> of <ITEM><n>comes to <MONEY>z. Is that agreeable?
+
+@80C4 max=639
+JP: む？お止めになるのですかな？
+EN: Hm? Thou wouldst cancel?
+
+@8344 max=639
+JP: 笑止！金銭不足でござるよ！
+EN: Preposterous! Thy funds fall short!
+
+@85C4 max=639
+JP: むむむ？持ち物がいっぱいでござるが？
+EN: Hmm? Thy belongings are full to bursting!
+
+@8844 max=639
+JP: 厚く御礼申し上げるでござる！<n>ささ、遠慮なくもっと買い物を。
+EN: Thou hast my deepest thanks!<n>Come, shop to thy heart's content!
+
+@8AC4 max=639
+JP: わざわざのお立ち寄り、まことに<n>有り難く存じまするでござる！
+EN: I am most grateful<n>that thou hast honored me with a visit!
+
+@8D44 max=639
+JP: おお、お売りいただけるのでござるな。
+EN: Oho! Thou hast something to sell?
+
+@8FC4 max=639
+JP: 何個でござるか？
+EN: How many dost thou require?
+
+@9244 max=639
+JP: <ITEM>、<NUM>個で<n><MONEY>ｚとなり申す。いかがか？
+EN: <NUM> of <ITEM><n>comes to <MONEY>z. Is that agreeable?
+
+@94C4 max=639
+JP: むむ？お止めになるとは殺生な！
+EN: Hmm? To cancel now! How cruel!
+
+@9744 max=639
+JP: むむ？お止めになるとは殺生な！
+EN: Hmm? To cancel now! How cruel!
+
+@99C4 max=639
+JP: 厚く御礼申し上げるでござる！<n>まだお売りいただけるのですかな？
+EN: Thou hast my deepest thanks!<n>Hast thou more to sell?
+
+@9C44 max=639
+JP: わざわざのお立ち寄り、まことに<n>有り難く存じまするでござる！
+EN: I am most grateful<n>that thou hast honored me with a visit!
+
+@9EC4 max=639
+JP: <<テキストチェック>><n>表示したい会話メッセージのIDを選んでください。
+EN: 

@@ -1,0 +1,103 @@
+# source: PSP_GAME/USRDIR/data/script/daisy.scb
+# format: scb
+# width: 44
+
+@5144 max=639
+JP: ねえねえキミ！キミ！<n>髪型変えたくない？ね、変えたくない？<p>こうみえても、アタシは美容師！<n>ザクザク髪切ってあげる！ザクザクね！<p>あ、アタシの名前はデイジーね！<n>よろしくね！よろしく！
+EN: Hey, hey! You! You there!<n>Want a new hairstyle? Huh? Don't you?<p>Believe it or not, I'm a hairdresser!<n>I'll snip your hair right off! Snip, snip!<p>Oh, my name's Daisy!<n>Nice to meet you! Nice to meet you!
+
+@53C4 max=639
+JP: あ、来た来た来たわね！<n>髪切りに来たの？ね？そうでしょ？
+EN: Oh, you're here, you're here, you're here!<n>You came for a haircut, right? Huh? Right?
+
+@5644 max=639
+JP: わ！きてくれたんだね、うれしいうれしい！<n>今日はサービスしちゃう！さ、座って座って！
+EN: Wow! You came! I'm so happy, so happy!<n>Today's haircut is on me! Sit down, sit down!
+
+@58C4 max=639
+JP: アタシのおじいちゃんも、パパも<n>ずーっと、美容師やってたのよ！<p>すごい？すごいでしょ！だからね<n>あたしは美容師界の、ええと、なんだっけ？<p>…あ、そうそう！サラブレッドなんだ！<n>サラブレッドって何だかわかんないけど！<p>きっと、お菓子の名前だよね！うんうん！<n>ま、そんなわけなの！そうなのよ！
+EN: My grandpa and my dad were both<n>hairdressers their whole lives!<p>Impressed? Pretty impressive, right? So that makes me, um... What's the word?<p>...Oh, right! A thoroughbred hairdresser!<n>I don't know what a thoroughbred is, though!<p>Some kind of fancy bread, I bet! Yep, yep!<n>Anyway, that's me! That's me all right!
+
+@5B44 max=639
+JP: おねえちゃんはね、ママのあとをついで<n>洋服屋さんになったの！知ってる？<p>カトレア姉さんっていってね<n>アタシのおねえちゃんなの！<p>おねえちゃんはすごいよ！なんとなく！<n>それでモテモテなんだよ！えへん！
+EN: My big sister took after Mom and<n>opened a clothes shop! Did you know?<p>Her name's Cattleya!<n>She's my big sister!<p>She's amazing! Somehow!<n>And everybody's crazy about her! Hehe!
+
+@5DC4 max=639
+JP: ねえねえねえ！<p>もっと散髪してよ！散髪！<n>アタシはえーと、えーと…<p>そう、欲求不満なの！<n>ザクザク切りたいよ！ザクザク！
+EN: Hey, hey, hey!<p>Get more haircuts! More haircuts!<n>I'm, um, um...<p>That's it! I've got pent-up frustration!<n>I wanna cut something! Snip, snip!
+
+@6044 max=639
+JP: いつも髪切らせてくれてありがとー！<n>お得意様だからね、アレあげたい！<p>でもどこにしまったのかわかんない！<n>ごめんねー！
+EN: Thanks for always letting me cut your hair!<n>You're a regular, so I wanna give you that thing!<p>But I can't remember where I put it!<n>Sorry!
+
+@62C4 max=639
+JP: いつも髪切らせてくれてありがとー！<p>あのね、これあげるよ！あげる！<n>すっごいカッコいい像なの！<p>大臣からもらったの！<n>いつも抱いて寝てるの！<p>ずしーんと重くてひゃっこくて<n>とってもいいんだよ！<p>はい、あげるよ！あげる！<n>なんか役に立つといいな！
+EN: Thanks for always letting me cut your hair!<p>Here, I want you to have this! Take it!<n>It's a really cool statue!<p>The minister gave it to me!<n>I cuddle it in bed every night!<p>It's super heavy and icy cold!<n>It feels so nice!<p>Here, take it! Take it!<n>I hope it comes in handy!
+
+@6544 max=639
+JP: アタシん家はね、ただの髪切りじゃないの！<n>王さまとか大臣の髪を切るのが仕事なの！<p>でもねー、いまの王さまも大臣も髪なくてね<n>パパ、仕事来ないまま引退しちゃった！<p>あー、大臣、髪生えてこないかな！<n>ザクザク切りたいよ、大臣の髪！
+EN: My family doesn't just cut anybody's hair!<n>We cut hair for kings and ministers!<p>But the current king and minister are both bald,<n>so Dad retired without getting any work!<p>Oh, I wish the minister would grow some hair!<n>I wanna cut it! Snip, snip!
+
+@67C4 max=639
+JP: もーアタシね、ザクザクとね<n>何か切ってないと落ち着かないの！
+EN: Oh, I just can't sit still unless I'm<n>cutting something! Snip, snip!
+
+@6A44 max=639
+JP: こないだ、キノコさんたちを見かけてね！<n>髪切ったげようとしたけど、逃げられちゃった！
+EN: I saw some mushroom guys the other day!<n>I tried to give them haircuts, but they ran away!
+
+@6CC4 max=639
+JP: あのね、こないだね！<n>マリアンちゃんと会ったの！<p>ね、ね、マリアンちゃんの髪って<n>すっごくいいよね！うんうん！<p>すっごく切り心地よさそう！<n>ザクザク、ザクザクってね！
+EN: Hey, guess what! The other day,<n>I met Marian!<p>Hey, hey! Her hair is just<n>amazing, isn't it? Yep, yep!<p>It looks like it'd feel SO good to cut!<n>Snip, snip! Snip, snip!
+
+@6F44 max=639
+JP: いまね、いまね、あたしね<n>サガシニコフさんに夢中なの！<p>よーく見るとね、いいんだよー<n>髪、さらさらなんだよ！<p>あー、サガシニコフさんと結婚して<n>毎日、あの髪切りたいな！
+EN: Right now, right now, I've got<n>such a crush on Sagashnikov!<p>Take a good look and you'll see why!<n>His hair is so silky!<p>Oh, I wanna marry Sagashnikov<n>and cut his hair every single day!
+
+@71C4 max=639
+JP: あのね！ドリアードジュニア君はね<n>あたしの幼なじみなの！<p>もー、最近、枝がのびちゃって<n>ちゃんと手入れしてないよ！彼！<p>今度、おっきなハサミ持っていって<n>ザクザクバキバキ、切ってやろーっと！
+EN: Hey! Dryad Junior and I<n>have been friends since we were little!<p>His branches are getting so long lately!<n>He just isn't looking after himself!<p>Next time, I'll bring some huge scissors<n>and give him a trim! Snip, snip! Crack, snap!
+
+@7444 max=639
+JP: でね、でねでね！<p>あ、髪切る？切るよね？
+EN: And then, and then, and then!<p>Oh, want a haircut? You do, right?
+
+@76C4 max=639
+JP: えー？つまんなーい。<n>切らせてよう。ザクザクっと！
+EN: Aww! That's no fun!<n>Come on, let me cut it! Snip, snip!
+
+@7944 max=639
+JP: んー、まあいいやー。<n>次はきっと切らせてね！ザクザクね！
+EN: Hmm... Oh, all right.<n>But next time, let me cut it! Snip, snip!
+
+@7BC4 max=639
+JP: やったー！<n>ね、ね、じゃ、どんな髪にしたい？
+EN: Yay!<n>Hey, hey! What hairstyle do you want?
+
+@7E44 max=639
+JP: んー、まあいいやー。<n>次はきっと切らせてね！ザクザクね！
+EN: Hmm... Oh, all right.<n>But next time, let me cut it! Snip, snip!
+
+@80C4 max=639
+JP: あ、それいいね！あたし得意だよ！<n><MONEY>ｚかかるけど、いいよね？
+EN: Oh, good choice! I'm great at that one!<n>It'll cost <MONEY>z. That's okay, right?
+
+@8344 max=639
+JP: えー？ここまで期待させといて…。<n>髪切りたいようー！
+EN: Aww! You got me all excited, too...<n>I wanna cut your hair!
+
+@85C4 max=639
+JP: あれ？お金足りないようー！<p>じいちゃんの遺言で、あたし<n>タダじゃ髪切れないんだようー！
+EN: Huh? You don't have enough money!<p>Grandpa's last wish was that I never<n>give free haircuts! I can't!
+
+@8844 max=639
+JP: オッケー！任せて任せてー！<n>じゃ切るわよー、ザクザクっとね！
+EN: Okay! Leave it to me, leave it to me!<n>Here come the scissors! Snip, snip!
+
+@8AC4 max=639
+JP: んー、できた！どう？<n>あー、似合う似合うよ！うん！<p>今日はいっぱい切れて、楽しかった！<n>ね、ね、また髪切らせてね！
+EN: Hmm... Done! What do you think?<n>Oh, it suits you! It really does! Yep!<p>I got to cut so much today! That was fun!<n>Hey, hey! Let me cut your hair again sometime!
+
+@8D44 max=639
+JP: <<テキストチェック>><n>表示したい会話メッセージのIDを選んでください。
+EN: 

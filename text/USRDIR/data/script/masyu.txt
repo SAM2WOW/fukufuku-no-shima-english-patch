@@ -1,0 +1,2523 @@
+# source: PSP_GAME/USRDIR/data/script/masyu.scb
+# format: scb
+# width: 44
+
+@5144 max=639
+JP: ん？誰だねキミは？新しい学生か？<p><PN>…。ふーむ。<p>むむ、私の直感的分析では<n>キミは、最近この島に来た人だね？<p>…当たったかね？そうか、当たったか。<n>まあ、科学の力を借りれば簡単な推理だよ。<p>私はマシュー。<n>妖精であり、同時に科学者でもある。<p>…ふむ、きみは向学心がありそうだ。<n>いや、きっと向学心の塊だね？
+EN: Hm? Who are you? A new student?<p><PN>... Hmm.<p>My intuitive analysis tells me<n>you arrived on this island recently. Correct?<p>...Was I right? Ah, so I was.<n>A simple deduction, with science on one's side.<p>I am Dr. Matthew.<n>A fairy, and also a scientist.<p>...Hmm. You seem eager to learn.<n>Why, you must be positively bursting with curiosity!
+
+@53C4 max=639
+JP: ふむ、<PN>か。<n>まあ、ゆっくりしてゆきたまえ。
+EN: Ah, <PN>.<n>Do make yourself at home.
+
+@5644 max=639
+JP: <PN>か。何をしているのかね？<n>私？思索にふけっていたところだよ。
+EN: <PN>. What are you up to?<n>Me? I was lost in thought.
+
+@58C4 max=639
+JP: …ふむ。<p>私は、妖精世界の特務員の一人として<n>世界のバランスを取るため来ているのだが。<p>副業として、向上心のある生徒たちに<n>私のわずかな知識を分け与えている。<p>さて…。
+EN: ...Hmm.<p>I came here as a special agent of the fairy world<n>to help keep the world in balance.<p>On the side, I share my modest store of knowledge<n>with students eager to better themselves.<p>Now then...
+
+@5B44 max=639
+JP: ふむ…<p>私はいちおう妖精だからな。<n>ロマンチックな生き物だと言えるだろう。<p>科学とロマンチックが結びついて<n>私という存在があるのだと思わないかね？<p>…おほん。<n>では、本題に入ろう。
+EN: Hmm...<p>I am a fairy, after all.<n>A romantic creature by nature, you might say.<p>Wouldn't you agree that I embody<n>the union of science and romance?<p>...Ahem.<n>Now, to the matter at hand.
+
+@5DC4 max=639
+JP: いま、パコンとペコンという留学生に<n>定期的に講義をしているのだよ。<p>キミはもう会ったことがあるかね？<n>なかなか有望な子供たちだよ。<p>さて…。
+EN: I currently give regular lectures<n>to two exchange students, Pakon and Pekon.<p>Have you met them yet?<n>Such promising children.<p>Now then...
+
+@6044 max=639
+JP: ふむ、じつは…。<p>ホシダケ組という、キノコ型宇宙人の<n>集団を生徒に加えてね。<p>なかなか野性味に溢れる生徒たちだ。<n>ちょっと飲み込みは悪いがね…。<p>ふむ、それはさておき…。
+EN: Hmm. As it happens...<p>I have taken on a group of mushroom-shaped aliens<n>called the Hoshidake Gang as students.<p>A rather wild bunch, full of spirit.<n>A little slow on the uptake, though...<p>Hmm. Be that as it may...
+
+@62C4 max=639
+JP: …ふむ。<p>前にも話したが、私は妖精世界より<n>特務チームの一員としてここに来ている。<p>チームの団長は、私よりさらに<n>深い学識を持った方でね。<p>名を、ダホー大臣といい<n>うたかた渓谷におられるよ。<p>一度、会ってみるといい。<p>さて…。
+EN: ...Hmm.<p>As I mentioned before, I came here<n>with a special team from the fairy world.<p>Our leader is a person whose learning<n>far surpasses even my own.<p>His name is Minister Daho.<n>You will find him in Bubble Gorge.<p>You ought to pay him a visit.<p>Now then...
+
+@6544 max=639
+JP: …ふむ。<p>私は、妖精世界の特務員の一人として<n>世界のバランスを取るため来ているのだが。<p>副業として、向上心のある生徒たちに<n>私のわずかな知識を分け与えている。<p>さて…。
+EN: ...Hmm.<p>I came here as a special agent of the fairy world<n>to help keep the world in balance.<p>On the side, I share my modest store of knowledge<n>with students eager to better themselves.<p>Now then...
+
+@67C4 max=639
+JP: ふむ…<p>私はいちおう妖精だからな。<n>ロマンチックな生き物だと言えるだろう。<p>科学とロマンチックが結びついて<n>私という存在があるのだと思わないかね？<p>…おほん。<n>では、本題に入ろう。
+EN: Hmm...<p>I am a fairy, after all.<n>A romantic creature by nature, you might say.<p>Wouldn't you agree that I embody<n>the union of science and romance?<p>...Ahem.<n>Now, to the matter at hand.
+
+@6A44 max=639
+JP: いま、パコンとペコンという留学生に<n>定期的に講義をしているのだよ。<p>キミはもう会ったことがあるかね？<n>なかなか有望な子供たちだよ。<p>さて…。
+EN: I currently give regular lectures<n>to two exchange students, Pakon and Pekon.<p>Have you met them yet?<n>Such promising children.<p>Now then...
+
+@6CC4 max=639
+JP: ふむ、じつは…。<p>ホシダケ組という、キノコ型宇宙人の<n>集団を生徒に加えてね。<p>なかなか野性味に溢れる生徒たちだ。<n>ちょっと飲み込みは悪いがね…。<p>ふむ、それはさておき…。
+EN: Hmm. As it happens...<p>I have taken on a group of mushroom-shaped aliens<n>called the Hoshidake Gang as students.<p>A rather wild bunch, full of spirit.<n>A little slow on the uptake, though...<p>Hmm. Be that as it may...
+
+@6F44 max=639
+JP: …ふむ。<p>前にも話したが、私は妖精世界より<n>特務チームの一員としてここに来ている。<p>チームの団長は、私よりさらに<n>深い学識を持った方でね。<p>名を、ダホー大臣といい<n>うたかた渓谷におられるよ。<p>一度、会ってみるといい。<p>さて…。
+EN: ...Hmm.<p>As I mentioned before, I came here<n>with a special team from the fairy world.<p>Our leader is a person whose learning<n>far surpasses even my own.<p>His name is Minister Daho.<n>You will find him in Bubble Gorge.<p>You ought to pay him a visit.<p>Now then...
+
+@71C4 max=639
+JP: …ふむ！<p>じつは、ずっと文献を調べていたのだが<n>意外なことがわかってきてね。<p>長いこと、行方不明とされてきた<n>この島の賢者の像の一体…<p>「ノックスロットの像」が埋もれている<n>場所が推定できたのだよ。<p>その場所は、「クレレの森」。<n>そう、東にあるうっそうとした森だ。<p>あの森のどこかに、像はある！<n>ぜひ、探してみたまえ！
+EN: ...Aha!<p>I have been studying the literature,<n>and made a most unexpected discovery.<p>One of this island's statues of sages<n>has long been missing...<p>The Statue of Noxlot.<n>I have deduced where it lies buried!<p>The location is Kurere's Forest.<n>Yes, that dense forest to the east.<p>The statue is somewhere in those woods!<n>Do try to find it!
+
+@7444 max=639
+JP: ふむ、世界の運勢を司る島は<n>ここだけではないが…<p>どこも、部外者がかんたんに<n>来られるような場所ではないのだよ。<p>現世、妖精世界、あやかしの世界…<n>いくつもの次元にまたがる世界だからね。<p>君が、ここに来られたということは<n>君に本来、強い運があるということだ。<p>精進したまえ。さて…
+EN: Hmm. This is not the only island<n>that governs the world's fortunes...<p>But none of them are places<n>an outsider can easily reach.<p>The mortal world, the fairy world, the spirit world...<n>Our world spans many dimensions.<p>The fact that you reached this island<n>means you were born with powerful luck.<p>Keep striving. Now then...
+
+@76C4 max=639
+JP: あー、ふむ…。<p>君は、南の岸辺にある<n>洋服店を知っているかね？<p>あそこの経営者である娘さんは…<p>その、なんだ、なかなか可憐だな。<p>…うほん、おほん！<n>今のは聞かなかったことにしてくれ。<p>さ、さて…
+EN: Ah, hmm...<p>Do you know the Clothes Shop<n>on the southern shore?<p>The young lady who runs it is...<p>Well, how shall I put it? Quite lovely.<p>...Ahem! AHEM!<n>Kindly forget you heard that.<p>N-now then...
+
+@7944 max=639
+JP: ふむ…<p>東にいる武道家が手がけている<n>「探し道」という武道…<p>バカバカしいようだが、なかなか<n>理にかなった鍛錬法ではある。<p>強くなる役には立たんだろうが<n>カンと推理力を鍛えてくれるだろう。<p>バカにせず、やってみるとよいよ。<n>では…
+EN: Hmm...<p>That martial artist to the east<n>teaches something called the Way of Searching...<p>It may sound absurd, but the training<n>is actually quite sound.<p>It may not make you stronger,<n>but it should sharpen your intuition and reasoning.<p>Give it a try before you dismiss it.<n>Now then...
+
+@7BC4 max=639
+JP: うむ…<p>ダホー大臣は、数百年の間<n>妖精世界で要職にある方だが…。<p>あまりにお考えが深くて<n>この私ですら…<p>何も考えていないように<n>見えることがある…。<p>私もまだまだということだな。<n>さて…。
+EN: Hmm...<p>Minister Daho has held high office<n>in the fairy world for centuries...<p>His thoughts are so profound<n>that even to me...<p>He sometimes appears<n>to be thinking of nothing at all...<p>I clearly still have much to learn.<n>Now then...
+
+@7E44 max=639
+JP: ところで、もう一度、私の講義を聴きたいのかね？<n>学問熱心なキミのことだ、きっとそうだろうね？
+EN: By the way, would you like to hear my lecture again?<n>An eager scholar like you surely would, yes?
+
+@80C4 max=639
+JP: キミは知っていたかね…
+EN: Did you know...
+
+@8344 max=639
+JP: ふむ、では今日はこのくらいにしておこう。<n>また日をあらためて来てくれたまえ。
+EN: Hmm. Let us leave it there for today.<n>Do come back another day.
+
+@85C4 max=639
+JP: 科学の道は果てなく険しい。<p>向学心に燃えるキミのことだ<n>私の講義を聴きに来たのだろうね？
+EN: The path of science is endless and arduous.<p>With your burning thirst for knowledge,<n>you must be here for my lecture, yes?
+
+@8844 max=639
+JP: よかろう。私も、ダテに博士号を持ってはいない。<n>私の知識を、キミに分けてあげよう。<p>キミは知っていたかね…
+EN: Very well. My doctorate is more than a decoration.<n>Allow me to share some of my knowledge.<p>Did you know...
+
+@8AC4 max=639
+JP: さて、今日の講義はこのくらいにしておこう。<p>向学心に燃えるキミのことだ<n>また来て、私の講義を聴きたがるのだろうね？
+EN: Now, that will do for today's lecture.<p>With your burning thirst for knowledge,<n>you'll surely return for another lecture, yes?
+
+@8D44 max=639
+JP: <HEXP>の経験値を獲得
+EN: Gained <HEXP> experience points.
+
+@8FC4 max=639
+JP: 違う？では、ただたんに、私に会いにきたのかね？<n>困ったな、私には妻と息子がいるのだが…。
+EN: No? Then you came simply to see me?<n>How awkward. I do have a wife and son, you know...
+
+@9244 max=639
+JP: <<テキストチェック>><n>チェックする項目を選んでください。
+EN: 
+
+@94C4 max=639
+JP: 会話メッセージ<n>イベント用テキスト
+EN: Dialogue<n>Event Text
+
+@9744 max=639
+JP: 表示したい会話メッセージのIDを選んでください。
+EN: 
+
+@99C4 max=639
+JP: 表示したいテキストのIDを入力してください。
+EN: 
+
+@14E64 max=359
+JP: 最初に性転換手術を受けたのが<n>ドイツ人だということを。<p>その男性には、妻もいたんだがね。
+EN: that the first person to undergo sex reassignment surgery<n>was German?<p>The man even had a wife, you know.
+
+@14FCC max=359
+JP: 性転換手術を最初に受けたのはドイツ人。<n>その男性には、妻もいた。
+EN: The first person to undergo sex reassignment surgery<n>was German. The man also had a wife.
+
+@15134 max=359
+JP: ヒトとサルの遺伝情報は<p>たった１．２３パーセントしか違わない、<n>ということを。<p>ま、サルと言ってもチンパンジーだがね。
+EN: that the genetic information of humans and apes<p>differs by a mere 1.23 percent?<p>By apes, I mean chimpanzees, of course.
+
+@1529C max=359
+JP: ヒトとサルの遺伝情報は<n>１．２３パーセントしか違わない。
+EN: The genetic information of humans and apes<n>differs by only 1.23 percent.
+
+@15404 max=359
+JP: むち打ち症と呼ばれる症状の正式名称が、<n>外傷性頚部症候群だと言うことを。<p>呼び名が違ったところで、<n>もちろん症状自体に変わりはないんだがね。
+EN: that the formal name for whiplash<n>is traumatic cervical syndrome?<p>A different name does nothing<n>to change the symptoms, of course.
+
+@1556C max=359
+JP: むち打ち症の正式名称は外傷性頚部症候群。
+EN: The formal name for whiplash is traumatic cervical syndrome.
+
+@156D4 max=359
+JP: 宇宙のすべての天体は、<n>常にお互いから遠ざかり続けているということを。<p>ま、だからこそ、<n>宇宙は膨張しているといわれているんだがね。
+EN: that all celestial bodies in the universe<n>are constantly moving away from one another?<p>That is why we say<n>the universe is expanding, you see.
+
+@1583C max=359
+JP: 宇宙のすべての天体は、<n>常にお互いから遠ざかり続けている。<n>そのため、宇宙は膨張しているといわれている。
+EN: All celestial bodies in the universe<n>are constantly moving away from one another.<n>That is why we say the universe is expanding.
+
+@159A4 max=359
+JP: 犬同士がおしりのニオイをかぎあうのは<n>あいさつだということを。<p>相手の年齢や性別といった情報を<n>おしりのニオイから得ているということなんだがね。
+EN: that dogs greet each other<n>by sniffing one another's bottoms?<p>The scent tells them things about the other dog,<n>such as its age and sex.
+
+@15B0C max=359
+JP: 犬同士がおしりのニオイをかぎあうのは<n>犬のあいさつである。<n>おしりのニオイから年齢や性別など、<n>相手の情報を得ている。
+EN: Dogs greet each other by sniffing one another's bottoms.<n>The scent provides information about the other dog,<n>such as its age and sex.
+
+@15C74 max=359
+JP: 地球上空でオゾン層ができたのは、<n>４億年も前だってことを。<p>ま、オゾン層ができたおかげで<n>有害な紫外線がブロックされて、<p>生物が海から上がってこられたわけだがね。
+EN: that Earth's ozone layer formed<n>400 million years ago?<p>Once it began blocking harmful ultraviolet rays,<p>living things were able to leave the sea.
+
+@15DDC max=359
+JP: 地球上空でオゾン層ができたのは、４億年前。<n>オゾン層ができたおかげで<n>有害な紫外線がブロックされ、<n>生物が生き残ることができた。
+EN: Earth's ozone layer formed 400 million years ago.<n>It blocked harmful ultraviolet rays,<n>allowing living things to survive.
+
+@15F44 max=359
+JP: 静止衛星は静止しているのではないということを。<p>そもそも地球と同じ速度で回ってる人工衛星を<n>そう呼ぶのは、まるで静止してるかのように<p>見えるからなんだがね。
+EN: that geostationary satellites do not actually stand still?<p>They orbit at the same rate as Earth rotates.<p>That makes them appear to stay in one place,<n>which is how they got their name.
+
+@160AC max=359
+JP: 地球と同じ速度で回ってる人工衛星は、<n>まるで静止しているように見えるため、<n>静止衛星と呼ばれる。
+EN: Satellites that orbit at the same rate as Earth rotates<n>appear to stay in one place.<n>That is why they are called geostationary satellites.
+
+@16214 max=359
+JP: 人が呼吸しているとき、<n>吸っている空気の大部分は酸素ではなく、<p>窒素だということを。<p>ま、吐いているのも大部分が<n>二酸化炭素ではなくて窒素なんだがね。
+EN: that most of the air we breathe in<p>is nitrogen, rather than oxygen?<p>Most of what we breathe out is nitrogen too,<n>rather than carbon dioxide.
+
+@1637C max=359
+JP: 人が呼吸しているとき、<n>吸っている空気の大部分は<n>酸素ではなく、窒素である。<n>また、吐いている大部分も<n>二酸化炭素ではなくて窒素である。
+EN: Most of the air we breathe in is nitrogen,<n>rather than oxygen.<n>Most of what we breathe out is also nitrogen,<n>rather than carbon dioxide.
+
+@164E4 max=359
+JP: 地球の赤道半径は、極半径よりも長いということを。<n>地球は、完全な球ではないということなんだがね。
+EN: that Earth's equatorial radius is greater than its polar radius?<n>Earth is not a perfect sphere, you see.
+
+@1664C max=359
+JP: 地球の赤道半径は極半径よりも長い。<n>地球は、完全な球ではないため。
+EN: Earth's equatorial radius is greater than its polar radius.<n>This is because Earth is not a perfect sphere.
+
+@167B4 max=359
+JP: 地球上の緑色植物が１年に１９００億トンもの<n>酸素を生産しているということを。<p>この酸素は、光合成によって作られているんだがね。
+EN: that Earth's green plants produce a staggering<n>190 billion metric tons of oxygen each year?<p>They produce this oxygen through photosynthesis.
+
+@1691C max=359
+JP: 地球上の緑色植物は１年に１９００億トンもの<n>酸素を光合成によって生産している。
+EN: Earth's green plants produce 190 billion metric tons<n>of oxygen each year through photosynthesis.
+
+@16A84 max=359
+JP: よくある冷蔵庫の臭い取りなんかの中身は、<n>炭だってことを。<p>ま、活性炭にはたくさんの細かい穴が開いていて、<n>表面積が大きいから、<p>臭いの成分を取り込みやすいんだけどね。
+EN: Did you know that ordinary fridge deodorizers<n>have charcoal inside?<p>Well, activated charcoal has lots of tiny pores,<n>giving it a huge surface area.<p>That makes it very good at trapping odors, you see.
+
+@16BEC max=359
+JP: 活性炭は細かい穴が多く、<n>表面積が大きいため、<n>臭いの成分を取り込みやすい。<n>そのため、脱臭剤として使われている。
+EN: Activated charcoal has many tiny pores<n>and a large surface area,<n>so it readily traps odor molecules.<n>That's why it's used in deodorizers.
+
+@16D54 max=359
+JP: 地球上の氷の約９０％は<n>南極にあるということを。<p>いま現在のいちばんの問題は、それが温暖化で<n>溶け出すとなるとどうなるっ、て話なんだがね。
+EN: Did you know that about 90 percent of Earth's ice<n>is in Antarctica?<p>The big question now is what would happen<n>if global warming caused it to melt.
+
+@16EBC max=359
+JP: 地球上の氷の約９０％は南極にある。
+EN: About 90 percent of Earth's ice is in Antarctica.
+
+@17024 max=359
+JP: 満ち潮や引き潮は、<n>引力の作用で起こる潮波だってことを。<p>ま、海水を引っ張っているのは、<n>月と地球の引力の兼ね合いなんだけどね。
+EN: Did you know that high and low tides<n>are waves caused by gravity?<p>You see, the seawater moves according to<n>the interplay of the Moon's and Earth's gravity.
+
+@1718C max=359
+JP: 満ち潮や引き潮は、<n>月の引力の作用で起こる潮波である。
+EN: High and low tides are waves<n>caused by the Moon's gravitational pull.
+
+@172F4 max=359
+JP: 太陽は地球から１億４９６０万ｋｍ先に<n>あるということを。<p>ちなみに、この太陽と地球の間の距離のことを<n>１天文単位というのだがね。
+EN: Did you know that the Sun is<n>149.6 million kilometers from Earth?<p>Incidentally, that distance between Earth and the Sun<n>is called one astronomical unit.
+
+@1745C max=359
+JP: 太陽は地球から<n>１．４９６×１０の８乗ｋｍ先にある。
+EN: The Sun is<n>1.496 x 10^8 km from Earth.
+
+@175C4 max=359
+JP: 超新星とか新星っていうのは、<n>新しく生まれた星のことじゃなく、<p>死んでいく星のことだってことを。<p>ま、星が、壊滅する前に<n>ひときわ光り輝くせいなんだがね。
+EN: Did you know that supernovas and novas<n>aren't newly born stars...<p>but stars that are dying?<p>You see, a star shines especially brightly<n>just before its destruction.
+
+@1772C max=359
+JP: 超新星、新星とは、<n>新しく生まれた星のことではなく<n>星が、壊滅する前にひときわ光り輝くことから、<n>死んでいく星のことを指す。
+EN: Supernovas and novas<n>refer to dying stars, not newborn ones.<n>They're so named because they shine especially brightly<n>just before their destruction.
+
+@17894 max=359
+JP: 海王星がトリトーンとネレイドという<n>衛星を従えているということを。<p>その海王星は１８４６年に<n>ガレが発見したのだがね。
+EN: Did you know that Neptune has moons<n>named Triton and Nereid?<p>Neptune itself was discovered<n>by Galle in 1846, you see.
+
+@179FC max=359
+JP: 海王星はトリトーンとネレイドという<n>衛星を従えている。<n>海王星は１８４６年にガレが発見。
+EN: Neptune has moons<n>named Triton and Nereid.<n>Galle discovered Neptune in 1846.
+
+@17B64 max=359
+JP: 蜃気楼は、<n>温度の違う空気が生み出す光の屈折だってことを。<p>ま、光が曲がるからこそ、<n>逃げ水が見えたり<p>島が浮いて見えたりするわけだがね。
+EN: Did you know that mirages occur<n>when air at different temperatures bends light?<p>That bending of light makes us see<n>pools of water that aren't there...<p>or islands that seem to float in the air.
+
+@17CCC max=359
+JP: 温度の違う空気が生み出す光の屈折によって、<n>蜃気楼が生まれる。
+EN: Air at different temperatures bends light,<n>creating mirages.
+
+@17E34 max=359
+JP: 光が１年間に進む距離を<n>１光年と呼ぶのだということを。<p>ちなみに太陽が銀河系を１周する時間を<n>１銀河年というのだがね。
+EN: Did you know that the distance light travels in one year<n>is called a light-year?<p>Incidentally, the time the Sun takes to orbit our galaxy<n>is called a galactic year.
+
+@17F9C max=359
+JP: 光が１年間に進む距離を１光年、<n>太陽が銀河系を１周する時間を１銀河年という。
+EN: A light-year is the distance light travels in one year.<n>A galactic year is the time the Sun takes to orbit our galaxy.
+
+@18104 max=359
+JP: 光速で宇宙旅行していると、<n>歳をとるのがゆっくりになるということを。<p>ま、すべてのものは、<n>そのもののおかれた状況で時間を<p>生きていくからなんだけどね。
+EN: Did you know that traveling through space at light speed<n>would make you age more slowly?<p>You see, everything experiences time<n>at a rate that depends on...<p>the conditions it finds itself in.
+
+@1826C max=359
+JP: 光速で宇宙旅行していると、<n>歳をとるのがゆっくりになる。
+EN: Traveling through space at light speed<n>would make you age more slowly.
+
+@183D4 max=359
+JP: 天王星が１７８１年に<n>ウィリアム・ハーシェルが<p>見つけた惑星であるということを。<p>望遠鏡が発明されて<n>最初に発見された惑星なんだがね。
+EN: Did you know that Uranus was discovered in 1781<n>by William Herschel?<p>He was the one who found it, you see.<p>It was the first planet discovered<n>after the telescope was invented.
+
+@1853C max=359
+JP: 天王星は１７８１年３月１３日に<n>ウィリアム・ハーシェルが発見。<n>望遠鏡によって、初めて発見された惑星であった。
+EN: William Herschel discovered Uranus<n>on March 13, 1781.<n>It was the first planet discovered using a telescope.
+
+@186A4 max=359
+JP: 鏡は、実はガラスの裏に薄く銀を塗って作られる、<n>ということを。<p>ま、銀が、ほとんどの種類の光を反射するから、<n>鏡として使えるんだけどね。
+EN: Did you know that mirrors are actually made<n>by coating the back of glass with a thin layer of silver?<p>Silver reflects most kinds of light,<n>which makes it useful for mirrors, you see.
+
+@1880C max=359
+JP: 鏡はガラスの裏に薄く銀を塗って作られている。
+EN: Mirrors are made by coating the back of glass with a thin layer of silver.
+
+@18974 max=359
+JP: 冥王星は太陽のまわりを１周するのに<n>２４８年かかるということを。<p>ちなみに冥王星は、三途の川の<n>渡し守・カロンという名の惑星を<p>従えているのだがね。
+EN: Did you know that Pluto takes 248 years<n>to travel once around the Sun?<p>Incidentally, Pluto has a companion named Charon,<n>after the ferryman who carries souls...<p>across the river to the underworld.
+
+@18ADC max=359
+JP: 冥王星は太陽のまわりを１周するのに<n>２４８年かかる。<n>ちなみに冥王星は、三途の川の<n>渡し守・カロンという名の惑星を<n>従えている。
+EN: Pluto takes 248 years<n>to travel once around the Sun.<n>Its companion, Charon, is named<n>after the ferryman who carries souls<n>across the river to the underworld.
+
+@18C44 max=359
+JP: イルカの言葉は、<n>７００もの発音から成り立っていることを。<p>ま、海域によって、<n>イルカの言葉が異なるんだけどね。
+EN: Did you know that dolphin language<n>consists of as many as 700 different sounds?<p>Their language also differs<n>depending on which seas they live in.
+
+@18DAC max=359
+JP: イルカの言葉は<n>７００もの発音から成り立っている。<n>また、海域によって言葉が異なっている。
+EN: Dolphin language consists of<n>as many as 700 different sounds.<n>Their language also varies from one sea to another.
+
+@18F14 max=359
+JP: １年がいちばん短い惑星は水星だということを。<p>公転周期は、約８８日なんだがね。
+EN: Did you know that Mercury has the shortest year of any planet?<p>It takes about 88 days to orbit the Sun, you see.
+
+@1907C max=359
+JP: １年がいちばん短い惑星は水星、<n>公転周期は、約８８日。
+EN: Mercury has the shortest year of any planet,<n>taking about 88 days to orbit the Sun.
+
+@191E4 max=359
+JP: 波長が短い紫外線は、<n>生物の細胞を殺すほどの力を持っているってことを。<p>ま、それを利用して医療器具の殺菌や、<n>水の浄化をしているわけだけどね。
+EN: Did you know that short-wavelength ultraviolet light<n>is powerful enough to kill living cells?<p>That's why it's used to sterilize medical equipment<n>and purify water, you see.
+
+@1934C max=359
+JP: 波長が短い紫外線は、<n>生物の細胞を殺すほどの力を持っている。
+EN: Short-wavelength ultraviolet light<n>is powerful enough to kill living cells.
+
+@194B4 max=359
+JP: １８７７年にイタリアのスキアパレリが<n>火星に運河を発見したことを。<p>イタリア語で「溝」を意味する<n>「カナリ」として発表されたのが、<p>英語に訳すときに「運河」を意味する<n>「キャナル」と誤訳されてしまったためなんだがね。
+EN: Did you know that Italy's Schiaparelli<n>discovered "canals" on Mars in 1877?<p>He called them "canali,"<n>an Italian word meaning "channels."<p>But when his report was translated into English,<n>the word was mistranslated as "canals," you see.
+
+@1961C max=359
+JP: １８７７年にイタリアのスキアパレリが<n>火星に運河を発見した。<n>イタリア語で「溝」を意味する<n>「カナリ」として発表されたのが、<n>英語に訳すときに「運河」を意味する<n>「キャナル」と誤訳されてしまったため、<n>火星には人工的な運河があると誤解されていた。
+EN: In 1877, Italy's Schiaparelli<n>discovered "canals" on Mars.<n>He reported them as "canali,"<n>Italian for "channels."<n>This was mistranslated into English<n>as "canals," leading people to believe<n>that Mars had artificial waterways.
+
+@19784 max=359
+JP: ヒトの祖先が、<n>アウストラロピテクス・アファレンシスの<p>ルーシーだということを。<p>ま、ルーシーと言う愛称の猿人のことなんだがね。
+EN: Did you know that one of our ancestors was Lucy,<n>an Australopithecus afarensis?<p>That's the species she belonged to.<p>Lucy is the nickname given to her fossil, you see.
+
+@198EC max=359
+JP: ヒトの祖先は<n>アウストラロピテクス・アファレンシスという<n>猿人である。<n>その中には、ルーシーという愛称で呼ばれる<n>猿人の化石がある。
+EN: Our ancestors include<n>Australopithecus afarensis,<n>an early human species.<n>One fossil belonging to this species<n>has been nicknamed Lucy.
+
+@19A54 max=359
+JP: 水星に「広重」と呼ばれるクレーターがあることを。<p>ちなみに他にも「芭蕉」や「人麻呂」など<n>日本人の名がついているんだがね。
+EN: Did you know that Mercury has a crater called Hiroshige?<p>Others bear Japanese names too,<n>including Basho and Hitomaro.
+
+@19BBC max=359
+JP: 水星には、「広重」、「芭蕉」や「人麻呂」など<n>日本人の名前がついたクレーターがある。
+EN: Mercury has craters named after Japanese people,<n>including Hiroshige, Basho and Hitomaro.
+
+@19D24 max=359
+JP: モルヒネの名の由来を。<p>ギリシャ神話の夢の神・モルフェウスから<n>命名されたのだがね。
+EN: Do you know where morphine gets its name?<p>It was named after Morpheus,<n>the god of dreams in Greek mythology.
+
+@19E8C max=359
+JP: モルヒネの名の由来は、<n>ギリシャ神話の夢の神・モルフィウスから<n>命名された。
+EN: Morphine gets its name<n>from Morpheus, the god of dreams<n>in Greek mythology.
+
+@19FF4 max=359
+JP: 水には表面張力という力が<n>いつも働いているってことを。<p>ま、だからこそ、水滴は、表面積がいちばん小さい<n>丸の形になりやすいんだがね。
+EN: Did you know that a force called surface tension<n>is always acting on water?<p>That's why water droplets tend to form spheres,<n>the shape with the smallest surface area.
+
+@1A15C max=359
+JP: 水には表面張力という力がいつも働いている。<n>そのため、水滴は、表面積がいちばん小さい<n>丸の形になりやすい。
+EN: A force called surface tension always acts on water.<n>This makes water droplets tend to form spheres,<n>the shape with the smallest surface area.
+
+@1A2C4 max=359
+JP: 木星にイオ、ガニメデ、カリスト、エウロパという<n>衛星があることを。<p>１６１０年にガリレオによって<n>発見されたんだがね。
+EN: Did you know Jupiter has moons called<n>Io, Ganymede, Callisto and Europa?<p>Galileo discovered them in 1610, you see.
+
+@1A42C max=359
+JP: 木星には、イオ、ガニメデ、カリスト、<n>エウロパという衛星がある。<n>１６１０年にガリレオによって発見された。
+EN: Jupiter has moons called Io, Ganymede,<n>Callisto and Europa.<n>Galileo discovered them in 1610.
+
+@1A594 max=359
+JP: 水着のビキニが、<n>自動車エンジニアのルイ・レアールによって<p>開発されたものだということを。<p>第２次世界大戦のすぐあとのことなんだがね。
+EN: Did you know the bikini swimsuit<n>was developed by Louis Reard...<p>...an automotive engineer?<p>Just after World War II, as it happens.
+
+@1A6FC max=359
+JP: 水着のビキニは<n>自動車エンジニアのルイ・レアールによって<n>開発された。
+EN: The bikini swimsuit was developed<n>by automotive engineer Louis Reard.
+
+@1A864 max=359
+JP: 地球上に最初に現れた生命は、<n>カビやバクテリアのようなものだったということを。<p>ま、これも宇宙のどこかから<n>隕石に乗ってやってきたと思われているんだがね。
+EN: Did you know Earth's earliest life forms<n>were things like mold and bacteria?<p>They're thought to have arrived on a meteorite<n>from somewhere in space, you see.
+
+@1A9CC max=359
+JP: 地球上に最初に現れた生命は<n>宇宙のどこかから隕石に乗ってやってきた<n>と思われているカビやバクテリアのような<n>ものであった。
+EN: Earth's earliest life forms were things like<n>mold and bacteria, thought to have arrived<n>on a meteorite from somewhere in space.
+
+@1AB34 max=359
+JP: 人間の体の中で、いちばん、<n>新陳代謝が行われない部分が、歯だということを。<p>ま、そうじゃないと<n>虫歯の治療なんかもできないんだがね。
+EN: Did you know teeth undergo less cell renewal<n>than any other part of the human body?<p>Well, if they didn't, treating cavities<n>would be rather difficult.
+
+@1AC9C max=359
+JP: 歯は人間の体の中で、いちばん、<n>新陳代謝が行われない部分である。
+EN: Teeth undergo less cell renewal<n>than any other part of the human body.
+
+@1AE04 max=359
+JP: 金星が太陽系でただひとつ、<n>自転の方向がほかとは逆になっているということを。<p>ちなみに金星は<n>地球と質量と大きさがほとんど同じなもんで、<p>双子と呼ばれているんだがね。
+EN: Did you know Venus is the only planet<n>in our solar system that spins the opposite way?<p>Its mass and size are almost the same<n>as Earth's, too.<p>That's why it's called Earth's twin, you see.
+
+@1AF6C max=359
+JP: 太陽系で金星だけが<n>他の星と逆の自転をしている。<n>また、金星は地球と質量と大きさが<n>ほとんど同じなので双子と呼ばれている。
+EN: Venus is the only planet in our solar system<n>that spins the opposite way to the others.<n>Its mass and size are almost the same as Earth's,<n>so it's called Earth's twin.
+
+@1B0D4 max=359
+JP: スキーのジャンプなどでは、<n>追い風より向かい風のほうが、<p>記録が伸びるってことを。<p>ま、向かい風のほうが、飛んでいる選手を<n>上に押し上げる力が強いせいなんだがね。
+EN: Did you know ski jumpers can go farther<n>with a headwind...<p>...than with a tailwind?<p>A headwind gives them more upward lift<n>while they're in the air, you see.
+
+@1B23C max=359
+JP: スキーのジャンプなどでは、<n>追い風より向かい風のほうが記録が伸びる。<n>向かい風のほうが、飛んでいる選手を<n>上に押し上げる力が強いため。
+EN: Ski jumpers can go farther with a headwind<n>than with a tailwind.<n>A headwind gives them more upward lift<n>while they're in the air.
+
+@1B3A4 max=359
+JP: １９６１年にソビエトのチトフ少佐が<n>人類史上はじめて経験した病気が<p>宇宙酔いであるということを。<p>ちなみに月で最初にゴルフをしたのは<n>アラン・Ｂ・シェパードなんだがね。
+EN: Did you know Soviet Major Titov became<n>the first person to suffer a certain illness in 1961?<p>Space sickness, that is.<p>Incidentally, the first person to play golf<n>on the moon was Alan B. Shepard.
+
+@1B50C max=359
+JP: １９６１年にソビエトのチトフ少佐が<n>人類史上はじめて宇宙酔いを経験した。
+EN: In 1961, Soviet Major Titov became<n>the first person to experience space sickness.
+
+@1B674 max=359
+JP: 標高３６００メートルのアンデス高地に<n>塩湖があるということを。<p>約２０万年前、海だったところが隆起して<n>できた湖だからなんだがね。
+EN: Did you know there's a salt lake in the Andes,<n>3,600 meters above sea level?<p>It formed when land that had been under the sea<n>rose up about 200,000 years ago, you see.
+
+@1B7DC max=359
+JP: 標高３６００メートルのアンデス高地にある<n>ウユニ塩湖は、海水の約８倍の塩水である。<n>約２０万年前、海だったところが隆起して<n>できた湖だからと言われている。
+EN: Lake Uyuni in the Andes lies 3,600 meters<n>above sea level and is about eight times as salty<n>as seawater. It's said to have formed when land<n>under the sea rose up about 200,000 years ago.
+
+@1B944 max=359
+JP: 蛍光塗料は、その色素の分子が光を吸収して<n>励起状態になるから光るんだということを。<p>ま、この励起状態がいつまで続くかが、<n>蛍光塗料がどのくらい光るかを決めるんだがね。
+EN: Did you know fluorescent paint glows because<n>its pigment molecules absorb light and become excited?<p>How long they stay in that excited state<n>determines how long the paint glows, you see.
+
+@1BAAC max=359
+JP: 蛍光塗料は、その色素の分子が光を吸収して<n>励起状態になるから光る。
+EN: Fluorescent paint glows because its pigment<n>molecules absorb light and enter an excited state.
+
+@1BC14 max=359
+JP: 金星に１９８２年３月に<n>ソビエトのベネラ１３号が着陸したということを。<p>このとき金星のカラー写真を初めて撮影したんだがね。
+EN: Did you know the Soviet probe Venera 13<n>landed on Venus in March 1982?<p>It took the first color photographs<n>of Venus then, you see.
+
+@1BD7C max=359
+JP: １９８２年３月、<n>ソビエトのベネラ１３号が金星に着陸。<n>このとき金星のカラー写真を初めて撮影した。
+EN: In March 1982, the Soviet probe Venera 13<n>landed on Venus.<n>It took the first color photographs of Venus.
+
+@1BEE4 max=359
+JP: 人間の脳で栄養源として使えるものは、<n>ブトウ糖だけだってことを。<p>ま、摂取するときは炭水化物でもいいんだけどね。
+EN: Did you know glucose is the only fuel<n>the human brain can use?<p>Eating carbohydrates will supply it too,<n>of course.
+
+@1C04C max=359
+JP: 人間の脳で栄養源として使えるものは、<n>ブトウ糖だけである。
+EN: Glucose is the only fuel<n>the human brain can use.
+
+@1C1B4 max=359
+JP: 地球の自転周期が２３時間５６分だということを。<p>そして秒速２９．８ｋｍで<n>太陽の周りをまわっているのだがね。
+EN: Did you know Earth takes 23 hours<n>and 56 minutes to complete one rotation?<p>It also travels around the sun<n>at 29.8 kilometers per second.
+
+@1C31C max=359
+JP: 地球の自転周期は２３時間５６分である。<n>秒速２９．８ｋｍで<n>太陽の周りをまわっている。
+EN: Earth takes 23 hours and 56 minutes<n>to complete one rotation.<n>It travels around the sun<n>at 29.8 kilometers per second.
+
+@1C484 max=359
+JP: ボールペンが１９４３年に<n>ハンガリー人のピロによって<p>発明されたのだということを。<p>ペンの先に小さなボールを組み込んでいるから<n>ボールペンと言うのだがね。
+EN: Did you know the ballpoint pen was invented<n>in 1943 by a Hungarian named Biro?<p>Quite an invention.<p>It's called a ballpoint because there's<n>a tiny ball built into the tip, you see.
+
+@1C5EC max=359
+JP: ボールペンは１９４３年に<n>ハンガリー人のピロによって発明された。<n>ボールペンという名称は、ペンの先に<n>小さなボールを組み込んでいることから。
+EN: The ballpoint pen was invented in 1943<n>by a Hungarian named Biro.<n>Its name comes from the tiny ball<n>built into the tip.
+
+@1C754 max=359
+JP: ロボットという言葉を、<n>そもそも考え出したのは旧チェコスロバキアの<p>チャペックという作家だったってことを。<p>ま、もともとは「労働」という<n>意味合いだったんだがね。
+EN: Did you know the word "robot" was coined<n>by a writer from former Czechoslovakia?<p>A fellow named Capek.<p>The word originally meant "labor," you see.
+
+@1C8BC max=359
+JP: 旧チェコスロバキアのチャペックが<n>ロボットという言葉を考え出した。<n>もともとは「労働」という意味だった。
+EN: Capek, from former Czechoslovakia,<n>coined the word "robot."<n>It originally meant "labor."
+
+@1CA24 max=359
+JP: 土星の輪にはカッシニのすきまが<n>あるのだということを。<p>ちなみに土星の輪を発見したのは<n>ガリレオなんだがね。
+EN: Did you know Saturn's rings have a gap<n>called the Cassini Division?<p>Incidentally, Galileo was the one<n>who discovered Saturn's rings.
+
+@1CB8C max=359
+JP: 土星の輪にはカッシニのすきまがある。<n>ちなみに土星の輪を発見したのはガリレオ。
+EN: Saturn's rings have a gap called the Cassini Division.<n>Galileo discovered Saturn's rings.
+
+@1CCF4 max=359
+JP: 実は、猫の視力は犬よりもずっと良いということを。<p>ま、とはいえ、静止した物体は<n>うまく認識することができないんだがね。
+EN: Did you know cats have much better eyesight<n>than dogs?<p>Mind you, they aren't very good<n>at recognizing things that stay still.
+
+@1CE5C max=359
+JP: 猫の視力は犬よりもずっと良い。<n>ただし、静止した物体はうまく認識できない。
+EN: Cats have much better eyesight than dogs.<n>However, they struggle to recognize objects<n>that stay still.
+
+@1CFC4 max=359
+JP: 月が地球から３８万４０００ｋｍ先に<n>あるのだということを。<p>その月は１年に約３．８センチずつ<n>地球から遠ざかっているんだがね。
+EN: Did you know the moon is 384,000 kilometers<n>away from Earth?<p>It drifts about 3.8 centimeters farther away<n>each year, you see.
+
+@1D12C max=359
+JP: 月は地球からおよそ<n>３８万４０００ｋｍ先にある。<n>その月は１年に約３．８センチずつ<n>地球から遠ざかっている。
+EN: The moon is about 384,000 kilometers<n>away from Earth.<n>It drifts about 3.8 centimeters farther away<n>each year.
+
+@1D294 max=359
+JP: トマトの学名を<n>リコペルシコン・エスクレンタムということを。<p>食べられる狼の桃との異名も持つのだがね。
+EN: Did you know the tomato's scientific name<n>is Lycopersicon esculentum?<p>It's also known as the "edible wolf peach,"<n>as it happens.
+
+@1D3FC max=359
+JP: リコペルシコン・エスクレンタムは<n>トマトの学名である。<n>「食べられる狼の桃」の意味。
+EN: Lycopersicon esculentum is the scientific name<n>for the tomato.<n>It means "edible wolf peach."
+
+@1D564 max=359
+JP: 生息しているタンポポから<n>その地域の環境がわかるということを。<p>カンサイタンポポなどの在来種は<n>比較的自然が残る場所に育ち、<p>帰化種のセイヨウタンポポなどは<n>都市部に多いということなんだがね。
+EN: Did you know the dandelions growing in an area<n>can tell you about its environment?<p>Native species, like the Kansai dandelion,<n>grow where nature is still relatively undisturbed.<p>Introduced species, like the common dandelion,<n>are more often found in cities, you see.
+
+@1D6CC max=359
+JP: 生息しているタンポポから<n>その地域の環境がわかる。<n>カンサイタンポポなどの在来種は<n>比較的自然が残る場所に育ち、<n>帰化種のセイヨウタンポポなどは<n>都市部で多く見られる。
+EN: The dandelions growing in an area can tell you<n>about its environment.<n>Native species, like the Kansai dandelion, grow<n>where nature is still relatively undisturbed.<n>Introduced species, like the common dandelion,<n>are more often found in cities.
+
+@1D834 max=359
+JP: 宇宙飛行士ジョン・グレンが<n>フレンドシップ・セブンに乗って<p>地球を何回まわったかを。<p>ま、３回なんだがね。
+EN: Do you know how many times astronaut John Glenn<n>orbited Earth aboard Friendship 7?<p>Have a guess.<p>Three times, as it happens.
+
+@1D99C max=359
+JP: 宇宙飛行士ジョン・グレンが<n>フレンドシップ・セブンに乗って<n>地球を３回まわった。
+EN: Astronaut John Glenn orbited Earth three times<n>aboard Friendship 7.
+
+@1DB04 max=359
+JP: 鼻水が出るのは、抗原抗体反応なんだってことを。<p>ま、身体に入った異物を感知して<n>体外に排出しようとする動きってことなんだけどね。
+EN: Did you know a runny nose is an antigen-antibody reaction?<p>Well, that's your body detecting something foreign<n>and trying to flush it out.
+
+@1DC6C max=359
+JP: 身体に入った異物を感知して<n>体外に排出しようとする動きを<n>抗原抗体反応という。<n>つまり、鼻水やくしゃみのこと。
+EN: An antigen-antibody reaction is the body's response<n>to something foreign, trying to expel it.<n>A runny nose and sneezing are examples.
+
+@1DDD4 max=359
+JP: １６８２年、エドモンド・ハレーは<p>見つけた彗星が７６年周期の楕円軌道を<n>もっていると予言したことを。<p>ま、彼の死後それが証明されて<n>「ハレー彗星」と呼ばれるようになったんだがね。
+EN: In 1682, Edmond Halley observed a comet...<p>And predicted that it followed an elliptical orbit,<n>returning every 76 years.<p>Well, his prediction was proved after his death,<n>and it came to be called Halley's Comet.
+
+@1DF3C max=359
+JP: １６８２年、エドモンド・ハレーは見つけた彗星が<n>７６年周期の楕円軌道をもっていると予言した。<n>彼の死後それが証明され、その彗星は<n>「ハレー彗星」と呼ばれるようになった。
+EN: In 1682, Edmond Halley predicted that a comet he observed<n>followed an elliptical orbit with a 76-year period.<n>His prediction was proved after his death,<n>and it came to be called Halley's Comet.
+
+@1E0A4 max=359
+JP: 福島県は、２億年ぐらい前は<n>アジア大陸にくっついていたってことを。<p>ま、だからこそ、<n>いまだに大昔の恐竜の骨なんかがでてくるわけだがね。
+EN: Did you know Fukushima Prefecture was joined<n>to the Asian continent about 200 million years ago?<p>Well, that's why ancient dinosaur bones<n>still turn up there.
+
+@1E20C max=359
+JP: ２億年ぐらい前、<n>福島県はアジア大陸にくっついていた。
+EN: About 200 million years ago,<n>Fukushima Prefecture was joined to the Asian continent.
+
+@1E374 max=359
+JP: 江戸時代の人たちも、<n>ちゃんと水道料金を払っていたということを。<p>ま、江戸時代だってちゃんと上水道は<n>整備されていたから、その管理にかかるお金を<p>みんなで負担していたということだね。<p>ちなみに、水道料金のことは<n>水銀（みずぎん）と呼ばれていたんだがね。
+EN: Did you know people paid water bills<n>even back in the Edo period?<p>They already had a proper water supply system,<n>and keeping it running cost money.<p>So everyone chipped in to cover the upkeep.<p>Incidentally, those water fees were called<n>"mizugin," or "water silver."
+
+@1E4DC max=359
+JP: 江戸時代の人たちも、<n>ちゃんと水道料金を払っていた。<n>水道料金のことは<n>水銀（みずぎん）と呼ばれていた。
+EN: People paid water bills even in the Edo period.<n>The fees were called "mizugin,"<n>meaning "water silver."
+
+@1E644 max=359
+JP: パラシュート降下は<n>１７９７年にアンドレ・ガルネリンが行った<p>人類初の実験であったことを。<p>ちなみに場所はパリ上空だったのだがね。
+EN: Did you know Andre Garnerin made<n>a parachute jump in 1797?<p>It was humanity's very first parachute experiment.<p>Over Paris, as it happens.
+
+@1E7AC max=359
+JP: １７９７年にアンドレ・ガルネリンが<n>人類初のパラシュート降下実験を行った。
+EN: In 1797, Andre Garnerin carried out<n>humanity's first experimental parachute jump.
+
+@1E914 max=359
+JP: チワワがメキシコの州の名前から<n>付けられているということを。<p>チワワは知っていても<n>その州のことはこれっぽっちも知らない<p>日本人はかなり多いと思うんだがね。
+EN: Did you know Chihuahuas are named<n>after a state in Mexico?<p>Plenty of people in Japan know the dogs...<p>But I suspect they don't know a thing<n>about the state itself.
+
+@1EA7C max=359
+JP: チワワはメキシコの州、<n>チワワ州から名前を付けられた。
+EN: Chihuahuas take their name<n>from the Mexican state of Chihuahua.
+
+@1EBE4 max=359
+JP: ビールの原料のホップが、<n>ハーブであるということを。<p>古くから薬草としても使われていて<n>弱った胃などに効くんだがね。
+EN: Did you know hops, used in brewing beer,<n>are a type of herb?<p>They've long been used medicinally, too.<n>Good for a sluggish stomach, you see.
+
+@1ED4C max=359
+JP: ビールの原料のホップは<n>ハーブの一種である。<n>古くから薬草としても使われていた。<n>現在でも、消化薬などに調合されていることがある。
+EN: Hops, used in brewing beer, are a type of herb.<n>They've long been used medicinally.<n>Even today, they're sometimes included<n>in remedies to aid digestion.
+
+@1EEB4 max=359
+JP: １年が３６５日の年の元旦が日曜日なら、<n>その年の大晦日が日曜日であることを。<p>ま、閏年は別だがね。
+EN: Did you know that in a 365-day year,<n>if New Year's Day is a Sunday, New Year's Eve is too?<p>Leap years are another matter, of course.
+
+@1F01C max=359
+JP: １年が３６５日の年の元旦が日曜日なら、<n>その年の大晦日は日曜日である。<n>閏年は例外。
+EN: In a 365-day year, if New Year's Day falls on a Sunday,<n>New Year's Eve also falls on a Sunday.<n>Leap years are the exception.
+
+@1F184 max=359
+JP: 地球が自転していることは、<n>長い長い振り子が一見回転しているように<p>見えることで証明できるってことを。<p>ま、フーコーの振り子ってのは、<n>そのことなんだがね。
+EN: Did you know a very long pendulum<n>can prove that the Earth rotates?<p>Its swing appears to turn as time passes.<p>Well, that's what a Foucault pendulum demonstrates.
+
+@1F2EC max=359
+JP: フーコーの振り子によって、<n>地球が自転していることを証明できる。
+EN: A Foucault pendulum can demonstrate<n>that the Earth rotates.
+
+@1F454 max=359
+JP: 人類初の宇宙遊泳がいつ行われたかを。<p>それは１９６５年３月１８日で、<n>アレクセイ・レオノフによって行われたのだよ。<p>ほんの１０分ほどだったのだがね。
+EN: Do you know when the first spacewalk took place?<p>It was on March 18, 1965,<n>and Alexei Leonov was the man who took it.<p>Only about ten minutes long, mind you.
+
+@1F5BC max=359
+JP: 史上初の宇宙遊泳は<n>１９６５年３月１８日、<n>アレクセイ・レオノフによって行われた。<n>ほんの１０分ほどのことだった。
+EN: The first spacewalk in history was made<n>by Alexei Leonov on March 18, 1965.<n>It lasted only about ten minutes.
+
+@1F724 max=359
+JP: ベネズエラのエンジェル滝は、<n>落差が世界最大で千メートルもあるってことを。<p>ま、これはナイアガラの<n>約１５倍近く落ちてるってことなんだがね。
+EN: Did you know Venezuela's Angel Falls has<n>the world's greatest drop, at 1,000 meters?<p>Well, that's nearly 15 times<n>the drop at Niagara Falls.
+
+@1F88C max=359
+JP: ベネズエラのエンジェル滝は、<n>世界最大の落差で千メートルもある。
+EN: Angel Falls in Venezuela has the world's greatest drop,<n>at 1,000 meters.
+
+@1F9F4 max=359
+JP: 世界で最初に無線でＳＯＳを打電したのは<n>タイタニック号だったということを。<p>まぁ、結果についてはご存知だとは思うがね。
+EN: Did you know the Titanic was the first ship<n>to send an SOS by radio?<p>Well, I imagine you know how that turned out.
+
+@1FB5C max=359
+JP: 世界で最初に無線でＳＯＳを打電したのは<n>タイタニック号だった。
+EN: The Titanic was the first ship in the world<n>to send an SOS by radio.
+
+@1FCC4 max=359
+JP: 余分に摂取したビタミンＣは、<n>おしっこと一緒に出て行ってしまうって事を。<p>ま、ヒトに必要なビタミンＣは<n>一日当たり５０ミリグラムぐらいなんだけどね。
+EN: Did you know any excess vitamin C you take in<n>ends up leaving your body in your pee?<p>Well, humans only need about<n>50 milligrams of vitamin C a day.
+
+@1FE2C max=359
+JP: 余分に摂取したビタミンＣは、<n>体内に蓄積されず、<n>おしっこと一緒に出てしまう。
+EN: Excess vitamin C isn't stored in the body.<n>It leaves in your pee.
+
+@1FF94 max=359
+JP: 緑色に光るキノコがあるということを。<p>八丈島や小笠原などで見ることができ、<n>「グリーン・ペペ」と呼ばれているんだがね。
+EN: Did you know some mushrooms glow green?<p>You can see them on Hachijo Island and the Ogasawara Islands.<n>They go by the nickname "Green Pepe."
+
+@200FC max=359
+JP: 緑色に光るヤコウタケは、<n>八丈島や小笠原などに生息し、<n>「グリーン・ペペ」という愛称で<n>親しまれている。
+EN: The green-glowing yakotake mushroom grows<n>on Hachijo Island, the Ogasawara Islands and elsewhere.<n>It's affectionately known as "Green Pepe."
+
+@20264 max=359
+JP: 宇宙空間でげっぷをすると<n>消化中の食べ物まで出てしまうってことを。<p>ま、胃の中も無重力状態だからしかたないんだがね。
+EN: Did you know that if you burp in space,<n>the food you're digesting comes up too?<p>Well, even your stomach is weightless up there.<n>Can't be helped, I'm afraid.
+
+@203CC max=359
+JP: 宇宙空間でげっぷをすると<n>消化中の食べ物まで出てしまう。
+EN: If you burp in space,<n>the food you're digesting comes up too.
+
+@20534 max=359
+JP: イギリスではかつて、遺体を包む布は<n>羊毛でなければならないという法律があったことを。<p>ま、羊毛産業の活性化のためだったんだがね。
+EN: Did you know England once had a law<n>requiring the dead to be wrapped in wool?<p>Well, it was meant to give the wool industry a boost.
+
+@2069C max=359
+JP: イギリスではかつて、遺体を包む布は<n>羊毛でなければならないという法律があった。<n>羊毛産業の活性化のためだった。
+EN: England once had a law requiring<n>the dead to be wrapped in wool.<n>It was intended to boost the wool industry.
+
+@20804 max=359
+JP: 水晶は、ガラスより冷たいってことを。<p>ま、水晶のほうが熱伝導率が<n>大きいってことなんだがね。
+EN: Did you know quartz feels colder than glass?<p>Well, quartz conducts heat more readily,<n>you see.
+
+@2096C max=359
+JP: 水晶はガラスより冷たい。<n>水晶のほうが熱伝導率が大きいため。
+EN: Quartz feels colder than glass<n>because it conducts heat more readily.
+
+@20AD4 max=359
+JP: 方程式の定義を。<p>未知数に特定の値を代入したときだけ<n>成立する等式のことなんだがね。
+EN: Do you know the definition of an equation?<p>It's an equality that holds true only when<n>particular values are substituted for its unknowns.
+
+@20C3C max=359
+JP: 方程式の定義とは<n>未知数に特定の値を代入したときだけ<n>成立する等式のことである。
+EN: An equation is an equality that holds true<n>only when particular values are substituted<n>for its unknowns.
+
+@20DA4 max=359
+JP: 電子レンジで調理したサツマイモが<n>甘くならないってことを。<p>ま、サツマイモのデンプンは<n>ゆっくり加熱するほうが甘くなるからなんだがね。
+EN: Did you know microwaved sweet potatoes<n>don't develop their sweetness?<p>Well, their starch turns sweeter<n>when you heat them slowly.
+
+@20F0C max=359
+JP: 電子レンジで調理したサツマイモは甘くならない。<n>サツマイモはゆっくり加熱するほうが<n>甘みが出るため。
+EN: Microwaved sweet potatoes don't develop their sweetness.<n>Slow heating brings out their sweetness better.
+
+@21074 max=359
+JP: 体温計を考え出したのが<n>サントリオだということを。<p>ガリレオの温度計に触発を受けて<n>作られたんだがね。
+EN: Did you know Santorio invented<n>the clinical thermometer?<p>He was inspired by Galileo's thermometer,<n>you see.
+
+@211DC max=359
+JP: サントリオは、<n>ガリレオの温度計に触発を受けて<n>体温計を考え出した。
+EN: Inspired by Galileo's thermometer,<n>Santorio invented the clinical thermometer.
+
+@21344 max=359
+JP: 商品のバーコードの<n>最初の二桁が国名だってことを。<p>ま、日本の数字は４９と４５なんだがね。
+EN: The first two digits of a product's barcode<n>tell you its country of origin.<p>Well, Japan's codes are 49 and 45.
+
+@214AC max=359
+JP: 商品のバーコードの最初の二桁は国名である。<n>ちなみに、日本の数字は４９と４５。
+EN: The first two digits of a product's barcode identify its country of origin.<n>Japan's codes are 49 and 45.
+
+@21614 max=359
+JP: ある固体が、溶けたとき液体にならずに<n>いきなり気体になることを昇華と呼ぶということを。<p>ま、防虫剤なんかは、この昇華のおかげで<n>布を汚さずにすんでいるけどね。
+EN: When a solid turns straight into a gas<n>without becoming a liquid, it's called sublimation.<p>Well, that's how mothballs work<n>without leaving stains on your clothes.
+
+@2177C max=359
+JP: ある固体が、溶けたとき液体にならずに<n>いきなり気体になることを昇華と呼ぶ。
+EN: Sublimation is when a solid turns straight into a gas<n>without becoming a liquid.
+
+@218E4 max=359
+JP: 太陽系で、太陽にいちばん近い惑星は<n>水星だってことを。<p>ま、いちばん遠いのは冥王星なんだけどね。
+EN: The planet closest to the Sun<n>is Mercury.<p>Well, the farthest is Pluto.
+
+@21A4C max=359
+JP: 太陽系で、太陽にいちばん近い惑星は水星。<n>いちばん遠いのは冥王星。
+EN: Mercury is the planet closest to the Sun.<n>Pluto is the farthest away.
+
+@21BB4 max=359
+JP: 象の鼻はもともと上唇だったってことを。<p>ま、上唇が鼻と合体して長くなり、<n>今の形になったというわけだがね。
+EN: An elephant's trunk was originally its upper lip.<p>The lip merged with the nose and grew longer,<n>giving us the trunk we know today.
+
+@21D1C max=359
+JP: 象の鼻は上唇と鼻が合体して長くなった。
+EN: An elephant's trunk formed when its upper lip and nose merged and grew longer.
+
+@21E84 max=359
+JP: ダニには体長２センチにもなる<n>仲間がいるってことを。<p>ま、血を吸ったときは、さらに大きくなるんだがね。
+EN: Some ticks can grow<n>as long as two centimeters.<p>Well, they get even bigger after a meal of blood.
+
+@21FEC max=359
+JP: 体長２センチにもなるダニがいる。
+EN: Some ticks grow as long as two centimeters.
+
+@22154 max=359
+JP: １９４４年、クストー船長が発明した<n>潜水具がアクアラングだということを。<p>第２次世界大戦中、沈没した船を<n>探索するためだったんだがね。
+EN: The diving gear Captain Cousteau invented<n>in 1944 was the Aqua-Lung.<p>It was developed during World War II<n>to explore sunken ships.
+
+@222BC max=359
+JP: 第２次世界大戦中、沈没した船を<n>探索するため、クストー船長が<n>アクアラングを開発した。<n>１９４４年のこと。
+EN: During World War II, Captain Cousteau<n>developed the Aqua-Lung<n>to explore sunken ships.<n>That was in 1944.
+
+@22424 max=359
+JP: せみは空を飛ぶためにおしっこしているってことを。<p>ま、要するに体重が軽いほうが<n>飛びやすいってことなんだけどね。
+EN: Cicadas pee to help them fly.<p>Well, the idea is that the less you weigh,<n>the easier it is to get airborne.
+
+@2258C max=359
+JP: せみは体重を軽くして空を飛びやすくするために<n>飛び立つときに、おしっこしている。
+EN: Cicadas pee as they take off<n>to shed weight and make flying easier.
+
+@226F4 max=359
+JP: 貝のカキの仲間「マガキ」は、生まれたときオスで、<n>そのあとメスになるってことを。<p>ま、その後もオスになったり、<n>メスになったりを繰り返すんだがね。
+EN: Pacific oysters start life as males,<n>then become females.<p>Well, they keep switching back and forth<n>between male and female after that, too.
+
+@2285C max=359
+JP: 貝のカキの仲間「マガキ」は、<n>生まれたときオスで、そのあとメスになり、<n>その後もオスになったり、メスになったりを<n>繰り返す。
+EN: Pacific oysters<n>start life as males, then become females.<n>After that, they keep switching<n>between male and female.
+
+@229C4 max=359
+JP: ドライアイスの白い気体は細かい水滴だってことを。<p>ドライアイスに含まれる二酸化炭素によって、<n>まわりの水蒸気が冷やされ、<p>煙のように見えるってことなんだがね。
+EN: That white cloud around dry ice is made of tiny water droplets.<p>The carbon dioxide from the dry ice<n>cools the water vapor in the surrounding air.<p>That's what makes it look like smoke.
+
+@22B2C max=359
+JP: ドライアイスの白い気体は、<n>ドライアイスに含まれる二酸化炭素によって、<n>冷やされ水蒸気が水滴になったもの。
+EN: The white cloud around dry ice consists of water droplets.<n>Carbon dioxide from the dry ice cools the surrounding water vapor,<n>turning it into droplets.
+
+@22C94 max=359
+JP: 錠前師のピーター・ハインラインが<n>世界で最初に発明した<p>「ニュールンベルグの卵」とは何かを。<p>懐中時計なんだがね。
+EN: Do you know what locksmith Peter Henlein<n>was the first in the world to invent?<p>It was called the "Nuremberg Egg."<p>A pocket watch, as it happens.
+
+@22DFC max=359
+JP: 錠前師のピーター・ハインラインが<n>世界で最初に発明した懐中時計は<n>「ニュールンベルグの卵」と呼ばれた。
+EN: The world's first pocket watch,<n>invented by locksmith Peter Henlein,<n>was called the "Nuremberg Egg."
+
+@22F64 max=359
+JP: 空気にも重さがあるってことを。<p>ま、それを証明したのはガリレオなんだけどね。
+EN: Even air has weight.<p>Well, Galileo was the one who proved it.
+
+@230CC max=359
+JP: 空気にも重さがあることを<n>ガリレオ・ガリレイが証明した。
+EN: Galileo Galilei proved<n>that air has weight.
+
+@23234 max=359
+JP: 最初に星座を考えたのは<n>メソポタミアの羊飼いたちだったということを。<p>ま、それをまとめて４８の星座としたのは<n>プトレマイオスなんだけどね。
+EN: The first people to dream up constellations<n>were shepherds in Mesopotamia.<p>Well, Ptolemy was the one who compiled them<n>into a set of 48 constellations.
+
+@2339C max=359
+JP: メソポタミアの羊飼いたちが最初に星座を考えた。
+EN: Shepherds in Mesopotamia were the first to dream up constellations.
+
+@23504 max=359
+JP: エビを茹でると赤くなるのは、<n>カロテノプロテインという成分が、<p>熱で変化してたんぱく質とアスタキサンチンに<n>分離するせいだということを。<p>ま、最終的に赤く見えるのは<n>そのアスタキサンチンが酸化して<p>アスタシンになるからなんだけどね。
+EN: Shrimp turn red when boiled because<n>a substance called carotenoprotein reacts to heat,<p>splitting into protein<n>and astaxanthin.<p>Well, the red color appears when<n>that astaxanthin oxidizes<p>and becomes astacin.
+
+@2366C max=359
+JP: エビを茹でると赤くなるのは、<n>カロテノプロテインという成分が、<n>熱で変化してたんぱく質とアスタキサンチンに<n>分離するせいである。<n>最終的に赤く見えるのは<n>そのアスタキサンチンが酸化して<n>アスタシンになるから。
+EN: Shrimp turn red when boiled because<n>a substance called carotenoprotein<n>reacts to heat and splits into protein<n>and astaxanthin.<n>The red color appears when<n>the astaxanthin oxidizes<n>and becomes astacin.
+
+@237D4 max=359
+JP: 水も凍るほど寒い海でも<n>凍らない魚がいるということを。<p>自らの血液を凍らせないたんぱく質を<n>持っているからなんだがね。<p>ま、それでもあまりに寒いと<n>凍ってしまうだろうがね。
+EN: Some fish can survive without freezing<n>in seas cold enough to freeze water.<p>They have a protein<n>that keeps their blood from freezing.<p>Well, if it got too cold,<n>I suppose even they'd freeze.
+
+@2393C max=359
+JP: 水も凍るほど寒い海でも<n>凍らない魚がいる。<n>この魚は、自らの血液を凍らせない<n>たんぱく質を持っているから。
+EN: Some fish can survive without freezing<n>in seas cold enough to freeze water.<n>They have a protein<n>that keeps their blood from freezing.
+
+@23AA4 max=359
+JP: １以上の整数を、<n>偶数なら２で割り、奇数なら３倍して１を足す、<p>という計算を繰り返していくと、<n>元の数字がなんであれ<p>最後は必ず１になるらしい、ということを。<p>ま、実のところこれはまだ誰も証明していない<n>未解決の問題なんだがね。
+EN: Take any whole number of at least 1.<n>If even, halve it. If odd, triple it and add 1.<p>Keep repeating those steps,<n>whatever number you started with,<p>and apparently you'll always reach 1.<p>Well, no one has actually proved it yet.<n>It's still an unsolved problem.
+
+@23C0C max=359
+JP: １以上の整数を、<n>偶数なら２で割り、奇数なら３倍して１を足す、<n>という計算を繰り返していくと、<n>元の数字がなんであれ最後は必ず１になるらしい。
+EN: Take any whole number of at least 1.<n>If even, halve it. If odd, triple it and add 1.<n>Keep repeating those steps, and apparently you'll reach 1,<n>whatever number you started with.
+
+@23D74 max=359
+JP: 自分に聞こえる自分の声は、<n>自分の声とは違うってことを。<p>自分の声の大部分は、<n>骨伝導によって聞こえているので、<p>実際、他の人が聞くより少し低めに聞こえる。<p>ま、自分の声を録音して聞いてみれば、<n>その差はすぐにわかるんだがね。
+EN: The voice you hear when you speak<n>isn't quite the voice everyone else hears.<p>You hear most of your own voice<n>through vibrations in your bones.<p>That makes it sound a little lower to you than to others.<p>Well, just listen to a recording of yourself,<n>and you'll hear the difference right away.
+
+@23EDC max=359
+JP: 自分に聞こえる自分の声は、<n>骨伝導によって聞こえているので、<n>実際、他の人が聞くより少し低めに聞こえる。
+EN: You hear your own voice<n>through vibrations in your bones,<n>so it sounds a little lower to you than it does to others.
+
+@24044 max=359
+JP: 地球上でいちばん寒いところは、<n>シベリアにあるサハ共和国の<p>ベルホヤンスクとオイミャコンだということを。<p>氷点下６７．８度を記録したことがあるんだけどね。
+EN: The coldest places on Earth are in<n>Siberia's Sakha Republic.<p>They're Verkhoyansk and Oymyakon.<p>Temperatures as low as -67.8 degrees Celsius have been recorded there.
+
+@241AC max=359
+JP: 地球上でいちばん寒いところは、<n>シベリアにあるサハ共和国の<n>ベルホヤンスクとオイミャコンである。<n>氷点下６７．８度を記録したことがある。
+EN: The coldest places on Earth are<n>Verkhoyansk and Oymyakon,<n>in Siberia's Sakha Republic.<n>Temperatures as low as -67.8 degrees Celsius have been recorded there.
+
+@24314 max=359
+JP: ラジオ放送がアメリカのイースト・ピッツバーグで<n>始まったということを。<p>１９２０年のことなんだがね。
+EN: Radio broadcasting began in East Pittsburgh,<n>in the United States.<p>That was in 1920.
+
+@2447C max=359
+JP: １９２０年、アメリカのイースト・ピッツバーグで<n>ラジオ放送が始まった。
+EN: Radio broadcasting began in 1920<n>in East Pittsburgh, in the United States.
+
+@245E4 max=359
+JP: 日本で消防隊が使った水の料金は、<n>水道局が持つ、ということを。<p>ま、自治体によっては、<n>消防署が払う場合もあるのだがね。
+EN: In Japan, the water bureau pays<n>for the water firefighters use.<p>Well, in some municipalities,<n>the fire department foots the bill instead.
+
+@2474C max=359
+JP: 日本で消防隊が使った水の料金は<n>水道局が負担する。<n>ただし、自治体によっては例外もある。
+EN: In Japan, the water bureau pays<n>for the water firefighters use.<n>Some municipalities have exceptions.
+
+@248B4 max=359
+JP: 時空四次元とは、三次元空間を構成する三軸に、<n>もう一本時間軸を加えた四つの基本軸で<p>構成されているということを。<p>ま、この考えがアインシュタインの<n>一般相対性理論で導入されているわけだけどね。
+EN: Four-dimensional spacetime takes the three axes of space<n>and adds a fourth: time.<p>Those four axes make up spacetime.<p>Well, this idea is used in Einstein's<n>general theory of relativity.
+
+@24A1C max=359
+JP: 時空四次元とは、三次元空間を構成する三軸に、<n>もう一本時間軸を加えた四つの基本軸で<n>構成されている。<n>この考えがアインシュタインの<n>一般相対性理論で導入されている。
+EN: Four-dimensional spacetime takes the three axes of space<n>and adds a fourth axis for time.<n>Together, these four axes make up spacetime.<n>This idea is used in Einstein's<n>general theory of relativity.
+
+@24B84 max=359
+JP: ローマ字で「Ｃ」と書くと<n>１００を意味するということを。<p>ちなみに「０」はローマ字で<n>書きあらわせない数字なんだがね。
+EN: In Roman numerals, "C"<n>means 100.<p>Incidentally, zero cannot be written<n>in Roman numerals.
+
+@24CEC max=359
+JP: ローマ字で「Ｃ」と書くと１００を意味する。<n>また、「０」はローマ字では書きあらわせない。
+EN: In Roman numerals, "C" means 100.<n>Zero cannot be written in Roman numerals.
+
+@24E54 max=359
+JP: 種無しぶどうにも、もともとは種があるってことを。<p>ま、ジベレリンという植物ホルモンで<n>種ができるのを抑制したものが、<p>商品となるわけなんだがね。
+EN: Even seedless grapes start out with seeds.<p>A plant hormone called gibberellin<n>is used to stop the seeds from forming.<p>Then they're ready for the shops, you see.
+
+@24FBC max=359
+JP: 種無しぶどうは、<n>ジベレリンという植物ホルモンで<n>種ができるのを抑制したもの。
+EN: Seedless grapes are treated<n>with a plant hormone called gibberellin<n>to stop their seeds from forming.
+
+@25124 max=359
+JP: 石油にはサハラブレンド、アラビアンライトという<n>銘柄があることを。<p>まぁ、だから何だってわけでもないんだがね。
+EN: Crude oil comes in varieties called<n>Sahara Blend and Arabian Light.<p>Well, make of that what you will.
+
+@2528C max=359
+JP: 石油にはサハラブレンド、<n>アラビアンライトという銘柄がある。
+EN: Sahara Blend and Arabian Light<n>are varieties of crude oil.
+
+@253F4 max=359
+JP: 地球からは月の裏側は見えないってことを。<p>ま、月の公転と自転の周期が同じなためなんだがね。
+EN: We cannot see the far side of the moon from Earth.<p>You see, the moon takes just as long to spin once as it does to orbit Earth.
+
+@2555C max=359
+JP: 地球からは月の裏側は見えない。<n>月の公転と自転の周期が同じなため。
+EN: We cannot see the far side of the moon from Earth.<n>The moon's rotation and orbital periods are the same.
+
+@256C4 max=359
+JP: 絶対零度が－２７３．１５度Ｃであることを。<n>これ以上低い温度は考えられないという意味で<p>つけられたネーミングなのだ。<p>零度なんてつくからまぎらわしいんだがね。
+EN: Absolute zero is -273.15 degrees C.<n>The name means no lower temperature<p>is considered possible.<p>Calling it "zero" does muddy the waters, though.
+
+@2582C max=359
+JP: 絶対零度は－２７３．１５度Ｃ。<n>これ以上低い温度は考えられないという意味で<n>つけられたネーミング。
+EN: Absolute zero is -273.15 degrees C.<n>It gets its name from the idea that<n>no lower temperature is possible.
+
+@25994 max=359
+JP: 聴診器は最初、丸めた紙の筒だったということを。<p>ま、それを使った医師ラエンネックが、<n>後に今の聴診器の原型を発明するんだがね。
+EN: The first stethoscope was a rolled-up paper tube.<p>Laennec, the doctor who used it, later invented<n>the forerunner of today's stethoscope.
+
+@25AFC max=359
+JP: 丸めた紙の筒が聴診器の始まりである。
+EN: The stethoscope began as a rolled-up paper tube.
+
+@25C64 max=359
+JP: １９２２年、アインシュタインは<n>日本へ向かう船の上で<p>ノーベル賞の知らせを聞いたという事実を。<p>その彼の名をとって、９９番元素は<n>アインスタイニウムというのだがね。
+EN: In 1922, Einstein was aboard a ship bound for Japan<n>when he learned<p>that he'd won the Nobel Prize.<p>Incidentally, element 99 is called<n>einsteinium in his honor.
+
+@25DCC max=359
+JP: １９２２年、アインシュタインは<n>日本へ向かう船の上で<n>ノーベル賞の知らせを聞いた。
+EN: In 1922, Einstein learned<n>that he'd won the Nobel Prize<n>while aboard a ship bound for Japan.
+
+@25F34 max=359
+JP: 我々の銀河系からもっとも近い銀河は、<n>なんと十六万光年も離れているということ。<p>ま、その銀河は<n>大マゼラン星雲と呼ばれているんだけどね。
+EN: The nearest galaxy to our Milky Way<n>is a staggering 160,000 light-years away.<p>It's called<n>the Large Magellanic Cloud, you see.
+
+@2609C max=359
+JP: もっとも近い銀河、マゼラン星雲は<n>我々の銀河系から十六万光年も離れている。
+EN: The nearest galaxy, the Magellanic Cloud,<n>is 160,000 light-years from our Milky Way.
+
+@26204 max=359
+JP: ブドウ糖、デンプンなどは、<n>二酸化炭素と水を原料に葉緑素を触媒として<p>光エネルギーによって生成できるということを。<p>ま、一言でいうと光合成、だけどね。
+EN: Glucose, starch and the like can be made<n>from carbon dioxide and water, with chlorophyll<p>as a catalyst and light as the energy source.<p>Well, in a word, that's photosynthesis.
+
+@2636C max=359
+JP: 光合成とは、<n>二酸化炭素と水を原料に葉緑素を触媒として<n>ブドウ糖、デンプンなどが、<n>光エネルギーによって生成できること。
+EN: Photosynthesis is the process<n>of using carbon dioxide and water,<n>with chlorophyll as a catalyst,<n>to make glucose, starch and the like using light energy.
+
+@264D4 max=359
+JP: 消しゴムは、イギリスの化学者プリーストリーが<n>発明したものだということを。<p>まぁ、当時はとても高価なものだったらしいんだがね。
+EN: The eraser was invented<n>by the British chemist Priestley.<p>Apparently, they were quite expensive back then.
+
+@2663C max=359
+JP: 消しゴムは<n>イギリスの化学者プリーストリーが発明した。<n>当時はとても高価なものだった。
+EN: The eraser was invented<n>by the British chemist Priestley.<n>It was very expensive at the time.
+
+@267A4 max=359
+JP: ヒトデをばらばらにしても、死なないってことを。<p>ま、各パーツごとに<n>また元のかたちに戻っていくんだがね。
+EN: Cutting a starfish into pieces won't kill it.<p>Each piece simply grows back<n>into a whole starfish, you see.
+
+@2690C max=359
+JP: ヒトデをばらばらにしても死なない。<n>ちぎれても、再生する。
+EN: Cutting a starfish into pieces won't kill it.<n>It can regenerate after being torn apart.
+
+@26A74 max=359
+JP: ライプニッツとニュートンは、<n>微積分をそれぞれ自分が発見したと<p>言い張ってたということを。<p>ちなみにニュートンは万有引力の発見も<n>ロバート・フックと言い争ったのだがね。
+EN: Leibniz and Newton each insisted<n>that he was the one<p>who had discovered calculus.<p>Newton also argued with Robert Hooke<n>over who had discovered universal gravitation.
+
+@26BDC max=359
+JP: ライプニッツとニュートンは、<n>微積分をそれぞれ自分が発見したと<n>主張していた。<n>ニュートンは万有引力の発見も<n>ロバート・フックと言い争っていた。
+EN: Leibniz and Newton<n>each claimed to have<n>discovered calculus.<n>Newton also argued with Robert Hooke<n>over the discovery of universal gravitation.
+
+@26D44 max=359
+JP: サハラ砂漠にも雪が降るということを。<p>１９７９年には、吹雪が吹き荒れた。<n>ま、積もった雪はすぐ溶けてしまったんだがね。
+EN: Even the Sahara Desert gets snow.<p>A blizzard swept through in 1979.<n>Mind you, the snow soon melted.
+
+@26EAC max=359
+JP: サハラ砂漠にも雪が降ったことがある。<n>１９７９年のこと。
+EN: Snow has fallen even in the Sahara Desert.<n>It happened in 1979.
+
+@27014 max=359
+JP: 「無理数」は、ピタゴラス学派が<n>口外を禁じた秘密の数だったということを。<p>それもまた無理な話だったのだがね。
+EN: The Pythagoreans kept irrational numbers secret<n>and forbade anyone to speak of them.<p>A rather irrational demand, if you ask me.
+
+@2717C max=359
+JP: 無理数は<n>ピタゴラス学派が口外を禁じた秘密の数だった。
+EN: Irrational numbers were a secret<n>the Pythagoreans forbade anyone to reveal.
+
+@272E4 max=359
+JP: コアラの赤ちゃんは、<n>母親の糞で育つ、ということを。<p>ま、糞といっても離乳用に解毒された<n>特別の糞なんだがね。
+EN: Baby koalas grow up<n>eating their mothers' droppings.<p>Mind you, these are special, detoxified droppings<n>produced for weaning.
+
+@2744C max=359
+JP: コアラの赤ちゃんは母親の糞で育つ。<n>ただし、この糞は、<n>離乳用に解毒されたものである。
+EN: Baby koalas grow up eating their mothers' droppings.<n>These special droppings, however,<n>have been detoxified for weaning.
+
+@275B4 max=359
+JP: 鷲座の１等星アルタイルは、<n>日本では彦星のことだってことを。<p>ま、織姫は琴座のベガなんだけどね。
+EN: Altair, the first-magnitude star in Aquila,<n>is known in Japan as Hikoboshi, the Cowherd Star.<p>Orihime, the Weaver Star, is Vega in Lyra.
+
+@2771C max=359
+JP: 鷲座の１等星アルタイルは<n>日本では彦星と呼ばれている。<n>ちなみに、織姫は琴座のベガ。
+EN: Altair, the first-magnitude star in Aquila,<n>is called Hikoboshi, the Cowherd Star, in Japan.<n>Orihime, the Weaver Star, is Vega in Lyra.
+
+@27884 max=359
+JP: クモは２カ月ぐらい何も食べないでも<n>生きていけるということを。<p>ま、水分は必要なんだがね。
+EN: Spiders can survive for about two months<n>without eating a thing.<p>They do still need water, though.
+
+@279EC max=359
+JP: クモは２カ月ぐらい何も食べなくても<n>生存できる。
+EN: Spiders can survive for about two months<n>without eating anything.
+
+@27B54 max=359
+JP: スプーン一杯のしょうゆが流された下水を<n>きれいにするためには、<p>６００リットル以上の水が必要だってことを。<p>ま、水は汚さないように暮らせってことだけどね。
+EN: To clean wastewater containing<n>just one spoonful of soy sauce<p>takes over 600 liters of water.<p>The lesson being, do try to keep our water clean.
+
+@27CBC max=359
+JP: スプーン一杯のしょうゆが流された下水を<n>きれいにするためには、<n>６００リットル以上の水が必要である。
+EN: Cleaning wastewater containing<n>just one spoonful of soy sauce<n>requires over 600 liters of water.
+
+@27E24 max=359
+JP: １００ｇの１８金に含まれる純金の量が<n>７５ｇだということを。<p>ま、１８金とはそういう比率の金ということなんだよ、<n>ということなんだがね。
+EN: In 100 grams of 18-karat gold,<n>75 grams are pure gold.<p>Well, that's the proportion of gold<n>that makes it 18-karat gold, you see.
+
+@27F8C max=359
+JP: １００ｇの１８金に含まれる純金の量は<n>７５ｇである。<n>この比率の金を１８金という。
+EN: In 100 grams of 18-karat gold,<n>75 grams are pure gold.<n>Gold with this purity is called 18-karat gold.
+
+@280F4 max=359
+JP: 胃液は主に塩酸から成っていて、<n>鉄だって溶かしてしまうということを。<p>ま、胃そのものは粘液に守られているから<n>溶けないんだけどね。
+EN: Gastric juice is mainly hydrochloric acid,<n>which can dissolve even iron.<p>The stomach itself doesn't dissolve,<n>thanks to its protective mucus.
+
+@2825C max=359
+JP: 胃液の主な成分である塩酸は、<n>鉄をも溶かしてしまう。<n>胃は溶けないよう、<n>粘膜によって守られている。
+EN: Hydrochloric acid, the main component of gastric juice,<n>can dissolve even iron.<n>The stomach is protected from dissolving<n>by its mucous lining.
+
+@283C4 max=359
+JP: 物体に働く浮力の大きさは、<n>その物体が押しのけた<p>液体の重さに等しいということを。<p>ま、アルキメデスの原理なわけだがね。
+EN: The buoyant force acting on an object<n>is equal to the weight of<p>the liquid that object displaces.<p>That's Archimedes' principle, you see.
+
+@2852C max=359
+JP: 「アルキメデスの原理」<n>物体に働く浮力の大きさは、<n>その物体が押しのけた液体の重さに等しい。
+EN: "Archimedes' Principle"<n>The buoyant force acting on an object equals<n>the weight of the liquid it displaces.
+
+@28694 max=359
+JP: 凍らせても、１００度に熱しても<n>死なない動物がいることを。<p>ま、動物といっても<n>緩歩動物門のクマムシのことなんだがね。
+EN: There's an animal that survives being frozen<n>or heated to 100 degrees Celsius.<p>Mind you, it's a tardigrade,<n>also known as a water bear.
+
+@287FC max=359
+JP: 緩歩動物門のクマムシは、<n>凍らせても、１００度に熱しても<n>死なない。
+EN: Tardigrades, also known as water bears,<n>survive being frozen or heated<n>to 100 degrees Celsius.
+
+@28964 max=359
+JP: 固体が液体に変わるときの温度を融点ということを。<p>ま、液体が気体に変わるときは沸点というんだがね。
+EN: The temperature at which a solid becomes<n>a liquid is called its melting point.<p>And when a liquid becomes a gas,<n>that's its boiling point, you see.
+
+@28ACC max=359
+JP: 融点とは固体が液体に変わるときの温度。
+EN: The melting point is the temperature<n>at which a solid becomes a liquid.
+
+@28C34 max=359
+JP: お酒を飲んだ翌日にのどが渇くのは、<n>飲んだアルコールが息に混ざり<p>喉の湿り気を蒸発させてるからだってことを。<p>おしっこがたくさんでたから<n>だけじゃないってわけだね。
+EN: You're thirsty the day after drinking because<n>the alcohol you drank mixes with your breath<p>and makes the moisture in your throat evaporate.<p>So it isn't just because<n>you've been peeing so much, you see.
+
+@28D9C max=359
+JP: お酒を飲んだ翌日は、<n>飲んだアルコールが息に混ざり<n>喉の湿り気を蒸発させているため<n>のどが渇く。
+EN: You're thirsty the day after drinking because<n>alcohol mixes with your breath and makes<n>the moisture in your throat evaporate.
+
+@28F04 max=359
+JP: 人間は、一日に約８０００リットルの<n>空気を吸っていることを。<p>ま、１リットルのペットボトルの大きさを考えると、<n>びっくりするけどね。
+EN: A person breathes in about<n>8,000 liters of air a day.<p>Quite a surprise when you picture<n>that many one-liter bottles, eh?
+
+@2906C max=359
+JP: 人間は、一日に約８０００リットルの<n>空気を吸っている。
+EN: A person breathes in about<n>8,000 liters of air a day.
+
+@291D4 max=359
+JP: ＤＮＡは体中の細胞すべてに存在し、<n>その中には約３０億文字に相当する<p>遺伝情報が入っているってことを。<p>ま、簡単に言うと生物の設計図ってわけだね。
+EN: DNA is found in every cell in your body,<n>and it contains the equivalent of<p>about three billion letters of genetic information.<p>Put simply, it's a living thing's blueprint.
+
+@2933C max=359
+JP: ＤＮＡは体中の細胞すべてに存在し、<n>その中には約３０億文字に相当する<n>遺伝情報が入っている。
+EN: DNA is found in every cell in your body.<n>It contains the equivalent of about three billion<n>letters of genetic information.
+
+@294A4 max=359
+JP: 一般的に背の高い人は声が低く、<n>低い人は声が高い、と言うことを。<p>ま、背の大きさが声帯の大きさに比例するから、<n>ということなんだがね。
+EN: In general, tall people have lower voices,<n>while short people have higher voices.<p>You see, the size of the vocal cords<n>is proportional to a person's height.
+
+@2960C max=359
+JP: 一般的に背の高い人は声が低く、<n>低い人は声が高い。<n>背の大きさが声帯の大きさに比例するから。
+EN: In general, tall people have lower voices,<n>while short people have higher voices.<n>Vocal cord size is proportional to height.
+
+@29774 max=359
+JP: 猛毒で有名なトリカブトがハチと<n>助け合って生きているということを。<p>マルハナバチが蜜を吸いやすいように<n>花弁を独特な形に進化させたのは、<p>確実に花粉を付けるということでも<n>あったからなんだがね。
+EN: Monkshood, famous for its deadly poison,<n>and bees help each other survive.<p>Its petals evolved into a special shape<n>that makes it easy for bumblebees to reach the nectar.<p>That shape also makes sure<n>the bees pick up pollen, you see.
+
+@298DC max=359
+JP: ヤマトリカブトの花弁は、<n>マルハナバチが蜜を吸いやすい形になっている。<n>ハチによる受粉を確実にするために<n>進化したといわれている。
+EN: Japanese monkshood has petals shaped<n>to let bumblebees reach its nectar easily.<n>This shape is thought to have evolved<n>to ensure pollination by bees.
+
+@29A44 max=359
+JP: 種痘はジェンナーが少年を実験台にして<n>発明したものだということを。<p>日本では華岡青州が妻を実験台にして<n>世界最初の全身麻酔手術を成功させたのだがね。
+EN: Jenner developed smallpox vaccination<n>by experimenting on a young boy.<p>In Japan, Hanaoka Seishu experimented on his wife<n>and went on to perform the world's first surgery<n>under general anesthesia.
+
+@29BAC max=359
+JP: ジェンナーは少年を実験台にして<n>種痘を発明した。<n>日本では華岡青州が妻を実験台にして<n>世界最初の全身麻酔手術を成功させた。
+EN: Jenner developed smallpox vaccination<n>by experimenting on a young boy.<n>In Japan, Hanaoka Seishu experimented on his wife<n>and went on to perform the world's first surgery<n>under general anesthesia.
+
+@29D14 max=359
+JP: 大西洋をはさんだ、<n>アフリカと南アメリカの沿岸のかたちが<p>ぴったりと合うということを。<p>ま、二つの大陸は大昔くっついていて、<n>プレートの運動などによって<p>徐々に移動していったという<n>大陸移動説なんだがね。
+EN: Across the Atlantic Ocean,<n>the coastlines of Africa and South America<p>fit together like puzzle pieces.<p>You see, the two continents were once joined,<n>but the movement of Earth's plates<p>gradually carried them apart.<n>That's the theory of continental drift.
+
+@29E7C max=359
+JP: 大西洋をはさんだ、<n>アフリカと南アメリカの沿岸のかたちが<n>ぴったりと合うのは、<n>二つの大陸は大昔くっついていて、<n>プレートの運動などによって<n>徐々に移動していったからという。<n>これを大陸移動説という。
+EN: The coastlines of Africa and South America<n>fit together across the Atlantic Ocean<n>because the two continents were once joined.<n>The movement of Earth's plates<n>gradually carried them apart.<n>This is the theory of continental drift.
+
+@29FE4 max=359
+JP: かつてヒルを医療行為に使っていたということを。<p>ま、血を抜くことが治療だと<n>考えられていた時代があったということなんだがね。
+EN: Leeches were once used in medical treatments.<p>You see, there was a time when people believed<n>draining blood could cure an illness.
+
+@2A14C max=359
+JP: かつて、血を抜くことが治療だと<n>考えられていた時代には、<n>ヒルを医療行為に使っていた。
+EN: Leeches were once used in medicine,<n>back when draining blood was thought<n>to be a way to treat illness.
+
+@2A2B4 max=359
+JP: すべての現代人の祖先は、<n>一人の女性にたどり着くということを。<p>ま、ミトコンドリアＤＮＡ上の、<n>祖先、という話だがね。
+EN: Everyone alive today can trace their ancestry<n>back to a single woman.<p>Through mitochondrial DNA, that is.
+
+@2A41C max=359
+JP: すべての現代人の祖先は<n>ミトコンドリアＤＮＡ上、<n>一人の女性にたどり着く。
+EN: Through mitochondrial DNA,<n>everyone alive today can trace their ancestry<n>back to a single woman.
+
+@2A584 max=359
+JP: モールス信号で<n>５回トントントントントンと打つのが<p>５をあらわすということを。<p>ただし、ツーを５回打つと<n>それは０のことなんだがね。
+EN: In Morse code, five short taps,<n>dit-dit-dit-dit-dit,<p>represent the number five.<p>But five long dashes, you see,<n>represent zero.
+
+@2A6EC max=359
+JP: モールス信号で、５は<n>５回トントントントントンと打つ。<n>ツーを５回打つのは、０をあらわす。
+EN: In Morse code, five dots,<n>dit-dit-dit-dit-dit, represent five.<n>Five dashes represent zero.
+
+@2A854 max=359
+JP: 酸素は磁石にくっつく、ということを。<p>ま、酸素もごく弱性の常磁性体だからなんだがね。
+EN: Oxygen is attracted to magnets.<p>You see, oxygen is weakly paramagnetic.
+
+@2A9BC max=359
+JP: 酸素は磁石にくっつく。<n>酸素は、弱性の常磁性体だから。
+EN: Oxygen is attracted to magnets<n>because it is weakly paramagnetic.
+
+@2AB24 max=359
+JP: 鼻毛のある動物は、<n>人間と類人猿だけだということを。<p>ま、鼻からごみが入って<n>困る動物だってことなんだね。
+EN: Humans and other apes are the only animals<n>with nose hair.<p>Well, I suppose getting dust up their noses<n>must be quite a nuisance for them.
+
+@2AC8C max=359
+JP: 鼻毛のある動物は人間と類人猿だけである。
+EN: Humans and other apes are the only animals<n>with nose hair.
+
+@2ADF4 max=359
+JP: 天王星の昼は<n>４０年以上も続くことがあるということを。<p>ま、それも天王星は自転軸が真横に傾いた状態で<n>公転しているためなんだがね。
+EN: Daylight on Uranus can last<n>for more than 40 years.<p>You see, Uranus orbits the Sun<n>with its axis tilted onto its side.
+
+@2AF5C max=359
+JP: 天王星の昼は４０年以上も続く。<n>天王星は自転軸が真横に傾いた状態で<n>公転しているため。
+EN: Daylight on Uranus can last over 40 years<n>because the planet orbits the Sun<n>with its axis tilted onto its side.
+
+@2B0C4 max=359
+JP: 植物からはフィトンチッドという、<n>自らの身を守る成分が出ているということを。<p>ま、この物質で<n>害虫を追い払ったりしているわけなんだけどね。
+EN: Plants release substances called phytoncides<n>to protect themselves.<p>They use these substances<n>to keep pests away, you see.
+
+@2B22C max=359
+JP: 植物からはフィトンチッドという、<n>自らの身を守る成分が出ている。<n>この成分で、害虫を追い払う。
+EN: Plants release protective substances<n>called phytoncides.<n>These substances keep pests away.
+
+@2B394 max=359
+JP: 太陽系外惑星で一番質量が多いのは<n>木星だってことを。<p>ま、一番少ないのは、水星なんだがね。
+EN: Jupiter has the greatest mass<n>of any planet in our solar system.<p>And Mercury has the least, you see.
+
+@2B4FC max=359
+JP: 木星は太陽系外惑星で一番質量が多い。<n>一番少ないのは水星。
+EN: Jupiter has the greatest mass<n>of any planet in our solar system.<n>Mercury has the least.
+
+@2B664 max=359
+JP: 人は体温が４２度まで上がると<n>死んでしまうってことを。<p>ま、４２度で人体のたんぱく質が<n>固まってしまうからなんだがね。
+EN: A person dies if their body temperature<n>reaches 42 degrees Celsius.<p>You see, at 42 degrees,<n>the proteins in the human body coagulate.
+
+@2B7CC max=359
+JP: 人は体温が４２度まで上がると死んでしまう。
+EN: A person dies if their body temperature<n>reaches 42 degrees Celsius.
+
+@2B934 max=359
+JP: かたつむりが雌雄同体なのは<n>足がのろいせいだってことを。<p>ま、足がのろいと<n>繁殖相手に出会うのも稀なことだから、<p>数少ないチャンスを生かすための<n>方法だったってことだけどね。
+EN: Snails are both male and female<n>because they move so slowly.<p>You see, when you're that slow,<n>you rarely meet a potential mate.<p>So they evolved a way to make the most<n>of those rare opportunities.
+
+@2BA9C max=359
+JP: かたつむりが雌雄同体なのは、足がのろいため。<n>足がのろいと、<n>繁殖相手に出会うのも稀である。<n>数少ないチャンスを生かすための進化だった。
+EN: Snails are both male and female<n>because they move so slowly.<n>They rarely meet potential mates,<n>so they evolved to make the most<n>of those rare opportunities.
+
+@2BC04 max=359
+JP: プラスチック消しゴムを<n>長時間プラスチックにくっつけておくと、<p>プラスチックが溶けてしまう、ということを。<p>ま、消しゴムに含まれている可塑剤が<n>プラスチックを溶かす原因なんだけどね。
+EN: Leave a plastic eraser<n>touching plastic for long enough,<p>and the plastic will melt.<p>You see, the plasticizer in the eraser<n>is what causes the plastic to melt.
+
+@2BD6C max=359
+JP: プラスチック消しゴムを<n>長時間プラスチックにくっつけておくと、<n>プラスチックが溶けてしまう。<n>消しゴムに含まれている可塑剤が<n>プラスチックを溶かしてしまうため。
+EN: Leave a plastic eraser<n>touching plastic for long enough,<n>and the plastic will melt.<n>The plasticizer in the eraser<n>causes the plastic to melt.
+
+@2BED4 max=359
+JP: 温度の上限には限りがないと言われていることを。<p>人間が想定できる範囲では<n>１千兆度ぐらいなんだがね。
+EN: They say there's no upper limit to temperature.<p>Within the range humans can imagine,<n>it's about a quadrillion degrees, you see.
+
+@2C03C max=359
+JP: 人間が想定できる温度の上限は<n>１千兆℃ぐらい。
+EN: The highest temperature humans can imagine<n>is about one quadrillion degrees Celsius.
+
+@2C1A4 max=359
+JP: 胎児は４カ月ぐらいから<n>耳が聞こえているということを。<p>ま、だからこそ、<n>胎教、なんていう発想が出てくるわけだがね。
+EN: Did you know babies in the womb can hear<n>from about four months?<p>That's where the idea of teaching babies<n>before they're born comes from, you see.
+
+@2C30C max=359
+JP: 胎児は４カ月ぐらいから耳が聞こえている。
+EN: Babies in the womb can hear from about four months.
+
+@2C474 max=359
+JP: 世界初のレコード特許を取得したのが<n>トマス・エジソンであることを。<p>彼は１０００以上の特許権を残して<n>死んでいったのだがね。
+EN: Did you know Thomas Edison obtained<n>the world's first patent for recorded sound?<p>He had over a thousand patents<n>to his name by the time he died, you see.
+
+@2C5DC max=359
+JP: トマス・エジソンは<n>レコードをはじめ<n>１０００以上の特許権を取得していた。
+EN: Thomas Edison obtained<n>over a thousand patents,<n>including one for recorded sound.
+
+@2C744 max=359
+JP: ライオンの獲物はほとんどメスが狩るということを。<p>ま、ある意味、人間もそうかもしれないがね。
+EN: Did you know lionesses do most of the hunting?<p>Well, perhaps humans are much the same, in a way.
+
+@2C8AC max=359
+JP: ライオンの獲物はほとんどメスが狩る。
+EN: Lionesses do most of the hunting.
+
+@2CA14 max=359
+JP: 太陽の黒点に水があるってことを。<p>ま、水といっても、池や海があるわけじゃなく、<n>水分子があるってことなんだがね。
+EN: Did you know there's water in the sun's sunspots?<p>Well, by water, I don't mean ponds or seas.<n>It's water molecules we're talking about, you see.
+
+@2CB7C max=359
+JP: 太陽の黒点には水が分子として、<n>存在している。
+EN: Water exists in the sun's sunspots<n>in the form of molecules.
+
+@2CCE4 max=359
+JP: 地動説を、数学的に検証しようと努力したのは<n>ニコラス・コペルニクスだということを。<p>ま、その後、それを立証したのは<n>ガリレオ・ガリレイなんだがね。
+EN: Nicolaus Copernicus worked to show mathematically<n>that the Earth goes around the sun.<p>It was Galileo Galilei who later<n>proved the theory, you see.
+
+@2CE4C max=359
+JP: 地動説を、数学的に検証しようとしたのは<n>ニコラス・コペルニクスで、<n>それを立証したのは、ガリレオ・ガリレイである。
+EN: Nicolaus Copernicus tried to show mathematically<n>that the Earth goes around the sun.<n>Galileo Galilei proved the theory.
+
+@2CFB4 max=359
+JP: テムズ川の下を走る電車に驚いた日本人が<n>さっそく真似して作ったのが<p>日本の地下鉄のはじまりだということを。<p>その日本人は早川徳次というのだがね。
+EN: A Japanese man was amazed by the trains<n>running beneath the Thames and copied the idea...<p>And that's how Japan's subway system began.<p>His name was Noritsugu Hayakawa, you see.
+
+@2D11C max=359
+JP: 日本の地下鉄のはじまりは<n>テムズ川の下を走る電車に驚いた日本人が<n>真似して作ったものである。
+EN: Japan's subway system began<n>when a Japanese man, amazed by the trains<n>running beneath the Thames, copied the idea.
+
+@2D284 max=359
+JP: １６２８年にハーベイが<n>血液の循環をつきとめたのだということを。<p>ちなみに最短では約２０秒で<n>人間の身体を一周するのだがね。
+EN: Did you know Harvey figured out<n>how blood circulates in 1628?<p>It can make a full circuit of the human body<n>in as little as twenty seconds, you see.
+
+@2D3EC max=359
+JP: １６２８年にハーベイが<n>血液の循環をつきとめた。<n>ちなみに最短では約２０秒で<n>人間の身体を一周する。
+EN: In 1628, Harvey figured out<n>how blood circulates.<n>It can make a full circuit of the human body<n>in as little as twenty seconds.
+
+@2D554 max=359
+JP: カモノハシは、赤ちゃんではなく<n>卵を産むのだということを。<p>ま、同じ単孔類の、ハリモグラも卵を産むんだけどね。
+EN: Did you know platypuses lay eggs<n>instead of giving birth to live young?<p>Echidnas, fellow members of the monotreme family, lay eggs too.
+
+@2D6BC max=359
+JP: 単孔類のカモノハシとハリモグラは、<n>赤ちゃんではなく、卵を産む。
+EN: Platypuses and echidnas are monotremes.<n>They lay eggs instead of giving birth to live young.
+
+@2D824 max=359
+JP: 植物のクローンなら、<n>誰にでも簡単に作れるってことを。<p>ま、植物のクローンというのは、<n>簡単に言うと挿し木、接ぎ木のことで<p>昔から作られていたのだがね。
+EN: Did you know anyone can easily<n>make a clone of a plant?<p>Plant cloning is, put simply,<n>taking cuttings or making grafts.<p>People have been doing it for ages, you see.
+
+@2D98C max=359
+JP: 挿し木、接ぎ木で<n>植物のクローンを作ることができる。
+EN: You can make plant clones<n>by taking cuttings or making grafts.
+
+@2DAF4 max=359
+JP: 蛇には聴力がないってことを。<p>ま、そういうわけで、<n>蛇には蛇使いの笛は聞こえてないってわけだね。
+EN: Did you know snakes can't hear?<p>So, you see, a snake can't actually hear<n>its snake charmer's flute.
+
+@2DC5C max=359
+JP: 蛇には聴力がない。
+EN: Snakes can't hear.
+
+@2DDC4 max=359
+JP: 燃え続ける太陽の主なエネルギー源は<n>水素だっていうことを。<p>ま、太陽の中心では<n>常に核融合反応が起こっているわけだがね。
+EN: Did you know hydrogen is the main fuel<n>that keeps the sun burning?<p>Nuclear fusion is constantly taking place<n>at the sun's core, you see.
+
+@2DF2C max=359
+JP: 太陽の主なエネルギー源は水素である。<n>太陽の中心では、<n>常に核融合反応が起こっている。
+EN: Hydrogen is the sun's main energy source.<n>Nuclear fusion is constantly taking place<n>at the sun's core.
+
+@2E094 max=359
+JP: ハープシコードにハンマーとダンパーを<n>くっつけたものがピアノだということを。<p>発明者はクリストフォリなのだがね。
+EN: Did you know a piano is a harpsichord<n>with hammers and dampers added?<p>Cristofori was its inventor, you see.
+
+@2E1FC max=359
+JP: ハープシコードにハンマーとダンパーを<n>くっつけたものがピアノである。<n>発明者はクリストフォリ。
+EN: A piano is a harpsichord<n>with hammers and dampers added.<n>It was invented by Cristofori.
+
+@2E364 max=359
+JP: 水は、液体のときは分子がばらばらに運動しているが、<n>凍ると分子の運動が遅くなり規則正しく並ぶ、<p>ということを。<p>ま、簡単に言うと水は凍ると結晶になり<n>体積が増えるということなんだがね。
+EN: In liquid water, molecules move freely.<n>When it freezes, they slow down and line up in a regular pattern.<p>Were you aware of that?<p>Put simply, water forms crystals when it freezes,<n>and its volume increases, you see.
+
+@2E4CC max=359
+JP: 水は、液体のときは分子がばらばらに運動し、<n>凍ると分子の運動が遅くなり規則正しく並ぶ。<n>この状態を結晶という。
+EN: In liquid water, molecules move freely.<n>When it freezes, they slow down and line up in a regular pattern.<n>This arrangement is called a crystal.
+
+@2E634 max=359
+JP: スプレー缶の底がみんな球状だということを。<p>ま、スプレー缶の中が高圧なので<n>強度の高い球状になっているということなんだがね。
+EN: Did you know spray cans all have curved bottoms?<p>The contents are under high pressure,<n>so that curved shape gives the can extra strength, you see.
+
+@2E79C max=359
+JP: スプレー缶の底が、球状なのは、<n>平らなものよりも容器の強度が高くなるため。
+EN: Spray cans have curved bottoms<n>because a curved shape makes the container stronger than a flat one.
+
+@2E904 max=359
+JP: エアロビクスが運動生理学でいうところの<n>有酸素運動を意味するということを。<p>笑顔で踊るあの運動のことだけを<n>さすのではないのだよ。<p>もちろんあれこそ有酸素運動なんだがね。
+EN: In exercise physiology, 'aerobics'<n>means exercise that uses oxygen.<p>It doesn't just mean those workouts<n>where everyone dances with a smile, you know.<p>Though those certainly are aerobic exercise.
+
+@2EA6C max=359
+JP: エアロビクスは運動生理学では、<n>有酸素運動を意味する。
+EN: In exercise physiology, 'aerobics'<n>means exercise that uses oxygen.
+
+@2EBD4 max=359
+JP: 最初にビッグバン理論を唱えたジョージ・ガモフは、<n>大ボラ吹きと嘲笑されていたことを。<p>ま、最初に新説を唱える者は<n>往々にして敵を作るものだがね。
+EN: George Gamow, who first proposed the Big Bang theory,<n>was mocked as a teller of tall tales.<p>Well, those who propose new theories<n>often make enemies, you see.
+
+@2ED3C max=359
+JP: ジョージ・ガモフが唱えた新説は、<n>まわりから嘲笑をこめて<n>「ビッグバン（爆発音）理論」と呼ばれていた。
+EN: George Gamow's new theory<n>was mockingly nicknamed<n>the 'Big Bang theory,' after the sound of an explosion.
+
+@2EEA4 max=359
+JP: ガリレオの温度計は、<n>温度によって比重が変わる液体の中に浮沈子を入れ、<p>真ん中に来たものでそのときの温度を測るってことを。<p>ま、見た目もとても美しい温度計なんだけどね。
+EN: A Galileo thermometer has little floats<n>in a liquid whose density changes with temperature.<p>The float in the middle tells you the temperature.<p>It's quite a beautiful thermometer to look at, too.
+
+@2F00C max=359
+JP: ガリレオの温度計は、<n>温度によって比重が変わる液体の中に<n>浮沈子を入れ、真ん中に来たもので<n>そのときの温度を測る。
+EN: A Galileo thermometer has little floats<n>in a liquid whose density changes<n>with temperature. The float in the middle<n>tells you the temperature.
+
+@2F174 max=359
+JP: ナポレオン時代から<n>メートル原器は白金で作られていたことを。<p>白金とはプラチナのことだがね。
+EN: Did you know that since Napoleon's day,<n>standard meter bars were made of platinum?<p>That's the metal called 'hakkin' in Japanese, you see.
+
+@2F2DC max=359
+JP: ナポレオン時代、<n>メートル原器はプラチナで作られていた。
+EN: In Napoleon's day,<n>standard meter bars were made of platinum.
+
+@2F444 max=359
+JP: カタツムリは冬眠するということを。<p>さらに夏の暑い日や、大雨のときは<n>殻にこもって寝ているということを。<p>ま、要するに生きている時間の大半を<n>寝てすごしているということなんだがね。
+EN: Snails hibernate, you know.<p>On hot summer days and during heavy rain,<n>they retreat into their shells and sleep, too.<p>In other words, they spend most of their lives<n>asleep, you see.
+
+@2F5AC max=359
+JP: カタツムリは冬眠する。<n>夏の暑い日や、大雨のときにも<n>殻にこもって寝ている時間が多い。
+EN: Snails hibernate.<n>They also spend a lot of time sleeping in their shells<n>on hot summer days and during heavy rain.
+
+@2F714 max=359
+JP: 馬の祖先、エオヒップスは<n>小さいもので体高２５センチほどだったということ。<p>ま、五千五百万年前の話なんだがね。
+EN: Some Eohippus, the ancestors of horses,<n>stood only about 25 centimeters tall, you know.<p>Mind you, that was 55 million years ago.
+
+@2F87C max=359
+JP: 馬の祖先、エオヒップスは<n>小さいもので体高２５センチほどだった。
+EN: Some Eohippus, the ancestors of horses,<n>stood only about 25 centimeters tall.
+
+@2F9E4 max=359
+JP: スペースシャトル・ディスカバリーが、<n>キツツキに壊されたことがある、ということを。<p>ま、壊されたのは<n>ポリウレタンで作られた断熱材部分だったので、<p>やわらかいところではあったのだがね。
+EN: The space shuttle Discovery was once<n>damaged by woodpeckers, you know.<p>Well, they pecked at its insulation,<n>which was made of polyurethane,<p>so it was a fairly soft target, you see.
+
+@2FB4C max=359
+JP: スペースシャトル・ディスカバリーは<n>断熱材部分をキツツキに壊されたことがある。
+EN: The space shuttle Discovery once had<n>its insulation damaged by woodpeckers.
+
+@2FCB4 max=359
+JP: 現在、太陽は約５０億歳だということを。<p>ま、寿命は１００億といわれているから<n>やっと半分、ってとこなんだがね。
+EN: The Sun is about five billion years old, you know.<p>Its lifespan is said to be ten billion years,<n>so it's only halfway through, you see.
+
+@2FE1C max=359
+JP: 寿命が１００億といわれている太陽は<n>現在、約５０億歳である。
+EN: The Sun's lifespan is said to be ten billion years.<n>It is currently about five billion years old.
+
+@2FF84 max=359
+JP: オーデコロンが１８世紀初めに<n>イタリア人のファリナによって<p>発明されたということを。<p>その頃はケルンの水と呼ばれていたんだがね。
+EN: Eau de cologne dates back to the early 1700s,<n>when an Italian named Farina<p>invented it, you know.<p>It was called "water of Cologne" back then.
+
+@300EC max=359
+JP: オーデコロンは１８世紀初めに<n>イタリア人のファリナによって発明された。<n>その頃はケルンの水と呼ばれていた。
+EN: Eau de cologne was invented in the early 1700s<n>by an Italian named Farina.<n>It was called "water of Cologne" back then.
+
+@30254 max=359
+JP: 月のクレーターには日本名がついているってことを。<p>ま、これは国際天文学連合総会で、<n>歴史上功績のあった科学者を<p>選び出して命名したもので、<n>その中に日本人科学者もいたってことなんだけどね。
+EN: Some craters on the Moon have Japanese names, you know.<p>The International Astronomical Union's General Assembly<n>chose scientists with great achievements<p>to name the craters after, you see.<n>Some Japanese scientists were among them.
+
+@303BC max=359
+JP: 月のクレーターには日本名がついているものがある。<n>国際天文学連合総会で、<n>歴史上功績のあった科学者を<n>選び出して命名したとき、<n>日本人科学者も含まれていたから。
+EN: Some craters on the Moon have Japanese names.<n>The International Astronomical Union's General Assembly<n>selected scientists with great achievements<n>to name the craters after,<n>and Japanese scientists were among them.
+
+@30524 max=359
+JP: 天然ゴムは、ゴムの樹に<n>傷をつけると採れるということを。<p>ゴムの木の中でも「へベアゴム」は、<n>最高級品なんだがね。
+EN: Natural rubber is collected by making cuts<n>in rubber trees, you know.<p>Of the various kinds, Hevea rubber<n>is top quality, you see.
+
+@3068C max=359
+JP: 天然ゴムは、ゴムの樹に傷をつけて採取する。<n>ゴムの木の中でも「へベアゴム」は、<n>最高級品。
+EN: Natural rubber is collected by making cuts in rubber trees.<n>Of the various kinds of rubber,<n>Hevea rubber is top quality.
+
+@307F4 max=359
+JP: 円周率の計算は現在、<n>約１兆２４００億桁までできているってことを。<p>ま、計算しているのは<n>スーパーコンピュータなんだがね。
+EN: Pi has now been calculated<n>to about 1.24 trillion digits, you know.<p>Mind you, supercomputers<n>are doing the calculations.
+
+@3095C max=359
+JP: 円周率の計算は現在、<n>約１兆２４００億桁までできている。
+EN: Pi has now been calculated<n>to about 1.24 trillion digits.
+
+@30AC4 max=359
+JP: 蛇は、自分の毒で殺した獲物を<n>すぐには食べられない、ということを。<p>ま、獲物が弱るのを待っているんだがね。
+EN: Snakes can't immediately eat prey<n>they've killed with their venom, you know.<p>Well, they have to wait for the prey to weaken.
+
+@30C2C max=359
+JP: 蛇は、自分の毒で殺した獲物を<n>すぐには食べられないのは、<n>獲物が弱るのを待っているため。
+EN: Snakes can't immediately eat prey<n>they've killed with their venom<n>because they have to wait for it to weaken.
+
+@30D94 max=359
+JP: 月の重力が地球の重力の６分の１だということを。<p>水星、金星、火星と比べても<n>地球の重力がいちばん大きいのだがね。
+EN: The Moon's gravity is one-sixth of Earth's, you know.<p>Earth also has stronger gravity<n>than Mercury, Venus or Mars, you see.
+
+@30EFC max=359
+JP: 月の重力は地球の重力の６分の１である。
+EN: The Moon's gravity is one-sixth of Earth's.
+
+@31064 max=359
+JP: 最初に発見されたビタミンは、<n>オリザニンという名で<p>発見したのは日本人だったということを。<p>ま、これは発見時の名前で<n>今はビタミンＢ１といったほうがわかりやすいがね。
+EN: The first vitamin discovered<n>was called oryzanin,<p>and its discoverer was Japanese, you know.<p>Well, that was its name at the time.<n>You'd probably know it better as vitamin B1.
+
+@311CC max=359
+JP: 最初に発見されたビタミンは、<n>オリザニンという名で発見したのは日本人だった。
+EN: The first vitamin discovered<n>was called oryzanin, and its discoverer was Japanese.
+
+@31334 max=359
+JP: スペースシャトル内では<n>粉状のものは危険物だということを。<p>ま、無重力の中で粉をまいたらあっというまに<n>船内に散らばっていろいろな機器を壊す原因とも<p>なりかねないからなんだけどね。
+EN: Powdered substances are considered hazardous<n>aboard the space shuttle, you know.<p>In zero gravity, powder quickly scatters<n>through the cabin and could end up damaging<p>all sorts of equipment, you see.
+
+@3149C max=359
+JP: 無重力のスペースシャトル内では、<n>粉状のものは、持ち込みを禁止されている。<n>粉末は、あっというまに船内に散らばり、<n>いろいろな機器を壊す原因となるから。
+EN: Powdered substances are banned<n>aboard the space shuttle in zero gravity.<n>Powder quickly scatters through the cabin<n>and can damage all sorts of equipment.
+
+@31604 max=359
+JP: アボカドが、メキシコで征服者コルテスによって<n>発見されたということを。<p>アボカドは森のバターとも呼ばれるくらい<n>栄養価が高いんだがね。
+EN: Avocados were discovered in Mexico<n>by the conquistador Cortes, you know.<p>They're so nutritious that they're sometimes called<n>"butter of the forest," you see.
+
+@3176C max=359
+JP: アボカドは征服者コルテスによって<n>メキシコで発見された。<n>アボカドは森のバターとも呼ばれるくらい<n>栄養価が高い。
+EN: Avocados were discovered by the conquistador Cortes<n>in Mexico.<n>They're so nutritious that they're sometimes called<n>"butter of the forest."
+
+@318D4 max=359
+JP: ｐｐｍが１００万分の１であるということを。<p>パーセントが１００分の１であることは<n>知ってて当然だがね。
+EN: One ppm means one part in a million, you know.<p>Of course, you already know that one percent<n>means one part in a hundred.
+
+@31A3C max=359
+JP: ｐｐｍは１００万分の１、<n>パーセントは１００分の１である。
+EN: One ppm means one part in a million.<n>One percent means one part in a hundred.
+
+@31BA4 max=359
+JP: 奈良の大仏には<n>４４０ｋｇもの金が使われていたということを。<p>いい時代だったという感じだがね。
+EN: A full 440 kilograms of gold went into<n>the Great Buddha of Nara, you know.<p>Those must have been prosperous times.
+
+@31D0C max=359
+JP: 奈良の大仏には<n>４４０ｋｇもの金が使われている。
+EN: A full 440 kilograms of gold went into<n>the Great Buddha of Nara.
+
+@31E74 max=359
+JP: トラは水泳が得意であることを。<p>ただし、長距離を走るのは苦手なんだがね。
+EN: Tigers are excellent swimmers, you know.<p>Long-distance running isn't their strong suit, though.
+
+@31FDC max=359
+JP: トラは水泳が得意。<n>ただし、長距離を走るのは苦手。
+EN: Tigers are excellent swimmers.<n>Long-distance running isn't their strong suit, though.
+
+@32144 max=359
+JP: 肩こりのシップ剤やかゆみ止めが、<n>カンフル剤でできている、ということを。<p>ま、カンフルには血行改善、鎮痛、かゆみ止めの<n>効果があるからなんだけどね。
+EN: Patches for stiff shoulders and anti-itch remedies<n>are made with camphor, you know.<p>Well, camphor improves circulation, eases pain<n>and relieves itching, you see.
+
+@322AC max=359
+JP: 肩こりのシップ剤やかゆみ止めは<n>カンフル剤からできている。<n>カンフルには血行改善、鎮痛、かゆみ止めの<n>効果があるため。
+EN: Patches for stiff shoulders and anti-itch remedies<n>are made with camphor.<n>Camphor improves circulation, eases pain<n>and relieves itching.
+
+@32414 max=359
+JP: 宇宙空間で育てた貝割れ大根は、<n>こんがらがってしまうということを。<p>ま、それを実験したのは日本人宇宙飛行士、<n>向井千秋さんなんだがね。
+EN: Radish sprouts grown in space<n>get all tangled up, you know.<p>The experiment was conducted by a Japanese astronaut,<n>Chiaki Mukai, you see.
+
+@3257C max=359
+JP: 宇宙空間で育てた貝割れ大根は、<n>こんがらがってしまう、という実験をしたのは<n>日本人宇宙飛行士、向井千秋さん。
+EN: An experiment showed that radish sprouts grown in space<n>get all tangled up. It was conducted<n>by Japanese astronaut Chiaki Mukai.
+
+@326E4 max=359
+JP: 人間の体の中にはタンパク質の細い糸から成る<n>繊維性結合組織があるということを。<p>ま、それがいわゆる腱やじん帯なんかを<n>作っているのだがね。
+EN: The human body contains fibrous connective tissue<n>made of thin strands of protein, you know.<p>Well, that tissue forms things like<n>tendons and ligaments, you see.
+
+@3284C max=359
+JP: 人間の体の中にはたんぱく質の細い糸から成る<n>繊維性結合組織がある。<n>この組織が腱やじん帯を作っている。
+EN: The human body contains fibrous connective tissue<n>made of thin strands of protein.<n>This tissue forms tendons and ligaments.
+
+@329B4 max=359
+JP: テープレコーダーは<n>デンマーク人パウルセンによって<p>１８９８年に発明されたものだということを。<p>その頃はテレグラフォンと呼ばれていたんだがね。
+EN: The tape recorder was invented<n>by a Dane named Poulsen<p>in 1898, you know.<p>It was called the telegraphone back then.
+
+@32B1C max=359
+JP: テープレコーダーは<n>デンマーク人パウルセンによって<n>１８９８年に発明された。
+EN: The tape recorder was invented<n>by a Dane named Poulsen<n>in 1898.
+
+@32C84 max=359
+JP: スペインかぜと呼ばれたインフルエンザが<n>１９１８年に２０００万人以上の<p>死者を出したということを。<p>流行性感冒をただの風邪、<n>と甘く見てはいけないということなんだがね。
+EN: Did you know the flu called Spanish flu<n>claimed over 20 million lives<p>in 1918?<p>It goes to show you mustn't dismiss influenza<n>as just another cold.
+
+@32DEC max=359
+JP: スペインかぜと呼ばれたインフルエンザは<n>１９１８年に２０００万人以上の<n>死者を出した。
+EN: The influenza known as Spanish flu<n>killed over 20 million people<n>in 1918.
+
+@32F54 max=359
+JP: クオーツ時計とは、<n>水晶を使って作った時計だということを。<p>ま、水晶に交流電圧を加えた際発生する、<n>交流電流の正確な振動周期を<p>利用して計っているのだがね。
+EN: Did you know a quartz clock<n>uses a quartz crystal to keep time?<p>Well, applying alternating voltage to quartz<n>produces electrical oscillations with a precise period.<p>The clock uses those to measure time, you see.
+
+@330BC max=359
+JP: クオーツ時計とは、<n>水晶を使って作った時計である。<n>水晶に交流電圧を加えた際発生する、<n>交流電流の正確な振動周期を<n>利用して時間を計る。
+EN: A quartz clock<n>uses a quartz crystal to keep time.<n>Applying alternating voltage to quartz<n>produces electrical oscillations with a precise period.<n>These are used to measure time.
+
+@33224 max=359
+JP: タバコがナス科だということを。<p>タバコはその昔、カトリーヌ・ド・メディチの<n>片頭痛の治療にも使われていたんだがね。
+EN: Did you know tobacco belongs to the nightshade family?<p>Long ago, it was even used to treat<n>Catherine de' Medici's migraines, you see.
+
+@3338C max=359
+JP: タバコは<n>その昔、カトリーヌ・ド・メディチの<n>片頭痛の治療にも使われていた。
+EN: Tobacco was once used<n>to treat the migraines<n>of Catherine de' Medici.
+
+@334F4 max=359
+JP: 一生、貝に寄生して生き、<n>貝から一歩も離れずに死んでいくカニがいることを。<p>オオシロピンノというこのカニは<n>主にハマグリに寄生するんだがね。
+EN: Did you know there's a crab that lives inside a shellfish<n>its whole life, never leaving even as it dies?<p>It's called the Oshiro-pinno crab.<n>It mainly lives as a parasite in clams, you see.
+
+@3365C max=359
+JP: オオシロピンノというこのカニは、<n>貝に寄生して生き、貝から一歩も離れずに<n>死んでいく。<n>主にハマグリに寄生する。
+EN: The Oshiro-pinno crab<n>lives as a parasite inside a shellfish<n>and dies without ever leaving its host.<n>It mainly lives in clams.
+
+@337C4 max=359
+JP: 放射線の、ガンマ線は<n>鉄の板でも突き抜けていくということを。<p>ま、だからこそ、放射線物質は、<n>厚い厚いコンクリートで<p>覆われていたりするんだけどね。
+EN: Did you know gamma rays, a form of radiation,<n>can pass right through an iron plate?<p>That's why radioactive materials<n>are sometimes surrounded<p>by very, very thick concrete, you see.
+
+@3392C max=359
+JP: 放射線の、ガンマ線は鉄の板でも突き抜けていく。<n>ガンマ線を止めるには、<n>厚いコンクリートでなければならない。
+EN: Gamma rays can pass right through an iron plate.<n>Stopping gamma rays<n>calls for thick concrete.
+
+@33A94 max=359
+JP: 卵の重さの約１０％を殻が占めているということを。<p>それを多いと感じるか<n>少ないと感じるかはともかくも、なんだがね。
+EN: Did you know the shell makes up about 10 percent of an egg's weight?<p>Whether that strikes you as a lot<n>or a little is another matter, of course.
+
+@33BFC max=359
+JP: 卵の重さの約１０％は、殻が占めている。
+EN: The shell makes up about 10 percent of an egg's weight.
+
+@33D64 max=359
+JP: バスが急に止まると、お客が前のめりになるのは、<n>慣性の法則による現象だということを。<p>急に走り出すと、<n>今度は後ろに倒れそうになるんだがね。
+EN: Did you know passengers lurch forward when a bus stops suddenly<n>because of the law of inertia?<p>When it starts suddenly,<n>they nearly topple backward instead, you see.
+
+@33ECC max=359
+JP: バスが急に止まると、お客が前のめりになるのは、<n>慣性の法則による現象である。
+EN: Passengers lurch forward when a bus stops suddenly<n>because of the law of inertia.
+
+@34034 max=359
+JP: 今では街から減りつつある電話ボックスが<n>日本で最初に置かれたのが<p>京橋のたもとであったことを。<p>１９００年１０月のことなんだがね。
+EN: Phone booths are disappearing from our streets these days,<n>but did you know Japan's first one was installed<p>at the foot of Kyobashi Bridge?<p>That was in October 1900, you see.
+
+@3419C max=359
+JP: １９００年１０月、<n>日本で最初に電話ボックスが設置された。<n>京橋のたもとであった。
+EN: In October 1900,<n>Japan's first phone booth was installed<n>at the foot of Kyobashi Bridge.
+
+@34304 max=359
+JP: 電気抵抗の単位はオームということを。<p>ま、オームといっても、鳥じゃなくて<n>ドイツの物理学者の名前から由来しているんだけどね。
+EN: Did you know electrical resistance is measured in ohms?<p>In Japanese, that sounds like 'parrot,' but the name<n>actually comes from a German physicist, you see.
+
+@3446C max=359
+JP: 電気抵抗の単位はオームである。
+EN: Electrical resistance is measured in ohms.
+
+@345D4 max=359
+JP: エルニーニョが来ると<n>カタクチイワシが逃げてしまうということを。<p>ちなみにエルニーニョとは<n>神の子供という意味なんだがね。
+EN: Did you know anchovies swim away<n>when El Nino arrives?<p>Incidentally, El Nino means<n>'the Christ Child,' you see.
+
+@3473C max=359
+JP: エルニーニョが発生すると<n>カタクチイワシが捕れなくなってしまう。<n>ちなみにエルニーニョとは神の子供という意味。
+EN: When El Nino occurs,<n>anchovies can no longer be caught.<n>Incidentally, El Nino means 'the Christ Child.'
+
+@348A4 max=359
+JP: 人間は自分の体の中で<n>ビタミンＤを作り出せるってことを。<p>ま、このビタミンＤは<n>紫外線を浴びることによって生成されるので、<p>人間、ちょっとは日向ぼっこをしたほうが<n>いいってことなんだがね。
+EN: Did you know humans can make<n>vitamin D in their own bodies?<p>Well, vitamin D is produced<n>when we're exposed to ultraviolet light.<p>So a little time in the sunshine<n>does us some good, you see.
+
+@34A0C max=359
+JP: 人間は紫外線を浴びることによって<n>自分の体の中でビタミンＤを作り出せる。
+EN: Exposure to ultraviolet light allows humans<n>to make vitamin D in their own bodies.
+
+@34B74 max=359
+JP: ＢＨＣが、<n>ベンゼン・ヘキサ・クロライドだということを。<p>虫はこれで逃げ出すわけだがね。
+EN: Did you know BHC stands for<n>benzene hexachloride?<p>That certainly sends the bugs packing, you see.
+
+@34CDC max=359
+JP: 虫除けのＢＨＣとは<n>ベンゼン・ヘキサ・クロライドのことである。
+EN: The insect repellent BHC<n>stands for benzene hexachloride.
+
+@34E44 max=359
+JP: 細胞分裂には<n>持って生まれた回数制御があるということを。<p>ま、それをつかさどるＤＮＡを<n>テロメアというんだがね。
+EN: Did you know cells have a built-in limit<n>on how many times they can divide?<p>Well, the DNA that governs that limit<n>is called a telomere, you see.
+
+@34FAC max=359
+JP: 細胞分裂には持って生まれた回数制御がある。<n>それをつかさどるＤＮＡを<n>テロメアという。
+EN: Cells have a built-in limit on how many times they can divide.<n>The DNA that governs this limit<n>is called a telomere.
+
+@35114 max=359
+JP: １ペタトンが、１メガトン、１ギガトンより<n>重いということを。<p>どれもその重さをリアルには<n>ピンとこないかもしれないがね。
+EN: Did you know one petaton is heavier<n>than one megaton or one gigaton?<p>Mind you, any of those weights<n>is rather hard to picture.
+
+@3527C max=359
+JP: １ペタトンは１０の１２乗トン。<n>１ギガトンは１０の９乗トン。<n>１メガトンは１０の６乗トン。
+EN: One petaton is 10^12 tons.<n>One gigaton is 10^9 tons.<n>One megaton is 10^6 tons.
+
+@353E4 max=359
+JP: 一言で日焼けといっても、<n>サンタンとサンバーンの二種類あることを。<p>ま、紫外線Ａが皮膚に当たって<n>メラニン色素が作られるのがサンタン、<p>紫外線Ｂによって<n>皮膚が炎症を起こすのがサンバーンなんだがね。
+EN: Did you know the sun can affect your skin in two ways:<n>a suntan and a sunburn?<p>A suntan occurs when UVA rays hit the skin<n>and cause it to produce melanin pigment.<p>A sunburn is inflammation of the skin<n>caused by UVB rays, you see.
+
+@3554C max=359
+JP: 日焼にはサンタンとサンバーンの二種類がある。<n>紫外線Ａが皮膚に当たって<n>メラニン色素が作られるのがサンタン、<n>紫外線Ｂによって<n>皮膚が炎症を起こすのがサンバーン。
+EN: Sun exposure can cause a suntan or a sunburn.<n>UVA rays cause the skin<n>to produce melanin pigment, resulting in a suntan.<n>UVB rays cause inflammation of the skin,<n>resulting in a sunburn.
+
+@356B4 max=359
+JP: 等速直進運動というのは、一定のスピードで<n>一直線上を動く運動のことだということを。<p>ま、簡単に言うと、まっすぐのレールの上を走る<n>電車なんかがそうなんだがね。
+EN: Did you know uniform linear motion means moving<n>in a straight line at a constant speed?<p>Put simply, a train traveling along straight rails<n>at a steady speed is a good example.
+
+@3581C max=359
+JP: 等速直進運動とは、一定のスピードで<n>一直線上を動く運動のことである。
+EN: Uniform linear motion means moving at a constant speed<n>in a straight line.
+
+@35984 max=359
+JP: サイボーグがサイバネティクス・オーガニズムの<n>略語であったということを。<p>オーガニズムというのは有機体、<n>いわゆる生物のことなんだがね。
+EN: Did you know 'cyborg' is short for<n>'cybernetic organism'?<p>An organism is an organic being,<n>or simply a living thing, you see.
+
+@35AEC max=359
+JP: サイボーグは<n>サイバネティクス・オーガニズムの略語である。<n>オーガニズムは、有機体という意味。
+EN: 'Cyborg' is short for<n>'cybernetic organism.'<n>An organism is a living thing.
+
+@35C54 max=359
+JP: 進化論で有名なダーウィンは、<n>軍艦に乗って世界を回っていたということを。<p>ま、だからこそ世界中のデータを<n>集めて研究できたわけだけどね。
+EN: Did you know Darwin, famous for his theory of evolution,<n>traveled around the world aboard a warship?<p>That's how he was able to gather data<n>from all over the world for his research, you see.
+
+@35DBC max=359
+JP: 進化論で有名なダーウィンは、<n>軍艦に乗って世界を回っていた。
+EN: Darwin, famous for his theory of evolution,<n>traveled around the world aboard a warship.
+
+@35F24 max=359
+JP: 電流を測る単位はアンペア、<n>電圧を測る単位はボルトだってことを。<p>ま、どっちも日常生活では<n>あまり計ることはないけどね。
+EN: Did you know electric current is measured in amperes,<n>and voltage in volts?<p>Mind you, neither is something<n>we measure very often in everyday life.
+
+@3608C max=359
+JP: 電流を測る単位はアンペア、<n>電圧を測る単位はボルト。
+EN: Electric current is measured in amperes,<n>and voltage in volts.
+
+@361F4 max=359
+JP: タツノオトシゴは<n>オスが出産し子育てするってことを。<p>ま、卵を体の袋に<n>産み付けられてしまうからなんだけどね。
+EN: Did you know it's the male seahorse<n>that gives birth and raises the young?<p>You see, the eggs are laid<n>in a pouch on his body.
+
+@3635C max=359
+JP: タツノオトシゴは、<n>メスがオスの体の袋に卵を産み付けるため<n>オスが出産する。
+EN: In seahorses,<n>the female lays eggs in a pouch on the male's body,<n>so it is the male that gives birth.
+
+@364C4 max=359
+JP: 黄金分割が１：１．６１８であることを。<p>この比率に調和感や落ち着きを<n>感じるというわけなんだがね。
+EN: The golden ratio is 1:1.618.<p>We tend to find this ratio<n>harmonious and soothing, you see.
+
+@3662C max=359
+JP: 調和感や落ち着きを感じる黄金分割は<n>１：１．６１８である。
+EN: The golden ratio, which feels harmonious and soothing,<n>is 1:1.618.
+
+@36794 max=359
+JP: それ以上分解できない物質のことを単体、<n>そしてそれ以上分けられない物質の<p>最小の粒のことを原子と呼ぶことを。<p>ま、それ以上分けようとも思わないんだがね。
+EN: A substance that cannot be broken down further is an element.<n>And its smallest indivisible particle...<p>Is what we call an atom.<p>Well, I've no desire to split it any further myself.
+
+@368FC max=359
+JP: それ以上分解できない物質のことを単体と呼び、<n>それ以上分けられない物質の最小の粒のことを<n>原子と呼ぶ。
+EN: A substance that cannot be broken down further is called an element.<n>The smallest indivisible particle of a substance<n>is called an atom.
+
+@36A64 max=359
+JP: 太陽を中心として、<n>金星は地球より内側を回っているということを。<p>ま、こういう惑星のことを内惑星と呼ぶんだがね。
+EN: Venus travels around the sun<n>in an orbit inside Earth's.<p>We call such planets inferior planets, you see.
+
+@36BCC max=359
+JP: 太陽を中心として、<n>地球より内側を回っている惑星を<n>内惑星と呼ぶ。
+EN: Planets that orbit the sun<n>inside Earth's orbit<n>are called inferior planets.
+
+@36D34 max=359
+JP: ダイヤモンド１カラットが０．２ｇだということを。<p>グラムで表現すると<n>ダイアモンドの心理的価値は落ちる気もするがね。
+EN: One carat of diamond weighs 0.2 grams.<p>Somehow, describing diamonds in grams<n>takes a little of the sparkle out of them.
+
+@36E9C max=359
+JP: ダイヤモンドの単位、<n>１カラットは０．２ｇである。
+EN: The carat is a unit used for diamonds.<n>One carat equals 0.2 grams.
+
+@37004 max=359
+JP: サルは他のサルの毛づくろいをしながら<n>塩も食べているということを。<p>ま、身体に出てきた塩分を<n>拾って食べているということなんだがね。
+EN: Monkeys eat salt<n>while grooming other monkeys.<p>They pick off and eat the salt<n>that comes out onto the skin, you see.
+
+@3716C max=359
+JP: サルは他のサルの毛づくろいをしながら<n>身体に出てきた、塩分も食べている。
+EN: While grooming other monkeys,<n>monkeys also eat salt that has come out onto the skin.
+
+@372D4 max=359
+JP: 史上初の有人宇宙飛行は、旧ソ連の<n>ヴォストーク１号によって成されたということを。<p>ま、そのとき乗っていたのがガガーリンで、<n>地球は青かったという名文句を言ったのだがね。
+EN: The first human spaceflight was made<n>aboard the Soviet Union's Vostok 1.<p>Gagarin was the man aboard, you see.<n>He's famous for saying, "The Earth was blue."
+
+@3743C max=359
+JP: 史上初の有人宇宙飛行は、旧ソ連の<n>ヴォストーク１号によって成された。<n>そのとき乗っていたのがガガーリンで、<n>「地球は青かった」という言葉は有名。
+EN: The first human spaceflight was made<n>aboard the Soviet Union's Vostok 1.<n>Gagarin was aboard, and his words,<n>"The Earth was blue," became famous.
+
+@375A4 max=359
+JP: 天然水は硬度が高いほど<p>カルシウムとマグネシウムが<n>多く含まれていることを。<p>ま、栄養分としては大事だが、<n>多すぎるとおいしくないんだがね。
+EN: The harder natural water is...<p>The more calcium and magnesium<n>it contains.<p>Those are important nutrients, of course,<n>but too much spoils the taste.
+
+@3770C max=359
+JP: 硬度とは、水に含まれる<n>カルシウムとマグネシウムの量を表す。<n>硬度が高いほど、含有量が多い。
+EN: Water hardness measures the amount<n>of calcium and magnesium in water.<n>The harder the water, the more it contains.
+
+@37874 max=359
+JP: 酸化物から酸素を取り除く化学変化を<n>還元と呼ぶことを。<p>ま、化学の実験では必ずやったもんだけどね。
+EN: The chemical change that removes oxygen from an oxide<n>is called reduction.<p>That was always part of our chemistry experiments, you know.
+
+@379DC max=359
+JP: 酸化物から酸素を取り除く化学変化を還元と呼ぶ。
+EN: The chemical change that removes oxygen from an oxide is called reduction.
+
+@37B44 max=359
+JP: 生体のたんぱく質を構成するアミノ酸は、<n>すべてＬー型片手構造だってことを。<p>また、遺伝子を構成する糖は<n>すべてＤー型だってことを。<p>ま、なぜそうなのかは誰も知らないんだがね。
+EN: The amino acids that make up proteins in living things<n>all have L-handed structures.<p>And the sugars that make up genetic material<n>are all D-handed.<p>Why that is, though, nobody knows.
+
+@37CAC max=359
+JP: 生体のたんぱく質を構成するアミノ酸は、<n>すべてＬー型片手構造であり、<n>遺伝子を構成する糖はすべてＤー型である。
+EN: The amino acids that make up proteins in living things<n>all have L-handed structures,<n>while the sugars in genetic material are all D-handed.
+
+@37E14 max=359
+JP: ユークリッドが幾何学の父であることを。<p>母はどこにいるのかは気になるとこだがね。
+EN: Euclid is the father of geometry.<p>It does make one wonder where its mother is.
+
+@37F7C max=359
+JP: ユークリッドは幾何学の父と呼ばれている。
+EN: Euclid is known as the father of geometry.
+
+@380E4 max=359
+JP: 金魚も風邪を引くってことを。<p>極端に冷たい水温で飼い続けると<n>動きがにぶくなり、食欲もなくなって、<p>ま、風邪のような症状ということなんだがね。
+EN: Even goldfish can catch a cold.<p>Keep them in extremely cold water for too long,<n>and they grow sluggish and lose their appetite...<p>Well, they develop symptoms rather like a cold, you see.
+
+@3824C max=359
+JP: 金魚を<n>極端に冷たい水温で飼い続けると<n>動きがにぶくなり、食欲もなくなって、<n>風邪のような症状をおこす。
+EN: Goldfish kept<n>in extremely cold water for too long<n>grow sluggish and lose their appetite,<n>developing symptoms like a cold.
+
+@383B4 max=359
+JP: 貝柱の役目は、二枚の貝が<n>開き過ぎないように調節することなんだってことを。<p>ま、おいしいからそれだけでも<n>役目は十分なんだけどね。
+EN: A shellfish's adductor muscle keeps<n>its two shells from opening too far.<p>Mind you, being delicious<n>is quite a worthwhile job in itself.
+
+@3851C max=359
+JP: 貝柱の役目は、二枚の貝が<n>開き過ぎないように調節することである。
+EN: A shellfish's adductor muscle keeps<n>its two shells from opening too far.
+
+@38684 max=359
+JP: クォークがジェームズ・ジョイスの小説から<n>命名されたということを。<p>ハドロンを構成する基本的な粒子のことなんだがね。
+EN: Quarks got their name<n>from a novel by James Joyce.<p>They're the fundamental particles that make up hadrons, you see.
+
+@387EC max=359
+JP: クォークはジェームズ・ジョイスの<n>小説から命名された。<n>クォークは、ハドロンを構成する粒子のこと。
+EN: Quarks were named after a word<n>in a novel by James Joyce.<n>Quarks are particles that make up hadrons.
+
+@38954 max=359
+JP: 東京ドームの４００トンもある屋根を支えているのは、<n>空気だってことを。<p>ま、空気といってもドーム内の気圧を高くして<n>支えているってことなんだけどね。
+EN: Tokyo Dome's roof weighs a full 400 metric tons,<n>and it's held up by air.<p>The air pressure inside the dome is kept high<n>to support it, you see.
+
+@38ABC max=359
+JP: 東京ドームの４００トンもある屋根を<n>支えているのは、空気である。<n>ドーム内の気圧を高くして支えている。
+EN: Tokyo Dome's roof weighs 400 metric tons<n>and is supported by air.<n>High air pressure inside the dome holds it up.
+
+@38C24 max=359
+JP: 有機物を無機物に分解する生物を<n>分解者ということを。<p>ま、細菌類や菌類がこれにあたるんだがね。
+EN: Organisms that break organic matter down into inorganic matter<n>are called decomposers.<p>Bacteria and fungi fit the bill, you see.
+
+@38D8C max=359
+JP: 有機物を無機物に分解する生物を<n>分解者という。<n>細菌類や菌類がこれにあたる。
+EN: Organisms that break organic matter down into inorganic matter<n>are called decomposers.<n>These include bacteria and fungi.
+
+@38EF4 max=359
+JP: ローラースケートが<n>ベルギーのジョセフ・メルリンによって<p>発明されたということを。<p>１７００年代中盤のことなんだがね。
+EN: Roller skates were invented<n>by a Belgian...<p>A fellow named Joseph Merlin.<p>Back in the mid-1700s, you see.
+
+@3905C max=359
+JP: ローラースケートは<n>ベルギーのジョセフ・メルリンによって<n>発明された。
+EN: Roller skates were invented<n>by Joseph Merlin,<n>a Belgian.
+
+@391C4 max=359
+JP: シロアリはアリじゃないってことを。<p>実は、ゴキブリの仲間ということなんだがね。
+EN: Termites aren't ants at all.<p>They're actually relatives of cockroaches, you see.
+
+@3932C max=359
+JP: シロアリはアリではなく、<n>ゴキブリの仲間。
+EN: Termites aren't ants.<n>They're relatives of cockroaches.
+
+@39494 max=359
+JP: 落花生は地中で育つということを。<p>まるで、花が落ちた地面のところに<n>サヤができるように見えるから<p>落花生と言われているんだがね。
+EN: Peanuts grow underground.<p>The pods seem to form in the ground<n>right where the flowers fall.<p>That's why their Japanese name means "fallen-flower nuts."
+
+@395FC max=359
+JP: 落花生は、地中にサヤができて豆が育つ。<n>まるで、花が落ちた地面のところに<n>サヤができているように見えるため、<n>落花生という名になっている。
+EN: Peanut pods form underground, where the nuts grow.<n>The pods seem to form in the ground<n>right where the flowers fall, hence their Japanese name,<n>rakkasei: "fallen-flower nuts."
+
+@39764 max=359
+JP: 確率論は、シュバリエ・ド・メレが<n>パスカルに相談をもちかけて<p>生まれた数学理論だということを。<p>シュバリエは賭け事をする人だったわけだがね。
+EN: Chevalier de Mere once<n>asked Pascal for some advice.<p>That's how the mathematical theory of probability was born.<p>The chevalier was a gambling man, you see.
+
+@398CC max=359
+JP: 賭け事好きのシュバリエ・ド・メレが<n>パスカルに相談したことから、確率論は生まれた。
+EN: Probability theory was born when the keen gambler<n>Chevalier de Mere asked Pascal for advice.
+
+@39A34 max=359
+JP: 自ら光を発する星のことを恒星と呼ぶことを。<p>ま、太陽なんかがそうなんだけどね。
+EN: A celestial body that produces its own light is called a star.<p>Our sun is one example, you see.
+
+@39B9C max=359
+JP: 自ら光を発する星のことを恒星と呼ぶ。
+EN: A celestial body that produces its own light is called a star.
+
+@39D04 max=359
+JP: 泳ぐエビは、蝦と書き、<n>歩くエビは海老と書く、ということを。<p>ま、最近じゃ、蝦って言う字は<n>あまり使わなくなってしまったがね。
+EN: Did you know swimming shrimp are written "ebi" with one kanji,<n>while walking shrimp use two different kanji?<p>Mind you, the single-kanji spelling<n>isn't used much these days.
+
+@39E6C max=359
+JP: 泳ぐエビは、蝦と書き、歩くエビは海老と書く。
+EN: In Japanese, swimming shrimp use one kanji for "ebi," while walking shrimp use two.
+
+@39FD4 max=359
+JP: 津波が英語でもツナミだということを。<p>ちなみに台風はタイフーンから<n>きてるらしいのだがね。
+EN: Did you know English uses the Japanese word "tsunami" too?<p>Incidentally, the Japanese word "taifu" apparently<n>comes from "typhoon."
+
+@3A13C max=359
+JP: 津波は英語でも<n>Ｔｓｕｎａｍｉ（ツナミ）である。
+EN: The Japanese word "tsunami"<n>is also used in English.
+
+@3A2A4 max=359
+JP: 手のつめは足のつめより早く伸びるってことを。<p>イギリスの研究で３０パーセント程度<n>早いということが報告されているんだけどね。
+EN: Did you know fingernails grow faster than toenails?<p>A British study reported that they grow<n>about 30 percent faster.
+
+@3A40C max=359
+JP: 手のつめは足のつめより早く伸びる。<n>３０パーセント程度早い。
+EN: Fingernails grow faster than toenails.<n>About 30 percent faster, in fact.
+
+@3A574 max=359
+JP: １メートルと１ヤードでは<n>１メートルの方が長いということを。<p>なじみのない単位の方が長く感じやすいんだがね。
+EN: Did you know a meter<n>is longer than a yard?<p>Unfamiliar units tend to sound bigger, though.
+
+@3A6DC max=359
+JP: １メートルと１ヤードでは<n>１メートルの方が長い。<n>１ヤードは、０．９１４４メートル。
+EN: A meter<n>is longer than a yard.<n>One yard is 0.9144 meters.
+
+@3A844 max=359
+JP: 地球上の、水のほとんどが塩水、<n>つまり海水だってことを。<p>ま、つまり真水は<n>ほんの数パーセントしかないってことなんだけどね。
+EN: Did you know most of Earth's water is salt water,<n>or seawater, in other words?<p>That means fresh water accounts for<n>just a few percent of the total.
+
+@3A9AC max=359
+JP: 地球上の水のほとんどは海水である。<n>約９８パーセントを占める。
+EN: Most of Earth's water is seawater.<n>It accounts for about 98 percent.
+
+@3AB14 max=359
+JP: 双子葉類の花には、<n>合弁花と離弁花の二種類あることを。<p>ま、ツツジなんかは合弁花なんだけどね。
+EN: Did you know dicot flowers come in two types,<n>those with joined petals and those with separate petals?<p>Azaleas, for instance, have joined petals.
+
+@3AC7C max=359
+JP: 双子葉類の花には、合弁花と離弁花の二種類ある。
+EN: Dicot flowers have either joined petals or separate petals.
+
+@3ADE4 max=359
+JP: １９１３年にマリー・フェルプ・ジャコブが<n>特許をとったのがブラジャーだということを。<p>２枚のハンカチをリボンで<n>つないだだけのものだったんだがね。
+EN: Did you know Mary Phelps Jacob<n>patented the bra in 1913?<p>It was simply two handkerchiefs<n>tied together with ribbon.
+
+@3AF4C max=359
+JP: １９１３年にマリー・フェルプ・ジャコブが<n>ブラジャーの特許をとった。<n>当初は、２枚のハンカチをリボンで<n>つないだだけのものであった。
+EN: Mary Phelps Jacob<n>patented the bra in 1913.<n>At first, it was just two handkerchiefs<n>tied together with ribbon.
+
+@3B0B4 max=359
+JP: 暗闇で氷砂糖をいっきにつぶすと<n>光るっていうことを。<p>ま、砂糖の結晶に圧力をかけるから<n>光るってことなんだけどね。
+EN: Did you know crushing rock sugar sharply<n>in the dark makes it flash?<p>You see, pressure on the sugar crystals<n>makes them give off light.
+
+@3B21C max=359
+JP: 暗闇で氷砂糖をいっきにつぶすと光る。
+EN: Crushing rock sugar sharply in the dark makes it flash.
+
+@3B384 max=359
+JP: 二重らせんと命名したのが<n>ワトソンとクリックだということを。<p>デオキシリボ核酸の話だがね。
+EN: Did you know Watson and Crick<n>coined the name "double helix"?<p>For deoxyribonucleic acid, that is.
+
+@3B4EC max=359
+JP: ワトソンとクリックがデオキシリボ核酸を<n>二重らせんと命名した。
+EN: Watson and Crick named the structure of deoxyribonucleic acid<n>the "double helix."
+
+@3B654 max=359
+JP: 太陽の南中高度は<n>夏至のときもっとも大きいってことを。<p>ま、いちばん短いときが冬至なんだけどね。
+EN: Did you know the sun's noon height<n>is greatest at the summer solstice?<p>And lowest at the winter solstice, of course.
+
+@3B7BC max=359
+JP: 太陽の南中高度は夏至のときもっとも大きい。
+EN: The sun's noon height is greatest at the summer solstice.
+
+@3B924 max=359
+JP: ラー１世号、ラー２世号、コン・チキ号に<n>乗った探検隊を指揮した人物のことを。<p>トール・ヘイエルダールなんだがね。
+EN: Do you know who led the expeditions<n>aboard Ra I, Ra II and Kon-Tiki?<p>Thor Heyerdahl, as it happens.
+
+@3BA8C max=359
+JP: ラー１世号、ラー２世号、コン・チキ号に乗った<n>探検隊を指揮したのはトール・ヘイエルダール。
+EN: The expeditions aboard Ra I, Ra II and Kon-Tiki<n>were led by Thor Heyerdahl.
+
+@3BBF4 max=359
+JP: あじさいは、<n>植えられた場所の土が酸性だとピンク系、<p>アルカリ性だと青系の花が咲くってことを。<p>ま、酸性の土でも石灰をまけば<n>青の花を咲かせられるんだがね。
+EN: Did you know hydrangeas<n>produce pinkish flowers in acidic soil,<p>and bluish flowers in alkaline soil?<p>You can even get blue flowers in acidic soil<n>by adding lime.
+
+@3BD5C max=359
+JP: あじさいは、<n>植えられた場所の土が酸性だとピンク系、<n>アルカリ性だと青系の花が咲く。
+EN: Hydrangeas produce<n>pinkish flowers in acidic soil<n>and bluish flowers in alkaline soil.
+
+@3BEC4 max=359
+JP: 有機物に必ず含まれる元素が<n>炭素だということを。<p>しかも、ダイヤモンドも木炭も<n>どちらも炭素なんだがね。
+EN: Did you know carbon is an element<n>found in all organic matter?<p>And diamonds and charcoal<n>are both forms of carbon, too.
+
+@3C02C max=359
+JP: 有機物に必ず含まれる元素は炭素である。
+EN: Carbon is an element found in all organic matter.
+
+@3C194 max=359
+JP: 下手くそなバイオリンは、<n>ガラスをキーキーやる音と同じだってことを。<p>ま、いずれも周波数が不規則なので<n>人間の耳には不快に感じるってことなんだけどね。
+EN: Did you know badly played violin music<n>is like the sound of scraping glass?<p>Both have irregular frequencies,<n>which make them unpleasant to human ears.
+
+@3C2FC max=359
+JP: ガラスをキーキーやる音と<n>下手くそなバイオリンは同じである。<n>どちらも周波数が不規則なので<n>人間の耳には不快に感じる。
+EN: The sound of scraping glass<n>is like badly played violin music.<n>Both have irregular frequencies,<n>which make them unpleasant to human ears.
+
+@3C464 max=359
+JP: フクロウは、実は、<n>目玉があまり動かせないってことを。<p>ま、だからこそ、左右１８０度ずつも回る首を<n>持っているのだがね。
+EN: Did you know owls actually<n>can't move their eyes very much?<p>That's why their necks can turn<n>180 degrees in either direction.
+
+@3C5CC max=359
+JP: フクロウは、<n>左右１８０度ずつも回る首を持っているが<n>目玉はあまり動かせない。
+EN: Owls have necks<n>that can turn 180 degrees in either direction,<n>but they can't move their eyes very much.
+
+@3C734 max=359
+JP: ストリキニーネが<n>ストリキノス・ヌックス・ホミカの種から<p>採れるということを。<p>テトロドトキシンは<n>フグが持っているのだということを。<p>どちらも猛毒なんだがね。
+EN: Did you know strychnine<n>comes from the seeds<p>of Strychnos nux-vomica?<p>And tetrodotoxin<n>is found in pufferfish?<p>Both are deadly poisons, you see.
+
+@3C89C max=359
+JP: 猛毒ストリキニーネは<n>ストリキノス・ヌックス・ホミカの種から採れる。<n>猛毒テトロドトキシンはフグが持っている。
+EN: The deadly poison strychnine<n>comes from the seeds of Strychnos nux-vomica.<n>The deadly poison tetrodotoxin is found in pufferfish.
+
+@3CA04 max=359
+JP: ろうそくの炎の一番熱いところは、<n>炎の一番上の部分だってことを。<p>芯のそばの温度の、ま、５倍近い温度なんだけどね。
+EN: Did you know the hottest part of a candle flame<n>is right at the top?<p>It's nearly five times as hot as the area near the wick.
+
+@3CB6C max=359
+JP: ろうそくの炎の一番熱いところは、<n>炎の一番上の部分である。<n>芯のそばの５倍近い温度になる。
+EN: The hottest part of a candle flame<n>is right at the top.<n>It's nearly five times as hot as the area near the wick.
+
+@3CCD4 max=359
+JP: 缶詰の進化に<n>ナポレオンが貢献したということを。<p>缶を開けるときにはナポレオンを想え、<n>というわけではないがね。
+EN: Did you know Napoleon helped<n>bring about the development of canned food?<p>No need to think of him every time you open a can,<n>mind you.
+
+@3CE3C max=359
+JP: ナポレオンは軍隊の食料を確保するために<n>新たな食品の貯蔵方法を公募した。<n>そうして、生まれたのが缶詰である。
+EN: Napoleon called for new ways to preserve food<n>to keep his army supplied.<n>That led to the invention of canned food.
+
+@3CFA4 max=359
+JP: マグロは時速６０キロ程のスピードで<n>ずっと泳ぎ続けているということを。<p>ま、泳ぎを止めると死んでしまうんだがね。
+EN: Did you know tuna keep swimming nonstop<n>at around 60 kilometers per hour?<p>They die if they stop swimming, you see.
+
+@3D10C max=359
+JP: マグロは、泳ぎを止めると死んでしまうため、<n>時速６０キロ程のスピードで、<n>ずっと泳ぎ続けている。<n>
+EN: Tuna die if they stop swimming,<n>so they keep going nonstop<n>at around 60 kilometers per hour.<n>
+
+@3D274 max=359
+JP: 天気図を世界で初めて作ったのが<n>ドイツだということを。<p>１８２０年のことなんだがね。
+EN: Did you know the world's first weather map<n>was made in Germany?<p>In 1820, as it happens.
+
+@3D3DC max=359
+JP: 世界で初めて天気図が作られたのはドイツである。
+EN: The world's first weather map was made in Germany.
+
+@3D544 max=359
+JP: 地球が生まれたとき、<n>一日はわずか５時間ほどしかなかったということを。<p>ま、地球の自転は少しずつ遅くなっているから、<n>４５億年たった今では２４時間もあるんだがね。
+EN: Did you know that when Earth was born,<n>a day lasted only about five hours?<p>Well, Earth's rotation has gradually slowed down,<n>so 4.5 billion years later, a day lasts 24 hours.
+
+@3D6AC max=359
+JP: 地球が誕生したとき、<n>一日はわずか５時間ほどしかなかった。<n>地球の自転は少しずつ遅くなっているため、<n>４５億年たった今では２４時間もある。
+EN: When Earth was born,<n>a day lasted only about five hours.<n>Earth's rotation has gradually slowed down,<n>so 4.5 billion years later, a day lasts 24 hours.
+
+@3D814 max=359
+JP: 三角形の内角の和はニ直角であることを<n>証明したフランス人が<p>世界で最初の計算機を考えだしたのだということを。<p>みなさまご存知、パスカルなんだがね。
+EN: Did you know the Frenchman who proved<n>that a triangle's angles add up to 180 degrees<p>also devised the world's first calculator?<p>None other than Pascal, of course.
+
+@3D97C max=359
+JP: パスカルは三角形の内角の和がニ直角であることを<n>証明し、また、世界で最初の計算機を考えだした。
+EN: Pascal proved that a triangle's angles add up to 180 degrees<n>and also devised the world's first calculator.
+
+@3DAE4 max=359
+JP: 気圧を測る単位をヘクトパスカルということを。<p>ま、台風なんかのニュースで<n>きいたことがあるかもしれないがね。
+EN: Did you know air pressure is measured in hectopascals?<p>Well, you may have heard the term<n>in weather reports about typhoons.
+
+@3DC4C max=359
+JP: 気圧を測る単位はヘクトパスカル。
+EN: Air pressure is measured in hectopascals.
+
+@3DDB4 max=359
+JP: 子房のある植物を被子植物、<n>ない植物を裸子植物と呼ぶことを。<p>ま、松や杉なんかが裸子植物なんだけどね。
+EN: Did you know plants with ovaries are called angiosperms,<n>while those without are called gymnosperms?<p>Pines and cedars are gymnosperms, you see.
+
+@3DF1C max=359
+JP: 子房のある植物を被子植物、<n>ない植物を裸子植物と呼ぶ。
+EN: Plants with ovaries are called angiosperms,<n>while those without are called gymnosperms.
+
+@3E084 max=359
+JP: 味噌や醤油がコウジカビからできていることを。<p>コウジカビは日本酒もつくるのだがね。
+EN: Did you know miso and soy sauce are made using koji mold?<p>It's used to make sake, too, you see.
+
+@3E1EC max=359
+JP: 味噌や醤油はコウジカビからできている。
+EN: Miso and soy sauce are made using koji mold.
+
+@3E354 max=359
+JP: 天体からの光と、<n>それを観測するものが相対的に速度を持つ場合、<p>光は本来の方向より前に傾いた方向から来るように<n>見えるということを。<p>ま、この現象を<n>いわゆる光行差と呼んでいるわけだがね。
+EN: Did you know that when an observer moves<n>relative to light arriving from a celestial body,<p>the light seems to come from a direction tilted<n>forward from its true direction?<p>Well, this phenomenon<n>is known as the aberration of light.
+
+@3E4BC max=359
+JP: 天体からの光と、<n>それを観測するものが相対的に速度を持つ場合、<n>光は本来の方向より前に傾いた方向から<n>来るように見える現象を「光行差」という。
+EN: When an observer moves relative to light<n>arriving from a celestial body,<n>the light appears to come from a direction tilted forward.<n>This is called the aberration of light.
+
+@3E624 max=359
+JP: 一生の間に取った特許の数が、<n>３００以上もあるというスウェーデン人のことを。<p>あの、ノーベル賞のノーベル、だがね。
+EN: Did you know there was a Swede<n>who earned over 300 patents in his lifetime?<p>Nobel, you see. The Nobel Prize fellow.
+
+@3E78C max=359
+JP: ノーベル賞のノーベルは<n>生涯、３００も特許を取った。
+EN: Nobel, the man behind the Nobel Prize,<n>earned 300 patents in his lifetime.
+
+@3E8F4 max=359
+JP: 地球の中心部が固体であるということを。<p>そして地核と核の間には<n>マントルがあるということを。<p>まぁ、この目で見ることはできないわけだがね。
+EN: Did you know the very center of Earth is solid?<p>And that between the crust and the core,<n>there is a layer called the mantle?<p>Well, we can't exactly see it for ourselves.
+
+@3EA5C max=359
+JP: 地球の中心部は固体であり、<n>地核と核の間にはマントルがある。
+EN: The very center of Earth is solid,<n>and the mantle lies between the crust and the core.
+
+@3EBC4 max=359
+JP: 音速の壁はチェック・イエーガーによって<n>破られたということを。<p>１９４７年のことなんだがね。
+EN: Did you know the sound barrier<n>was broken by Chuck Yeager?<p>That was back in 1947, you see.
+
+@3ED2C max=359
+JP: 音速の壁は、１９４７年<n>チェック・イエーガーによって破られた。
+EN: The sound barrier was broken in 1947<n>by Chuck Yeager.
+
+@3EE94 max=359
+JP: 雷は強いものになると、<n>なんと電圧が十億ボルトにもなるということを。<p>ま、さらに雷の通過した空気は<n>一万度もの高温になるんだがね。
+EN: Did you know a powerful bolt of lightning<n>can reach a billion volts?<p>What's more, the air it passes through<n>can reach a scorching 10,000 degrees Celsius.
+
+@3EFFC max=359
+JP: 雷は電圧が十億ボルトにもなる。<n>さらに雷の通過した空気は<n>一万度もの高温になる。
+EN: Lightning can reach a billion volts.<n>The air it passes through<n>can reach 10,000 degrees Celsius.
+
+@3F164 max=359
+JP: アインシュタインの脳が、<n>トマス・ハーベイ博士の家に<p>隠されていたということを。<p>天才の脳は死んでも休まらないってことだがね。
+EN: Did you know Einstein's brain<n>was hidden away in the home of<p>a certain Dr. Thomas Harvey?<p>Even in death, a genius's brain gets no peace.
+
+@3F2CC max=359
+JP: アインシュタインの解剖を担当した<n>トマス・ハーベイ博士は、<n>アインシュタインの脳を家に隠し持っていた。
+EN: Dr. Thomas Harvey, who performed<n>Einstein's autopsy,<n>secretly kept Einstein's brain at home.
+
+@3F434 max=359
+JP: ヨーロッパ産のミネラルウォーターは<n>まったく防腐処理されていない、ということを。<p>ま、逆に言うと手を加えてしまったものは<n>ミネラルウォーターとして認められないんだがね。
+EN: Did you know European mineral water<n>receives no treatment to prevent spoilage?<p>Well, if it did receive such treatment,<n>it couldn't be called mineral water.
+
+@3F59C max=359
+JP: ヨーロッパ産のミネラルウォーターは<n>まったく防腐処理されていない。
+EN: European mineral water<n>receives no treatment to prevent spoilage.
+
+@3F704 max=359
+JP: アインシュタインは生前、<n>１５００ドルもの小切手が何だかわからずに<p>本のしおりにしていたことを。<p>天才ゆえの無知だがね。
+EN: Did you know Einstein once used<n>a check worth a whole $1,500<p>as a bookmark, unaware of what it was?<p>Such is the absentmindedness of genius.
+
+@3F86C max=359
+JP: アインシュタインは生前、<n>１５００ドルもの小切手が何だかわからずに<n>本のしおりにしていた。
+EN: Einstein once used<n>a check worth $1,500 as a bookmark,<n>unaware of what it was.
+
+@3F9D4 max=359
+JP: じゃがいもにヨウ素液をつけると<n>紫色に変色することを。<p>ま、化学の実験で誰もが経験する<n>ヨウ素デンプン反応とはこのことなんだがね。
+EN: Did you know putting iodine solution on a potato<n>turns it purple?<p>Well, that's the iodine-starch reaction<n>so familiar from school chemistry experiments.
+
+@3FB3C max=359
+JP: じゃがいもにヨウ素液をつけると<n>紫色に変色することを<n>ヨウ素デンプン反応という。
+EN: When iodine solution turns a potato<n>purple, that's called<n>the iodine-starch reaction.
+
+@3FCA4 max=359
+JP: １カイリが１．８５２ｋｍであることを。<p>もちろん海上での単位だがね。
+EN: Did you know one nautical mile equals 1.852 kilometers?<p>A unit used at sea, of course.
+
+@3FE0C max=359
+JP: １カイリは１．８５２ｋｍ。
+EN: One nautical mile equals 1.852 kilometers.
+
+@3FF74 max=359
+JP: ベラという魚は、性転換するということを。<p>ま、メスばかりの集団ができると、<n>大きな固体が性転換しハーレムを維持するという<p>習性があるからなんだけどね。
+EN: Did you know wrasses can change sex?<p>Well, when a group has only females,<n>a larger fish changes sex<p>to keep the harem going, you see.
+
+@400DC max=359
+JP: ベラという魚は、性転換する。<n>メスばかりの集団ができると、<n>大きな固体が性転換しハーレムを維持するという<n>習性がある。
+EN: Wrasses can change sex.<n>When a group has only females,<n>a larger fish changes sex<n>to maintain the harem.
+
+@40244 max=359
+JP: レイディオ・ディテクション・アンド・レインジング<n>を略すと何というかを。<p>レーダーなんだがね。
+EN: Do you know what Radio Detection and Ranging<n>is abbreviated to?<p>Radar, you see.
+
+@403AC max=359
+JP: レーダーは<n>レイディオ・ディテクション・<n>アンド・レインジングの略。
+EN: Radar is short for<n>Radio Detection<n>and Ranging.
+
+@40514 max=359
+JP: ハレー彗星の中身は、巨大な氷の塊だってことを。<p>ま、長年飛び続けているから<n>真っ黒に汚れているんだけどね。
+EN: Did you know Halley's Comet has a huge lump of ice inside?<p>Well, after all those years flying through space,<n>it's become filthy and black.
+
+@4067C max=359
+JP: ハレー彗星の中身は、巨大な氷の塊である。<n>長年飛び続けているため、チリなどで<n>真っ黒に汚れてしまった。
+EN: Halley's Comet has a huge lump of ice inside.<n>After many years flying through space, dust and debris<n>have left it filthy and black.
+
+@407E4 max=359
+JP: 重力を測る単位がニュートン、ということを。<p>約１００グラムの物体にかかる重力の大きさを、<n>１ニュートン、とするんだがね。
+EN: Did you know gravitational force is measured in newtons?<p>The force of gravity on an object weighing about 100 grams<n>is one newton, you see.
+
+@4094C max=359
+JP: 重力を測る単位をニュートンという。<n>約１００グラムの物体にかかる重力の大きさは<n>１ニュートン。
+EN: Gravitational force is measured in newtons.<n>The force of gravity on an object weighing about 100 grams<n>is one newton.
+
+@40AB4 max=359
+JP: ステンレスが<n>イギリス人のハリー・ブリアリーによって<p>発明されたものだということを。<p>１９１３年のことなんだがね。
+EN: Did you know stainless steel<n>was invented by an Englishman,<p>Harry Brearley?<p>Back in 1913, you see.
+
+@40C1C max=359
+JP: ステンレスは<n>イギリス人のハリー・ブリアリーによって<n>発明された。
+EN: Stainless steel<n>was invented by the Englishman<n>Harry Brearley.
+
+@40D84 max=359
+JP: どんなに運動しても、<n>脂肪は筋肉には変わらないってことを。<p>筋肉の原料はたんぱく質なので、<n>脂肪からは変化し得ないってことを。<p>ま、脂肪は運動時のエネルギーにはなるんだけどね。
+EN: No matter how much you exercise,<n>fat never turns into muscle.<p>Muscle is made from protein,<n>so fat can't turn into it, you see.<p>Mind you, fat does provide energy during exercise.
+
+@40EEC max=359
+JP: 筋肉の原料はたんぱく質なので、<n>どんなに運動しても脂肪は筋肉には変化しない。
+EN: Muscle is made from protein,<n>so no amount of exercise can turn fat into muscle.
+
+@41054 max=359
+JP: 気体の体積は圧力に反比例することを。<p>ま、それがボイルの法則なんだがね。
+EN: A gas's volume is inversely proportional to its pressure.<p>That's Boyle's law, you see.
+
+@411BC max=359
+JP: ボイルの法則とは、<n>一定温度の気体の体積は、<n>圧力に反比例すること。
+EN: Boyle's law states that,<n>at a constant temperature, a gas's volume<n>is inversely proportional to its pressure.
+
+@41324 max=359
+JP: 回路に流れる電流は電圧に比例するってことを。<p>ま、それがオームの法則なんだけどね。
+EN: The current flowing through a circuit is proportional to the voltage.<p>That's Ohm's law, you see.
+
+@4148C max=359
+JP: オームの法則とは、<n>回路に流れる電流は電圧に比例する。
+EN: Ohm's law states that<n>the current flowing through a circuit is proportional to the voltage.
+
+@415F4 max=359
+JP: バックミンスター・フラーとは誰かを。<p>ジオデシック・ドームを<n>考え出した建築家なんだがね。
+EN: Do you know who Buckminster Fuller was?<p>He was the architect who came up with<n>the geodesic dome, you see.
+
+@4175C max=359
+JP: ジオデシック・ドームを考え出した建築家は<n>バックミンスター・フラーである。<n>建築家であり、数学者でもあった。
+EN: The architect who came up with the geodesic dome<n>was Buckminster Fuller.<n>He was also a mathematician.
+
+@418C4 max=359
+JP: 生物は細胞分裂によって<n>一定の大きさまで成長していくということを。<p>ま、ゾウリムシなんかの単細胞生物は、<n>細胞分裂すると数が増えちゃうんだけどね。
+EN: Living things grow to a certain size<n>through cell division.<p>Of course, in single-celled organisms like paramecia,<n>cell division increases their numbers instead.
+
+@41A2C max=359
+JP: 生物は細胞分裂によって<n>一定の大きさまで成長していく。
+EN: Living things grow to a certain size<n>through cell division.
+
+@41B94 max=359
+JP: クローンを作っても、自分に近い友人などには<n>すぐ偽者だとばれてしまうと言うことを。<p>ま、人間の個性は後天的なものだから、<n>遺伝子が同じでも違う個体ということなんだがね。
+EN: Even if you made a clone of yourself, your close friends<n>would soon spot the impostor.<p>Personality develops through experience, you see.<n>Identical genes don't make you the same person.
+
+@41CFC max=359
+JP: クローンを作っても、自分に近い友人などには<n>すぐ偽者だとばれてしまう。<n>人間の個性は後天的なもののため、<n>遺伝子が同じでも違う個体ということになる。
+EN: Even if you made a clone of yourself, your close friends<n>would soon spot the impostor.<n>Personality develops through experience,<n>so identical genes don't make you the same person.
+
+@41E64 max=359
+JP: 地球上にいちばん多い化合物が水であることを。<p>それゆえに、水の惑星なわけだがね。
+EN: Water is the most abundant compound on Earth.<p>That's why we call it the water planet, you see.
+
+@41FCC max=359
+JP: 地球上にいちばん多い化合物は水である。
+EN: Water is the most abundant compound on Earth.
+
+@42134 max=359
+JP: 音は、空気中では１秒間に約３４０メートルという<n>速さで伝わるということを。<p>ま、これも気温によって変わるんだけどね。
+EN: Sound travels through air<n>at about 340 meters per second.<p>Though that does depend on the air temperature, you see.
+
+@4229C max=359
+JP: 音は、空気中では１秒間に約３４０メートルという<n>速さで伝わる。
+EN: Sound travels through air<n>at about 340 meters per second.
+
+@42404 max=359
+JP: 水銀が常温でも液体である<n>唯一の金属元素だということを。<p>最近では水銀の入った体温計も<n>とんと見なくなったわけだがね。
+EN: Mercury is the only metallic element<n>that's liquid at room temperature.<p>You hardly ever see thermometers<n>with mercury in them these days, though.
+
+@4256C max=359
+JP: 水銀は常温でも液体である唯一の金属元素である。
+EN: Mercury is the only metallic element that's liquid at room temperature.
+
+@426D4 max=359
+JP: 液体に溶けている物質のことを溶質、<n>その液体のことを溶媒と呼ぶことを。<p>ま、簡単に言うと、水に塩を溶かした場合、<n>その塩が溶質、水を溶媒ってことなんだがね。
+EN: A substance dissolved in a liquid is called the solute,<n>and the liquid is called the solvent.<p>Put simply, if you dissolve salt in water,<n>the salt is the solute and the water is the solvent.
+
+@4283C max=359
+JP: 液体に溶けている物質のことを溶質、<n>その液体のことを溶媒と呼ぶ。<n>水に塩を溶かした場合、<n>その塩が溶質、水を溶媒になる。
+EN: A substance dissolved in a liquid is called the solute,<n>and the liquid is called the solvent.<n>If you dissolve salt in water,<n>the salt is the solute and the water is the solvent.
+
+@429A4 max=359
+JP: バチルス・ナットー・サワムラが<n>稲わらにいるということを。<p>これが、稲わらに包んだ煮大豆を<n>納豆に変えてくれる張本人なんだがね。
+EN: Bacillus natto Sawamura<n>lives on rice straw.<p>It's the little fellow responsible for turning<n>boiled soybeans wrapped in rice straw into natto.
+
+@42B0C max=359
+JP: 納豆菌のバチルス・ナットー・サワムラは、<n>発見者である沢村博士の名から命名された。
+EN: The natto bacterium Bacillus natto Sawamura<n>was named after its discoverer, Dr. Sawamura.
+
+@42C74 max=359
+JP: タンポポが食べられるということを。<p>葉をおひたしなどに<n>根は炒るとコーヒーになるんだがね。
+EN: Dandelions are edible.<p>You can blanch the leaves for a side dish,<n>and roast the roots to make a coffee substitute.
+
+@42DDC max=359
+JP: タンポポは食べることができる。<n>葉はおひたしなどに<n>根は炒るとコーヒーの代わりになる。
+EN: Dandelions are edible.<n>The leaves can be blanched for a side dish,<n>and the roasted roots make a coffee substitute.
+
+@42F44 max=359
+JP: 尋常性座瘡、<n>という病気にかかる人のなんと多いことを。<p>ま、平たくいえばニキビなんだがね。
+EN: So many people suffer from a condition<n>called acne vulgaris.<p>Or plain old pimples, as most people call them.
+
+@430AC max=359
+JP: 若者がかかる病気、尋常性座瘡とは<n>ニキビのことである。
+EN: Acne vulgaris is a condition common among young people.<n>It's the medical term for pimples.
+
+@43214 max=359
+JP: 人間の骨の中でいちばん長いのは<n>大腿骨なんだということを。<p>ちなみにもっとも小さな骨は耳にある<n>アブミ骨なんだがね。
+EN: The longest bone in the human body<n>is the femur, or thighbone.<p>The smallest, incidentally, is the stapes,<n>or stirrup bone, inside your ear.
+
+@4337C max=359
+JP: 人間の骨の中でいちばん長いのは大腿骨、<n>もっとも小さいのは耳の中にあるアブミ骨。
+EN: The longest human bone is the femur, or thighbone.<n>The smallest is the stapes, or stirrup bone, inside the ear.
+
+@434E4 max=359
+JP: 地球上で、最初に酸素を放出したのは<n>海中のラン細菌だったってことを。<p>ま、長い年月をかけて<n>酸素が蓄積されてきたってことだがね。
+EN: The first organisms on Earth to release oxygen<n>were cyanobacteria living in the sea.<p>That oxygen gradually built up<n>over a very long time, you see.
+
+@4364C max=359
+JP: 地球上で、最初に酸素を放出したのは<n>海中のラン細菌だった。
+EN: The first organisms on Earth to release oxygen<n>were cyanobacteria living in the sea.
+
+@437B4 max=359
+JP: 光の速度は<n>デンマークの天文学者Ｏ・レーマーが<p>初めて測ったのだということを。<p>１６７６年のことなんだがね。
+EN: It was the Danish astronomer<n>Ole Roemer...<p>...who first measured the speed of light.<p>That was in 1676, you see.
+
+@4391C max=359
+JP: 光の速度を初めて測ったのは<n>デンマークの天文学者Ｏ・レーマーである。<n>１６７６年のこと。
+EN: The first person to measure the speed of light<n>was the Danish astronomer Ole Roemer.<n>He did so in 1676.
+
+@43A84 max=359
+JP: Ｈは水素、Ｏは酸素、<n>Ｆｅは鉄の原子記号だってことを。<p>ま、もう忘れちゃったと思うけどね。
+EN: H is the chemical symbol for hydrogen, O for oxygen,<n>and Fe for iron.<p>Though I suspect you've forgotten them already.
+
+@43BEC max=359
+JP: Ｈは水素、Ｏは酸素、Ｆｅは鉄の原子記号である。
+EN: H is the chemical symbol for hydrogen, O for oxygen, and Fe for iron.
+
+@43D54 max=359
+JP: 磁石盤には３２もの方位が示されていることを。<p>磁石盤をたよりにすると、<n>素人はかえって迷いそうなんだがね。
+EN: A compass rose shows no fewer than 32 directions.<p>With that many to choose from,<n>a novice might get even more lost!
+
+@43EBC max=359
+JP: 磁石盤には３２もの方位が示されている。
+EN: A compass rose shows no fewer than 32 directions.
+
+@44024 max=359
+JP: 唾液は、でんぷんを<n>糖に分解する力があるってことを。<p>ま、他にも唾液にはいろんな力があるんだけどね。
+EN: Saliva has the power to break down<n>starch into sugar.<p>Of course, that's just one of its many talents.
+
+@4418C max=359
+JP: 唾液は、でんぷんを糖に分解する力がある。
+EN: Saliva can break down starch into sugar.
+
+@442F4 max=359
+JP: 脳は切られても痛みを感じない、ってことを。<n>ま、脳そのものには痛感がないからなんだけどね。
+EN: The brain feels no pain, even when cut.<n>That's because brain tissue itself has no pain receptors.
+
+@4445C max=359
+JP: 脳は痛感がないので、<n>切られても痛みを感じない。
+EN: Brain tissue has no pain receptors,<n>so it feels no pain even when cut.
+
+@445C4 max=359
+JP: くしゃみは、<n>時速３２０ｋｍもの風速になるということを。<p>手でおさえるのはマナーというより、<n>周辺の人の身に危険をおよぼさないためだったかも、<p>ってことなんだがね。
+EN: A sneeze can blast air out<n>at a whopping 320 kilometers per hour.<p>Perhaps covering your mouth is less about manners<n>and more about keeping the people nearby safe...<p>...or so I like to think.
+
+@4472C max=359
+JP: くしゃみは、<n>時速３２０ｋｍもの風速になることがある。
+EN: A sneeze can blast air out<n>at up to 320 kilometers per hour.
+
+@44894 max=359
+JP: ４年に一度の閏日は、<n>１００年に一度だけ省かれる、ってことを。<p>ま、太陽暦にしたがうと、<n>さらに４００年に一度だけ省くのをやめないと<p>調整ができないんだけどね。
+EN: The leap day we add every four years<n>is skipped once every 100 years.<p>Mind you, to keep the solar calendar in step,<n>we must make an exception every 400 years...<p>...and keep that leap day after all.
+
+@449FC max=359
+JP: ４年に一度の閏日は１００年に一度だけ省かれる。
+EN: The leap day added every four years is skipped once every 100 years.
+
+@44B64 max=359
+JP: ユージン・デュボアが<n>ジャワ島で見つけたものが、<p>ピテカントロプス・エレクトスの骨だということを。<p>いわゆる直立猿人の骨のことだがね。
+EN: The bones Eugene Dubois discovered<n>on the island of Java...<p>...belonged to Pithecanthropus erectus.<p>The so-called upright ape-man, you see.
+
+@44CCC max=359
+JP: ピテカントロプス・エレクトスの骨は<n>ジャワ島でユージン・デュボアによって発見された。<n>いわゆるジャワ原人（直立猿人）のこと。
+EN: Eugene Dubois discovered the bones of<n>Pithecanthropus erectus on Java.<n>It is also known as Java Man, or the upright ape-man.
+
+@44E34 max=359
+JP: 生物の学名というのは、<n>ラテン語でつけられる、ということを。<p>ま、どんな生物も<n>学術上は世界共通の名前が必要だからね。
+EN: The scientific names of living things<n>are given in Latin.<p>Well, every species needs a name<n>that scientists around the world can agree on.
+
+@44F9C max=359
+JP: 生物の学名はラテン語でつけられる。
+EN: The scientific names of living things are given in Latin.
+
+@45104 max=359
+JP: ヒステリーの語源は、<n>ギリシア語の子宮だということを。<p>命名したのは、ヒポクラテスなんだがね。
+EN: The word "hysteria" comes from<n>the Greek word for "womb."<p>Hippocrates gave it that name, you see.
+
+@4526C max=359
+JP: ヒステリーは、<n>ギリシア語の子宮から<n>ヒポクラテスが命名した。
+EN: Hippocrates named hysteria<n>after the Greek word for "womb."
+
+@453D4 max=359
+JP: 二酸化マンガンとオキシドールで、<n>酸素が発生するということを。<p>二酸化炭素は石灰石に薄めの塩酸で<n>発生するんだけどね。
+EN: Manganese dioxide and hydrogen peroxide<n>produce oxygen.<p>Carbon dioxide, meanwhile, can be produced<n>with limestone and dilute hydrochloric acid.
+
+@4553C max=359
+JP: 二酸化マンガンとオキシドールで、<n>酸素が発生する。
+EN: Manganese dioxide and hydrogen peroxide<n>produce oxygen.
+
+@456A4 max=359
+JP: 人間の身体で毛穴が一番多いのは<n>顔であるということを。<p>約２０万個も穴があるんだがね。
+EN: The face has more pores<n>than any other part of the human body.<p>About 200,000 of them, you see.
+
+@4580C max=359
+JP: 人間の身体で毛穴が一番多いのは顔。<n>約２０万個もの毛穴がある。
+EN: The face has the most pores of any part of the human body.<n>It has about 200,000.
+
+@45974 max=359
+JP: 玉ねぎは精神安定剤になるということを。<p>ま、ねぎなどに含まれる硫化アリルという匂い成分に<n>そういう働きがあるってことなんだけどね。
+EN: Onions can help calm the mind.<p>You see, allyl sulfide, one of the substances<n>that give onions their smell, has a calming effect.
+
+@45ADC max=359
+JP: 玉ねぎに含まれる硫化アリルという匂い成分には、<n>精神を安定させる働きがある。
+EN: Allyl sulfide, a substance that gives onions their smell,<n>has a calming effect on the mind.
+
+@45C44 max=359
+JP: 細胞はロバート・フックが発見した<n>「小部屋」であるということを。<p>１６６５年のことなんだがね。
+EN: Cells are the "little chambers"<n>discovered by Robert Hooke.<p>That was back in 1665, you see.
+
+@45DAC max=359
+JP: ロバート・フックが発見した<n>「小部屋」は、細胞と名付けられた。
+EN: The "little chambers" discovered by Robert Hooke<n>were named cells.
+
+@45F14 max=359
+JP: 竹の子は、一日に約１００センチも<n>伸びることがあるってことを。<p>ま、じっと見ててもよくわからないんだけどね。
+EN: Bamboo shoots can grow<n>about 100 centimeters in a single day.<p>Mind you, you can hardly tell<n>just by sitting there watching.
+
+@4607C max=359
+JP: 竹の子は、一日に約１００センチも<n>伸びることがある。
+EN: Bamboo shoots can grow<n>about 100 centimeters in a single day.
+
+@461E4 max=359
+JP: 人間の小腸を平らにのばすと<n>１２０畳もの広さになるということを。<p>じゃあ試しにのばしてみよう、<n>誰でもできることではないんだがね。
+EN: Spread flat, the human small intestine<n>would cover an area of 120 tatami mats.<p>Now, shall we try stretching one out?<n>Well, it's hardly something just anyone can do.
+
+@4634C max=359
+JP: 人間の小腸を平らにのばすと<n>１２０畳もの広さになる。
+EN: Spread flat, the human small intestine<n>would cover an area of 120 tatami mats.
+
+@464B4 max=359
+JP: 雀の足に指が何本あるかを。<p>サソリがハサミのほかに何本の足を持っているかを。<n>ダニの足が何本なのかを。<p>すべて８本なんだがね。
+EN: How many toes does a sparrow have?<p>How many legs does a scorpion have, excluding its pincers?<n>And how many legs does a mite have?<p>Eight in every case, you see.
+
+@4661C max=359
+JP: 雀の足の指、サソリのハサミ以外の足、ダニの足は<n>すべて８本である。
+EN: A sparrow's toes, a scorpion's legs excluding its pincers,<n>and a mite's legs all total eight each.
+
+@46784 max=359
+JP: 最近よく聞く、ナノテクノロジーなどのナノは、<n>ラテン語で小さい人、と言う意味だということを。<p>ま、バクテリアやウィルス、<n>たんぱく質の分子なんかを測るときに<p>使う単位なんだけどね。
+EN: "Nano," as in that nanotechnology we hear so much about,<n>means "little person" in Latin.<p>It's a unit used for measuring bacteria, viruses...<p>...and things like protein molecules, you see.
+
+@468EC max=359
+JP: ナノはラテン語で小さい人、と言う意味である。<n>バクテリアやウィルスを測るときの単位。
+EN: "Nano" means "little person" in Latin.<n>It is a unit used to measure bacteria and viruses.
+
+@46A54 max=359
+JP: シマウマの毛を剃ると<n>無地であるということを。<p>シマウマのシマ模様は、<n>毛の色だということなんだがね。
+EN: Shave a zebra, and you'll find<n>its skin has no stripes.<p>You see, a zebra's stripes<n>are all in the color of its hair.
+
+@46BBC max=359
+JP: シマウマの地肌は、無地。<n>シマ模様は、毛の色のみである。
+EN: A zebra's skin has no stripes.<n>Its stripes come entirely from the color of its hair.
+
+@46D24 max=359
+JP: きれいな発声でカラオケを歌いたいなら、<n>マイクは１０センチ以上離したほうが<p>いいと言うことを。<p>ま、人間の声ってのは、顔から少し離れたところで<n>初めてきちんとした音に聞こえる<p>仕組みになっているからなんだがね。
+EN: For a clear voice at karaoke,<n>you should keep the microphone...<p>...at least 10 centimeters away.<p>You see, the human voice only starts<n>to sound quite right...<p>...once it's traveled a little way from the face.
+
+@46E8C max=359
+JP: きれいな発声でカラオケを歌うには、<n>マイクは１０センチ以上離したほうがいい。
+EN: For a clear voice at karaoke,<n>keep the microphone at least 10 centimeters away.
+
+@46FF4 max=359
+JP: 始祖鳥の両翼にある指が６本だということを。<p>ちなみに昆虫の足も６本なんだがね。
+EN: Archaeopteryx had six fingers<n>across its two wings.<p>Insects have six legs too, incidentally.
+
+@4715C max=359
+JP: 始祖鳥の両翼には<n>爪のある指が６本あった。
+EN: Archaeopteryx had a total of six clawed fingers<n>across its two wings.
+
+@472C4 max=359
+JP: クモは無重力の世界でも、<n>きれいに巣がはれるってことを。<p>ま、これは、<n>宇宙ステーションで実際に行われた実験で、<p>最初のうちは巣がはれなかったクモたちが、<n>２カ月弱の滞在期間中に環境に適応して、<p>きれいにはれるようになったということなんだがね。
+EN: Spiders can spin neat webs<n>even in zero gravity.<p>This was tested in an actual experiment<n>aboard a space station.<p>At first, the spiders couldn't spin webs.<n>But during their stay of just under two months...<p>...they adapted to their surroundings<n>and learned to spin neat webs, you see.
+
+@4742C max=359
+JP: クモは無重力の世界でも、きれいに巣がはれる。<n>宇宙ステーションで実際に行われた実験で、<n>最初のうちは巣がはれなかったクモたちが、<n>２カ月弱の滞在期間中に環境に適応して、<n>きれいにはれるようになった。
+EN: Spiders can spin neat webs even in zero gravity.<n>In an experiment aboard a space station,<n>the spiders couldn't spin webs at first.<n>During their stay of just under two months,<n>they adapted and learned to spin neat webs.
+
+@47594 max=359
+JP: アフリカ象とインド象の違いについて。<p>鼻の先が三角なのはインド象、<n>耳が大きいのはアフリカ象なんだがね。<p>ちなみにアフリカ象は<n>飼いならせないといわれているんだゾウ。<p>ここ笑うとこなんだがね。
+EN: Can you tell African and Indian elephants apart?<p>Indian elephants have triangular trunk tips.<n>African elephants have larger ears.<p>They also say taming an African elephant<n>is a mammoth impossibility.<p>That was your cue to laugh, you see.
+
+@476FC max=359
+JP: アフリカ象とインド象の違いは、<n>鼻の先が三角なのはインド象、<n>耳が大きいのはアフリカ象。<n>ちなみにアフリカ象はインド象に比べて<n>飼いならすのが難しい。
+EN: Indian elephants have triangular trunk tips,<n>while African elephants have larger ears.<n>African elephants are also harder to tame<n>than Indian elephants.
+
+@47864 max=359
+JP: 日本語でもっとも長い名前の植物は、<n>リュウグウノオトヒメノモトユイノキリハズシ<p>だってことを。<p>ま、一般にはアマモ、<n>と呼ばれているんだがね。
+EN: The plant with the longest Japanese name is...<p>...Ryugu-no-otohime-no-motoyui-no-kirihazushi.<p>Most people just call it "amamo," though.<n>Eelgrass, you see.
+
+@479CC max=359
+JP: 日本語でもっとも長い名前の植物は、<n>リュウグウノオトヒメノモトユイノキリハズシ<n>である。<n>一般にはアマモと呼ばれている。
+EN: The plant with the longest Japanese name is<n>Ryugu-no-otohime-no-motoyui-no-kirihazushi.<n>It is usually called "amamo," or eelgrass.
+
+@47B34 max=359
+JP: カニス・ファミリアリスという学名の動物が、<n>ポチだのコロだのと<p>軽々しく呼ばれているということを。<p>ま、犬のことなんだがね。<n>ちなみにカニス・ラパスは狼のことなんだがね。
+EN: An animal with the scientific name Canis familiaris<n>gets saddled with such casual names...<p>...as Spot and Rover.<p>Dogs, of course.<n>Canis lupus, incidentally, means the wolf.
+
+@47C9C max=359
+JP: 犬の学名はカニス・ファミリアリスである。
+EN: The scientific name of the dog is Canis familiaris.
+
+@47E04 max=359
+JP: 水がいちばん重くなるのは４℃の時だってことを。<p>ま、水は温めれば軽くなるし、<n>冷えれば重くなるんだが、<p>４℃を過ぎるとまた軽くなるんだがね。
+EN: Water is at its heaviest at 4 degrees Celsius.<p>Warm it up and it gets lighter.<n>Cool it down and it gets heavier.<p>Below 4 degrees, though, it starts getting lighter again.
+
+@47F6C max=359
+JP: 水がいちばん重くなるのは４℃の時である。
+EN: Water is at its heaviest at 4 degrees Celsius.
+
+@480D4 max=359
+JP: ゴリラの学名がゴリラ・ゴリラだということを。<p>そのゴリラ・ゴリラは<n>イライラすると胸をたたくたたく、なんだがね。
+EN: The gorilla's scientific name is Gorilla gorilla.<p>And when Gorilla gorilla gets irritated,<n>it beats, beats, beats its chest, you know.
+
+@4823C max=359
+JP: ゴリラの学名はゴリラ・ゴリラである。
+EN: The gorilla's scientific name is Gorilla gorilla.
+
+@483A4 max=359
+JP: 音階を最初に作ったのは、<n>幾何学で有名なピタゴラスだということを。<p>ま、現在使われている音階とは違うんだがね。
+EN: The first musical scale was created by Pythagoras,<n>the fellow famous for geometry.<p>It was different from the scales we use today, mind you.
+
+@4850C max=359
+JP: 音階を最初に作ったのは、<n>幾何学で有名なピタゴラスである。
+EN: The first musical scale was created by Pythagoras,<n>who is famous for geometry.
+
+@48674 max=359
+JP: 犬も汗をかくということを。<p>ま、鼻と足の裏にだけなんだがね。
+EN: Dogs sweat too, you know.<p>Only through their noses and the soles of their paws, mind you.
+
+@487DC max=359
+JP: 犬は、鼻と足の裏だけ汗をかく。
+EN: Dogs sweat only through their noses and the soles of their paws.
+
+@48944 max=359
+JP: コアラがクスクス科であることを。<p>アボリジニはコアラを<n>「水を飲まない」という名で呼ぶことを。<p>ちなみにコアラの妊娠期間は３５日なんだがね。
+EN: Koalas belong to the cuscus family.<p>Their name means "doesn't drink water"<n>in an Aboriginal language.<p>Incidentally, a koala's pregnancy lasts 35 days.
+
+@48AAC max=359
+JP: コアラは、<n>アボリジニの言葉で<n>「水を飲まない」という意味。
+EN: "Koala" means "doesn't drink water"<n>in an Aboriginal language.
+
+@48C14 max=359
+JP: 恐竜が首と尾を水平にして歩いていたことを。<n>ま、こうすると揺れが小さく、<p>歩幅も大きくなるので効率がよかったんだがね。
+EN: Dinosaurs walked with their necks and tails held level.<n>This kept them from swaying so much.<p>It also let them take longer strides, making walking more efficient.
+
+@48D7C max=359
+JP: 恐竜が首と尾を水平にして歩いていた。<n>揺れが小さく、歩幅も大きくなるので<n>効率のよい歩き方だった。
+EN: Dinosaurs walked with their necks and tails held level.<n>This reduced swaying and lengthened their strides,<n>making it an efficient way to walk.
+
+@48EE4 max=359
+JP: フグが目をつぶることを。<p>まぶたがあるわけではなく、<n>目のまわりの皮膚が収縮してるだけなんだがね。
+EN: Pufferfish can close their eyes, you know.<p>They don't have eyelids.<n>They just tighten the skin around their eyes.
+
+@4904C max=359
+JP: フグは、目のまわりの皮膚が収縮して<n>目を閉じることができる。
+EN: Pufferfish can close their eyes by tightening<n>the skin around them.
+
+@491B4 max=359
+JP: ハスの種は、とても長生きだということを。<n>二千年前の地層から発見された<p>種子が発芽したということなんだがね。
+EN: Lotus seeds can survive for a very long time.<n>Some were found in a layer of earth 2,000 years old.<p>And they still managed to sprout, you know.
+
+@4931C max=359
+JP: ハスの種は、長期間保存がきく。<n>二千年前の地層から発見された<n>種子でも発芽することができた。
+EN: Lotus seeds can survive for a very long time.<n>Even seeds found in a layer of earth 2,000 years old<n>were able to sprout.
+
+@49484 max=359
+JP: イソギンチャクの口が肛門であるということを。<p>あこがれはしないのだがね。
+EN: A sea anemone's mouth is also its anus.<p>Not a feature I envy, mind you.
+
+@495EC max=359
+JP: イソギンチャクの口は肛門でもある。
+EN: A sea anemone's mouth also serves as its anus.
+
+@49754 max=359
+JP: タラバガニの染色体は人よりも多いということを。<p>人はそれをいただいてしまうのだがね。
+EN: King crabs have more chromosomes than humans.<p>And we eat them all the same, you know.
+
+@498BC max=359
+JP: タラバガニの染色体は人よりも多い。
+EN: King crabs have more chromosomes than humans.

@@ -1,0 +1,64 @@
+# source: PSP_GAME/USRDIR/data/script/new.scb
+# format: scb
+# width: 44
+
+@5144 max=639
+JP: やあ、驚いたな。<n>君はいま、夢を見てるんだね？<p>人間の魂が、ここへ来られるなんて<n>珍しいこともあるもんだね。
+EN: Well, this is a surprise!<n>You're dreaming right now, aren't you?<p>A human soul finding its way here...<n>Now that's something you don't see every day.
+
+@53C4 max=639
+JP: おっと、くわしい話の前に<n>君のことを、教えてほしいな。
+EN: Oh, before I explain everything,<n>tell me a little about yourself.
+
+@5644 max=639
+JP: まず、君の愛称を教えてよ。
+EN: First, what's your nickname?
+
+@58C4 max=639
+JP: これでよろしいですか？
+EN: Is this OK?
+
+@5B44 max=639
+// the birthday field is Year/Month/Day - keep the hint
+JP: ついでに、君の生年月日もね。
+EN: And what's your date of birth?<n>(Enter it as Year / Month / Day.)
+
+@5DC4 max=639
+JP: これでよろしいですか？
+EN: Is this OK?
+
+@6044 max=639
+JP: ところで、君は男性？女性？
+EN: By the way, are you male or female?
+
+@62C4 max=639
+JP: これでよろしいですか？
+EN: Is this OK?
+
+@6544 max=639
+JP: 最後に、君の血液型は？
+EN: Last question: what's your blood type?
+
+@67C4 max=639
+JP: これでよろしいですか？
+EN: Is this OK?
+
+@6A44 max=639
+JP: さて。君が、夢の中で来てしまったのは<n>夢と現実の境にある、おかしな島さ。
+EN: Now then. Your dream has brought you to a strange<n>island on the border between dreams and reality.
+
+@6CC4 max=639
+JP: とまあ、こんな人たちや生き物が<n>暮らす、ヘンなところなんだ。
+EN: So, that's the sort of odd place this is,<n>full of people and creatures like these.
+
+@6F44 max=639
+JP: そしてこれが、この世界での君。<n>うーん、なかなかキュート！
+EN: And here's what you look like in this world.<n>Hmm... Pretty cute!
+
+@71C4 max=639
+JP: そしてこれが、この世界での君。<n>うーん、なかなかキュート！
+EN: And here's what you look like in this world.<n>Hmm... Pretty cute!
+
+@7444 max=639
+JP: じゃあ、君の住む家の前に案内しよう。<p>細かいことは、家の前にいる<n>本物の僕から、聞いてくれよ！
+EN: Now, let me show you to your new home.<p>The real me is waiting outside.<n>He'll fill you in on the rest!

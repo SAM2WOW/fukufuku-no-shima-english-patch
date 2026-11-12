@@ -1,0 +1,247 @@
+# source: PSP_GAME/USRDIR/data/script/gk09.scb
+# format: scb
+# width: 44
+
+@5144 max=639
+JP: む？見たな？<p>我の姿を見てしまったな？<n>ふははは！哀れなやつめ！<p>我らはガイコツナンバーズ！<n>邪悪な秘密結社なのだ！<p>そして我は、ナンバー<GN>！<n>自分で言うのもなんだが、幹部候補だ！
+EN: Hm? You saw me?<p>You have gazed upon my fearsome form?<n>Fwahaha! You poor fool!<p>We are the Skull Numbers!<n>An evil secret society!<p>And I am Number <GN>!<n>Officer material, if I do say so myself!
+
+@53C4 max=639
+JP: む？おまえは<PN>！<n>最近ウワサの、我らの敵だな？<p>我はガイコツナンバー<GN>！<n>ここで会ったが百年目だ！ふはは！
+EN: Hm? You're <PN>!<n>Our enemy everyone's been talking about!<p>I am Skull Number <GN>!<n>At last, your reckoning is at hand! Fwahaha!
+
+@5644 max=639
+JP: …ヤア！元気かーい！<n>ずいぶん顔色いいじゃん！<p>…と、油断させておいて<n>トウッ！<p>…ふはははは！愚かな奴め！<n>我の絶妙の声色に騙されたな！<p>我はガイコツナンバー<GN>！<n>どうだ、驚いたか、ふははは！<p>もはや貴様に勝ち目はない！<n>大人しく降参するがいい！
+EN: ...Hey there! How's it going?<n>You're looking great!<p>...And with your guard down...<n>HIYAH!<p>...Fwahahaha! You fool!<n>My flawless acting had you completely fooled!<p>I am Skull Number <GN>!<n>Surprised? Fwahaha!<p>You have no hope of victory now!<n>Surrender quietly!
+
+@58C4 max=639
+JP: む！おまえは<PN>！<n>なんだ、また我らにやられに来たか！<p>我はガイコツナンバー<GN>！<n>返り討ちにしてやる！カモーン！
+EN: Ah! It's you, <PN>!<n>Back for another beating, are you?<p>I am Skull Number <GN>!<n>I'll send you packing! Come on!
+
+@5B44 max=639
+JP: 我らの目的は、邪悪な占いによって<n>この世を支配することなのだ！ふはは！<p>具体的には、恐怖の「あだな占い」で<n>全人類を精神的に打ちのめすのだ！<p>…む？聞いたな？<n>我らの正体を聞いてしまったな？<p>聞かれたからには覚悟してもらおう。<n>ふははは！泣け！叫べ！
+EN: Our goal is to rule the world<n>through evil fortune-telling! Fwahaha!<p>Specifically, our dreaded nickname fortunes<n>will crush the spirit of all humanity!<p>...Hm? You heard that?<n>You have learned our true identity?<p>Then prepare to face the consequences!<n>Fwahaha! Weep! Scream!
+
+@5DC4 max=639
+JP: 我らは巨大な秘密結社なのだ！<n>全部で、４０人…いや、５０人…<p>ええと、ひいふうみい…<p>…ふ、ふはは！<n>そんなことはどうでもよい！
+EN: Our secret society is vast!<n>We have forty... No, fifty members...<p>Let's see... One, two, three...<p>...F-Fwahaha!<n>Such details are irrelevant!
+
+@6044 max=639
+JP: ガイコツナンバーズ結成より３０年！<n>我が結社は、着々と版図を広げてきた！<p>あと５０年もあれば<n>この島の四分の一は支配できる！<p>これが何を意味するかわかるか？<n>つまり…<p>この調子でいくと<n>世界征服まであと一歩ということだ！
+EN: Thirty years since the Skull Numbers arose!<n>Our territory has steadily expanded!<p>In just fifty more years,<n>we could rule a quarter of this island!<p>Do you know what that means?<n>It means...<p>At this rate, we're just one step away<n>from world domination!
+
+@62C4 max=639
+JP: 我らの目的は、邪悪な占いによって<n>この世を支配することなのだ！ふはは！<p>具体的には、恐怖の「あだな占い」で<n>全人類を精神的に打ちのめすのだ！<p>…む？聞いたな？<n>我らの正体を聞いてしまったな？<p>聞かれたからには覚悟してもらおう。<n>ふははは！泣け！叫べ！
+EN: Our goal is to rule the world<n>through evil fortune-telling! Fwahaha!<p>Specifically, our dreaded nickname fortunes<n>will crush the spirit of all humanity!<p>...Hm? You heard that?<n>You have learned our true identity?<p>Then prepare to face the consequences!<n>Fwahaha! Weep! Scream!
+
+@6544 max=639
+JP: 我らは巨大な秘密結社なのだ！<n>全部で、４０人…いや、５０人…<p>ええと、ひいふうみい…<p>…ふ、ふはは！<n>そんなことはどうでもよい！
+EN: Our secret society is vast!<n>We have forty... No, fifty members...<p>Let's see... One, two, three...<p>...F-Fwahaha!<n>Such details are irrelevant!
+
+@67C4 max=639
+JP: ガイコツナンバーズ結成より３０年！<n>我が結社は、着々と版図を広げてきた！<p>あと５０年もあれば<n>この島の四分の一は支配できる！<p>これが何を意味するかわかるか？<n>つまり…<p>この調子でいくと<n>世界征服まであと一歩ということだ！
+EN: Thirty years since the Skull Numbers arose!<n>Our territory has steadily expanded!<p>In just fifty more years,<n>we could rule a quarter of this island!<p>Do you know what that means?<n>It means...<p>At this rate, we're just one step away<n>from world domination!
+
+@6A44 max=639
+JP: ふははは、聞いておどろくな！<p>我々は、素晴らしい情報を<n>ゲットしたのだぞ！<p>「ものしり海岸」に、われらの祖先<n>ガイコツスリーパーズの像があるという！<p>それこそ、我らの世界征服の<n>新たなカギとなるアイテムなのだ！<p>もはや勝ったも同然よ！ふははは！
+EN: Fwahaha! Prepare to be amazed!<p>We have acquired<n>some magnificent intelligence!<p>A statue of our ancestors, the Skull Sleepers,<n>stands on Know-It-All Coast!<p>That very statue shall be the new key<n>to our conquest of the world!<p>Victory is as good as ours! Fwahaha!
+
+@6CC4 max=639
+JP: くっ、それにしても…<p>ガイコツ大魔王様さえ<n>万全の体調でおられたら…。<p>花粉症とギックリ腰のせいで<n>我らが魔王様は動けないのだ！<p>くっ、無念だ！
+EN: Grr... If only...<p>If only our mighty Skull Overlord<n>were in perfect health...<p>Hay fever and a bad back<n>have left our lord unable to move!<p>Grr! The injustice!
+
+@6F44 max=639
+JP: ふふふ、その目、その表情…<n>ふふふ、我は見抜いているぞ！<p>おまえももう、我らが占いの虜よ！<p>おとなしく、わが結社に<n>忠誠を誓うのだ！ふはは！
+EN: Heh heh heh... Those eyes! That expression!<n>I can see right through you!<p>You, too, are in thrall to our fortunes!<p>Now swear your allegiance<n>to our society! Fwahaha!
+
+@71C4 max=639
+JP: ふはは！ひとつ教えてやろう！<p>ガイコツナンバーズに<n>給与は出ない！<p>全部ボランティアだ！<n>しかし泣かないぞ！
+EN: Fwahaha! Let me tell you something!<p>The Skull Numbers<n>receive no salary!<p>It's all volunteer work!<n>But I shall not cry!
+
+@7444 max=639
+JP: ふははは！貴様は知るまい！<p>我らがガイコツ大魔王様の<n>鎮座まします場所を！<p>そぞろ山の、洞窟の奥深くで<n>花粉症の治療中であることなど<p>貴様には、思いもつかない<n>秘密なのだ！ふははは！
+EN: Fwahaha! You could never guess...<p>The place where our mighty<n>Skull Overlord resides!<p>Deep in a cave on Wanderlust Mountain,<n>receiving treatment for hay fever...<p>Such a secret would never<n>even cross your mind! Fwahahaha!
+
+@76C4 max=639
+JP: ふはは！ひとつ教えてやろう！<p>我らガイコツナンバーズは<n>人類の歴史のはじめより…<p>名を変え、活動内容を変え<n>暗躍を続けてきたのだ！<p>詳しくは、ガイコツ像に添付された<n>邪悪な文書を読むがいい！<p>そして、邪悪な歴史に震えるがいい！<n>ふはははは！
+EN: Fwahaha! Let me tell you something!<p>Since the dawn of human history,<n>we Skull Numbers have...<p>Changed our name and our activities,<n>working tirelessly in the shadows!<p>For details, read the evil document<n>attached to the skeleton statue!<p>Then tremble at our wicked history!<n>Fwahahaha!
+
+@7944 max=639
+JP: ふははは！聞いて驚くな！<p>貴様が、一度手に入れたアイテムは<n>特殊なものをのぞいて…<p>ポッコという生物の経営する店で<n>買うことができるのだ！<p>だが、我らは給与を貰っていないから<n>カネはいっさい持っていない！<p>つまり、我らには、まるで<n>関係のない情報なのだ！ふはは！
+EN: Fwahaha! Prepare to be amazed!<p>Once you've obtained an item,<n>apart from certain special ones...<p>You can buy it again at a shop<n>run by a creature called Pokko!<p>But since we receive no salary,<n>we have no money whatsoever!<p>In other words, this information<n>is utterly useless to us! Fwahaha!
+
+@7BC4 max=639
+JP: ふははは！懲りないやつめ！<p>ククク、それとも<n>我らに忠誠を誓う気になったか？<p>ちなみに、我が組織に忠誠を誓うと<n>特製ハンカチがもらえるぞ！
+EN: Fwahaha! You never learn!<p>Heh heh heh... Or have you finally<n>decided to swear allegiance to us?<p>Incidentally, joining our organization<n>earns you a special handkerchief!
+
+@7E44 max=639
+JP: ならば、特別サービスで<n>貴様の友達を占ってやろう！
+EN: Then, as a special service,<n>I shall tell your friend's fortune!
+
+@80C4 max=639
+JP: ふはははは！<p>我の必殺ワザ、<UC>占いで<n>貴様を地獄に送ってやろう！
+EN: Fwahahaha!<p>My ultimate technique, <UC> fortune-telling,<n>shall send you straight to the underworld!
+
+@8344 max=639
+JP: ふっ、臆したか！<n>我の勝ちだな！ふはははは！
+EN: Hah! Lost your nerve?<n>Victory is mine! Fwahahaha!
+
+@85C4 max=639
+JP: ふははは！無謀なヤツめ！<n>我が占い、受けてみよ！
+EN: Fwahaha! Reckless fool!<n>Face the might of my fortune-telling!
+
+@8844 max=639
+JP: ふふふ、ズバリ！<p><UC>占いでいうと<n>貴様は<UN>だ！
+EN: Heh heh heh... Behold the truth!<p>According to <UC> fortune-telling,<n>you are <UN>!
+
+@8AC4 max=639
+JP: …………<p>…ぷっ！<UN>だってさ！<n>うわー、ハズカシー！<p>これから貴様が何をやっても<n>「でも<UN>だしー」<p>って言われちゃうのだぞ！<n>やーいやーい、<UN>！<p>…ふふふ、どうやら精神に<n>深い傷を負ったようだな？<p>我らの恐怖、思い知ったか！<n>ふははは！…では、さらばだ！
+EN: ............<p>...Pfft! <UN>!<n>Wow, how embarrassing!<p>Whatever you do from now on,<n>people will say, "Still <UN>, though!"<p>That's what they'll say!<n>Nyah nyah! <UN>!<p>...Heh heh heh. It seems I've dealt<n>a deep wound to your spirit!<p>Now you know true terror!<n>Fwahaha! ...Farewell!
+
+@8D44 max=639
+JP: ククク、ならば<n>貴様の友達の秘密を教えるがいい…。<p>さあ、友達を売れ、フフフフ…。
+EN: Heh heh heh... Then reveal<n>your friend's secrets to me...<p>Go on, betray your friend! Heh heh heh...
+
+@8FC4 max=639
+JP: これで良いのか？ククククク…。
+EN: Is this correct? Heh heh heh...
+
+@9244 max=639
+JP: さあ、友達を売れ、フフフフ…。
+EN: Go on, betray your friend! Heh heh heh...
+
+@94C4 max=639
+JP: これで良いのか？ククククク…。
+EN: Is this correct? Heh heh heh...
+
+@9744 max=639
+JP: さあ、友達を売れ、フフフフ…。
+EN: Go on, betray your friend! Heh heh heh...
+
+@99C4 max=639
+JP: ふふふ、ではゆくぞ？<n>貴様の友達はな…。
+EN: Heh heh heh... Shall we begin?<n>Your friend is...
+
+@9C44 max=639
+JP: <UC>占いでいうと<n><UN>だったのだ！ガーン！
+EN: According to <UC> fortune-telling,<n><UN>! Gasp!
+
+@9EC4 max=639
+JP: ふははは！<p>衝撃の事実に<n>声も出ないようだな！<p>哀れなやつめ！ふはははは！<n>…では、さらばだ！
+EN: Fwahaha!<p>The shocking truth<n>has left you speechless!<p>You poor fool! Fwahahaha!<n>...Farewell!
+
+@A144 max=639
+JP: <<テキストチェック>><n>チェックする項目を選んでください。
+EN: 
+
+@A3C4 max=639
+JP: 会話メッセージ<n>イベント用テキスト
+EN: Dialogue<n>Event Text
+
+@A644 max=639
+JP: 表示したい会話メッセージのIDを選んでください。
+EN: 
+
+@A8C4 max=639
+JP: 表示したいテキストのIDを入力してください。
+EN: 
+
+@14E64 max=359
+JP: 飲み物
+EN: Drinks
+
+@14FCC max=359
+JP: 緑茶
+EN: Green Tea
+
+@15134 max=359
+JP: 節約家のあなたは、緑茶をいれる<n>ときも３煎は飲むと決めていませ<n>んか？コツコツと貯金をしてギャ<n>ンブルなどは大嫌いなあなたは、<n>堅実な人生を歩みます。一度選ん<n>だ堅い仕事を定年まで勤めたほう<n>がよいでしょう。
+EN: Thrifty as you are, do you insist on brewing each batch of green tea leaves three times? You save steadily and can't stand gambling, so your life follows a sensible path. Your best bet is to find a secure job and stick with it until retirement.
+
+@1529C max=359
+JP: 青汁
+EN: Green Juice
+
+@15404 max=359
+JP: 無駄なおしゃべりが嫌いで、人付<n>き合いもあまり得意でないあなた<n>は、ふとした拍子に、青汁を飲ん<n>だあとのような苦い顔をしていた<n>りしませんか？ときには、意識し<n>て交際範囲を広げてみてはどうで<n>しょう？笑顔が増えますよ。
+EN: You dislike idle chatter and aren't much of a social butterfly. Do you sometimes catch yourself looking as sour as if you'd just gulped down bitter green juice? Try making a conscious effort to widen your circle of friends. You'll find more reasons to smile.
+
+@1556C max=359
+JP: コーヒー
+EN: Coffee
+
+@156D4 max=359
+JP: 負けず嫌いなあなたは、人の下で<n>働くことも苦手としています。香<n>り高き、ブルーマウンテンのコー<n>ヒーのように人から敬われ、特別<n>な扱いを受けることを望んでいま<n>す。仕事ではその道の第一人者を<n>目指せば、人生が開けます。
+EN: You hate losing and struggle to work under someone else. Like fragrant Blue Mountain coffee, you want to be prized and given special treatment. Aim to become the leading expert in your field, and new doors will open for you.
+
+@1583C max=359
+JP: 紅茶
+EN: Black Tea
+
+@159A4 max=359
+JP: ネゴシエーションが苦手なあなた<n>は、エグゼクティブ・ビジネスマ<n>ンよりは、医師や芸術家、作家な<n>どが向いているようです。紅茶を<n>ゆっくりいれて、のんびり過ごす<n>時間を大切にしたいもの。酒の席<n>が好きでも飲みすぎはＮＧ。
+EN: Negotiating isn't your strong suit, so life as a doctor, artist or writer may suit you better than the executive track. Make time to brew a leisurely cup of tea and unwind. Even if you enjoy parties with a few drinks, don't overdo the alcohol.
+
+@15B0C max=359
+JP: 炭酸飲料
+EN: Soda
+
+@15C74 max=359
+JP: 上司や目上の人に対してついつい<n>反論してしまうことが多いあなた<n>は、泡がはじける炭酸飲料タイプ<n>です。人にとやかく言われるより<n>は、独断で物事を進める方が得意<n>なので、広告関係や芸能関係の仕<n>事が向いています。
+EN: Always talking back to your boss or your elders? You're the fizzy soda type, bubbling over with objections. You work best calling your own shots, without people telling you what to do. Advertising or entertainment could be just your thing.
+
+@15DDC max=359
+JP: 麦茶
+EN: Barley Tea
+
+@15F44 max=359
+JP: 静かな場所でじっくりと腰を据え<n>てできる職業が向いているあなた<n>は、ゆっくり煮出した麦茶タイプ。<n>知性のないおしゃべりは嫌いなく<n>せに噂話が好きなのも特徴。嫉妬<n>心を抑えることで、運気上昇の兆<n>しがあります。
+EN: Like slowly simmered barley tea, you're suited to work that lets you settle down and concentrate somewhere quiet. You dislike mindless chatter, yet can't resist a bit of gossip. Keep your jealousy in check, and your luck should take a turn for the better.
+
+@160AC max=359
+JP: オレンジジュース
+EN: Orange Juice
+
+@16214 max=359
+JP: 絞りたてのオレンジジュースのよ<n>うにいつも新鮮な気持ちでいたい<n>あなたは、一人ぼっちでいるより<n>は、笑い声のあふれるにぎやかな<n>場所が大好きです。節約すること<n>が苦手な上に、買い物好きなので、<n>無駄遣いは禁物です。
+EN: Like freshly squeezed orange juice, you want to feel fresh every day. You'd much rather be somewhere lively and full of laughter than all alone. Saving isn't your strong suit, and you love shopping, so watch out for wasteful spending!
+
+@1637C max=359
+JP: 豆乳
+EN: Soy Milk
+
+@164E4 max=359
+JP: 理論だてて物事を考えたり、理詰<n>めで議論することが得意なあなた<n>は、他人が約束を破ることなど許<n>せない成分無調整の豆乳タイプ。<n>音楽や小説、陶器にも興味を持つ<n>あなたは、文学や美術、教育関係<n>の仕事にも向いているようです。
+EN: You think things through logically and excel at reasoned debate. Like plain, unadulterated soy milk, you accept no compromises: broken promises are unforgivable. Your interests also include music, novels and pottery, so work in literature, art or education could suit you.
+
+@1664C max=359
+JP: 牛乳
+EN: Milk
+
+@167B4 max=359
+JP: じっとしているくらいなら、誰か<n>の世話をやいていたり、とにかく<n>忙しくしていることが好きなあな<n>たは、毎日どこの家庭でも飲まれ<n>ている牛乳タイプ。料理が得意な<n>人が多いのもこのタイプの特徴。<n>レストラン経営なども吉。
+EN: Rather than sit still, you'd sooner look after someone or simply keep busy. You're the milk type, a welcome presence in homes every day. Many people of this type are great cooks, too. Running a restaurant could be a lucky choice.
+
+@1691C max=359
+JP: ウーロン茶
+EN: Oolong Tea
+
+@16A84 max=359
+JP: 綿密に計画を立て、確実にそれを<n>実行に移していくのが得意なあな<n>たは、ゆっくりと茶葉が開くのを<n>待って香りを楽しむ烏龍茶がぴっ<n>たり。つねに明快な答えが頭の中<n>にあるので決断が遅い人や話が下<n>手な人が不得意。
+EN: You excel at making detailed plans and steadily putting them into action. Oolong tea suits you perfectly: you wait patiently for the leaves to unfurl, then savor the aroma. With a clear answer always in mind, you struggle with people who dither or have trouble expressing themselves.
+
+@16BEC max=359
+JP: 水
+EN: Water
+
+@16D54 max=359
+JP: 実直で礼儀を重んじるあなたは、<n>水のようにピュアな一面も見受け<n>られます。人に頭を下げてまで物<n>を頼むことが嫌いなあなたは、時<n>として頑固に見えてしまうかもし<n>れません。我慢のし過ぎもほどほ<n>どが肝心です。
+EN: Honest and respectful of good manners, you have a side as pure as water. You hate having to bow and scrape to ask a favor, which can sometimes make you seem stubborn. Remember, there's a limit to how much you should put up with.
+
+@16EBC max=359
+JP: スポーツ飲料
+EN: Sports Drink
+
+@17024 max=359
+JP: 情報通で自分がこうと信じたら、<n>あくまで貫くスポ根的な性格は、<n>スポーツ飲料そのもの。そのくせ<n>早起きは不得意な人が多いのもこ<n>のタイプだが、それも信念のため<n>なら平気で起きられるから不思議。<n>浪費癖をなおせば吉。
+EN: Well-informed and full of fighting spirit, you stick to your beliefs no matter what. You're a sports drink through and through! Oddly, many of your type hate getting up early, yet leap out of bed if their convictions call for it. Curb your spending habit, and good luck should follow.

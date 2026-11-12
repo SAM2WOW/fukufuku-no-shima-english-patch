@@ -1,0 +1,1603 @@
+# source: PSP_GAME/USRDIR/data/misctext/uso_data.bin
+# format: rec
+# width: 40
+
+@#0
+JP: 「職人だねぇ～。」って<n>ほめられるだろう。
+EN: Someone will praise you:<n>"Now that's craftsmanship!"
+
+@#1
+JP: あなたのポテンシャルがさらに<n>一段上がる日。
+EN: Today, your potential reaches<n>a whole new level.
+
+@#2
+JP: このあと最初にかかってきた電話の相手が<n>運命の人だ。
+EN: The next person to call you<n>is your soulmate.
+
+@#3
+JP: 何かとツキを感じる一日。
+EN: You'll feel lucky all day long.
+
+@#4
+JP: 鴨がネギしょってくるような一日。
+EN: A golden opportunity will fall right into your lap today.
+
+@#5
+JP: 告っちゃえ！告っちゃえ！
+EN: Tell them you like them! Go on, tell them!
+
+@#6
+JP: 今日のことは孫子の代まで<n>語り継がれるであろう。
+EN: Tales of today will be passed down<n>to your children's children.
+
+@#7
+JP: 今日の一日をあなたの隣人は<n>決して忘れないであろう。
+EN: Your neighbors will never forget<n>what happens today.
+
+@#8
+JP: 今日はじめて会う人とは縁が深い。
+EN: You'll share a deep connection with someone you meet today.
+
+@#9
+JP: 今日は午後からツキまくる。
+EN: Your luck goes through the roof this afternoon.
+
+@#10
+JP: 今日は笑いがとまりません。
+EN: You won't be able to stop laughing today.
+
+@#11
+JP: 今日言うダジャレは全部ウケる。安心しろ。
+EN: Every pun you tell today will get a laugh. Relax.
+
+@#12
+JP: 今日合コンをしないでいつする、<n>ってくらいの運。
+EN: With luck like this, there's no better day<n>for a group date!
+
+@#13
+JP: 笑いがとまらない一日になるだろう。
+EN: You're in for a day of nonstop laughter.
+
+@#14
+JP: 「なんでもよく知ってるよね。」って<n>ほめられるだろう。
+EN: Someone will compliment you:<n>"You know a little bit of everything!"
+
+@#15
+JP: 「やせた？」って言われるだろう。
+EN: Someone will ask, "Have you lost weight?"
+
+@#16
+JP: 「弟子になってもいいですか？」って<n>言われるだろう。
+EN: Someone will ask you,<n>"Will you take me as your apprentice?"
+
+@#17
+JP: １００００歩できっちり帰ってくること。
+EN: Make it home in exactly 10,000 steps.
+
+@#18
+JP: １円もつかわない日となる。
+EN: You won't spend a single yen today.
+
+@#19
+JP: あんこを食う猫が吉。
+EN: A cat eating sweet bean paste will bring you luck.
+
+@#20
+JP: たまには恋人と手をつなごう。
+EN: Hold hands with your sweetheart once in a while.
+
+@#21
+JP: 今日なにかともうけが多い日となる。
+EN: You'll profit in all sorts of ways today.
+
+@#22
+JP: 今日の君の行動は、いつかドラマ化される。
+EN: What you do today will someday become a TV drama.
+
+@#23
+JP: 今日は１７時５６分から<n>４分間は超ラッキー！
+EN: You'll be super lucky for four minutes today,<n>starting at 5:56 p.m.!
+
+@#24
+JP: 今日はハッピーエンド。
+EN: Today's story has a happy ending.
+
+@#25
+JP: 今日はフェロモンが出まくるでしょう。
+EN: You'll be oozing pheromones today.
+
+@#26
+JP: 今日は勝負下着で出かけること。
+EN: Wear your lucky date-night underwear today.
+
+@#27
+JP: 今日は電車で<n>おばさんとおばさんの間に座るのが吉。
+EN: For good luck on the train today,<n>sit between two older ladies.
+
+@#28
+JP: 今日も今日とて、と思ってると意外や意外！
+EN: Think today's just another day? You're in for a surprise!
+
+@#29
+JP: 答えは風の中にある。
+EN: The answer is blowing in the wind.
+
+@#30
+JP: 落武者風の髪型にしてみるのも吉。
+EN: Try a scruffy, defeated-samurai hairdo for luck.
+
+@#31
+JP: 「いくつだと思う？」と聞く人<n>の歳を不思議にわかる一日。
+EN: When someone asks, "How old do you think I am?"<n>you'll mysteriously know the answer today.
+
+@#32
+JP: 「なんか今日は血色がいいねぇ。」って<n>言われるだろう。
+EN: Someone will tell you,<n>"You've got a healthy glow today!"
+
+@#33
+JP: 「若いね」って言われる日になるだろう。
+EN: Someone will tell you how young you look today.
+
+@#34
+JP: 「先生と呼ばせてください。」って<n>言われるだろう。
+EN: Someone will say to you,<n>"Please, let me call you Master."
+
+@#35
+JP: いつか、<n>「２泊３日世界一周の旅」をするだろう。
+EN: Someday, you'll travel around the world<n>in three days and two nights.
+
+@#36
+JP: いつも右手ですることを<n>左手でするのが吉。
+EN: For good luck, use your left hand<n>for things you usually do with your right.
+
+@#37
+JP: いつもより１品多い食事を。
+EN: Add one more dish to your meal than usual.
+
+@#38
+JP: インドカレーより<n>スリランカカレーを選ぶが吉。
+EN: For good luck, choose Sri Lankan curry<n>over Indian curry.
+
+@#39
+JP: 今日思いついたことで一流になろう。
+EN: An idea you have today will take you to the top.
+
+@#40
+JP: 今日はいつもと何から何まで違うだろう。
+EN: Today will be different from usual in every possible way.
+
+@#41
+JP: 今日は何事も<n>がっつりと、いきましょう。
+EN: Whatever you do today,<n>go all in!
+
+@#42
+JP: 今日は不思議に腕相撲で<n>勝つことが多いだろう。
+EN: For some mysterious reason,<n>you'll win a lot at arm wrestling today.
+
+@#43
+JP: 今日は人をうたがわないように。
+EN: Give people the benefit of the doubt today.
+
+@#44
+JP: 恋人がやけにかっこよく見える日になる。
+EN: Your sweetheart will look extra dreamy today.
+
+@#45
+JP: コーヒーにニガリを入れるような<n>冒険心が必要な一日。
+EN: Today calls for an adventurous spirit.<n>The kind that puts tofu-making salts in coffee.
+
+@#46
+JP: コンビニ弁当でのご飯が吉。
+EN: A convenience-store boxed lunch will bring you luck.
+
+@#47
+JP: すき焼きが吉。奮発しよう。
+EN: Sukiyaki will bring you luck. Go on, splurge!
+
+@#48
+JP: すごく珍しいキノコを<n>見つけることになるだろう。
+EN: You'll find an incredibly<n>rare mushroom.
+
+@#49
+JP: なぜだか「デカ長」と呼ばれるだろう。
+EN: For some reason, people will call you "Chief Detective."
+
+@#50
+JP: 何かとサービスされる日。
+EN: Expect little extras wherever you go today.
+
+@#51
+JP: 何でもいいから１冊本を読む日とするが吉。
+EN: Read a whole book today for good luck. Any book will do.
+
+@#52
+JP: マアマアとソコソコの間くらいの日。
+EN: A day somewhere between "not bad" and "so-so."
+
+@#53
+JP: メガネを取ると好感度がアップする日。
+EN: Taking off your glasses will boost your charm today.
+
+@#54
+JP: 韻をふんだしゃべりを心がけよう。
+EN: When it's your time to chime, try speaking in rhyme.
+
+@#55
+JP: 言い訳は無しで。
+EN: No excuses.
+
+@#56
+JP: 今日起こったすべてのことを感謝しよう。
+EN: Be thankful for everything that happens today.
+
+@#57
+JP: 今日のことはのちのち語りぐさになる。
+EN: You'll be telling stories about today for years to come.
+
+@#58
+JP: 今日のラッキードリンクは、<n>アイス抹茶ミルク。
+EN: Today's lucky drink:<n>iced matcha milk.
+
+@#59
+JP: 今日のラッキー消しゴムは<n>鉛筆のお尻のやつ。
+EN: Today's lucky eraser:<n>the one on the end of a pencil.
+
+@#60
+JP: 今日のラッキー定食は<n>肉じゃが定食ご飯大盛り。
+EN: Today's lucky meal:<n>a beef and potato stew set with extra rice.
+
+@#61
+JP: 今日のラッキー反則はトラベリング。
+EN: Today's lucky rule violation: traveling.
+
+@#62
+JP: 今日のラッキー文具は分度器。
+EN: Today's lucky stationery item: a protractor.
+
+@#63
+JP: 今日の安物買いは得をする。
+EN: Bargain buys will pay off today.
+
+@#64
+JP: 今日の風には吹かれておこう。
+EN: Let today's breeze blow over you.
+
+@#65
+JP: 今日は「気さくな人」でいこう。
+EN: Be the friendly, easygoing type today.
+
+@#66
+JP: 今日はがまんせず泣くのがいいでしょう。
+EN: Don't hold back the tears today. Let them flow.
+
+@#67
+JP: 今日はツケボクロをして出かけること。
+EN: Draw on a beauty mark before you head out today.
+
+@#68
+JP: 今日はひと口ごとに１００回噛め。
+EN: Chew every bite 100 times today.
+
+@#69
+JP: 今日はもらいものをひとつ<n>身につけて出かける。
+EN: Wear something you received as a gift<n>when you go out today.
+
+@#70
+JP: 今日は何を頼まれても<n>「いいとも！」と言うこと。
+EN: Whatever anyone asks of you today,<n>say, "You bet!"
+
+@#71
+JP: 今日は昨日の明日だ。
+EN: Today is yesterday's tomorrow.
+
+@#72
+JP: 今日は親子丼でダイエットが吉。
+EN: Today's lucky diet food: a chicken and egg rice bowl.
+
+@#73
+JP: 今日は絶対になにごとも「右」を選べ。
+EN: Whatever the choice today, always pick "right."
+
+@#74
+JP: 今日は髪を真ん中分けにすること。
+EN: Part your hair down the middle today.
+
+@#75
+JP: 今日旅立ってしまえ。
+EN: Just pack up and set off today!
+
+@#76
+JP: 今夜パジャマを裏返して着ると<n>いい夢が見られる。
+EN: Wear your pajamas inside out tonight<n>for sweet dreams.
+
+@#77
+JP: 三流でなにが悪いと<n>開き直る気持ちも大事。
+EN: Sometimes you need to stand tall and say,<n>"Third-rate? What's wrong with that?"
+
+@#78
+JP: 先に謝っておこう。
+EN: Get your apology in early.
+
+@#79
+JP: 保健の先生がよろこんでくれるだろう。
+EN: You'll make the school nurse happy.
+
+@#80
+JP: 眠ってる間に賢くなる日。
+EN: You'll get smarter in your sleep today.
+
+@#81
+JP: 利き腕じゃない方で歯を磨いてみよう。
+EN: Try brushing your teeth with your other hand.
+
+@#82
+JP: 「あ～、肉がくいたい。」と思い続ける<n>一日になるだろう。
+EN: You'll spend all day thinking,<n>"Oh, I could really go for some meat."
+
+@#83
+JP: 「師匠と呼ばせてください。」って<n>言われるだろう。
+EN: Someone will say to you,<n>"Please, let me call you Master."
+
+@#84
+JP: 「叱ってほしいんです。」って<n>言われるだろう。
+EN: Someone will tell you,<n>"I want you to scold me."
+
+@#85
+JP: あっという間に終わる一日になる。
+EN: Today will be over in a flash.
+
+@#86
+JP: いつもと違うシルエットのズボンを<n>はこう。
+EN: Try wearing pants with a different cut<n>from your usual pair.
+
+@#87
+JP: いつものシャンプーと変えてみよう。
+EN: Try switching up your shampoo.
+
+@#88
+JP: カレーにソースをかけてみよう。
+EN: Try a splash of sauce on your curry.
+
+@#89
+JP: カレーにらっきょうを添えよう。
+EN: Serve some pickled shallots with your curry.
+
+@#90
+JP: なにかにつけ新記録が出やすい一日。
+EN: Today's a good day to set all sorts of new records.
+
+@#91
+JP: 今日、泳ぐならバタフライで泳ぐが吉。
+EN: If you go swimming today, the butterfly stroke brings luck.
+
+@#92
+JP: 今日スポーツをするとしたら、<n>水泳が吉。
+EN: If you're playing sports today,<n>swimming brings luck.
+
+@#93
+JP: 今日スポーツをするとしたら、<n>テニスが吉。
+EN: If you're playing sports today,<n>tennis brings luck.
+
+@#94
+JP: 今日スポーツをするとしたら、<n>フットサルが吉。
+EN: If you're playing sports today,<n>futsal brings luck.
+
+@#95
+JP: 今日スポーツをするとしたら、<n>ボーリングが吉。
+EN: If you're playing sports today,<n>bowling brings luck.
+
+@#96
+JP: 今日スポーツをするとしたら、<n>野球が吉。
+EN: If you're playing sports today,<n>baseball brings luck.
+
+@#97
+JP: 今日できることを先送りしないように。
+EN: Don't put off what you can do today.
+
+@#98
+JP: 今日の夕飯は、カレーが吉。
+EN: Curry for dinner will bring you luck.
+
+@#99
+JP: 今日の夕飯は、牛丼が吉。
+EN: A beef bowl for dinner will bring you luck.
+
+@#100
+JP: 今日の夕飯は、とんかつが吉。
+EN: A breaded pork cutlet for dinner will bring you luck.
+
+@#101
+JP: 今日の夕飯は、ハンバーガーが吉。
+EN: A hamburger for dinner will bring you luck.
+
+@#102
+JP: 今日の夕飯は、日替わり定食が吉。
+EN: The daily set meal is your lucky dinner choice.
+
+@#103
+JP: 今日は、コーヒーに必ずミルクを入れよう。
+EN: Be sure to put milk in your coffee today.
+
+@#104
+JP: 今日はＡＢ型の人といるとよい。
+EN: Spend time with someone with blood type AB today.
+
+@#105
+JP: 今日はＡ型の人といると楽しいことがある。
+EN: Fun awaits if you spend today with someone with blood type A.
+
+@#106
+JP: 今日はＢ型の人といると楽しいことがある。
+EN: Fun awaits if you spend today with someone with blood type B.
+
+@#107
+JP: 今日はＯ型の人といると楽しいことがある。
+EN: Fun awaits if you spend today with someone with blood type O.
+
+@#108
+JP: 今日はあなたの生きざまが<n>試される日となるだろう。
+EN: Today will put the way you live your life<n>to the test.
+
+@#109
+JP: 今日はお茶にこだわるべし。
+EN: Be picky about your tea today.
+
+@#110
+JP: 今日は消防車に縁がある日となるだろう。
+EN: A fire engine will figure in your day somehow.
+
+@#111
+JP: 今日はだまってればモテるだろう。
+EN: You'll be quite the catch today... if you keep quiet.
+
+@#112
+JP: 今日は何があっても風呂にはいるように。
+EN: Whatever happens today, make sure you take a bath.
+
+@#113
+JP: 今日は何事も<n>さくっと、いきましょう。
+EN: Whatever you do today,<n>keep it quick and snappy.
+
+@#114
+JP: 今日はへびつかい座の人と縁があるだろう。
+EN: Your path will cross with an Ophiuchus today.
+
+@#115
+JP: 今日は顔文字を使ってみよう。
+EN: Try using emoticons today.
+
+@#116
+JP: 今日は耳の後ろもちゃんと洗おう。
+EN: Be sure to wash behind your ears today, too.
+
+@#117
+JP: 今日は出席番号がラッキーナンバー。
+EN: Your class roll number is your lucky number today.
+
+@#118
+JP: 今日守らねばならぬこと。<n>「知らないなら黙っている」
+EN: Today's rule to live by:<n>"If you don't know, keep quiet."
+
+@#119
+JP: くりあがりの足し算の練習をしよう。
+EN: Practice addition that involves carrying.
+
+@#120
+JP: このゲームを始めて何日目か、<n>計算してみよう。
+EN: Work out how many days it's been<n>since you started this game.
+
+@#121
+JP: 最初に思いついた友達に<n>メールを出してみよう。
+EN: Email the first friend<n>who comes to mind.
+
+@#122
+JP: サインの練習をしておきなさい。
+EN: Practice signing autographs.
+
+@#123
+JP: 誰かがボケたら必ずつっこんであげよう。
+EN: When someone plays the fool, have a comeback ready.
+
+@#124
+JP: 誰かを誘って組体操をするのが吉。
+EN: Grab a friend and try some acrobatics for good luck.
+
+@#125
+JP: チャーシューは最後に食べよう。
+EN: Save the roast pork for last.
+
+@#126
+JP: 次の新聞休刊日に新聞ネタ級の出来事が<n>起こるだろう。
+EN: Something newsworthy will happen<n>the next day the newspapers take off.
+
+@#127
+JP: どこまでがモミアゲかわからない<n>髪型には注意。
+EN: Beware of haircuts where you can't tell<n>where the sideburns end.
+
+@#128
+JP: とりあえず明日かんがえよう。
+EN: For now, think about it tomorrow.
+
+@#129
+JP: パン食ならトーストが吉。
+EN: If you're having bread, toast it for good luck.
+
+@#130
+JP: 左足から家を出よう。
+EN: Step out of the house left foot first.
+
+@#131
+JP: ファミレスでのご飯が吉。
+EN: A meal at a family restaurant will bring good luck.
+
+@#132
+JP: 迷ったら最初に思いついたことが吉の一日。
+EN: When in doubt today, go with your first idea.
+
+@#133
+JP: メールは自分から終わらせよう。
+EN: Be the one to wrap up the email exchange.
+
+@#134
+JP: ラッコが歩いている姿を目にするだろう。
+EN: You'll catch sight of a sea otter out for a stroll.
+
+@#135
+JP: リスに縁あり。
+EN: A squirrel is in your destiny.
+
+@#136
+JP: 引越しに吉。
+EN: A lucky day to move house.
+
+@#137
+JP: 巻舌が役に立つ一日になるだろう。
+EN: Rolling your R's will come in handy today.
+
+@#138
+JP: 好きなのバレる。
+EN: Your crush will find out.
+
+@#139
+JP: 今宵会う人にトラブルメーカーがいる<n>可能性が大。
+EN: Chances are, someone you meet tonight<n>will be a troublemaker.
+
+@#140
+JP: 今日から第二の人生とおもうべし。
+EN: Think of today as the start of your second life.
+
+@#141
+JP: 今日のあなたにはヨガが吉。
+EN: Yoga will bring you good luck today.
+
+@#142
+JP: 今日のあなたは、<n>女ならスージー、男ならボブ。
+EN: Today, you're Susie if you're a girl,<n>Bob if you're a boy.
+
+@#143
+JP: 今日の服装は何系かハッキリさせよう
+EN: Pick a style for today's outfit and commit to it.
+
+@#144
+JP: 今日のゆううつは明日の果報。
+EN: Today's gloom is tomorrow's good fortune.
+
+@#145
+JP: 今日のラッキーアイテムはマスクです。
+EN: Today's lucky item is a face mask.
+
+@#146
+JP: 今日のラッキーアジトは、押し入れ。
+EN: Today's lucky hideout is a closet.
+
+@#147
+JP: 今日のラッキーアニマルは、<n>タローという名のイヌ。
+EN: Today's lucky animal is<n>a dog named Taro.
+
+@#148
+JP: 今日のラッキーアニマルは、アルマジロ。
+EN: Today's lucky animal is an armadillo.
+
+@#149
+JP: 今日のラッキーアニマルは、イルカ。
+EN: Today's lucky animal is a dolphin.
+
+@#150
+JP: 今日のラッキーアニマルは、カワウソ。
+EN: Today's lucky animal is an otter.
+
+@#151
+JP: 今日のラッキーアニマルは、シマウマ。
+EN: Today's lucky animal is a zebra.
+
+@#152
+JP: 今日のラッキーアニマルは、白黒のネコ。
+EN: Today's lucky animal is a black-and-white cat.
+
+@#153
+JP: 今日のラッキーアニマルは、ちわわ。
+EN: Today's lucky animal is a Chihuahua.
+
+@#154
+JP: 今日のラッキーアニマルは、文鳥。
+EN: Today's lucky animal is a Java sparrow.
+
+@#155
+JP: 今日のラッキーアニマルは、ボノボ。
+EN: Today's lucky animal is a bonobo.
+
+@#156
+JP: 今日のラッキーアニマルは、三毛猫。
+EN: Today's lucky animal is a calico cat.
+
+@#157
+JP: 今日のラッキーアニマルは、ライオン。
+EN: Today's lucky animal is a lion.
+
+@#158
+JP: 今日のラッキーアニマルは、陸ガメ。
+EN: Today's lucky animal is a tortoise.
+
+@#159
+JP: 今日のラッキーアニマルは、ワニ。
+EN: Today's lucky animal is a crocodile.
+
+@#160
+JP: 今日のラッキーひげは、チョビヒゲ。
+EN: Today's lucky mustache is a tiny toothbrush mustache.
+
+@#161
+JP: 今日のラッキー温泉は登別。
+EN: Today's lucky hot spring is Noboribetsu.
+
+@#162
+JP: 今日のラッキー魚はアジ。
+EN: Today's lucky fish is horse mackerel.
+
+@#163
+JP: 今日のラッキー靴下は青。
+EN: Today's lucky socks are blue.
+
+@#164
+JP: 今日のラッキー洗濯機は二層式です。
+EN: Today's lucky washing machine is a twin-tub model.
+
+@#165
+JP: 今日のラッキー猫はミケ。
+EN: Today's lucky cat is a calico.
+
+@#166
+JP: 今日の新聞のマンガは<n>かなり身につまされるはずだ。
+EN: A comic in today's newspaper should<n>hit a little too close to home.
+
+@#167
+JP: 今日の新聞の投書欄には<n>共感する話があるはず。
+EN: Today's letters to the editor should<n>have a story you can relate to.
+
+@#168
+JP: 今日の待ち合わせは「く」のつくとこで。
+EN: Meet up somewhere with "ku" in its name today.
+
+@#169
+JP: 今日は射手座の人といると吉。
+EN: Spend time with a Sagittarius today for good luck.
+
+@#170
+JP: 今日は牡牛座の人といると吉。
+EN: Spend time with a Taurus today for good luck.
+
+@#171
+JP: 今日は乙女座の人といると吉。
+EN: Spend time with a Virgo today for good luck.
+
+@#172
+JP: 今日は牡羊座の人といると吉。
+EN: Spend time with an Aries today for good luck.
+
+@#173
+JP: 今日はお金のことをゼニと言え。
+EN: Call money "dough" today.
+
+@#174
+JP: 今日は蟹座の人といると吉。
+EN: Spend time with a Cancer today for good luck.
+
+@#175
+JP: 今日はことさらコーディネートに<n>気をつけよう。
+EN: Pay extra attention to how you<n>put your outfit together today.
+
+@#176
+JP: 今日は魚座の人といると吉。
+EN: Spend time with a Pisces today for good luck.
+
+@#177
+JP: 今日は蠍座の人といると吉。
+EN: Spend time with a Scorpio today for good luck.
+
+@#178
+JP: 今日は獅子座の人といると吉。
+EN: Spend time with a Leo today for good luck.
+
+@#179
+JP: 今日は天秤座の人といると吉。
+EN: Spend time with a Libra today for good luck.
+
+@#180
+JP: 今日はとにかく「黒」を選べ。
+EN: Whatever the choice, pick black today.
+
+@#181
+JP: 今日はとにかく「左」を選べ。
+EN: Whatever the choice, pick left today.
+
+@#182
+JP: 今日はとにかく「赤」を選べ。
+EN: Whatever the choice, pick red today.
+
+@#183
+JP: 今日は双子座の人といると吉。
+EN: Spend time with a Gemini today for good luck.
+
+@#184
+JP: 今日は水瓶座の人といると吉。
+EN: Spend time with an Aquarius today for good luck.
+
+@#185
+JP: 今日は山羊座の人といると吉。
+EN: Spend time with a Capricorn today for good luck.
+
+@#186
+JP: 今日はわし座の人といると吉。
+EN: Spend time with someone born under Aquila today for good luck.
+
+@#187
+JP: 今日は一日赤ちゃん言葉。
+EN: Use baby talk all day today.
+
+@#188
+JP: 今日は寝る前にラジオ体操を。
+EN: Do your radio exercises before bed tonight.
+
+@#189
+JP: 今日は道のはしっこを歩くのがいい。
+EN: Stick to the edge of the road today.
+
+@#190
+JP: 今日は本にカバーをしないこと。
+EN: Leave the covers off your books today.
+
+@#191
+JP: 今日は目があった全ての人に<n>笑顔で応えること。
+EN: Greet everyone you make eye contact with<n>with a smile today.
+
+@#192
+JP: 今日をチャーハン記念日にすること。
+EN: Declare today Fried Rice Day.
+
+@#193
+JP: 今日割れた食器は、<n>昨日割れるはずだった食器だと思うべし。
+EN: Think of any dishes you break today<n>as dishes that were meant to break yesterday.
+
+@#194
+JP: 今日捨てるとあとで必ず後悔する。
+EN: Throw it away today, and you'll regret it later.
+
+@#195
+JP: 今日踏む犬のフンは、高級犬のフンだ。
+EN: The dog poop you step in today is from a posh pooch.
+
+@#196
+JP: 自転車乗れない人は、今日から<n>猛特訓するように。
+EN: Can't ride a bike? Today's the day<n>to start practicing in earnest.
+
+@#197
+JP: 七分袖が吉。
+EN: Three-quarter sleeves bring good luck.
+
+@#198
+JP: 手を切った方がよさそうと思う人とは、<n>今日手を切るように。
+EN: If there's someone you think you should cut ties with,<n>make today the day.
+
+@#199
+JP: 食べた後は十分に休むこと。
+EN: Get plenty of rest after eating.
+
+@#200
+JP: 食べられる草にくわしくなっておくのが吉。
+EN: Learning which wild plants you can eat will bring good luck.
+
+@#201
+JP: 新しい靴があったら今日からはこう。
+EN: Got new shoes? Today's the day to break them in.
+
+@#202
+JP: 静かなとこにかぎってお腹がなる。
+EN: Your stomach will wait for total silence before it growls.
+
+@#203
+JP: 洗濯する前にもう一度履いちゃえ。
+EN: Go on, wear them once more before washing them.
+
+@#204
+JP: 箸使いを正しくしよう。
+EN: Mind your chopstick manners.
+
+@#205
+JP: 夜くちぶえを吹いてはいけない。
+EN: No whistling after dark.
+
+@#206
+JP: 夜に爪を切ってはいけない。
+EN: Don't clip your nails at night.
+
+@#207
+JP: 「ズバリ言うわよ」って言われるだろう。
+EN: Someone will tell you, "I'll give it to you straight."
+
+@#208
+JP: 「セレブだねぇ。」って言われるだろう。
+EN: Someone will say, "Ooh, look at you, living the high life!"
+
+@#209
+JP: 「以前お会いしませんでしたか？」って<n>聞かれるだろう。
+EN: Someone will ask you,<n>"Haven't we met before?"
+
+@#210
+JP: いかり肩って、<n>おこってる肩のことじゃないよ。
+EN: Ikari means anger, but ikari-gata<n>just means square shoulders.
+
+@#211
+JP: いつもよりていねいにマユ毛を整えること。
+EN: Give your eyebrows a little extra grooming today.
+
+@#212
+JP: 今一度洗顔する必要あり。
+EN: Your face could use another wash.
+
+@#213
+JP: 今やりたいそれは、<n>大人になるまでがまんしよう。
+EN: That thing you're itching to do?<n>Save it until you're grown up.
+
+@#214
+JP: カメラ小僧のオヤジに縁あり。
+EN: You'll cross paths with an older fellow who's quite the shutterbug.
+
+@#215
+JP: 急に仮面舞踏会に招待される可能性あり。
+EN: A surprise invitation to a masquerade ball may come your way.
+
+@#216
+JP: 今日スポーツをするとしたら、<n>マラソンが吉。
+EN: If you're doing any sports today,<n>a marathon will bring good luck.
+
+@#217
+JP: 今日は、かわいそうとか思うな！
+EN: No feeling sorry for anyone today!
+
+@#218
+JP: 今日は、ひきこもりにならないように<n>一度は外に出よう。
+EN: Get out of the house at least once today.<n>Don't become a hermit!
+
+@#219
+JP: 今日は一日、<n>「もったいない、もったいない」で。
+EN: Today's motto:<n>"What a waste! What a waste!"
+
+@#220
+JP: 今日は何事も無礼講でいきましょう。
+EN: Let's dispense with the formalities today.
+
+@#221
+JP: スキップできない人は、今日中に<n>できるようにしておこう。
+EN: Can't skip? Make sure you've mastered it<n>by the end of the day.
+
+@#222
+JP: そろそろペンネームを考えておいた方が<n>いいだろう。
+EN: It's probably time<n>you thought up a pen name.
+
+@#223
+JP: 突然のパーティーに呼ばれるだろう。
+EN: Expect a last-minute invitation to a party.
+
+@#224
+JP: 何かと忙しい一日。
+EN: A busy day full of this, that and the other.
+
+@#225
+JP: 寝られるうちに寝ておこう。
+EN: Get some sleep while you still can.
+
+@#226
+JP: はかない靴は捨てよう。
+EN: Throw out the shoes you never wear.
+
+@#227
+JP: まるで使用前と使用後のような二人に会う。
+EN: You'll meet two people who look like a before-and-after photo.
+
+@#228
+JP: メガネ屋にあるメガネぜんぶ掛けてみる。
+EN: Try on every pair of glasses in the shop.
+
+@#229
+JP: 夜空を見上げる心の余裕を持とう。
+EN: Give yourself a moment to look up at the night sky.
+
+@#230
+JP: ラーメンはスープまで飲みきりなさい。
+EN: Finish your ramen, right down to the last drop of broth.
+
+@#231
+JP: 右手の人さし指に名前をつけなさい。
+EN: Give your right index finger a name.
+
+@#232
+JP: 見てみぬふりをしないように。
+EN: Don't turn a blind eye.
+
+@#233
+JP: 今日のラッキーハムは、ボンレス。
+EN: Today's lucky ham is boneless.
+
+@#234
+JP: 今日の夜は早いだろう。
+EN: Looks like you'll have an early night.
+
+@#235
+JP: 今日は、ずっと小指を立てていよう。
+EN: Keep your pinky sticking out all day today.
+
+@#236
+JP: 今日は「知らない」とは言ってはいけない。
+EN: You're not allowed to say "I don't know" today.
+
+@#237
+JP: 今日はお弁当を持ってでかけよう。
+EN: Pack a lunch before heading out today.
+
+@#238
+JP: 今日はコストパフォーマンスにこだわれ。
+EN: Insist on getting your money's worth today.
+
+@#239
+JP: 今日はだれのであろうと、<n>爪のアカを煎じて飲むようなことはダメ。
+EN: Don't drink anyone's boiled nail dirt today,<n>even if you hope their greatness will rub off.
+
+@#240
+JP: 今日はつり革に小指だけでつかまること。
+EN: Today, hold on to the train strap with just your pinky.
+
+@#241
+JP: 今日はポットを保温瓶と呼べ。
+EN: Today, call your thermos an "insulated flask."
+
+@#242
+JP: 今日は移動中にイスに座らないこと。<n>ただし飛行機はよし。
+EN: Don't sit down while traveling today.<n>Airplanes are the exception.
+
+@#243
+JP: 今日は空気中の窒素について<n>思いをめぐらすがいい。
+EN: Today, let your thoughts wander<n>to the nitrogen in the air.
+
+@#244
+JP: 今日は少子化について考えてみる。
+EN: Today, give some thought to the declining birth rate.
+
+@#245
+JP: 今日は新しいものをひとつ<n>身につけて出かける。
+EN: Wear something new today<n>when you head out.
+
+@#246
+JP: 今日は地球温暖化について考えてみる。
+EN: Today, give some thought to global warming.
+
+@#247
+JP: 今日は落とし物する。でも出てくる。
+EN: You'll lose something today. It'll turn up, though.
+
+@#248
+JP: 今日会う人はすべて様づけで呼ぶ。
+EN: Address everyone you meet today as "Your Excellency."
+
+@#249
+JP: 左足の小指をニックネームで呼びましょう。
+EN: Give your left pinky toe a nickname and use it.
+
+@#250
+JP: 再現ビデオみたいな出来事が<n>起こる可能性が大。
+EN: Something will probably happen<n>that's straight out of a TV reenactment.
+
+@#251
+JP: 昨日の夜は何を食べたか<n>思い出してみるべし。
+EN: Try to remember<n>what you ate last night.
+
+@#252
+JP: 四国は４県、では九州は何県？<n>今一度確認してみよう。
+EN: Shikoku has four prefectures. How many does Kyushu have?<n>Time to check again.
+
+@#253
+JP: 子牛に縁あり。
+EN: A calf is in your destiny.
+
+@#254
+JP: 蛇口をきつくしめすぎないように。
+EN: Don't turn the faucet off too tightly.
+
+@#255
+JP: 出掛けの一杯茶はいけない。<n>もう一杯飲んでいきなさい。
+EN: One cup of tea before heading out is bad luck.<n>Have another before you go.
+
+@#256
+JP: 粉茶を飲んでるような人生じゃ<n>茶柱は立たない。
+EN: No lucky tea stalk will stand upright in your cup<n>if you spend your life drinking powdered tea.
+
+@#257
+JP: 萌えの一日となるだろう。
+EN: Expect a day of swooning over cuteness.
+
+@#258
+JP: 羊羹はちゃんと切って食べよう。
+EN: Slice your sweet bean jelly properly before eating it.
+
+@#259
+JP: 隣の人の新聞を声に出して読んでみよう。
+EN: Try reading your neighbor's newspaper out loud.
+
+@#260
+JP: 「あの顔で金髪はないよな」って<n>言われるだろう。
+EN: Someone will say,<n>"Blond hair? With THAT face?"
+
+@#261
+JP: 「クシャミするときの顔がヘン」って<n>言われるだろう。
+EN: Someone will say,<n>"You make such a weird face when you sneeze."
+
+@#262
+JP: 「怪しいものではありません」という<n>怪しい人に遭遇する可能性大。
+EN: You'll probably meet someone suspicious<n>who insists, "I'm not suspicious at all."
+
+@#263
+JP: 「顔文字に似てる」って<n>言われるだろう。
+EN: Someone will say,<n>"You look like an emoticon."
+
+@#264
+JP: 「吸ってもいいですか？」と聞かれて<n>「ダメ」と言えるか？
+EN: When someone asks, "Mind if I smoke?"<n>can you bring yourself to say no?
+
+@#265
+JP: 「肩甲骨が見えないね」って<n>言われるだろう。
+EN: Someone will say,<n>"I can't see your shoulder blades."
+
+@#266
+JP: 「鎖骨、ないわけじゃないよね！？」って<n>言われるだろう
+EN: Someone will say,<n>"You DO have collarbones... right?!"
+
+@#267
+JP: 「飼い犬に手をかまれた」と思う<n>一日になるだろう。
+EN: Today, someone may bite the hand that feeds them. Yours.
+
+@#268
+JP: 「耳が縄文系だね」って<n>言われるだろう。
+EN: Someone will say,<n>"Your ears look prehistoric. Very Jomon era."
+
+@#269
+JP: 「怒ってなんかいませんよ！」って<n>言われるだろう。
+EN: Someone will tell you,<n>"I am NOT angry!"
+
+@#270
+JP: 「鼻が弥生系だね」って<n>言われるだろう。
+EN: Someone will say,<n>"Your nose looks ancient. Very Yayoi era."
+
+@#271
+JP: 思いがけず白髪を見つける日となるだろう。
+EN: You'll find a gray hair when you least expect it.
+
+@#272
+JP: 買った後から「貸してあげたのに」と<n>言われるような一日。
+EN: After you buy something, someone will say,<n>"You could've borrowed mine!"
+
+@#273
+JP: 今日の朝ご飯を抜いた人は、<n>トラブルにまきこまれぬよう要注意。
+EN: If you skipped breakfast today,<n>take extra care to stay out of trouble.
+
+@#274
+JP: 今日は、コンビニでの立ち読みは<n>やめておこう。
+EN: Today, resist the urge to browse magazines<n>at the convenience store.
+
+@#275
+JP: 今日は「っていうかぁ～」と言わない。
+EN: Go all day without saying "I mean, like..."
+
+@#276
+JP: 今日は慌てず焦らず、<n>ぼちぼち行きましょう。
+EN: No rushing, no stressing today.<n>Take it nice and easy.
+
+@#277
+JP: 今日は誰からも、<n>ためグチで話されるだろう。
+EN: Everyone will talk to you today<n>as if you're old pals.
+
+@#278
+JP: 今日はみちくさの連続だろう。
+EN: Today will be one detour after another.
+
+@#279
+JP: 今日は食い物の話をしないように。
+EN: Avoid talking about food today.
+
+@#280
+JP: 今日は早起きで夜更かしの一日となる。
+EN: You'll be up early and up late today.
+
+@#281
+JP: 今日は腹八分目に心がけよう。
+EN: Today, stop eating before you're completely full.
+
+@#282
+JP: 今日は文句を言わぬように。
+EN: Keep the complaints to yourself today.
+
+@#283
+JP: コーヒーを頼んでも、<n>砂糖を忘れられる日になる。
+EN: Order a coffee today,<n>and they'll forget the sugar.
+
+@#284
+JP: 醤油とソースを間違えるような<n>一日になりそう。
+EN: It's shaping up to be a day of mixing up<n>soy sauce and Worcestershire sauce.
+
+@#285
+JP: 食事中、そそうをする危険性大。<n>要注意。
+EN: You're at high risk of a mealtime mishap.<n>Watch yourself.
+
+@#286
+JP: すするな、鼻をかめ！
+EN: Don't sniffle. Blow your nose!
+
+@#287
+JP: そろそろハッキリ言ってやりましょう。
+EN: It's about time you told them straight.
+
+@#288
+JP: 出会う人より別れる人が多い一日。
+EN: More goodbyes than hellos today.
+
+@#289
+JP: 年よりうんと上に見られるだろう。
+EN: People will think you're much older than you are.
+
+@#290
+JP: 長い行列に巻き込まれる一日。
+EN: You'll get caught in a long line today.
+
+@#291
+JP: なで肩の方に要注意。
+EN: Beware of people with sloping shoulders.
+
+@#292
+JP: 見知らぬ女子高校生に<n>「おじさん」と呼ばれるだろう。
+EN: A high school girl you've never met<n>will call you "old man."
+
+@#293
+JP: ワン切りの電話に迷惑する一日になる。
+EN: You'll be plagued by one-ring hang-ups today.
+
+@#294
+JP: 一言も声を出さない日となる。
+EN: You'll go all day without saying a word.
+
+@#295
+JP: 横断歩道の白線につまづくだろう。
+EN: You'll trip over a painted stripe on a crosswalk.
+
+@#296
+JP: 勘違いが多い一日。
+EN: A day full of misunderstandings.
+
+@#297
+JP: 気がある、って思われたくないって<n>思う一日になるだろう。
+EN: You'll spend today hoping someone<n>doesn't think you're into them.
+
+@#298
+JP: 魚の骨がのどにひっかかりやすいので、<n>要注意。
+EN: Fish bones are likely to get stuck in your throat.<n>Take care.
+
+@#299
+JP: 今日切った爪はとっておけ。
+EN: Save any nail clippings you make today.
+
+@#300
+JP: 今日のご飯は肉を控えめに。
+EN: Go easy on the meat today.
+
+@#301
+JP: 今日の君はまるで「中年のかぎっ子」と<n>なるだろう。
+EN: Today, you'll be like a<n>"middle-aged latchkey kid."
+
+@#302
+JP: 今日は、「これ言ったっけ？」って<n>言ってから話さない。
+EN: Today, don't start a story with<n>"Have I told you this one?"
+
+@#303
+JP: 今日は「まだいたの？」って２度言われる。
+EN: You'll hear "You're still here?" twice today.
+
+@#304
+JP: 今日は「雨降って地かたまる」ことを<n>確信する一日になる。
+EN: Today will convince you that a little trouble<n>can leave things on firmer ground.
+
+@#305
+JP: 今日は好きなことをやる時間が<n>なかなか持てないだろう。
+EN: You'll struggle to find time<n>for the things you love today.
+
+@#306
+JP: 今日は突然の雨に見舞われる。
+EN: You'll get caught in a sudden shower today.
+
+@#307
+JP: 今日はもう寝よう。
+EN: Just call it a day and go to bed.
+
+@#308
+JP: 今日は耳が痛いことが多い。
+EN: You'll hear plenty of uncomfortable truths today.
+
+@#309
+JP: 今日は拾い物する。でも落とし物もする。
+EN: You'll find something today. And lose something, too.
+
+@#310
+JP: 今日は人のことを勝手に占わないこと。
+EN: Don't tell anyone's fortune today without asking.
+
+@#311
+JP: 今日は鼻をさわるな。
+EN: Don't touch your nose today.
+
+@#312
+JP: 昨日の１５時に何してたか思い出す必要に<n>迫られるだろう。
+EN: You'll need to remember what you were doing<n>at 3 p.m. yesterday.
+
+@#313
+JP: 指を鳴らすな。
+EN: Don't crack your knuckles.
+
+@#314
+JP: 車酔いしやすい日。梅干しを携帯しよう。
+EN: You're prone to carsickness today. Pack a pickled plum.
+
+@#315
+JP: 出掛けに針をつかってはいけない。
+EN: Don't use a needle just before going out.
+
+@#316
+JP: 笑顔がニワトリに似てるって<n>言われるだろう。
+EN: Someone will tell you<n>your smile looks like a chicken's.
+
+@#317
+JP: 切手をなめた舌で<n>他人のソフトクリームをなめるな。
+EN: Don't lick someone else's soft-serve ice cream<n>with the tongue you just used to lick a stamp.
+
+@#318
+JP: 爪の間に土が入る。
+EN: You'll get dirt under your nails.
+
+@#319
+JP: 電信柱を嗅いではいけません。
+EN: No sniffing utility poles.
+
+@#320
+JP: 鼻は片方ずつかめ。
+EN: Blow your nose one nostril at a time.
+
+@#321
+JP: 鼻息があらい一日になるだろう。
+EN: You'll be huffing and puffing today.
+
+@#322
+JP: 貧乏ゆすりをしないように。
+EN: Keep that leg from jiggling.
+
+@#323
+JP: 風邪を引きやすい一日。健康に要注意。
+EN: You're likely to catch a cold today. Take care of yourself.
+
+@#324
+JP: 忘れ物はない？
+EN: Got everything?
+
+@#325
+JP: 本日はファールボールに<n>お気をつけください。
+EN: Please watch out for<n>foul balls today.
+
+@#326
+JP: 無口な方が頭よさそうに見える。
+EN: You'll look smarter if you keep quiet.
+
+@#327
+JP: 目の前であくびをされる。
+EN: Someone will yawn right in your face.
+
+@#328
+JP: 羊と山羊の区別がつかない人は、<n>要注意の一日。
+EN: If you can't tell sheep from goats,<n>be extra careful today.
+
+@#329
+JP: 廊下を走るな。
+EN: No running in the halls.
+
+@#330
+JP: 今日はブッチャケてはいけない。
+EN: Today is no day to spill the beans.
+
+@#331
+JP: 「つまらないとか言うな！」って<n>しかられるだろう。
+EN: Someone will tell you off:<n>"Stop saying it's boring!"
+
+@#332
+JP: 「口あいてるよ」と指摘されぬよう注意。
+EN: Don't get caught with your mouth hanging open.
+
+@#333
+JP: 「走ってるときの手がヘンだよ」って<n>指摘されるだろう。
+EN: Someone will tell you,<n>"Your arms look weird when you run."
+
+@#334
+JP: ３分間スピーチと５分間テスト。<n>いずれかをする日になるだろう。
+EN: A three-minute speech or a five-minute test.<n>One of them awaits you today.
+
+@#335
+JP: あんな人がスキだった自分を<n>消してしまいたいと思うことだろう。
+EN: You'll wish you could erase the fact<n>that you ever had a crush on someone like that.
+
+@#336
+JP: 今頭を悩ましているその問題、<n>それは今日やんなきゃダメなこと？
+EN: That problem you're agonizing over...<n>Does it really need sorting out today?
+
+@#337
+JP: オナラをしたのがばれやすい一日。
+EN: If you fart today, everyone will know it was you.
+
+@#338
+JP: かたづけられないあなたも、<n>今日は整理整頓に心がけよう。
+EN: Even if you're hopeless at tidying up,<n>try to get things in order today.
+
+@#339
+JP: 今日、新たにあだながつけられるだろう。
+EN: You'll get a new nickname today.
+
+@#340
+JP: 今日は「グーでなぐりたい」と<n>３度思うだろう。
+EN: Today, you'll think "I could punch them!"<n>three separate times.
+
+@#341
+JP: 今日は「ずる」はいけません。
+EN: No cheating today.
+
+@#342
+JP: 今日はチェックのシャツを着ないように。
+EN: Don't wear a checked shirt today.
+
+@#343
+JP: クシャミを連発することになるだろう。
+EN: You're in for a sneezing fit.
+
+@#344
+JP: コンビニでヨーグルトを買っても<n>スプーンを入れ忘れられる可能性大。
+EN: Buy yogurt at a convenience store,<n>and they'll probably forget your spoon.
+
+@#345
+JP: しゃっくりが９８回でるだろう。
+EN: You'll hiccup 98 times.
+
+@#346
+JP: そろそろ足を洗った方がよさそうな事は、<n>今日足を洗うように。
+EN: If there's something you ought to wash your hands of,<n>make today the day you do it.
+
+@#347
+JP: ダマされやすい一日になるので、要注意。
+EN: You'll be easily fooled today. Watch out.
+
+@#348
+JP: 何もかもがまとまらない一日。
+EN: Nothing will come together today.
+
+@#349
+JP: 寝入ったところで起こされる日となる。
+EN: You'll be woken up just as you drift off.
+
+@#350
+JP: のどに骨がつまったら、<n>ご飯のかたまりを飲むといい。
+EN: If a bone gets stuck in your throat,<n>swallow a lump of rice.
+
+@#351
+JP: 白紙ＦＡＸを送らないように要注意。
+EN: Be careful not to send a blank fax.
+
+@#352
+JP: 後ろの人に注意。
+EN: Watch out for the person behind you.
+
+@#353
+JP: 今日のおかわりは断わられる。
+EN: Ask for seconds today, and you'll be turned down.
+
+@#354
+JP: 今日の割り勘は損をする。
+EN: Splitting the bill today will leave you out of pocket.
+
+@#355
+JP: 今日の間違いメールは、<n>間違ったふりをしてるだけだ。
+EN: That email sent to you "by mistake" today?<n>The sender only wants you to think it was a mistake.
+
+@#356
+JP: 今日の居留守はバレている。
+EN: They know you're only pretending to be out today.
+
+@#357
+JP: 今日の電話はろくなことがない。
+EN: Today's phone calls will bring nothing but trouble.
+
+@#358
+JP: 今日は、ふところに入られる。
+EN: Someone will worm their way into your confidence today.
+
+@#359
+JP: 今日は、ふところを探られる。
+EN: Someone will pry into your private affairs today.
+
+@#360
+JP: 今日は、やたら汗をかくことになる。
+EN: You'll sweat buckets today.
+
+@#361
+JP: 今日は、恋人の鼻毛が出てるの見ても<n>平常心で。
+EN: Stay calm if you spot a nose hair<n>poking out of your sweetheart's nostril today.
+
+@#362
+JP: 今日はやけにモノが歯につまる。
+EN: Food will keep getting stuck in your teeth today.
+
+@#363
+JP: 今日は手に汗にぎることが多そう。
+EN: Expect plenty of sweaty-palmed suspense today.
+
+@#364
+JP: 今日は犯人扱いをされやすいので、<n>要注意。
+EN: People may finger you as the culprit today.<n>Watch yourself.
+
+@#365
+JP: 試着室の鏡に映る姿を過信しないように。
+EN: Don't put too much faith in that fitting-room mirror.
+
+@#366
+JP: 体重増加に要注意。
+EN: Watch out for creeping weight gain.
+
+@#367
+JP: 電話のそばのペンがインク切れするだろう。
+EN: The pen by the phone will run out of ink.
+
+@#368
+JP: 「猫背で猫舌で猫ッ毛なのぉ～」って、<n>猫なで声を出す人に要注意。
+EN: Beware anyone who purrs, "I have a cat's slouch,<n>hate hot food and have kitten-soft hair!"
+
+@#369
+JP: 立ち読みを注意される日になる。
+EN: You'll get told off for reading without buying today.
+
+@#370
+JP: 「あ～、あの太った人ね」って<n>言われるだろう。
+EN: Someone will describe you as<n>"Oh, that chubby person."
+
+@#371
+JP: 「チャージ高すぎっ」って思う店に<n>入ることになるだろう。
+EN: You'll walk into a place that makes you think,<n>"What a ridiculous cover charge!"
+
+@#372
+JP: 「太った？」って言われるだろう。
+EN: Someone will ask, "Have you put on weight?"
+
+@#373
+JP: 会いたい人が留守な一日。
+EN: Everyone you want to see will be out today.
+
+@#374
+JP: 同じものを買ってしまう一日となる。
+EN: You'll buy something you already have today.
+
+@#375
+JP: 今日の夕飯は量で文句を言うことに<n>なるだろう。
+EN: You'll find fault with the portion size<n>at dinner tonight.
+
+@#376
+JP: 今日は「なに食おうか」って<n>迷わないように。
+EN: Don't spend all day wondering,<n>"What should I eat?"
+
+@#377
+JP: 今日はなかなか眠れない一日になるだろう。
+EN: You'll have trouble getting to sleep tonight.
+
+@#378
+JP: 今日は肉料理には要注意。
+EN: Be wary of meat dishes today.
+
+@#379
+JP: テレビ通販で失敗しやすい日。
+EN: TV shopping is a recipe for regret today.
+
+@#380
+JP: 人に笑われるような転び方をするだろう。
+EN: You'll take the kind of tumble people laugh at.
+
+@#381
+JP: ぼちぼち気づかれるころです。
+EN: People are starting to catch on.
+
+@#382
+JP: 口をあけてる間に幸運は逃げていく。
+EN: While you stand there with your mouth open, your luck will slip away.
+
+@#383
+JP: 今日こそは、と思ったことは<n>今日はうまくいかぬ。
+EN: That thing you swore you'd finally do today?<n>It won't go well.
+
+@#384
+JP: 今日の外食はことごとくはずす。
+EN: Every meal you eat out today will disappoint.
+
+@#385
+JP: 今日はヤセてた時の服を捨てよう。
+EN: Today's the day to toss those clothes from your slimmer days.
+
+@#386
+JP: 今日は足元を見られる。
+EN: Someone will take advantage of your predicament today.
+
+@#387
+JP: 正直しんどい一日になるだろう。
+EN: Honestly, today is going to be a slog.
+
+@#388
+JP: 虫が目に飛び込んでくるだろう。
+EN: A bug will fly into your eye.
+
+@#389
+JP: 鼻炎になりやすいので要注意。
+EN: Your nose is prone to acting up. Take care.
+
+@#390
+JP: 風呂上がりの自分の顔が、<n>親に似てると感じるだろう。
+EN: You'll look in the mirror after a bath<n>and see one of your parents staring back.
+
+@#391
+JP: 「ありえない。」と何度も思う<n>一日になるだろう。
+EN: You'll spend today thinking,<n>"You've got to be kidding me."
+
+@#392
+JP: いつにもまして遅刻する危険性大の一日。
+EN: You're even more likely than usual to be late today.
+
+@#393
+JP: 今日はホームルームで<n>指摘を受けるだろう。
+EN: You'll get called out in homeroom today.
+
+@#394
+JP: 今日、君の家に高く積まれた本の山は<n>くずれるだろう。
+EN: That towering stack of books at home<n>will come crashing down today.
+
+@#395
+JP: 今日はハイリスクローリターン。
+EN: Today offers high risks and low returns.
+
+@#396
+JP: 今日は冷や汗をかきまくるでしょう。
+EN: You'll break out in a cold sweat again and again today.
+
+@#397
+JP: 鼻毛注意！
+EN: Check those nose hairs!
+
+@#398
+JP: いつもの弱点が目立つ日になるだろう。
+EN: Your usual weak spots will really show today.
+
+@#399
+JP: 足のニオイをかぐはめになるだろう。
+EN: You'll end up getting a whiff of foot odor.

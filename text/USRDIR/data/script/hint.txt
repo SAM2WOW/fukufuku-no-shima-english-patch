@@ -1,0 +1,99 @@
+# source: PSP_GAME/USRDIR/data/script/hint.scb
+# format: scb
+# width: 44
+
+@5144 max=639
+JP: 表示したいテキストのIDを入力してください。
+EN: 
+
+@14E64 max=639
+JP: 長老の信頼を得よ。<n>そのために、幾度も話すべし。
+EN: Earn the elder's trust.<n>To do so, speak with him many times.
+
+@150E4 max=639
+JP: 千里眼の鳥が、汝を待っている。
+EN: The all-seeing bird awaits you.
+
+@15364 max=639
+JP: 賢き長老の言葉にしたがい<n>汝の分身をさまよわせよ。
+EN: Heed the wise elder's words<n>and let your avatar roam.
+
+@155E4 max=639
+JP: 浜の老女の心を掴むべし。<n>一度にては信頼は得られず。
+EN: Win the heart of the old woman on the beach.<n>Trust cannot be earned in a single visit.
+
+@15864 max=639
+JP: 専門家にはかりて<n>おのれの心理を知るべし。
+EN: Seek an expert's help<n>to understand your own mind.
+
+@15AE4 max=639
+JP: 地に潜るものの謎かけを解き<n>哀しき父親に話しかけるべし。
+EN: Solve the burrower's riddle,<n>then speak to the sorrowful father.
+
+@15D64 max=639
+JP: 悲しき闇の妖精が<n>汝の来訪を待っている。
+EN: The sorrowful fairy of darkness<n>awaits your visit.
+
+@15FE4 max=639
+JP: 木に隠れる者の言葉をよく聞くべし。
+EN: Listen well to the one who hides in the tree.
+
+@16264 max=639
+JP: 暗躍する結社を避けるべからず。<n>侮辱に耐えることで道は開ける。
+EN: Do not shun the shadowy society.<n>Endure their insults, and a path shall open.
+
+@164E4 max=639
+JP: 占う娘が、汝への信頼を深めるとき<n>新たなる道を指し示すだろう。
+EN: When the fortune-telling maiden's trust in you grows,<n>she shall reveal a new path.
+
+@16764 max=639
+JP: 経験こそ汝の宝、汝の道しるべ。<n>長老がその羅針盤となる。
+EN: Experience is your treasure and your guide.<n>The elder shall be your compass.
+
+@169E4 max=639
+JP: 負けることこそが、三匹の兄弟の望み。<n>兄が一人立つ時に、贈り物は贈られる。
+EN: Defeat is what the three brothers desire.<n>When an older brother stands alone, a gift shall be given.
+
+@16C64 max=639
+JP: 老いたる庭師が、そのありかを知る。
+EN: The aged gardener knows where it lies.
+
+@16EE4 max=639
+JP: 傲慢なる王子の試練に打ち勝つとき<n>新たなる宝は汝のものとなる。
+EN: When you overcome the haughty prince's trials,<n>a new treasure shall be yours.
+
+@17164 max=639
+JP: 甘美なる紳士の心を掴むとき<n>そのもののありかは示されるだろう。
+EN: Win the sweet gentleman's heart,<n>and he shall reveal where it lies.
+
+@173E4 max=639
+JP: 武の道を進む者の心に叶うとき<n>思いもかけぬ恩賞があるだろう。
+EN: Win the favor of one who walks the warrior's path,<n>and an unexpected reward shall be yours.
+
+@17664 max=639
+JP: 学識深き者は語ることを好む。<n>彼の言葉に耳傾けよ。
+EN: The learned one delights in speaking.<n>Lend him your ear.
+
+@178E4 max=639
+JP: 運命の押し印が六の数字を超え<n>商人は歓喜とともに道を開くだろう。
+EN: When the stamps of fate number more than six,<n>the merchant shall joyfully open the way.
+
+@17B64 max=639
+JP: 星座を作る者たちと出会い<n>契りを結ぶことは重要である。
+EN: Seek out those who shape the constellations.<n>The bonds you forge with them are vital.
+
+@17DE4 max=639
+JP: 鋭利なる刃物を持つ女。<n>彼女の望みを二度かなえよ。
+EN: Seek the woman who wields sharp blades.<n>Grant her wish twice.
+
+@18064 max=639
+JP: 汝の分身を育てよ。しかるのち<n>循環する店の主人は汝に答える。
+EN: Help your avatar grow. Only then<n>shall the recycling shop's owner answer you.
+
+@182E4 max=639
+JP: 妖精の導きに従い、拾い集めて組合せよ。<n>三度行えたなら、妖精は答えをくれるだろう。
+EN: Follow the fairy's guidance: gather the pieces and fit them together.<n>Do this three times, and the fairy shall give you an answer.
+
+@18564 max=639
+JP: 地には全ての賢者たちが集い<n>もはや我に語るべき言葉はない。
+EN: All the sages have gathered upon this land.<n>I have no more words to offer.

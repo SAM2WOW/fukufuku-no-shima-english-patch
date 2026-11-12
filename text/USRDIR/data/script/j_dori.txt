@@ -1,0 +1,143 @@
+# source: PSP_GAME/USRDIR/data/script/j_dori.scb
+# format: scb
+# width: 44
+
+@5144 max=639
+JP: やあ。俺はドリアードジュニア。<n>木の妖精さ。駆け出しだけどね。
+EN: Hey. I'm Dryad Junior.<n>A tree fairy. Still pretty new at it, though.
+
+@53C4 max=639
+JP: やあ、弟弟子。<n>今日も修行かい？熱心だなあ。
+EN: Hey, junior!<n>Training again today? You're dedicated.
+
+@5644 max=639
+JP: 俺のオヤジは庭師なんだけどね。<n>俺は、違う道を歩きたいんだ。<p>英雄と一緒に冒険に出て、悪を倒し<n>伝説の冒険者になるのさ！<p>そのために、探し道に入門して<n>強さを追求してるんだ。
+EN: My old man's a gardener, you know.<n>But I want to go my own way.<p>I'll adventure alongside a hero, defeat evil,<n>and become a legendary adventurer!<p>That's why I took up the Way of Searching.<n>I'm working on getting stronger.
+
+@58C4 max=639
+JP: 探し道名人への道は遠いけど<n>…お互い、がんばろうな。
+EN: We've got a long way to go before we're masters<n>of the Way of Searching... Let's keep at it.
+
+@5B44 max=639
+JP: …いやあ、やっちまったなあ。<n>探し道の神、かよ。<p>兄弟子としても、自慢できるぜ！<n>はははは！
+EN: Wow... You really did it.<n>A god of the Way of Searching, huh?<p>Makes me proud to be your senior apprentice!<n>Ha ha ha ha!
+
+@5DC4 max=639
+JP: 次の課題は、やらないのかい？<n>師匠がお待ちかねだよ？
+EN: Aren't you taking on the next assignment?<n>The master's waiting for you, you know.
+
+@6044 max=639
+JP: お！見つけたんだね！<n>はやく師匠に見せるといいよ！
+EN: Oh! You found it!<n>Go on, show the master!
+
+@62C4 max=639
+JP: お！課題を受けたのかい？<n>どれどれ、見せてみ……
+EN: Oh! Got yourself an assignment?<n>Let's see, let me have a look...
+
+@6544 max=639
+JP: 「あいまいゼミの抜けがら」かあ。<n>じゃ、ヒントを教えてあげよう。<p>「師よりもっとも近い<n>松の根元にあり。」<p>これだけさ。さあ、わかるかな？<n>がんばれよ！
+EN: The "Wishy-Washy Cicada Shell," huh?<n>All right, here's your hint.<p>"At the foot of the pine tree<n>nearest to the master."<p>That's all. Think you can figure it out?<n>Good luck!
+
+@67C4 max=639
+JP: 「黄昏のメロンパン」かあ。<n>じゃ、ヒントを教えてあげよう。<p>「汝の家の扉より三歩南にあり。」<p>これだけさ。さあ、わかるかな？<n>がんばれよ！
+EN: The "Twilight Melon Bun," huh?<n>All right, here's your hint.<p>"Three steps south of the door to thy home."<p>That's all. Think you can figure it out?<n>Good luck!
+
+@6A44 max=639
+JP: 「ソクラテスの綿棒」かあ。<n>それ、俺解けなかったんだけどね。<p>「４匹のカエルが<n>見つめる場所にあり。」<p>ヒントはこうだったよ。<n>なんのことだろうね？
+EN: "Socrates' Cotton Swab," huh?<n>I couldn't solve that one myself.<p>"Where four frogs<n>fix their gaze."<p>That was the hint.<n>What do you suppose it means?
+
+@6CC4 max=639
+JP: 「山下東村の色紙」かあ。<n>ええと、そいつのヒントは……。<p>「ひっそり台地<n>丘の上の石の下にあり。」<p>探し道協会のメモには<n>これしか書いてないなあ。わかる？
+EN: "Yamashita Toson's Autograph Board," huh?<n>Let's see, the hint for that one is...<p>"On Hushed Plateau,<n>beneath a stone atop the hill."<p>That's all the Searching Association's notes<n>have to say. Any ideas?
+
+@6F44 max=639
+JP: 「モグラ仮面変身セット」かあ。<n>ええと、そいつのヒントは……。<p>「便りが届く浜辺の<n>いちばん西の岩にあり。」<p>探し道協会のメモには<n>これしか書いてないなあ。わかる？
+EN: The "Masked Mole Transformation Kit," huh?<n>Let's see, the hint for that one is...<p>"At the westernmost rock<n>on the beach where messages arrive."<p>That's all the Searching Association's notes<n>have to say. Any ideas?
+
+@71C4 max=639
+JP: 「膝枕練習人形」かあ。<n>ええと、そいつのヒントは……。<p>「木に隠れし人の<n>二歩西、二歩南にあり。」<p>いやあ、難しそうだねー。<n>俺にはとても無理そうだよ。
+EN: The "Lap Pillow Practice Doll," huh?<n>Let's see, the hint for that one is...<p>"Two steps west and two steps south<n>of the one hidden in a tree."<p>Whew, that sounds tough.<n>I don't think I'd stand a chance.
+
+@7444 max=639
+JP: 「火星コタツ」かあ。<n>ええと、そいつのヒントは……。<p>「そぞろなる山のそば<n>青い木の下にあり。」<p>いやあ、難しそうだねー。<n>俺にはとても無理そうだよ。
+EN: The "Martian Heated Table," huh?<n>Let's see, the hint for that one is...<p>"Beside the mountain of wandering,<n>beneath a blue tree."<p>Whew, that sounds tough.<n>I don't think I'd stand a chance.
+
+@76C4 max=639
+JP: 「白熊専用ファンデーション」かあ。<n>ええと、そいつのヒントは……。<p>「うち続く二つの橋のはざまにあり。」<p>いやあ、難しそうだねー。<n>俺にはとても無理そうだよ。
+EN: The "Polar Bear Foundation Makeup," huh?<n>Let's see, the hint for that one is...<p>"Between two bridges that follow one another."<p>Whew, that sounds tough.<n>I don't think I'd stand a chance.
+
+@7944 max=639
+JP: 「チューリングマシーン」かあ。<n>ええと、そいつのヒントは……。<p>「王子の庭<n>獣に踏まれし場所にあり。」<p>こりゃまた、ぜんぜん意味不明だな。<n>はー、さっぱりだ……。
+EN: The "Turing Machine," huh?<n>Let's see, the hint for that one is...<p>"In the princes' garden,<n>where beasts have trodden."<p>Well, that makes absolutely no sense to me.<n>Man, I'm stumped...
+
+@7BC4 max=639
+JP: 「ムー大陸専用カーナビ」かあ。<n>ええと、そいつのヒントは……。<p>「もっとも北にしてもっとも西なる島の<n>運命分かれる場所にあり。」<p>こりゃまた、ぜんぜん意味不明だ。<n>さすがは、初段の課題だな！
+EN: The "GPS for the Continent of Mu," huh?<n>Let's see, the hint for that one is...<p>"On the island farthest north and farthest west,<n>where fates diverge."<p>Well, that makes absolutely no sense to me.<n>Just what you'd expect from a 1st Dan assignment!
+
+@7E44 max=639
+JP: 「ナンダカンダの杖」かあ。<n>ええと、そいつのヒントは……。<p>「かしこき者の池<n>垂直と水平が交わる所の西側にあり。」<p>むうう、さすが有段者の課題！<n>まるで見当もつかないよ！
+EN: The "Nandakanda Staff," huh?<n>Let's see, the hint for that one is...<p>"At the pond of the wise,<n>west of where vertical and horizontal meet."<p>Whew, that's a Dan-level assignment for you!<n>I haven't got the faintest idea!
+
+@80C4 max=639
+JP: 「ポン子ちゃん写真集」かあ。<n>ええと、そいつのヒントは……。<p>「ただひとつの井戸<n>その二歩東、六歩北にあり。」<p>むうう、さすが有段者の課題！<n>まるで見当もつかないよ！
+EN: The "Ponko Photo Book," huh?<n>Let's see, the hint for that one is...<p>"From the one and only well,<n>two steps east and six steps north."<p>Whew, that's a Dan-level assignment for you!<n>I haven't got the faintest idea!
+
+@8344 max=639
+JP: 「旗上げゲーム秘伝書」かあ。<n>ええと、そいつのヒントは……。<p>「描かれし旗の下にあり。」<n>おいおい、たったこれだけだよ。<p>むうう、わけがわからん！<n>探し道は、奥が深いなあ。
+EN: The "Secret Flag Game Manual," huh?<n>Let's see, the hint for that one is...<p>"Beneath the depicted flag."<n>Wait, that's seriously all it says?<p>Hmm... I don't get it!<n>There's a lot to the Way of Searching.
+
+@85C4 max=639
+JP: 師範試験か！すごいな！<n>課題は「ナポレオン茶わん」かあ。<p>「幼き霊魂のそば<n>花畑のいずこかにあり。」<p>いずこかにあり、って、おい……。<n>こりゃ大変だぜ？
+EN: The Master Instructor exam! Amazing!<n>Your assignment is "Napoleon's Rice Bowl," huh?<p>"Near a young soul,<n>somewhere in a field of flowers."<p>"Somewhere"? Oh, come on...<n>You've got your work cut out for you!
+
+@8844 max=639
+JP: 五段の課題なんて、初めて見るな！<n>課題は「爆走三国志」かあ。<p>「すくすく野原の西側<n>１４が並ぶ地点にあり。」<p>はああ？なんのことだあ？<n>俺ごときにわかるわけないけどさ。
+EN: I've never seen a 5th Dan assignment before!<n>You're after "Three Kingdoms Racing," huh?<p>"West of Sprout Meadow,<n>where 14 line up."<p>Huh?! What's that supposed to mean?<n>As if someone at my level would know.
+
+@8AC4 max=639
+JP: 六段の課題なんて、初めて見るな！<n>課題は「レイバーテンの秘薬」かあ。<p>「大いなる臣の住むところ<n>緑の中州のいずこかにあり。」<p>こ、こりゃ大変そうだな……。<n>ヒント見ただけでうんざりだよ……。
+EN: I've never seen a 6th Dan assignment before!<n>You're after "Reibaten's Elixir," huh?<p>"Where the great retainer dwells,<n>somewhere on the green river island."<p>Th-this one looks rough...<n>Just reading the hint wears me out...
+
+@8D44 max=639
+JP: 七段の課題なんて、初めて見るな！<n>課題は「無限の本」かあ。<p>「大いなる山のふもと<n>骨の王の住まう地の近くにあり」<p>一見、かんたんそうだけど<n>絶対難しいんだよな、これ……。
+EN: I've never seen a 7th Dan assignment before!<n>You're after the "Book of Infinity," huh?<p>"At the foot of the great mountain,<n>near the dwelling of the king of bones."<p>It looks easy at first glance,<n>but you just know it's going to be tough...
+
+@8FC4 max=639
+JP: は、八段試験かよ……。まいったな。<n>課題は「冥界のケータイ」かあ。<p>「髪切る者の住まう<n>波打ち際にあり」<p>一見、かんたんそうだけど<n>絶対難しいんだよな、これ……。
+EN: Th-the 8th Dan exam? Oh, man...<n>You're after the "Underworld Cell Phone," huh?<p>"At the water's edge,<n>where the cutter of hair dwells."<p>It looks easy at first glance,<n>but you just know it's going to be tough...
+
+@9244 max=639
+JP: く、九段試験かよ……。まいったな。<n>課題は「黄金のヒザ」かあ。<p>「水に住む者が現れる地点の<n>真西にあり。」<p>一見、かんたんそうだけど<n>絶対難しいんだよな、これ……。
+EN: Th-the 9th Dan exam? Oh, man...<n>You're after the "Golden Knee," huh?<p>"Due west of the spot<n>where a water dweller appears."<p>It looks easy at first glance,<n>but you just know it's going to be tough...
+
+@94C4 max=639
+JP: じ、十段試験かよ……。まいったな。<n>「豊臣家オリジナルＴシャツ」かあ。<p>「欲しがる者の森、二つの扉が<n>見つめあう場所にあり。」<p>おいおい、ほんとに見つかるのかよ<n>こんなヒントで……。
+EN: Th-the 10th Dan exam? Oh, man...<n>The "Original Toyotomi Clan T-Shirt," huh?<p>"In the forest of the one who yearns,<n>where two doors face each other."<p>Come on, can you really find it<n>with a hint like that...?
+
+@9744 max=639
+JP: し、将軍試験……。凄すぎるな。<n>課題は「マイドス王の指サック」か。<p>「造られし円環の内にあり。」<n>何度見ても、これだけだぜ？<p>おいおい、ほんとに見つかるのかよ<n>こんなヒントで……。
+EN: Th-the Shogun exam... That's incredible.<n>You're after "King Maidos' Finger Cot," huh?<p>"Within the man-made ring."<n>I've read it over and over. That's all it says!<p>Come on, can you really find it<n>with a hint like that...?
+
+@99C4 max=639
+JP: ついに名人試験か！協力するぜ！<n>課題は「三白眼の神像」か。<p>「キノコの声が指し示す場所にあり。」<n>こ、こりゃ極めつけに意味不明だな。<p>うーむ、これは、いつもの課題とは<n>別の考え方をしたほうがいいかもな。
+EN: The Master exam at last! I'll help you out!<n>You're after the "White-Eyed Idol," huh?<p>"Where the voices of mushrooms point."<n>Th-that's the most baffling one yet.<p>Hmm... Maybe you should approach this one<n>differently from the usual assignments.
+
+@9C44 max=639
+JP: 英雄試験……。本当にあったとはな。<n>課題は「ナゾのボタン」か。<p>「血ではなく樹でなく空でもなく<n>砂ではなく夕日でなく桜でもない。」<p>まだ、続きがあるぜ。<n>「残されしただひとつの元にあり。」<p>うおお！さすがは英雄の試練！<n>これで解ける奴は天才だぜ！
+EN: The Hero exam... So it really does exist.<n>You're after the "Mystery Button," huh?<p>"Neither blood nor tree nor sky,<n>neither sand nor sunset nor cherry blossom."<p>There's more.<n>"Beneath the only one that remains."<p>Whoa! Now that's a trial fit for a hero!<n>Anyone who solves this is a genius!
+
+@9EC4 max=639
+JP: 皇帝の試験……。なんてこった！<n>課題は「忍びのスリッパ」か。<p>「幾重にも分かれし迷宮の果て<n>辿りつきし水辺のいずこかにあり。」<p>こ、こりゃ凄い課題だな……<n>み、見つけられるのかい？
+EN: The Emperor exam... Unbelievable!<n>You're after the "Ninja Slippers," huh?<p>"At the end of the maze's many branches,<n>somewhere along the water's edge you reach."<p>Th-that's one heck of an assignment...<n>Th-think you can find it?
+
+@A144 max=639
+JP: 最終試験……。うおおおお！<n>協力できるだけで幸せだよ！<p>課題は「魔法の鏡７１番」か。<n>よっしゃ、まかせとけ！<p>「忘れられぬ場所<n>平時には辿りつけぬ島にあり。」<p>泣いても笑っても、最後の課題<n>ぜったい解いてくれよな！
+EN: The final exam... Whoa!<n>I'm just happy I get to help!<p>You're after "Magic Mirror No. 71," huh?<n>All right, leave it to me!<p>"In an unforgettable place,<n>on an island not ordinarily within reach."<p>Come what may, this is the last assignment.<n>You've just got to solve it!
+
+@A3C4 max=639
+JP: ま、なにはともあれ<n>おたがい、がんばろうぜ！
+EN: Well, whatever happens,<n>let's both keep at it!
+
+@A644 max=639
+JP: <<テキストチェック>><n>表示したい会話メッセージのIDを選んでください。
+EN: 

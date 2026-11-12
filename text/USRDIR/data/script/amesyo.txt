@@ -1,0 +1,1671 @@
+# source: PSP_GAME/USRDIR/data/script/amesyo.scb
+# format: scb
+# width: 44
+
+@5144 max=639
+JP: …ああ、君なのかい！<p>コテージに来てるっていう<n>ひさびさのお客さんっていうのは。<p>僕はアメショー。医者だよ。<n>名前を教えてくれるとうれしいな。<p><PN>君というんだね。<n>…ふうむ。<p>なかなか興味を引かれる名だ。<n>ま、なんにしろ、よろしく。<p>じつは、医者といっても<n>僕の専門は、心理分析なんだ。<p>親友のチワワ君の招きで<n>島を訪れる人の分析をやってる。
+EN: ...Ah, so it's you!<p>The first guest the cottage has had<n>in quite some time.<p>I'm Professor Amesho, a doctor.<n>May I ask your name?<p><PN>, is it?<n>...Hmm.<p>What an intriguing name.<n>Well, a pleasure to meet you.<p>Now, I may be a doctor, but<n>my specialty is personality analysis.<p>My dear friend Ms. Chihuahua invited me<n>to analyze the island's visitors.
+
+@53C4 max=639
+JP: おや、<PN>じゃないか。<n>調子はどうだい？
+EN: Oh, hello, <PN>.<n>How are you feeling?
+
+@5644 max=639
+JP: やあ、<PN>。<n>健康そうでなによりだね。
+EN: Hello, <PN>.<n>Good to see you looking so healthy.
+
+@58C4 max=639
+JP: 心理分析というのは、自分を知り<n>新たな自分を見つけるいい機会だよ。<p>どうだい、君もひとつ<n>軽い気持ちで受けてみないかい？
+EN: Personality analysis is a fine way to<n>understand yourself and discover new sides of yourself.<p>What do you say?<n>Care to give it a try? Just relax and enjoy it.
+
+@5B44 max=639
+JP: そういえば君、この前は<p>僕の心理分析を<n>受けてくれなかったねえ。<p>医者として忠告するけど<n>受けといたほうがいいよ？
+EN: Come to think of it, last time...<p>You didn't take me up on<n>my personality analysis, did you?<p>As a doctor, I must advise you:<n>It would do you good, you know.
+
+@5DC4 max=639
+JP: ところで…<n>僕の心理分析はどうだった？<p>やってみると、なかなか<n>面白い結果が出るもんだろう？<p>ぜひ、今日も<n>つづきを受けてみてくれ！
+EN: By the way...<n>What did you think of my personality analysis?<p>The results can be quite fascinating<n>once you give it a try, wouldn't you say?<p>Do come and continue<n>where we left off today!
+
+@6044 max=639
+JP: おっと、そうだそうだ。<n>君に渡すものがあったんだ。<p>チワワ君から預かったんだが<n>彼の祖先の、ええと…<p>チワ・ワン・チーという人の<n>像だそうだよ。<p>なんでも、結界を解くカギだとか…<n>そんなようなことを言ってたなあ。<p>僕にはなんのことだかわからないが…<n>はい、じゃあ渡すよ。
+EN: Oh, that's right!<n>I have something for you.<p>Ms. Chihuahua left it with me.<n>It's a statue of her ancestor, er...<p>Someone by the name of<n>Chiwa Wan Chi, apparently.<p>She said it was a key to breaking a barrier...<n>Or something along those lines.<p>I've no idea what she meant, but...<n>Here you are.
+
+@62C4 max=639
+JP: ん？僕がなぜ<n>この島に住んでるかって？<p>チワワ君とは、大学の同期でね。<n>会った瞬間から無二の親友なんだ。<p>よく、夜を徹して<n>心理について語り合ったものさ…。<p>その親友に、頼まれたんじゃね。<n>一も二もないさ。<p>大学病院からの誘いを蹴って<n>この島に来たってわけだよ。
+EN: Hmm? Why do I<n>live on this island?<p>Ms. Chihuahua and I were at university together.<n>We became best friends the moment we met.<p>We used to stay up all night<n>discussing the human mind...<p>So when my dear friend asked me to come,<n>how could I possibly refuse?<p>I turned down an offer from the university hospital<n>and moved here.
+
+@6544 max=639
+JP: あ、そうそう、急に思い出したんだけど…<p>この島の北東のほうに<n>サガシニコフっていう武道家がいてね。<p>入門しろー、入門しろーって叫びながら<n>竹刀を持って追いかけてくるんだよ！<p>どういう精神の持ち主なんだか<n>分析してみたいものだけど…<p>なんだか怖いから、あっちの方には<n>なかなか近づけなくてね…。
+EN: Oh, that reminds me...<p>There's a martial artist named Sagashnikov<n>in the northeast of the island.<p>He chases me with a bamboo sword,<n>shouting, "Become my pupil! Become my pupil!"<p>I'd love to analyze<n>what goes on inside that head of his...<p>But he's rather frightening,<n>so I tend to steer clear of the area...
+
+@67C4 max=639
+JP: ふむ…<n>心理分析というのは、時間がかかるものさ。<p>面倒かもしれないけど<n>何度も何度も受けることで…<p>どんどん、本当の自分が<n>わかってくるんだ。<p>というわけで、今日も<n>僕の診察を受けてほしいね！
+EN: Hmm...<n>Personality analysis takes time, you know.<p>It may seem a bother,<n>but the more sessions you attend...<p>The more clearly you'll come to see<n>your true self.<p>With that in mind,<n>I'd like you to have another session today!
+
+@6A44 max=639
+JP: ふう、まいったなあ…。<p>チワワ君は、素晴らしいやつだけど<n>ひとつだけ欠点があってね…<p>いつも、待ち合わせの時間を<n>間違えるんだよな、彼は…。<p>同じ島にいる親友なのに<n>なかなか会えないんだよなあ。
+EN: Oh dear, what a nuisance...<p>Ms. Chihuahua is a wonderful friend,<n>but she does have one little flaw...<p>She always gets the time wrong<n>when we arrange to meet...<p>My best friend lives on the very same island,<n>yet I hardly ever see her.
+
+@6CC4 max=639
+JP: そういえば、先日<n>カラメル伯爵という人と会ってねえ。<p>ちょっと分析させてもらったんだが<n>驚くべき人だよ、あの人は。<p>なんでも、異世界から来たらしいが…<n>じつに深く豊かな精神を持っている。<p>いや、この島に来て本当によかったよ。<n>ああいう人と会えるんだからねえ。
+EN: Oh yes, the other day<n>I met someone called Count Caramel.<p>He let me analyze him a little.<n>What an extraordinary fellow!<p>Apparently, he comes from another world...<n>His mind has remarkable depth and richness.<p>I'm so glad I came to this island.<n>Where else would I meet someone like him?
+
+@6F44 max=639
+JP: うーん、どうやら<n>この福福の島というのは…<p>世界の運命の一部を支えている<n>とても重要な場所らしいねえ。<p>この島に来る前の僕なら、そんなこと<n>冗談としか思わなかったろうけど…<p>ここに長くいると、だんだん<n>それも本当じゃないかと思えてくるよ。
+EN: Hmm, it seems that<n>Fukufuku Island...<p>Is a very important place,<n>helping to sustain the fate of the world.<p>Before I came here,<n>I'd have thought that was a joke...<p>But the longer I stay,<n>the more I begin to believe it.
+
+@71C4 max=639
+JP: さて、君のカルテはどうなってたかな…。<n>うん、いま、君の性格の分析率は…<p>なんと、１００％！<n>カンペキな分析ができているよ！<p>君の性格の全てが、カルテに書かれている！<n>どうか熟読してくれたまえ。<p>そこに書かれていることが全てではないが<n>君自身を知る、優れた手がかりになるよ！<p>さて…僕も今回は、いい仕事ができたよ。<n>いや、ありがとう！
+EN: Now, let's have a look at your chart...<n>Yes, your personality analysis is now...<p>A full 100%!<n>The analysis is complete!<p>Your entire personality is laid out in your chart!<n>Do give it a thorough read.<p>It can't tell you everything, of course,<n>but it's an excellent guide to understanding yourself!<p>Well... I've done some fine work here.<n>Thank you very much!
+
+@7444 max=639
+JP: さあ、じゃあさっそく始めよう。<n>これから、僕の質問に答えてもらう。<p>その答えの蓄積から、君の性格を<n>だんだん分析してゆくのさ。<p>テストを重ねるほど、精度は高くなるよ。<n>つまり、最初は大まかにしかわからない。<p>何度もここに来て、分析を受けてほしいね。<n>じゃ、記念すべき第一回を始めよう！
+EN: Right, let's get started.<n>I'll be asking you some questions.<p>As your answers build up,<n>I'll gradually analyze your personality.<p>Each test makes the analysis more precise.<n>At first, I'll only have a rough picture.<p>Do come back for more sessions.<n>Now, let's begin our very first one!
+
+@76C4 max=639
+JP: さて、君のカルテはどうなってたかな…。<n>うん、いま、君の性格の分析率は…<p><PSYKENSAPER>％というところだね。<n>じゃあ、今日も心理分析を始めるかい？
+EN: Now, let's have a look at your chart...<n>Your personality analysis is currently...<p><PSYKENSAPER> percent complete.<n>Shall we begin today's session?
+
+@7944 max=639
+JP: おほん。では、僕の質問をよく読んで<n>はい　いいえ　どちらでもない　の中から<p>ひとつを選んで、答えてくれたまえ。<n>考え込まずに、直感重視でお願いするよ。
+EN: Ahem. Read each question carefully.<n>From "Yes," "No," and "Neither,"<p>choose the answer that fits you best.<n>Don't overthink it. Trust your instincts.
+
+@7BC4 max=639
+JP: 質問を中止しますか？
+EN: Stop answering questions?
+
+@7E44 max=639
+JP: 続きはまた今度にしましょう
+EN: Let's continue another time.
+
+@80C4 max=639
+JP: ほほう！<p>じつに興味深い答えだよ。<p>では、次の質問、いいかな？
+EN: Oho!<p>A most intriguing answer.<p>Ready for the next question?
+
+@8344 max=639
+JP: なるほど…。<p>そう来るか…。<p>むう、これは次の質問が<n>重要だな。
+EN: I see...<p>So that's your answer...<p>Hmm. That makes the next question<n>rather important.
+
+@85C4 max=639
+JP: え！？まさか！<p>…あ、いやいやこっちのことさ。<p>そ、そ、それでは次の質問だ。
+EN: What?! Surely not!<p>...Oh, never mind. Just thinking aloud.<p>N-now then, the next question.
+
+@8844 max=639
+JP: おお！やはりそうか！<n>君はじつに素晴らしい人格だな！<p>さて、じゃあ次は、この質問に<n>答えてくれるかい？
+EN: Ah! Just as I thought!<n>You have a truly splendid character!<p>Now then, would you mind<n>answering this next question?
+
+@8AC4 max=639
+JP: むむむ？これは…？<p>うーん…。<p>そうなると、次の質問は…。<n>こんなのはどうだい？
+EN: Hmm? What's this...?<p>Hmm...<p>In that case, the next question should be...<n>How about this one?
+
+@8D44 max=639
+JP: はい！今回はここまでにしよう。<p>…お疲れさま！いいデータが取れたよ。<n>じつに興味深い結果が出たね。<p>今回の分析結果は、きみのカルテに<n>書いておくから…<p>メニューから「あなたのカルテ」<n>を選んで、読んでみてくれ。<p>きっと、自分自身をよく知るための<n>手がかりになるはずだよ。<p>ただ、今回の結果だけでは<n>本当に君が分析できたとはいえないね。<p>ぜひ、また<n>分析を受けにきてくれたまえ。<p>じゃあ、次回を楽しみにしているよ！
+EN: Right! That's all for today.<p>...Well done! You've given me some excellent data.<n>What fascinating results!<p>I'll add today's findings<n>to your chart...<p>Select "Your Chart" from the menu<n>and have a read.<p>It should give you some useful clues<n>to understanding yourself better.<p>Still, these results alone<n>aren't enough for a full analysis.<p>Do come back<n>for another session.<p>I'll look forward to seeing you again!
+
+@8FC4 max=639
+JP: え？…そ、そうか、仕方ないね。<n>心の準備ができたら、また来てくれたまえ。
+EN: Oh? ...W-well, if you must.<n>Come back whenever you feel ready.
+
+@9244 max=639
+JP: <<テキストチェック>><n>チェックする項目を選んでください。
+EN: 
+
+@94C4 max=639
+JP: 会話メッセージ<n>心理検査<n>心理検査結果
+EN: 
+
+@9744 max=639
+JP: 表示したい会話メッセージのIDを選んでください。
+EN: 
+
+@99C4 max=639
+JP: 表示したいテキストのIDを入力してください。
+EN: 
+
+@9C44 max=639
+JP: 表示したいテキストのIDを入力してください。
+EN: 
+
+@14E68 max=127
+JP: 嘘をついたり、ごまかしたり、<n>人の道に反するようなことはしたくないですか？
+EN: Do you want to avoid lying, cheating,<n>or doing anything morally wrong?
+
+@14EEC max=127
+JP: 自分の意見を言うときに<n>人の言葉をさえぎってしまうことがありますか？
+EN: Do you sometimes interrupt people<n>when you want to give your opinion?
+
+@14F70 max=127
+JP: あなたは、多くの人々から<n>親しみをもたれていると思いますか？
+EN: Do you think a lot of people<n>feel warmly toward you?
+
+@14FF4 max=127
+JP: 身の周りで起きていることに関心がある方ですか？
+EN: Are you interested in what's going on around you?
+
+@15078 max=127
+JP: あなたは、いつも何かしていることが好きですか？
+EN: Do you like to be doing something all the time?
+
+@150FC max=127
+JP: あなたは個性的で、<n>平凡な人間だとは思いたくないですか？
+EN: Do you see yourself as unique<n>and dislike thinking of yourself as ordinary?
+
+@15180 max=127
+JP: 思いやりをもって人に接することができますか？
+EN: Can you treat others with kindness and consideration?
+
+@15204 max=127
+JP: 常に物ごとの本質を知りたいと思いますか？
+EN: Do you always want to understand the true nature of things?
+
+@15288 max=127
+JP: 自分の心の中で何が起きているかを考える方ですか？
+EN: Do you tend to reflect on what's happening in your own mind?
+
+@1530C max=127
+JP: あなたの考えは、基本的に平均的ですか？
+EN: Are your views generally similar to those of most people?
+
+@15390 max=127
+JP: とにかく楽しいことが好きですか？
+EN: Do you love anything that's fun?
+
+@15414 max=127
+JP: 自分の得になる事を優先してしまうほうですか？
+EN: Do you tend to put your own interests first?
+
+@15498 max=127
+JP: 挑戦するものがあると、よりエネルギーが出ますか？
+EN: Does having a challenge give you more energy?
+
+@1551C max=127
+JP: 現実に起きていることにいちばん注目する方ですか？
+EN: Do you focus most on what's actually happening?
+
+@155A0 max=127
+JP: あなたは、とてものんびりした人間だと思いますか？
+EN: Would you describe yourself as very laid-back?
+
+@15624 max=127
+JP: 物事がきちんとしていないと、<n>いらいらすることがよくありますか？
+EN: Do you often get irritated<n>when things aren't in order?
+
+@156A8 max=127
+JP: 自分のことをわがままだと思いますか？
+EN: Do you think you're selfish?
+
+@1572C max=127
+JP: あなたは、他人が喜んでくれることが、<n>とてもうれしいですか？
+EN: Does making other people happy<n>bring you great joy?
+
+@157B0 max=127
+JP: ものごとの全体像や、<n>今後の可能性に注目する方ですか？
+EN: Do you focus on the big picture<n>and what might be possible in the future?
+
+@15834 max=127
+JP: 仲間と一緒に働くのが好きで、あなた自身、<n>よい仲間でありたいと思いますか？
+EN: Do you enjoy working with others<n>and strive to be a good teammate?
+
+@158B8 max=127
+JP: 苦しみや悲しみを持つ人に深く共感する方ですか？
+EN: Do you feel deeply for people who are suffering or sad?
+
+@1593C max=127
+JP: 考えをなかなか口に出せないほうですか？
+EN: Do you find it hard to put your thoughts into words?
+
+@159C0 max=127
+JP: 物ごとを総合的にみることや、<n>様々な意見をまとめるのが得意ですか？
+EN: Are you good at seeing things as a whole<n>and bringing different views together?
+
+@15A44 max=127
+JP: 分析的な観点を重要視して考える方ですか？
+EN: Do you place great importance on thinking analytically?
+
+@15AC8 max=127
+JP: あなたは、友人から<n>客観的でバランスのとれた人と見られていますか？
+EN: Do your friends see you<n>as objective and fair-minded?
+
+@15B4C max=127
+JP: あなたにとっての物事は、<n>いつもよい方へ展開していくはずですか？
+EN: Do you expect things in your life<n>to always turn out well?
+
+@15BD0 max=127
+JP: 自分以外の人を批判してしまうことが多いですか？
+EN: Do you often find yourself criticizing others?
+
+@15C54 max=127
+JP: あなたの性格は竹を割ったようだと思いますか？
+EN: Would you describe yourself as frank and straightforward?
+
+@15CD8 max=127
+JP: 自分や人が大切にしていることを<n>考慮に入れる方ですか？
+EN: Do you take into account<n>what matters to you and to others?
+
+@15D5C max=127
+JP: あなたは、感情に動かされない穏やかな仲裁者として、<n>双方の立場を理解できますか？
+EN: Can you stay calm and understand both sides of a dispute<n>without letting your emotions sway you?
+
+@15DE0 max=127
+JP: リラックスすることが苦手で、<n>冗談などをあまりいわないほうですか？
+EN: Do you find it hard to relax<n>and rarely joke around?
+
+@15E64 max=127
+JP: あなたは義理と人情に厚いほうですか？
+EN: Do you have a strong sense of duty and compassion?
+
+@15EE8 max=127
+JP: 困っている人を助けるために、<n>自分の自由な時間を使うことがよくありますか？
+EN: Do you often spend your free time<n>helping people in need?
+
+@15F6C max=127
+JP: 立てた計画にはそって行動する方ですか？
+EN: Do you tend to stick to the plans you make?
+
+@15FF0 max=127
+JP: 自分はうまくいってると、いつも考えていますか？
+EN: Do you always feel that you're doing well in life?
+
+@16074 max=127
+JP: 失われたものや死、苦しみを思うと、<n>物思いにふけることがありますか？
+EN: Do thoughts of loss, death, or suffering<n>sometimes leave you deep in reflection?
+
+@160F8 max=127
+JP: 人との会話を冷静に進められますか？
+EN: Can you stay calm when talking with others?
+
+@1617C max=127
+JP: 他人と一緒にいるよりも、<n>ひとりでいる時間の方が好きですか？
+EN: Do you prefer spending time alone<n>to being with other people?
+
+@16200 max=127
+JP: そのときどきの状況に応じて行動する方ですか？
+EN: Do you tend to adapt your actions to the situation?
+
+@16284 max=127
+JP: 取り越し苦労やいらぬ心配をよくする方ですか？
+EN: Do you often worry needlessly or imagine problems before they happen?
+
+@16308 max=127
+JP: いざこざは、できるだけ避けて通りたいですか？
+EN: Do you try to avoid conflict whenever possible?
+
+@1638C max=127
+JP: 好奇心は旺盛なほうですか？
+EN: Are you a very curious person?
+
+@16410 max=127
+JP: 他人と対決することをいとわず、<n>実際に対決することが多いですか？
+EN: Are you willing to confront others,<n>and do you often do so?
+
+@16494 max=127
+JP: 人と話すことが好きですか？
+EN: Do you enjoy talking to people?
+
+@16518 max=127
+JP: 何もしていないときがいちばん好きですか？
+EN: Are you happiest when you're doing nothing?
+
+@1659C max=127
+JP: あなたにとって、物事が公平で<n>正しくあることは大切なことですか？
+EN: Is it important to you<n>that things are fair and right?
+
+@16620 max=127
+JP: 人から嫌われたくないと思っていますか？
+EN: Do you worry about people disliking you?
+
+@166A4 max=127
+JP: 人のために尽くすことで、その人の人生にとって<n>自分が大切な存在になりたいと思いますか？
+EN: Do you hope that by devoting yourself to others,<n>you'll become an important part of their lives?
+
+@16728 max=127
+JP: 直接会うより、<n>文章でのコミュニケーションの方が好きですか？
+EN: Do you prefer communicating in writing<n>to meeting face-to-face?
+
+@167AC max=127
+JP: 自分の仕事や役割を大切に思い、<n>他人もそれを評価していると思いますか？
+EN: Do you value your work or role<n>and feel that others appreciate it too?
+
+@16830 max=127
+JP: 自分以上に、他人は人生の本当の美しさと深さを<n>味わっていないと思いますか？
+EN: Do you feel that others don't experience life's true beauty<n>and depth as fully as you do?
+
+@168B4 max=127
+JP: 待ち合わせの時間は必ず守りますか？
+EN: Are you always on time when meeting someone?
+
+@16938 max=127
+JP: あなたは、他の人よりも冷静沈着だと思いますか？
+EN: Do you think you stay calmer and more composed than most people?
+
+@169BC max=127
+JP: 役立つことや実践的なことの方が<n>大切だと思う方ですか？
+EN: Do you place more importance on things<n>that are useful and practical?
+
+@16A40 max=127
+JP: 自分の責任を果たすためには、<n>自分の役割を知っていたいですか？
+EN: Do you like to know your role<n>so you can fulfill your responsibilities?
+
+@16AC4 max=127
+JP: 他の人も自分と同じように、<n>もっと明るい気持ちでいればいいのにと思いますか？
+EN: Do you wish other people could feel<n>as cheerful as you do?
+
+@16B48 max=127
+JP: 周りの人の長所を見つけるのが得意ですか？
+EN: Are you good at spotting other people's strengths?
+
+@16BCC max=127
+JP: 物事の筋を通すことは、あなたにとって重要ですか？
+EN: Is doing things in a consistent, principled way important to you?
+
+@16C50 max=127
+JP: イメージや洞察が重要だと思う方ですか？
+EN: Do you value imagination and insight?
+
+@16CD4 max=127
+JP: 何かを始めるには、<n>何かしら外部からの刺激を必要としますか？
+EN: Do you need some kind of outside stimulus<n>to get started on something?
+
+@16D58 max=127
+JP: 自分がどんなふうに時間を使ったか、<n>細かく確認しがちですか？
+EN: Do you tend to review in detail<n>how you have spent your time?
+
+@16DDC max=127
+JP: 何かを決断するときはよく分析し考えますか？
+EN: Do you carefully analyze and think things through before deciding?
+
+@16E60 max=127
+JP: だれかが困っていたり、苦しい立場にいると、<n>助けてあげたいと思いますか？
+EN: When someone is struggling or in a tough spot,<n>do you want to help them?
+
+@16EE4 max=127
+JP: 課題の解決は論理的に導く方ですか？
+EN: Do you use logic to work out solutions to problems?
+
+@16F68 max=127
+JP: 人間関係においては、<n>第一印象は大変重要だと思いますか？
+EN: Do you think first impressions are very important<n>when forming relationships?
+
+@16FEC max=127
+JP: 人間関係がうまくいかないことに対して、<n>他人よりも困惑しますか？
+EN: Do you feel more troubled than most people<n>when relationships aren't going well?
+
+@17070 max=127
+JP: 楽しみや好きな食べ物など<n>満足するまで求めつづけるほうですか？
+EN: Do you keep seeking out pleasures, like your favorite foods,<n>until you feel satisfied?
+
+@170F4 max=127
+JP: 「どう感じるか」といきなり聞かれたら、<n>うまく答えられないことが多いですか？
+EN: If someone suddenly asks how you feel,<n>do you often struggle to answer?
+
+@17178 max=127
+JP: 周りの人たちへの影響を考える方ですか？
+EN: Do you consider how your actions affect those around you?
+
+@171FC max=127
+JP: 危険に対しては本能的に恐れ、<n>つねに避けようとしていますか？
+EN: Do you instinctively fear danger<n>and always try to avoid it?
+
+@17280 max=127
+JP: 他の人が、どう思うのかよりも、<n>自分はいつも幸福だと思っていますか？
+EN: Do you always think of yourself as happy,<n>regardless of what others think?
+
+@17304 max=127
+JP: 控えめで消極的なタイプですか？
+EN: Are you the quiet, reserved type who tends to hold back?
+
+@17388 max=127
+JP: 他人の弱点を見つけるのが得意で、<n>相手が挑戦してきたら、その弱点を攻撃しますか？
+EN: Are you good at spotting people's weaknesses,<n>and do you target them if someone challenges you?
+
+@1740C max=127
+JP: きちんと整理された状態で生活する方ですか？
+EN: Do you keep your daily life neat and organized?
+
+@17490 max=127
+JP: たいていの場合、<n>あなたは平静で落ち着いていますか？
+EN: Are you calm and composed<n>most of the time?
+
+@17514 max=127
+JP: 向上心が強く、常にさらに向上しなければと<n>思っていますか？
+EN: Do you have a strong drive to improve,<n>always feeling you must do better?
+
+@17598 max=127
+JP: 自分の理想をかなえようとがんばるほうですか？
+EN: Do you work hard to make your ideals a reality?
+
+@1761C max=127
+JP: だれかが、あなたの力によって成長することは<n>うれしいですか？
+EN: Does it make you happy to see someone grow<n>thanks to your help?
+
+@176A0 max=127
+JP: 制約にはとらわれない方ですか？
+EN: Do you tend to act freely without feeling bound by restrictions?
+
+@17724 max=127
+JP: どんなことも具体化することで、<n>すばらしい成果があがるように努力しますか？
+EN: Do you try to turn ideas into concrete actions<n>to achieve great results?
+
+@177A8 max=127
+JP: 自分自身を小説や映画の主人公のように<n>感じることがありますか？
+EN: Do you sometimes feel like the main character<n>in a novel or movie?
+
+@1782C max=127
+JP: 頼まれ事をされると断れないほうですか？
+EN: Do you find it hard to say no when someone asks you a favor?
+
+@178B0 max=127
+JP: いつか役に立つだろうと思って、<n>ため込んでおく傾向がありますか？
+EN: Do you tend to hang on to things,<n>thinking they might come in handy someday?
+
+@17934 max=127
+JP: 実際に身体を動かしたり、<n>人と直接関わりながら学ぶ方ですか？
+EN: Do you learn by doing things yourself<n>and interacting directly with people?
+
+@179B8 max=127
+JP: 社会の規則は忠実に守る方ですか？
+EN: Do you faithfully follow society's rules?
+
+@17A3C max=127
+JP: いつも物事の明るい面を見る方で、<n>人生の暗い面には目を向けませんか？
+EN: Do you always look on the bright side<n>and avoid dwelling on life's darker side?
+
+@17AC0 max=127
+JP: 自分以外の意見や、<n>賛否両論を参考にすることができますか？
+EN: Can you take other people's views into account,<n>including arguments for and against an idea?
+
+@17B44 max=127
+JP: 物事について、不満を表明することは<n>あなたにとってはあたりまえのことですか？
+EN: Does voicing your dissatisfaction with things<n>come naturally to you?
+
+@17BC8 max=127
+JP: 自分の行動や精神状態を見つめることで<n>学ぶ方ですか？
+EN: Do you learn by reflecting on your actions<n>and your state of mind?
+
+@17C4C max=127
+JP: 「そんなことで、わずらわせないでほしい」<n>と感じることが、多いですか？
+EN: Do you often find yourself thinking,<n>"I wish they wouldn't bother me with that"?
+
+@17CD0 max=127
+JP: 自分の不完全さを責める事が多く、<n>他人から批判されることが恐いですか？
+EN: Do you often blame yourself for your flaws<n>and fear criticism from others?
+
+@17D54 max=127
+JP: 言いたいことがあるとすぐ言ってしまうほうですか？
+EN: Do you tend to say what's on your mind right away?
+
+@17DD8 max=127
+JP: 気持ちと気持ちが通じ合うのを感じたときに、<n>特に喜びを感じる方ですか？
+EN: Do you feel especially happy when you sense<n>a deep emotional connection with someone?
+
+@17E5C max=127
+JP: 具体的なことがらのひとつひとつが<n>重要だと思う方ですか？
+EN: Do you think each individual detail<n>is important?
+
+@17EE0 max=127
+JP: あなたは、他人に対して成功しているという<n>イメージを与えたいですか？
+EN: Do you want other people<n>to see you as successful?
+
+@17F64 max=127
+JP: 感情の起伏が激しく、高揚したり沈んだりしやすいが、<n>それが中途半端だと逆に自分らしくないと思いますか？
+EN: Do your moods swing between highs and lows,<n>and do milder feelings seem unlike you?
+
+@17FE8 max=127
+JP: 大勢の意見の中では<n>妥協することのほうが多いですか？
+EN: When a group has differing opinions,<n>do you usually compromise?
+
+@1806C max=127
+JP: たわいもない会話をするのは苦手な方ですか？
+EN: Do you find small talk difficult?
+
+@180F0 max=127
+JP: 理論や抽象的なことがらを大事にする方ですか？
+EN: Do you place a high value on theories and abstract ideas?
+
+@18174 max=127
+JP: 慎重すぎて、<n>疑い深くなってしまうことがありますか？
+EN: Are you sometimes so cautious<n>that you become suspicious?
+
+@181F8 max=127
+JP: 悲しみは早く忘れたいと思いますか？
+EN: Do you want to put sadness behind you quickly?
+
+@1827C max=127
+JP: 社会的な規則や、倫理、道徳などを守るほうですか？
+EN: Do you tend to follow society's rules and moral standards?
+
+@18300 max=127
+JP: 自分が必要とするもののために戦い、<n>必要とするものは断固として守り抜きますか？
+EN: Do you fight for what you need<n>and stand firm in protecting it?
+
+@18384 max=127
+JP: ものごとの原因と結果から考える方ですか？
+EN: Do you tend to think in terms of cause and effect?
+
+@18408 max=127
+JP: とりかえしのつかない失敗など、<n>人生にそうはないと思っていますか？
+EN: Do you believe there are very few mistakes in life<n>that can't be put right?
+
+@1848C max=127
+JP: 現在の自分も他人も、まだ未完成であるという理由で、<n>欲求不満にかられることがよくありますか？
+EN: Are you often frustrated because you and others<n>still have room to grow?
+
+@18510 max=127
+JP: 小さな子供や、助けを必要な人を<n>世話するのが好きですか？
+EN: Do you enjoy caring for young children<n>and people who need help?
+
+@18594 max=127
+JP: あなたは、多くの人から頼られていると感じますか？
+EN: Do you feel that many people rely on you?
+
+@18618 max=127
+JP: 自分の価値基準を考えの軸にする方ですか？
+EN: Do your own values guide your thinking?
+
+@1869C max=127
+JP: 自ら決断することが多いけれど、<n>ときには臨機応変に意見を変えることもありますか？
+EN: Do you usually make your own decisions,<n>but sometimes change your mind as circumstances change?
+
+@18720 max=127
+JP: 自分の過去をよく思い出しては、<n>哀愁に浸ることがありますか？
+EN: Do you often look back on your past<n>and feel wistful?
+
+@187A4 max=127
+JP: どんなことでも、<n>事実に基づいて判断するほうですか？
+EN: Do you tend to base all your judgments<n>on facts?
+
+@18828 max=127
+JP: 自分の感情を表現することは苦手ですか？
+EN: Do you find it hard to express your feelings?
+
+@188AC max=127
+JP: 規律正しい方ですか？
+EN: Are you self-disciplined?
+
+@18930 max=127
+JP: トップに立つよりもナンバー２の方が<n>性に合っていると思いますか？
+EN: Do you feel more suited to being second in command<n>than being the leader?
+
+@189B4 max=127
+JP: 同時にいくつものことができますか？
+EN: Can you juggle several things at once?
+
+@18A38 max=127
+JP: 欲しいものは何があっても手に入れたいほうですか？
+EN: Do you want to get what you want, no matter what it takes?
+
+@18ABC max=127
+JP: 自分の力を行使するのは気持ちがいいですか？
+EN: Does exercising your power feel good?
+
+@18B40 max=127
+JP: 何ごとにも格式ばらない方ですか？
+EN: Do you tend to keep things informal?
+
+@18BC4 max=127
+JP: 多くの人々は、<n>物事に余計な力を使いすぎていると感じますか？
+EN: Do you feel that most people<n>put more effort into things than they need to?
+
+@18C48 max=127
+JP: 善悪、正誤というはっきりした基準で、<n>物事を見るほうですか？
+EN: Do you judge things by clear standards<n>of good and bad, right and wrong?
+
+@18CCC max=127
+JP: 人にどう思われているかいつも気になりますか？
+EN: Are you always concerned about what others think of you?
+
+@18D50 max=127
+JP: 他人に奉仕することは、とても大切だと思いますか？
+EN: Do you think serving others is very important?
+
+@18DD4 max=127
+JP: 興味の対象はどんどん広がる方ですか？
+EN: Are your interests constantly expanding?
+
+@18E58 max=127
+JP: 仕事に対しては、つねに正確、<n>かつ専門的でありたいですか？
+EN: Do you always aim to be precise<n>and professional in your work?
+
+@18EDC max=127
+JP: いつも自然にありのままに振舞うことは<n>難しいと感じていますか？
+EN: Do you find it difficult<n>to always act naturally and be yourself?
+
+@18F60 max=127
+JP: 他人に責任感をもって行動して欲しいと思いますか？
+EN: Do you want other people to act responsibly?
+
+@18FE4 max=127
+JP: 日常生活におけるプライベートな時間と場所を<n>確保しておきたいですか？
+EN: Do you want to make sure you have time and space<n>to yourself in your daily life?
+
+@19068 max=127
+JP: 自分の考えがまとまってから人に話す方ですか？
+EN: Do you tend to sort out your thoughts before sharing them?
+
+@190EC max=127
+JP: 物事の否定的な面を敏感に察知する方ですか？
+EN: Are you quick to pick up on the negative side of things?
+
+@19170 max=127
+JP: あなたは、人を疑ったり、<n>動機について詮索したりはしませんか？
+EN: Do you generally avoid doubting people<n>or questioning their motives?
+
+@191F4 max=127
+JP: あなたは他人の意見を聞いて譲歩したりできますか？
+EN: Can you listen to other people's opinions and compromise?
+
+@19278 max=127
+JP: グループの中で誰が権力を握っているのかを<n>すぐに見分けられますか？
+EN: Can you quickly tell<n>who holds the power in a group?
+
+@192FC max=127
+JP: ものごとをよく観察して記憶する方ですか？
+EN: Do you tend to observe things closely and remember them?
+
+@19380 max=127
+JP: あなたは、眠れなかった夜が<n>この前はいつだったか思い出すのは難しいですか？
+EN: Is it hard to remember<n>the last time you had a sleepless night?
+
+@19404 max=127
+JP: 「時間のムダだ」と思えることやつき合いは、<n>できればしたくないですか？
+EN: Do you prefer to avoid activities or social engagements<n>that feel like a waste of time?
+
+@19488 max=127
+JP: あなたは理論的なほうですか？
+EN: Do you tend to think in terms of theories?
+
+@1950C max=127
+JP: 人から頼られることはうれしいけれど、<n>頼られすぎると重荷に感じますか？
+EN: Do you enjoy being relied on,<n>but feel burdened when people depend on you too much?
+
+@19590 max=127
+JP: 事実の背景の持つ意味やパターンを<n>把握したい方ですか？
+EN: Do you like to grasp the deeper meanings<n>and patterns behind the facts?
+
+@19614 max=127
+JP: 物事を達成するためには、組織化して、<n>無駄なく効率的にやることが大切だと思いますか？
+EN: Do you think getting things done requires organization<n>and working efficiently, without wasted effort?
+
+@19698 max=127
+JP: 深遠なものや象徴的なものに心がひかれますか？
+EN: Are you drawn to things with profound or symbolic meaning?
+
+@1971C max=127
+JP: すごーい、わぁ、うそー等の<n>感嘆詞をよく言いますか？
+EN: Do you often say things like<n>"Amazing!", "Wow!" or "No way!"?
+
+@197A0 max=127
+JP: あなたは自分が率先して行動するよりも、<n>他の人に任せることが多いですか？
+EN: Do you often let others take charge<n>instead of taking the initiative yourself?
+
+@19824 max=127
+JP: 人に毅然とした印象を与える方ですか？
+EN: Do you come across as firm and determined?
+
+@198A8 max=127
+JP: 常に責任を果たしているかどうか、<n>いつも気にしていますか？
+EN: Do you constantly worry about whether<n>you're fulfilling your responsibilities?
+
+@1992C max=127
+JP: ジョークや明るい話が好きで、<n>暗い話はあまり聞きたくないと思いますか？
+EN: Do you enjoy jokes and cheerful stories,<n>and prefer to avoid gloomy topics?
+
+@199B0 max=127
+JP: 多少つらいことがあっても<n>我慢してしまうほうですか？
+EN: Do you tend to put up with things,<n>even when they're a little painful?
+
+@19A34 max=127
+JP: あなたは、<n>攻撃的で自己主張の強い人間だと思いますか？
+EN: Would you describe yourself<n>as aggressive and assertive?
+
+@19AB8 max=127
+JP: 人に親しみやすい印象を与える方ですか？
+EN: Do you come across as friendly and approachable?
+
+@19B3C max=127
+JP: 多少の差はあっても、<n>ほとんどの人はだいたい同じだと思いますか？
+EN: Do you think most people are basically alike,<n>despite some differences?
+
+@19BC0 max=127
+JP: 他人に認められる前に、<n>まず自分が完全でいたいと思っていますか？
+EN: Do you want to be perfect in your own eyes<n>before seeking recognition from others?
+
+@19C44 max=127
+JP: 些細なことでも間違っていることは<n>許せないたちですか？
+EN: Do you find mistakes unacceptable,<n>even in the smallest things?
+
+@19CC8 max=127
+JP: 他人を喜ばせようとするような言葉を<n>かけることは多いですか？
+EN: Do you often say things<n>to make other people happy?
+
+@19D4C max=127
+JP: きちょうめんな方ですか？
+EN: Are you meticulous?
+
+@19DD0 max=127
+JP: 明確に定めた目標に向かって、<n>今、自分が何をしたらよいかを知っていますか？
+EN: Do you have a clearly defined goal<n>and know what you need to do now to reach it?
+
+@19E54 max=127
+JP: すばらしい人を見ると<n>妬ましいような気持ちになることがありますか？
+EN: Do you sometimes feel envious<n>when you see someone you admire?
+
+@19ED8 max=127
+JP: 目下の人の失敗に寛大になれますか？
+EN: Can you be forgiving when someone junior to you makes a mistake?
+
+@19F5C max=127
+JP: 自分が直接関わる前に、他人のしていることを<n>観察してしまうことがありますか？
+EN: Do you sometimes watch what others are doing<n>before getting involved yourself?
+
+@19FE0 max=127
+JP: 柔軟な方ですか？
+EN: Are you flexible?
+
+@1A064 max=127
+JP: 批判されたときは、<n>どうしてそう言われるのか知りたいですか？
+EN: When someone criticizes you,<n>do you want to know why?
+
+@1A0E8 max=127
+JP: あなたは、子どもっぽく、<n>陽気な人間だと思いますか？
+EN: Would you describe yourself<n>as childlike and cheerful?
+
+@1A16C max=127
+JP: 決断は早いほうですか？
+EN: Do you make decisions quickly?
+
+@1A1F0 max=127
+JP: 物事がどのようになされるべきかを<n>常にわかっていますか？
+EN: Do you always know<n>how things ought to be done?
+
+@1A274 max=127
+JP: 人と話しながら考えがまとまる方ですか？
+EN: Does talking with others help you organize your thoughts?
+
+@1A2F8 max=127
+JP: 普段、物事について<n>あまり興奮することがありませんか？
+EN: Do you usually find that<n>you rarely get excited about things?
+
+@1A37C max=127
+JP: やるべきことがたくさんあるのに時間が足りなくて、<n>いつもせきたてられているような気がしますか？
+EN: Do you always feel rushed,<n>with too much to do and too little time?
+
+@1A400 max=127
+JP: 直感的な行動を取るほうですか？
+EN: Do you tend to act on intuition?
+
+@1A484 max=127
+JP: その人が好きか嫌いかに関係なく、<n>自分の目の前にいる人の世話をしますか？
+EN: Do you take care of whoever is in front of you,<n>whether you like them or not?
+
+@1A508 max=127
+JP: 一人でいることが好きで、<n>あまり自分を表現しない方ですか？
+EN: Do you enjoy being alone<n>and tend to keep your thoughts and feelings to yourself?
+
+@1A58C max=127
+JP: 達成表や得点といった、<n>自分の実績を示すものが好きですか？
+EN: Do you like things that show your achievements,<n>such as progress charts and scores?
+
+@1A610 max=127
+JP: あなたがどのように感じているか、<n>他の人には理解できないと思いますか？
+EN: Do you feel that other people<n>can't understand how you feel?
+
+@1A694 max=127
+JP: 誰かに期待されると<n>一生懸命がんばってしまうほうですか？
+EN: When someone is counting on you,<n>do you give it your all?
+
+@1A718 max=127
+JP: 自分から他人の方へ出向くのはあまり好きではなく、<n>頼み事はしないほうですか？
+EN: Do you dislike approaching others<n>and tend to avoid asking for favors?
+
+@1A79C max=127
+JP: 先のことよりも、<n>まずは今のことが気になる方ですか？
+EN: Do you focus on what's happening now<n>more than what lies ahead?
+
+@1A820 max=127
+JP: 困った人や弱者に対しては同情し、<n>支えてあげたいと思う方ですか？
+EN: Do you feel for people who are struggling or vulnerable<n>and want to support them?
+
+@1A8A4 max=127
+JP: パーティーなどでは目立ちたがり屋の方ですか？
+EN: Do you like being the center of attention at parties?
+
+@1A928 max=127
+JP: 子供や部下、目下の者を<n>厳しく教育するほうだと思いますか？
+EN: Are you strict when teaching children<n>or people under your supervision?
+
+@1A9AC max=127
+JP: 自分のなかの優しさや、上品さ、<n>柔和な面を認めたり表現することは難しいですか？
+EN: Is it hard for you to acknowledge or express<n>your own kindness, grace, or gentleness?
+
+@1AA30 max=127
+JP: 現在のことより先のことに関心が向く方ですか？
+EN: Are you more interested in the future than the present?
+
+@1AAB4 max=127
+JP: 明日まで待てないというような、<n>せっぱつまった気持ちになることはあまりないですか？
+EN: Do you rarely feel such a sense of urgency<n>that you simply can't wait until tomorrow?
+
+@1AB38 max=127
+JP: 自分や他人の言葉や行動に対し、<n>心の中で批判的に見てしまいますか？
+EN: Do you privately judge the things<n>you and others say or do?
+
+@1ABBC max=127
+JP: 人の話をよく聞き、共感を表すことができますか？
+EN: Are you good at listening to others and showing empathy?
+
+@1AC40 max=127
+JP: 人々が慰めや助言を求めて、<n>自分のところに来てほしいと思いますか？
+EN: Do you like people to come to you<n>for comfort or advice?
+
+@1ACC4 max=127
+JP: 感情に左右されることなく、<n>真実を客観的に追求する方ですか？
+EN: Do you seek the truth objectively,<n>without letting emotions sway you?
+
+@1AD48 max=127
+JP: あなたは、他人をその気にさせることが得意ですか？
+EN: Are you good at getting others motivated?
+
+@1ADCC max=127
+JP: マナーのよさと品位を<n>いつも保っていたいと思いますか？
+EN: Do you always try to maintain<n>good manners and dignity?
+
+@1AE50 max=127
+JP: 仕事や宿題はてきぱきと片付けますか？
+EN: Do you get work or homework done efficiently?
+
+@1AED4 max=127
+JP: あなたは、自己主張することが下手ですか？
+EN: Do you find it hard to stand up for yourself?
+
+@1AF58 max=127
+JP: 調和や個人を尊重することを大切にする方ですか？
+EN: Do you value harmony and respect for each individual?
+
+@1AFDC max=127
+JP: 信頼している人に対しては、<n>損得抜きで尽くす方ですか？
+EN: Do you go out of your way for people you trust,<n>without thinking of what you might gain or lose?
+
+@1B060 max=127
+JP: 出会う人に対して<n>あまり敵意を感じることがありませんか？
+EN: Do you rarely feel hostile toward<n>the people you meet?
+
+@1B0E4 max=127
+JP: 調子に乗ってはめをはずすことがありますか？
+EN: Do you sometimes get carried away and go overboard?
+
+@1B168 max=127
+JP: すぐに退屈してしまうので、<n>動いている方が好きですか？
+EN: Do you prefer to keep active<n>because you get bored easily?
+
+@1B1EC max=127
+JP: ものごとを始める前にはまず計画を立てる方ですか？
+EN: Do you make a plan before starting something?
+
+@1B270 max=127
+JP: 基本的に力を浪費するのがきらいなので、<n>何かするときは力の節約を考えますか？
+EN: Do you dislike wasting energy<n>and look for ways to save your strength when doing things?
+
+@1B2F4 max=127
+JP: 見た目は平静でも、<n>心の中では腹がたっているということがありますか？
+EN: Do you sometimes seem calm on the outside<n>while feeling angry inside?
+
+@1B378 max=127
+JP: 自分の感情はあまり表に出さないほうですか？
+EN: Do you tend to keep your feelings to yourself?
+
+@1B3FC max=127
+JP: 自分自身のことは、ついつい後回しにしがちですか？
+EN: Do you tend to put your own needs last?
+
+@1B480 max=127
+JP: ものごとを始める前にはまず状況をみる方ですか？
+EN: Do you assess the situation before starting something?
+
+@1B504 max=127
+JP: 目標を達成するためには、場合によっては<n>相手に対する妥協も必要だと思いますか？
+EN: Do you think reaching a goal sometimes means<n>you need to compromise with others?
+
+@1B588 max=127
+JP: あなたにとっては、周囲の雰囲気は大切ですか？
+EN: Does the atmosphere around you matter a lot to you?
+
+@1B60C max=127
+JP: ちゃんと自分の義務を果たしてから、<n>権利を主張するほうですか？
+EN: Do you fulfill your duties<n>before asserting your rights?
+
+@1B690 max=127
+JP: 問題が起きたら、<n>自分で考えて解決するほうがいいですか？
+EN: When a problem comes up,<n>do you prefer to think it through and solve it yourself?
+
+@1B714 max=127
+JP: 人と一緒にいるのが好きで、<n>自分を表現することが多い方ですか？
+EN: Do you enjoy being around others<n>and often express yourself openly?
+
+@1B798 max=127
+JP: 親や上司には逆らえないですか？
+EN: Do you find it impossible to go against your parents or boss?
+
+@1B81C max=127
+JP: 細かいことにこだわらず、<n>物事は広い視野でとらえるべきだと思いますか？
+EN: Do you think you should focus on the big picture<n>without getting caught up in the details?
+
+@1B8A0 max=127
+JP: 家事は好きですか？
+EN: Do you enjoy housework?
+
+@1B924 max=127
+JP: 自分の権威や権限の下にある者に対しては、<n>かばう方ですか？
+EN: Do you stand up for people<n>who are under your authority?
+
+@1B9A8 max=127
+JP: 物事には集中して取り組む方ですか？
+EN: Do you give tasks your full concentration?
+
+@1BA2C max=127
+JP: 中途半端で落ち着かないことが嫌いですか？
+EN: Do you dislike leaving things half-finished and unresolved?
+
+@1BAB0 max=127
+JP: もっとうまくやれるはずなのに、どうしてできないの<n>かと、ときどき自分や他人を責めますか？
+EN: Do you sometimes blame yourself or others,<n>wondering why you can't do better when you know you could?
+
+@1BB34 max=127
+JP: 次に起こることを予測して冷静に行動できますか？
+EN: Can you anticipate what will happen next and act calmly?
+
+@1BBB8 max=127
+JP: 人のためにしたのに、感謝されていないと<n>思うことがときどきありますか？
+EN: Do you sometimes feel unappreciated<n>after doing something for someone?
+
+@1BC3C max=127
+JP: 情報はひとつずつ順序だてて収集する方ですか？
+EN: Do you tend to gather information one step at a time, in a logical order?
+
+@1BCC0 max=127
+JP: 過去の失敗や間違いを反省するより、<n>自分がやり遂げたことに満足したいですか？
+EN: Would you rather feel proud of your achievements<n>than reflect on past failures and mistakes?
+
+@1BD44 max=127
+JP: 自分は人生という舞台で演じているのだと<n>感じることがありますか？
+EN: Do you sometimes feel as though you are<n>playing a role on the stage of life?
+
+@1BDC8 max=127
+JP: いらいらと怒りっぽいほうですか？
+EN: Are you easily irritated or angered?
+
+@1BE4C max=127
+JP: 全体の状況を把握してから判断したいと思い、何か見<n>落としていたら、自分自身の軽率さを責めますか？
+EN: Do you want the full picture before deciding,<n>and blame yourself for being careless if you overlook something?
+
+@1BED0 max=127
+JP: 思いついたり、思いたったことから<n>情報を集める方ですか？
+EN: Do you tend to gather information by following<n>whatever ideas happen to come to mind?
+
+@1BF54 max=127
+JP: 無視されたり、仲間はずれにされることは、<n>何よりもつらいことですか？
+EN: Does being ignored or left out<n>hurt you more than anything else?
+
+@1BFD8 max=127
+JP: 現在すでによいものは、<n>もっとよくなってほしいですか？
+EN: Do you want things that are already good<n>to become even better?
+
+@1C05C max=127
+JP: 卑屈になってしまうことがありますか？
+EN: Do you sometimes put yourself down?
+
+@1C0E0 max=127
+JP: 自己反省や自己分析には、あまり興味がないですか？
+EN: Do you have little interest in self-reflection or self-analysis?
+
+@1C164 max=127
+JP: 合理性を大切だと考える方ですか？
+EN: Do you place a high value on rational thinking?
+
+@1C1E8 max=127
+JP: だいたいいつも、<n>最も抵抗が少ない道を選ぶ方ですか？
+EN: Do you usually choose<n>the path of least resistance?
+
+@1C26C max=127
+JP: 小さいミスや欠点でも気にかかりますか？
+EN: Do even small mistakes or flaws bother you?
+
+@1C2F0 max=127
+JP: よく、……すべきです、……ねばならない、<n>という話し方をしてしまいますか？
+EN: Do you often find yourself saying things like<n>"You should..." or "You must..."?
+
+@1C374 max=127
+JP: いつも誰かが自分の近くにいてほしいですか？
+EN: Do you always want someone nearby?
+
+@1C3F8 max=127
+JP: 人や自分の気持ちを大切にする方ですか？
+EN: Do you value other people's feelings as well as your own?
+
+@1C47C max=127
+JP: 続けていく意味がなくなると、<n>新しい何かを始めたくなりますか？
+EN: When you no longer see a point in continuing,<n>do you want to start something new?
+
+@1C500 max=127
+JP: 深い感動こそ、<n>自分が生きている原動力だと感じますか？
+EN: Do you feel that deeply moving experiences<n>are what keep you going in life?
+
+@1C584 max=127
+JP: ボランティア等の奉仕活動に参加できますか？
+EN: Are you willing to take part in volunteer work or other community service?
+
+@1C608 max=127
+JP: 他人との付き合いでは、<n>自分の時間やお金を使いたくないですか？
+EN: Are you reluctant to spend your time or money<n>on socializing with others?
+
+@1C68C max=127
+JP: ものごとに結果や結論、決着をつける方ですか？
+EN: Do you tend to see things through to a result, conclusion, or resolution?
+
+@1C710 max=127
+JP: なるべく目立たないでいたいと思いますか？
+EN: Do you prefer to draw as little attention to yourself as possible?
+
+@1C794 max=127
+JP: 苦労を伴う「味わいのある人生」よりは<n>「楽しさいっぱいの人生」の方が好きですか？
+EN: Would you prefer a life full of fun<n>to a life enriched by hardship?
+
+@1C818 max=127
+JP: 身体の調子が悪いときは無理しないほうですか？
+EN: Do you avoid pushing yourself when you feel unwell?
+
+@1C89C max=127
+JP: あなたは順応しにくい人間だと思いますか？
+EN: Do you think you have trouble adapting to new situations?
+
+@1C920 max=127
+JP: 結果や結論には多少変更の余地を残したい方ですか？
+EN: Do you prefer to leave some room for changes to results or conclusions?
+
+@1C9A4 max=127
+JP: 人から頼みごとをされたり、<n>催促をされたりするのが嫌いですか？
+EN: Do you dislike being asked for favors<n>or being chased up about things?
+
+@1CA28 max=127
+JP: あなたは、取り越し苦労が多い心配性ですか？
+EN: Are you a worrier who often frets over things that never happen?
+
+@1CAAC max=127
+JP: 本や映画、友人の話につられて<n>涙してしまうことがよくありますか？
+EN: Do books, movies, or stories your friends tell<n>often move you to tears?
+
+@1CB30 max=127
+JP: あなたは、誰とでもすぐに親しくなれますか？
+EN: Can you quickly become friends with anyone?
+
+@1CBB4 max=127
+JP: 周囲の人やできごとにすすんで関わっていく方ですか？
+EN: Do you readily get involved with the people and events around you?
+
+@1CC38 max=127
+JP: 人から説得力があると言われることが多いですか？
+EN: Do people often tell you that you are persuasive?
+
+@1CCBC max=127
+JP: 自分の感情を表現するときに、<n>ありきたりの形では十分でないと思いますか？
+EN: Do you feel that ordinary ways of expressing feelings<n>are not enough to convey your own?
+
+@1CD40 max=127
+JP: 今の自分は「本当の自分ではない」と感じますか？
+EN: Do you feel that the person you are now is not your "true self"?
+
+@1CDC4 max=127
+JP: 支払ったお金に見合ったものが得られないと<n>強い不満を感じますか？
+EN: Does it really bother you when you feel<n>you haven't gotten your money's worth?
+
+@1CE48 max=127
+JP: 物事には集中して取り組む方ですか？
+EN: Do you give tasks your full concentration?
+
+@1CECC max=127
+JP: 先が見えないと、不安なことがよくありますか？
+EN: Do you often feel anxious when you don't know what lies ahead?
+
+@1CF50 max=127
+JP: あなたは、未来に対しての情熱を<n>失うことはありませんか？
+EN: Do you always hold on to<n>your enthusiasm for the future?
+
+@1CFD4 max=127
+JP: よけいな世話をやかれるのは嫌いですか？
+EN: Do you dislike it when people meddle, even if they mean well?
+
+@1D058 max=127
+JP: ものごとがうまくいくように、<n>相手に合わせて行動しようとすることが多いですか？
+EN: Do you often adjust your behavior to suit others<n>so that things go smoothly?
+
+@1D0DC max=127
+JP: 経験の積み重ねこそが信じられると考える方ですか？
+EN: Do you believe that experience is what you can truly rely on?
+
+@1D160 max=127
+JP: 「自分はまだまだだなあ」と思うことが<n>よくありますか？
+EN: Do you often think,<n>"I've still got a long way to go"?
+
+@1D1E4 max=127
+JP: 他人が自分を気づかってくれると、逆に困惑しますか？
+EN: Does it actually make you uncomfortable when others show concern for you?
+
+@1D268 max=127
+JP: 最初から勝ち目がないと思うレースには<n>参加しないほうですか？
+EN: Do you avoid entering a race<n>if you think you have no chance of winning?
+
+@1D2EC max=127
+JP: 他の人は、自分が感じるほど、<n>物事を深く感じていないような気がしますか？
+EN: Do you feel that other people don't experience things<n>as deeply as you do?
+
+@1D370 max=127
+JP: ひらめきは大事だと思う方ですか？
+EN: Do you think flashes of inspiration are important?
+
+@1D3F4 max=127
+JP: 自分で面倒なことをひき起こしたときは、<n>自分のことを愚かだと思いますか？
+EN: When you bring trouble on yourself,<n>do you think you've been foolish?
+
+@1D478 max=127
+JP: ついつい状況をみすぎてしまい、<n>決断するのに時間がかかりますか？
+EN: Do you spend so long weighing up a situation<n>that it takes you a while to decide?
+
+@1D4FC max=127
+JP: 人々を明るい気持ちにさせたり、<n>喜ばせたいと思いますか？
+EN: Do you want to lift people's spirits<n>and make them happy?
+
+@1D580 max=127
+JP: 他人からとやかく言われて、<n>なにかを直したりすることが嫌いですか？
+EN: Do you dislike changing how you do things<n>because someone criticizes you?
+
+@1D604 max=127
+JP: 何ごとにも公平な方ですか？
+EN: Do you try to be fair in everything you do?
+
+@1D688 max=127
+JP: あなたは、<n>自分をそれほど重要な人間だとは思いませんか？
+EN: Do you feel that you aren't<n>a particularly important person?
+
+@1D70C max=127
+JP: 悪いことはどうしても許せないと、思い込みますか？
+EN: Are you convinced that wrongdoing must never be forgiven?
+
+@1D790 max=127
+JP: 周囲の人々の反応には、敏感な方ですか？
+EN: Are you sensitive to the reactions of people around you?
+
+@1D814 max=127
+JP: あなたは、つねに物事を達成し、<n>自己主張する人間だと思われていますか？
+EN: Do people see you as someone who always gets things done<n>and stands up for yourself?
+
+@1D898 max=127
+JP: 何ごとも受け入れる方ですか？
+EN: Do you tend to accept things as they are?
+
+@1D91C max=127
+JP: なんとなくお高い感じがすると、<n>人から言われたことがありますか？
+EN: Has anyone ever told you<n>that you seem a little stuck-up?
+
+@1D9A0 max=127
+JP: 話し声が静かなので、「もっと大きな声で話してほし<n>い」と言われることがありますか？
+EN: Do you speak so quietly<n>that people sometimes ask you to speak up?
+
+@1DA24 max=127
+JP: ジョークやユーモアのセンスがありますか？
+EN: Do you have a knack for jokes and a good sense of humor?
+
+@1DAA8 max=127
+JP: ひとつのことに集中するよりも、<n>次から次へと関心が移りますか？
+EN: Does your interest jump from one thing to the next<n>instead of staying focused on one thing?
+
+@1DB2C max=127
+JP: 最後に慌ててやらないようにする方ですか？
+EN: Do you try to avoid a last-minute rush?
+
+@1DBB0 max=127
+JP: 部屋の片付けは上手な方ですか？
+EN: Are you good at keeping your room tidy?
+
+@1DC34 max=127
+JP: 物事をただ成り行きに任せるということには<n>抵抗がありますか？
+EN: Do you feel uncomfortable<n>just letting things take their course?
+
+@1DCB8 max=127
+JP: 自分が、安定した人間であることを<n>誇りにしていますか？
+EN: Do you take pride<n>in being a steady, dependable person?
+
+@1DD3C max=127
+JP: あなたは、几帳面で実直ですが、<n>意外に小心者だと思いますか？
+EN: Do you see yourself as meticulous and honest,<n>yet surprisingly timid?
+
+@1DDC0 max=127
+JP: 最後にきて一気にやる方ですか？
+EN: Do you tend to leave things until the last minute, then do them all at once?
+
+@1DE44 max=127
+JP: 初対面の人と気軽に話しが出来る方ですか？
+EN: Can you easily chat with someone you've just met?
+
+@1DEC8 max=127
+JP: 「愛し愛されることは、人生にとって重要だ」<n>と思っていますか？
+EN: Do you believe that loving and being loved<n>are important parts of life?
+
+@1DF4C max=127
+JP: 自分がしていることが、<n>うまくいっていないと言われることが大嫌いですか？
+EN: Do you hate being told<n>that what you're doing isn't going well?
+
+@1DFD0 max=127
+JP: 芸術や美的表現は、<n>あなたの感情を表す方法として大切なものですか？
+EN: Are art and creative expression<n>important ways for you to express your feelings?
+
+@1E054 max=127
+JP: 人に何かを与えるよりも、<n>人から吸収する方が多いですか？
+EN: Do you absorb more from others<n>than you offer them?
+
+@1E0D8 max=127
+JP: 人から頼みごとをよくされますか？
+EN: Do people often ask you for favors?
+
+@1E15C max=127
+JP: 権威者には、内心で反発しながらも従うほうですか？
+EN: Do you tend to obey authority figures even when you inwardly rebel?
+
+@1E1E0 max=127
+JP: 自分の子ども時代は幸福なものだったと<n>思い出すことができますか？
+EN: Can you look back on your childhood<n>as a happy time?
+
+@1E264 max=127
+JP: 他の人々は、それぞれ自分が抱える問題を<n>自分自身で勝手につくり出していると思いますか？
+EN: Do you think other people<n>bring their problems on themselves?
+
+@1E2E8 max=127
+JP: 寝ていられるなら寝ていたいし、<n>明日できることは明日すればいいと思いますか？
+EN: Would you rather sleep in when you can,<n>and leave anything that can wait until tomorrow?
+
+@1E36C max=127
+JP: 自分の悩みは、他人には理解できないと思いますか？
+EN: Do you feel that other people can't understand your troubles?
+
+@1E3EC max=31
+JP: 改革派タイプ
+EN: Reformer Type
+
+@1E40C max=359
+JP: あなたは、他人にも自分にも厳しく完璧を求<n>める「改革派タイプ」です。常に自分の理想<n>に向かって努力を惜しまず、何事においても<n>完璧を目指し、常に公正と正義を心がけてい<n>ます。何かするときに、時間は幾らあっても<n>足りないと感じていませんか？ときには、素<n>直に怒りや憤りを表して、他人にも自分にも<n>寛容になってみることをお勧めします。
+EN: You're a Reformer, hard on yourself and others.<n>You work tirelessly toward your ideals,<n>seeking perfection in everything you do,<n>always guided by fairness and justice.<n>Do you feel there's never enough time?<n>Try openly expressing your anger and frustration<n>now and then. Be more forgiving of others<n>and yourself.
+
+@1E574 max=31
+JP: サポータータイプ
+EN: Supporter
+
+@1E594 max=359
+JP: あなたは、困っている人がいると、そばに行<n>って手を貸そうとする「サポータータイプ」<n>です。しかし、相手がそれを必要としなかっ<n>たり、感謝されないと傷つきます。他人の面<n>倒を見ようとするのは、その代償として自分<n>を愛してもらいたいからなのです。自分が何<n>をしたいのかを問いかけて、自立しましょう。<n>表面的ではない深い人づき合いも大切です。
+EN: You're a Supporter, quick to help<n>anyone in trouble. But if they don't<n>need you or thank you, it hurts.<n>You care for others hoping they'll<n>love you in return. Ask yourself<n>what you want, and learn to stand<n>on your own. Make room for deep,<n>meaningful relationships, too.
+
+@1E6FC max=31
+JP: 達成者タイプ
+EN: Achiever
+
+@1E71C max=359
+JP: あなたは、成功を追い求め、そのためには手<n>段を選ばない「達成者タイプ」です。その反<n>面、失敗を極度に怖れます。他人の才能を見<n>抜き、励ましながら目標達成へと導く、優れ<n>たリーダーとして組織力を発揮します。自分<n>の可能性を追求しすぎ、人生を成功か不成功<n>かだけで判断しがちなので、時には、行動と<n>本心のギャップに気づくことも必要です。
+EN: You're an Achiever, pursuing success<n>by any means, yet terrified of failure.<n>You spot talent and encourage others,<n>organizing them into an effective team<n>and leading them toward their goals.<n>Chasing your full potential can make<n>life seem all success or failure. Notice<n>when your actions clash with your heart.
+
+@1E884 max=31
+JP: 個性派タイプ
+EN: Individualist
+
+@1E8A4 max=359
+JP: あなたは、ユニークで創造的、何よりも個人<n>的な感動を大切にする「個性派タイプ」です。<n>自分は特別であるという自負が強く、平凡で<n>あること、人と同じであることを嫌います。<n>感受性が鋭く、人の気持ちに敏感な反面、自<n>分は他人から理解されていないという不満か<n>ら、他人を嫉妬し、羨望する傾向も。自分の<n>長所を見つけて自信を持つことも大切です。
+EN: You're an Individualist: unique,<n>creative, and guided by deep feelings.<n>You see yourself as special and hate<n>being ordinary or just like everyone.<n>You're sensitive to others' feelings,<n>yet feeling misunderstood can leave<n>you jealous and envious. Recognize<n>your strengths and build confidence.
+
+@1EA0C max=31
+JP: リサーチタイプ
+EN: Researcher
+
+@1EA2C max=359
+JP: あなたは、物事をじっくりと考え、データを<n>集め、慎重に行動する「リサーチタイプ」で<n>す。ただ、知識を蓄積していても、それを積<n>極的に発表せず、傍観者、観察者でいること<n>を好みます。口数が少なく、周りの人を困惑<n>させることも多いので、たまには人の集まる<n>所で自分を披露してみることも必要です。未<n>知へのチャレンジ精神を養いましょう。
+EN: You're a Researcher, thinking deeply,<n>gathering facts, and acting carefully.<n>You build up knowledge but prefer<n>watching from the sidelines to sharing<n>what you know. Your silence often<n>leaves people puzzled. Try stepping<n>into a group and showing who you are.<n>Build up the courage to try the unknown.
+
+@1EB94 max=31
+JP: 忠実派タイプ
+EN: Loyalist
+
+@1EBB4 max=359
+JP: あなたは、何事に対しても忠実で誠実であり、<n>責任感が強く、協力的に働く「忠実派タイプ」<n>です。権威ある人物には従順で、組織から命<n>じられたことは忠実に実行しようとします。<n>一方、納得のいかない権力には反抗するとい<n>う二面性もあります。結論を引き延ばす傾向<n>があるので、判断力のある友人に不安を打ち<n>明け、意見を聞いてみてはどうでしょう。
+EN: You're a Loyalist: honest, dutiful,<n>responsible, and a cooperative worker.<n>You obey respected authority and<n>faithfully carry out your group's orders.<n>Yet you also rebel against power you<n>can't accept. You tend to put off<n>decisions, so share your worries with<n>a decisive friend and ask their advice.
+
+@1ED1C max=31
+JP: 楽観主義タイプ
+EN: Optimist
+
+@1ED3C max=359
+JP: あなたは、人生を楽しく、明るく過ごしたい<n>と願う「楽観主義タイプ」です。聡明でざっ<n>くばらん。未来を計画したり、夢を追うのも<n>大好きです。その反面、苦しみや辛さをでき<n>る限り回避しようとするので、深刻な場面や<n>嫌なことに向き合うことが苦手です。ときに<n>は、選択肢に振り回されず、ひとつだけを選<n>んで、それに打ち込むことも大切です。
+EN: You're an Optimist who wants a bright,<n>happy life. Clever and candid, you love<n>planning the future and chasing dreams.<n>But you avoid pain and hardship,<n>which makes serious situations and<n>unpleasant tasks hard to face. Try<n>choosing one thing and committing to it,<n>instead of getting lost in all the options.
+
+@1EEA4 max=31
+JP: 挑戦者タイプ
+EN: Challenger
+
+@1EEC4 max=359
+JP: あなたは、自己主張が強く、何事にも第一人<n>者であることを望む「挑戦者タイプ」です。<n>勇気とエネルギーにあふれ、他人に頼らず、<n>正しいと思ったらどんどん推し進めて行きま<n>す。弱者や自分を頼る人を助けようとする反<n>面、対立する人を排除しようとします。好き<n>嫌いがはっきりしすぎるので、白と黒ではな<n>い灰色の価値観を認めてみましょう。
+EN: You're a Challenger: assertive and<n>eager to lead in everything you do.<n>Brave, energetic, and independent,<n>you charge ahead when you feel right.<n>You help the weak and those who rely<n>on you, yet try to shut out opponents.<n>Your likes and dislikes are firm. Learn<n>to see the gray between black and white.
+
+@1F02C max=31
+JP: 平和主義タイプ
+EN: Peacemaker
+
+@1F04C max=359
+JP: あなたは、落ち着いてゆったりとした安定感<n>がある「平和主義タイプ」です。内面の静け<n>さを保つために、葛藤や不快な状況に遭うと、<n>それを解消しようとしたり、避けようとした<n>りします。物事や考えを切り替えたり、新規<n>に始めるよりは、順当に過ごす方が性に合う<n>かもしれませんが、決断の習慣をつけ、優先<n>順位に従って行動することも必要です。
+EN: You're a Peacemaker: calm, relaxed,<n>and steady. To preserve inner peace,<n>you try to resolve or avoid conflict<n>and unpleasant situations. Keeping<n>things on an even keel may suit you<n>better than changing course or starting<n>something new. Still, practice making<n>decisions and acting on your priorities.
+
+@1F1B4 max=31
+JP: 氷の情熱
+EN: Icy Passion
+
+@1F1D4 max=359
+JP: あなたは氷の情熱タイプです。何事も厳しく<n>判断する性格で、自分がいるべき場所、力量<n>などをきちんと把握している冷静な人です。<n>でも、なぜか自分に自信を持てない……。自<n>分の感情をあまり面に出すことがありません<n>が、胸のうちでは様々な感情が渦巻いており、<n>激情のとりこになってしまうところも。心の<n>中に氷のような炎を隠し持つタイプです。
+EN: You're the Icy Passion type. You judge<n>everything strictly, coolly aware of<n>your place and your abilities. Yet,<n>somehow, you struggle with confidence.<n>You rarely show your feelings, but<n>inside, all kinds of emotions swirl.<n>Passion can sweep you away. You hide<n>a flame as cold as ice within your heart.
+
+@1F33C max=31
+JP: お気楽極楽
+EN: Happy-Go-Lucky
+
+@1F35C max=359
+JP: あなたはお気楽極楽タイプです。行く手に何<n>が待ち受けようとも、いつも楽しく、大らか。<n>好奇心も旺盛、こまめに人の世話も焼きます<n>し、表現力も豊かで精神的にとても明るい人<n>です。ただ、夢見がちで現実的になれない部<n>分があり、それを利用されたり、調子に乗っ<n>て失敗したりということもあるはずです。た<n>まには、自分を冷静に見つめましょうね。
+EN: You're the Happy-Go-Lucky type.<n>Whatever lies ahead, you stay cheerful<n>and easygoing. Curious, expressive,<n>and bright, you're always helping out.<n>But your dreamy, impractical streak<n>can leave you open to being used or<n>getting carried away and messing up.<n>Take a cool, honest look at yourself.
+
+@1F4C4 max=31
+JP: ぐずぐず悩み好き
+EN: Worrying Waffler
+
+@1F4E4 max=359
+JP: あなたはぐずぐず悩み好きタイプです。はっ<n>きりいってしまえば、優柔不断で、自分に自<n>信がもてないため、自分の意見というものを<n>はっきり言うことができません。それは優し<n>い性格でもある、ということ。NOを言えな<n>いあなたは、その優しさを利用されたり、だ<n>まされたりすることも多いはずです。もう少<n>し、自己主張できるようにがんばりましょう。
+EN: You're a Worrying Waffler. Frankly,<n>you're indecisive and lack confidence,<n>so you struggle to voice an opinion.<n>That also reflects your kind nature.<n>You find it hard to say no, which<n>means people may often exploit your<n>kindness or deceive you. Work on<n>standing up for yourself a little more.
+
+@1F64C max=31
+JP: テンション満開
+EN: Full Throttle
+
+@1F66C max=359
+JP: あなたはいつでもやる気満々のテンション満<n>開タイプです。野心にあふれ、高い目標に向<n>かって突き進んでいきますが、自分の目標を<n>達成するためには手段を選ばない利己的な性<n>格も持ち合わせているので、他人から見ると<n>かなり迷惑な人でもあります。他人を踏み台<n>にするような冷たさと頑固なところを、思い<n>やりと柔軟性に変えるよう努力しましょう。
+EN: You're the Full Throttle type, always<n>raring to go. Ambitious, you charge<n>toward lofty goals. But your selfish<n>willingness to do anything to succeed<n>can make you a real nuisance to others.<n>You can be cold enough to use people<n>as stepping stones. Replace that coldness<n>and stubbornness with care and flexibility.
+
+@1F7D4 max=31
+JP: 実行力ゼロ
+EN: All Ideas, No Action
+
+@1F7F4 max=359
+JP: あなたは思いつきだけは人一倍、でも実行力<n>ゼロタイプです。合理的で物事を瞬時に判断<n>し、的確に批判することはできますが、それ<n>は他人のことばかり。自分は、ちょっとした<n>壁にぶち当たるとすぐ方向転換してしまいま<n>す。頭で考える力はありますので、それを実<n>行に移し最後までやりとげる努力をすれば、<n>幸せな生活を送ることができるでしょう。
+EN: You're all ideas and no action. Rational<n>and quick to judge, you offer sharp<n>criticism... of other people. When<n>even a small obstacle blocks your own<n>path, you immediately change course.<n>You have the brains. Put your ideas<n>into action and see them through, and<n>you'll be on your way to a happy life.
+
+@1F95C max=31
+JP: 自分に厳しい劣等感
+EN: Your Own Worst Critic
+
+@1F97C max=359
+JP: あなたは自分に厳しい劣等感タイプです。常<n>にこうありたいという理想を高く掲げていま<n>すが、いかんせん、実力よりも高い理想を追<n>い求めていますので挫折して劣等感を味わう<n>ことが多いのです。少し自分を甘やかす、他<n>人の目を気にしない、そして本来の自分の能<n>力を冷静に見つめ、考え、行動をしていくよ<n>うにすると、楽になって来るでしょう。
+EN: You're your own worst critic, always<n>aiming for an ideal beyond your ability.<n>Setbacks often leave you feeling<n>inferior. Give yourself a little slack,<n>worry less about what others think,<n>and take a calm look at your true<n>abilities. Let that guide your thoughts<n>and actions, and life will feel easier.
+
+@1FAE4 max=31
+JP: 理想は高いネクラ
+EN: Gloomy Idealist
+
+@1FB04 max=359
+JP: あなたは理想は高いネクラタイプです。本来、<n>冷たく鈍感でそのくせ甘えん坊、というどう<n>しようもない性格であるにもかかわらず、自<n>分ではそれを認めず、高い理想を持ち、使命<n>感に燃えている、と思い込んでいます。地に<n>足をつけて自分のできること、できないこと<n>をしっかり考える、まずそこから再スタート<n>することが大切ですよ。
+EN: You're a Gloomy Idealist. Cold,<n>insensitive, yet needy, you refuse<n>to admit these troublesome traits.<n>Instead, you see yourself as driven<n>by lofty ideals and a burning mission.<n>Keep your feet on the ground. Think<n>carefully about what you can and can't<n>do. Start afresh with that understanding.
+
+@1FC6C max=31
+JP: 天真爛漫ほがらか
+EN: Cheerful Free Spirit
+
+@1FC8C max=359
+JP: あなたは、天真爛漫ほがらかタイプです。人<n>当たりもよく、常識的な付き合いもできて、<n>明るいので友人は多いでしょう。しかしその<n>反面、細やかな気配りができなかったり、い<n>ざというときに頼れなかったり、気ままでル<n>ーズだったり、というような性格でもありま<n>す。物事にきちんとけじめをつけ、最後まで<n>面倒を見るよう努力しましょう。
+EN: You're a Cheerful Free Spirit.<n>Friendly, sociable, and sunny, you<n>probably have plenty of friends.<n>But you can miss the little details,<n>be unreliable in a crisis, and act<n>carelessly or on a whim. Learn to<n>draw clear lines and take responsibility<n>for things right through to the end.
+
+@1FDF4 max=31
+JP: お堅い頑固者
+EN: Stuffy Stickler
+
+@1FE14 max=359
+JP: あなたはお堅い頑固者タイプです。常識があ<n>り、義理人情にも厚く、社会の中ではみ出さ<n>ずにきちんと生活していくことができますが、<n>人間的な面白みというものとは一切無縁です。<n>もうちょっと物事を自由にとらえ、柔軟性を<n>持つことが大切です。人生一度きりですから、<n>楽しく、仲良く、人に対しても柔軟性を持つ、<n>それが運命を開くポイントとなります。
+EN: You're a Stuffy Stickler. Sensible,<n>loyal, and caring, you fit into society<n>and lead a proper life. But you're<n>no fun at all! Try a freer, more flexible<n>outlook. You only live once, after all.<n>Have fun, get along with others, and<n>be more flexible with people. That's<n>the key to opening up your future.
+
+@1FF7C max=31
+JP: 永遠の子供
+EN: Eternal Child
+
+@1FF9C max=359
+JP: あなたは永遠の子供タイプです。欲しいと思<n>ったものは手に入れないと気がすまないし、<n>その場限りのごまかしなど得意中の得意。好<n>奇心が旺盛で、なんにでもクビを突っ込み、<n>常識なんか考えもせず、ひたすら、自分の欲<n>するままに行動を起こしていきます。子供心<n>を発揮して遊ぶのは大いに結構ですが、公的<n>なときは少し自分を抑えることも大切ですよ。
+EN: You're an Eternal Child. You must have<n>what you want, and you're a master of<n>quick cover-ups. Curious about everything,<n>you poke your nose in without a thought<n>for common sense, following every whim.<n>Playing with childlike wonder is fine,<n>but learn to rein yourself in a little<n>when the occasion calls for proper behavior.
+
+@20104 max=31
+JP: 穏やか大人
+EN: Calm Grown-Up
+
+@20124 max=359
+JP: あなたは穏やか大人タイプです。社会生活を<n>送る上で、きちんと責任を取ることができ、<n>また人に対しても優しくすることができる、<n>性格的に偏りのない人です。物事を冷静に判<n>断することができますし、合理的な考え方を<n>することもできます。全般において何事も破<n>綻なく、とても奥行きの深い人でもあります。<n>頼りがいのあるやさしい人です。
+EN: You're the Calm Grown-Up type.<n>You take responsibility and treat<n>others kindly. Your personality is<n>well balanced, and you judge things<n>calmly and think rationally.<n>You handle most things smoothly,<n>with hidden depths beneath it all.<n>You're kind and dependable.
+
+@2028C max=31
+JP: 平均的地味人間
+EN: Plain Average
+
+@202AC max=359
+JP: あなたは平均的地味人間タイプです。何をし<n>てもそこそこうまくやれますが、飛びぬけた<n>才能や突出した欠点などがありません。いわ<n>ゆる、毒にも薬にもならない性格で、集団の<n>中でまぎれてしまうことも多いはずです。ど<n>れをとっても平均点の没個性人間なのです。<n>好きなものを見つけてとことん追い求めてみ<n>たりすると人生が変わるかもしれません。
+EN: You're the Plain Average type.<n>You do most things fairly well,<n>with no outstanding talents or flaws.<n>You rarely help or hurt, and tend to<n>blend into the crowd. You're average<n>across the board, with little to<n>set you apart. Find something you love<n>and pursue it fully. It may change your life.
+
+@20414 max=31
+JP: レア人間
+EN: Rare Specimen
+
+@20434 max=359
+JP: あなたはレア人間タイプです。あなたのよう<n>に社会生活に向いていない人はなかなかいま<n>せん。ある意味、非常にまれなタイプです。<n>まず、今までの人生、自分の言動を落ち着い<n>て振り返り、生き方を考え直してみてくださ<n>い。きっとなにか自分で見落としていること<n>が出てくるはずです。今からでも遅くありま<n>せんので人生、やり直してみてください。
+EN: You're the Rare Specimen type.<n>Few people are so ill-suited to<n>life in society. That makes you quite<n>a rarity! Calmly reflect on your life,<n>your words and your actions so far.<n>Reconsider how you live, and you'll<n>surely find something you've missed.<n>It's not too late to make a fresh start.
+
+@2059C max=31
+JP: ゆるゆる長助さん
+EN: Laid-Back Lou
+
+@205BC max=359
+JP: あなたは朝寝、朝酒、朝湯が大好きなゆるゆ<n>る長助さんタイプです。できることなら仕事<n>などせず、学校なぞいかず、好きなことだけ<n>して生きてゆきたい人なのです。そして自分<n>が自由に生きているせいか、考え方がおおら<n>かで、人のことはまったく気にしません。少<n>し、生活に緊張感を持ち、集中力をつけてい<n>くと良いほうに変化していくでしょう。
+EN: You're a Laid-Back Lou, fond of<n>sleeping in, morning drinks and baths.<n>You'd gladly skip work and school<n>to spend your life doing as you please.<n>Your free way of life makes you<n>easygoing, and you never fret about<n>others. Add a little discipline and<n>focus, and things will change for the better.
+
+@20724 max=31
+JP: 切捨て御免冷酷
+EN: Ruthless Cutter
+
+@20744 max=359
+JP: あなたは常に冷静さを失わない、切捨て御免<n>冷酷タイプです。合理的に物事を考えること<n>ができ、また、自分が望まれているポジショ<n>ンを常にわかっていますので、世渡りは上手<n>なのですが、邪魔が入ると、容赦なく切り捨<n>てる冷酷人間です。決断時には周りの意見も<n>取り入れるようにすれば、冷酷なイメージを<n>少しは和らげることができるでしょう。
+EN: You're the Ruthless Cutter type.<n>You always keep your cool and think<n>rationally. You know what role others<n>expect of you, so you get ahead well.<n>But if someone gets in your way,<n>you cut them off without mercy.<n>Listen to others before deciding,<n>and you may soften that cold image.
+
+@208AC max=31
+JP: 夢見がち乙女
+EN: Dreamy Maiden
+
+@208CC max=359
+JP: あなたは夢見がち乙女タイプです。きちんと<n>した人格を形成するのに必要な要素を、ある<n>程度満たしているにも関らず、ただ１点、現<n>実的な考え方ができない、という大きな欠点<n>があります。夢見ることは大切ですが、自分<n>が取ろうとしている行動の結果、何が起こる<n>かを、事前に考えるようにすると運命はより、<n>暮らしやすい方向へ変わっていくでしょう。
+EN: You're the Dreamy Maiden type.<n>You have most of the makings of<n>a well-rounded person, but one big<n>flaw: you struggle to think realistically.<n>Dreams matter, but before you act,<n>think about what your actions may bring.<n>That foresight can steer your future<n>toward a much more comfortable life.
+
+@20A34 max=31
+JP: じっくりゆっくり
+EN: Slow and Steady
+
+@20A54 max=359
+JP: あなたは忍耐強く我慢強い、じっくりゆっく<n>りタイプです。こつこつとひとつのことをや<n>り続けることができる、ある意味職人的な気<n>質を持っています。自分の感情を表に出さず<n>我慢することが多いので、全体の雰囲気が暗<n>い人になっています。まずは、閉じ込めてし<n>まった自分の真の感情を探ること、そしてそ<n>れを少しずつ開放するよう心がけましょう。
+EN: You're the patient, enduring<n>Slow and Steady type. You can keep<n>working at one thing, bit by bit,<n>with a craftsperson's dedication.<n>But hiding your feelings and putting up<n>with things gives you a gloomy air.<n>Explore the true feelings you've buried,<n>then try letting them out little by little.
+
+@20BBC max=31
+JP: 我が道を行く頑固
+EN: Stubborn Trailblazer
+
+@20BDC max=359
+JP: あなたは、いつでも我が道を行く頑固タイプ<n>です。自分の目標がしっかり見えていて、他<n>人の意見など聞かずにどんどん進んでいく人<n>です。対人関係での細かいバランスをとるの<n>がとても苦手で、他人を自分の感情の捌け口<n>としてしか扱いません。たまには他人の目を<n>気にして、対人関係に気を配るようにすると、<n>あらゆる面で成功をつかめるでしょう。
+EN: You're the Stubborn Trailblazer type.<n>Your goals are clear, and you charge<n>ahead without listening to anyone.<n>You struggle with the give-and-take<n>of relationships, treating others as<n>outlets for your feelings. Consider<n>how they see you and care for those bonds,<n>and success can follow in every area.
+
+@20D44 max=31
+JP: お小言小姑
+EN: Nitpicking Nag
+
+@20D64 max=359
+JP: あなたは何かにつけて批判ばかりしているお<n>小言小姑タイプです。面倒見もよく、きちん<n>としていて、さらに遊びにも付き合えるし、<n>仕事もできる、いわゆる平均的に良くできる<n>タイプなのに、ただひとつ、猛烈な批判人間<n>であることがあなたを人から遠ざけています。<n>批判精神を自分に向け、使命感を持ってひと<n>つのことに取り組むと力を発揮できます。
+EN: You're the Nitpicking Nag type,<n>always finding something to criticize.<n>You're helpful, orderly, fun to be with<n>and good at work: a capable all-rounder.<n>Yet your fierce criticism drives<n>people away. Turn that critical eye<n>on yourself and tackle one thing with<n>a sense of purpose to put your gifts to use.
+
+@20ECC max=31
+JP: 世話好き、お人よし
+EN: Softhearted Helper
+
+@20EEC max=359
+JP: あなたは世話好きお人よしタイプです。<n>人間の性格を形成するさまざまな要素の中で、<n>あなたの場合、対他人へのやさしさが人一倍<n>強いのです。人に利用されたり、付け込まれ<n>たりすることも多いでしょう。時に、厳しさ<n>を必要とするような職業には向きません。立<n>場や相手によっては、たまには、厳しい叱責<n>も必要だ、ということを肝に銘じましょう。
+EN: You're the Softhearted Helper type.<n>Of all the traits that shape you,<n>kindness to others stands out most.<n>People may often use you or take<n>advantage of you. Jobs that call for<n>firmness may not suit you. Remember,<n>depending on your role and who it is,<n>sometimes a stern scolding is needed.
+
+@21054 max=31
+JP: 合理的ロボット
+EN: Logical Robot
+
+@21074 max=359
+JP: あなたは合理的ロボットタイプです。<n>勉強、仕事、なんでもきちんとこなします。<n>自分のことは責任を持って進めることができ<n>ます。そして、理屈で割り切れることはどん<n>なに困難でもやりとげます。しかし人間には、<n>予測のつかない感情がありますので、すべて<n>を理詰めで解決することはできません。他人<n>の感情も理解するよう、心がけましょうね。
+EN: You're the Logical Robot type.<n>You handle studies, work and more<n>with care, taking responsibility for<n>your own affairs. If logic can solve it,<n>you'll see it through, however hard.<n>But people's feelings are unpredictable.<n>Reason alone can't solve everything,<n>so try to understand others' emotions, too.
+
+@211DC max=31
+JP: 七つの海の冒険家
+EN: Seven Seas Adventurer
+
+@211FC max=359
+JP: あなたは七つの海の冒険家タイプです。あな<n>たのあらゆる行動は自由な発想、好奇心、冒<n>険心から起こされています。何かを欲しいと<n>なれば、その過程にどんな困難があろうとも<n>手に入れようとしますし、やりたいとなった<n>ら、誰が止めても挑戦します。時には立ち止<n>まり、自分を少し冷静に見ること。それが、<n>あなたの成功への鍵となります。
+EN: You're the Seven Seas Adventurer type.<n>Free thinking, curiosity and a thirst<n>for adventure drive everything you do.<n>If you want something, you'll chase it<n>through any hardship. If you want to<n>try something, no one can stop you.<n>Pause sometimes and take a calm look<n>at yourself. That's your key to success.
+
+@21364 max=31
+JP: 気にしすぎ劣等感
+EN: Self-Conscious Worrier
+
+@21384 max=359
+JP: あなたは人の目を気にしすぎ劣等感タイプで<n>す。あらゆる面において平均以上の能力があ<n>りながら、人目や評価を気にするばかり、全<n>く本来の力を発揮できないタイプです。また、<n>強いものにはすぐ巻かれてしまい自己表現が<n>できないので、内面のストレスはかなりのも<n>のになります。人が何を言おうが気にせず思<n>うことをやりとげる強さを持ちましょう。
+EN: You're the Self-Conscious Worrier type.<n>Your abilities are above average,<n>but fear of others' eyes and judgments<n>keeps you from showing your true worth.<n>You give in to powerful people and<n>can't speak your mind, building up stress.<n>Find the strength to follow through<n>on your wishes, whatever others say.
+
+@214EC max=31
+JP: 実践型の人
+EN: Practical Doer
+
+@2150C max=359
+JP: あなたは、実践型の人ですね。経験の積み重<n>ねの中で自分なりの考えをまとめ、それをす<n>ぐに行動に移して力を発揮するタイプです。<n>抽象的な理論を学ぶより、論理立てたことを<n>実践する中で学んでいきたいと考えます。現<n>実的なことがらに関心が高く、決断力にも優<n>れています。
+EN: You're a Practical Doer.<n>You develop your own ideas through<n>experience, then put them straight into<n>action, where your talents shine.<n>You prefer learning by applying sound<n>reasoning to studying abstract theories.<n>Practical matters interest you, and you're decisive.
+
+@21674 max=31
+JP: 行動力の人
+EN: Action Taker
+
+@21694 max=359
+JP: あなたは、行動力の人ですね。うだうだして<n>いる時間を嫌い、直接的に行動に移すタイプ<n>です。メカをいじったり、ものを組み立てた<n>りする才能に恵まれ、友だちとのスポーツな<n>ど身体を動かすことに喜びを感じます。何ご<n>ともドーンと引き受けて、何でも楽しんでし<n>まえる懐の深さがあります。
+EN: You're an Action Taker.<n>You hate wasting time dithering and<n>prefer to get straight to work.<n>You have a gift for tinkering with<n>machines and building things. Sports<n>with friends and other physical pursuits<n>delight you. You take on anything and find fun in it.
+
+@217FC max=31
+JP: 調和の人
+EN: Peacemaker
+
+@2181C max=359
+JP: あなたは、調和の人ですね。おしゃべり好き<n>で、親しみやすく、とっても協力的。つねに<n>人のためになることをしたいと願い、調和を<n>つくりあげることに喜びを感じます。快活で<n>実直な性格は、周囲からほめられたり励まさ<n>れたりすることでますます輝きを増します。
+EN: You're a Peacemaker.<n>Chatty, approachable and cooperative,<n>you always want to help others and<n>find joy in bringing people together.<n>Your cheerful, honest nature shines<n>even brighter with praise and encouragement.
+
+@21984 max=31
+JP: 意欲的な人
+EN: Enthusiast
+
+@219A4 max=359
+JP: あなたは、意欲的な人ですね。どんなことに<n>も楽しみをみつけられる才能の持ち主です。<n>また、みんながもっと楽しめるように工夫す<n>ることにも喜びを感じます。机に向かって勉<n>強するよりは、どちらかというと実際に体験<n>しながら学ぶことの方が好き。何ごとにも実<n>践力を発揮します。
+EN: You're an Enthusiast.<n>You have a gift for finding fun<n>in anything, and love dreaming up<n>ways for everyone else to enjoy it, too.<n>You prefer learning through experience<n>to sitting at a desk studying.<n>Whatever you do, you shine at putting ideas into practice.
+
+@21B0C max=31
+JP: 知識の人
+EN: Knowledge Seeker
+
+@21B2C max=359
+JP: あなたは、知識の人ですね。経験よりも頭の<n>中で考えを組み立て、それを実践するタイプ。<n>論理的で知的な会話が好きで、知識を増やし<n>ていくことに喜びを感じます。だから、つね<n>にたくさんの情報に囲まれています。率直さ<n>と優れた決断力から、仲間の中ではリーダー<n>的な存在です。
+EN: You're a Knowledge Seeker.<n>You form ideas in your head, then act,<n>rather than relying on experience.<n>You love logical, intellectual talk<n>and learning, so you always surround<n>yourself with information. Your frankness<n>and sound decisions make you a leader among friends.
+
+@21C94 max=31
+JP: 機敏な人
+EN: Quick Thinker
+
+@21CB4 max=359
+JP: あなたは、機敏な人ですね。どんな問題が生<n>じても臨機応変に対処できます。反応が速く<n>率直なため、周りの人に刺激を与えるような<n>存在感があります。得意分野の幅も広く、新<n>しいものへの好奇心も尽きません。独創的な<n>だけに、決まりきった作業を軽く見る傾向が<n>あります。
+EN: You're a Quick Thinker.<n>You can adapt to any problem that<n>comes your way. Your quick reactions<n>and frank manner keep others on their toes.<n>You have many talents and endless<n>curiosity about new things. Being inventive,<n>you tend to think little of routine tasks.
+
+@21E1C max=31
+JP: 敏感な人
+EN: Sensitive Soul
+
+@21E3C max=359
+JP: あなたは、敏感な人ですね。つねに周りの様<n>子に心をくばっているため、みんなの期待に<n>もそつなく応えることができます。社交的で<n>思いやりがあるので、グループの中でも中心<n>的存在。人の手助けをすることも苦になりま<n>せん。ただ、周りからの批判にも敏感になっ<n>てしまいがちです。
+EN: You're a Sensitive Soul.<n>Always attentive to those around you,<n>you meet everyone's expectations with ease.<n>Sociable and considerate, you're often<n>at the heart of the group. Helping<n>others is no trouble at all for you.<n>But you can be sensitive to their criticism, too.
+
+@21FA4 max=31
+JP: 瞬発力の人
+EN: Quick Starter
+
+@21FC4 max=359
+JP: あなたは、瞬発力の人ですね。ここぞという<n>ときにはとっさに独創的なアイデアを発揮で<n>きる才能に恵まれています。快活で人あたり<n>がよく、想像力にも富み、何ごとにも意欲的<n>です。事前に準備するのは苦手ですが、難題<n>にもその場ですばやく解決法を思いついて対<n>応できるタイプです。
+EN: You're a quick thinker. When it counts,<n>you dream up original ideas on the spot.<n>Cheerful, friendly and imaginative,<n>you tackle everything with enthusiasm.<n>Planning ahead isn't your strong suit,<n>but even a tough problem can spark<n>a clever solution in no time.
+
+@2212C max=31
+JP: きちょうめんな人
+EN: The Meticulous Type
+
+@2214C max=359
+JP: あなたは、きちょうめんな人ですね。ものご<n>とをきちんと論理立てて整理し、実践的に取<n>り組むので人にもとても頼りにされます。ま<n>た、やるべきことをいったん決めたら抵抗勢<n>力もなんのその、集中力を発揮して着実にや<n>りとげるバツグンの責任感を持っています。
+EN: You're the meticulous type. You organize<n>things logically and take a practical<n>approach, making you someone others<n>can count on. Once you decide what<n>must be done, even opposition won't<n>shake your focus. Your strong sense of<n>responsibility sees you through.
+
+@222B4 max=31
+JP: 観察の人
+EN: The Observer
+
+@222D4 max=359
+JP: あなたは、観察の人ですね。いつもちょっと<n>距離を置いたとこから、人やものごとを観察<n>し分析しています。口数は少ない方ですが、<n>ときたま独自のユーモアのセンスを発揮して<n>周りを驚かせることも。事実を冷静に判断で<n>きる方なので、問題が起こったときもその本<n>質をとらえて解決につとめます。
+EN: You're an observer. You prefer to step<n>back and study people and situations.<n>You're quiet, but your unique sense of<n>humor sometimes takes people by surprise.<n>You assess the facts calmly, so when<n>trouble strikes, you get to the heart<n>of the problem and work to solve it.
+
+@2243C max=31
+JP: 実直な人
+EN: The Sincere Type
+
+@2245C max=359
+JP: あなたは、実直な人ですね。ものごとをひと<n>つひとつ正確にできるうえに、忍耐強くて責<n>任感もあります。決して自分を強く押し出す<n>方ではないけれど、チーム活動でも労をいと<n>わず、誠心誠意取り組みます。感覚もするど<n>く、相手の気持ちを大切にできる思いやりに<n>あふれています。
+EN: You're the sincere type. You handle each<n>task with care and accuracy, backed by<n>patience and a sense of responsibility.<n>You don't push yourself forward, but<n>you give teamwork your all and never<n>shirk a task. Perceptive and caring,<n>you treat others' feelings with respect.
+
+@225C4 max=31
+JP: 遠慮深い人
+EN: The Reserved Type
+
+@225E4 max=359
+JP: あなたは、遠慮深い人ですね。人の気持ちに<n>敏感で、人あたりも柔らかです。自分の意見<n>を言うよりは、人の意見を応援するタイプで<n>す。今のひとときをみんなで仲良く過ごすこ<n>とに最上の幸せを感じます。もの静かで無理<n>もせず、あせったりあわてたりもしない、ゆ<n>ったり自然体の癒し系です。
+EN: You're the reserved type. Sensitive to<n>others' feelings, you have a gentle way<n>with people. You support their views<n>more often than voicing your own.<n>Sharing a peaceful moment makes you<n>happiest. Quiet, relaxed and never rushed,<n>your easygoing nature puts people at ease.
+
+@2274C max=31
+JP: 探究の人
+EN: The Inquisitive Type
+
+@2276C max=359
+JP: あなたは、探究の人ですね。起きているでき<n>ごとの背景を読み取って、それを分析し、整<n>理することで、高い水準の結果を出そうとす<n>るタイプです。興味のあることを追求するた<n>めなら、最後までやり遂げようと努力できる<n>長期的な視野を持っています。やや懐疑的、<n>批判的な面もあります。
+EN: You're the inquisitive type. You look<n>behind events, analyze what you find<n>and organize it to achieve results of<n>a high standard. When something sparks<n>your interest, you take the long view<n>and work to see it through. You do have<n>a somewhat skeptical, critical streak.
+
+@228D4 max=31
+JP: 理論派の人
+EN: The Logical Type
+
+@228F4 max=359
+JP: あなたは、理論派の人ですね。どちらかとい<n>えば無口で、人と関わるよりは一人で理論や<n>科学について探究する時間の方に楽しみを感<n>じます。問題につきあたったときも、論理や<n>分析によって解決の糸口を見つけるタイプで<n>す。興味の対象もはっきりしていてブレがあ<n>りません。
+EN: You're the logical type. Rather quiet,<n>you enjoy exploring theories and science<n>on your own more than spending time<n>with people. When you face a problem,<n>logic and analysis help you find a way<n>forward. You know exactly what interests<n>you, and those interests stay steady.
+
+@22A5C max=31
+JP: 信念の人
+EN: The Principled Type
+
+@22A7C max=359
+JP: あなたは、信念の人ですね。自分への期待に<n>応えるために最善をつくそうと努力します。<n>他人をよく気づかい、実直です。控えめなが<n>らも押しは強い方で、独自性もあるタイプ。<n>社会貢献など、明確で崇高なビジョンを持て<n>ば、信望を集める存在にもなれるはずです。
+EN: You're the principled type. You strive<n>to meet your own high expectations.<n>Considerate and sincere, you're modest<n>yet firm, with ideas all your own.<n>A clear, noble goal, such as helping<n>society, could make you someone others trust and look up to.
+
+@22BE4 max=31
+JP: 柔軟な人
+EN: The Adaptable Type
+
+@22C04 max=359
+JP: あなたは、柔軟な人ですね。ものごとを静か<n>に観察しながらも好奇心やアイデアはいっぱ<n>い。それをすみやかに実行できる力がありま<n>す。自分の価値観をとっても大事にしていま<n>すが、ほかの人への理解につとめる寛容さも<n>併せ持ちます。ただ、物質的なものへの欲や<n>関心は極めて低い方です。
+EN: You're the adaptable type. You observe<n>quietly, full of curiosity and ideas,<n>and can quickly put them into action.<n>You hold your own values dear, yet<n>you're tolerant and try to understand<n>others, too. Material possessions hold<n>very little interest or appeal for you.

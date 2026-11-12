@@ -1,0 +1,523 @@
+# source: PSP_GAME/USRDIR/data/bottmail/teikei.bin
+# format: rec
+# width: 38
+
+@#0
+JP: 私の流したこのボトル、<n>誰かに拾ってもらえたかな…？<n>どこかであなたに会える日を<n>信じています。
+EN: I wonder if anyone's found this bottle<n>I sent out to sea...<n>I believe we'll meet somewhere someday.
+
+@#1
+JP: 福福島は、今日もいい天気。<n>あなたがこのボトルを拾った日は<n>どんなお天気かな？<n>あなたにいいことが起こりますよう、<n>お祈りしていますね！
+EN: Another sunny day on Fukufuku Island!<n>What's the weather like where you are<n>on the day you find this bottle?<n>I'm wishing good things your way!
+
+@#2
+JP: 今日はちょっと気持ちが沈んでいるので<n>海に来たけど、ボトルメールを流せば、<n>ちょっとすっきりするかな。<n>これを拾った人は、その日一日、<n>幸せに過ごせますように！
+EN: I came to the sea because I'm feeling<n>a little down today. Maybe sending some<n>bottle mail will help clear my head.<n>Whoever finds this, I hope your day<n>is full of happiness!
+
+@#3
+JP: めったに会えない<n>緑帽子のガイコツに<n>もう会えましたか？
+EN: Have you met that hard-to-find<n>skeleton in the green hat yet?
+
+@#4
+JP: このあいだ、ジグソーパズルを<n>完成させました！<n>とっても面白い絵柄で<n>楽しかったですよー。
+EN: I finished a jigsaw puzzle<n>the other day!<n>The picture was so funny.<n>I had a great time!
+
+@#5
+JP: 今日は学校でとてもいいことがあったよ。<n>だから幸せです！<n>明日もいいことがありますように＆<n>これを拾ったあなたもラッキー！！
+EN: Something really good happened<n>at school today. I'm so happy!<n>Here's hoping for more good things tomorrow,<n>and good luck for you, too!
+
+@#6
+JP: ハロー！！　猫が大好きな<n><AGE>歳の<SEX>性です。<n>猫が飼いたいけど、<n>家では飼えないんです。<n>あなたは何かペットを飼っていますか？
+EN: Hello!! I'm <AGE>, <SEX>,<n>and a huge cat lover!<n>I'd love a cat, but I can't<n>keep one at home.<n>Do you have any pets?
+
+@#7
+JP: 心理テストの結果、<n>個性派タイプと言われた<n>独身<SEX>性です。<n>なんかこれって当たってるかも！<n>あなたはやってみましたか？
+EN: I'm single and <SEX>, and my<n>personality quiz said I'm a unique type.<n>I think it might be onto something!<n>Have you tried it?
+
+@#8
+JP: 知っていましたか？<n>サハラ砂漠にも雪が降るんだって！<n>これは、マシューさんから聞いた<n>うんちくの受け売りなんですけどね！
+EN: Did you know it even snows<n>in the Sahara Desert?<n>I'm just passing along some trivia<n>I heard from Dr. Matthew!
+
+@#9
+JP: 今日のお昼ご飯は、焼き魚定食でした。<n>あなたは、今日、何を食べたかな。<n>明日はパスタでも食べに行こうかな。
+EN: I had a grilled fish set meal for lunch.<n>What did you eat today?<n>Maybe I'll go out for pasta tomorrow.
+
+@#10
+JP: アイテム添付して流してみます。<n>あなたも何か添付してみてね。<n>きっと、世界の誰かの役に立つはず！
+EN: I'm sending this with an item attached.<n>Try attaching something yourself!<n>Someone out there is sure to find it useful!
+
+@#11
+JP: このボトルって本当に<n>誰かに届くのかなぁ。<n>ためしに流してみるけど、<n>自分で自分の拾ったりしたら、<n>ちょっと悲しいなぁ。
+EN: Will this bottle really reach someone?<n>I'll send it out and see, but...<n>It'd be a little sad if I ended up<n>finding my own bottle.
+
+@#12
+JP: ボトルを拾った誰かさん、こんにちは<n>私は、<HORO>の<BLOOD>型、<n><AGE>歳の<SEX>性です。<n>ペンタゴンのゲーム、やりましたか。<n>けっこう儲かりますね！
+EN: Hello, whoever found this bottle!<n>I'm a <HORO>, blood type <BLOOD>,<n><AGE> years old and <SEX>.<n>Have you tried the Pentagon trio's game?<n>You can make pretty good money!
+
+@#13
+JP: モグやん建設の課長さんに会ったら、<n>クロスワードの答えをドカッと<n>もらえましたよ！<n>クロスワードやっていますか？
+EN: I met the Moguyan Construction Section Chief,<n>and he gave me a whole bunch<n>of crossword answers!<n>Have you been doing the crosswords?
+
+@#14
+JP: 福福島には、<n>たくさんガイコツがいますね。<n>このメールを受け取ってくれたあなた、<n>何人ぐらいのガイコツに会いましたか？
+EN: There sure are a lot of skeletons<n>on Fukufuku Island!<n>How many have you met,<n>whoever you are out there?
+
+@#15
+JP: 麺に例えると冷やし中華タイプの<n>私です。<n>あなたは何タイプだったかな。
+EN: If I were a noodle dish,<n>I'd be chilled Chinese noodles.<n>What type did you get?
+
+@#16
+JP: 飲み物占いで、紅茶タイプになった<n>私ですが、好みはどちらかというと<n>コーヒーなんです。<n>占いってあまり自分の好みとは<n>関係ないですね。
+EN: My drink fortune said I'm the tea type,<n>but I actually prefer coffee.<n>I guess fortunes don't have much<n>to do with personal taste!
+
+@#17
+JP: クレレ君にいろんなもの<n>あげています。<n>いっぱいあげると<n>何か、いいことあるのかなぁ。
+EN: I've been giving Kurere<n>all sorts of things.<n>I wonder if something good happens<n>when you give him lots of stuff.
+
+@#18
+JP: 守護天使って、<n>お金で替えられるらしいですね。<n>あなたは、もう替えましたか？
+EN: Apparently, you can pay<n>to change your guardian angel.<n>Have you changed yours yet?
+
+@#19
+JP: 友達とけんかしちゃった。<n>すごいブルーな気分。<n>私が悪いんじゃないと思うけど、<n>あやまったほうがいいのかなぁ。
+EN: I had a fight with a friend.<n>I'm feeling really down.<n>I don't think it was my fault,<n>but maybe I should apologize anyway.
+
+@#20
+JP: ガイコツキングにやっと会えました。<n>けっこう、探しちゃった。<n>あなたは、もう会いましたか？
+EN: I finally met the Skull King!<n>It took a lot of searching.<n>Have you met him yet?
+
+@#21
+JP: 今日は暖かいです！<n>なんかもう、コートとかいらないね。<n>このメールが届くのは、いつなのかな。<n>夏かな、秋かなぁ。
+EN: It's so warm today!<n>I don't even need a coat anymore.<n>I wonder when this message will reach you.<n>Summer? Fall, maybe?
+
+@#22
+JP: クーラー効き過ぎ、この部屋。<n>クーラーってお肌が乾燥するから、<n>年齢的にちょっと怖い私は<n><AGE>歳です。
+EN: The air conditioning in here is freezing!<n>It dries out your skin, too.<n>At <AGE>, I'm getting to the age<n>where that worries me a little.
+
+@#23
+JP: <HORO>の<SEX>性です。<n>星占いは、けっこう当たると思います。<n>でも、信じるのはいいことだけです。<n>あなたは信じますか、占い？？
+EN: I'm <SEX>, and my star sign is <HORO>.<n>I think horoscopes are pretty accurate.<n>But I only believe the good bits!<n>Do you believe in fortune-telling?
+
+@#24
+JP: 仕事で失敗しちゃったんだけど、<n>モークスさんに会ったら、励まされた。<n>モークスさんはいつも<n>前向きなことを言ってくれるよね。
+EN: I messed up at work, but seeing Mokus<n>really cheered me up.<n>He always has something positive<n>to say, doesn't he?
+
+@#25
+JP: ホシダケ組のキノコさんたち、<n>なんかちょっと怖いよね！<n>見かけはかわいいのに、<n>セリフがおやじっぽいよね。
+EN: Those mushrooms in the Hoshidake Gang<n>are kind of scary!<n>They look cute, but they talk<n>like grumpy old guys.
+
+@#26
+JP: サラオに向かってアイテムを投げて、<n>かなり損ばかりしている私です。
+EN: I've been throwing items at Sarao<n>and mostly just losing a whole lot of stuff.
+
+@#27
+JP: キーノのパズル、難しい。<n>このメールを拾ったキミ、<n>完成させたことありますか？<n>ちょっと諦めぎみの私です。
+EN: Kino's puzzles are hard!<n>Whoever found this message,<n>have you ever finished one?<n>I'm starting to give up.
+
+@#28
+JP: 福福島の新聞て、<n>本当に起きたことが<n>書いてあるんだね！<n>今日は何の日かわかって面白いよ！
+EN: The Fukufuku Island newspaper<n>has stories about things<n>that really happened!<n>It's fun finding out what makes today special!
+
+@#29
+JP: アメショー先生の心理分析って<n>絶対当たっている！！<n>なんか、怖くなってしまいました。
+EN: Professor Amesho's personality analysis<n>is absolutely spot-on!!<n>It's actually a little scary.
+
+@#30
+JP: 買い物に行ったんですけど、<n>目的のものがなくて悔しい私です。<n>このメールを読んでいるあなた、<n>今、一番欲しいものはなんですか？
+EN: I went shopping, but they didn't have<n>what I wanted. So frustrating!<n>Whoever's reading this,<n>what do you want most right now?
+
+@#31
+JP: パソコンが壊れた～～！<n>壊れたパソコン、自分で直せますか？<n>私は直せません…とほほ。
+EN: My computer broke!!<n>Can you fix a computer yourself?<n>I sure can't... Boo-hoo.
+
+@#32
+JP: すっかり涼しくなってきましたね。<n>そろそろ長袖出さなきゃ。<n>秋は好きなんだけど、冬は寒いから<n>嫌いな私です。
+EN: It's really cooling down, isn't it?<n>Time to dig out the long sleeves.<n>I love fall, but I hate winter.<n>It's just too cold!
+
+@#33
+JP: 今日は恋人とデートです。<n>友達にはナイショで付き合ってるので<n>ちょっとドキドキです。<n>みんなの来ないようなところへ<n>行こうと思ってます。
+EN: I've got a date with my sweetheart today.<n>We're keeping it a secret from our friends,<n>so I'm a little nervous!<n>We're planning to go somewhere<n>we won't run into any of them.
+
+@#34
+JP: 恋人にふられてガックリの私です。<n>なにが悪かったのかなー。<n>やっぱり仕事ばかりで会う回数が<n>少なかったせいかなー。<n>ああ、悲しい。
+EN: I got dumped, and I'm crushed.<n>What went wrong?<n>Maybe I was so busy with work<n>that we didn't see each other enough.<n>Oh, this hurts.
+
+@#35
+JP: 携帯落としちゃった、大ショック！<n>気がついてあわてて鳴らしてみたら、<n>全然、知らないヤツが出た～～。<n>私の携帯、返してくれ～～。
+EN: I lost my cell phone! I'm freaking out!<n>As soon as I noticed, I called it,<n>and some total stranger answered!!<n>Give me back my phone!!
+
+@#36
+JP: 風邪を引いています。<n>今、私の周りでは大流行中です。<n>このメールを受け取ったあなた、<n>身体に気をつけてくださいね。
+EN: I've caught a cold.<n>Everyone around me seems to have it, too.<n>Whoever gets this message,<n>take good care of yourself!
+
+@#37
+JP: レースゲームやシューティングが<n>大好きな<BLOOD>型、<SEX>性です。<n>けっこう、腕には自信があります。
+EN: I'm <SEX>, blood type <BLOOD>,<n>and I love racing games and shooters.<n>I'm pretty confident in my skills, too!
+
+@#38
+JP: ＲＰＧが大好きな<n><BLOOD>型、<SEX>性です。<n>あなたは何が好きかなぁ？
+EN: I'm <SEX>, blood type <BLOOD>,<n>and I love RPGs.<n>What kinds of games do you like?
+
+@#39
+JP: オンラインのＲＰＧが<n>大好きな<BLOOD>型、<SEX>性です。<n>やっぱり人と遊ぶのが面白いよね。
+EN: I'm <SEX>, blood type <BLOOD>,<n>and I love online RPGs.<n>Playing with other people is the best!
+
+@#40
+JP: パズルゲームとか大好きな<n><BLOOD>型、<SEX>性です。<n>クロスワードとかもけっこうやります～。<n>やったことありますか？
+EN: I love puzzle games!<n>I'm <SEX>, blood type <BLOOD>.<n>I do lots of crosswords too.<n>Have you ever tried one?
+
+@#41
+JP: 映画が大好きな<n><BLOOD>型、<SEX>性です。<n>やっぱりアクションものが面白い。<n>ＳＦとかもいいよね。
+EN: I'm a huge movie fan!<n>I'm <SEX>, blood type <BLOOD>.<n>You can't beat a good action movie.<n>Sci-fi's great too.
+
+@#42
+JP: 読書が趣味の<BLOOD>型、<SEX>性です。<n>好きなジャンルはファンタジー系。<n>漫画も好きです。<n>あ、あなたは漫画読む人かなぁ？
+EN: I'm <SEX>, blood type <BLOOD>, and I love reading.<n>Fantasy is my favorite genre.<n>I love manga too.<n>Do you read manga?
+
+@#43
+JP: チワワさんの心理テスト、<n>面白くて、最後までやりました。<n>けっこうズバリと診断されるので、<n>ドキドキでした～。
+EN: Ms. Chihuahua's personality quizzes<n>were so fun, I finished them all!<n>The results were so spot-on,<n>it was almost scary!
+
+@#44
+JP: ストーニー兄弟に、いろんなこと<n>聞かれて、ちょっとうんざり（笑）。<n>あなたはもうストーニー兄弟には<n>会いましたか？<n>可愛いんだけど、うざいよね！
+EN: The Stony Brothers ask so many questions,<n>I'm getting a little fed up. Ha ha!<n>Have you met the Stony Brothers<n>yet?<n>They're cute, but what a pain!
+
+@#45
+JP: ペコン王子の試験、<n>かなり難しいですね！<n>全問正解の人なんているのかな～。<n>あなたはどのくらい答えられてる？
+EN: Prince Pekon's exams<n>are really tough!<n>Does anyone ever get every question right?<n>How many have you been getting?
+
+@#46
+JP: サガシニコフさんに、挑戦して<n>今、猛烈探し中です。<n>このメールを受け取ったあなたも、<n>何か探してますか？
+EN: I took on Sagashnikov's challenge,<n>and now I'm searching like crazy!<n>If you're reading this mail,<n>are you searching for something too?
+
+@#47
+JP: プッカおじさんが、雑貨屋さんに！<n>もし、あなたがまだお店に<n>いったことないなら、即、行ってみて！
+EN: Uncle Pukka's running a general store!<n>If you haven't been there yet,<n>go check it out right now!
+
+@#48
+JP: ポッコさんのしゃべりかたって<n>面白いよね。<n>用もないのに、ついつい店に<n>行ってしまう私です。
+EN: The way Pokko talks<n>is so funny.<n>I keep dropping by his shop<n>even when I don't need anything!
+
+@#49
+JP: パコン王子って、<n>クイズの人だったんだね。<n>油断して話しかけたら<n>クイズ出されちゃってびっくりだ！
+EN: So Prince Pakon<n>is the quiz guy, huh?<n>I went over for a chat,<n>and he sprang a quiz on me!
+
+@#50
+JP: ヒヨピーにスタンプを持っていくと、<n>アイテムと交換してくれるんだね。<n>あなたはもう何かもらいましたか？
+EN: Turns out Hiyopi will trade you<n>items for stamps!<n>Have you gotten anything yet?
+
+@#51
+JP: おしゃれが大好きなので、<n>ついついカトレアさんとか、<n>デイジーさんのところに<n>通ってしまう私です。<n>あなたはどんなヘアスタイルかなぁ？
+EN: I love fashion,<n>so I keep going back<n>to see Cattleya<n>and Daisy.<n>I wonder what your hair looks like!
+
+@#52
+JP: カラメル伯爵にいきなり英語で<n>話しかけられてびびった！<n>何言ってるのか全然わからん！<n>キミにはわかりますか、アレ？？
+EN: Count Caramel suddenly started speaking English<n>at me, and I nearly jumped out of my skin!<n>I couldn't make heads or tails of it!<n>Can YOU understand him??
+
+@#53
+JP: 私は学生ダホー。あ、ダホーさんと<n>話してたら、ダホー語がうつった。<n>あなたは、学生さんかな、社会人かな。
+EN: I'm a student, daho! Oops, talking to Daho<n>has got me saying it too.<n>Are you a student, or do you work?
+
+@#54
+JP: ドリアードシニアさんの話は<n>いつも、ほほーと聞いてしまう私です。<n>でも、うんちくっていつか役にたつ日が<n>くるのだろうか、疑問ですね。
+EN: Dryad Senior's stories always<n>have me going, "Oh, really?"<n>But I do wonder if all that trivia<n>will ever come in handy.
+
+@#55
+JP: こんにちは、誰か知らないあなた。<n>私のメールを拾ってくれてありがとう。<n>あなたと私が赤い糸で結ばれていると<n>いいなぁ。どこかで出会えるといいなぁ。
+EN: Hello, whoever you are!<n>Thanks for picking up my mail.<n>Maybe there's a thread of fate connecting us.<n>I hope we get to meet someday.
+
+@#56
+JP: 夏休みって、もうちょっと長いと<n>いいのになぁ、と思う私です。<n>あ、でも、就職したら、もっと<n>短くなっちゃうのかな。<n>なんかずっと遊んでいたいです～。
+EN: I wish summer vacation<n>lasted a little longer.<n>Then again, once I get a job,<n>I'll probably get even less time off.<n>I just want to have fun forever!
+
+@#57
+JP: カレーライスと焼きそばが大好き。<n>あなたはどんな食べ物が好きですか？<n>今日の夜ご飯は何にしようかなぁ。
+EN: I love curry rice and yakisoba!<n>What foods do you like?<n>Hmm, what should I have for dinner tonight?
+
+@#58
+JP: ブランド大好きの私です！<n>でも、ちゃんと自分のお小遣いで<n>買っているよ！<n>あなたはどんなブランドが好き？
+EN: I love designer brands!<n>But I pay for everything<n>with my own spending money!<n>What brands do you like?
+
+@#59
+JP: ハンバーガー大好き！<n>あ、ラーメンも大好き！<n>これを拾ったあなたは、どんな<n>食べ物が好きかな。
+EN: I love burgers!<n>Oh, and ramen too!<n>What about you, whoever found this?<n>What foods do you like?
+
+@#60
+JP: こんばんわ。初めてボトルメールを<n>流してみます。<n>これってなんかわくわくするなぁ。<n>あなたも流してみてくださいね。
+EN: Good evening! This is my first time<n>sending bottle mail.<n>It's kind of exciting!<n>You should try sending some too.
+
+@#61
+JP: 毎日暑いですね。あなたの住んでいる<n>ところは、どんなお天気なのかな。
+EN: It's so hot every day here! What's the weather<n>like where you live?
+
+@#62
+JP: あけましておめでとう！<n>今年はあなたにとって<n>いい年になりますように！
+EN: Happy New Year!<n>I hope this year brings you<n>all kinds of good things!
+
+@#63
+JP: ハッピーバレンタイン！<n>今年は本命さんにチョコを渡しました。<n>うまくいくよう、祈ってください。
+EN: Happy Valentine's Day!<n>I gave my crush chocolates this year.<n>Keep your fingers crossed for me!
+
+@#64
+JP: 暑中お見舞い、申し上げます。<n>夏といえば、プールにアイスだったけど、<n>今年はちょっと大人になったので、<n>海辺でバーベキューかなぁ。
+EN: Warm wishes for the summer!<n>Summer used to mean pools and ice cream,<n>but I'm a little more grown-up this year.<n>Maybe a barbecue by the sea?
+
+@#65
+JP: 写真を撮るのが趣味の<SEX>性です。<n>あなたは写真は好きですか？<n>最初はインスタントカメラでも、<n>たくさん撮ると面白くなるよ！
+EN: I'm <SEX>, and photography is my hobby.<n>Do you like taking photos?<n>Even with a disposable camera,<n>the more you snap, the more fun it gets!
+
+@#66
+JP: ＴＶを見るのが大好きの<n><HORO>の<SEX>性です。<n>見るのは主にお笑い系。<n>あなたはどんなＴＶ番組が好きかな？
+EN: I love watching TV!<n>I'm <SEX>, and my star sign is <HORO>.<n>I mostly watch comedy shows.<n>What kind of TV shows do you like?
+
+@#67
+JP: 占い大好きの<HORO>の<BLOOD>型、<n><AGE>歳の<SEX>性です。<n>福福島で一番当たる占い師は誰かなあ？<n>私はマリアンさんだと思います。
+EN: I'm a fortune-loving <HORO>, blood type <BLOOD>,<n><AGE> years old and <SEX>.<n>Who's the most accurate fortune-teller on Fukufuku Island?<n>My vote goes to Marian.
+
+@#68
+JP: 今日は私の誕生日です。<n><AGE>歳になりました！<n>ああ、最近、あっというまに<n>１年たってしまう～～。
+EN: Today's my birthday!<n>I just turned <AGE>!<n>Lately, a whole year seems to go by<n>in the blink of an eye...
+
+@#69
+JP: ケーキが大好きで、しょっちゅう、<n>ケーキ買って食べてます。<n>今度、自分で作ってみようと思います。<n>あなたはケーキ好きかなぁ…。
+EN: I love cake, so I'm always<n>buying some to snack on.<n>Next time, I think I'll try baking one myself.<n>I wonder if you like cake too...
+
+@#70
+JP: メリークリスマス！<n>今年のクリスマスは、一人なんだ…。<n>なんかちょっと寂しくなって<n>ボトルメールしてみました。
+EN: Merry Christmas!<n>I'm spending Christmas alone this year...<n>I was feeling a little lonely,<n>so I thought I'd send some bottle mail.
+
+@#71
+JP: ハッピークリスマス！<n>今年は、家族でクリスマスです！<n>あなたがこれを拾う頃はもう、<n>クリスマス終わっているのかなぁ。
+EN: Merry Christmas!<n>I'm spending it with my family this year!<n>I wonder if Christmas will be over<n>by the time you find this.
+
+@#72
+JP: 習い事を始めました。<n>これをきっかけに、ちょっと前向きな<n>自分になりたいと思ってます！
+EN: I've started taking lessons!<n>I'm hoping this will help me<n>become a little more positive!
+
+@#73
+JP: ゲームばっかりやってます！<n>少しは勉強もしないと、と焦っている<n>受験生です！<n>あなたはいくつぐらいの人かな。
+EN: All I do is play games!<n>I've got entrance exams coming up,<n>so I'm panicking about all the studying I should do!<n>I wonder how old you are.
+
+@#74
+JP: 部屋の壁紙を『幸せな鳩の壁』に<n>してみました。<n>すっごく高かったけど、<n>なんか幸せな気持ちになったよ。
+EN: I put up "Happy Dove Wallpaper"<n>in my room.<n>It was super expensive,<n>but it really cheered me up!
+
+@#75
+JP: 髪型を変えました！<n>モヘアニット、今の季節に<n>ぴったりです！<n>あなたはどんな髪型しているのかな。
+EN: I changed my hairstyle!<n>"Mohair Knit" is just right<n>for this time of year!<n>I wonder what hairstyle you have.
+
+@#76
+JP: 縁縁島にも像が建てれるって、<n>本当かなぁ。<n>どんなことしたら建てられるのか、<n>今、探し中です！
+EN: Is it true you can have a statue built<n>on En-en Island too?<n>I'm trying to find out<n>what you have to do to get one!
+
+@#77
+JP: ノックスって、なんでも知ってるよね。<n>最初はなんか、不気味な感じだったけど、<n>だんだんかわいく思えてきました。
+EN: Nox knows just about everything, doesn't he?<n>I thought he was kind of creepy at first,<n>but he's starting to seem pretty cute.
+
+@#78
+JP: ゴーストバルーンを見ました。<n>あなたは見たことありますか？<n>こわかったけど、守護天使が<n>追い払ってくれました。
+EN: I saw a Ghost Balloon!<n>Have you ever seen one?<n>It was scary, but my guardian angel<n>chased it away.
+
+@#79
+JP: 音楽が趣味の<SEX>性です。<n>主に聴くのはヒップホップです。<n>ダンスもやってます。<n>早く上達してプロになりたいなぁ！
+EN: I'm <SEX>, and music is my thing.<n>I mostly listen to hip-hop.<n>I dance too!<n>I can't wait to get good enough to go pro!
+
+@#80
+JP: クラシック音楽が趣味です。<n>コンサートにはたまにしか行けませんが、<n>生演奏はやっぱり最高。<n>感動します！
+EN: I love classical music.<n>I only get to concerts now and then,<n>but nothing beats a live performance.<n>It really moves me!
+
+@#81
+JP: 絵を描くのが趣味の<HORO>、<n><AGE>歳の<SEX>性です。<n>今のところ風景を描いてますが、<n>そのうち人物も描きたいなぁと<n>思っています。
+EN: I'm <AGE> and <SEX>, and my sign is <HORO>.<n>Painting is my favorite hobby.<n>I'm doing landscapes for now,<n>but I'd love to try portraits<n>one of these days.
+
+@#82
+JP: 読書が趣味の<AGE>歳<SEX>性です。<n>ミステリーが大好き！<n>ついつい朝まで読んでしまうので<n>毎日寝不足です！
+EN: I'm <AGE> and <SEX>, and I love reading.<n>Mysteries are my favorite!<n>I keep reading until morning,<n>so I'm always short on sleep!
+
+@#83
+JP: ただ今入院中！<n>来週には退院できそうです！<n>あなたも、怪我や病気には<n>気をつけてくださいね！
+EN: I'm in the hospital right now!<n>Looks like I can go home next week!<n>Take care of yourself, too.<n>No getting sick or hurt!
+
+@#84
+JP: 料理が趣味の<SEX>性です。<n>得意なのはイタリアン！<n>パスタなら、そのへんの店には<n>負けない自信があります！
+EN: I'm <SEX>, and I love to cook.<n>Italian food is my specialty!<n>When it comes to pasta, I'm sure<n>I could give the local restaurants a run for their money!
+
+@#85
+JP: エスニック料理が大好きの<SEX>性です。<n>基本的には食べるのが好きだけど、<n>自分でもたまに作ります！<n>あなたは料理するのかな？
+EN: I'm <SEX>, and I love food from around the world.<n>Mostly I just love eating it,<n>but I cook some myself now and then!<n>Do you cook, too?
+
+@#86
+JP: 私は学生です！<n>あなたは誰だろう…？<n>社会人かな、フリーターかな？<n>それとも私と同じ学生かな？
+EN: I'm a student!<n>I wonder who you are...<n>Do you have a full-time job? Work part-time?<n>Or are you a student like me?
+
+@#87
+JP: 今年、就職したばかりの<n>社会人１年生です。<n>去年までは気楽だったなぁ。<n>大人になるのって、ちょっとつらいね！
+EN: I started my first real job this year,<n>so I'm still learning the ropes.<n>Life was so carefree last year.<n>Growing up is kind of rough!
+
+@#88
+JP: 私、主婦ゲーマーです！<n>暇な時間にはついついゲーム。<n>気がつくと買い物行き忘れてたりして<n>ちょっとグータラ系です。
+EN: I'm a housewife and a gamer!<n>Any spare moment, I'm playing something.<n>Next thing I know, I've forgotten to go shopping.<n>I'm a bit of a slacker.
+
+@#89
+JP: 私はサラリーマンです！<n>毎日、飲んでます。あ、仕事もしてます。<n>これを読んでいるのは誰かなぁ？<n>どんな仕事をしている人かなぁ？
+EN: I'm an office worker!<n>I drink every day. Oh, and I work, too.<n>I wonder who's reading this.<n>What do you do for a living?
+
+@#90
+JP: スキーが趣味の<AGE>歳<SEX>性です。<n>今年はショートスキーも<n>やってみようかな。
+EN: I'm <AGE> and <SEX>, and I love skiing.<n>Maybe I'll give short skis a try<n>this year, too.
+
+@#91
+JP: サーフィンが趣味の<AGE>歳<SEX>性です。<n>冬でも波乗りしています。<n>将来、家族でサーフィンとか<n>できたらいいなと思っています。
+EN: I'm <AGE> and <SEX>, and I love surfing.<n>I ride the waves even in winter.<n>Someday, I'd love to go surfing<n>with a family of my own.
+
+@#92
+JP: 山登りが大好きな<AGE>歳<SEX>性です。<n>登っているときはとても大変だけど、<n>頂上についたときの空気は格別！<n>あなたもチャンスがあったら<n>挑戦してみてね。
+EN: I'm <AGE> and <SEX>, and I love climbing mountains.<n>The climb itself can be really tough,<n>but that fresh air at the top is something else!<n>If you ever get the chance,<n>give it a try.
+
+@#93
+JP: イラストを描くのが趣味です。<n>将来、イラストレーターになりたいと<n>思っているんだけど、<n>やっぱりプロへの道は険しいのかな。
+EN: I love drawing illustrations.<n>I'd like to become an illustrator someday,<n>but I wonder...<n>Is going pro as tough as they say?
+
+@#94
+JP: 新しい携帯を最近買いました！<n>あんまり新しい機能は使わないけど、<n>でも、やっぱりかっこいいもんね！<n>サウンドが良くて気に入ってます！
+EN: I just bought a new cell phone!<n>I hardly use any of the new features,<n>but hey, it looks so cool!<n>The sound is great, too. I love it!
+
+@#95
+JP: 新しいパソコンを買いました！<n>今度はノートＰＣです！<n>自分のホームページ作ろうと思います。
+EN: I bought a new computer!<n>This time I went for a laptop!<n>I'm planning to make my own website.
+
+@#96
+JP: 星を見るのが好きです。<n>福福島でも星を追いかけています。<n>星って神秘的で、いつまでも<n>見ていたくなりますよね…。
+EN: I love looking at the stars.<n>I chase them on Fukufuku Island, too.<n>There's something so mysterious about them.<n>I could stare at them forever...
+
+@#97
+JP: おしゃれ大好きの<n><AGE>歳の<SEX>性です。<n>おこづかいのほとんどは、<n>ファッション代です。<n>あなたはどんなおしゃれが好きかな？
+EN: I'm really into fashion!<n>I'm <AGE> and <SEX>.<n>Almost all my spending money<n>goes toward clothes and accessories.<n>What's your favorite look?
+
+@#98
+JP: こんにちは、<HORO>の<BLOOD>型、<n><AGE>歳の<SEX>性です。<n>いつかあなたの出したボトルを<n>私が拾うことができますように！
+EN: Hi! I'm a <HORO> with type <BLOOD> blood,<n>and I'm <AGE> and <SEX>.<n>I hope that someday I'll find<n>a bottle you sent out!
+
+@#99
+JP: 新学期が始まって、ちょっと<n>気持ちが落ち着かない<n><AGE>歳<SEX>性です。<n>慣れるのに時間がかかってしまう～。<n>あなたはどんな新学期を迎えていますか。
+EN: The new school term has started,<n>and I'm feeling a little unsettled.<n>I'm <AGE> and <SEX>, by the way.<n>It takes me ages to settle in!<n>How's your new term going?
+
+@#100
+JP: 桜の花が散り始めましたね！<n>いよいよ春本番、という感じ。<n>この季節は意味もなくわくわくします。<n>これを拾ったあなたは、<n>春は好きですか？
+EN: The cherry blossoms are starting to fall!<n>It really feels like spring is in full swing.<n>This season gets me excited for no reason.<n>So, whoever found this bottle...<n>Do you like spring?
+
+@#101
+JP: 卒業式で、ちょっと泣いてしまった<n><HORO>の<BLOOD>型、<n><AGE>歳の<SEX>性です。<n>今までそんなことなかったんだけど。<n>あなたは涙もろいほうかなぁ？
+EN: I got a little teary at graduation.<n>I'm a <HORO> with type <BLOOD> blood,<n>and I'm <AGE> and <SEX>.<n>That's never happened to me before.<n>Do you cry easily?
+
+@#102
+JP: 初夏の日差しになってきましたね！<n>このボトルを拾った誰かは<n>どんな風に過ごしているのかな？<n>私は、ちょっと五月病。<n>早くもやもやから脱出したいです。
+EN: The sunshine's starting to feel like early summer!<n>I wonder how you're spending your days,<n>whoever found this bottle.<n>I've got a bit of the springtime blues.<n>I hope this funk clears up soon.
+
+@#103
+JP: 花粉症がまだまだ続く、<n>鼻がぐずぐずの私です。<n>早く花粉、終わって欲しい。<n>毎日マスクをかけて出かけたい気分です。
+EN: My hay fever just won't let up,<n>and my nose is still a sniffly mess.<n>I wish pollen season would end already.<n>I feel like wearing a mask every time I go out.
+
+@#104
+JP: そろそろゴールデンウィーク！<n>これを拾ったあなたは、何か<n>予定を立てているのかな。<n>今年は混むの覚悟で、遊園地に<n>行こうと思っています！
+EN: Golden Week is almost here!<n>Have you made any plans,<n>whoever found this bottle?<n>I'm going to an amusement park this year,<n>even if I have to brave the crowds!
+
+@#105
+JP: 決算期で会社が大忙しです！<n>私はまだまだ平なので、忙しい気分だけ。<n>あなたは、お仕事している人かな、<n>それとも学生さんかな？
+EN: It's financial year-end, and the office is swamped!<n>I'm still at the bottom, so I mostly just FEEL busy.<n>Do you have a job,<n>or are you a student?
+
+@#106
+JP: そろそろ梅雨ですね。<n>いやだなぁ。でも、家の中で<n>思いっきりゲーム三昧、もいいかな。<n>早く夏が来て欲しい。
+EN: The rainy season's almost here.<n>Ugh. Still, staying indoors<n>and playing games all day could be nice.<n>I wish summer would hurry up.
+
+@#107
+JP: 今日はお花見。<n>夜はまだちょっと寒いけど、<n>携帯カイロ持って、はしゃいじゃうぞ。<n>夜の桜は格別にきれいですよね！
+EN: I'm going cherry blossom viewing today.<n>It's still a bit chilly at night,<n>but I'll bring hand warmers and have a blast.<n>Cherry blossoms at night are extra beautiful!
+
+@#108
+JP: この４月から新しい環境になりました。<n>まだまだなじめなくてちょっと大変。<n>このボトルを拾ったあなたは、<n>学校とか、会社とか、変わったのかな？<n>お互いがんばりましょーね！
+EN: I started somewhere new this April.<n>I'm still struggling to settle in.<n>How about you, whoever found this bottle?<n>Have you changed schools or jobs, too?<n>Let's both hang in there!
+
+@#109
+JP: 新緑がまぶしい今日この頃。<n>まだ海は寒いけど、福福島の<n>海なら平気！<n>ボトルを流しにやってきました！
+EN: The fresh green leaves are dazzling these days.<n>The sea's still cold, but here on Fukufuku Island,<n>the water's just fine!<n>I came down to send this bottle on its way!
+
+@#110
+JP: 毎日雨でうんざりだーーーー。<n>早く、カラッと晴れないかな。<n>毎年この時期は、学校さぼりがちに<n>なってしまう<AGE>歳の<SEX>性です。
+EN: Rain, rain, every day! I've had enough!<n>Can't we get some nice, dry sunshine already?<n>I'm <AGE> and <SEX>, and every year around now,<n>I find myself skipping school a lot.
+
+@#111
+JP: いやあ、まいったなあ。<n>こないだ道を歩いてたら、外国の人から<n>「セクシー！セクシー！」と<n>胴上げされちゃいました。
+EN: Well, that was something.<n>I was walking down the street the other day<n>when some people from overseas shouted, "Sexy! Sexy!"<n>and started tossing me into the air!
+
+@#112
+JP: 突然だけど、歯磨きで悩んでます。<n>右手で磨いてるとき、私の左手ったら<n>無意識に、とてもアヤシイ動きを<n>してしまうんです。<n>どうしたらいいんでしょう？
+EN: This is out of the blue, but brushing my teeth is a problem.<n>While my right hand does the brushing,<n>my left hand starts making these very suspicious movements<n>without me even realizing it.<n>What am I supposed to do?
+
+@#113
+JP: こんにちは。<n>当方、小さな島に暮らす<n>平凡な<SEX>性ですが<n>豆腐を手のひらの上で切れます。<n>えへん。
+EN: Hello there.<n>I'm just an ordinary <SEX> person<n>living on a little island,<n>but I can slice tofu right on my palm.<n>Pretty impressive, huh?
+
+@#114
+JP: はじめまして<n>わたしの　ゆめ　は<n>わたしの　かんがえた<n>ゆかいな　おどりを<n>せかいに　ひろめる　ことです。
+EN: Nice to meet you.<n>My dream<n>is to take the funny dance<n>I made up<n>and share it with the whole world.
+
+@#115
+JP: このボトルメールには<n>手紙といっしょに<n>見えない　夢とか　希望とか<n>お腹すいたなーという気持ちとかが　<n>詰まっています。
+EN: Along with this letter,<n>this bottle is packed with<n>invisible things, like dreams and hopes<n>and that feeling of "Boy, I'm hungry."<n>It's all in here.
+
+@#116
+JP: 昨日、すごい発明を思いつきました。<n>固い羽を電気でくるくる回すと<n>風が起きて、とても涼しくなるんです。<n>扇風機と名付けました。<n>これで大金持ちですね。えへへ。
+EN: Yesterday, I thought up an amazing invention.<n>You use electricity to spin some stiff blades,<n>and they make a lovely, cooling breeze.<n>I've decided to call it an electric fan.<n>I'm going to be rich! Hee hee.
+
+@#117
+JP: 海よ…<n>わたしの想いを伝えておくれ<n>エビチリのエビは大きいほうがいいと<n>心から想う　わたしの気持ちを<n>海よ…
+EN: O sea...<n>Carry these feelings of mine.<n>The shrimp in chili shrimp should be bigger.<n>This is my heart's deepest wish.<n>O sea...
+
+@#118
+JP: ビンなんか流してどうなるの？と<n>世間の人はいうけれど<n>それでも流してみたくなる<n>そんなわたしを責めないで<n>ああ　哀愁の　ボトルメール～
+EN: "What's the point of sending bottles out to sea?"<n>That's what people say to me.<n>Yet I send them, come what may.<n>Don't blame me for being this way.<n>Oh, my wistful bottle mail...
+
+@#119
+JP: ガイコツから「やーい水」とか<n>言われながら　がんばってます。<n>…なんで水なんだろう？
+EN: I'm hanging in there, even with skeletons<n>taunting me with "Hey, water!"<n>...Why water, anyway?
+
+@#120
+JP: わたしの父の叔母の嫁入り先の<n>お母さんの遠縁の上司の三代前は<n>キリンだったそうです。<n>わけがわかりません。
+EN: Apparently, the boss of a distant relative<n>of the mother in the family my dad's aunt<n>married into was a giraffe<n>three bosses ago.<n>I have no idea what that means.
+
+@#121
+JP: オッケー　オッケー！<n>きみの気持ちはよくわかった！<n>今日からきみも　わたしたち<n>「柱の角に小指ぶつけ隊」の一員だ！<n>痛いよなー、あれ。
+EN: Okay, okay!<n>I hear you loud and clear!<n>You're now an official member of<n>the Stub Your Pinky Toe on a Post Club!<n>Hurts like crazy, doesn't it?
+
+@#122
+JP: いつも　あなたを想っています。<n>道でガムを踏んだりしたときには<n>わたしを思い出してくださいね。<n>…役には立たないけど。
+EN: I'm always thinking of you.<n>Whenever you step in gum,<n>please think of me.<n>...It won't help, though.
+
+@#123
+JP: 昨日　とてもヒマだったので<n>「ブラスト！」と叫んで<n>魔法を撃ってみました。<n>なにも起きませんでした。
+EN: I was so bored yesterday,<n>I yelled "Blast!"<n>and tried casting a spell.<n>Nothing happened.
+
+@#124
+JP: そういうこともあります。<n>そうそう、そういうことありますよ。<n>大丈夫。そういうことよくあります。<n>元気出して。事情はわかんないけど。
+EN: These things happen.<n>Oh, yes. They certainly do.<n>It's okay. Happens all the time.<n>Cheer up. Whatever happened.
+
+@#125
+JP: 大変でしたね。<n>冷蔵庫のドアを開けようとして<n>勢いあまって尻もちをついた拍子に<n>醤油を頭からかぶったそうですね。<n>…え？違うの？
+EN: You poor thing.<n>I heard you pulled the fridge door<n>so hard you fell on your behind<n>and got soy sauce all over your head.<n>...Huh? That wasn't you?
+
+@#126
+JP: ふふ、命びろいしたな。<n>このビンがもしパイナップルだったら<n>おまえは今頃、フルーツポンチを<n>食べるはめになっていたんだぜ？<n>今日はこのへんで勘弁してやる。
+EN: Heh. You got lucky.<n>If this bottle had been a pineapple,<n>you'd be eating fruit punch by now!<n>I'll let you off easy this time.
+
+@#127
+JP: すいません。わたし、間違ってました。<n>トナカイって<n>貝の一種だと思ってました。<n>世界中のトナカイさんに謝りたい。
+EN: I'm sorry. I had it all wrong.<n>I thought reindeer<n>were a kind of shellfish.<n>I owe every reindeer in the world an apology.
+
+@#128
+JP: ふう。お風呂に入るとき、まず<n>右足から入るか、左足から入るか。<n>ずーっと、悩み続けている問題です。<n>ナポレオンも悩んでいたとか。
+EN: Sigh. When I get into the bath,<n>do I put my right foot in first, or my left?<n>I've wrestled with this question for ages.<n>Apparently, Napoleon did too.
+
+@#129
+JP: コモエスタ東京、という言葉が<n>ずっと頭から離れません。<n>困ったなコモエスタ東京。<n>まいったなコモエスタ東京。
+EN: I can't get the words<n>"Como Esta Tokyo" out of my head.<n>What a pickle, Como Esta Tokyo.<n>I'm at my wit's end, Como Esta Tokyo.

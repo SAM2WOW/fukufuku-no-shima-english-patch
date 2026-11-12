@@ -1,0 +1,99 @@
+# source: PSP_GAME/USRDIR/data/script/kino.scb
+# format: scb
+# width: 44
+
+@5144 max=639
+JP: キーノ　ぼく　キーノ<p>パズルの　ようせい　キーノ<p>…なんてね！<p>ね、ね、妖精っぽかった？<n>ホントに妖精なんだけどね。<p>ボクはパズルの妖精さ。<n>それもジグソーが専門なんだ。
+EN: Kino. Me, Kino.<p>Me puzzle fairy, Kino.<p>...Just kidding!<p>Hey, hey, did I sound like a fairy?<n>I really am one, though.<p>I'm the puzzle fairy!<n>Jigsaw puzzles are my specialty.
+
+@53C4 max=639
+JP: また会ったね！<n>ボクだよ、パズルの妖精キーノだよ。
+EN: Hey, we meet again!<n>It's me, Kino, the puzzle fairy!
+
+@5644 max=639
+JP: おお！キミは…<p>誰だっけ？<p>ま、いいや。<n>ボクはキーノさ、妖精さ。
+EN: Oh! You're...<p>Who are you again?<p>Oh, whatever.<n>I'm Kino. I'm a fairy!
+
+@58C4 max=639
+JP: 妖精としてはね、ジグソー普及のため<n>自作もやってるわけだよ。えらいだろ？
+EN: As a fairy, I make my own jigsaws<n>to spread the joy. Aren't I great?
+
+@5B44 max=639
+JP: え？<p>なんで妖精が<n>この島にいるのか、って？<p>ま、この島はいちおう<n>世界の運勢をつかさどる場所…<p>のひとつ、ってことになってるから。<n>ボクらも出張ってきてるわけ。<p>で、なぜジグソーの妖精のボクなのか<n>それはさっぱりわかんないけどね！<p>ほら、妖精だから。<n>みんなけっこうテキトーなんだよ！
+EN: Huh?<p>Why is a fairy<n>on this island?<p>Well, this island supposedly governs<n>the fortunes of the world...<p>It's one of those places, anyway.<n>So they sent a few of us over.<p>Why send me, a jigsaw fairy?<n>Beats me!<p>We're fairies, you know.<n>We pretty much just wing it!
+
+@5DC4 max=639
+JP: あーそうそう…<p>君、もうヒヨピーには会った？<n>宇宙から来た商売人らしいんだけど。<p>こないだ会ったら、妙なスタンプを<n>押しつけられてさー。<p>妖精に、スタンプ普及活動やれなんて<n>ホントに馬鹿だよねー、あいつ。<p>ま、上の人がオッケー出しちゃったから<n>仕方なく引き受けたけどね！
+EN: Oh, right...<p>Have you met Hiyopi yet?<n>He's some merchant from outer space.<p>He cornered me the other day<n>and dumped this weird stamp on me.<p>Making a fairy promote his stamps?<n>What an idiot!<p>But the higher-ups gave it the okay,<n>so I got stuck doing it!
+
+@6044 max=639
+JP: ええと、そうだな…<p>君、まだあんまり<n>ジグソー完成させてないね…。<p>難しすぎる？困ったナー。<p>上のほうから、アレを<n>君に渡せって言われてるんだけど…<p>ボクとしても、それなりの好感度ないと<n>やっぱり渡しづらいんだよね。<p>つーわけで、がんばって<n>ジグソーをいっぱいやって…<p>ボクの好感度を上げてよ！<n>うんうん！
+EN: Let's see, now...<p>You haven't finished<n>many jigsaws yet, have you?<p>Too hard? Well, that's a problem.<p>The higher-ups told me<n>to give you that thing...<p>But I can't just hand it over<n>until I like you enough.<p>So get out there<n>and do lots of jigsaws...<p>Make me like you more!<n>Yep, yep!
+
+@62C4 max=639
+JP: ええと、そうだな…<p>やー、だいぶジグソー楽しんでるね。<n>うんうん、これなら合格！<p>…すぐにでも、アレを渡したいんだけど<n>こないだ池に落としちゃってさー。<p>いま、ヒマ見て磨いてるから<n>きれいになったら渡すよ。<p>もうしばらく待っててねー！
+EN: Let's see, now...<p>Hey, you've been enjoying my jigsaws!<n>Yep, yep! You pass!<p>...I'd give you that thing right now,<n>but I dropped it in the pond.<p>I'm polishing it in my spare time,<n>so you can have it once it's clean.<p>Just hang on a little longer!
+
+@6544 max=639
+JP: ええと、そうだな…<p>君、まだあんまり<n>ジグソー完成させてないね…。<p>難しすぎる？困ったナー。<p>上のほうから、アレを<n>君に渡せって言われてるんだけど…<p>ボクとしても、それなりの好感度ないと<n>やっぱり渡しづらいんだよね。<p>つーわけで、がんばって<n>ジグソーをいっぱいやって…<p>ボクの好感度を上げてよ！<n>うんうん！
+EN: Let's see, now...<p>You haven't finished<n>many jigsaws yet, have you?<p>Too hard? Well, that's a problem.<p>The higher-ups told me<n>to give you that thing...<p>But I can't just hand it over<n>until I like you enough.<p>So get out there<n>and do lots of jigsaws...<p>Make me like you more!<n>Yep, yep!
+
+@67C4 max=639
+JP: ええと、そうだな…<p>やー、だいぶジグソー楽しんでるね。<n>うんうん、これなら合格！<p>じゃーん、じゃあこれをあげるよ！<n>そう、ウワサのアレさ！<p>結界を解く、賢者の像！<n>偉い人から預かってたんだ！<p>賢者っていっても、そこらを走ってる<n>ヘンな奴らとそっくりの像だけど…<p>ま、いいよね！<n>細かいこと気にしない！<p>じゃ、はい、これ！<n>はいはいおめでとー、パチパチ！
+EN: Let's see, now...<p>Hey, you've been enjoying my jigsaws!<n>Yep, yep! You pass!<p>Ta-da! Here you go!<n>Yep, it's that thing you've heard about!<p>The Sage Statue! It breaks the barrier!<n>Someone important left it with me!<p>For a sage, it sure looks a lot like<n>those weird guys running around here...<p>Oh, well!<n>No need to sweat the details!<p>Here, take it!<n>Congrats and all that! Clap, clap!
+
+@6A44 max=639
+JP: ねえ、聞いてよ！<p>あのコピタンってやつ<n>ムカつくんだよなあ。<p>あんなのより、ボクのほうが<n>百万倍、美少年だっての！<p>ね、そう思うだろ！<n>そうだよねー、うんうん！<p>ま、それは結論が出たとして…
+EN: Hey, get this!<p>That Copitan guy<n>really gets on my nerves.<p>I'm a million times<n>prettier than he is!<p>You think so too, right?<n>Of course you do! Yep, yep!<p>Well, now that we've settled that...
+
+@6CC4 max=639
+JP: あ、そうそう…<p>クレレっていうのにもう会った？<n>あいつ、ムカつくよねー。<p>なんで緑色なんだよ！<n>緑色はボクのカラーなんだっつーの！<p>ま、こないだ安物のアイテムあげたら<n>お返ししてくれたから、許すけどね。<p>あー、忘れるトコだった…
+EN: Oh, right...<p>Have you met Kurere yet?<n>He's so annoying!<p>Why does he have to be green?<n>Green is MY color!<p>But I gave him some cheap little thing,<n>and he gave me a gift back. So he's forgiven.<p>Oh, I almost forgot...
+
+@6F44 max=639
+JP: ふう…<p>この島に来てる妖精ときたら<n>じいさんばっかりでさー。<p>ドリアードのじいさんと<n>何話せってんだよー。<p>これじゃ、ボクのキュートな魅力も<n>宝のもちぐされだっての！<p>ふう、退屈だあ…
+EN: Sigh...<p>All the fairies on this island<n>are a bunch of old geezers.<p>What am I supposed to talk about<n>with that old Dryad guy?<p>All my adorable charm<n>is going to waste here!<p>Sigh... I'm so bored...
+
+@71C4 max=639
+JP: うーん…<p>あの、ヘンなキノコたちが集めてる<n>星座パズルって、なんなんだろう？<p>博士は、この島ならではの<n>世界の運勢に関わるアイテムだって…<p>でも、ならなんで<n>正体不明のキノコが集めてるんだろ？<p>…よくわかんないよねー。<n>でもまあいいや！うんうん！
+EN: Hmm...<p>What are those constellation puzzles<n>the weird mushrooms keep collecting?<p>The doctor says they're unique to this island<n>and affect the fortunes of the world...<p>So why are a bunch of mysterious<n>mushrooms collecting them?<p>...Doesn't make much sense, does it?<n>Oh, well! Yep, yep!
+
+@7444 max=639
+JP: あ、ねえねえ<n>マツバラくんにもう会った？<p>木と共生する方法を<n>教えてくれっていうからさー<p>特別に、ボクの舎弟に<n>してやってるんだよねー。<p>まだまだ頼りないやつだけど<n>ま、仲良くしてやってよ！<p>わははは！うんうん！
+EN: Oh, hey, hey!<n>Have you met Matsubara yet?<p>He asked me to teach him<n>how to live in harmony with trees.<p>So I did him a special favor<n>and made him my underling!<p>He's still pretty hopeless,<n>but be nice to him, okay?<p>Wahahaha! Yep, yep!
+
+@76C4 max=639
+JP: ええと、じゃあ今回は…あれ？<p>まいったなー、もうジグソーがないや。<p>いや、キミ凄いよ！<n>ボクのジグソーを全部完成させちゃうなんて！<p>…というわけで、もうジグソーはタネ切れだけど<p>いったん作ったジグソーを、バラしたりして<n>何度も遊んでくれるとうれしいね！
+EN: Okay, this time we'll... Huh?<p>Well, would you look at that! I'm out of jigsaws.<p>Wow, you're amazing!<n>You finished every single one of my jigsaws!<p>...So, that's all the puzzles I've got.<p>But you can take your finished jigsaws apart<n>and play them again! I'd love that!
+
+@7944 max=639
+JP: あれ？まだ完成してないね、このジグソー。<n>完成してから持ってきなよ。
+EN: Huh? You haven't finished this jigsaw yet.<n>Come back when it's done.
+
+@7BC4 max=639
+JP: わお！完成してるね！すごいや。<n>じゃ、経験値とヒヨピースタンプをあげよう！<p>次のジグソーにも、挑戦してみてほしいな！<n>じゃあね！
+EN: Wow! You finished it! Nice work!<n>Here are some experience points and a Hiyopi Stamp!<p>I hope you'll try the next jigsaw too!<n>See you!
+
+@7E44 max=639
+JP: <HEXP>の経験値を獲得
+EN: Gained <HEXP> experience points.
+
+@80C4 max=639
+JP: てなわけで、ボクの作ったジグソーパズル<n>挑戦してみないかい？
+EN: Anyway, want to try<n>one of my homemade jigsaw puzzles?
+
+@8344 max=639
+JP: ふふん、自信がないの？<n>ま、いいや。じゃあね！
+EN: Heh! Not feeling confident?<n>Oh, well. See you!
+
+@85C4 max=639
+JP: はい！これが、今回の完成図だよ。<n>よーく、見といてね！<p>……じゅうぶん見たかな？<n>じゃあ、行くよ…
+EN: Here! This is the finished picture.<n>Take a good look!<p>...Had enough time to look?<n>Okay, here goes...
+
+@8844 max=639
+JP: オッケー！じゃあ、台紙を渡すよ。<n>ピースを集めて、完成させてほしいな！<p>ピースは、この島の地面に散らばってるよ！<n>ここがボクならではの工夫なんだ、えへん！<p>じゃ、完成したら持ってきてね！<n>せいぜいがんばれー！ファイトー！
+EN: Okay! Here's the puzzle board.<n>Collect the pieces and finish it!<p>The pieces are scattered on the ground all over the island!<n>That's my own special twist! Pretty clever, huh?<p>Bring it back when you're done!<n>Give it your best shot! Go, go, go!
+
+@8AC4 max=639
+JP: <<テキストチェック>><n>表示したい会話メッセージのIDを選んでください。
+EN: 

@@ -1,0 +1,109 @@
+# source: PSP_GAME/USRDIR/data/script/copitan5.scb
+# format: scb
+# width: 44
+
+@5144 max=639
+JP: オーケー、任せな。<n>じゃ、オヤジのビルビドゥーを呼び出すぜ。<p>…もしもーし。…あれ、おっさんか。<n>オヤジは？…またナンパに行ってるのかよ！<p>しょーがねーなー。じゃ、おっさんでいいや。<n>占いの客が来てるんで、軽く頼むわ。<p>あー、わりい！オヤジはいねーんだわ、いま。<n>あっちで遊びほうけてやがって、困ったもんだぜ。<p>かわりにノストラダムスっておっさんが占うから<n>勘弁してくれや。じゃ、憑依させるぜ。<p>……ガー……<n>…ピー………<p>…あー、いやいやどうもどうも。<p>わしはノストラダムス、中世の生まれでして。
+EN: Okay, leave it to me.<n>I'll call up my old man, Bilbidoo.<p>...Hello? Oh, it's you.<n>Where's the old man? Out chasing women AGAIN?!<p>Oh, fine. You'll do, then.<n>Got a customer here. Do us a quick fortune, will ya?<p>Sorry! The old man's out right now.<n>He's always off fooling around over there.<p>A guy named Nostradamus will fill in.<n>Hope that's okay. Letting him possess me now!<p>...Bzz...<n>...Beep...<p>...Ah, yes. Hello, hello.<p>I am Nostradamus, born in medieval times.
+
+@53C4 max=639
+JP: オーケー！お安いご用だ、まかしときな。<n>…もしもーし。あ、またおっさんかよ。<p>オヤジは？合コン行ったー？相手は誰よ？<n>清少納言と紫式部？誰だそりゃ？<p>ふー。今日もノストラダムスのおっさんだ。<n>ま、おっさんも有名だったらしいし、いいよな。<p>……ガー……<n>…ピー………<p>…あー、いやいやどうもどうも。<n>わしは今日も留守番でしてな。
+EN: Okay! Piece of cake. Leave it to me.<n>...Hellooo? Oh, it's you again, gramps.<p>Where's the old man? A group date? With who?<n>Sei Shonagon and Murasaki Shikibu? Who're they?<p>Whew. Old Nostradamus again today.<n>Well, he used to be pretty famous too. He'll do.<p>...Bzzzz...<n>...Beeep...<p>...Ah, yes, hello, hello.<n>I'm minding the place again today, you see.
+
+@5644 max=639
+JP: オヤジめ、今日こそはいるだろうな。<n>…もしもーし。オヤジはいるかい？<p>温泉だと？おいおい、温泉なんてあるのか！<n>くそっ、俺もそっちに行きたくなってきたぜ。<p>ふー。というわけでノストラダムスのおっさんだ。<n>オヤジはいま温泉でウハウハらしい。<p>……ガー……<n>…ピー………<p>…あー、いやいやどうもどうも。<n>…ごほん。今日もよろしくお願いいたしますぞ。
+EN: The old man had better be in today.<n>...Hellooo? Is the old man there?<p>A hot spring? Hey, you've got those over there?!<n>Dang, now I wanna come over too!<p>Whew. So, it's old Nostradamus again.<n>The old man's living it up at a hot spring.<p>...Bzzzz...<n>...Beeep...<p>...Ah, yes, hello, hello.<n>...Ahem. A pleasure to see you again.
+
+@58C4 max=639
+JP: どなたの相性を見ればよろしいかな？
+EN: Whose compatibility shall I check?
+
+@5B44 max=639
+JP: あなたとお友達<n>お友達同士<n>やめる
+EN: You and a friend<n>Two friends<n>Quit
+
+@5DC4 max=639
+// the birthday field is Year/Month/Day - keep the hint
+JP: では、お友達の生年月日を<n>教えていただけますかな？
+EN: Now then, might you tell me<n>your friend's date of birth? (Y/M/D)
+
+@6044 max=639
+JP: これで間違いありませんかな？
+EN: Is all of that correct?
+
+@62C4 max=639
+JP: では、お友達の血液型を<n>教えていただけますかな？
+EN: Now, could you tell me<n>your friend's blood type?
+
+@6544 max=639
+JP: これで間違いありませんかな？
+EN: Is all of that correct?
+
+@67C4 max=639
+JP: はっ！…とおっ！…あたたたた！<n>今じゃ、ノストラ真予言拳！！<p>…はー、はー…危なかったわい…。<n>というわけで、相性が出ましたぞ。<p>その方と、あなたの<n>相性のよさは…<p>ずばり、<NUM>％ですぞ！
+EN: Hah! ...Hyah! ...Atatatata!<n>Now! Nostra True Prophecy Fist!!<p>...Huff... puff... That was a close one...<n>Well then, I have your compatibility results.<p>Your compatibility with that person is...<p>Precisely <NUM>%!
+
+@6A44 max=639
+// the birthday field is Year/Month/Day - keep the hint
+JP: では、お友達の生年月日を<n>教えていただけますかな？
+EN: Now then, might you tell me<n>your friend's date of birth? (Y/M/D)
+
+@6CC4 max=639
+JP: これで間違いありませんかな？
+EN: Is all of that correct?
+
+@6F44 max=639
+JP: では、お友達の血液型を<n>教えていただけますかな？
+EN: Now, could you tell me<n>your friend's blood type?
+
+@71C4 max=639
+JP: これで間違いありませんかな？
+EN: Is all of that correct?
+
+@7444 max=639
+JP: では、二人目のお友達の生年月日を<n>教えていただけますかな？
+EN: Now, could you tell me your second friend's date of birth?
+
+@76C4 max=639
+JP: これで間違いありませんかな？
+EN: Is all of that correct?
+
+@7944 max=639
+JP: では、二人目のお友達の血液型を<n>教えていただけますかな？
+EN: Now, could you tell me your second friend's blood type?
+
+@7BC4 max=639
+JP: これで間違いありませんかな？
+EN: Is all of that correct?
+
+@7E44 max=639
+JP: はっ！…とおっ！…あたたたた！<n>今じゃ、ノストラ真予言拳！！<p>…はー、はー…危なかったわい…。<n>というわけで、相性が出ましたぞ。<p>お二方の<n>相性のよさは…<p>ずばり、<NUM>％ですぞ！
+EN: Hah! ...Hyah! ...Atatatata!<n>Now! Nostra True Prophecy Fist!!<p>...Huff... puff... That was a close one...<n>Well then, I have their compatibility results.<p>Their compatibility with each other is...<p>Precisely <NUM>%!
+
+@80C4 max=639
+JP: ま、今日はやめとくか。けっこう疲れるしな、アレ。<n>ハハハ、なーに、俺は２４時間戦えるがな！
+EN: Well, let's call it a day. That stuff wears me out.<n>Ha ha ha! Aw, who am I kidding? I can go 24 hours straight!
+
+@8344 max=639
+JP: なんだなんだ、遠慮すんなよ。<n>ま、でも今日はやめとくか。
+EN: Hey, hey, no need to be shy!<n>Well, let's leave it for today.
+
+@85C4 max=639
+JP: …………<n>…………<p>…っつーわけだな。<n>ノストラダムスのおっさん、サンキューな！<p>じゃ、また来いよ。洗練された大人の会話で<n>おまえさんを魅了してやるからさ。じゃな！
+EN: ...<n>...<p>...And there you have it.<n>Thanks, old Nostradamus!<p>Come back sometime. I'll dazzle you with<n>my sophisticated grown-up conversation. See ya!
+
+@8844 max=639
+JP: …………<n>…………<p>…っつーわけだな。<n>ノストラダムスのおっさん、サンキューな！<p>ま、いちおう信頼していい占いだと思うぜ。<n>じゃ、また来いよ、俺はここにいるからな。
+EN: ...<n>...<p>...And there you have it.<n>Thanks, old Nostradamus!<p>Well, I'd say you can trust that fortune. Probably.<n>Come back anytime. I'll be right here.
+
+@8AC4 max=639
+JP: …………<n>…………<p>…っつーわけだな。<n>ノストラダムスのおっさん、サンキューな！<p>さーて、じゃ、今日のコピタンタイムはここまでだ。<n>残念だろうが、また会えるさ！バーイ！
+EN: ...<n>...<p>...And there you have it.<n>Thanks, old Nostradamus!<p>All right, that's all for today's Copitan Time!<n>Hate to leave you hanging, but we'll meet again! Bye!
+
+@8D44 max=639
+JP: …………<n>…………<p>…っつーわけだな。<n>ノストラダムスのおっさん、サンキューな！<p>ふー。いいやつだなあ、おっさんは。<n>さて、じゃ、そろそろお開きにしようか。またな！
+EN: ...<n>...<p>...And there you have it.<n>Thanks, old Nostradamus!<p>Whew. What a great guy, that gramps.<n>Well, time to wrap things up. See ya!
+
+@8FC4 max=639
+JP: <<テキストチェック>><n>表示したい会話メッセージのIDを選んでください。
+EN: 

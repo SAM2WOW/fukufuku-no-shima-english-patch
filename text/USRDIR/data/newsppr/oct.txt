@@ -1,0 +1,127 @@
+# source: PSP_GAME/USRDIR/data/newsppr/oct.bin
+# format: rec
+# width: 42
+
+@#0
+JP: ■衣更え：平安時代から始まった習慣。気候<n>に合わせて、衣服を冬服に変える日。<n>■法の日：最高裁判所が開設されたことに由<n>来し、政府が制定した日。<n>■国際高齢者の日：１９９０年の国連で制定。<n>■コーヒーの日：全日本コーヒー協会が制定。<n>コーヒー年度のスタートにあたる日。<n>■デザインの日：通産省が制定。
+EN: - Seasonal Wardrobe Change: A custom dating back to the Heian period.<n>People switch to winter clothes to suit the weather.<n>- Law Day: Established by the government to mark<n>the opening of the Supreme Court.<n>- International Day of Older Persons: Established by the UN in 1990.<n>- Coffee Day: Established by the All Japan Coffee Association.<n>It marks the start of the coffee year.<n>- Design Day: Established by the Ministry of International Trade and Industry.
+
+@#1
+JP: ■スヌーピーの誕生日：１９５０年、シュル<n>ツ作の漫画「ピーナッツ」が掲載を開始。<n>■望遠鏡の日：１６０８年、オランダの眼鏡<n>技師リッペルハイが望遠鏡を発明、特許を申<n>請したが、受理されなかった。<n>■豆腐の日：日本豆腐協会が制定。<n>■関越自動車道全通記念日：１９８５年、関<n>越トンネルが開通、関越自動車道が全線開通。
+EN: - Snoopy's Birthday: In 1950, Charles Schulz's comic strip<n>Peanuts began publication.<n>- Telescope Day: In 1608, Dutch spectacle maker<n>Hans Lippershey invented a telescope and applied for a patent,<n>but his application was rejected.<n>- Tofu Day: Established by the Japan Tofu Association.<n>- Kan-Etsu Expressway Completion Day: In 1985, the Kan-Etsu<n>Tunnel opened, completing the expressway.
+
+@#2
+JP: ■登山の日：１９９１年に日本アルパインガ<n>イド協会が制定。数字の語呂合わせから。<n>■ドイツ統一の日：１９９０年、東西ドイツ<n>が４５年ぶりに統一、ドイツ連邦共和国が誕<n>生した。ベルリンの壁崩壊から、１１カ月後<n>の統一だった。
+EN: - Mountain Climbing Day: Established in 1991 by the Japan Alpine<n>Guide Association. The date is a Japanese number pun.<n>- German Unity Day: In 1990, East and West Germany<n>reunited after 45 years, forming the Federal Republic<n>of Germany. Reunification came 11 months after<n>the fall of the Berlin Wall.
+
+@#3
+JP: ■イワシの日：いわし食用化協会が制定。<n>■都市景観の日：建設省（現・国土交通省）<n>等が１９９０年に制定。都市景観に対する意<n>識を高める日。<n>■宇宙開発記念日：１９５７年、ソ連が人類<n>初の人工衛星の打ち上げに成功。<n>■探し物の日：ＮＴＴの番号案内が１０４番<n>であることにちなんで。
+EN: - Sardine Day: Established by an association promoting sardines as food.<n>- Urban Landscape Day: Established in 1990 by the Ministry of Construction<n>(now the Ministry of Land, Infrastructure and Transport) and others.<n>A day to raise awareness of urban landscapes.<n>- Space Exploration Day: In 1957, the Soviet Union successfully<n>launched the world's first artificial satellite.<n>- Finding Things Day: Inspired by 104, the number for<n>NTT's directory assistance service.
+
+@#4
+JP: ■時刻表記念日：１８９４年、日本初の本格<n>的な時刻表「汽車汽船旅行案内」が出版。イ<n>ギリスの時刻表を参考に、発車時刻や運賃情<n>報以外にも、紀行文等が掲載されていた。<n>■折り紙供養の日：折り紙作家の河合豊彰さ<n>んが提唱。
+EN: - Timetable Day: In 1894, Japan's first comprehensive<n>timetable, the Train and Steamship Travel Guide, was published.<n>Based on British timetables, it included travel essays<n>as well as departure times and fares.<n>- Origami Memorial Day: Proposed by origami artist<n>Toyoaki Kawai.
+
+@#5
+JP: ■国際ボランティア貯金の日：郵政省が１９<n>９０年に始めたボランティア貯金ＰＲの日。<n>■土の日：土に親しみ、人間性を大切にする<n>という目的でイベントが催される日。<n>■国際協力の日：外務省と国際協力事業団が<n>１９８７年に制定。<n>■役所改革の日：１９６９年、千葉県松戸市<n>役所に「すぐやる課」ができた日。
+EN: - International Volunteer Savings Day: Promotes the charitable savings<n>program launched by the Ministry of Posts and Telecommunications in 1990.<n>- Soil Day: Events encourage people to connect with the soil<n>and cherish their humanity.<n>- International Cooperation Day: Established in 1987 by the Foreign Ministry<n>and the Japan International Cooperation Agency.<n>- Government Office Reform Day: In 1969, Matsudo City Hall in Chiba<n>created its "Do It Now Section."
+
+@#6
+JP: ■ミステリー記念日：１８４９年のこの日、<n>小説家のエドガー・アラン・ポーが亡くなっ<n>たことにちなんで。
+EN: - Mystery Day: Commemorates the death of author<n>Edgar Allan Poe on this day<n>in 1849.
+
+@#7
+JP: ■国立公園制定記念日：１９３１年、国立公<n>園法が公布されたことにちなんで。<n>■足袋の日：日本足袋工業会が、市場の拡大<n>と業界の発展を図るため制定。<n>■木の日：木材利用推進中央協議会と林野庁<n>木材流通課提唱。十、八の組み合わせで木の<n>字になることから。<n>■骨と関節の日：日本整形外科学会が制定。
+EN: - National Parks Day: Commemorates the promulgation<n>of the National Parks Act in 1931.<n>- Tabi Sock Day: Established by the Japan Tabi Industry Association<n>to expand the market and help the industry grow.<n>- Wood Day: Proposed by the council promoting wood use and the Forestry Agency's<n>wood distribution division. The Japanese characters for ten and eight<n>combine to form the character for "tree."<n>- Bone and Joint Day: Established by the Japanese Orthopaedic Association.
+
+@#8
+JP: ■万国郵便連合記念日：１８７４年、万国郵<n>便連合が結成されたことに由来。<n>■トラックの日：全日本トラック協会が制定。<n>■塾の日：全国学習塾協会が１０、９と「じ<n>ゅく」の語呂合わせで制定。<n>■道具の日：浅草のかっぱ橋道具街が制定。<n>１０月９日の「どうぐ」の語呂合せから。
+EN: - Universal Postal Union Day: Commemorates the founding<n>of the Universal Postal Union in 1874.<n>- Truck Day: Established by the Japan Trucking Association.<n>- Cram School Day: Established by the national cram school association.<n>The date, 10/9, is a number pun on "juku," meaning cram school.<n>- Tools Day: Established by Asakusa's Kappabashi kitchenware district.<n>The date, October 9, is a number pun on "dogu," meaning tools.
+
+@#9
+JP: ■釣りの日：全日本釣り団体協議会と日本釣<n>り振興会が制定。と、と、の語呂合わせ。<n>■缶詰の日：日本初の本格的な缶詰の製造が<n>始った日にちなんで。<n>■世界精神保健デー：国際デーの一つ。<n>■目の愛護デー：中央盲人福祉協会、提唱。<n>■まぐろの日：日本鰹鮪漁業協同組合連合会<n>が鮪の消費拡大を目指して制定。
+EN: - Fishing Day: Established by two national fishing organizations.<n>The date can be read "to-to," a child's word for fish.<n>- Canned Food Day: Marks the day Japan began its first<n>full-scale commercial production of canned food.<n>- World Mental Health Day: An international observance.<n>- Eye Care Day: Proposed by the Central Association for the Welfare of the Blind.<n>- Tuna Day: Established by Japan's federation of skipjack and tuna fishing<n>cooperatives to encourage people to eat more tuna.
+
+@#10
+JP: ■鉄道安全確認の日：１８７４年、新橋で日<n>本初の鉄道事故が発生したことによる。<n>■リンゴの唄の日：１９４５年、戦後初めて<n>制作・公開された映画「そよかぜ」封切。挿<n>入歌「リンゴの唄」が大ヒット。<n>■国際防災デー：国連が制定した国際デー。<n>■ウィンクの日：１０と１１を横に見ると、<n>ウィンクをしているように見えることから。
+EN: - Railway Safety Check Day: In 1874, Japan's first<n>railway accident occurred at Shimbashi.<n>- Apple Song Day: In 1945, Soyokaze, the first film<n>made and released in Japan after the war, opened in theaters.<n>Its featured song, "Ringo no Uta" (Apple Song), became a huge hit.<n>- International Disaster Reduction Day: Established by the UN.<n>- Wink Day: Turn 10 and 11 sideways,<n>and they look like a winking face.
+
+@#11
+JP: ■大陸発見記念日：１４９２年、コロンブス<n>率いるスペイン船隊が新大陸アメリカに到達。<n>西周りの航海で日本とインドを目指していた<n>もので、コロンブスは最初の到達地がインド<n>だと信じていたという。<n>■芭蕉忌：松尾芭蕉の１６９４年の忌日。
+EN: - Discovery of the Americas Day: In 1492, a Spanish fleet<n>led by Columbus reached the New World, the Americas.<n>They had sailed west in search of Japan and India.<n>Columbus is said to have believed that his first landing<n>was in India.<n>- Basho Memorial Day: Poet Matsuo Basho died on this day in 1694.
+
+@#12
+JP: ■麻酔の日：１８０４年、華岡青州が世界で<n>初めて全身麻酔による乳癌手術を成功させた<n>ことにちなんで日本麻酔科学会が制定。<n>■さつまいもの日：さつまいもの愛好家グル<n>ープが制定。<n>■引越しの日：引越専門協同組合連合会関東<n>ブロック会が、創立１５周年を記念して制定。
+EN: - Anesthesia Day: Established by the Japanese Society of Anesthesiologists<n>to mark Hanaoka Seishu's successful breast cancer operation in 1804,<n>the world's first performed under general anesthesia.<n>- Sweet Potato Day: Established by a group<n>of sweet potato enthusiasts.<n>- Moving Day: Established by the Kanto branch of Japan's federation<n>of moving cooperatives to mark its 15th anniversary.
+
+@#13
+JP: ■世界標準の日：国際標準化機構と国際電気<n>標準会議により制定。<n>■鉄道記念日：１８７２年、日本初の鉄道が、<n>新橋～横浜間で開業したことを記念して。<n>■ＰＴＡ結成の日：１９５２年、ＰＴＡの全<n>国組織、「日本父母と先生の会全国協議会」<n>が結成された。
+EN: - World Standards Day: Established by the International Organization<n>for Standardization and the International Electrotechnical Commission.<n>- Railway Day: Commemorates the opening of Japan's first railway<n>between Shimbashi and Yokohama in 1872.<n>- PTA Founding Day: In 1952, Japan's national PTA organization,<n>the National Council of Parents and Teachers,<n>was founded.
+
+@#14
+JP: ■たすけあいの日：全国社会福祉会議制定の、<n>日常生活での助け合いや、地域社会へのボラ<n>ンティア活動を呼びかける日。<n>■新聞週間：日本新聞協会が実施する新聞の<n>重要性、必要性を多くの人々に知らせる運動。<n>■きのこの日：日本特用林産振興会制定。<n>■女人禁制破りの日：１８６７年、イギリス<n>のパーク夫人が、女人禁制の富士山に登った。
+EN: - Mutual Help Day: Established by the National Council of Social Welfare<n>to encourage people to help one another in daily life<n>and volunteer in their communities.<n>- Newspaper Week: A campaign by the Japan Newspaper Publishers and Editors Association<n>to spread awareness of the importance and value of newspapers.<n>- Mushroom Day: Established by Japan's association promoting specialty forest products.<n>- Breaking the Ban on Women Day: In 1867, Britain's Mrs. Parkes<n>climbed Mount Fuji despite its ban on female climbers.
+
+@#15
+JP: ■ボスデー：アメリカのパトリシア・ベイ・<n>ハロキスが経営者の父親のために、経営者と<n>部下の関係を円滑にと、ボスの日を提唱。<n>■世界食糧デー：１９４５年、国連食糧農業<n>機関が設立されたことを記念して、後に制定。
+EN: - Boss's Day: American Patricia Bays Haroski proposed<n>a day for bosses in honor of her father, an employer,<n>to improve relations between bosses and their employees.<n>- World Food Day: Established to commemorate the founding<n>of the UN Food and Agriculture Organization in 1945.
+
+@#16
+JP: ■上水道の日：１８８７年、横浜の市街地へ<n>日本初の近代的上水道による給水が開始。<n>■沖縄そばの日：１９７８年、「沖縄そば」<n>の名称が公正取引協議会に正式に呼称認定。<n>■貯蓄の日：日本銀行貯蓄増強中央委員会が<n>同委員会発足の際に制定し、翌年から実施。<n>■貧困撲滅のための国際デー：国連総会で制<n>定した国際デーの一つ。
+EN: - Waterworks Day: In 1887, Japan's first modern waterworks<n>began supplying water to urban Yokohama.<n>- Okinawa Soba Day: In 1978, the Fair Trade Council<n>officially approved the name "Okinawa soba."<n>- Savings Day: Established when the Bank of Japan's Central Council<n>for Savings Promotion was founded, and first observed the following year.<n>- International Day for the Eradication of Poverty: An international<n>observance established by the UN General Assembly.
+
+@#17
+JP: ■冷凍食品の日：１９８６年、日本冷凍食品<n>協会が制定。<n>■ミニスカートの日：１９６７年、イギリス<n>から「ミニの女王」ツィギーが来日、ミニス<n>カートブーム到来。<n>■フラフープ記念日：１９５８年、フラフー<n>プが日本で初めて発売され、大ブームに。<n>■統計の日：１９７３年、政府が制定した日。
+EN: - Frozen Food Day: Established in 1986 by the Japan Frozen Food<n>Association.<n>- Miniskirt Day: In 1967, Britain's "Queen of the Mini,"<n>Twiggy, visited Japan, setting off<n>a miniskirt craze.<n>- Hula Hoop Day: In 1958, hula hoops first went on sale<n>in Japan and became a huge craze.<n>- Statistics Day: Established by the government in 1973.
+
+@#18
+JP: ■ブラックマンデー：１９８７年、ニューヨ<n>ーク株式相場が大暴落、影響は世界各地に。<n>■日ソ国交回復の日：１９５６年、日ソ両国<n>が共同宣言を発表。<n>■バーゲンの日：１８９５年、東京の大丸呉<n>服店が日本初のバーゲン開催。<n>■海外旅行の日：とお、くへ、いく、の語呂<n>合わせ。
+EN: - Black Monday: In 1987, New York stock prices<n>plummeted, sending shock waves around the world.<n>- Japan-Soviet Relations Restoration Day: In 1956, Japan and the Soviet Union<n>issued a joint declaration.<n>- Bargain Sale Day: In 1895, Tokyo's Daimaru kimono store<n>held Japan's first bargain sale.<n>- Overseas Travel Day: The date is a Japanese number pun<n>on "toku e iku," meaning "go far away."
+
+@#19
+JP: ■新聞広告の日：日本新聞協会が制定、実施。<n>■頭髪の日：日本毛髪科学協会が１０、２０<n>を「頭」「髪」とかけて制定。<n>■リサイクルの日：日本リサイクルネットワ<n>ーク会議が制定。<n>■ソフト化の日：ソフト化経済センターが制<n>定。柔らかな発想で、これまでと違ったこと<n>をやる「ソフト化」を広く呼びかける日。
+EN: - Newspaper Advertising Day: Established and observed by Japan's newspaper association.<n>- Hair Day: Established by the Japan Hair Science Association.<n>The numbers 10 and 20 form a Japanese pun on "head" and "hair."<n>- Recycling Day: Established by the Japan Recycling Network Council.<n>- Flexible Thinking Day: Established by the Soft Economy Center.<n>It encourages people to think flexibly<n>and try doing things differently,<n>an approach known as "softening."
+
+@#20
+JP: ■国際反戦デー：１９６７年、世界各地でア<n>メリカのベトナム戦争介入に反対する集会が<n>開かれたことから、国際統一行動日となる。<n>■あかりの日：日本電気協会、日本電球工業<n>会等が制定。１８７９年、エジソンが京都産<n>の竹を使って白熱電球を完成させた。
+EN: - International Anti-War Day: In 1967, rallies were held<n>around the world against US involvement in the Vietnam War,<n>making this a day of coordinated international action.<n>- Lighting Day: Established by the Japan Electric Association,<n>Japan Electric Lamp Manufacturers Association and others. In 1879,<n>Edison perfected an incandescent light bulb using bamboo from Kyoto.
+
+@#21
+JP: ■パラシュートの日：１７９７年、フランス<n>のガルネランが世界初のパラシュート降下を<n>した。<n>■絹婚記念日：日本ネクタイ組合連合会と日<n>本スカーフ協会が制定。結婚１２年目の「絹<n>婚式」に絹製品のプレゼントをとのＰＲ。<n>■平安遷都の日：７９４年、桓武天皇が長岡<n>京から山背国葛城郡宇太村の新京に移った。
+EN: - Parachute Day: In 1797, Frenchman Andre-Jacques Garnerin<n>made the world's first<n>parachute descent.<n>- Silk Wedding Anniversary Day: Established by Japan's necktie federation<n>and scarf association. It promotes gifts of silk for<n>the 12th wedding anniversary, known as the "silk anniversary."<n>- Heian Capital Relocation Day: In 794, Emperor Kanmu moved from Nagaoka-kyo<n>to the new capital in Uta Village, Katsuragi District, Yamashiro Province.
+
+@#22
+JP: ■電信電話記念日：電気通信省（現・ＮＴＴ）<n>が１９５０（昭和２５）年に制定。<n>■津軽弁の日：方言詩人・高木恭造の命日に<n>ちなみ津軽弁の日やるべし会が制定。
+EN: - Telegraph and Telephone Day: Established in 1950<n>by the Ministry of Telecommunications (now NTT).<n>- Tsugaru Dialect Day: Established by a group promoting the dialect,<n>in memory of dialect poet Kyozo Takagi, who died on this day.
+
+@#23
+JP: ■国連デー：１９４８年より実施の国際デー。<n>■暗黒の木曜日：１９２９年、ウォール街の<n>株式取引所で株価が大暴落、世界大恐慌のき<n>っかけとなる。<n>■世界開発情報の日：１９７２年、国連総会<n>で制定、国際デーの一つ。<n>■ツーバイフォー住宅の日：日本ツーバイフ<n>ォー建築協会が制定。
+EN: - United Nations Day: An international observance held since 1948.<n>- Black Thursday: In 1929, share prices on Wall Street's<n>stock exchange crashed, triggering<n>the Great Depression.<n>- World Development Information Day: Established in 1972<n>by the UN General Assembly as an international observance.<n>- Two-by-Four Housing Day: Established by the Japan Two-by-Four<n>Home Builders Association.
+
+@#24
+JP: ■民間航空記念日：１９５１年、戦後最初の<n>民間航空、日本航空の「もくせい号」が東京<n>ー福岡間を就航。<n>■世界パスタデー：１９９５年、イタリアで<n>世界パスタ会議が開催。<n>■リクエストの日：１９３６年、ベルリンの<n>ドイツ放送で、ラジオのリクエスト番組開始。
+EN: - Civil Aviation Day: In 1951, Japan Airlines' Mokusei began<n>service between Tokyo and Fukuoka, marking Japan's<n>first postwar commercial air service.<n>- World Pasta Day: In 1995, Italy hosted<n>the World Pasta Congress.<n>- Request Day: In 1936, a German radio station in Berlin<n>launched a radio request show.
+
+@#25
+JP: ■原子力の日：１９６３年、茨城県東海村の<n>日本原子力研究所の動力試験炉が日本で初の<n>原子力発電を行った。<n>■サーカスの日：１８７１年、東京、九段で<n>フランスの「スリエサーカス」による日本初<n>のサーカス興業。<n>■十三夜の月：旧暦九月十三日。月見を行う、<n>日本独特の行事。
+EN: - Atomic Energy Day: In 1963, an experimental power reactor<n>at the Japan Atomic Energy Research Institute in Tokai, Ibaraki,<n>generated Japan's first nuclear power.<n>- Circus Day: In 1871, France's Soulie Circus gave<n>Japan's first circus performance<n>in Kudan, Tokyo.<n>- Thirteenth Night Moon: A uniquely Japanese moon-viewing custom<n>held on the 13th day of the ninth lunar month.
+
+@#26
+JP: ■テディベアズ・デー：テディベアの名前の<n>由来となったアメリカ２６代大統領セオドア<n>・ルーズベルトの誕生日。<n>■読書の日：「読書週間」の１日目の日。<n>■世界新記録の日：１９３１年、神宮競技場<n>で行われた体育大会で、日本初の世界新記録<n>が誕生した。
+EN: - Teddy Bear Day: The birthday of Theodore Roosevelt,<n>the 26th president of the United States,<n>who gave the teddy bear its name.<n>- Reading Day: The first day of Reading Week.<n>- World Record Day: In 1931, Japan's first world record<n>was set at an athletics meet<n>held at Jingu Stadium.
+
+@#27
+JP: ■速記記念日：１８８２年、日本で初めて速<n>記教室を開いたことを記念して、日本速記協<n>会が制定。<n>■日本のＡＢＣの日：日本ＡＢＣ協会が１９<n>８８年に制定。ＡＢＣは、広告料の基準とな<n>る新聞や雑誌の発行部数を調査する団体。
+EN: - Shorthand Day: Established by the Japan Shorthand Association<n>to mark the opening of Japan's first<n>shorthand class in 1882.<n>- Japan ABC Day: Established in 1988 by the Japan ABC Association.<n>ABC audits newspaper and magazine circulation figures,<n>which are used to determine advertising rates.
+
+@#28
+JP: ■とらふぐの日：数字の語呂合せから。<n>■ホームビデオ記念日：１９６９年、ソニー<n>がβ方式と松下がＶＨＳ方式の家庭用のＶＴ<n>Ｒを発表、ホームビデオ愛好家グループがこ<n>の日を「ホームビデオ記念日」とした。
+EN: - Tiger Pufferfish Day: Named for a Japanese number pun.<n>- Home Video Day: In 1969, Sony announced its Beta system<n>and Matsushita its VHS system for home video recorders.<n>A group of home video enthusiasts declared the date<n>Home Video Day.
+
+@#29
+JP: ■ニュースパニックデー：１９３８年、アメ<n>リカ・ＣＢＣラジオでＳＦドラマ「火星人来<n>襲」が放送された際、本当のニュースと勘違<n>いされ、大パニックになった。<n>■香りの記念日：１９９２年の「世界の香り<n>フェアＩＮ能登」を開催した石川県七尾市が<n>制定。<n>■初恋の日：長野県小諸市の中棚荘が制定。
+EN: - News Panic Day: In 1938, a US broadcast on CBC Radio<n>of the science-fiction drama "The Martian Invasion"<n>was mistaken for a real news report,<n>causing widespread panic.<n>- Fragrance Day: Established by the city of Nanao in Ishikawa,<n>which hosted the 1992 World Fragrance Fair in Noto.<n>- First Love Day: Established by Nakadanaso,<n>an inn in Komoro, Nagano.
+
+@#30
+JP: ■ハロウィンの日：キリスト教のすべての聖<n>人の祝日「万聖節」の前夜祭。<n>■日本茶の日：１１９２年、臨済宗の開祖・<n>栄西が宋から茶の種子と製法を持ち帰る。<n>■ガス記念日：日本で初めてガス灯が横浜の<n>馬車道に点灯されたことを記念。<n>■吉田茂元首相・国葬：１９６７年、内閣総<n>理大臣を務めた吉田茂氏の国葬。
+EN: - Halloween: The evening before All Saints' Day,<n>the Christian feast honoring all saints.<n>- Japanese Tea Day: In 1192, Eisai, founder of Japan's Rinzai school,<n>brought tea seeds and tea-making methods back from Song China.<n>- Gas Day: Commemorates Japan's first gas streetlights,<n>which were lit on Bashamichi in Yokohama.<n>- Former Prime Minister Shigeru Yoshida's State Funeral:<n>In 1967, a state funeral was held for Shigeru Yoshida.

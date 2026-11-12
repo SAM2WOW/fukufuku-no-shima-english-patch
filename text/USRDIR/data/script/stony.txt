@@ -1,0 +1,10247 @@
+# source: PSP_GAME/USRDIR/data/script/stony.scb
+# format: scb
+# width: 44
+
+@5144 max=639
+JP: ねえねえ！ねえねえ！<p>ここの人なの？ここに住んでるの？
+EN: Hey, hey! Hey, hey!<p>Are you from here? Do you live here?
+
+@53C4 max=639
+JP: はじめて見る顔だな。
+EN: Haven't seen you around before.
+
+@5644 max=639
+JP: …ボクたちねー<n>修学旅行に来てるんだー。
+EN: ...We're here on a school trip.
+
+@58C4 max=639
+JP: ねえねえ！ねえねえ！<p>ぼくらとお話しようよ！
+EN: Hey, hey! Hey, hey!<p>Come talk to us!
+
+@5B44 max=639
+JP: ねえねえ！ねえねえ！<n>お話しようよ！
+EN: Hey, hey! Hey, hey!<n>Let's talk!
+
+@5DC4 max=639
+JP: なんの話するんだ？
+EN: What're we gonna talk about?
+
+@6044 max=639
+JP: おかしのはなしがいいよ！
+EN: Let's talk about snacks!
+
+@62C4 max=639
+JP: んー。あ、そうだ！
+EN: Hmm. Oh, I know!
+
+@6544 max=639
+JP: あ、このひとたしか…<n>ヒヨピー？
+EN: Oh, I know you...<n>Hiyopi?
+
+@67C4 max=639
+JP: …モグやんだな。
+EN: ...That's Moguyan.
+
+@6A44 max=639
+JP: え？<n><PN>さんだよ？
+EN: Huh?<n>That's <PN>!
+
+@6CC4 max=639
+JP: あ、そうだよね！<n>こんにちは！
+EN: Oh, right!<n>Hi there!
+
+@6F44 max=639
+JP: ねえねえ！<n>この島って、おもしろいよね！
+EN: Hey, hey!<n>This island's fun, huh?
+
+@71C4 max=639
+JP: えー？オレはたいくつだな。
+EN: Huh? I'm bored.
+
+@7444 max=639
+JP: …おもしろいよねー。
+EN: ...It's fun, huh?
+
+@76C4 max=639
+JP: ねえねえ！ねえねえ！<n>聞いてもいい？
+EN: Hey, hey! Hey, hey!<n>Can I ask you something?
+
+@7944 max=639
+JP: ねえねえ！<n>プッカおじさんはたのしいよね！
+EN: Hey, hey!<n>Uncle Pukka's lots of fun, huh?
+
+@7BC4 max=639
+JP: ポッコさんが最高だな。
+EN: Pokko's the best.
+
+@7E44 max=639
+JP: …カトレアおねーちゃんがいい。
+EN: ...I like Cattleya.
+
+@80C4 max=639
+JP: ねえねえ！ねえねえ！<n>聞いてもいい？
+EN: Hey, hey! Hey, hey!<n>Can I ask you something?
+
+@8344 max=639
+JP: マリアンおねえちゃんの<n>占い、すっごく当たるよね！
+EN: Marian's fortunes are so spot-on!
+
+@85C4 max=639
+JP: マツバラくんのほうが当たるぜ？
+EN: Matsubara gets more right, y'know?
+
+@8844 max=639
+JP: …コピタンがいいなー。
+EN: ...I like Copitan.
+
+@8AC4 max=639
+JP: ねえねえ！ねえねえ！<n>聞いてもいい？
+EN: Hey, hey! Hey, hey!<n>Can I ask you something?
+
+@8D44 max=639
+JP: ぼくたち、もう１０ねん<n>修学旅行してるんだよ！
+EN: We've been on our school trip<n>for ten whole years!
+
+@8FC4 max=639
+JP: 長いよなー。
+EN: That's a long time.
+
+@9244 max=639
+JP: たのしいからいいよ！
+EN: Who cares? It's fun!
+
+@94C4 max=639
+JP: ねえねえ！ねえねえ！<n>聞いてもいい？
+EN: Hey, hey! Hey, hey!<n>Can I ask you something?
+
+@9744 max=639
+JP: ぼくたち、３にん兄弟さ！<n>スー！
+EN: We're three brothers!<n>Su!
+
+@99C4 max=639
+JP: トー！
+EN: To!
+
+@9C44 max=639
+JP: …ニー。
+EN: ...Ni.
+
+@9EC4 max=639
+JP: ３にんあわせて<n>ストーニー兄弟！
+EN: Put us together and you get...<n>the Stony Brothers!
+
+@A144 max=639
+JP: ふっ、どうだまいったか。
+EN: Heh. Pretty impressive, huh?
+
+@A3C4 max=639
+JP: ちょっとはずかしいね…。
+EN: That's kinda embarrassing...
+
+@A644 max=639
+JP: ねえねえ！ねえねえ！<n>聞いてもいい？
+EN: Hey, hey! Hey, hey!<n>Can I ask you something?
+
+@A8C4 max=639
+JP: ぼくたち、ストーニー兄弟も<n>ひっさつわざがほしいよね！
+EN: We Stony Brothers need<n>a special move too!
+
+@AB44 max=639
+JP: えー、べつにいいや。
+EN: Eh, I'm good.
+
+@ADC4 max=639
+JP: ほしいよ！すっごいの！
+EN: I want one! A really awesome one!
+
+@B044 max=639
+JP: ねえねえ！ねえねえ！<n>聞いてもいい？
+EN: Hey, hey! Hey, hey!<n>Can I ask you something?
+
+@B2C4 max=639
+JP: ふはー。<n>楽しいお話だったね！
+EN: Whew!<n>That was a fun chat!
+
+@B544 max=639
+JP: まあまあかな。
+EN: It was okay, I guess.
+
+@B7C4 max=639
+JP: たのしかったー！
+EN: That was fuuun!
+
+@BA44 max=639
+JP: また来てね！お話しようね！
+EN: Come back and talk to us again!
+
+@BCC4 max=639
+JP: <HEXP>の経験値を獲得
+EN: Gained <HEXP> experience points.
+
+@BF44 max=639
+JP: <<テキストチェック>><n>チェックする項目を選んでください。
+EN: 
+
+@C1C4 max=639
+JP: 会話メッセージ<n>イベント用テキスト
+EN: Dialogue<n>Event Text
+
+@C444 max=639
+JP: 表示したい会話メッセージのIDを選んでください。
+EN: 
+
+@C6C4 max=639
+JP: 表示したいテキストのIDを入力してください。
+EN: 
+
+@14E64 max=95
+JP: りんごは好き？
+EN: Do you like apples?
+
+@14EC4 max=95
+JP: やっぱり好きなのね～。
+EN: I knew you liked them!
+
+@14F24 max=95
+JP: オレはみかんだ。
+EN: I'm a mandarin guy.
+
+@14F84 max=95
+JP: ボクはりんご好きぃ。
+EN: I looove apples.
+
+@14FE4 max=95
+JP: え～嫌いなのか～。
+EN: Aww, you don't like them?
+
+@15044 max=95
+JP: オレはみかんだな。
+EN: Mandarins for me.
+
+@150A4 max=95
+JP: ボクはりんご好きぃ。
+EN: I looove apples.
+
+@15104 max=95
+JP: 富士山って高いと思う？
+EN: Do you think Mount Fuji is tall?
+
+@15164 max=95
+JP: やっぱり高いよね～。
+EN: It sure is tall, huh?
+
+@151C4 max=95
+JP: 低いと思うけどな。
+EN: Seems pretty short to me.
+
+@15224 max=95
+JP: 高いよぉ。
+EN: It's taaall.
+
+@15284 max=95
+JP: え～高くないかな～。
+EN: Really? I think it's pretty tall...
+
+@152E4 max=95
+JP: ありゃ低いよな。
+EN: Yeah, it's pretty short.
+
+@15344 max=95
+JP: 高いよぉ。
+EN: It's taaall.
+
+@153A4 max=95
+JP: 夏は好き？
+EN: Do you like summer?
+
+@15404 max=95
+JP: いいよね～、夏。
+EN: Summer's great, huh?
+
+@15464 max=95
+JP: オレも好きだぜ。
+EN: Yeah, I like it too.
+
+@154C4 max=95
+JP: ボクは嫌いぃ。
+EN: I don't like it at aaall.
+
+@15524 max=95
+JP: そっかー嫌いなのか～。
+EN: Ohhh, so you don't like it...
+
+@15584 max=95
+JP: オレは好きだぜ。
+EN: Well, I like it.
+
+@155E4 max=95
+JP: ボクは嫌いぃ。
+EN: I don't like it at aaall.
+
+@15644 max=95
+JP: 地球の温暖化って食い止められると思う？
+EN: Think we can stop global warming?
+
+@156A4 max=95
+JP: なんとかしたいよね～。
+EN: We've gotta do something, huh?
+
+@15704 max=95
+JP: 無理だよ、いまさら。
+EN: No chance. It's too late now.
+
+@15764 max=95
+JP: 一人一人の努力だよぉ。
+EN: We've all gotta do our biiit.
+
+@157C4 max=95
+JP: なんとかしたいよね～。
+EN: We've gotta do something, huh?
+
+@15824 max=95
+JP: 無理だよな、いまさら。
+EN: Yeah, it's too late now.
+
+@15884 max=95
+JP: 一人一人の努力だよぉ。
+EN: We've all gotta do our biiit.
+
+@158E4 max=95
+JP: 梅雨ってじめじめしていやだよね～？
+EN: Isn't the rainy season all damp and miserable?
+
+@15944 max=95
+JP: だよね～うんざりよね～。
+EN: Yeahhh, I'm so sick of it...
+
+@159A4 max=95
+JP: カビが生えそうだしな。
+EN: Feels like I'm gonna grow mold.
+
+@15A04 max=95
+JP: じめじめ嫌いぃ。
+EN: I haaate the damp.
+
+@15A64 max=95
+JP: あ、雨好きなのね～。
+EN: Ohhh, so you like the rain.
+
+@15AC4 max=95
+JP: カビが生えそうだな。
+EN: I'm gonna grow mold at this rate.
+
+@15B24 max=95
+JP: じめじめ嫌いぃ。
+EN: I haaate the damp.
+
+@15B84 max=95
+JP: イチゴ大福好き？
+EN: Do you like strawberry mochi?
+
+@15BE4 max=95
+JP: イチゴがいいよねぇ～。
+EN: The strawberry's the best part, huh?
+
+@15C44 max=95
+JP: あんこがイヤなんだよ。
+EN: It's the sweet bean paste I can't stand.
+
+@15CA4 max=95
+JP: あんこがおいしいんだよぉ。
+EN: But the sweet bean paste is sooo good.
+
+@15D04 max=95
+JP: イチゴ嫌いなのか～。
+EN: Ohhh, you don't like strawberries?
+
+@15D64 max=95
+JP: あんこがイヤなんだよ。
+EN: It's the sweet bean paste I can't stand.
+
+@15DC4 max=95
+JP: あんこおいしいのにぃ。
+EN: But the sweet bean paste is so yummy...
+
+@15E24 max=95
+JP: ハワイ行ったことある～？
+EN: Ever been to Hawaii?
+
+@15E84 max=95
+JP: いいなぁ、行きたいな～。
+EN: Lucky you... I'd love to go.
+
+@15EE4 max=95
+JP: ハワイなんてつまんないさ。
+EN: Hawaii's boring anyway.
+
+@15F44 max=95
+JP: ハワイ楽しそおぉ。
+EN: Hawaii looks sooo fun.
+
+@15FA4 max=95
+JP: 行ってみたいよね～。
+EN: Sure would be nice to go, huh?
+
+@16004 max=95
+JP: ハワイなんてつまんないさ。
+EN: Hawaii's boring anyway.
+
+@16064 max=95
+JP: ハワイ楽しそおぉ。
+EN: Hawaii looks sooo fun.
+
+@160C4 max=95
+JP: サラオ君にはもう会った？
+EN: Have you met Sarao yet?
+
+@16124 max=95
+JP: そうか～会ったのか～。
+EN: Ohhh, so you've met him.
+
+@16184 max=95
+JP: サラオ君、ケチだよ。
+EN: Sarao's such a cheapskate.
+
+@161E4 max=95
+JP: サラオ君、いい人だよねぇ。
+EN: Sarao's a nice guy, huh?
+
+@16244 max=95
+JP: 東の池にいるらしいよ～。
+EN: I hear he's at the pond to the east.
+
+@162A4 max=95
+JP: サラオ君、ケチだよ。
+EN: Sarao's such a cheapskate.
+
+@16304 max=95
+JP: サラオ君、いい人だよねぇ。
+EN: Sarao's a nice guy, huh?
+
+@16364 max=95
+JP: スポーツと言えば野球だよね？
+EN: Baseball's the best sport, right?
+
+@163C4 max=95
+JP: だよね～、野球だよね。
+EN: Yeah, baseball for sure.
+
+@16424 max=95
+JP: サッカーだろ、やっぱ。
+EN: Soccer. No contest.
+
+@16484 max=95
+JP: 相撲だよぉ。
+EN: I like sumo...
+
+@164E4 max=95
+JP: あ、野球嫌いなの～。
+EN: Oh, you don't like baseball?
+
+@16544 max=95
+JP: サッカーだろ、やっぱ。
+EN: Soccer. No contest.
+
+@165A4 max=95
+JP: 相撲だよぉ。
+EN: I like sumo...
+
+@16604 max=95
+JP: 合コンは好き？
+EN: Do you like group dates?
+
+@16664 max=95
+JP: 楽しいよね～、合コン。
+EN: Group dates are fun, huh?
+
+@166C4 max=95
+JP: け、おめでたいな。
+EN: Pfft. You're easily pleased.
+
+@16724 max=95
+JP: ボクも合コン行きたいなぁ。
+EN: I wanna go on a group date too...
+
+@16784 max=95
+JP: そうか～、出会いは自分で作るタイプね～。
+EN: Oh, you like to find dates your own way, huh?
+
+@167E4 max=95
+JP: さみしい人生だな。
+EN: What a lonely life.
+
+@16844 max=95
+JP: ボクも合コン行きたいなぁ。
+EN: I wanna go on a group date too...
+
+@168A4 max=95
+JP: 新しいケイタイ、欲しいよね？
+EN: You want a new cell phone, right?
+
+@16904 max=95
+JP: カメラ付ね～。
+EN: One with a camera, yeah.
+
+@16964 max=95
+JP: 今ので十分だよ。
+EN: My old one's just fine.
+
+@169C4 max=95
+JP: ケイタイ欲しい～。
+EN: I want a cell phone...
+
+@16A24 max=95
+JP: えーいらないの～。
+EN: Huh? You don't want one?
+
+@16A84 max=95
+JP: 今ので十分だよ。
+EN: My old one's just fine.
+
+@16AE4 max=95
+JP: ケイタイ欲しい～。
+EN: I want a cell phone...
+
+@16B44 max=95
+JP: 秋といえば、食欲の秋だよね？
+EN: Fall's all about food, right?
+
+@16BA4 max=95
+JP: だよね～。
+EN: Totally.
+
+@16C04 max=95
+JP: 芸術の秋だよ。
+EN: Fall's the season for art.
+
+@16C64 max=95
+JP: おなかすいたよぉ。
+EN: I'm hungry...
+
+@16CC4 max=95
+JP: じゃースポーツの秋かな～。
+EN: Then maybe fall's your season for sports?
+
+@16D24 max=95
+JP: 芸術の秋だよ。
+EN: Fall's the season for art.
+
+@16D84 max=95
+JP: おなかすいたよぉ。
+EN: I'm hungry...
+
+@16DE4 max=95
+JP: 映画は観るほう？
+EN: Do you watch many movies?
+
+@16E44 max=95
+JP: いいよね～映画。
+EN: Movies are great, huh?
+
+@16EA4 max=95
+JP: くだらないよ。
+EN: They're a waste of time.
+
+@16F04 max=95
+JP: アニメが好きぃ。
+EN: I like cartoons...
+
+@16F64 max=95
+JP: あ、観ないのか～。
+EN: Oh, you don't watch them?
+
+@16FC4 max=95
+JP: くだらないよな。
+EN: They're a waste of time, huh?
+
+@17024 max=95
+JP: アニメが好きぃ。
+EN: I like cartoons...
+
+@17084 max=95
+JP: 勉強は好き？
+EN: Do you like studying?
+
+@170E4 max=95
+JP: 楽しいよね～。
+EN: It's fun, huh?
+
+@17144 max=95
+JP: オレは数学が好き。
+EN: I like math.
+
+@171A4 max=95
+JP: ボク、体育好き。
+EN: I like gym class.
+
+@17204 max=95
+JP: そうだよね～。
+EN: Yeah, I hear you.
+
+@17264 max=95
+JP: オレは数学が好き。
+EN: I like math.
+
+@172C4 max=95
+JP: ボク、体育好き。
+EN: I like gym class.
+
+@17324 max=95
+JP: 占いは信じる？
+EN: Do you believe in fortune-telling?
+
+@17384 max=95
+JP: 面白いよね～。
+EN: It's pretty fun, huh?
+
+@173E4 max=95
+JP: あんなものデタラメだよ。
+EN: It's all a load of nonsense.
+
+@17444 max=95
+JP: ボクは信じるぅ。
+EN: I believe in it...
+
+@174A4 max=95
+JP: 自分の力を信じてるのね～。
+EN: You believe in your own abilities, huh?
+
+@17504 max=95
+JP: あんなものデタラメだよな。
+EN: That stuff's a load of nonsense.
+
+@17564 max=95
+JP: ボクは信じるぅ。
+EN: I believe in it...
+
+@175C4 max=95
+JP: アイスクリームのコーンて、おいしいよね？
+EN: Ice cream cones are tasty, aren't they?
+
+@17624 max=95
+JP: なんか、食べちゃうよね～。
+EN: I always end up eating the cone, too.
+
+@17684 max=95
+JP: 全部は食わないね。
+EN: I don't eat the whole thing.
+
+@176E4 max=95
+JP: 全部食べるよ～。
+EN: I eat it all up!
+
+@17744 max=95
+JP: あまり食べないか～。
+EN: Oh, you don't eat much of the cone, huh?
+
+@177A4 max=95
+JP: 全部は食わないね。
+EN: I don't eat the whole thing.
+
+@17804 max=95
+JP: 全部食べるよ～。
+EN: I eat it all up!
+
+@17864 max=95
+JP: 渋谷って楽しいよね？
+EN: Shibuya's fun, isn't it?
+
+@178C4 max=95
+JP: 楽しいよね～。
+EN: It's fun, huh?
+
+@17924 max=95
+JP: 子供の町だぜ。
+EN: That place is for kids.
+
+@17984 max=95
+JP: 渋谷、怖いー。
+EN: Shibuya's scaryyy.
+
+@179E4 max=95
+JP: あーうるさ過ぎるか～。
+EN: Oh, it's too noisy for you, huh?
+
+@17A44 max=95
+JP: 子供の町だよな。
+EN: It's a town for kids, huh?
+
+@17AA4 max=95
+JP: 渋谷、怖いー。
+EN: Shibuya's scaryyy.
+
+@17B04 max=95
+JP: テレビゲームは好き？
+EN: Do you like video games?
+
+@17B64 max=95
+JP: 面白いよね～。
+EN: It's pretty fun, huh?
+
+@17BC4 max=95
+JP: オレはゲーセン派。
+EN: I'm more of an arcade guy.
+
+@17C24 max=95
+JP: ゲーム楽しいよねぇ。
+EN: Games are so much fun, huh?
+
+@17C84 max=95
+JP: 嫌いなのか～。
+EN: Oh, you don't like them, huh?
+
+@17CE4 max=95
+JP: オレはゲーセン派。
+EN: I'm more of an arcade guy.
+
+@17D44 max=95
+JP: ゲーム楽しいよぉ。
+EN: But games are fuuun.
+
+@17DA4 max=95
+JP: やっぱり夏は海だよね？
+EN: Summer's all about the beach, right?
+
+@17E04 max=95
+JP: 海、いいよね～。
+EN: The beach is so nice, huh?
+
+@17E64 max=95
+JP: 夏は海だよな。
+EN: Summer means beach time.
+
+@17EC4 max=95
+JP: 海、大好きぃ。
+EN: I looove the beach.
+
+@17F24 max=95
+JP: あ、山派なのか～。
+EN: Oh, you're more into mountains, huh?
+
+@17F84 max=95
+JP: 夏は海だろ。
+EN: Come on, summer's for the beach.
+
+@17FE4 max=95
+JP: 海、大好きぃ。
+EN: I looove the beach.
+
+@18044 max=95
+JP: 最近、物騒だよね？
+EN: Things are pretty scary lately, huh?
+
+@180A4 max=95
+JP: 気をつけようね～。
+EN: Let's stay safe, okay?
+
+@18104 max=95
+JP: まったく物騒だぜ。
+EN: It's downright dangerous out there.
+
+@18164 max=95
+JP: 怖いよぉ。
+EN: I'm scaaared.
+
+@181C4 max=95
+JP: あ、気にならないのか～。
+EN: Oh, it doesn't bother you, huh?
+
+@18224 max=95
+JP: まったく物騒だぜ。
+EN: It's downright dangerous out there.
+
+@18284 max=95
+JP: 怖いよぉ。
+EN: I'm scaaared.
+
+@182E4 max=95
+JP: 寝る前に歯磨きしてる？
+EN: Do you brush your teeth before bed?
+
+@18344 max=95
+JP: えらいね～。
+EN: Good for you!
+
+@183A4 max=95
+JP: よくやるな。
+EN: You've got dedication.
+
+@18404 max=95
+JP: ボクもしてるぅ。
+EN: Me toooo.
+
+@18464 max=95
+JP: 虫歯になるよ～。
+EN: You'll get cavities, you know.
+
+@184C4 max=95
+JP: 面倒だよな。
+EN: It's such a pain, huh?
+
+@18524 max=95
+JP: ボク、してるぅ。
+EN: Well, I dooo.
+
+@18584 max=95
+JP: コンタクトしてる？
+EN: Do you wear contact lenses?
+
+@185E4 max=95
+JP: してるのか～。
+EN: Oh, so you do, huh?
+
+@18644 max=95
+JP: オレはメガネ派。
+EN: I'm more of a glasses guy.
+
+@186A4 max=95
+JP: ボクは目がいいのぉ。
+EN: I've got great eyesiiight.
+
+@18704 max=95
+JP: 視力いいのね～。
+EN: You've got good eyesight, huh?
+
+@18764 max=95
+JP: オレはメガネ派。
+EN: I'm more of a glasses guy.
+
+@187C4 max=95
+JP: ボクも目はいいのぉ。
+EN: I've got great eyesight toooo.
+
+@18824 max=95
+JP: 好きな人いる？
+EN: Got a crush on anyone?
+
+@18884 max=95
+JP: 上手くいくといいね～。
+EN: Hope it works out for you!
+
+@188E4 max=95
+JP: 一人相撲だろ。
+EN: Bet it's one-sided.
+
+@18944 max=95
+JP: よくわかんないぃ。
+EN: I don't really get it...
+
+@189A4 max=95
+JP: そうか～今はお休み中ね～。
+EN: Ohhh, taking a break from love, huh?
+
+@18A04 max=95
+JP: さみしいヤツだな。
+EN: You're a lonely one.
+
+@18A64 max=95
+JP: よくわかんないぃ。
+EN: I don't really get it...
+
+@18AC4 max=95
+JP: 修学旅行は海外だった？
+EN: Did you go abroad on your school trip?
+
+@18B24 max=95
+JP: わ～すごいね～。
+EN: Wow, that's amazing!
+
+@18B84 max=95
+JP: はったりだろ。
+EN: Bet you're bluffing.
+
+@18BE4 max=95
+JP: ボクも行きたいぃ。
+EN: I wanna go toooo.
+
+@18C44 max=95
+JP: あ、国内か～。
+EN: Ohhh, you stayed in the country.
+
+@18CA4 max=95
+JP: 京都、奈良だろ。
+EN: Kyoto and Nara, right?
+
+@18D04 max=95
+JP: 遊園地でしょぉ。
+EN: An amusement park, riiight?
+
+@18D64 max=95
+JP: ガイコツくんにはもう会った？
+EN: Met any of the Skull Numbers yet?
+
+@18DC4 max=95
+JP: いっぱいいるよね～。
+EN: There sure are lots of them, huh?
+
+@18E24 max=95
+JP: あちこちにいるな。
+EN: They're all over the place.
+
+@18E84 max=95
+JP: 面白いよねぇ。
+EN: They're funny, aren't theyyy?
+
+@18EE4 max=95
+JP: いっぱいいるよ～。
+EN: There are loooots of them!
+
+@18F44 max=95
+JP: あちこちにいるぜ。
+EN: Those guys are everywhere.
+
+@18FA4 max=95
+JP: 面白いよぉ。
+EN: They're funnny.
+
+@19004 max=95
+JP: パソコン、持っている？
+EN: Do you have a computer?
+
+@19064 max=95
+JP: 持ってるのか～。
+EN: Ohhh, you've got one.
+
+@190C4 max=95
+JP: どうせメールだけだろ。
+EN: Bet you only use it for email.
+
+@19124 max=95
+JP: ボクも欲しいぃ。
+EN: I want one toooo.
+
+@19184 max=95
+JP: 持ってないのか～。
+EN: Ohhh, you don't have one.
+
+@191E4 max=95
+JP: 操作できないんだろ。
+EN: Bet you can't even use one.
+
+@19244 max=95
+JP: ボク、欲しいぃ。
+EN: I waaant one.
+
+@192A4 max=95
+JP: 花粉症？
+EN: Got hay fever?
+
+@19304 max=95
+JP: つらいよね～。
+EN: It's rough, huh?
+
+@19364 max=95
+JP: 春はなみだ目か。
+EN: All teary-eyed in spring, huh?
+
+@193C4 max=95
+JP: ボクも花粉症。
+EN: I've got hay fever too.
+
+@19424 max=95
+JP: いいなぁ。
+EN: You're so luuucky.
+
+@19484 max=95
+JP: 鈍感なんだよ。
+EN: You're just too thick-skinned.
+
+@194E4 max=95
+JP: ボク、花粉症。
+EN: I've got hay fever.
+
+@19544 max=95
+JP: 手品できる？
+EN: Can you do magic tricks?
+
+@195A4 max=95
+JP: できるの、すごいね～。
+EN: You can? That's amazing!
+
+@19604 max=95
+JP: まやかしだよ。
+EN: It's all smoke and mirrors.
+
+@19664 max=95
+JP: 手品大好きぃ。
+EN: I looove magic tricks!
+
+@196C4 max=95
+JP: できないのか～。
+EN: Ohhh, you can't.
+
+@19724 max=95
+JP: まやかしだよ。
+EN: It's all smoke and mirrors.
+
+@19784 max=95
+JP: 手品大好きぃ。
+EN: I looove magic tricks!
+
+@197E4 max=95
+JP: 星のかけらは取った？
+EN: Did you get a star fragment?
+
+@19844 max=95
+JP: 時々、取れるよね～。
+EN: You find them now and then, huh?
+
+@198A4 max=95
+JP: よく取れるよ。
+EN: I find them all the time.
+
+@19904 max=95
+JP: きれいだよね。
+EN: Pretty, aren't they?
+
+@19964 max=95
+JP: 時々、取れるよ～。
+EN: I find them now and then.
+
+@199C4 max=95
+JP: よく取れるぜ。
+EN: I find loads of 'em.
+
+@19A24 max=95
+JP: きれいだよ。
+EN: They're pretty.
+
+@19A84 max=95
+JP: ボーリング好き？
+EN: Do you like bowling?
+
+@19AE4 max=95
+JP: 楽しいよね～。
+EN: It's fun, huh?
+
+@19B44 max=95
+JP: あんなものいらないよ。
+EN: Who needs that stuff?
+
+@19BA4 max=95
+JP: ボクは好きぃ。
+EN: I looove it.
+
+@19C04 max=95
+JP: 疲れるよね～。
+EN: It's tiring, huh?
+
+@19C64 max=95
+JP: あんなものいらないよな。
+EN: Who needs that stuff, right?
+
+@19CC4 max=95
+JP: ボクは好きぃ。
+EN: I looove it.
+
+@19D24 max=95
+JP: モグやんには会った？
+EN: Have you met Moguyan?
+
+@19D84 max=95
+JP: クロスワードなんだよね～。
+EN: Crosswords, huh?
+
+@19DE4 max=95
+JP: うるさいヤツラだぜ。
+EN: What a noisy bunch.
+
+@19E44 max=95
+JP: 可愛いよぉ。
+EN: They're sooo cute.
+
+@19EA4 max=95
+JP: クロスワードするらしいよ～。
+EN: I hear they do crosswords.
+
+@19F04 max=95
+JP: うるさいヤツラだよ。
+EN: They're a noisy bunch.
+
+@19F64 max=95
+JP: 可愛いよぉ。
+EN: They're sooo cute.
+
+@19FC4 max=95
+JP: ジグソーパズルは好き？
+EN: Do you like jigsaw puzzles?
+
+@1A024 max=95
+JP: 楽しいよね～。
+EN: It's fun, huh?
+
+@1A084 max=95
+JP: 根気あるな。
+EN: You've got patience.
+
+@1A0E4 max=95
+JP: 楽しいよぉ。
+EN: They're sooo fun.
+
+@1A144 max=95
+JP: 楽しいと思うよ～。
+EN: I think they're fun.
+
+@1A1A4 max=95
+JP: 飽きっぽいんだろ。
+EN: You get bored easily, huh?
+
+@1A204 max=95
+JP: 楽しいよぉ。
+EN: They're sooo fun.
+
+@1A264 max=95
+JP: ペンタゴンには会った？
+EN: Have you met the Pentagon trio?
+
+@1A2C4 max=95
+JP: くるくる回っているよね～。
+EN: They spin round and round, huh?
+
+@1A324 max=95
+JP: お調子者だよ。
+EN: What a show-off.
+
+@1A384 max=95
+JP: お茶目だよねぇ。
+EN: Such a little goofball, huh?
+
+@1A3E4 max=95
+JP: くるくる回ってるんだよ～。
+EN: They spin round and round.
+
+@1A444 max=95
+JP: お調子者だよ。
+EN: What a show-off.
+
+@1A4A4 max=95
+JP: お茶目だよぉ。
+EN: Such a little goofball.
+
+@1A504 max=95
+JP: モークスには会った？
+EN: Have you met Mokus?
+
+@1A564 max=95
+JP: 元気出るよね～。
+EN: Really perks you up, huh?
+
+@1A5C4 max=95
+JP: はげましてくれるんだろ。
+EN: Gives you a pep talk, right?
+
+@1A624 max=95
+JP: けむりモクモク。
+EN: Puff, puff! So much smoke.
+
+@1A684 max=95
+JP: 元気が出るよ～。
+EN: Really perks you up.
+
+@1A6E4 max=95
+JP: はげましてくれるんだろ。
+EN: Gives you a pep talk, right?
+
+@1A744 max=95
+JP: けむりモクモク。
+EN: Puff, puff! So much smoke.
+
+@1A7A4 max=95
+JP: ＤＶＤプレイヤー持っている？
+EN: Do you have a DVD player?
+
+@1A804 max=95
+JP: 便利だよね～。
+EN: Handy, aren't they?
+
+@1A864 max=95
+JP: 新しい物好きだな。
+EN: You love new gadgets, huh?
+
+@1A8C4 max=95
+JP: ＤＶＤって何？
+EN: What's a DVD?
+
+@1A924 max=95
+JP: ビデオなのね～。
+EN: Oh, you use videotapes, huh?
+
+@1A984 max=95
+JP: まだビデオか。
+EN: Still using videotapes, huh?
+
+@1A9E4 max=95
+JP: ＤＶＤって何？
+EN: What's a DVD?
+
+@1AA44 max=95
+JP: ヘリコプターに乗ったことある？
+EN: Have you ever ridden in a helicopter?
+
+@1AAA4 max=95
+JP: すごい～乗ったのか～。
+EN: Wow... you actually rode it!
+
+@1AB04 max=95
+JP: 音がうるさいよ。
+EN: It's so noisy.
+
+@1AB64 max=95
+JP: ボクも乗りたいぃ。
+EN: I wanna ride it toooo.
+
+@1ABC4 max=95
+JP: なんか、怖そうだよね～。
+EN: Looks kinda scary, huh...?
+
+@1AC24 max=95
+JP: 音がうるさいよ。
+EN: It's so noisy.
+
+@1AC84 max=95
+JP: ボク、乗りたいぃ。
+EN: I wanna ride iiiit.
+
+@1ACE4 max=95
+JP: ジーンズのすそ上げ、悲しいよね？
+EN: Getting your jeans shortened is kinda sad, huh?
+
+@1AD44 max=95
+JP: いっぱい切るよね～。
+EN: They cut sooo much off...
+
+@1ADA4 max=95
+JP: 足短いな。
+EN: You've got short legs.
+
+@1AE04 max=95
+JP: ジーンズ、はきたいぃ。
+EN: I wanna wear jeeeans.
+
+@1AE64 max=95
+JP: 足長いんだね～。
+EN: You've got long legs, huh...?
+
+@1AEC4 max=95
+JP: 見栄はるなよ。
+EN: Quit showing off.
+
+@1AF24 max=95
+JP: ジーンズ、はきたいぃ。
+EN: I wanna wear jeeeans.
+
+@1AF84 max=95
+JP: 自分で耳掃除するの大変だよね？
+EN: Cleaning your own ears is tricky, huh?
+
+@1AFE4 max=95
+JP: ね～難しいよね。
+EN: Yeah... it's hard, huh?
+
+@1B044 max=95
+JP: 不器用だな。
+EN: You're all thumbs.
+
+@1B0A4 max=95
+JP: ボクの掃除してぇ。
+EN: Clean mine, pleeease.
+
+@1B104 max=95
+JP: あ、上手なんだ～。
+EN: Oh, so you're good at it...
+
+@1B164 max=95
+JP: オレのも掃除してよ。
+EN: Clean mine too, then.
+
+@1B1C4 max=95
+JP: ボクのもぉ。
+EN: Mine toooo.
+
+@1B224 max=95
+JP: 正直、お節料理っておいしくないよね？
+EN: Honestly, traditional New Year's food isn't that tasty, is it?
+
+@1B284 max=95
+JP: だよね～。
+EN: Totally.
+
+@1B2E4 max=95
+JP: みんな冷えてるじゃん。
+EN: It's all cold!
+
+@1B344 max=95
+JP: ボクは、好きぃ。
+EN: I liiike it.
+
+@1B3A4 max=95
+JP: あ、好きなのか～。
+EN: Oh, so you like it...
+
+@1B404 max=95
+JP: みんな冷えてるぜ。
+EN: But it's all cold.
+
+@1B464 max=95
+JP: ボクは、好きぃ。
+EN: I liiike it.
+
+@1B4C4 max=95
+JP: 新聞とっている？
+EN: Do you get the newspaper?
+
+@1B524 max=95
+JP: えらいね～。
+EN: Good for you!
+
+@1B584 max=95
+JP: 親がとってるんだろ。
+EN: Your parents get it, right?
+
+@1B5E4 max=95
+JP: 新聞、難しいぃ。
+EN: Newspapers are too haaard.
+
+@1B644 max=95
+JP: ネットでじゅうぶんだよね～。
+EN: The internet's all you need, huh...?
+
+@1B6A4 max=95
+JP: テレビだろ。
+EN: TV, you mean.
+
+@1B704 max=95
+JP: 新聞、難しいぃ。
+EN: Newspapers are too haaard.
+
+@1B764 max=95
+JP: 靴擦れしたことある？
+EN: Ever gotten blisters from your shoes?
+
+@1B7C4 max=95
+JP: 痛いよねぇ～。
+EN: They really hurt, huh...?
+
+@1B824 max=95
+JP: 痛いよな。
+EN: They sure hurt.
+
+@1B884 max=95
+JP: 痛いよねぇ。
+EN: They huuurt.
+
+@1B8E4 max=95
+JP: 歩き方、うまいのね～。
+EN: You must be good at walking...
+
+@1B944 max=95
+JP: いつも車なのか。
+EN: You go everywhere by car or what?
+
+@1B9A4 max=95
+JP: 痛いよねぇ。
+EN: They huuurt.
+
+@1BA04 max=95
+JP: 寝つきはいい？
+EN: Do you fall asleep easily?
+
+@1BA64 max=95
+JP: そうか、健康だね～。
+EN: Oh, you must be healthy...
+
+@1BAC4 max=95
+JP: 悩みがないのな。
+EN: Guess you've got no worries.
+
+@1BB24 max=95
+JP: ボクも眠れるぅ。
+EN: I sleep fine toooo.
+
+@1BB84 max=95
+JP: 眠れないとつらいよね～。
+EN: It's rough when you can't sleep, huh...?
+
+@1BBE4 max=95
+JP: 昼ねしてんだろ。
+EN: You nap all day, don't you?
+
+@1BC44 max=95
+JP: ボク眠れるぅ。
+EN: I can sleeeep.
+
+@1BCA4 max=95
+JP: 写真写りいいほう？
+EN: Do you look good in photos?
+
+@1BD04 max=95
+JP: もとがいいもんね～。
+EN: Well, you're good-looking to start with.
+
+@1BD64 max=95
+JP: うぬぼれやだな。
+EN: Ugh, so full of yourself.
+
+@1BDC4 max=95
+JP: 写真撮りたいぃ。
+EN: I wanna take a photooo.
+
+@1BE24 max=95
+JP: 残念ね～。
+EN: Aww, that's too bad.
+
+@1BE84 max=95
+JP: そのまま写ってるよ。
+EN: That's just how you look.
+
+@1BEE4 max=95
+JP: 写真撮りたいぃ。
+EN: I wanna take a photooo.
+
+@1BF44 max=95
+JP: 豆腐のビニールってうまく開かないよね？
+EN: That plastic film on tofu packs never opens right, does it?
+
+@1BFA4 max=95
+JP: 包丁使うしかないよね～。
+EN: You just have to use a knife, huh?
+
+@1C004 max=95
+JP: 料理なんかするのか。
+EN: You actually cook?
+
+@1C064 max=95
+JP: お豆腐大好きぃ。
+EN: I looove tofu.
+
+@1C0C4 max=95
+JP: 包丁使うのか～。
+EN: Ohhh, you use a knife.
+
+@1C124 max=95
+JP: 料理なんかするのか。
+EN: You actually cook?
+
+@1C184 max=95
+JP: お豆腐大好きぃ。
+EN: I looove tofu.
+
+@1C1E4 max=95
+JP: 何か免許持っている？
+EN: Do you have any licenses?
+
+@1C244 max=95
+JP: そうか、すごいね～。
+EN: Ohhh, that's impressive.
+
+@1C2A4 max=95
+JP: 役にたってるのか。
+EN: Do you ever use it?
+
+@1C304 max=95
+JP: 免許って何ぃ？
+EN: What's a license, anywayyy?
+
+@1C364 max=95
+JP: そうか、まだか～。
+EN: Ohhh, no license yet, huh?
+
+@1C3C4 max=95
+JP: 才能ないんだろ。
+EN: Guess you don't have the talent.
+
+@1C424 max=95
+JP: 免許って何ぃ？
+EN: What's a license, anywayyy?
+
+@1C484 max=95
+JP: 夏でもお風呂は湯船？
+EN: Do you soak in the tub even in summer?
+
+@1C4E4 max=95
+JP: 美容にいいものね～。
+EN: It's good for your skin, after all.
+
+@1C544 max=95
+JP: オレも湯船。
+EN: I soak in the tub too.
+
+@1C5A4 max=95
+JP: 沈んじゃうよぉ。
+EN: I'd siiink.
+
+@1C604 max=95
+JP: 暑いもんね～。
+EN: It is pretty hot, huh?
+
+@1C664 max=95
+JP: オレは湯船。
+EN: I soak in the tub.
+
+@1C6C4 max=95
+JP: 沈んじゃうよぉ。
+EN: I'd siiink.
+
+@1C724 max=95
+JP: 紅茶にマーマレード入れるとおいしいよね？
+EN: Marmalade tastes great in tea, doesn't it?
+
+@1C784 max=95
+JP: ちょっと色が変わるんだよね。
+EN: It changes the color a little, too.
+
+@1C7E4 max=95
+JP: 気取ってるな。
+EN: Well, aren't you fancy.
+
+@1C844 max=95
+JP: おいしいよ～。
+EN: It's sooo tasty.
+
+@1C8A4 max=95
+JP: ジャムでもおいしいよ。
+EN: Jam tastes good in it too.
+
+@1C904 max=95
+JP: 気取ってるな。
+EN: Well, aren't you fancy.
+
+@1C964 max=95
+JP: おいしいよ～。
+EN: It's sooo tasty.
+
+@1C9C4 max=95
+JP: 朝ごはんには納豆だよね～？
+EN: Breakfast means natto, right?
+
+@1CA24 max=95
+JP: だよね～納豆だよね～。
+EN: Riiight? Gotta have natto.
+
+@1CA84 max=95
+JP: 納豆、うまいよな。
+EN: Natto's good stuff.
+
+@1CAE4 max=95
+JP: 納豆おいしいよぉ。
+EN: Natto's sooo yummy.
+
+@1CB44 max=95
+JP: 納豆、嫌いなの～。
+EN: You don't like nattooo?
+
+@1CBA4 max=95
+JP: 納豆、うまいのに。
+EN: But natto's so good.
+
+@1CC04 max=95
+JP: 納豆おいしいよぉ。
+EN: Natto's sooo yummy.
+
+@1CC64 max=95
+JP: カキフライは好き？
+EN: Do you like fried oysters?
+
+@1CCC4 max=95
+JP: おいしいよね～。
+EN: They're sooo good, huh?
+
+@1CD24 max=95
+JP: カキは生だろ。
+EN: Oysters are best raw.
+
+@1CD84 max=95
+JP: カキ、おいしいよぉ。
+EN: Oysters are sooo yummy.
+
+@1CDE4 max=95
+JP: 嫌いなのか～。
+EN: Oh, you don't like them, huh?
+
+@1CE44 max=95
+JP: カキは生だろ。
+EN: Oysters are best raw.
+
+@1CEA4 max=95
+JP: カキ、おいしいよぉ。
+EN: Oysters are sooo yummy.
+
+@1CF04 max=95
+JP: 海賊ってかっこいいよね？
+EN: Pirates are cool, aren't they?
+
+@1CF64 max=95
+JP: 素敵だよね～。
+EN: So dreamy, huh?
+
+@1CFC4 max=95
+JP: オレのほうがかっこいいぜ。
+EN: I'm way cooler.
+
+@1D024 max=95
+JP: 誰それ？
+EN: Who's that?
+
+@1D084 max=95
+JP: あら、好みじゃないのね～。
+EN: Oh, not your type, huh?
+
+@1D0E4 max=95
+JP: オレのほうがかっこいいぜ。
+EN: I'm way cooler.
+
+@1D144 max=95
+JP: 誰それ？
+EN: Who's that?
+
+@1D1A4 max=95
+JP: メモはとるほう？
+EN: Do you usually take notes?
+
+@1D204 max=95
+JP: 忘れちゃうもんね～。
+EN: It's easy to forget things, huh?
+
+@1D264 max=95
+JP: 記憶力ないんだろ。
+EN: Your memory's lousy, huh?
+
+@1D2C4 max=95
+JP: メモとるよぉ。
+EN: I take notes!
+
+@1D324 max=95
+JP: あ、記憶力抜群ね～。
+EN: Oh, you must have a great memory!
+
+@1D384 max=95
+JP: 面倒なんだろ。
+EN: You just can't be bothered, huh?
+
+@1D3E4 max=95
+JP: メモとるよぉ。
+EN: I take notes!
+
+@1D444 max=95
+JP: 相撲、見に行ったことある？
+EN: Ever been to a sumo match?
+
+@1D4A4 max=95
+JP: いいなぁ、行ったんだ～。
+EN: Lucky you! You've actually been!
+
+@1D504 max=95
+JP: プロレスのほうがいいだろ。
+EN: Pro wrestling's better, right?
+
+@1D564 max=95
+JP: お相撲さん、かっこいい。
+EN: Sumo wrestlers are so cool!
+
+@1D5C4 max=95
+JP: 一度観たいよね～。
+EN: I'd love to see it sometime, too.
+
+@1D624 max=95
+JP: プロレスのほうがいいだろ。
+EN: Pro wrestling's better, right?
+
+@1D684 max=95
+JP: お相撲さん、かっこいい。
+EN: Sumo wrestlers are so cool!
+
+@1D6E4 max=95
+JP: 時々、友達づきあいが面倒になるよね？
+EN: Keeping up with friends feels like a chore sometimes, huh?
+
+@1D744 max=95
+JP: でもいないと寂しいよね。
+EN: But it's lonely without them, huh?
+
+@1D7A4 max=95
+JP: 友達なんていなくて結構。
+EN: I'm just fine without friends.
+
+@1D804 max=95
+JP: 友達大好きぃ。
+EN: I love my friends!
+
+@1D864 max=95
+JP: あ、いいね～、社交的なのね。
+EN: Oh, that's nice! You're a social butterfly.
+
+@1D8C4 max=95
+JP: 友達なんていなくて結構。
+EN: I'm just fine without friends.
+
+@1D924 max=95
+JP: 友達大好きぃ。
+EN: I love my friends!
+
+@1D984 max=95
+JP: 梅雨時の晴れ間って素敵だよね？
+EN: A bit of sunshine in the rainy season is lovely, isn't it?
+
+@1D9E4 max=95
+JP: いいよね～。
+EN: It's so nice, huh?
+
+@1DA44 max=95
+JP: 湿気さえなければな。
+EN: If only it weren't so humid.
+
+@1DAA4 max=95
+JP: 雨も楽しいよぉ。
+EN: Rain's fun, too!
+
+@1DB04 max=95
+JP: 雨もいいけどね～。
+EN: Rain can be nice, too, though.
+
+@1DB64 max=95
+JP: 湿気がいやだな。
+EN: I hate the humidity.
+
+@1DBC4 max=95
+JP: 雨も楽しいよぉ。
+EN: Rain's fun, too!
+
+@1DC24 max=95
+JP: 自転車乗れる？
+EN: Can you ride a bike?
+
+@1DC84 max=95
+JP: そりゃ、乗れるよね～。
+EN: Of course you can, huh?
+
+@1DCE4 max=95
+JP: あんなもの乗らなくていいよ。
+EN: Who needs to ride one of those things?
+
+@1DD44 max=95
+JP: 自転車、楽しいよねぇ。
+EN: Riding a bike is fun, huh?
+
+@1DDA4 max=95
+JP: 練習しなくちゃね。
+EN: You'll have to practice.
+
+@1DE04 max=95
+JP: あんなもの乗らなくていいよ。
+EN: Who needs to ride one of those things?
+
+@1DE64 max=95
+JP: 自転車、楽しいよぉ。
+EN: Bikes are so much fun!
+
+@1DEC4 max=95
+JP: 朝、鳥の鳴き声が聞こえると嬉しいよね？
+EN: Isn't it nice to hear birds singing in the morning?
+
+@1DF24 max=95
+JP: さわやかだよね～。
+EN: Such a refreshing way to start the day!
+
+@1DF84 max=95
+JP: カラスじゃいやだよ。
+EN: Not if it's crows.
+
+@1DFE4 max=95
+JP: すずめがいいよねぇ。
+EN: Sparrows are nice, huh?
+
+@1E044 max=95
+JP: 鳥、嫌いなのかな～。
+EN: Maybe you're not a bird person?
+
+@1E0A4 max=95
+JP: カラスじゃいやだよな。
+EN: Not crows, though, right?
+
+@1E104 max=95
+JP: すずめがいいよねぇ。
+EN: Sparrows are nice, huh?
+
+@1E164 max=95
+JP: フライドポテトは好き？
+EN: Do you like fries?
+
+@1E1C4 max=95
+JP: たまに無性に食べたくなるよね～。
+EN: Sometimes you just get a huge craving for them, huh?
+
+@1E224 max=95
+JP: 芋は嫌いだ。
+EN: I hate potatoes.
+
+@1E284 max=95
+JP: ボク、大好きぃ。
+EN: I looove them!
+
+@1E2E4 max=95
+JP: 揚げ物、苦手なの～。
+EN: Fried food isn't really my thing.
+
+@1E344 max=95
+JP: 芋は嫌いだ。
+EN: I hate potatoes.
+
+@1E3A4 max=95
+JP: ボク、大好きぃ。
+EN: I looove them!
+
+@1E404 max=95
+JP: 憧れのアイドルはいる？
+EN: Is there a pop idol you look up to?
+
+@1E464 max=95
+JP: アイドル、夢があるよね～。
+EN: Pop idols give you something to dream about, huh?
+
+@1E4C4 max=95
+JP: やっぱり夢だよ。
+EN: Dreams are what matter.
+
+@1E524 max=95
+JP: 素敵だよぉ。
+EN: That's wooonderful.
+
+@1E584 max=95
+JP: 現実主義なのね～。
+EN: You're a realist, huh?
+
+@1E5E4 max=95
+JP: やっぱり夢だよな。
+EN: Gotta have dreams, right?
+
+@1E644 max=95
+JP: 素敵だよぉ。
+EN: That's wooonderful.
+
+@1E6A4 max=95
+JP: 写真撮るときチーズって言う？
+EN: Do you say "cheese" when someone takes your picture?
+
+@1E704 max=95
+JP: にっこり写るもんね～。
+EN: It brings out your smile, huh?
+
+@1E764 max=95
+JP: にぎりめしって言うんだよ。
+EN: I say "rice balls."
+
+@1E7C4 max=95
+JP: ケーキって言うんだよぉ。
+EN: I say "cake."
+
+@1E824 max=95
+JP: あ、ウィスキーっていうの～。
+EN: Oh, I say "whiskey."
+
+@1E884 max=95
+JP: にぎりめしって言うんだよ。
+EN: I say "rice balls."
+
+@1E8E4 max=95
+JP: ケーキって言うんだよぉ。
+EN: I say "cake."
+
+@1E944 max=95
+JP: 一日、誰からもメールがこないと寂しいよね？
+EN: It's lonely when you go a whole day without getting any email, right?
+
+@1E9A4 max=95
+JP: つい、ばんばん送っちゃうよね～。
+EN: You end up sending loads yourself, huh?
+
+@1EA04 max=95
+JP: 寂しがりやだな。
+EN: You get lonely easily, huh?
+
+@1EA64 max=95
+JP: メールこないと寂しいよぉ。
+EN: I get sooo lonely without any email.
+
+@1EAC4 max=95
+JP: あ、会っているからいいのか～。
+EN: Oh, you see them in person, so it's fine, huh?
+
+@1EB24 max=95
+JP: 強がりだな。
+EN: You're just putting on a brave face.
+
+@1EB84 max=95
+JP: メールこないと寂しいよぉ。
+EN: I get sooo lonely without any email.
+
+@1EBE4 max=95
+JP: 紫外線対策している？
+EN: Do you protect your skin from the sun?
+
+@1EC44 max=95
+JP: きれいな肌だもんね～。
+EN: You do have lovely skin.
+
+@1ECA4 max=95
+JP: 少しは外に出てもいいんじゃない。
+EN: You could stand to go outside a little.
+
+@1ED04 max=95
+JP: 日光浴大好きぃ。
+EN: I looove sunbathing!
+
+@1ED64 max=95
+JP: 年取ってからしみになるよ～。
+EN: You'll get age spots when you're older.
+
+@1EDC4 max=95
+JP: オレなんかもうしみだらけ。
+EN: I'm already covered in spots.
+
+@1EE24 max=95
+JP: 日光浴大好きぃ。
+EN: I looove sunbathing!
+
+@1EE84 max=95
+JP: 青汁好き？
+EN: Do you like green juice?
+
+@1EEE4 max=95
+JP: わ～好きなんだ～。
+EN: Wow, you actually like it!
+
+@1EF44 max=95
+JP: 身体にはいいんだよ。
+EN: It is good for you.
+
+@1EFA4 max=95
+JP: 飲めないよぉ。
+EN: I can't drink that stuff!
+
+@1F004 max=95
+JP: やっぱりまずいもんね～。
+EN: It does taste awful, huh?
+
+@1F064 max=95
+JP: 身体にはいいんだよ。
+EN: It is good for you.
+
+@1F0C4 max=95
+JP: 飲めないよぉ。
+EN: I can't drink that stuff!
+
+@1F124 max=95
+JP: イソフラボンって知ってる？
+EN: Have you heard of isoflavones?
+
+@1F184 max=95
+JP: 健康に気をつけているのね～。
+EN: You really look after your health, huh?
+
+@1F1E4 max=95
+JP: なんだそりゃ。
+EN: What the heck are those?
+
+@1F244 max=95
+JP: 怪獣？
+EN: Are they monsters?
+
+@1F2A4 max=95
+JP: 女性ホルモン作用を持つ天然成分のことだよ～。
+EN: They're natural compounds that act like the hormone estrogen.
+
+@1F304 max=95
+JP: なんだそりゃ。
+EN: What the heck are those?
+
+@1F364 max=95
+JP: 怪獣？
+EN: Are they monsters?
+
+@1F3C4 max=95
+JP: 新宿には行ったことある？
+EN: Have you ever been to Shinjuku?
+
+@1F424 max=95
+JP: デパートたくさんで楽しいよね～。
+EN: All those department stores make it so much fun!
+
+@1F484 max=95
+JP: ゲーセンが楽しいんだよ。
+EN: The arcades are great.
+
+@1F4E4 max=95
+JP: おいしいお店たくさんだよぉ。
+EN: There are sooo many great places to eat!
+
+@1F544 max=95
+JP: デパートたくさんで楽しいよ～。
+EN: So many department stores! What fun!
+
+@1F5A4 max=95
+JP: ゲーセンが楽しいんだよ。
+EN: The arcades are great.
+
+@1F604 max=95
+JP: おいしいお店たくさんだよぉ。
+EN: There are sooo many great places to eat!
+
+@1F664 max=95
+JP: アキレス腱切ると痛いんだってね？
+EN: I hear tearing your Achilles tendon hurts. Is that true?
+
+@1F6C4 max=95
+JP: 大人でも泣いちゃうってね～。
+EN: They say even grown-ups cry!
+
+@1F724 max=95
+JP: オレのアキレス腱ってどこ？
+EN: Where's my Achilles tendon?
+
+@1F784 max=95
+JP: ボクのは？
+EN: Where's mine?
+
+@1F7E4 max=95
+JP: ええ～痛いらしいよ～。
+EN: Really? I hear it hurts...
+
+@1F844 max=95
+JP: オレのアキレス腱ってどこ？
+EN: Where's my Achilles tendon?
+
+@1F8A4 max=95
+JP: ボクのは？
+EN: Where's mine?
+
+@1F904 max=95
+JP: ケイタイの待ちうけ画面って恋人？
+EN: Is your sweetheart your phone wallpaper?
+
+@1F964 max=95
+JP: やっぱり、恋人だよね～。
+EN: Of course! Who else would it be?
+
+@1F9C4 max=95
+JP: 普通、キャラものでしょ。
+EN: Most people use a cartoon character, right?
+
+@1FA24 max=95
+JP: ボクは、猫。
+EN: Mine's a cat.
+
+@1FA84 max=95
+JP: あ、ペットの写真か～。
+EN: Oh, a photo of your pet!
+
+@1FAE4 max=95
+JP: 普通、キャラものでしょ。
+EN: Most people use a cartoon character, right?
+
+@1FB44 max=95
+JP: ボクは、猫。
+EN: Mine's a cat.
+
+@1FBA4 max=95
+JP: 貯金している？
+EN: Are you saving up?
+
+@1FC04 max=95
+JP: わ～えらいな、何買うの～？
+EN: Wow, good for you! What are you buying?
+
+@1FC64 max=95
+JP: 老後のことも考えな。
+EN: Gotta think about retirement, too.
+
+@1FCC4 max=95
+JP: ボク５００円玉貯金。
+EN: I save my 500-yen coins.
+
+@1FD24 max=95
+JP: まだまだ使うほうが多いよね～。
+EN: Still spending more than you save, huh?
+
+@1FD84 max=95
+JP: 老後のことも考えな。
+EN: Gotta think about retirement, too.
+
+@1FDE4 max=95
+JP: ボク５００円玉貯金。
+EN: I save my 500-yen coins.
+
+@1FE44 max=95
+JP: 電球って、買い置きがないとき切れるよね？
+EN: Light bulbs always burn out when you have no spares, don't they?
+
+@1FEA4 max=95
+JP: なんでだろうね、そうだよね～。
+EN: They do! Why is that?
+
+@1FF04 max=95
+JP: 蛍光灯もな。
+EN: Fluorescent lights, too.
+
+@1FF64 max=95
+JP: ろうそくが好きぃ。
+EN: I like candles.
+
+@1FFC4 max=95
+JP: えらい、いつも買い置きあるのね～。
+EN: Good for you! You always keep spares!
+
+@20024 max=95
+JP: 蛍光灯もな。
+EN: Fluorescent lights, too.
+
+@20084 max=95
+JP: ろうそくが好きぃ。
+EN: I like candles.
+
+@200E4 max=95
+JP: 犬は好き？
+EN: Do you like dogs?
+
+@20144 max=95
+JP: 可愛いよね～。
+EN: They're so cute!
+
+@201A4 max=95
+JP: 犬なら柴犬だろ。
+EN: Shiba Inus are the best.
+
+@20204 max=95
+JP: ボク、チワワ。
+EN: I like Chihuahuas.
+
+@20264 max=95
+JP: あ、猫派なのね～。
+EN: Oh, you're a cat person!
+
+@202C4 max=95
+JP: 犬なら柴犬だろ。
+EN: Shiba Inus are the best.
+
+@20324 max=95
+JP: ボク、チワワ。
+EN: I like Chihuahuas.
+
+@20384 max=95
+JP: 歯医者さん、いやだよね？
+EN: Don't you hate going to the dentist?
+
+@203E4 max=95
+JP: 音がいやだよね～。
+EN: That drill sounds awful, huh?
+
+@20444 max=95
+JP: 抜くのがいやなんだよ。
+EN: I hate getting teeth pulled.
+
+@204A4 max=95
+JP: 注射がいやぁ。
+EN: I hate the shots!
+
+@20504 max=95
+JP: あ、大丈夫なんだ～。
+EN: Oh, it doesn't bother you?
+
+@20564 max=95
+JP: 抜くのがいやなんだよ。
+EN: I hate getting teeth pulled.
+
+@205C4 max=95
+JP: 注射がいやぁ。
+EN: I hate the shots!
+
+@20624 max=95
+JP: 電報打ったことある？
+EN: Have you ever sent a telegram?
+
+@20684 max=95
+JP: もらうと嬉しいよね～。
+EN: It's nice getting one, isn't it?
+
+@206E4 max=95
+JP: いまどき電報かい。
+EN: A telegram? In this day and age?
+
+@20744 max=95
+JP: サクラサク。
+EN: YOU PASSED! STOP.
+
+@207A4 max=95
+JP: もらうと嬉しいものらしいよ～。
+EN: I hear they're lovely to receive!
+
+@20804 max=95
+JP: いまどき電報かい。
+EN: A telegram? In this day and age?
+
+@20864 max=95
+JP: サクラサク。
+EN: YOU PASSED! STOP.
+
+@208C4 max=95
+JP: パンよりご飯が好き？
+EN: Do you like rice more than bread?
+
+@20924 max=95
+JP: だよね～、ご飯だよね～。
+EN: Me too! Rice all the way!
+
+@20984 max=95
+JP: やっぱりご飯でしょ。
+EN: Rice is the obvious choice.
+
+@209E4 max=95
+JP: サンドイッチ大好きぃ。
+EN: I love sandwiches!
+
+@20A44 max=95
+JP: あ、パン派なのね～。
+EN: Oh, so you're a bread person.
+
+@20AA4 max=95
+JP: やっぱりご飯でしょ。
+EN: Rice is the obvious choice.
+
+@20B04 max=95
+JP: サンドイッチ大好きぃ。
+EN: I love sandwiches!
+
+@20B64 max=95
+JP: 牛乳好き？
+EN: Do you like milk?
+
+@20BC4 max=95
+JP: やっぱり牛乳だよね～。
+EN: Milk's the best, huh?
+
+@20C24 max=95
+JP: 牛乳飲むと大きくなれるぞ。
+EN: Drink milk and you'll grow big and strong.
+
+@20C84 max=95
+JP: ボクお腹壊しちゃうんだよ。
+EN: It gives me a tummy ache.
+
+@20CE4 max=95
+JP: そうか～ダメなのか～。
+EN: Ohhh, so it's not for you.
+
+@20D44 max=95
+JP: 牛乳飲まないと大きくなれないぞ。
+EN: You won't grow big if you don't drink milk.
+
+@20DA4 max=95
+JP: ボクお腹壊しちゃうんだよ。
+EN: It gives me a tummy ache.
+
+@20E04 max=95
+JP: 味噌汁といったらワカメだよね？
+EN: Miso soup's gotta have wakame seaweed, right?
+
+@20E64 max=95
+JP: だよね～。おいしいよね～。
+EN: Right? It's sooo good.
+
+@20EC4 max=95
+JP: オレは豆腐。
+EN: I like tofu in mine.
+
+@20F24 max=95
+JP: ボク、アサリぃ。
+EN: Clams for meee.
+
+@20F84 max=95
+JP: あ、じゃナメコかな。
+EN: Oh, then maybe nameko mushrooms?
+
+@20FE4 max=95
+JP: オレは豆腐。
+EN: I like tofu in mine.
+
+@21044 max=95
+JP: ボク、アサリぃ。
+EN: Clams for meee.
+
+@210A4 max=95
+JP: 迷惑メールって迷惑だよね？
+EN: Junk mail's such a nuisance, huh?
+
+@21104 max=95
+JP: いやだよね～、取り締まって欲しいよね～。
+EN: It's so annoying. I wish someone would crack down on it.
+
+@21164 max=95
+JP: 次から次へと来るよな。
+EN: It just keeps coming.
+
+@211C4 max=95
+JP: 迷惑メールって何？
+EN: What's junk mail?
+
+@21224 max=95
+JP: あ、別に気にしないのか～。
+EN: Oh, so it doesn't really bother you.
+
+@21284 max=95
+JP: 次から次へと来るよな。
+EN: It just keeps coming.
+
+@212E4 max=95
+JP: 迷惑メールって何？
+EN: What's junk mail?
+
+@21344 max=95
+JP: 徹夜したことある？
+EN: Ever pulled an all-nighter?
+
+@213A4 max=95
+JP: なんか、楽しいよね～。
+EN: It's kind of fun, huh?
+
+@21404 max=95
+JP: しょっちゅう徹夜しているよ。
+EN: I pull all-nighters all the time.
+
+@21464 max=95
+JP: ９時には寝ちゃうよぉ。
+EN: I'm asleep by niiine.
+
+@214C4 max=95
+JP: そうだよね～、夜は寝ないとね～。
+EN: Yeah, nighttime's for sleeping.
+
+@21524 max=95
+JP: しょっちゅう徹夜しているよ。
+EN: I pull all-nighters all the time.
+
+@21584 max=95
+JP: ９時には寝ちゃうよぉ。
+EN: I'm asleep by niiine.
+
+@215E4 max=95
+JP: 宝くじに当たったことある？
+EN: Ever won the lottery?
+
+@21644 max=95
+JP: わ～運がいいんだね～。
+EN: Wow, you're sooo lucky!
+
+@216A4 max=95
+JP: どうせはした金だろ。
+EN: Bet it was peanuts anyway.
+
+@21704 max=95
+JP: ロトが好きぃ。
+EN: I like playing Lottooo.
+
+@21764 max=95
+JP: なかなか当たらないよね～。
+EN: It's so hard to win, huh?
+
+@217C4 max=95
+JP: 当たらないんだよ。
+EN: You never win.
+
+@21824 max=95
+JP: ロトが好きぃ。
+EN: I like playing Lottooo.
+
+@21884 max=95
+JP: 血液型の性格診断、信じる？
+EN: Do you believe your blood type tells your personality?
+
+@218E4 max=95
+JP: けっこう、当たるよね～。
+EN: It's pretty accurate, huh?
+
+@21944 max=95
+JP: オレＯ型。
+EN: I'm type O.
+
+@219A4 max=95
+JP: ボク、Ｂ型。
+EN: I'm type B.
+
+@21A04 max=95
+JP: そうだよね～、たった４種類だもんね～。
+EN: Yeah, there are only four types, after all.
+
+@21A64 max=95
+JP: オレＯ型。
+EN: I'm type O.
+
+@21AC4 max=95
+JP: ボク、Ｂ型。
+EN: I'm type B.
+
+@21B24 max=95
+JP: 神社に行くとおみくじ引く？
+EN: Do you draw a fortune slip when you visit a shrine?
+
+@21B84 max=95
+JP: けっこう楽しいよね～。
+EN: It's pretty fun, huh?
+
+@21BE4 max=95
+JP: 当たらないよ。
+EN: They never come true.
+
+@21C44 max=95
+JP: おみくじ大好きぃ。
+EN: I looove fortune slips.
+
+@21CA4 max=95
+JP: けっこう楽しいんだけどな～。
+EN: But they're pretty fun...
+
+@21D04 max=95
+JP: 当たらないよ。
+EN: They never come true.
+
+@21D64 max=95
+JP: おみくじ大好きぃ。
+EN: I looove fortune slips.
+
+@21DC4 max=95
+JP: 消しゴム、最後まで使ったことある？
+EN: Ever used an eraser right down to the end?
+
+@21E24 max=95
+JP: すごいな～えらいね～。
+EN: Wow, good for you! That's impressive.
+
+@21E84 max=95
+JP: もったいねえもんな。
+EN: That'd be a waste, after all.
+
+@21EE4 max=95
+JP: いつもなくしちゃうんだよぉ。
+EN: I always end up losing it...
+
+@21F44 max=95
+JP: ないよね～使えないよね～。
+EN: No way, right? You couldn't use it, right?
+
+@21FA4 max=95
+JP: もったいねえな。
+EN: What a waste.
+
+@22004 max=95
+JP: いつもなくしちゃうんだよぉ。
+EN: I always end up losing it...
+
+@22064 max=95
+JP: お風呂に入ると最初に洗うのは顔？
+EN: When you take a bath, do you wash your face first?
+
+@220C4 max=95
+JP: だよね～まず、クレンジングだよね～。
+EN: Right? Gotta start with a good face cleanse.
+
+@22124 max=95
+JP: オレは頭から。
+EN: I start with my head.
+
+@22184 max=95
+JP: ボク、クビからぁ。
+EN: I start with my neeck.
+
+@221E4 max=95
+JP: あ、腕から洗うのね～
+EN: Oh, you start with your arms.
+
+@22244 max=95
+JP: オレは頭から。
+EN: I start with my head.
+
+@222A4 max=95
+JP: ボク、クビからぁ。
+EN: I start with my neeck.
+
+@22304 max=95
+JP: 家ではジャージ？
+EN: Do you wear sweats at home?
+
+@22364 max=95
+JP: らくだもんね～。
+EN: They're sooo comfy.
+
+@223C4 max=95
+JP: オレはハダカ。
+EN: I just go naked.
+
+@22424 max=95
+JP: ボクもハダカ。
+EN: Me too. Naked.
+
+@22484 max=95
+JP: あ、短パンでしょ～。
+EN: Oh, I bet you wear shorts.
+
+@224E4 max=95
+JP: オレはハダカ。
+EN: I just go naked.
+
+@22544 max=95
+JP: ボクもハダカ。
+EN: Me too. Naked.
+
+@225A4 max=95
+JP: 耳の後ろっていつの間にか<n>日焼けしているよね？
+EN: The backs of your ears get sunburned<n>before you know it, huh?
+
+@22604 max=95
+JP: あ！というときはもう遅いんだよね。
+EN: By the time you notice, it's too late.
+
+@22664 max=95
+JP: いつのまにか皮がむけているよ。
+EN: Mine start peeling before I even notice.
+
+@226C4 max=95
+JP: むけてる～。
+EN: All peeely.
+
+@22724 max=95
+JP: ちゃんとケアしているのね。
+EN: You take good care of your skin, huh?
+
+@22784 max=95
+JP: いつのまにか皮がむけているよ。
+EN: Mine start peeling before I even notice.
+
+@227E4 max=95
+JP: むけてる～。
+EN: All peeely.
+
+@22844 max=95
+JP: 連ドラは好き？
+EN: Do you like TV dramas?
+
+@228A4 max=95
+JP: ついつい感情移入しちゃうよね～。
+EN: You get sooo caught up in the characters' lives.
+
+@22904 max=95
+JP: ドラマ、つまんないよ。
+EN: Dramas are boring.
+
+@22964 max=95
+JP: ボク、クイズが好きぃ。
+EN: I like quiz shows.
+
+@229C4 max=95
+JP: あまり観ないのね～。
+EN: You don't watch them much, huh?
+
+@22A24 max=95
+JP: ドラマ、つまんないもんな。
+EN: Dramas are boring, after all.
+
+@22A84 max=95
+JP: ボク、クイズが好きぃ。
+EN: I like quiz shows.
+
+@22AE4 max=95
+JP: じゅげむじゅげむ、全部言える？
+EN: Can you recite that whole long 'Jugemu Jugemu' name?
+
+@22B44 max=95
+JP: わ～覚えているんだ～。
+EN: Wow, you know it by heart!
+
+@22BA4 max=95
+JP: オレも全部言えるぞ。
+EN: I can say the whole thing too!
+
+@22C04 max=95
+JP: ボクも言えるよぉ。
+EN: I can say it tooo.
+
+@22C64 max=95
+JP: 長くて覚えられないよね～。
+EN: It's sooo long. Who could remember all that?
+
+@22CC4 max=95
+JP: オレは全部言えるぞ。
+EN: I can say the whole thing!
+
+@22D24 max=95
+JP: ボクも言えるよぉ。
+EN: I can say it tooo.
+
+@22D84 max=95
+JP: かりんとうは好き？
+EN: Do you like karinto, those crunchy brown sugar snacks?
+
+@22DE4 max=95
+JP: おいしいよね～素朴で。
+EN: They're sooo good. Simple, old-fashioned treats.
+
+@22E44 max=95
+JP: かりんとう、うまいよな。
+EN: Karinto's good stuff.
+
+@22EA4 max=95
+JP: かりんとう、大好き。
+EN: I love karinto.
+
+@22F04 max=95
+JP: 和風より洋風のお菓子が好きなのね～。
+EN: You like Western sweets better than Japanese ones, huh?
+
+@22F64 max=95
+JP: かりんとう、うまいぞ。
+EN: Karinto's really good!
+
+@22FC4 max=95
+JP: かりんとう、大好き。
+EN: I love karinto.
+
+@23024 max=95
+JP: 赤ちゃんって可愛いよね？
+EN: Babies are cute, aren't they?
+
+@23084 max=95
+JP: 可愛いよね～、人間も、動物も。
+EN: Sooo cute! Human babies, baby animals... All of them!
+
+@230E4 max=95
+JP: サルみたいだよ。
+EN: They look like monkeys.
+
+@23144 max=95
+JP: 赤ちゃん、可愛いぃ。
+EN: Babies are sooo cute.
+
+@231A4 max=95
+JP: あ、あまり子供好きじゃないのね～。
+EN: Oh, you're not really a kid person, huh?
+
+@23204 max=95
+JP: サルみたいだよな。
+EN: They look like little monkeys.
+
+@23264 max=95
+JP: 赤ちゃん、可愛いぃ。
+EN: Babies are sooo cute.
+
+@232C4 max=95
+JP: 氷イチゴっておいしいよね？
+EN: Strawberry shaved ice is yummy, isn't it?
+
+@23324 max=95
+JP: あのピンクがいいよね～。
+EN: That pink color is so nice, too.
+
+@23384 max=95
+JP: オレは練乳がけ。
+EN: I like mine with condensed milk.
+
+@233E4 max=95
+JP: ボク、メロン。
+EN: I like melon.
+
+@23444 max=95
+JP: あ、宇治金時派なのね～。
+EN: Oh, you're a green tea and red bean fan, huh?
+
+@234A4 max=95
+JP: オレは練乳がけ。
+EN: I like mine with condensed milk.
+
+@23504 max=95
+JP: ボク、メロン。
+EN: I like melon.
+
+@23564 max=95
+JP: うたた寝って気持ちいいよね？
+EN: Isn't dozing off just lovely?
+
+@235C4 max=95
+JP: こう、ふわっと眠るのね～。
+EN: You just sort of drift off...
+
+@23624 max=95
+JP: オレはしょっちゅう、うたた寝。
+EN: I doze off all the time.
+
+@23684 max=95
+JP: ボク、お昼寝。
+EN: I take naps.
+
+@236E4 max=95
+JP: あ、夜眠れなくなっちゃうのね～。
+EN: Oh, then you can't sleep at night, huh?
+
+@23744 max=95
+JP: オレはしょっちゅう、うたた寝。
+EN: I doze off all the time.
+
+@237A4 max=95
+JP: ボク、お昼寝。
+EN: I take naps.
+
+@23804 max=95
+JP: 金魚すくいしたことある？
+EN: Ever tried scooping goldfish at a festival?
+
+@23864 max=95
+JP: 屋台でね～楽しいよね～。
+EN: At those little stalls... It's so much fun.
+
+@238C4 max=95
+JP: 金魚がかわいそうだよ。
+EN: I feel sorry for the goldfish.
+
+@23924 max=95
+JP: 金魚、可愛い。
+EN: Goldfish are cute.
+
+@23984 max=95
+JP: 飼えないもんね～。
+EN: You can't keep them, huh?
+
+@239E4 max=95
+JP: 金魚がかわいそうだしな。
+EN: Besides, it's rough on the goldfish.
+
+@23A44 max=95
+JP: 金魚、可愛い。
+EN: Goldfish are cute.
+
+@23AA4 max=95
+JP: 便秘症？
+EN: Do you get constipated?
+
+@23B04 max=95
+JP: つらいよね～、なんとかしたいよね～。
+EN: It's awful, huh? Wish there was a way to fix it.
+
+@23B64 max=95
+JP: オレ、慢性便秘。
+EN: I'm always backed up.
+
+@23BC4 max=95
+JP: ボク、下痢。
+EN: I get the runs.
+
+@23C24 max=95
+JP: お、快便、いいね～。
+EN: Oh, you're nice and regular? Lucky you.
+
+@23C84 max=95
+JP: オレ、慢性便秘。
+EN: I'm always backed up.
+
+@23CE4 max=95
+JP: ボク、下痢。
+EN: I get the runs.
+
+@23D44 max=95
+JP: 髪の毛、長いのが好き？
+EN: Do you like long hair?
+
+@23DA4 max=95
+JP: さらっと素敵だよね～。
+EN: It's so silky and lovely, isn't it?
+
+@23E04 max=95
+JP: オレはショートが好きだぜ。
+EN: I like short hair.
+
+@23E64 max=95
+JP: ボク、よくわかんない。
+EN: I dunno.
+
+@23EC4 max=95
+JP: ショートがいいのね～。
+EN: So you like short hair, huh?
+
+@23F24 max=95
+JP: オレはショートが好きだぜ。
+EN: I like short hair.
+
+@23F84 max=95
+JP: ボク、よくわかんない。
+EN: I dunno.
+
+@23FE4 max=95
+JP: また話しかけてくれる？
+EN: Will you come chat with us again?
+
+@24044 max=95
+JP: ありがとう、また来てね。
+EN: Thanks! Come back soon.
+
+@240A4 max=95
+JP: おお、また来いよな。
+EN: Yeah, come back sometime.
+
+@24104 max=95
+JP: また来てねぇ。
+EN: Come see us again!
+
+@24164 max=95
+JP: そんなこと言わないで～。
+EN: Aww, don't say that.
+
+@241C4 max=95
+JP: そんなこと言うなよ。
+EN: Hey, don't say that.
+
+@24224 max=95
+JP: また来てねぇ。
+EN: Come see us again!
+
+@24284 max=95
+JP: デジカメ持っている？
+EN: Do you have a digital camera?
+
+@242E4 max=95
+JP: いいな～持ってるんだ。
+EN: Ooh, you do? Lucky you.
+
+@24344 max=95
+JP: オレの５３０万画素。
+EN: Mine's got 5.3 megapixels.
+
+@243A4 max=95
+JP: ガソ？
+EN: Mega... what?
+
+@24404 max=95
+JP: あ、ケイタイカメラで十分だよね～。
+EN: Oh, your phone's camera is all you need, huh?
+
+@24464 max=95
+JP: オレの５３０万画素。
+EN: Mine's got 5.3 megapixels.
+
+@244C4 max=95
+JP: ガソ？
+EN: Mega... what?
+
+@24524 max=95
+JP: ケーキといえばイチゴショートだよね？
+EN: When you think cake, you think strawberry shortcake, right?
+
+@24584 max=95
+JP: やっぱ、そうだよね～。
+EN: Yeah, I knew you'd agree...
+
+@245E4 max=95
+JP: オレ、チョコケーキ。
+EN: Chocolate cake for me.
+
+@24644 max=95
+JP: ボク、イチゴ！
+EN: I like strawberry!
+
+@246A4 max=95
+JP: ひょっとしてモンブラン？
+EN: Or maybe Mont Blanc chestnut cake?
+
+@24704 max=95
+JP: オレ、チョコケーキ。
+EN: Chocolate cake for me.
+
+@24764 max=95
+JP: ボク、イチゴ！
+EN: I like strawberry!
+
+@247C4 max=95
+JP: 釘を打つと曲がっちゃうよね？
+EN: Nails always bend when you hammer them in, right?
+
+@24824 max=95
+JP: ね～曲がっちゃうよね～。
+EN: Yeah... They always bend, don't they?
+
+@24884 max=95
+JP: ヘタクソなんだよ。
+EN: You're just lousy at it.
+
+@248E4 max=95
+JP: 釘、打てないぃ。
+EN: I can't hammer nails...
+
+@24944 max=95
+JP: まっすぐ打てるんだ～すごい。
+EN: You can hammer them in straight? Wow...
+
+@249A4 max=95
+JP: 当たり前だよな。
+EN: Well, of course.
+
+@24A04 max=95
+JP: 釘、打てないぃ。
+EN: I can't hammer nails...
+
+@24A64 max=95
+JP: 朝の５分って貴重だよね～？
+EN: Five extra minutes in the morning are precious, huh?
+
+@24AC4 max=95
+JP: ５分でいいから寝てたいよね～。
+EN: Even five more minutes of sleep would be nice...
+
+@24B24 max=95
+JP: オレ、遅刻常習犯。
+EN: Me? I'm always late.
+
+@24B84 max=95
+JP: 朝、いつも眠いよ～。
+EN: I'm always sleepy in the morning...
+
+@24BE4 max=95
+JP: 早起き得意なのね～。
+EN: So you're good at getting up early...
+
+@24C44 max=95
+JP: オレ、遅刻常習犯。
+EN: Me? I'm always late.
+
+@24CA4 max=95
+JP: 朝、いつも眠いよ～。
+EN: I'm always sleepy in the morning...
+
+@24D04 max=95
+JP: 浴衣、着たことある？
+EN: Ever worn a yukata? A light summer kimono?
+
+@24D64 max=95
+JP: そうか～素敵だろうね～。
+EN: Oh... I bet you'd look lovely...
+
+@24DC4 max=95
+JP: 似合いそうだぜ。
+EN: Bet you'd look good in one.
+
+@24E24 max=95
+JP: 似合いそうだよぉ。
+EN: You'd look really nice!
+
+@24E84 max=95
+JP: そうか～一度は着てみたいよね～。
+EN: Oh... It'd be nice to try one on someday, huh?
+
+@24EE4 max=95
+JP: 似合いそうだぜ。
+EN: Bet you'd look good in one.
+
+@24F44 max=95
+JP: 似合いそうだよぉ。
+EN: You'd look really nice!
+
+@24FA4 max=95
+JP: お正月にはカルタをする？
+EN: Do you play karuta card games at New Year's?
+
+@25004 max=95
+JP: 楽しいよね～。
+EN: It's fun, huh?
+
+@25064 max=95
+JP: オレはコマまわし。
+EN: I spin tops.
+
+@250C4 max=95
+JP: ボク、羽根つき。
+EN: I play hanetsuki! It's like badminton with paddles!
+
+@25124 max=95
+JP: 百人一首かな～。
+EN: Maybe Hyakunin Isshu... The poetry card game...
+
+@25184 max=95
+JP: オレはコマまわし。
+EN: I spin tops.
+
+@251E4 max=95
+JP: ボク、羽根つき。
+EN: I play hanetsuki! It's like badminton with paddles!
+
+@25244 max=95
+JP: 電車で寝過ごしたことある？
+EN: Ever slept through your stop on the train?
+
+@252A4 max=95
+JP: ついね～うっかりね～。
+EN: You just nod off... Before you know it...
+
+@25304 max=95
+JP: しょっちゅう寝過ごしているぜ。
+EN: I sleep through my stop all the time.
+
+@25364 max=95
+JP: 電車乗りたいぃ。
+EN: I wanna ride a train...
+
+@253C4 max=95
+JP: えらいね～。
+EN: Good for you!
+
+@25424 max=95
+JP: しょっちゅう寝過ごしているぜ。
+EN: I sleep through my stop all the time.
+
+@25484 max=95
+JP: 電車乗りたいぃ。
+EN: I wanna ride a train...
+
+@254E4 max=95
+JP: 結婚に憧れる？
+EN: Do you dream of getting married?
+
+@25544 max=95
+JP: やっぱり教会かな～。
+EN: A church wedding would be nice...
+
+@255A4 max=95
+JP: 結婚は人生の墓場とも言う。
+EN: They say marriage is the graveyard of life.
+
+@25604 max=95
+JP: オヨメさんきれい～。
+EN: Brides are so pretty...
+
+@25664 max=95
+JP: 現実的なのね～。
+EN: You're the practical type, huh...?
+
+@256C4 max=95
+JP: 結婚は人生の墓場とも言う。
+EN: They say marriage is the graveyard of life.
+
+@25724 max=95
+JP: オヨメさんきれい～。
+EN: Brides are so pretty...
+
+@25784 max=95
+JP: 車は四駆がいいよね？
+EN: Four-wheel drive is the way to go, right?
+
+@257E4 max=95
+JP: だよね、便利だもんね～。
+EN: Right? It's so handy...
+
+@25844 max=95
+JP: オレはジープが好き。
+EN: I like Jeeps.
+
+@258A4 max=95
+JP: ボク、スポーツカー。
+EN: I like sports cars!
+
+@25904 max=95
+JP: あ、もっとしゃれたのが好き？
+EN: Oh, do you like something a little fancier?
+
+@25964 max=95
+JP: オレはジープが好き。
+EN: I like Jeeps.
+
+@259C4 max=95
+JP: ボク、スポーツカー。
+EN: I like sports cars!
+
+@25A24 max=95
+JP: 夜中の救急車の音ってドキッとするよね？
+EN: An ambulance siren in the middle of the night makes you jump, doesn't it?
+
+@25A84 max=95
+JP: するよね、大丈夫かなと思うよね～。
+EN: You do, right? You can't help wondering if everything's okay.
+
+@25AE4 max=95
+JP: 消防車のほうが怖いよ。
+EN: Fire engines are scarier.
+
+@25B44 max=95
+JP: サイレン怖いぃ。
+EN: Sirens are scaryyy.
+
+@25BA4 max=95
+JP: 冷静な人なのね～。
+EN: You're pretty calm, huh?
+
+@25C04 max=95
+JP: 消防車のほうが怖いよ。
+EN: Fire engines are scarier.
+
+@25C64 max=95
+JP: サイレン怖いぃ。
+EN: Sirens are scaryyy.
+
+@25CC4 max=95
+JP: マンゴープリンっておいしいよね？
+EN: Mango pudding's yummy, isn't it?
+
+@25D24 max=95
+JP: おいしいよね～。
+EN: They're sooo good, huh?
+
+@25D84 max=95
+JP: マンゴーはそのままのほうがいいよ。
+EN: Mango's better just as it is.
+
+@25DE4 max=95
+JP: マンゴー大好き。
+EN: I love mangoes.
+
+@25E44 max=95
+JP: あ、あの香りがだめなのかな～。
+EN: Oh, maybe it's the smell you don't like?
+
+@25EA4 max=95
+JP: マンゴーはそのままのほうがいいよ。
+EN: Mango's better just as it is.
+
+@25F04 max=95
+JP: マンゴー大好き。
+EN: I love mangoes.
+
+@25F64 max=95
+JP: 恋愛映画って好き？
+EN: Do you like romantic movies?
+
+@25FC4 max=95
+JP: ね～夢見心地になるよね。
+EN: Yeah, they leave you feeling all dreamy.
+
+@26024 max=95
+JP: 映画はやっぱりＳＦだろう。
+EN: Sci-fi's the way to go.
+
+@26084 max=95
+JP: ボクはアニメ。
+EN: I like cartoons.
+
+@260E4 max=95
+JP: アクションのほうが好きなのかな～。
+EN: Maybe you prefer action movies?
+
+@26144 max=95
+JP: 映画はやっぱりＳＦだろう。
+EN: Sci-fi's the way to go.
+
+@261A4 max=95
+JP: ボクはアニメ。
+EN: I like cartoons.
+
+@26204 max=95
+JP: カラオケ好き？
+EN: Do you like karaoke?
+
+@26264 max=95
+JP: なんかスキッとするよね。
+EN: It feels good to let it all out, huh?
+
+@262C4 max=95
+JP: 音痴なんじゃないの。
+EN: Maybe you're tone-deaf?
+
+@26324 max=95
+JP: カラオケ好き。
+EN: I like karaoke.
+
+@26384 max=95
+JP: 人の歌を聞くのが面倒だよね～。
+EN: Listening to everyone else sing gets old, huh?
+
+@263E4 max=95
+JP: 音痴なんだろ。
+EN: Bet you're tone-deaf.
+
+@26444 max=95
+JP: カラオケ好き。
+EN: I like karaoke.
+
+@264A4 max=95
+JP: 赤と青なら赤が好き？
+EN: Between red and blue, do you prefer red?
+
+@26504 max=95
+JP: 情熱的な色だよね～。
+EN: It's such a passionate color, huh?
+
+@26564 max=95
+JP: オレは青が好き。
+EN: I like blue.
+
+@265C4 max=95
+JP: ボク、赤。
+EN: Red for me.
+
+@26624 max=95
+JP: クールな色が好みなのね～。
+EN: So you like cool colors, huh?
+
+@26684 max=95
+JP: オレは青が好き。
+EN: I like blue.
+
+@266E4 max=95
+JP: ボク、赤。
+EN: Red for me.
+
+@26744 max=95
+JP: 靴下って１０足以上、持っている？
+EN: Do you own ten or more pairs of socks?
+
+@267A4 max=95
+JP: だよね～つい増えちゃうよね～。
+EN: Right? They just keep piling up.
+
+@26804 max=95
+JP: 靴下持ってたかな。
+EN: Do I even own any socks?
+
+@26864 max=95
+JP: 靴下欲しいよぉ。
+EN: I want some socks!
+
+@268C4 max=95
+JP: 丁寧にはいているのね～。
+EN: You must take good care of them.
+
+@26924 max=95
+JP: 靴下持ってたかな。
+EN: Do I even own any socks?
+
+@26984 max=95
+JP: 靴下欲しいよぉ。
+EN: I want some socks!
+
+@269E4 max=95
+JP: 遊園地、行ったことある？
+EN: Have you ever been to an amusement park?
+
+@26A44 max=95
+JP: 楽しいよね、何度も行きたいよね。
+EN: They're so fun! You just want to keep going back.
+
+@26AA4 max=95
+JP: 大人も楽しめるぜ。
+EN: Even grown-ups can have fun there.
+
+@26B04 max=95
+JP: ボク、大好き。
+EN: I love them!
+
+@26B64 max=95
+JP: ないの～楽しいよ～。
+EN: You haven't? They're so much fun!
+
+@26BC4 max=95
+JP: 大人も楽しめるぜ。
+EN: Even grown-ups can have fun there.
+
+@26C24 max=95
+JP: ボク、大好き。
+EN: I love them!
+
+@26C84 max=95
+JP: 券売機で並ぶと、いつも遅い列になるよね～？
+EN: You always end up in the slow line at the ticket machines, right?
+
+@26CE4 max=95
+JP: 何でだろうね～レジでもそうだよね～。
+EN: Why is that? It happens at the checkout, too.
+
+@26D44 max=95
+JP: 必ず遅い列になるぜ。
+EN: I always get the slow line.
+
+@26DA4 max=95
+JP: ボク、届かないの。
+EN: I can't reach the buttons.
+
+@26E04 max=95
+JP: あ、見極め上手なんだね～。
+EN: Oh, you've got a good eye for picking lines!
+
+@26E64 max=95
+JP: 必ず遅い列になるぜ。
+EN: I always get the slow line.
+
+@26EC4 max=95
+JP: ボク、届かないの。
+EN: I can't reach the buttons.
+
+@26F24 max=95
+JP: コンビニではお弁当を買うよね？
+EN: You buy boxed lunches at convenience stores, right?
+
+@26F84 max=95
+JP: そうだよね～お弁当買うよね～。
+EN: Right? You'd buy a boxed lunch, wouldn't you?
+
+@26FE4 max=95
+JP: オレは雑誌を買うぜ。
+EN: I'd grab a magazine.
+
+@27044 max=95
+JP: ボク、お菓子。
+EN: I'd get candy.
+
+@270A4 max=95
+JP: あ、おにぎり買うのか～。
+EN: Oh, you'd get rice balls?
+
+@27104 max=95
+JP: オレは雑誌を買うぜ。
+EN: I'd grab a magazine.
+
+@27164 max=95
+JP: ボク、お菓子。
+EN: I'd get candy.
+
+@271C4 max=95
+JP: 貯金の残高っていつも千円切っちゃうよね？
+EN: Your bank balance always dips below 1,000 yen, right?
+
+@27224 max=95
+JP: 貯めようと思ってもなかなかね～。
+EN: Saving up is hard, even when you try...
+
+@27284 max=95
+JP: 貯金なんてしてないんだろ。
+EN: You don't save any money, do you?
+
+@272E4 max=95
+JP: ボクも通帳欲しい。
+EN: I want a bankbook too.
+
+@27344 max=95
+JP: やりくり上手なのね～。
+EN: You're good at making your money last, huh?
+
+@273A4 max=95
+JP: 貯金なんてしてないんだろ。
+EN: You don't save any money, do you?
+
+@27404 max=95
+JP: ボクも通帳欲しい。
+EN: I want a bankbook too.
+
+@27464 max=95
+JP: ミステリーってつい結末、先に読んじゃうよね？
+EN: When you read a mystery, you peek at the ending first, right?
+
+@274C4 max=95
+JP: ね～我慢できないよね～。
+EN: I know! You just can't help yourself, right?
+
+@27524 max=95
+JP: 先に読んだらダメでしょ。
+EN: Hey, no peeking at the ending!
+
+@27584 max=95
+JP: 怖くて読めない～。
+EN: I'm too scared to read them...
+
+@275E4 max=95
+JP: 辛抱強いな～。
+EN: Wow, you've got patience...
+
+@27644 max=95
+JP: 先に読んだらダメでしょ。
+EN: Hey, no peeking at the ending!
+
+@276A4 max=95
+JP: 怖くて読めない～。
+EN: I'm too scared to read them...
+
+@27704 max=95
+JP: ＵＦＯ見たことある？
+EN: Ever seen a UFO?
+
+@27764 max=95
+JP: すごいな～一度見たいな～。
+EN: Wow! I'd love to see one someday...
+
+@277C4 max=95
+JP: オレはあるよ。
+EN: I sure have.
+
+@27824 max=95
+JP: ボクもあるぅ。
+EN: Me toooo.
+
+@27884 max=95
+JP: 残念ね～見てみたいね～。
+EN: Aw, too bad... It'd be nice to see one, huh?
+
+@278E4 max=95
+JP: オレはあるよ。
+EN: I sure have.
+
+@27944 max=95
+JP: ボクもあるぅ。
+EN: Me toooo.
+
+@279A4 max=95
+JP: お化け見たことある？
+EN: Ever seen a ghost?
+
+@27A04 max=95
+JP: うわ～～怖いよね～。
+EN: Eeeek! Scary, huh?
+
+@27A64 max=95
+JP: オレはあるよ。
+EN: I sure have.
+
+@27AC4 max=95
+JP: 怖いよぉ。
+EN: I'm scaaared.
+
+@27B24 max=95
+JP: 見ないほうがいいよね～。
+EN: We're better off not seeing one, huh?
+
+@27B84 max=95
+JP: オレはあるよ。
+EN: I sure have.
+
+@27BE4 max=95
+JP: 怖いよぉ。
+EN: I'm scaaared.
+
+@27C44 max=95
+JP: 釣りしたことある？
+EN: Ever been fishing?
+
+@27CA4 max=95
+JP: 楽しいよね～ちょっと魚かわいそうだけど。
+EN: It's fun, huh? Though I do feel a little bad for the fish...
+
+@27D04 max=95
+JP: オレはルアーで。
+EN: I use lures.
+
+@27D64 max=95
+JP: ボクは釣堀。
+EN: I go to a fishing pond.
+
+@27DC4 max=95
+JP: 楽しいから一度行ってみれば～？
+EN: It's fun! Why not give it a try?
+
+@27E24 max=95
+JP: オレはルアーで。
+EN: I use lures.
+
+@27E84 max=95
+JP: ボクは釣堀。
+EN: I go to a fishing pond.
+
+@27EE4 max=95
+JP: スケートしたことある？
+EN: Ever been ice skating?
+
+@27F44 max=95
+JP: 気持ちいいよね～。
+EN: Feels great, doesn't it?
+
+@27FA4 max=95
+JP: 止まれないんだよ。
+EN: I can't figure out how to stop.
+
+@28004 max=95
+JP: スケート大好き。
+EN: I love skating!
+
+@28064 max=95
+JP: 寒いのがいやね～。
+EN: The cold's no fun, huh?
+
+@280C4 max=95
+JP: 止まれないんだよ。
+EN: I can't figure out how to stop.
+
+@28124 max=95
+JP: スケート大好き。
+EN: I love skating!
+
+@28184 max=95
+JP: 乗馬したことある？
+EN: Ever ridden a horse?
+
+@281E4 max=95
+JP: 馬ってけっこう背が高いよね～。
+EN: Horses are pretty tall, huh?
+
+@28244 max=95
+JP: 流鏑馬ぐらいしてみたいぜ。
+EN: I'd like to try shooting a bow on horseback.
+
+@282A4 max=95
+JP: お馬大好き。
+EN: I love horsies!
+
+@28304 max=95
+JP: 馬ってけっこう背が高いのよ～。
+EN: Horses are pretty tall, you know...
+
+@28364 max=95
+JP: 流鏑馬ぐらいしてみたいぜ。
+EN: I'd like to try shooting a bow on horseback.
+
+@283C4 max=95
+JP: お馬大好き。
+EN: I love horsies!
+
+@28424 max=95
+JP: サングラスの色は薄いほう？
+EN: Are your sunglasses lightly tinted?
+
+@28484 max=95
+JP: 薄くてもＵＶカットだね～。
+EN: Even a light tint blocks UV rays, huh?
+
+@284E4 max=95
+JP: オレのは濃いぜ。
+EN: Mine are nice and dark.
+
+@28544 max=95
+JP: ボク、オレンジ色。
+EN: Orange for me.
+
+@285A4 max=95
+JP: あ、濃いの使ってるのね～。
+EN: Oh, you use a darker one, huh?
+
+@28604 max=95
+JP: オレのは濃いぜ。
+EN: Mine are nice and dark.
+
+@28664 max=95
+JP: ボク、オレンジ色。
+EN: Orange for me.
+
+@286C4 max=95
+JP: かさぶたってついはがしちゃうよね？
+EN: You can't help picking at scabs, right?
+
+@28724 max=95
+JP: ね～ダメってわかっててもやるよね～。
+EN: Yeah, even when you know you shouldn't!
+
+@28784 max=95
+JP: はがしまくりだぜ。
+EN: I pick 'em all off.
+
+@287E4 max=95
+JP: はがしちゃうよ～。
+EN: I can't help it!
+
+@28844 max=95
+JP: えらいな～我慢できるんだ～。
+EN: Wow, you've got some willpower!
+
+@288A4 max=95
+JP: はがしまくりだぜ。
+EN: I pick 'em all off.
+
+@28904 max=95
+JP: はがしちゃうよ～。
+EN: I can't help it!
+
+@28964 max=95
+JP: 揚げせんべいっておいしいよね～？
+EN: Fried rice crackers are so good, huh?
+
+@289C4 max=95
+JP: きりがないよね～。
+EN: You just can't stop eating them!
+
+@28A24 max=95
+JP: 塩味がいいな。
+EN: I like the salty ones.
+
+@28A84 max=95
+JP: ボク、しょうゆ味。
+EN: Soy sauce flavor for me.
+
+@28AE4 max=95
+JP: あ、甘党なのかな～。
+EN: Oh, got a sweet tooth, huh?
+
+@28B44 max=95
+JP: 塩味がいいな。
+EN: I like the salty ones.
+
+@28BA4 max=95
+JP: ボク、しょうゆ味。
+EN: Soy sauce flavor for me.
+
+@28C04 max=95
+JP: クレヨンは２４色だよね～？
+EN: A box of 24 crayons is just right, huh?
+
+@28C64 max=95
+JP: 一番、使いやすいよね～。
+EN: Yeah, it's the handiest size!
+
+@28CC4 max=95
+JP: オレ３６色。
+EN: I've got 36 colors.
+
+@28D24 max=95
+JP: ボク１２色。
+EN: I've got 12.
+
+@28D84 max=95
+JP: あ、もっと多いほうがいいか～。
+EN: Oh, you'd rather have more colors?
+
+@28DE4 max=95
+JP: オレ３６色。
+EN: I've got 36 colors.
+
+@28E44 max=95
+JP: ボク１２色。
+EN: I've got 12.
+
+@28EA4 max=95
+JP: レンタルビデオの巻き戻しって面倒だよね～？
+EN: Rewinding rental tapes is such a pain, huh?
+
+@28F04 max=95
+JP: つい、忘れちゃうよね～。
+EN: It's so easy to forget!
+
+@28F64 max=95
+JP: 最低限のマナーだろ。
+EN: It's basic manners, isn't it?
+
+@28FC4 max=95
+JP: 巻き戻し嫌い～。
+EN: I hate rewinding!
+
+@29024 max=95
+JP: ちゃんと巻き戻すんだ～。
+EN: Oh, you always rewind yours?
+
+@29084 max=95
+JP: 最低限のマナーだろ。
+EN: It's basic manners, isn't it?
+
+@290E4 max=95
+JP: 巻き戻し嫌い～。
+EN: I hate rewinding!
+
+@29144 max=95
+JP: 電車の中ってクーラー効きすぎだよね～？
+EN: They crank the AC way too high on trains, huh?
+
+@291A4 max=95
+JP: 涼しすぎるよね～。
+EN: Yeah, it's freezing in there!
+
+@29204 max=95
+JP: ちっとも涼しくないよ。
+EN: It's not nearly cool enough.
+
+@29264 max=95
+JP: ボク、寒い。
+EN: I'm cold.
+
+@292C4 max=95
+JP: 暑がりなんだね～。
+EN: You get hot pretty easily, huh?
+
+@29324 max=95
+JP: ちっとも涼しくないよ。
+EN: It's not nearly cool enough.
+
+@29384 max=95
+JP: ボク、寒い。
+EN: I'm cold.
+
+@293E4 max=95
+JP: キャンプしたことある？
+EN: Ever been camping?
+
+@29444 max=95
+JP: テントを張るのが楽しいよね～。
+EN: Putting up the tent is fun, huh?
+
+@294A4 max=95
+JP: バーベキューがいいね。
+EN: The barbecue's the best part.
+
+@29504 max=95
+JP: ボク、焼きそば！
+EN: I want fried noodles!
+
+@29564 max=95
+JP: 楽しいから今度やってみて～。
+EN: Give it a try sometime! It's fun!
+
+@295C4 max=95
+JP: バーベキューがいいね。
+EN: The barbecue's the best part.
+
+@29624 max=95
+JP: ボク、焼きそば！
+EN: I want fried noodles!
+
+@29684 max=95
+JP: 国語の辞書ってつい何か書き込みしちゃうよね？
+EN: You can't help scribbling in your dictionary, right?
+
+@296E4 max=95
+JP: ねー、つい落書きしちゃうよね。
+EN: Yeah, you just have to doodle in it!
+
+@29744 max=95
+JP: 落書きだらけだよ。
+EN: Mine's full of doodles.
+
+@297A4 max=95
+JP: 辞書、難しいよぉ。
+EN: Dictionaries are too hard!
+
+@29804 max=95
+JP: きれいに使うのね～。
+EN: Oh, you keep yours nice and neat?
+
+@29864 max=95
+JP: 落書きだらけだよ。
+EN: Mine's full of doodles.
+
+@298C4 max=95
+JP: 辞書、難しいよぉ。
+EN: Dictionaries are too hard!
+
+@29924 max=95
+JP: 時代劇の台詞って面白いよね～？
+EN: The way they talk in samurai shows is funny, huh?
+
+@29984 max=95
+JP: ね～まねしたくなるよね～。
+EN: Yeah, it makes you want to copy them!
+
+@299E4 max=95
+JP: ござる、とかな。
+EN: Like, 'Verily, my lord!'
+
+@29A44 max=95
+JP: ござるってサルかな。
+EN: 'Gozaru'? Is that a monkey? 'Saru' means monkey!
+
+@29AA4 max=95
+JP: 拙者、とか面白くないかな～。
+EN: 'This humble one'... Isn't that a funny way to say 'I'?
+
+@29B04 max=95
+JP: ござる、とかな。
+EN: Like, 'Verily, my lord!'
+
+@29B64 max=95
+JP: ござるってサルかな。
+EN: 'Gozaru'? Is that a monkey? 'Saru' means monkey!
+
+@29BC4 max=95
+JP: モナリザって美人だと思う？
+EN: Do you think the Mona Lisa is pretty?
+
+@29C24 max=95
+JP: そうだね、美人だね。
+EN: Yeah, she sure is.
+
+@29C84 max=95
+JP: ちっとも美人じゃないよ。
+EN: She's not pretty at all.
+
+@29CE4 max=95
+JP: きれいだよぉ。
+EN: She's lovelyyy.
+
+@29D44 max=95
+JP: う～ん、そうかもね。
+EN: Hmm... Maybe you're right.
+
+@29DA4 max=95
+JP: ちっとも美人じゃないよ。
+EN: She's not pretty at all.
+
+@29E04 max=95
+JP: きれいだよぉ。
+EN: She's lovelyyy.
+
+@29E64 max=95
+JP: 身振り手振りが大きいほう？
+EN: Do you make big gestures when you talk?
+
+@29EC4 max=95
+JP: 外国の人みたいね～。
+EN: Like people from overseas, huh?
+
+@29F24 max=95
+JP: オレはでかいよ。
+EN: I sure wave my arms around!
+
+@29F84 max=95
+JP: ボクも～。
+EN: Me toooo.
+
+@29FE4 max=95
+JP: 静かに話すのね～。
+EN: So you're a quiet talker, huh?
+
+@2A044 max=95
+JP: オレはでかいよ。
+EN: I sure wave my arms around!
+
+@2A0A4 max=95
+JP: ボクも～。
+EN: Me toooo.
+
+@2A104 max=95
+JP: マジックできる？
+EN: Can you do magic tricks?
+
+@2A164 max=95
+JP: そうか～すごいね～。
+EN: Ohhh, that's amazing!
+
+@2A1C4 max=95
+JP: オレは空中浮遊ができるぜ。
+EN: I can levitate!
+
+@2A224 max=95
+JP: ボク、鳩出せる～。
+EN: I can make a dove appearrr.
+
+@2A284 max=95
+JP: そうか～残念ね～。
+EN: Ohhh, that's too bad.
+
+@2A2E4 max=95
+JP: オレは空中浮遊ができるぜ。
+EN: I can levitate!
+
+@2A344 max=95
+JP: ボク、鳩出せる～。
+EN: I can make a dove appearrr.
+
+@2A3A4 max=95
+JP: 超能力って信じる？
+EN: Do you believe in psychic powers?
+
+@2A404 max=95
+JP: あるよね～超能力。
+EN: Psychic powers are real, huh?
+
+@2A464 max=95
+JP: 絶対、あるよ。
+EN: They're definitely real.
+
+@2A4C4 max=95
+JP: あるある。
+EN: Yep, yep!
+
+@2A524 max=95
+JP: そうか～信じないのね～。
+EN: Ohhh, so you don't believe in them.
+
+@2A584 max=95
+JP: 絶対、あるよ。
+EN: They're definitely real.
+
+@2A5E4 max=95
+JP: あるある。
+EN: Yep, yep!
+
+@2A644 max=95
+JP: 宇宙人っていると思う？
+EN: Do you think aliens exist?
+
+@2A6A4 max=95
+JP: いるよね！いるよね！
+EN: They do! They do!
+
+@2A704 max=95
+JP: 絶対いるよ。
+EN: They're definitely out there.
+
+@2A764 max=95
+JP: いるいる。
+EN: Yep, they sure are!
+
+@2A7C4 max=95
+JP: いないかな～いるといいな～。
+EN: Maybe they don't... I hope they dooo.
+
+@2A824 max=95
+JP: 絶対いるよ。
+EN: They're definitely out there.
+
+@2A884 max=95
+JP: いるいる。
+EN: Yep, they sure are!
+
+@2A8E4 max=95
+JP: 昔の手帳って捨てられないよね～？
+EN: You can't bring yourself to throw out old planners, right?
+
+@2A944 max=95
+JP: なんか、とっておくよね～。
+EN: You just sort of hang on to them, huh?
+
+@2A9A4 max=95
+JP: 過去は振り返らない。
+EN: I never look back.
+
+@2AA04 max=95
+JP: 手帳、持ってないよぉ。
+EN: I don't have a plannerrr.
+
+@2AA64 max=95
+JP: あ、捨てちゃうの～。
+EN: Oh, so you throw them away?
+
+@2AAC4 max=95
+JP: 過去は振り返らない。
+EN: I never look back.
+
+@2AB24 max=95
+JP: 手帳、持ってないよぉ。
+EN: I don't have a plannerrr.
+
+@2AB84 max=95
+JP: 鉛筆はＨＢが好き？
+EN: Do you like HB pencils?
+
+@2ABE4 max=95
+JP: やっぱり一番書きやすいよね～。
+EN: They really are the easiest to write with, huh?
+
+@2AC44 max=95
+JP: オレ、Ｆが好き。
+EN: I like F pencils.
+
+@2ACA4 max=95
+JP: ボク、ＨＢ。
+EN: HB for meee.
+
+@2AD04 max=95
+JP: あれ？２Ｂが好きなの～。
+EN: Oh? You like 2B pencils?
+
+@2AD64 max=95
+JP: オレ、Ｆが好き。
+EN: I like F pencils.
+
+@2ADC4 max=95
+JP: ボク、ＨＢ。
+EN: HB for meee.
+
+@2AE24 max=95
+JP: コアラの目って怖いよね？
+EN: Koalas have scary eyes, don't they?
+
+@2AE84 max=95
+JP: ね～ちょっと怖いよね～。
+EN: Yeahhh, they're a little scary.
+
+@2AEE4 max=95
+JP: 怖い目つきだぜ。
+EN: They've got a scary stare!
+
+@2AF44 max=95
+JP: コアラ可愛い。
+EN: Koalas are cute.
+
+@2AFA4 max=95
+JP: 可愛いと思うのね～。
+EN: So you think they're cute, huh?
+
+@2B004 max=95
+JP: 怖い目つきだぜ。
+EN: They've got a scary stare!
+
+@2B064 max=95
+JP: コアラ可愛い。
+EN: Koalas are cute.
+
+@2B0C4 max=95
+JP: おまけつきだとつい買っちゃうよね？
+EN: You can't resist buying things with freebies, right?
+
+@2B124 max=95
+JP: ね～なんでもつい買うよね。
+EN: Yeah, you just end up buying everything.
+
+@2B184 max=95
+JP: おまけのほうが欲しいよ。
+EN: I want the freebie more than the actual thing.
+
+@2B1E4 max=95
+JP: おまけ好き。
+EN: I like freebies.
+
+@2B244 max=95
+JP: おまけには釣られないのね～。
+EN: So freebies don't reel you in, huh?
+
+@2B2A4 max=95
+JP: おまけのほうが欲しいよ。
+EN: I want the freebie more than the actual thing.
+
+@2B304 max=95
+JP: おまけ好き。
+EN: I like freebies.
+
+@2B364 max=95
+JP: 海の音って素敵だよね？
+EN: The sound of the sea is lovely, isn't it?
+
+@2B3C4 max=95
+JP: 懐かしい感じだよね～。
+EN: It feels kind of nostalgic, doesn't it?
+
+@2B424 max=95
+JP: 人間は海からやってきたのだ。
+EN: Humans originally came from the sea.
+
+@2B484 max=95
+JP: え？人間も魚？
+EN: Huh? Humans are fish too?
+
+@2B4E4 max=95
+JP: うるさく感じるのかな～。
+EN: Maybe it's too noisy for you?
+
+@2B544 max=95
+JP: 人間は海からやってきたのだ。
+EN: Humans originally came from the sea.
+
+@2B5A4 max=95
+JP: え？人間も魚？
+EN: Huh? Humans are fish too?
+
+@2B604 max=95
+JP: ずっと同じ格好していると腰が痛いよね～？
+EN: Staying in one position makes your back hurt, doesn't it?
+
+@2B664 max=95
+JP: ね～痛いよね～。
+EN: Yeah, it really aches...
+
+@2B6C4 max=95
+JP: オレの腰はどこだ？
+EN: Where's my back, anyway?
+
+@2B724 max=95
+JP: ボクの腰はどこ？
+EN: Where's mine?
+
+@2B784 max=95
+JP: ああ、若いのね～。
+EN: Ah, you're still young...
+
+@2B7E4 max=95
+JP: オレの腰はどこだ？
+EN: Where's my back, anyway?
+
+@2B844 max=95
+JP: ボクの腰はどこ？
+EN: Where's mine?
+
+@2B8A4 max=95
+JP: お札が小銭になるとつい無駄遣いしちゃうよね？
+EN: Once you break a bill, you end up wasting the change, right?
+
+@2B904 max=95
+JP: つい使っちゃうよね～。
+EN: You just can't help spending it...
+
+@2B964 max=95
+JP: つい使っちゃうよな。
+EN: Yeah, you just spend it.
+
+@2B9C4 max=95
+JP: お菓子とかジュースとか。
+EN: On candy and juice and stuff.
+
+@2BA24 max=95
+JP: あ、しまりやなのね～。
+EN: Oh, you're the thrifty type...
+
+@2BA84 max=95
+JP: つい使っちゃうよな。
+EN: Yeah, you just spend it.
+
+@2BAE4 max=95
+JP: お菓子とかジュースとか。
+EN: On candy and juice and stuff.
+
+@2BB44 max=95
+JP: 地下鉄よりバスがいいよね～？
+EN: Buses are better than subways, right?
+
+@2BBA4 max=95
+JP: 景色が見えていいよね～。
+EN: It's nice to watch the scenery go by...
+
+@2BC04 max=95
+JP: バス、遅いんだよ。
+EN: Buses are so slow.
+
+@2BC64 max=95
+JP: バス、好き。
+EN: I like buses.
+
+@2BCC4 max=95
+JP: ああ、渋滞がいやなのね～。
+EN: Ah, you don't like traffic jams...
+
+@2BD24 max=95
+JP: バス、遅いんだよ。
+EN: Buses are so slow.
+
+@2BD84 max=95
+JP: バス、好き。
+EN: I like buses.
+
+@2BDE4 max=95
+JP: 鼻かみすぎると、真っ赤になるよね？
+EN: Your nose turns bright red if you blow it too much, right?
+
+@2BE44 max=95
+JP: ね～、つらいよね～。
+EN: Yeah, it's miserable...
+
+@2BEA4 max=95
+JP: 耳まで痛くなるよ。
+EN: Even my ears start to hurt.
+
+@2BF04 max=95
+JP: ボク、へたくそ～。
+EN: I'm no good at blowing my nose...
+
+@2BF64 max=95
+JP: 鼻かむの上手なのね～。
+EN: You must be good at blowing your nose...
+
+@2BFC4 max=95
+JP: 耳まで痛くなるよ。
+EN: Even my ears start to hurt.
+
+@2C024 max=95
+JP: ボク、へたくそ～。
+EN: I'm no good at blowing my nose...
+
+@2C084 max=95
+JP: ダイビングしたことある？
+EN: Have you ever been scuba diving?
+
+@2C0E4 max=95
+JP: 気持ちいいよね！
+EN: It feels great, doesn't it?
+
+@2C144 max=95
+JP: オレ、沈んじゃうよ。
+EN: I'd just sink.
+
+@2C1A4 max=95
+JP: ボクも沈んじゃう。
+EN: I'd sink too.
+
+@2C204 max=95
+JP: 気持ちいいよ～いつかやってみて。
+EN: It feels wonderful... You should try it someday.
+
+@2C264 max=95
+JP: オレ、沈んじゃうよ。
+EN: I'd just sink.
+
+@2C2C4 max=95
+JP: ボクも沈んじゃう。
+EN: I'd sink too.
+
+@2C324 max=95
+JP: 月に行ってみたいよね？
+EN: You'd like to visit the moon, right?
+
+@2C384 max=95
+JP: ね、いつか行きたいよね～。
+EN: Yeah, it'd be nice to go someday...
+
+@2C3E4 max=95
+JP: うさぎはいないぜ。
+EN: There aren't any rabbits up there, you know.
+
+@2C444 max=95
+JP: うさぎいないのぉ。
+EN: No bunnies, huh?
+
+@2C4A4 max=95
+JP: 無重力が怖いのね～。
+EN: Zero gravity scares you, huh?
+
+@2C504 max=95
+JP: うさぎがいないからだろ。
+EN: It's because there aren't any rabbits.
+
+@2C564 max=95
+JP: うさぎいないのぉ。
+EN: No bunnies, huh?
+
+@2C5C4 max=95
+JP: モーツァルトって天才だよね～？
+EN: Mozart was a genius, wasn't he?
+
+@2C624 max=95
+JP: ね～どれを聞いても素敵だよね～。
+EN: Yeah... Everything he wrote sounds lovely.
+
+@2C684 max=95
+JP: バッハのほうがいいよ。
+EN: Bach's better.
+
+@2C6E4 max=95
+JP: それ誰？
+EN: Who's that?
+
+@2C744 max=95
+JP: あ、ベートーベンのほうがいいのね～。
+EN: Oh, so you like Beethoven better, huh?
+
+@2C7A4 max=95
+JP: バッハだろ。
+EN: I said Bach.
+
+@2C804 max=95
+JP: それ誰？
+EN: Who's that?
+
+@2C864 max=95
+JP: 相対性理論、説明できる？
+EN: Can you explain the theory of relativity?
+
+@2C8C4 max=95
+JP: わ！できるの？すごいや～。
+EN: Whoa! You can? That's amazing!
+
+@2C924 max=95
+JP: 光とか時間とか質量とか…。
+EN: Light and time and mass and stuff...
+
+@2C984 max=95
+JP: うとうとうと。
+EN: Zzz... Zzz...
+
+@2C9E4 max=95
+JP: できないよね～わかんないよね～。
+EN: You can't, huh? It's all so confusing...
+
+@2CA44 max=95
+JP: 光とか時間とか質量とか…。
+EN: Light and time and mass and stuff...
+
+@2CAA4 max=95
+JP: うとうとうと。
+EN: Zzz... Zzz...
+
+@2CB04 max=95
+JP: クレオパトラって美人だったと思う？
+EN: Do you think Cleopatra was beautiful?
+
+@2CB64 max=95
+JP: きっとそうだよね～。
+EN: I bet she was...
+
+@2CBC4 max=95
+JP: きっと気の強い女だったんだよな。
+EN: Bet she was one strong-willed woman.
+
+@2CC24 max=95
+JP: クレオパトラって何人？
+EN: Where was Cleopatra from?
+
+@2CC84 max=95
+JP: 美の基準は個人の趣味だからね～。
+EN: Well, beauty's a matter of taste...
+
+@2CCE4 max=95
+JP: きっと気の強い女だったんだよな。
+EN: Bet she was one strong-willed woman.
+
+@2CD44 max=95
+JP: クレオパトラって何人？
+EN: Where was Cleopatra from?
+
+@2CDA4 max=95
+JP: 三銃士って読んだことある～？
+EN: Have you read The Three Musketeers?
+
+@2CE04 max=95
+JP: 面白いよね～。
+EN: It's pretty fun, huh?
+
+@2CE64 max=95
+JP: デュマだな。
+EN: That's by Dumas.
+
+@2CEC4 max=95
+JP: ボクらも三銃士！
+EN: We're the Three Musketeers, too!
+
+@2CF24 max=95
+JP: とても面白いから読んでみて～。
+EN: It's really fun! Give it a read...
+
+@2CF84 max=95
+JP: デュマだな。
+EN: That's by Dumas.
+
+@2CFE4 max=95
+JP: ボクらも三銃士！
+EN: We're the Three Musketeers, too!
+
+@2D044 max=95
+JP: きびだんごを持っているのは桃太郎だよね～？
+EN: Momotaro's the one with the millet dumplings, right?
+
+@2D0A4 max=95
+JP: そうだよね～ひとつ私にくださいな～。
+EN: That's right... Please, won't you share one with me?
+
+@2D104 max=95
+JP: まさかりかついでるのは金太郎。
+EN: Kintaro's the one carrying an axe.
+
+@2D164 max=95
+JP: 玉手箱は浦島太郎。
+EN: Urashima Taro's the one with the treasure box.
+
+@2D1C4 max=95
+JP: え？桃太郎でしょ～。
+EN: Huh? It's Momotaro, isn't it?
+
+@2D224 max=95
+JP: まさかりかついでるのは金太郎。
+EN: Kintaro's the one carrying an axe.
+
+@2D284 max=95
+JP: 玉手箱は浦島太郎。
+EN: Urashima Taro's the one with the treasure box.
+
+@2D2E4 max=95
+JP: トム・ソーヤーの舞台はミシシッピ川だよね？
+EN: Tom Sawyer is set by the Mississippi River, right?
+
+@2D344 max=95
+JP: そうだよね、そうだよね。
+EN: That's right, that's right!
+
+@2D3A4 max=95
+JP: ハックルベリーフィンもな。
+EN: Huckleberry Finn, too.
+
+@2D404 max=95
+JP: ベッキー！
+EN: Becky!
+
+@2D464 max=95
+JP: 確かミシシッピ川だったよ。
+EN: I'm pretty sure it was the Mississippi.
+
+@2D4C4 max=95
+JP: ハックルベリーフィンもな。
+EN: Huckleberry Finn, too.
+
+@2D524 max=95
+JP: ベッキー！
+EN: Becky!
+
+@2D584 max=95
+JP: トイレで本、読んじゃう？
+EN: Do you ever read on the toilet?
+
+@2D5E4 max=95
+JP: 読んじゃうよね～。
+EN: You just can't help it, huh?
+
+@2D644 max=95
+JP: 特に漫画な。
+EN: Especially comics.
+
+@2D6A4 max=95
+JP: うんち～。
+EN: Poooop!
+
+@2D704 max=95
+JP: さっさと出るのね～。
+EN: So you're out in no time, huh?
+
+@2D764 max=95
+JP: 出るって何が？
+EN: What's coming out?
+
+@2D7C4 max=95
+JP: うんち～。
+EN: Poooop!
+
+@2D824 max=95
+JP: お風呂で本、読む？
+EN: Do you read in the bath?
+
+@2D884 max=95
+JP: 本が濡れちゃうけどね～。
+EN: Your book gets wet, though...
+
+@2D8E4 max=95
+JP: オレは読むよ。
+EN: Yeah, I read.
+
+@2D944 max=95
+JP: ボク、読まない。
+EN: I don't read.
+
+@2D9A4 max=95
+JP: 本が濡れちゃうもんね。
+EN: Your book would get wet.
+
+@2DA04 max=95
+JP: オレは読むよ。
+EN: Yeah, I read.
+
+@2DA64 max=95
+JP: ボク、読まない。
+EN: I don't read.
+
+@2DAC4 max=95
+JP: 木星に生物はいると思う？
+EN: Think there's life on Jupiter?
+
+@2DB24 max=95
+JP: いるよね～きっと何かいるよね～。
+EN: Sure... There's gotta be something up there.
+
+@2DB84 max=95
+JP: いて欲しいけどな。
+EN: I'd like there to be.
+
+@2DBE4 max=95
+JP: いるといいな。
+EN: I hope so.
+
+@2DC44 max=95
+JP: そうだね～今はもういないかもね～。
+EN: Yeah... Maybe there's none left now.
+
+@2DCA4 max=95
+JP: いて欲しいけどな。
+EN: I'd like there to be.
+
+@2DD04 max=95
+JP: いるといいな。
+EN: I hope so.
+
+@2DD64 max=95
+JP: 洗濯機の中身が回るのってつい見ちゃうよね～？
+EN: You can't help watching the laundry spin around, can you?
+
+@2DDC4 max=95
+JP: 見ちゃうよね～なぜかね～。
+EN: Yeah... Wonder why that is.
+
+@2DE24 max=95
+JP: 見ないよ、そんなもの。
+EN: I'm not watching that.
+
+@2DE84 max=95
+JP: 目が回っちゃうよぉ。
+EN: It makes me dizzy...
+
+@2DEE4 max=95
+JP: あ、時間の無駄だよね…。
+EN: Oh, I guess it is a waste of time...
+
+@2DF44 max=95
+JP: 見ないよ、そんなもの。
+EN: I'm not watching that.
+
+@2DFA4 max=95
+JP: 目が回っちゃうよぉ。
+EN: It makes me dizzy...
+
+@2E004 max=95
+JP: アセロラって超すっぱいよね？
+EN: Acerola cherries are super sour, huh?
+
+@2E064 max=95
+JP: すごくすっぱいよね～。
+EN: So sour...
+
+@2E0C4 max=95
+JP: あれってそのまま食べていいの？
+EN: Can you even eat them as they are?
+
+@2E124 max=95
+JP: すっぱいよ～。
+EN: Sooo sour...
+
+@2E184 max=95
+JP: 生の食べるとすごいよ～。
+EN: Try a fresh one. Wow, what a kick...
+
+@2E1E4 max=95
+JP: あれってそのまま食べていいの？
+EN: Can you even eat them as they are?
+
+@2E244 max=95
+JP: すっぱいよ～。
+EN: Sooo sour...
+
+@2E2A4 max=95
+JP: 冬でも麦茶、飲むよね？
+EN: You drink barley tea in winter too, right?
+
+@2E304 max=95
+JP: 飲むよね～一年中。
+EN: Yeah... All year round.
+
+@2E364 max=95
+JP: 麦茶は夏だろ。
+EN: Barley tea's a summer drink.
+
+@2E3C4 max=95
+JP: 麦茶大好き。
+EN: I love barley tea.
+
+@2E424 max=95
+JP: ホットでもおいしいよ～。
+EN: It's good hot, too...
+
+@2E484 max=95
+JP: 麦茶は夏だろ。
+EN: Barley tea's a summer drink.
+
+@2E4E4 max=95
+JP: 麦茶大好き。
+EN: I love barley tea.
+
+@2E544 max=95
+JP: 肩がこると、頭痛がするよね～？
+EN: Stiff shoulders give you a headache, don't they?
+
+@2E5A4 max=95
+JP: ね～、ガンガンしてくるよね～。
+EN: Yeah... Your head just pounds...
+
+@2E604 max=95
+JP: オレってどこが肩？
+EN: Where are my shoulders, anyway?
+
+@2E664 max=95
+JP: ボクってどこが肩？
+EN: Which part of me is my shoulders?
+
+@2E6C4 max=95
+JP: あ、肩、こらないの～。
+EN: Oh... Yours don't get stiff?
+
+@2E724 max=95
+JP: オレってどこが肩？
+EN: Where are my shoulders, anyway?
+
+@2E784 max=95
+JP: ボクってどこが肩？
+EN: Which part of me is my shoulders?
+
+@2E7E4 max=95
+JP: 飛行機雲ってなんかいいよね～？
+EN: There's something nice about jet trails, huh?
+
+@2E844 max=95
+JP: なんか、こう、ロマンがあるよね～。
+EN: They're sort of... romantic, you know?
+
+@2E8A4 max=95
+JP: 飛行機雲より入道雲だろ。
+EN: Big thunderclouds beat jet trails.
+
+@2E904 max=95
+JP: 飛行機雲、好き。
+EN: I like jet trails.
+
+@2E964 max=95
+JP: あれ～嫌いなの～。
+EN: Huh... You don't like them?
+
+@2E9C4 max=95
+JP: 飛行機雲より入道雲だろ。
+EN: Big thunderclouds beat jet trails.
+
+@2EA24 max=95
+JP: 飛行機雲、好き。
+EN: I like jet trails.
+
+@2EA84 max=95
+JP: 元旦に初日の出見に行く？
+EN: Going to watch the first sunrise of the new year?
+
+@2EAE4 max=95
+JP: なんかありがたい感じだよね～。
+EN: It kind of feels like a blessing...
+
+@2EB44 max=95
+JP: 大晦日からオールナイトさ。
+EN: I'll be up all night on New Year's Eve.
+
+@2EBA4 max=95
+JP: 起きられないよ～。
+EN: I can't get up that early...
+
+@2EC04 max=95
+JP: 寒いもんね～。
+EN: It's cold out, too...
+
+@2EC64 max=95
+JP: 大晦日からオールナイトさ。
+EN: I'll be up all night on New Year's Eve.
+
+@2ECC4 max=95
+JP: 起きられないよ～。
+EN: I can't get up that early...
+
+@2ED24 max=95
+JP: ゴールデンウィークって<n>もう少し長いほうがいいよね～？
+EN: Golden Week should be<n>a little longer, don't you think?
+
+@2ED84 max=95
+JP: ね～せめて２週間たっぷり欲しいよね～。
+EN: Yeah, we need at least two whole weeks off, don't we?
+
+@2EDE4 max=95
+JP: 一年中休みがいいよ。
+EN: I'd take the whole year off.
+
+@2EE44 max=95
+JP: お休み大好き。
+EN: I love days off.
+
+@2EEA4 max=95
+JP: あ、十分なんだ～。
+EN: Oh, that's enough for you, huh?
+
+@2EF04 max=95
+JP: 一年中休みがいいよ。
+EN: I'd take the whole year off.
+
+@2EF64 max=95
+JP: お休み大好き。
+EN: I love days off.
+
+@2EFC4 max=95
+JP: 生春巻き食べたことある？
+EN: Ever tried fresh spring rolls?
+
+@2F024 max=95
+JP: おいしいよね～いいよね～。
+EN: They're sooo good, aren't they?
+
+@2F084 max=95
+JP: ありゃ、うまいね。
+EN: Now that's good eating.
+
+@2F0E4 max=95
+JP: おいしいよ～。
+EN: It's sooo tasty.
+
+@2F144 max=95
+JP: 今度食べてみて～おいしいよ。
+EN: Try them sometime. They're yummy.
+
+@2F1A4 max=95
+JP: ありゃ、うまいね。
+EN: Now that's good eating.
+
+@2F204 max=95
+JP: おいしいよ～。
+EN: It's sooo tasty.
+
+@2F264 max=95
+JP: バレンタインデーって誰かにチョコあげる？
+EN: Do you give anyone chocolates on Valentine's Day?
+
+@2F2C4 max=95
+JP: 義理チョコもあげるのね～。
+EN: So you give courtesy chocolates too, huh?
+
+@2F324 max=95
+JP: 手作りはいやだよ。
+EN: I don't want homemade ones.
+
+@2F384 max=95
+JP: 手作りがいいよぉ。
+EN: Homemade ones are the best.
+
+@2F3E4 max=95
+JP: あ、もらうほうなのか～。
+EN: Oh, you're the one getting chocolates, huh?
+
+@2F444 max=95
+JP: 手作りはいやだよ。
+EN: I don't want homemade ones.
+
+@2F4A4 max=95
+JP: 手作りがいいよぉ。
+EN: Homemade ones are the best.
+
+@2F504 max=95
+JP: 電車の中で本を読む？
+EN: Do you read books on the train?
+
+@2F564 max=95
+JP: 暇だもんね～電車。
+EN: Train rides get pretty boring, huh?
+
+@2F5C4 max=95
+JP: 読むなら漫画だろ。
+EN: Comics are the way to go.
+
+@2F624 max=95
+JP: ボク、漫画。
+EN: I read comics.
+
+@2F684 max=95
+JP: あ、広告見てるんだ～。
+EN: Oh, you look at the ads, huh?
+
+@2F6E4 max=95
+JP: 読むなら漫画だろ。
+EN: Comics are the way to go.
+
+@2F744 max=95
+JP: ボク、漫画。
+EN: I read comics.
+
+@2F7A4 max=95
+JP: バスの一番後ろって酔うよね？
+EN: Sitting at the back of a bus makes you queasy, right?
+
+@2F804 max=95
+JP: なんでだろうね、酔うよね。
+EN: Wonder why that is. It really does, huh?
+
+@2F864 max=95
+JP: 小型バスが酔うんだよ。
+EN: It's the little buses that get me.
+
+@2F8C4 max=95
+JP: バス、酔わないよ～。
+EN: Buses don't make me queasy.
+
+@2F924 max=95
+JP: 三半規管が強いのね～。
+EN: Your inner ears must be pretty tough, huh?
+
+@2F984 max=95
+JP: 小型バスが酔うんだよ。
+EN: It's the little buses that get me.
+
+@2F9E4 max=95
+JP: バス、酔わないよ～。
+EN: Buses don't make me queasy.
+
+@2FA44 max=95
+JP: イルカと泳いだことある？
+EN: Ever been swimming with dolphins?
+
+@2FAA4 max=95
+JP: なんか不思議な気持ちになるよね～。
+EN: It gives you such a strange feeling, huh?
+
+@2FB04 max=95
+JP: イルカ、いいぜ。
+EN: Dolphins are awesome.
+
+@2FB64 max=95
+JP: イルカ、可愛い。
+EN: Dolphins are cute.
+
+@2FBC4 max=95
+JP: いつか泳いでみて、不思議な気持ちになるよ～。
+EN: Try swimming with them someday. It gives you the strangest feeling.
+
+@2FC24 max=95
+JP: イルカ、いいぜ。
+EN: Dolphins are awesome.
+
+@2FC84 max=95
+JP: イルカ、可愛い。
+EN: Dolphins are cute.
+
+@2FCE4 max=95
+JP: 風邪を引くと喉にくる人？
+EN: Do colds get you in the throat?
+
+@2FD44 max=95
+JP: 痛いよね～扁桃腺腫れるよね～。
+EN: It hurts, huh? Your tonsils get all swollen.
+
+@2FDA4 max=95
+JP: オレ、熱が出るよ。
+EN: I get a fever.
+
+@2FE04 max=95
+JP: ボク、お腹壊すよ。
+EN: I get an upset tummy.
+
+@2FE64 max=95
+JP: ああ、鼻にくるのか～。
+EN: Oh, they get you in the nose, huh?
+
+@2FEC4 max=95
+JP: オレ、熱が出るよ。
+EN: I get a fever.
+
+@2FF24 max=95
+JP: ボク、お腹壊すよ。
+EN: I get an upset tummy.
+
+@2FF84 max=95
+JP: エジソンってえらいよね～？
+EN: Edison was pretty amazing, huh?
+
+@2FFE4 max=95
+JP: えらいよね～発明、すごいよね～。
+EN: He sure was. Those inventions were incredible.
+
+@30044 max=95
+JP: 誰だそりゃ？
+EN: Who's that guy?
+
+@300A4 max=95
+JP: エジソンはえらいよ～。
+EN: Edison was amazing.
+
+@30104 max=95
+JP: え～だって、電球とか発明したよ～。
+EN: Whaaat? But he invented stuff like the light bulb!
+
+@30164 max=95
+JP: 誰だそりゃ？
+EN: Who's that guy?
+
+@301C4 max=95
+JP: エジソンはえらいよ～。
+EN: Edison was amazing.
+
+@30224 max=95
+JP: お寿司はやっぱりトロだよね～？
+EN: Fatty tuna's the best sushi, right?
+
+@30284 max=95
+JP: だよね～おいしいよね～。
+EN: Right? It's sooo good.
+
+@302E4 max=95
+JP: オレはサバだね。
+EN: Mackerel for me.
+
+@30344 max=95
+JP: ボク、玉子。
+EN: I like egg.
+
+@303A4 max=95
+JP: お、ヒカリモノかな～。
+EN: Ooh, maybe some silver-skinned fish.
+
+@30404 max=95
+JP: オレはサバだね。
+EN: Mackerel for me.
+
+@30464 max=95
+JP: ボク、玉子。
+EN: I like egg.
+
+@304C4 max=95
+JP: ４月のうちから日焼け止め塗るよね～？
+EN: You start wearing sunscreen in April, right?
+
+@30524 max=95
+JP: ね～若いうちのケアがものをいうよね～。
+EN: Yeah, taking care of your skin while you're young really pays off.
+
+@30584 max=95
+JP: オレはいらない、そんなもの。
+EN: I don't need that stuff.
+
+@305E4 max=95
+JP: 真っ赤になっちゃうよ。
+EN: You'll turn bright red!
+
+@30644 max=95
+JP: 夏休みまで塗らないの？
+EN: You wait until summer vacation to put it on?
+
+@306A4 max=95
+JP: オレはいらない、そんなもの。
+EN: I don't need that stuff.
+
+@30704 max=95
+JP: 真っ赤になっちゃうよ。
+EN: You'll turn bright red!
+
+@30764 max=95
+JP: オンラインゲーム、やったことある？
+EN: Ever played any online games?
+
+@307C4 max=95
+JP: 楽しいよね、友達できるし。
+EN: They're fun, huh? You can make friends, too.
+
+@30824 max=95
+JP: かなり面白いぜ。
+EN: They're a blast.
+
+@30884 max=95
+JP: ボク、苦手～。
+EN: I'm no good at them...
+
+@308E4 max=95
+JP: けっこう楽しいよ～。
+EN: They're pretty fun, you know.
+
+@30944 max=95
+JP: かなり面白いぜ。
+EN: They're a blast.
+
+@309A4 max=95
+JP: ボク、苦手～。
+EN: I'm no good at them...
+
+@30A04 max=95
+JP: 中華料理っておいしいよね？
+EN: Chinese food's delicious, isn't it?
+
+@30A64 max=95
+JP: 何食べてもおいしいよね～。
+EN: Yeah, everything tastes so good!
+
+@30AC4 max=95
+JP: やっぱエビチリだろ。
+EN: Gotta be shrimp in chili sauce.
+
+@30B24 max=95
+JP: ボク、かに玉～。
+EN: Crab omelet for me!
+
+@30B84 max=95
+JP: 和食党なのね～。
+EN: Oh, you're more into Japanese food, huh?
+
+@30BE4 max=95
+JP: やっぱエビチリだろ。
+EN: Gotta be shrimp in chili sauce.
+
+@30C44 max=95
+JP: ボク、かに玉～。
+EN: Crab omelet for me!
+
+@30CA4 max=95
+JP: ギリシャ神話って面白いよね？
+EN: Greek myths are pretty interesting, aren't they?
+
+@30D04 max=95
+JP: ね～、神様がみんな個性的だよね。
+EN: Yeah, all the gods have such big personalities.
+
+@30D64 max=95
+JP: 神話ってのはどこのも面白いよ。
+EN: Myths are interesting wherever they're from.
+
+@30DC4 max=95
+JP: 面白いね。
+EN: They're fun.
+
+@30E24 max=95
+JP: あれ？読んだことないのか～。
+EN: Huh? You've never read any?
+
+@30E84 max=95
+JP: 神話ってのはどこのも面白いよ。
+EN: Myths are interesting wherever they're from.
+
+@30EE4 max=95
+JP: 面白いね。
+EN: They're fun.
+
+@30F44 max=95
+JP: 夕焼けってきれいだよね～？
+EN: Sunsets are beautiful, aren't they?
+
+@30FA4 max=95
+JP: ね～なんかじーんとするよね。
+EN: Yeah, they really touch your heart somehow.
+
+@31004 max=95
+JP: 朝焼けのほうがきれいだよ。
+EN: Sunrises are prettier.
+
+@31064 max=95
+JP: 夕焼けきれいだよぉ。
+EN: Sunsets are sooo pretty.
+
+@310C4 max=95
+JP: 悲しくなるかな～。
+EN: They make you feel sad, huh?
+
+@31124 max=95
+JP: 朝焼けのほうがきれいだよ。
+EN: Sunrises are prettier.
+
+@31184 max=95
+JP: 夕焼けきれいだよぉ。
+EN: Sunsets are sooo pretty.
+
+@311E4 max=95
+JP: お蕎麦って、真ん中からとると食べやすいよね？
+EN: Soba's easier to eat if you pick it up from the middle, right?
+
+@31244 max=95
+JP: ね～するするっととれるもんね～。
+EN: Yeah, the noodles slide right out!
+
+@312A4 max=95
+JP: 蕎麦はやっぱり盛り蕎麦だろ。
+EN: Soba's best served cold with dipping sauce.
+
+@31304 max=95
+JP: ボク、卵とじ～。
+EN: I like mine in broth with egg!
+
+@31364 max=95
+JP: 気にしないのか～。
+EN: You don't really pay attention to that, huh?
+
+@313C4 max=95
+JP: 蕎麦はやっぱり盛り蕎麦だろ。
+EN: Soba's best served cold with dipping sauce.
+
+@31424 max=95
+JP: ボク、卵とじ～。
+EN: I like mine in broth with egg!
+
+@31484 max=95
+JP: 子供のころ、積み木で遊んだ？
+EN: Did you play with building blocks as a kid?
+
+@314E4 max=95
+JP: 積み木って面白いよね～。
+EN: Building blocks are so much fun.
+
+@31544 max=95
+JP: オレはヒーローごっこ。
+EN: I played superheroes.
+
+@315A4 max=95
+JP: ボク、粘土。
+EN: I played with clay.
+
+@31604 max=95
+JP: あ、外遊び派だったのね～。
+EN: Oh, you were more of an outdoors kid, huh?
+
+@31664 max=95
+JP: オレはヒーローごっこ。
+EN: I played superheroes.
+
+@316C4 max=95
+JP: ボク、粘土。
+EN: I played with clay.
+
+@31724 max=95
+JP: 夏のスーパーの飲み物コーナーって<n>気持ちいいよね？
+EN: The supermarket's chilled drinks section<n>feels great in summer, doesn't it?
+
+@31784 max=95
+JP: ヒヤッとしてるよね。
+EN: It's nice and cool, huh?
+
+@317E4 max=95
+JP: オレは魚売り場が好きだぜ。
+EN: The fish counter's my favorite.
+
+@31844 max=95
+JP: ボク、アイスの売り場。
+EN: I like the ice cream section.
+
+@318A4 max=95
+JP: 寒すぎるかな～。
+EN: A bit too chilly, maybe...
+
+@31904 max=95
+JP: オレは魚売り場が好きだぜ。
+EN: The fish counter's my favorite.
+
+@31964 max=95
+JP: ボク、アイスの売り場。
+EN: I like the ice cream section.
+
+@319C4 max=95
+JP: 下駄はいたことある？
+EN: Ever worn geta sandals?
+
+@31A24 max=95
+JP: けっこう、難しいよね、歩くの。
+EN: They're pretty tricky to walk in, huh?
+
+@31A84 max=95
+JP: 下駄はいいよな。
+EN: Geta sandals are great.
+
+@31AE4 max=95
+JP: ボク、ゴムぞうり。
+EN: I wear rubber flip-flops.
+
+@31B44 max=95
+JP: けっこう、難しいんだよ～歩くの。
+EN: They're pretty hard to walk in...
+
+@31BA4 max=95
+JP: 下駄はいいよな。
+EN: Geta sandals are great.
+
+@31C04 max=95
+JP: ボク、ゴムぞうり。
+EN: I wear rubber flip-flops.
+
+@31C64 max=95
+JP: 花火っていいよね～？
+EN: Fireworks are great, huh?
+
+@31CC4 max=95
+JP: いいよね～花火大会とかね～。
+EN: Yeah... Fireworks festivals are lovely.
+
+@31D24 max=95
+JP: やっぱりでっかいのがいいな。
+EN: The bigger the fireworks, the better!
+
+@31D84 max=95
+JP: ボク、線香花火。
+EN: I like sparklers.
+
+@31DE4 max=95
+JP: うるさくていやかな～。
+EN: Too noisy for you, maybe...
+
+@31E44 max=95
+JP: やっぱりでっかいのがいいな。
+EN: The bigger the fireworks, the better!
+
+@31EA4 max=95
+JP: ボク、線香花火。
+EN: I like sparklers.
+
+@31F04 max=95
+JP: クリスマスにはツリーを飾る？
+EN: Do you decorate a tree for Christmas?
+
+@31F64 max=95
+JP: 気分が出るものね～。
+EN: Really gets you in the spirit, huh?
+
+@31FC4 max=95
+JP: ツリーよりプレゼントだな。
+EN: I'd rather have presents than a tree.
+
+@32024 max=95
+JP: ツリーよりケーキだなぁ。
+EN: I'd rather have cake than a tree...
+
+@32084 max=95
+JP: そうだよね～面倒だよね～。
+EN: Yeah... It's a lot of hassle, huh?
+
+@320E4 max=95
+JP: ツリーよりプレゼントだな。
+EN: I'd rather have presents than a tree.
+
+@32144 max=95
+JP: ツリーよりケーキだなぁ。
+EN: I'd rather have cake than a tree...
+
+@321A4 max=95
+JP: 栗、好き？
+EN: Do you like chestnuts?
+
+@32204 max=95
+JP: おいしいよね～甘くて香ばしくて。
+EN: So tasty... Sweet, with that lovely roasted flavor.
+
+@32264 max=95
+JP: オレは栗より、ピスタチオ。
+EN: I'll take pistachios over chestnuts.
+
+@322C4 max=95
+JP: ボクはピーナツ。
+EN: Peanuts for me.
+
+@32324 max=95
+JP: 嫌いなんだ～。
+EN: Oh, you don't like them...
+
+@32384 max=95
+JP: オレは栗より、ピスタチオ。
+EN: I'll take pistachios over chestnuts.
+
+@323E4 max=95
+JP: ボクはピーナツ。
+EN: Peanuts for me.
+
+@32444 max=95
+JP: ハーブティ飲んだことある？
+EN: Ever tried herbal tea?
+
+@324A4 max=95
+JP: いろんな効能があるんだってね～。
+EN: They say it's good for you in all sorts of ways...
+
+@32504 max=95
+JP: 日本茶で十分だよ。
+EN: Green tea's good enough for me.
+
+@32564 max=95
+JP: ボク、カモミールティ。
+EN: Chamomile tea for me.
+
+@325C4 max=95
+JP: いろんな種類あっておいしいよ。
+EN: There are lots of tasty kinds to try.
+
+@32624 max=95
+JP: 日本茶で十分だよ。
+EN: Green tea's good enough for me.
+
+@32684 max=95
+JP: ボク、カモミールティ。
+EN: Chamomile tea for me.
+
+@326E4 max=95
+JP: ゴミを投げてゴミ箱に入ると気持ちいいよね？
+EN: Feels good when you toss some trash and it lands in the bin, huh?
+
+@32744 max=95
+JP: なんか、いい感じだよね～。
+EN: It's just so satisfying...
+
+@327A4 max=95
+JP: オレは百発百中だぜ。
+EN: I never miss a shot!
+
+@32804 max=95
+JP: ボク、ダメ～。
+EN: I'm no good at it...
+
+@32864 max=95
+JP: あ、そんなことしないのか～。
+EN: Oh, you don't do that...
+
+@328C4 max=95
+JP: オレは百発百中だぜ。
+EN: I never miss a shot!
+
+@32924 max=95
+JP: ボク、ダメ～。
+EN: I'm no good at it...
+
+@32984 max=95
+JP: タクシーに乗るとメーターばかり見ちゃうよね？
+EN: You can't help watching the meter in a taxi, right?
+
+@329E4 max=95
+JP: 降りる手前で上がるよね～。
+EN: It always ticks up just before you get out...
+
+@32A44 max=95
+JP: タクシー乗るより歩くよな。
+EN: I'd rather walk than take a taxi.
+
+@32AA4 max=95
+JP: タクシー大好き。
+EN: I love taxis.
+
+@32B04 max=95
+JP: あ、せこいかなぁ～。
+EN: Oh, am I being a cheapskate...?
+
+@32B64 max=95
+JP: タクシー乗るより歩くよな。
+EN: I'd rather walk than take a taxi.
+
+@32BC4 max=95
+JP: タクシー大好き。
+EN: I love taxis.
+
+@32C24 max=95
+JP: かにクリームコロッケっておいしいよね？
+EN: Aren't crab cream croquettes delicious?
+
+@32C84 max=95
+JP: トロっとしていいよね～。
+EN: That creamy filling is so good...
+
+@32CE4 max=95
+JP: オレはジャガイモのコロッケがいいね。
+EN: I'll take a potato croquette.
+
+@32D44 max=95
+JP: ボクはコーンクリーム～。
+EN: Creamed corn croquettes for meee.
+
+@32DA4 max=95
+JP: 嫌いなの～。
+EN: You don't like them, huh?
+
+@32E04 max=95
+JP: オレはジャガイモのコロッケがいいね。
+EN: I'll take a potato croquette.
+
+@32E64 max=95
+JP: ボクはコーンクリーム～。
+EN: Creamed corn croquettes for meee.
+
+@32EC4 max=95
+JP: 山登りは好き？
+EN: Do you like climbing mountains?
+
+@32F24 max=95
+JP: 頂上がすがすがしいよね～。
+EN: Feels so refreshing at the top, huh?
+
+@32F84 max=95
+JP: 山は登るためにあるのだ。
+EN: Mountains are there to be climbed!
+
+@32FE4 max=95
+JP: 山登り好き～。
+EN: I love climbing mountains.
+
+@33044 max=95
+JP: 疲れるもんね～。
+EN: It sure wears you out, huh?
+
+@330A4 max=95
+JP: 山は登るためにあるのだ。
+EN: Mountains are there to be climbed!
+
+@33104 max=95
+JP: 山登り好き～。
+EN: I love climbing mountains.
+
+@33164 max=95
+JP: 寝るときはベッド？
+EN: Do you sleep in a bed?
+
+@331C4 max=95
+JP: ベッドなのね～。
+EN: A bed, huh?
+
+@33224 max=95
+JP: オレはベッド。
+EN: I sleep in a bed.
+
+@33284 max=95
+JP: ボク、布団～。
+EN: I sleep on a futon.
+
+@332E4 max=95
+JP: お布団なのね～。
+EN: A futon, huh?
+
+@33344 max=95
+JP: オレはベッド。
+EN: I sleep in a bed.
+
+@333A4 max=95
+JP: ボク、布団～。
+EN: I sleep on a futon.
+
+@33404 max=95
+JP: 総理大臣になりたい？
+EN: Do you want to be prime minister?
+
+@33464 max=95
+JP: すごいね～かなうといいね～。
+EN: Wow! Hope your dream comes true.
+
+@334C4 max=95
+JP: オレはいつかなりたいぜ。
+EN: I'm gonna be prime minister someday.
+
+@33524 max=95
+JP: ボクなりたくない～。
+EN: I don't wanna be one.
+
+@33584 max=95
+JP: 大変そうだもんね～。
+EN: Sounds like a tough job, huh?
+
+@335E4 max=95
+JP: オレはいつかなりたいぜ。
+EN: I'm gonna be prime minister someday.
+
+@33644 max=95
+JP: ボクなりたくない～。
+EN: I don't wanna be one.
+
+@336A4 max=95
+JP: ほんとはタレントになりたい？
+EN: Do you secretly want to be a celebrity?
+
+@33704 max=95
+JP: なりたいよね～、歌手がいいな～。
+EN: Me too. Being a singer sounds nice.
+
+@33764 max=95
+JP: オレは演歌歌手になりたい。
+EN: I want to be an enka singer.
+
+@337C4 max=95
+JP: ボク、アイドル。
+EN: I wanna be a pop idol.
+
+@33824 max=95
+JP: そうだよね～別になりたくないよね～。
+EN: Yeah, I don't really want to be one either.
+
+@33884 max=95
+JP: オレは演歌歌手になりたい。
+EN: I want to be an enka singer.
+
+@338E4 max=95
+JP: ボク、アイドル。
+EN: I wanna be a pop idol.
+
+@33944 max=95
+JP: 学校の先生って大変だよね？
+EN: Schoolteachers have it tough, don't they?
+
+@339A4 max=95
+JP: ね～責任重大だもんね～。
+EN: Yeah, it's a big responsibility.
+
+@33A04 max=95
+JP: 幼稚園の先生のほうが大変だよ。
+EN: Kindergarten teachers have it tougher.
+
+@33A64 max=95
+JP: 大学の先生だよ～。
+EN: College professors have it toughest.
+
+@33AC4 max=95
+JP: そうでもないか～。
+EN: Maybe it's not so tough after all.
+
+@33B24 max=95
+JP: 幼稚園の先生のほうが大変だよ。
+EN: Kindergarten teachers have it tougher.
+
+@33B84 max=95
+JP: 大学の先生だよ～。
+EN: College professors have it toughest.
+
+@33BE4 max=95
+JP: 時々、うそ、ついちゃうよね？
+EN: You tell a little lie sometimes, right?
+
+@33C44 max=95
+JP: 方便だよね～。
+EN: A little white lie can help, huh?
+
+@33CA4 max=95
+JP: オレはうそはつかない。
+EN: I never lie.
+
+@33D04 max=95
+JP: ボク、うそはつかない。
+EN: I don't tell lies.
+
+@33D64 max=95
+JP: えらいな～正直者だ～。
+EN: Good for you! You're so honest.
+
+@33DC4 max=95
+JP: オレはうそはつかない。
+EN: I never lie.
+
+@33E24 max=95
+JP: ボク、うそはつかない。
+EN: I don't tell lies.
+
+@33E84 max=95
+JP: 怖い話って好き？
+EN: Do you like scary stories?
+
+@33EE4 max=95
+JP: あ、好きなんだ～。
+EN: Oh, so you like them!
+
+@33F44 max=95
+JP: 怖い話なんて怖くないよ。
+EN: Scary stories don't scare me.
+
+@33FA4 max=95
+JP: 怖い話、怖いよぉ。
+EN: Scary stories scare meee.
+
+@34004 max=95
+JP: いやだよね～あとで思い出すと怖いよね～。
+EN: They're awful, huh? You remember them later and get scared all over again.
+
+@34064 max=95
+JP: 怖い話なんて怖くないよ。
+EN: Scary stories don't scare me.
+
+@340C4 max=95
+JP: 怖い話、怖いよぉ。
+EN: Scary stories scare meee.
+
+@34124 max=95
+JP: 冬、セーター脱ぐときぱちぱちっとするよね？
+EN: Your sweater crackles when you take it off in winter, right?
+
+@34184 max=95
+JP: ね～乾燥してるのね～。
+EN: Yeah, the air's so dry, huh?
+
+@341E4 max=95
+JP: オレなんかいつでもぱちぱち。
+EN: I'm always getting zapped.
+
+@34244 max=95
+JP: ボクもぱちぱち。
+EN: Me too. Zap, zap!
+
+@342A4 max=95
+JP: 潤いのある人なのね～。
+EN: Your skin must be nice and hydrated.
+
+@34304 max=95
+JP: オレなんかいつでもぱちぱち。
+EN: I'm always getting zapped.
+
+@34364 max=95
+JP: ボクもぱちぱち。
+EN: Me too. Zap, zap!
+
+@343C4 max=95
+JP: バンジージャンプしたことある？
+EN: Have you ever been bungee jumping?
+
+@34424 max=95
+JP: うわ～～～すごいなぁ～。
+EN: Whoooa! That's amazing!
+
+@34484 max=95
+JP: オレあるよ、オーストラリアで。
+EN: I have. In Australia.
+
+@344E4 max=95
+JP: ボク、したことない。
+EN: I've never tried it.
+
+@34544 max=95
+JP: ないよね～普通。
+EN: Most people haven't, huh?
+
+@345A4 max=95
+JP: オレあるよ、オーストラリアで。
+EN: I have. In Australia.
+
+@34604 max=95
+JP: ボク、したことない。
+EN: I've never tried it.
+
+@34664 max=95
+JP: ジェットコースターは好き？
+EN: Do you like roller coasters?
+
+@346C4 max=95
+JP: 気持ちいいよね、スカッとするよね。
+EN: What a rush, right? Blows all your worries away!
+
+@34724 max=95
+JP: ループがあるのがいいな。
+EN: I like the ones with loops.
+
+@34784 max=95
+JP: 身長足りなくて乗れない～～。
+EN: I'm too short to ride them!
+
+@347E4 max=95
+JP: あ、速い乗り物苦手なのね～。
+EN: Oh, fast rides aren't your thing, huh?
+
+@34844 max=95
+JP: ループがあるのがいいな。
+EN: I like the ones with loops.
+
+@348A4 max=95
+JP: 身長足りなくて乗れない～～。
+EN: I'm too short to ride them!
+
+@34904 max=95
+JP: 切手貼るとき、つい、なめちゃう？
+EN: Do you lick stamps out of habit?
+
+@34964 max=95
+JP: つい、なめちゃうよね～。
+EN: You just can't help licking them, huh?
+
+@349C4 max=95
+JP: なめちゃうな。
+EN: Yeah, I lick 'em.
+
+@34A24 max=95
+JP: ボクもなめちゃう。
+EN: I lick them too.
+
+@34A84 max=95
+JP: 変な味するもんね～。
+EN: They do taste funny, huh?
+
+@34AE4 max=95
+JP: なめちゃうな。
+EN: Yeah, I lick 'em.
+
+@34B44 max=95
+JP: ボクもなめちゃう。
+EN: I lick them too.
+
+@34BA4 max=95
+JP: ハンコって必要なとき、みつからないよね？
+EN: You can never find your personal seal when you need it, right?
+
+@34C04 max=95
+JP: ね～いらないときは３つもあるよね～。
+EN: Right? But when you don't need one, you find three!
+
+@34C64 max=95
+JP: オレは玄関においておくよ。
+EN: I keep mine by the front door.
+
+@34CC4 max=95
+JP: ハンコって何？
+EN: What's a personal seal?
+
+@34D24 max=95
+JP: 収納上手なんだね～。
+EN: You must be good at keeping things organized.
+
+@34D84 max=95
+JP: オレは玄関においておくよ。
+EN: I keep mine by the front door.
+
+@34DE4 max=95
+JP: ハンコって何？
+EN: What's a personal seal?
+
+@34E44 max=95
+JP: 最近、なにか面白い映画観た？
+EN: Seen any good movies lately?
+
+@34EA4 max=95
+JP: わ～いいな、デートかな。
+EN: Ooh, nice! Was it a date?
+
+@34F04 max=95
+JP: 最近、レンタルばっかりだよ。
+EN: I've just been renting movies lately.
+
+@34F64 max=95
+JP: 映画館、行きたい～。
+EN: I wanna go to the movies!
+
+@34FC4 max=95
+JP: 忙しいのね～。
+EN: You must be busy, huh?
+
+@35024 max=95
+JP: 最近、レンタルばっかりだよ。
+EN: I've just been renting movies lately.
+
+@35084 max=95
+JP: 映画館、行きたい～。
+EN: I wanna go to the movies!
+
+@350E4 max=95
+JP: 明日、なんか予定ある？
+EN: Got any plans for tomorrow?
+
+@35144 max=95
+JP: いいね～予定ありね～。
+EN: Nice! You've got plans!
+
+@351A4 max=95
+JP: オレは明日もここにいるぜ。
+EN: I'll be right here tomorrow too.
+
+@35204 max=95
+JP: ボクもここにいる。
+EN: I'll be here too.
+
+@35264 max=95
+JP: いいね～暇なのね～。
+EN: Nice! A whole day free!
+
+@352C4 max=95
+JP: オレは明日もここにいるぜ。
+EN: I'll be right here tomorrow too.
+
+@35324 max=95
+JP: ボクもここにいる。
+EN: I'll be here too.
+
+@35384 max=95
+JP: 寝坊すると、遅刻する夢見るよね？
+EN: When you oversleep, do you dream you're running late?
+
+@353E4 max=95
+JP: ね～焦って起きるとまだ家なんだよね～。
+EN: Right? You wake up in a panic, and you're still at home!
+
+@35444 max=95
+JP: はっと気づくと夢なんだよ。
+EN: Then it hits you. It was all a dream.
+
+@354A4 max=95
+JP: しょっちゅう見るよ～。
+EN: I have that dream all the time!
+
+@35504 max=95
+JP: 寝坊しないのか～。
+EN: Oh, so you don't oversleep?
+
+@35564 max=95
+JP: はっと気づくと夢なんだよ。
+EN: Then it hits you. It was all a dream.
+
+@355C4 max=95
+JP: しょっちゅう見るよ～。
+EN: I have that dream all the time!
+
+@35624 max=95
+JP: 一人で着物着られる？
+EN: Can you put on a kimono by yourself?
+
+@35684 max=95
+JP: わ～すごいね、帯も結べるんだ～。
+EN: Wow! You can even tie the sash?
+
+@356E4 max=95
+JP: オレは浴衣なら着られる。
+EN: I can put on a yukata, at least.
+
+@35744 max=95
+JP: ボク、ダメ～。
+EN: I'm no good at it...
+
+@357A4 max=95
+JP: 着られないよね～難しいよね。
+EN: Can't manage it, huh? It's tricky.
+
+@35804 max=95
+JP: オレは浴衣なら着られる。
+EN: I can put on a yukata, at least.
+
+@35864 max=95
+JP: ボク、ダメ～。
+EN: I'm no good at it...
+
+@358C4 max=95
+JP: 昨日、なんかいいことあった？
+EN: Did anything nice happen yesterday?
+
+@35924 max=95
+JP: やっぱりね～嬉しそうだもん。
+EN: Thought so! You look so happy.
+
+@35984 max=95
+JP: いいことなんて何もないぜ。
+EN: Nothing good happened to me.
+
+@359E4 max=95
+JP: いいことあったよ～。
+EN: Something nice happened to me!
+
+@35A44 max=95
+JP: 普通の日だったのね～。
+EN: Just an ordinary day, huh?
+
+@35AA4 max=95
+JP: いいことなんて何もないぜ。
+EN: Nothing good happened to me.
+
+@35B04 max=95
+JP: いいことあったよ～。
+EN: Something nice happened to me!
+
+@35B64 max=95
+JP: お料理はできる？
+EN: Can you cook?
+
+@35BC4 max=95
+JP: できるんだ～えらいね～。
+EN: You can? Good for you!
+
+@35C24 max=95
+JP: カレーぐらいだろ。
+EN: Bet you can only make curry.
+
+@35C84 max=95
+JP: ボク、トースト作れるよ。
+EN: I can make toast!
+
+@35CE4 max=95
+JP: 外食でもいいよね～。
+EN: Eating out is fine too, huh?
+
+@35D44 max=95
+JP: カレーぐらい作れるだろ。
+EN: You can at least make curry, right?
+
+@35DA4 max=95
+JP: ボク、トースト作れるよ。
+EN: I can make toast!
+
+@35E04 max=95
+JP: じゃがいもの芽って毒なんだよね？
+EN: Potato sprouts are poisonous, right?
+
+@35E64 max=95
+JP: ね～毒なんだってね。
+EN: Yeah, that's what I heard too.
+
+@35EC4 max=95
+JP: 剥くとき切るよな。
+EN: You cut them out when you peel potatoes, right?
+
+@35F24 max=95
+JP: じゃがいも大好き。
+EN: I love potatoes.
+
+@35F84 max=95
+JP: ちょっと伸びてる根元のところが毒なんだって。
+EN: They say the bit at the base of the sprout is poisonous.
+
+@35FE4 max=95
+JP: 剥くとき切るよな。
+EN: You cut them out when you peel potatoes, right?
+
+@36044 max=95
+JP: じゃがいも大好き。
+EN: I love potatoes.
+
+@360A4 max=95
+JP: カレーって翌日がおいしいよね？
+EN: Curry tastes better the next day, right?
+
+@36104 max=95
+JP: ね～味がしみるのね～。
+EN: Yeah, the flavors really soak in.
+
+@36164 max=95
+JP: 寝かせるとうまいんだよ。
+EN: Let it sit and it tastes better.
+
+@361C4 max=95
+JP: カレー大好き。
+EN: I love curry.
+
+@36224 max=95
+JP: 出来立てが好きなのね～。
+EN: You like it freshly made, huh?
+
+@36284 max=95
+JP: 寝かせるとうまいんだよ。
+EN: Let it sit and it tastes better.
+
+@362E4 max=95
+JP: カレー大好き。
+EN: I love curry.
+
+@36344 max=95
+JP: りんごは丸ごと食べる？
+EN: Do you eat apples without cutting them up?
+
+@363A4 max=95
+JP: ね～がぶっとね。
+EN: Yeah, just take a big bite!
+
+@36404 max=95
+JP: 皮にも栄養があるんだよ。
+EN: The skin's got nutrients too.
+
+@36464 max=95
+JP: りんご、おいしいよね。
+EN: Apples are yummy, huh?
+
+@364C4 max=95
+JP: あ、ちゃんと切るのね～。
+EN: Oh, you cut yours up first, huh?
+
+@36524 max=95
+JP: 皮にも栄養があるんだよ。
+EN: The skin's got nutrients too.
+
+@36584 max=95
+JP: りんご、おいしいよね。
+EN: Apples are yummy, huh?
+
+@365E4 max=95
+JP: みかんの内袋って食べちゃう？
+EN: Do you eat the thin skins on mandarin segments?
+
+@36644 max=95
+JP: 最近のはやわらかいもんね。
+EN: They're pretty soft these days, huh?
+
+@366A4 max=95
+JP: 面倒だ、全部食べちゃうよ。
+EN: Too much hassle. I just eat the whole thing.
+
+@36704 max=95
+JP: みかんは、缶詰が好き。
+EN: I like canned mandarins.
+
+@36764 max=95
+JP: 口の中に残るもんね。
+EN: They do linger in your mouth, huh?
+
+@367C4 max=95
+JP: 面倒だ、全部食べちゃうよ。
+EN: Too much hassle. I just eat the whole thing.
+
+@36824 max=95
+JP: みかんは、缶詰が好き。
+EN: I like canned mandarins.
+
+@36884 max=95
+JP: パイナップルは缶詰がいいよね？
+EN: Canned pineapple is best, right?
+
+@368E4 max=95
+JP: らくちんだもんね～。
+EN: It's so much easier, huh?
+
+@36944 max=95
+JP: 剥くのが大変だよな。
+EN: Peeling one is a real pain.
+
+@369A4 max=95
+JP: パイナップル、食べたい。
+EN: I want some pineapple.
+
+@36A04 max=95
+JP: フレッシュのほうが好きなのね～。
+EN: You like fresh pineapple better, huh?
+
+@36A64 max=95
+JP: 剥くのが大変だよな。
+EN: Peeling one is a real pain.
+
+@36AC4 max=95
+JP: パイナップル、食べたい。
+EN: I want some pineapple.
+
+@36B24 max=95
+JP: お風呂で使う石鹸は固形？
+EN: Do you use bar soap in the bath?
+
+@36B84 max=95
+JP: 小さくなると、使うの難しいよね。
+EN: It's hard to use when it gets tiny, huh?
+
+@36BE4 max=95
+JP: やっぱ、固形でしょ。
+EN: Bar soap's the way to go.
+
+@36C44 max=95
+JP: 泡、泡大好き。
+EN: Bubbles! I love bubbles!
+
+@36CA4 max=95
+JP: 液体のほうが簡単だもんね。
+EN: Liquid soap's easier to use.
+
+@36D04 max=95
+JP: やっぱ、固形でしょ。
+EN: Bar soap's the way to go.
+
+@36D64 max=95
+JP: 泡、泡大好き。
+EN: Bubbles! I love bubbles!
+
+@36DC4 max=95
+JP: シャワー好き？
+EN: Do you like showers?
+
+@36E24 max=95
+JP: マッサージ効果もありそうだよね。
+EN: Feels like you get a massage, too.
+
+@36E84 max=95
+JP: 夏でも半身浴だよ。
+EN: Even in summer, I take waist-deep baths.
+
+@36EE4 max=95
+JP: 頭を洗うのがいや～～。
+EN: I hate washing my haaair!
+
+@36F44 max=95
+JP: 夏でもゆっくり入るんだ～。
+EN: I take my time in the bath, even in summer.
+
+@36FA4 max=95
+JP: 半身浴だろ。
+EN: Waist-deep baths are the best.
+
+@37004 max=95
+JP: 頭を洗うのがいや～～。
+EN: I hate washing my haaair!
+
+@37064 max=95
+JP: ぬいぐるみは好き？
+EN: Do you like stuffed animals?
+
+@370C4 max=95
+JP: いいよね～大人になっても欲しいよね。
+EN: They're great! Even grown-ups want them.
+
+@37124 max=95
+JP: ぬいぐるみなんて子供のおもちゃだよ。
+EN: Stuffed animals are just toys for kids.
+
+@37184 max=95
+JP: ボク、熊のぬいぐるみ～。
+EN: I like teddy bears!
+
+@371E4 max=95
+JP: もう卒業したのね～。
+EN: So you've outgrown them, huh?
+
+@37244 max=95
+JP: ぬいぐるみなんて子供のおもちゃだよ。
+EN: Stuffed animals are just toys for kids.
+
+@372A4 max=95
+JP: ボク、熊のぬいぐるみ～。
+EN: I like teddy bears!
+
+@37304 max=95
+JP: 暇なときはテレビ見ちゃう？
+EN: Do you watch TV when you've got time to kill?
+
+@37364 max=95
+JP: つい、つけちゃうよね～。
+EN: You just can't help turning it on, huh?
+
+@373C4 max=95
+JP: 暇なときは寝るだろ。
+EN: Free time's for sleeping.
+
+@37424 max=95
+JP: 暇なときは遊ぶんだよ。
+EN: Free time's for playing!
+
+@37484 max=95
+JP: もしかしてジグソーパズルやってるのかな～。
+EN: Maybe you're doing jigsaw puzzles?
+
+@374E4 max=95
+JP: 暇なときは寝るだろ。
+EN: Free time's for sleeping.
+
+@37544 max=95
+JP: 暇なときは遊ぶんだよ。
+EN: Free time's for playing!
+
+@375A4 max=95
+JP: 懐中電灯持っている？
+EN: Do you have a flashlight?
+
+@37604 max=95
+JP: 備えあれば憂いなし。
+EN: Be prepared, and you'll have nothing to fear.
+
+@37664 max=95
+JP: ラジオもな。
+EN: A radio, too.
+
+@376C4 max=95
+JP: 懐中電灯、楽しいよね。
+EN: Flashlights are fun, huh?
+
+@37724 max=95
+JP: いざという時のために、買っておこう～。
+EN: You should buy one for emergencies.
+
+@37784 max=95
+JP: ラジオもな。
+EN: A radio, too.
+
+@377E4 max=95
+JP: 懐中電灯、楽しいよね。
+EN: Flashlights are fun, huh?
+
+@37844 max=95
+JP: 雷って怖いよね？
+EN: Thunder's scary, isn't it?
+
+@378A4 max=95
+JP: ピカ！のあとの間が怖いよね。
+EN: That wait after the flash is scary, huh?
+
+@37904 max=95
+JP: ちっとも怖くないよ。
+EN: It's not scary at all.
+
+@37964 max=95
+JP: おへそ、取られちゃうよ～。
+EN: The thunder god'll steal your belly button!
+
+@379C4 max=95
+JP: 大丈夫なんだ～。
+EN: So it doesn't bother you, huh?
+
+@37A24 max=95
+JP: ちっとも怖くないよ。
+EN: It's not scary at all.
+
+@37A84 max=95
+JP: おへそ、取られちゃうよ～。
+EN: The thunder god'll steal your belly button!
+
+@37AE4 max=95
+JP: 満員電車乗っていると、気分悪くなるよね？
+EN: Riding a packed train makes you feel sick, huh?
+
+@37B44 max=95
+JP: ね～貧血気味になるよね。
+EN: Yeah, you start feeling all faint.
+
+@37BA4 max=95
+JP: 満員電車は極力、乗らないのだ。
+EN: I avoid packed trains whenever I can.
+
+@37C04 max=95
+JP: 電車は楽しいよね。
+EN: Trains are fun, huh?
+
+@37C64 max=95
+JP: 強いんだね～。
+EN: You're pretty tough, huh?
+
+@37CC4 max=95
+JP: 満員電車は極力、乗らないのだ。
+EN: I avoid packed trains whenever I can.
+
+@37D24 max=95
+JP: 電車は楽しいよね。
+EN: Trains are fun, huh?
+
+@37D84 max=95
+JP: 動物園では、象が見たいよね？
+EN: At the zoo, you want to see the elephants, right?
+
+@37DE4 max=95
+JP: ね～、やっぱ象だよね。
+EN: Yeah, elephants are the best!
+
+@37E44 max=95
+JP: やっぱりサイだろ。
+EN: Rhinos are the best.
+
+@37EA4 max=95
+JP: やっぱり熊だよ。
+EN: Bears are the best!
+
+@37F04 max=95
+JP: あれ？キリンが見たいのか～。
+EN: Huh? You want to see the giraffes?
+
+@37F64 max=95
+JP: やっぱりサイだろ。
+EN: Rhinos are the best.
+
+@37FC4 max=95
+JP: やっぱり熊だよ。
+EN: Bears are the best!
+
+@38024 max=95
+JP: 水族館では、イルカが見たいよね～？
+EN: At the aquarium, you want to see the dolphins, right?
+
+@38084 max=95
+JP: ね～ジャンプとか、見たいよね～。
+EN: Yeah, you wanna see them jump and stuff, right?
+
+@380E4 max=95
+JP: やっぱシャチだろ。
+EN: Orcas. No contest.
+
+@38144 max=95
+JP: やっぱクマノミだよ～。
+EN: Clownfish are the best!
+
+@381A4 max=95
+JP: あれ？熱帯魚が見たいのかな～。
+EN: Huh? Maybe you wanna see tropical fish?
+
+@38204 max=95
+JP: やっぱシャチだろ。
+EN: Orcas. No contest.
+
+@38264 max=95
+JP: やっぱクマノミだよ～。
+EN: Clownfish are the best!
+
+@382C4 max=95
+JP: 沖縄、行った事ある？
+EN: Ever been to Okinawa?
+
+@38324 max=95
+JP: いいところだよね～。
+EN: It's such a nice place, huh?
+
+@38384 max=95
+JP: 食べ物もうまいぜ。
+EN: The food's great, too.
+
+@383E4 max=95
+JP: 海がきれい！
+EN: The sea's so pretty!
+
+@38444 max=95
+JP: とってもいいところだよ～。
+EN: It's a really lovely place!
+
+@384A4 max=95
+JP: 食べ物もうまいぜ。
+EN: The food's great, too.
+
+@38504 max=95
+JP: 海がきれい！
+EN: The sea's so pretty!
+
+@38564 max=95
+JP: 北海道、行った事ある？
+EN: Ever been to Hokkaido?
+
+@385C4 max=95
+JP: 夏は素敵なんだってね。
+EN: I hear it's lovely in summer.
+
+@38624 max=95
+JP: 冬がいいんだよ。
+EN: Winter's the best time to go.
+
+@38684 max=95
+JP: 雪祭り～～。
+EN: Snow festival!
+
+@386E4 max=95
+JP: 夏は素敵なんだって～。
+EN: They say it's lovely in summer!
+
+@38744 max=95
+JP: 冬がいいんだよ。
+EN: Winter's the best time to go.
+
+@387A4 max=95
+JP: 雪祭り～～。
+EN: Snow festival!
+
+@38804 max=95
+JP: クリップつなげて遊んだことある？
+EN: Ever linked paper clips together for fun?
+
+@38864 max=95
+JP: なんか、延々とつなげちゃうんだよね。
+EN: You just keep adding more and more, huh?
+
+@388C4 max=95
+JP: もったいないだろ。
+EN: What a waste.
+
+@38924 max=95
+JP: やったことある～～。
+EN: I've done that!
+
+@38984 max=95
+JP: ないよね、そんなことしないよね。
+EN: Nah, you wouldn't do that, would you?
+
+@389E4 max=95
+JP: もったいないだろ。
+EN: What a waste.
+
+@38A44 max=95
+JP: やったことある～～。
+EN: I've done that!
+
+@38AA4 max=95
+JP: 最近、画用紙って買った？
+EN: Bought any drawing paper lately?
+
+@38B04 max=95
+JP: あ、絵を描く人なんだね～。
+EN: Oh, so you like to draw!
+
+@38B64 max=95
+JP: オレは絵を描くから買うぜ。
+EN: I buy it. I draw, y'know.
+
+@38BC4 max=95
+JP: ボク、買うよ。
+EN: I buy it!
+
+@38C24 max=95
+JP: ね、大人になると買わないよね。
+EN: Yeah, you stop buying it when you grow up, huh?
+
+@38C84 max=95
+JP: オレは絵を描くから買うぜ。
+EN: I buy it. I draw, y'know.
+
+@38CE4 max=95
+JP: ボク、買うよ。
+EN: I buy it!
+
+@38D44 max=95
+JP: 傘の色は派手なほう？
+EN: Is your umbrella a bright color?
+
+@38DA4 max=95
+JP: 雨の日は傘ぐらいきれいにしたいよね。
+EN: On rainy days, at least your umbrella should look nice.
+
+@38E04 max=95
+JP: オレは黒い傘。
+EN: Mine's black.
+
+@38E64 max=95
+JP: ボクは黄色！
+EN: Mine's yellow!
+
+@38EC4 max=95
+JP: 最近、黒とか白が多いもんね。
+EN: You see lots of black and white ones these days.
+
+@38F24 max=95
+JP: オレは黒い傘。
+EN: Mine's black.
+
+@38F84 max=95
+JP: ボクは黄色！
+EN: Mine's yellow!
+
+@38FE4 max=95
+JP: あちち！ってやって、手を耳たぶに当てる？
+EN: When you touch something hot, do you grab your earlobes?
+
+@39044 max=95
+JP: ね～ついやっちゃうよね。
+EN: Yeah, you just do it without thinking, huh?
+
+@390A4 max=95
+JP: 耳たぶは冷たい、というよ。
+EN: They say earlobes are cool to the touch.
+
+@39104 max=95
+JP: 耳たぶってどこ？
+EN: Where are my earlobes?
+
+@39164 max=95
+JP: 迷信なのかな～。
+EN: Maybe it's just an old wives' tale?
+
+@391C4 max=95
+JP: 耳たぶは冷たい、というよ。
+EN: They say earlobes are cool to the touch.
+
+@39224 max=95
+JP: 耳たぶってどこ？
+EN: Where are my earlobes?
+
+@39284 max=95
+JP: ゼリー、作ったことある？
+EN: Ever made jelly?
+
+@392E4 max=95
+JP: 型から抜くのが難しいよね。
+EN: Getting it out of the mold is tricky, huh?
+
+@39344 max=95
+JP: ゼリーなんて食わん。
+EN: I don't eat that stuff.
+
+@393A4 max=95
+JP: ゼリー大好き。
+EN: I love jelly!
+
+@39404 max=95
+JP: おうちで作るとまたおいしいよ。
+EN: Homemade jelly tastes extra good!
+
+@39464 max=95
+JP: ゼリーなんて食わん。
+EN: I don't eat that stuff.
+
+@394C4 max=95
+JP: ゼリー大好き。
+EN: I love jelly!
+
+@39524 max=95
+JP: 焼肉、好き？
+EN: Do you like grilled meat?
+
+@39584 max=95
+JP: 疲れると食べたくなるよね～。
+EN: You crave it when you're tired, huh?
+
+@395E4 max=95
+JP: オレ一人でカルビ4人前。
+EN: Four servings of short ribs, all for me.
+
+@39644 max=95
+JP: ボク、クッパ～。
+EN: Rice soup for me!
+
+@396A4 max=95
+JP: しつこい料理が嫌いなのね～。
+EN: So you're not into rich food, huh?
+
+@39704 max=95
+JP: オレ一人でカルビ4人前。
+EN: Four servings of short ribs, all for me.
+
+@39764 max=95
+JP: ボク、クッパ～。
+EN: Rice soup for me!
+
+@397C4 max=95
+JP: ピザは好き？
+EN: Do you like pizza?
+
+@39824 max=95
+JP: 薄いヤツがおいしいよね。
+EN: Thin crust is the best, huh?
+
+@39884 max=95
+JP: サラミのやつがいいね。
+EN: Salami's the way to go.
+
+@398E4 max=95
+JP: ボク、トマト～。
+EN: Tomato for me!
+
+@39944 max=95
+JP: チーズが苦手なのかな～。
+EN: Maybe you're not a fan of cheese?
+
+@399A4 max=95
+JP: サラミのやつがいいね。
+EN: Salami's the way to go.
+
+@39A04 max=95
+JP: ボク、トマト～。
+EN: Tomato for me!
+
+@39A64 max=95
+JP: テレビのＣＭソングって覚えちゃうよね？
+EN: TV jingles really stick in your head, huh?
+
+@39AC4 max=95
+JP: ね～気づくと口ずさんじゃうよね。
+EN: Yeah, you catch yourself humming them.
+
+@39B24 max=95
+JP: 特に、飲料水のやつな。
+EN: Especially the ones for drinks.
+
+@39B84 max=95
+JP: ボク、お菓子の歌。
+EN: I like the candy jingles.
+
+@39BE4 max=95
+JP: あまりテレビ見ないのかな。
+EN: Maybe you don't watch much TV.
+
+@39C44 max=95
+JP: 特に、飲料水のやつな。
+EN: Especially the ones for drinks.
+
+@39CA4 max=95
+JP: ボク、お菓子の歌。
+EN: I like the candy jingles.
+
+@39D04 max=95
+JP: 美容院には月いちで行く？
+EN: Do you go to the salon once a month?
+
+@39D64 max=95
+JP: だいたい、そのぐらいだよね。
+EN: Yeah, that sounds about right.
+
+@39DC4 max=95
+JP: 半年に一度ぐらいだろ。
+EN: Once every six months is plenty.
+
+@39E24 max=95
+JP: おうちで切るのかな。
+EN: Maybe you get your hair cut at home.
+
+@39E84 max=95
+JP: あ、もっと頻繁に行くのか。
+EN: Oh, you go even more often?
+
+@39EE4 max=95
+JP: 半年に一度ぐらいだろ。
+EN: Once every six months is plenty.
+
+@39F44 max=95
+JP: おうちで切るのかな。
+EN: Maybe you get your hair cut at home.
+
+@39FA4 max=95
+JP: アイドルのヘアスタイルって真似したいよね？
+EN: Ever want to copy a pop star's hairstyle?
+
+@3A004 max=95
+JP: ね、憧れるよね～。
+EN: Yeah, they look so cool!
+
+@3A064 max=95
+JP: しょせん顔が違うからな。
+EN: Still won't give you their face, though.
+
+@3A0C4 max=95
+JP: 真似したいけどできない～。
+EN: I want to, but I can't!
+
+@3A124 max=95
+JP: そんなにミーハーじゃないか～。
+EN: Guess you're not that starstruck, huh?
+
+@3A184 max=95
+JP: しょせん顔が違うからな。
+EN: Still won't give you their face, though.
+
+@3A1E4 max=95
+JP: 真似したいけどできない～。
+EN: I want to, but I can't!
+
+@3A244 max=95
+JP: ゲーセンには行く？
+EN: Do you go to arcades?
+
+@3A2A4 max=95
+JP: 楽しいよね！
+EN: They're so much fun!
+
+@3A304 max=95
+JP: レースものなら任せろ。
+EN: Racing games? Leave those to me.
+
+@3A364 max=95
+JP: ボク、太鼓。
+EN: I like the drum game.
+
+@3A3C4 max=95
+JP: うるさいもんね。
+EN: They are pretty noisy, huh?
+
+@3A424 max=95
+JP: レースものなら任せろ。
+EN: Racing games? Leave those to me.
+
+@3A484 max=95
+JP: ボク、太鼓。
+EN: I like the drum game.
+
+@3A4E4 max=95
+JP: 注射っていやだよね？
+EN: Don't you hate getting shots?
+
+@3A544 max=95
+JP: なんか、刺されるのがいやだよね。
+EN: Yeah, it's the needle going in that gets me.
+
+@3A5A4 max=95
+JP: あんなモノ屁でもない。
+EN: Ha! Shots are nothing.
+
+@3A604 max=95
+JP: 注射怖い～～。
+EN: Needles are scary!
+
+@3A664 max=95
+JP: あ、平気なんだ。
+EN: Oh, they don't bother you?
+
+@3A6C4 max=95
+JP: あんなモノ屁でもない。
+EN: Ha! Shots are nothing.
+
+@3A724 max=95
+JP: 注射怖い～～。
+EN: Needles are scary!
+
+@3A784 max=95
+JP: デパートはよく行くほう？
+EN: Do you go to department stores much?
+
+@3A7E4 max=95
+JP: 新宿とか、銀座とかね～。
+EN: Like the ones in Shinjuku or Ginza, huh?
+
+@3A844 max=95
+JP: もっと地方のデパートでしょ。
+EN: Probably ones a bit farther out of town.
+
+@3A8A4 max=95
+JP: 屋上が楽しいよ。
+EN: The rooftops are fun!
+
+@3A904 max=95
+JP: 人ごみ嫌いなのね。
+EN: Guess you don't like crowds.
+
+@3A964 max=95
+JP: おばさんだらけだもんな。
+EN: They're full of middle-aged ladies, after all.
+
+@3A9C4 max=95
+JP: 屋上が楽しいよ。
+EN: The rooftops are fun!
+
+@3AA24 max=95
+JP: 車の運転はする？
+EN: Do you drive?
+
+@3AA84 max=95
+JP: 運転、上手そうだよね～。
+EN: I bet you're a good driver.
+
+@3AAE4 max=95
+JP: 運転、気をつけろよ。
+EN: Drive safe, all right?
+
+@3AB44 max=95
+JP: ボクも運転したい。
+EN: I wanna drive too.
+
+@3ABA4 max=95
+JP: 免許まだなのね～。
+EN: No license yet, huh?
+
+@3AC04 max=95
+JP: 運転、気をつけろよ。
+EN: Drive safe, all right?
+
+@3AC64 max=95
+JP: ボクも運転したい。
+EN: I wanna drive too.
+
+@3ACC4 max=95
+JP: 世の中悪いことばかりじゃないよね？
+EN: Life isn't all bad, right?
+
+@3AD24 max=95
+JP: ね、いつかいいときもあるよね。
+EN: Yeah, good times will come along someday.
+
+@3AD84 max=95
+JP: 悪いことのあとにはいいことがあるぜ。
+EN: Good things follow the bad stuff.
+
+@3ADE4 max=95
+JP: いいことあるよ。
+EN: Something good will happen!
+
+@3AE44 max=95
+JP: あらら、落ち込んでるのね。
+EN: Aw, you're feeling down, huh?
+
+@3AEA4 max=95
+JP: 悪いことのあとにはいいことがあるぜ。
+EN: Good things follow the bad stuff.
+
+@3AF04 max=95
+JP: いいことあるよ。
+EN: Something good will happen!
+
+@3AF64 max=95
+JP: パスポートの写真ていつも変だよね？
+EN: Passport photos always look weird, don't they?
+
+@3AFC4 max=95
+JP: なんでだろうね～。
+EN: I wonder why that is.
+
+@3B024 max=95
+JP: オレなんかまるで別人。
+EN: I look like a totally different guy in mine.
+
+@3B084 max=95
+JP: ボクも別人。
+EN: Me too!
+
+@3B0E4 max=95
+JP: 上手に写したのね～。
+EN: Yours came out nice, huh?
+
+@3B144 max=95
+JP: オレなんかまるで別人。
+EN: I look like a totally different guy in mine.
+
+@3B1A4 max=95
+JP: ボクも別人。
+EN: Me too!
+
+@3B204 max=95
+JP: 猫、飼っている？
+EN: Do you have a cat?
+
+@3B264 max=95
+JP: わ、いいな、飼っているんだ。
+EN: Wow, you do? Lucky you!
+
+@3B2C4 max=95
+JP: 猫はきれい好きでいいよな。
+EN: Cats keep themselves clean. Gotta love that.
+
+@3B324 max=95
+JP: 猫、可愛いよね。
+EN: Cats are cute, huh?
+
+@3B384 max=95
+JP: 猫、嫌いなのかな～。
+EN: Maybe you're not a cat person?
+
+@3B3E4 max=95
+JP: 猫はきれい好きでいいよな。
+EN: Cats keep themselves clean. Gotta love that.
+
+@3B444 max=95
+JP: 猫、可愛いよね。
+EN: Cats are cute, huh?
+
+@3B4A4 max=95
+JP: カブトムシ採ったことある？
+EN: Ever caught a rhinoceros beetle?
+
+@3B504 max=95
+JP: ね～早起きしてね～。
+EN: Yeah, you have to get up early, huh?
+
+@3B564 max=95
+JP: クワガタだよな。
+EN: Stag beetles are where it's at.
+
+@3B5C4 max=95
+JP: ボク、てんとう虫。
+EN: I catch ladybugs!
+
+@3B624 max=95
+JP: あれ、虫嫌いだったのかな。
+EN: Oh, maybe you don't like bugs?
+
+@3B684 max=95
+JP: クワガタだよな。
+EN: Stag beetles are where it's at.
+
+@3B6E4 max=95
+JP: ボク、てんとう虫。
+EN: I catch ladybugs!
+
+@3B744 max=95
+JP: テレビのリモコンって<n>しょっちゅう無くなるよね？
+EN: The TV remote's always<n>going missing, isn't it?
+
+@3B7A4 max=95
+JP: 決まった場所に置けばいいんだけどね～。
+EN: We should just put it in the same spot every time.
+
+@3B804 max=95
+JP: 決まった場所はあるんだけどな。
+EN: It already has a spot, though.
+
+@3B864 max=95
+JP: なくしちゃうよ～。
+EN: I still lose it!
+
+@3B8C4 max=95
+JP: 決まった場所に置いてるのね。
+EN: You always put it back in its spot, huh?
+
+@3B924 max=95
+JP: 決まった場所はあるんだけどな。
+EN: It already has a spot, though.
+
+@3B984 max=95
+JP: なくしちゃうよ～。
+EN: I still lose it!
+
+@3B9E4 max=95
+JP: 世の中には、変わった名前の人がいるよね？
+EN: Some people have unusual names, don't they?
+
+@3BA44 max=95
+JP: いるよね～面白い名前の人。
+EN: Yeah, some names are pretty funny.
+
+@3BAA4 max=95
+JP: 読めない漢字もあるよな。
+EN: Some names use kanji I can't even read.
+
+@3BB04 max=95
+JP: ボク、わかんない～。
+EN: I can't read them either!
+
+@3BB64 max=95
+JP: 周りにはいないのかな。
+EN: Maybe you don't know anyone like that.
+
+@3BBC4 max=95
+JP: 読めない漢字もあるよな。
+EN: Some names use kanji I can't even read.
+
+@3BC24 max=95
+JP: ボク、わかんない～。
+EN: I can't read them either!
+
+@3BC84 max=95
+JP: 公園の噴水で泳いだことある？
+EN: Ever gone swimming in a park fountain?
+
+@3BCE4 max=95
+JP: あるんだ！気持ちよさそうだよね。
+EN: You have? That sounds refreshing!
+
+@3BD44 max=95
+JP: そんなことしないよな。
+EN: You wouldn't do that, right?
+
+@3BDA4 max=95
+JP: ボク、あります～。
+EN: I have!
+
+@3BE04 max=95
+JP: ないよね、普通。
+EN: Most people haven't, huh?
+
+@3BE64 max=95
+JP: そんなことしないよな。
+EN: You wouldn't do that, right?
+
+@3BEC4 max=95
+JP: ボク、あります～。
+EN: I have!
+
+@3BF24 max=95
+JP: トイレットペーパーって買い置きしている？
+EN: Do you keep spare toilet paper around?
+
+@3BF84 max=95
+JP: 突然なくなったら大変だもんね。
+EN: You'd be in trouble if you suddenly ran out.
+
+@3BFE4 max=95
+JP: 普通、するよな。
+EN: Most people do.
+
+@3C044 max=95
+JP: するよね。
+EN: Of course you do.
+
+@3C0A4 max=95
+JP: え、じゃ、突然なくなったら大変だね。
+EN: Huh? Then you're in trouble if you suddenly run out.
+
+@3C104 max=95
+JP: 買い置きしておけよ。
+EN: Better stock up.
+
+@3C164 max=95
+JP: 買い置きしてね～。
+EN: Make sure you stock up, okay?
+
+@3C1C4 max=95
+JP: マニキュアってちょっと剥げるといやだよね？
+EN: Don't you hate it when your nail polish chips?
+
+@3C224 max=95
+JP: ね、いやだよね～。
+EN: Right? It's so annoying.
+
+@3C284 max=95
+JP: なんか貧乏くさいんだよな。
+EN: Looks kinda shabby, too.
+
+@3C2E4 max=95
+JP: したことないよ～～。
+EN: I've never worn nail polish!
+
+@3C344 max=95
+JP: いやじゃないんだ～。
+EN: Oh, so it doesn't bother you?
+
+@3C3A4 max=95
+JP: なんか貧乏くさいんだよな。
+EN: Looks kinda shabby, too.
+
+@3C404 max=95
+JP: したことないよ～～。
+EN: I've never worn nail polish!
+
+@3C464 max=95
+JP: 洗濯物が乾かないと憂鬱だよね？
+EN: Isn't it depressing when your laundry won't dry?
+
+@3C4C4 max=95
+JP: ね～、困るよね。
+EN: Yeah, it's such a pain.
+
+@3C524 max=95
+JP: 雨の日はいやだな。
+EN: Rainy days are the worst.
+
+@3C584 max=95
+JP: 匂いがいや～。
+EN: I hate that smell!
+
+@3C5E4 max=95
+JP: 乾燥機があるのね。
+EN: You must have a dryer.
+
+@3C644 max=95
+JP: 雨の日はいやだな。
+EN: Rainy days are the worst.
+
+@3C6A4 max=95
+JP: 匂いがいや～。
+EN: I hate that smell!
+
+@3C704 max=95
+JP: 靴の底って同じところが減るよね？
+EN: Do your shoe soles always wear down in the same spot?
+
+@3C764 max=95
+JP: ね、歩き方の癖なのかな～。
+EN: Yeah. Maybe it's the way we walk.
+
+@3C7C4 max=95
+JP: いつも右が減るんだよ。
+EN: Mine always wear down on the right.
+
+@3C824 max=95
+JP: ボク、左。
+EN: Mine on the left.
+
+@3C884 max=95
+JP: 歩き方が上手なのかも。
+EN: Maybe you've got a better way of walking.
+
+@3C8E4 max=95
+JP: いつも右が減るんだよ。
+EN: Mine always wear down on the right.
+
+@3C944 max=95
+JP: ボク、左。
+EN: Mine on the left.
+
+@3C9A4 max=95
+JP: 水着は毎年、買う？
+EN: Do you buy a new swimsuit every year?
+
+@3CA04 max=95
+JP: ね、流行があるもんね。
+EN: Yeah, you've got to keep up with the latest styles.
+
+@3CA64 max=95
+JP: オレなんかもう５年も同じ。
+EN: I've worn the same one for five years.
+
+@3CAC4 max=95
+JP: ボク、今年買ったよ。
+EN: I bought one this year!
+
+@3CB24 max=95
+JP: あまり体型も変わらないしね。
+EN: Your figure doesn't change much, either.
+
+@3CB84 max=95
+JP: オレなんかもう５年も同じ。
+EN: I've worn the same one for five years.
+
+@3CBE4 max=95
+JP: ボク、今年買ったよ。
+EN: I bought one this year!
+
+@3CC44 max=95
+JP: お雛様ってちゃんとしまう？
+EN: Do you put your Girls' Day dolls away on time?
+
+@3CCA4 max=95
+JP: なんか、気になるもんね。
+EN: Yeah, you can't help worrying about it.
+
+@3CD04 max=95
+JP: しまわないとオヨメにいけないんだって。
+EN: They say you'll never get married if you leave them out.
+
+@3CD64 max=95
+JP: ちゃんとしまって～。
+EN: Be sure to put them away!
+
+@3CDC4 max=95
+JP: 迷信だよね～。
+EN: It's just a superstition, right?
+
+@3CE24 max=95
+JP: しまわないとオヨメにいけないんだって。
+EN: They say you'll never get married if you leave them out.
+
+@3CE84 max=95
+JP: ちゃんとしまって～。
+EN: Be sure to put them away!
+
+@3CEE4 max=95
+JP: 夏休みの前ってわくわくするよね？
+EN: Don't you get excited just before summer vacation?
+
+@3CF44 max=95
+JP: あれこれ、計画しちゃうよね。
+EN: You start making all sorts of plans.
+
+@3CFA4 max=95
+JP: 一年中、夏休みみたいなもんなんだろ。
+EN: Your whole year's basically one big summer vacation, though.
+
+@3D004 max=95
+JP: わくわくする～。
+EN: I get so excited!
+
+@3D064 max=95
+JP: あれ？？しないんだ～。
+EN: Huh? You don't?
+
+@3D0C4 max=95
+JP: 一年中、夏休みみたいなもんなんだろ。
+EN: Your whole year's basically one big summer vacation, though.
+
+@3D124 max=95
+JP: わくわくする～。
+EN: I get so excited!
+
+@3D184 max=95
+JP: 郵便ポストって丸いやつのほうがいいよね？
+EN: Don't you like the round mailboxes better?
+
+@3D1E4 max=95
+JP: ね、可愛いもんね。
+EN: Yeah, they're so cute.
+
+@3D244 max=95
+JP: 最近、ないよな。
+EN: Don't see many these days.
+
+@3D2A4 max=95
+JP: 丸いのがいいな。
+EN: I'd like a round one.
+
+@3D304 max=95
+JP: あれ？もしかして見たことないのかな。
+EN: Huh? Have you never seen one before?
+
+@3D364 max=95
+JP: 最近、ないよな。
+EN: Don't see many these days.
+
+@3D3C4 max=95
+JP: 丸いのがいいな。
+EN: I'd like a round one.
+
+@3D424 max=95
+JP: 出かけた後、鍵をかけたか気になるよね？
+EN: Ever leave home and wonder if you locked the door?
+
+@3D484 max=95
+JP: 戻っちゃったり、するよね。
+EN: You end up going back to check, huh?
+
+@3D4E4 max=95
+JP: オレはいつもちゃんとかける。
+EN: I always make sure I lock up.
+
+@3D544 max=95
+JP: ボクもかける。
+EN: I lock up too.
+
+@3D5A4 max=95
+JP: 自信があるんだね！
+EN: You're sure of yourself!
+
+@3D604 max=95
+JP: オレはいつもちゃんとかける。
+EN: I always make sure I lock up.
+
+@3D664 max=95
+JP: ボクもかける。
+EN: I lock up too.
+
+@3D6C4 max=95
+JP: オペラ観たことある？
+EN: Ever been to the opera?
+
+@3D724 max=95
+JP: とても素晴しいよね。
+EN: It's wonderful, isn't it?
+
+@3D784 max=95
+JP: あれは素晴しいね。
+EN: Yeah, it's amazing.
+
+@3D7E4 max=95
+JP: 素晴しい～～。
+EN: Sooo wonderful.
+
+@3D844 max=95
+JP: とても素晴しいから一度行ってみて。
+EN: It's wonderful. You should go at least once.
+
+@3D8A4 max=95
+JP: あれは素晴しいね。
+EN: Yeah, it's amazing.
+
+@3D904 max=95
+JP: 素晴しい～～。
+EN: Sooo wonderful.
+
+@3D964 max=95
+JP: 郵便受けにＤＭしか入ってないと頭にくるよね？
+EN: Doesn't it drive you nuts when your mailbox is full of nothing but junk mail?
+
+@3D9C4 max=95
+JP: ね、ムカッとするよね。
+EN: Right? It really gets on your nerves.
+
+@3DA24 max=95
+JP: 全部捨てちゃうぜ。
+EN: I chuck it all out.
+
+@3DA84 max=95
+JP: 面白いからみんな見る。
+EN: I read it all. It's fun.
+
+@3DAE4 max=95
+JP: 使えるＤＭもあるけどね。
+EN: Some junk mail does come in handy, though.
+
+@3DB44 max=95
+JP: 全部捨てちゃうぜ。
+EN: I chuck it all out.
+
+@3DBA4 max=95
+JP: 面白いからみんな見る。
+EN: I read it all. It's fun.
+
+@3DC04 max=95
+JP: 七夕ってお祭りする？
+EN: Do you celebrate the Star Festival?
+
+@3DC64 max=95
+JP: 小さくてもいいから飾るよね。
+EN: You've got to put up decorations, even just a few.
+
+@3DCC4 max=95
+JP: 面倒だよ。
+EN: Too much hassle.
+
+@3DD24 max=95
+JP: ボク、飾る～～。
+EN: I put them uuup!
+
+@3DD84 max=95
+JP: 笹の葉、飾らないのか～。
+EN: Oh, so you don't decorate a bamboo branch?
+
+@3DDE4 max=95
+JP: 面倒だもんな。
+EN: It is a hassle.
+
+@3DE44 max=95
+JP: ボク、飾る～～。
+EN: I put them uuup!
+
+@3DEA4 max=95
+JP: クリームソーダっておいしいよね？
+EN: Soda floats are yummy, aren't they?
+
+@3DF04 max=95
+JP: ね～飲みたいよね。
+EN: Yeah, I could go for one right now.
+
+@3DF64 max=95
+JP: 子供の飲み物だな。
+EN: That's a drink for kids.
+
+@3DFC4 max=95
+JP: アイスが混ざったとこが好き。
+EN: I like it when the ice cream mixes with the soda.
+
+@3E024 max=95
+JP: 甘すぎるかな～。
+EN: Maybe they're a little too sweet?
+
+@3E084 max=95
+JP: 子供の飲み物だな。
+EN: That's a drink for kids.
+
+@3E0E4 max=95
+JP: アイスが混ざったとこが好き。
+EN: I like it when the ice cream mixes with the soda.
+
+@3E144 max=95
+JP: ウォーキングってダイエット効果あると思う？
+EN: Think walking helps you lose weight?
+
+@3E1A4 max=95
+JP: あるよね、あるよね。
+EN: It does, right? Right?
+
+@3E204 max=95
+JP: ウォーキング疲れるよな。
+EN: Walking wears you out.
+
+@3E264 max=95
+JP: 歩くの大好き。
+EN: I love walking.
+
+@3E2C4 max=95
+JP: やっぱり食餌療法かな。
+EN: Maybe changing what you eat is the way to go.
+
+@3E324 max=95
+JP: ウォーキング疲れるよな。
+EN: Walking wears you out.
+
+@3E384 max=95
+JP: 歩くの大好き。
+EN: I love walking.
+
+@3E3E4 max=95
+JP: ガーデニング、している？
+EN: Do you do any gardening?
+
+@3E444 max=95
+JP: わ～いいね、どんな花かな～。
+EN: Ooh, nice! What kind of flowers do you grow?
+
+@3E4A4 max=95
+JP: オレは盆栽。
+EN: I grow bonsai.
+
+@3E504 max=95
+JP: ボク、水栽培。
+EN: I grow plants in water.
+
+@3E564 max=95
+JP: なかなか時間がないもんね。
+EN: It's hard to find the time, huh?
+
+@3E5C4 max=95
+JP: オレは盆栽。
+EN: I grow bonsai.
+
+@3E624 max=95
+JP: ボク、水栽培。
+EN: I grow plants in water.
+
+@3E684 max=95
+JP: コーヒーは好き？
+EN: Do you like coffee?
+
+@3E6E4 max=95
+JP: おいしいよね、カフェラテとかね。
+EN: It's yummy, isn't it? Especially a latte.
+
+@3E744 max=95
+JP: コーヒー旨いよね。
+EN: Coffee's good, huh?
+
+@3E7A4 max=95
+JP: コーヒー苦いよね。
+EN: Coffee's bitter, huh?
+
+@3E804 max=95
+JP: 紅茶のほうが好きなのかな。
+EN: Maybe you prefer tea?
+
+@3E864 max=95
+JP: コーヒー旨いよね。
+EN: Coffee's good, huh?
+
+@3E8C4 max=95
+JP: コーヒー苦いよね。
+EN: Coffee's bitter, huh?
+
+@3E924 max=95
+JP: ゴルフはできる？
+EN: Can you play golf?
+
+@3E984 max=95
+JP: わ、すごいね。
+EN: Wow, impressive!
+
+@3E9E4 max=95
+JP: オレは得意だぜ。
+EN: I'm pretty good at it!
+
+@3EA44 max=95
+JP: ゲームならできるよ～。
+EN: Only in video games!
+
+@3EAA4 max=95
+JP: オヤジ趣味だもんね。
+EN: It's an old man's hobby, huh?
+
+@3EB04 max=95
+JP: オレは得意だぜ。
+EN: I'm pretty good at it!
+
+@3EB64 max=95
+JP: ゲームならできるよ～。
+EN: Only in video games!
+
+@3EBC4 max=95
+JP: 暑中見舞いって出す？
+EN: Do you send summer greeting cards?
+
+@3EC24 max=95
+JP: えらいね、ちゃんと出すんだ。
+EN: Good for you, keeping that up!
+
+@3EC84 max=95
+JP: オレはきっちり出すよ。
+EN: I send mine without fail.
+
+@3ECE4 max=95
+JP: ボクも出す～。
+EN: I send them too!
+
+@3ED44 max=95
+JP: 最近出す人少ないよね。
+EN: Not many people send them these days, huh?
+
+@3EDA4 max=95
+JP: オレはきっちり出すよ。
+EN: I send mine without fail.
+
+@3EE04 max=95
+JP: ボクも出す～。
+EN: I send them too!
+
+@3EE64 max=95
+JP: 宅配便の配達の人っていつも走っているよね？
+EN: Delivery drivers are always running, aren't they?
+
+@3EEC4 max=95
+JP: ね、えらいよね～。
+EN: Yeah, they work so hard!
+
+@3EF24 max=95
+JP: オレが見るときはいつも走っているよ。
+EN: Every time I see one, they're running.
+
+@3EF84 max=95
+JP: 走ってる～。
+EN: Always on the run!
+
+@3EFE4 max=95
+JP: あ、たまには歩くのか～。
+EN: Oh, I guess they walk sometimes too!
+
+@3F044 max=95
+JP: オレが見るときはいつも走っているよ。
+EN: Every time I see one, they're running.
+
+@3F0A4 max=95
+JP: 走ってる～。
+EN: Always on the run!
+
+@3F104 max=95
+JP: インテリアに風水取り入れている？
+EN: Do you use feng shui to decorate?
+
+@3F164 max=95
+JP: ちょっと面白いよね～。
+EN: It's kind of fun, huh?
+
+@3F1C4 max=95
+JP: 西に黄色だろ。
+EN: Yellow in the west, right?
+
+@3F224 max=95
+JP: 干支の置物でしょぉ。
+EN: And Chinese zodiac figurines, right?
+
+@3F284 max=95
+JP: あまり信じてないのかな。
+EN: Maybe you don't really believe in it?
+
+@3F2E4 max=95
+JP: 西に黄色だろ。
+EN: Yellow in the west, right?
+
+@3F344 max=95
+JP: 干支の置物でしょぉ。
+EN: And Chinese zodiac figurines, right?
+
+@3F3A4 max=95
+JP: なにか習い事している？
+EN: Are you taking any classes?
+
+@3F404 max=95
+JP: わ～いいなぁ、何やっているのかなぁ。
+EN: Ooh, nice! I wonder what you're learning.
+
+@3F464 max=95
+JP: オレは合気道やっているぜ。
+EN: I do aikido!
+
+@3F4C4 max=95
+JP: ボク、水泳。
+EN: I take swimming lessons.
+
+@3F524 max=95
+JP: そんな暇、ないか～。
+EN: I guess you don't have the time, huh?
+
+@3F584 max=95
+JP: オレは合気道やっているぜ。
+EN: I do aikido!
+
+@3F5E4 max=95
+JP: ボク、水泳。
+EN: I take swimming lessons.
+
+@3F644 max=95
+JP: 最近、逆立ちしてる？
+EN: Done any handstands lately?
+
+@3F6A4 max=95
+JP: 健康にいいんだよねぇ。
+EN: They're good for your health, you know.
+
+@3F704 max=95
+JP: オレはしょっちゅうしているよ。
+EN: I do them all the time!
+
+@3F764 max=95
+JP: ボクもしている！
+EN: I do them too!
+
+@3F7C4 max=95
+JP: しないよね、普通。
+EN: Most people don't, huh?
+
+@3F824 max=95
+JP: オレはしょっちゅうしているよ。
+EN: I do them all the time!
+
+@3F884 max=95
+JP: ボクもしている！
+EN: I do them too!
+
+@3F8E4 max=95
+JP: 反対の足から靴をはくと気持ち悪いよね？
+EN: Doesn't it feel weird to put your shoes on starting with the other foot?
+
+@3F944 max=95
+JP: ね、一日、気になるよね。
+EN: Yeah, it bugs you all day!
+
+@3F9A4 max=95
+JP: オレは右から。
+EN: I start with my right foot.
+
+@3FA04 max=95
+JP: ボク、左から～。
+EN: I start with my left!
+
+@3FA64 max=95
+JP: 気にしないのね～。
+EN: Doesn't bother you, huh?
+
+@3FAC4 max=95
+JP: オレは右から。
+EN: I start with my right foot.
+
+@3FB24 max=95
+JP: ボク、左から～。
+EN: I start with my left!
+
+@3FB84 max=95
+JP: 折り畳み傘、持っている？
+EN: Do you have a folding umbrella?
+
+@3FBE4 max=95
+JP: 急な雨のとき、便利だよね。
+EN: Handy when it suddenly rains, huh?
+
+@3FC44 max=95
+JP: 濡れて歩けばいいのだ。
+EN: Just walk and get wet.
+
+@3FCA4 max=95
+JP: 雨、濡れるの好き～。
+EN: I love getting rained on...
+
+@3FD04 max=95
+JP: 急な雨のとき便利だよ～。
+EN: Handy when it suddenly starts raining...
+
+@3FD64 max=95
+JP: 濡れて歩けばいいのだ。
+EN: Just walk and get wet.
+
+@3FDC4 max=95
+JP: 雨、濡れるの好き～。
+EN: I love getting rained on...
+
+@3FE24 max=95
+JP: 小腹が減ったらハンバーガー？
+EN: Do you grab a burger when you're a little hungry?
+
+@3FE84 max=95
+JP: そうだよね～ポテトもつけてね～。
+EN: Yeah... with fries, too...
+
+@3FEE4 max=95
+JP: オレはおせんべいだな。
+EN: I'd go for rice crackers.
+
+@3FF44 max=95
+JP: ボク、バナナ。
+EN: A banana for me.
+
+@3FFA4 max=95
+JP: おにぎりかな～お菓子かな～。
+EN: Maybe a rice ball... or some sweets...
+
+@40004 max=95
+JP: オレはおせんべいだな。
+EN: I'd go for rice crackers.
+
+@40064 max=95
+JP: ボク、バナナ。
+EN: A banana for me.
+
+@400C4 max=95
+JP: 目覚まし時計かけてる？
+EN: Do you set an alarm clock?
+
+@40124 max=95
+JP: 寝過ごしたらたいへんだもんね～。
+EN: Oversleeping would be trouble, huh...?
+
+@40184 max=95
+JP: オレはなくても起きれるぜ。
+EN: I can wake up without one.
+
+@401E4 max=95
+JP: ボク、かけてるぅ～。
+EN: I set mine...
+
+@40244 max=95
+JP: 寝過ごしたらたいへんだよ～。
+EN: You don't wanna oversleep...
+
+@402A4 max=95
+JP: オレはなくても起きれるぜ。
+EN: I can wake up without one.
+
+@40304 max=95
+JP: ボク、かけてるぅ～。
+EN: I set mine...
+
+@40364 max=95
+JP: 信号待ちのとき、鼻歌歌っちゃうよね～？
+EN: You hum while waiting for the light to change, right...?
+
+@403C4 max=95
+JP: 歌うよね～なんとなくね～。
+EN: Yeah... you just kinda do...
+
+@40424 max=95
+JP: 歌わないよ。
+EN: I don't.
+
+@40484 max=95
+JP: ボク、歌う～。
+EN: I do...
+
+@404E4 max=95
+JP: あ、歌わないか。
+EN: Oh, you don't?
+
+@40544 max=95
+JP: 歌わないよ。
+EN: I don't.
+
+@405A4 max=95
+JP: ボク、歌う～。
+EN: I do...
+
+@40604 max=95
+JP: 夜寝るとき、蚊が一匹いるとムカつくよね～？
+EN: Isn't it annoying when there's a mosquito buzzing around at bedtime...?
+
+@40664 max=95
+JP: ね～耳元でぷーん、てやだよね～。
+EN: Yeah... that buzzing in your ear is the worst...
+
+@406C4 max=95
+JP: 明かりをつけて、絶対殺す。
+EN: I turn on the light and hunt it down.
+
+@40724 max=95
+JP: 逃がしてあげるんだよ。
+EN: I let it go outside.
+
+@40784 max=95
+JP: 刺されてもいいの～。
+EN: You don't mind getting bitten...?
+
+@407E4 max=95
+JP: 明かりをつけて、絶対殺す。
+EN: I turn on the light and hunt it down.
+
+@40844 max=95
+JP: 逃がしてあげるんだよ。
+EN: I let it go outside.
+
+@408A4 max=95
+JP: メダカ、飼ったことある？
+EN: Ever kept rice fish?
+
+@40904 max=95
+JP: いいなぁ、可愛いよね。
+EN: Lucky you. They're so cute.
+
+@40964 max=95
+JP: ネオンテトラなら飼ったよ。
+EN: I've kept neon tetras.
+
+@409C4 max=95
+JP: ボク、沼えび。
+EN: Freshwater shrimp for me.
+
+@40A24 max=95
+JP: 水槽の手入れが大変だもんね。
+EN: Keeping the tank clean is a lot of work, huh?
+
+@40A84 max=95
+JP: ネオンテトラなら飼ったよ。
+EN: I've kept neon tetras.
+
+@40AE4 max=95
+JP: ボク、沼えび。
+EN: Freshwater shrimp for me.
+
+@40B44 max=95
+JP: ヘッドホンで音楽聴いていると<n>つい歌っちゃうよね？
+EN: When you listen to music on headphones,<n>you can't help singing along, right?
+
+@40BA4 max=95
+JP: ね！歌っちゃうよね。
+EN: Right! You just start singing.
+
+@40C04 max=95
+JP: 自分では声だしているつもりないんだけどな。
+EN: I don't even realize I'm singing out loud.
+
+@40C64 max=95
+JP: 音痴になるよね～。
+EN: You end up singing off-key...
+
+@40CC4 max=95
+JP: 歌わないのね。
+EN: So you don't sing along.
+
+@40D24 max=95
+JP: 自分では声だしているつもりないんだけどな。
+EN: I don't even realize I'm singing out loud.
+
+@40D84 max=95
+JP: 音痴になるよね～。
+EN: You end up singing off-key...
+
+@40DE4 max=95
+JP: 洗濯物干すとき、<n>洗濯バサミの跡がつくのいやだよね？
+EN: When you hang out the laundry,<n>don't you hate the marks clothespins leave?
+
+@40E44 max=95
+JP: 襟のまわりとかにつくといやだよね。
+EN: It's annoying when they leave marks around the collar.
+
+@40EA4 max=95
+JP: 目立つところにつくといやだよな。
+EN: Yeah, especially somewhere obvious.
+
+@40F04 max=95
+JP: 干したことないからわかんない～。
+EN: Never hung laundry out, so I dunno...
+
+@40F64 max=95
+JP: 気にならないのか～。
+EN: So it doesn't bother you...
+
+@40FC4 max=95
+JP: 目立つところにつくといやだよな。
+EN: Yeah, especially somewhere obvious.
+
+@41024 max=95
+JP: 干したことないからわかんない～。
+EN: Never hung laundry out, so I dunno...
+
+@41084 max=95
+JP: 座るとき、どっこいしょ、って言っちゃうよね？
+EN: You go "oof" when you sit down, right?
+
+@410E4 max=95
+JP: 言っちゃうよね。
+EN: You just can't help saying it.
+
+@41144 max=95
+JP: オレは言うよ。
+EN: I'll say it.
+
+@411A4 max=95
+JP: ボク、言わない。
+EN: I won't.
+
+@41204 max=95
+JP: 失礼しました、若さの問題だったね。
+EN: My mistake. It's because you're young.
+
+@41264 max=95
+JP: オレは言うよ。
+EN: I'll say it.
+
+@412C4 max=95
+JP: ボク、言わない。
+EN: I won't.
+
+@41324 max=95
+JP: 誰かの結婚式出たことある？
+EN: Have you ever been to a wedding?
+
+@41384 max=95
+JP: あ、あるんだ～。
+EN: Oh, you have!
+
+@413E4 max=95
+JP: いつか仲人してみたいぜ。
+EN: I'd love to be a wedding matchmaker someday.
+
+@41444 max=95
+JP: お嫁さんきれい～。
+EN: The bride looks so pretty...
+
+@414A4 max=95
+JP: まだないか～。
+EN: Oh, not yet, huh?
+
+@41504 max=95
+JP: いつか仲人してみたいぜ。
+EN: I'd love to be a wedding matchmaker someday.
+
+@41564 max=95
+JP: お嫁さんきれい～。
+EN: The bride looks so pretty...
+
+@415C4 max=95
+JP: 外国人さんに道を聞かれると焦るよね？
+EN: Do you panic when someone from abroad asks you for directions?
+
+@41624 max=95
+JP: ね、わかってても言葉が出ないよね。
+EN: Right? Even if you know the way, the words just won't come out.
+
+@41684 max=95
+JP: オレはちゃんと教えるよ。
+EN: I give them proper directions.
+
+@416E4 max=95
+JP: ゴー・ストレート～。
+EN: Go... straight...
+
+@41744 max=95
+JP: あ、英語ペラペラかな。
+EN: Oh, maybe you're fluent in English.
+
+@417A4 max=95
+JP: オレはちゃんと教えるよ。
+EN: I give them proper directions.
+
+@41804 max=95
+JP: ゴー・ストレート～。
+EN: Go... straight...
+
+@41864 max=95
+JP: サクランボは好き？
+EN: Do you like cherries?
+
+@418C4 max=95
+JP: おいしいよね、甘酸っぱくて。
+EN: They're so good, all sweet and tangy.
+
+@41924 max=95
+JP: オレはイチゴのほうが好きだね。
+EN: I prefer strawberries.
+
+@41984 max=95
+JP: ボク、アメリカンチェリー。
+EN: I like American cherries.
+
+@419E4 max=95
+JP: あら、嫌いなの～。
+EN: Oh, you don't like them?
+
+@41A44 max=95
+JP: オレはイチゴのほうが好きだね。
+EN: I prefer strawberries.
+
+@41AA4 max=95
+JP: ボク、アメリカンチェリー。
+EN: I like American cherries.
+
+@41B04 max=95
+JP: クリームが挟まってるクッキーって、<n>先にクリームなめちゃうよね？
+EN: You lick the cream out of sandwich cookies first, right?
+
+@41B64 max=95
+JP: ね～まず割って、クリームなめるよね。
+EN: Right? You split them apart, then lick off the cream.
+
+@41BC4 max=95
+JP: 行儀悪いな。
+EN: That's bad manners.
+
+@41C24 max=95
+JP: ボク、なめちゃう。
+EN: I lick it off.
+
+@41C84 max=95
+JP: ちゃんと食べるのか～。
+EN: Oh, you eat them properly?
+
+@41CE4 max=95
+JP: 行儀悪いもんな。
+EN: It is bad manners, after all.
+
+@41D44 max=95
+JP: ボク、なめちゃう。
+EN: I lick it off.
+
+@41DA4 max=95
+JP: 信号がしゃべるの、気持ち悪いよね？
+EN: Talking traffic lights are creepy, aren't they?
+
+@41E04 max=95
+JP: ね、青になりました、とか突然、怖いよね。
+EN: Right? That sudden "The light is green" gives me a fright.
+
+@41E64 max=95
+JP: 最近の機械はしゃべりすぎだよ。
+EN: Machines talk too much these days.
+
+@41EC4 max=95
+JP: でも便利だよ～。
+EN: But it's handy!
+
+@41F24 max=95
+JP: 平気なんだ～。
+EN: Oh, it doesn't bother you?
+
+@41F84 max=95
+JP: 最近の機械はしゃべりすぎだよ。
+EN: Machines talk too much these days.
+
+@41FE4 max=95
+JP: でも便利だよ～。
+EN: But it's handy!
+
+@42044 max=95
+JP: リュックって両手が空くから便利だよね？
+EN: Backpacks are handy since they leave both hands free, right?
+
+@420A4 max=95
+JP: ね、旅行とか行くとき便利だよね。
+EN: Right? They're great for trips and stuff.
+
+@42104 max=95
+JP: オレはリュック派。
+EN: I'm a backpack guy.
+
+@42164 max=95
+JP: ボクもリュック～。
+EN: Me too. Backpacks!
+
+@421C4 max=95
+JP: ショルダーバッグのほうがいいのかな。
+EN: Maybe you prefer shoulder bags.
+
+@42224 max=95
+JP: オレはリュック派。
+EN: I'm a backpack guy.
+
+@42284 max=95
+JP: ボクもリュック～。
+EN: Me too. Backpacks!
+
+@422E4 max=95
+JP: リリアンって知ってる？
+EN: Have you heard of spool knitting?
+
+@42344 max=95
+JP: 編むの楽しいよね。
+EN: It's fun making those cords, isn't it?
+
+@423A4 max=95
+JP: しゃれた組みひものことだろ。
+EN: Those fancy braided cords, right?
+
+@42404 max=95
+JP: リリアン、きれい。
+EN: The cords are pretty.
+
+@42464 max=95
+JP: 知らないよね。
+EN: Guess you haven't heard of it.
+
+@424C4 max=95
+JP: しゃれた組みひものことだろ。
+EN: Those fancy braided cords, right?
+
+@42524 max=95
+JP: リリアン、きれい。
+EN: The cords are pretty.
+
+@42584 max=95
+JP: シャボン玉ってきれいだよね？
+EN: Soap bubbles are pretty, aren't they?
+
+@425E4 max=95
+JP: ね～やりたくなるよね。
+EN: Yeah, it makes you want to join in, huh?
+
+@42644 max=95
+JP: 子供の遊びだもんな。
+EN: It's a kids' game, after all.
+
+@426A4 max=95
+JP: シャボン玉、大好き。
+EN: I love blowing bubbles!
+
+@42704 max=95
+JP: そうか、嫌いなのか～。
+EN: Oh, so you don't like it, huh?
+
+@42764 max=95
+JP: 子供の遊びだな。
+EN: That's kids' stuff.
+
+@427C4 max=95
+JP: シャボン玉、大好き。
+EN: I love blowing bubbles!
+
+@42824 max=95
+JP: 夏休みの宿題はちゃんとやるほう？
+EN: Do you always get your summer homework done?
+
+@42884 max=95
+JP: えらいな～ちゃんとやったんだ。
+EN: Good for you! You got it all done.
+
+@428E4 max=95
+JP: 宿題より大事なことがあるのだ。
+EN: There are more important things than homework.
+
+@42944 max=95
+JP: 宿題って何？
+EN: What's homework?
+
+@429A4 max=95
+JP: ははは、ついさぼっちゃうよね。
+EN: Ha ha ha! It's so easy to put it off, huh?
+
+@42A04 max=95
+JP: 宿題より大事なことがあるのだ。
+EN: There are more important things than homework.
+
+@42A64 max=95
+JP: 宿題って何？
+EN: What's homework?
+
+@42AC4 max=95
+JP: 縄跳びで二重跳びできる？
+EN: Can you skip rope with the rope going around twice in one jump?
+
+@42B24 max=95
+JP: あ、できるんだ、すごいね。
+EN: Oh, you can? That's amazing!
+
+@42B84 max=95
+JP: オレはできるぜ。
+EN: I sure can!
+
+@42BE4 max=95
+JP: 跳べないよ～。
+EN: I can't do it!
+
+@42C44 max=95
+JP: できないよね～難しいよね。
+EN: You can't either, huh? It's hard!
+
+@42CA4 max=95
+JP: オレはできるぜ。
+EN: I sure can!
+
+@42D04 max=95
+JP: 跳べないよ～。
+EN: I can't do it!
+
+@42D64 max=95
+JP: 跳び箱は、5段以上跳べる？
+EN: Can you vault over a gym box stacked five sections high or more?
+
+@42DC4 max=95
+JP: うわ～すごいね。
+EN: Whoa! That's amazing!
+
+@42E24 max=95
+JP: ８段は跳びたいよな。
+EN: Eight sections high is the goal, right?
+
+@42E84 max=95
+JP: 跳べないよぉ。
+EN: I can't jump that high!
+
+@42EE4 max=95
+JP: けっこう難しいもんね。
+EN: It's pretty hard, huh?
+
+@42F44 max=95
+JP: ８段は跳びたいよな。
+EN: Eight sections high is the goal, right?
+
+@42FA4 max=95
+JP: 跳べないよぉ。
+EN: I can't jump that high!
+
+@43004 max=95
+JP: 最近、ブランコって乗った？
+EN: Been on a swing lately?
+
+@43064 max=95
+JP: たまに乗ると、いい感じだよね。
+EN: It's nice to hop on one now and then, huh?
+
+@430C4 max=95
+JP: 回転飛び降りとかやったよな。
+EN: We used to jump off and spin in the air, huh?
+
+@43124 max=95
+JP: ブランコ大好き。
+EN: I love swings!
+
+@43184 max=95
+JP: たまに乗ると、いい感じだよ。
+EN: It's nice to hop on one now and then.
+
+@431E4 max=95
+JP: 回転飛び降りとかやったよな。
+EN: We used to jump off and spin in the air, huh?
+
+@43244 max=95
+JP: ブランコ大好き。
+EN: I love swings!
+
+@432A4 max=95
+JP: 滑り台って好きだった？
+EN: Did you like slides as a kid?
+
+@43304 max=95
+JP: ね、何度もやったよね～。
+EN: Yeah, we'd go down over and over, huh?
+
+@43364 max=95
+JP: 角度が急なやつがいいよな。
+EN: The really steep ones are the best.
+
+@433C4 max=95
+JP: お滑り大好き。
+EN: I love slides!
+
+@43424 max=95
+JP: ジャングルジムのほうが好きだったのかな。
+EN: Maybe you liked the jungle gym better?
+
+@43484 max=95
+JP: 角度が急なやつがいいよな。
+EN: The really steep ones are the best.
+
+@434E4 max=95
+JP: お滑り大好き。
+EN: I love slides!
+
+@43544 max=95
+JP: 小学校の校庭って、タイヤの跳び馬あるよね？
+EN: Grade school playgrounds have those tires you jump over, right?
+
+@435A4 max=95
+JP: ね、あるよね～。
+EN: Yeah, they do, huh?
+
+@43604 max=95
+JP: 半分、地面に埋まっているやつな。
+EN: The ones buried halfway in the ground.
+
+@43664 max=95
+JP: あるある～～。
+EN: Yeah, yeah! Those!
+
+@436C4 max=95
+JP: ないか～。
+EN: Oh, yours didn't?
+
+@43724 max=95
+JP: 半分、地面に埋まっているやつな。
+EN: The ones buried halfway in the ground.
+
+@43784 max=95
+JP: あるある～～。
+EN: Yeah, yeah! Those!
+
+@437E4 max=95
+JP: 自分で耳掻きできる？
+EN: Can you clean your own ears?
+
+@43844 max=95
+JP: けっこう、難しいよね。
+EN: It's pretty tricky, huh?
+
+@438A4 max=95
+JP: オレは自分でやるよ。
+EN: I do it myself.
+
+@43904 max=95
+JP: ボク、綿棒でやる。
+EN: I use cotton swabs.
+
+@43964 max=95
+JP: 誰にやってもらうのかな～～～。
+EN: Ooh, I wonder who does it for you...
+
+@439C4 max=95
+JP: オレは自分でやるよ。
+EN: I do it myself.
+
+@43A24 max=95
+JP: ボク、綿棒でやる。
+EN: I use cotton swabs.
+
+@43A84 max=95
+JP: お風呂で背中を洗うとき、<n>両手でタオルを引いて洗う？
+EN: When you wash your back in the bath,<n>do you hold a towel by both ends and scrub?
+
+@43AE4 max=95
+JP: ね、後ろに回してきゅっきゅって。
+EN: Yeah, behind your back, scrub-a-scrub!
+
+@43B44 max=95
+JP: きゅっきゅとな。
+EN: Scrub-a-scrub, huh.
+
+@43BA4 max=95
+JP: きゅっきゅとね。
+EN: Scrub-a-scrub!
+
+@43C04 max=95
+JP: あ、手が届くのか～。
+EN: Oh, so you can reach back there!
+
+@43C64 max=95
+JP: きゅっきゅとな。
+EN: Scrub-a-scrub, huh.
+
+@43CC4 max=95
+JP: きゅっきゅとね。
+EN: Scrub-a-scrub!
+
+@43D24 max=95
+JP: 髪の毛を梳かすときはブラシ？
+EN: Do you use a brush to do your hair?
+
+@43D84 max=95
+JP: いいなぁ、髪の毛梳かせて。
+EN: Must be nice having hair to brush.
+
+@43DE4 max=95
+JP: 髪の毛の話はするな。
+EN: Don't talk to me about hair.
+
+@43E44 max=95
+JP: 髪の毛生えないかなぁ。
+EN: I wish I could grow some hair.
+
+@43EA4 max=95
+JP: 櫛か～。
+EN: Oh, you use a comb.
+
+@43F04 max=95
+JP: 髪の毛の話はするな。
+EN: Don't talk to me about hair.
+
+@43F64 max=95
+JP: 髪の毛生えないかなぁ。
+EN: I wish I could grow some hair.
+
+@43FC4 max=95
+JP: 普段はいてる靴はスニーカー？
+EN: Do you usually wear sneakers?
+
+@44024 max=95
+JP: やっぱりらくだもんね。
+EN: They're comfy, after all.
+
+@44084 max=95
+JP: オレはスニーカー。
+EN: I wear sneakers.
+
+@440E4 max=95
+JP: ボク長靴。
+EN: I wear rain boots.
+
+@44144 max=95
+JP: 普段から革靴なのか～。
+EN: Oh, you wear leather shoes every day?
+
+@441A4 max=95
+JP: オレはスニーカー。
+EN: I wear sneakers.
+
+@44204 max=95
+JP: ボク長靴。
+EN: I wear rain boots.
+
+@44264 max=95
+JP: ピザを食べるときは、三角のほうから食べるよね？
+EN: You eat pizza starting at the pointy end, right?
+
+@442C4 max=95
+JP: ね、食べやすいもんね。
+EN: Yeah, it's easier that way.
+
+@44324 max=95
+JP: オレは耳から。
+EN: I start with the crust.
+
+@44384 max=95
+JP: ボク、三角から。
+EN: I start at the point.
+
+@443E4 max=95
+JP: え、耳のほうから食べるんだ～。
+EN: Huh, you start with the crust?
+
+@44444 max=95
+JP: オレは耳から。
+EN: I start with the crust.
+
+@444A4 max=95
+JP: ボク、三角から。
+EN: I start at the point.
+
+@44504 max=95
+JP: 飛行機の離着陸のとき、耳が痛くなるよね？
+EN: Your ears hurt when a plane takes off or lands, right?
+
+@44564 max=95
+JP: ね、きーんとね。
+EN: Yeah, they go eeeeee!
+
+@445C4 max=95
+JP: 水を飲めばわりと治るぜ。
+EN: Drinking some water usually helps.
+
+@44624 max=95
+JP: あったかいおしぼりを耳につけると治るよ。
+EN: Holding a warm, damp towel to your ears helps.
+
+@44684 max=95
+JP: あ、乗ったことないか。
+EN: Oh, you've never been on a plane.
+
+@446E4 max=95
+JP: 水を飲めばわりと治るぜ。
+EN: Drinking some water usually helps.
+
+@44744 max=95
+JP: あったかいおしぼりを耳につけると治るよ。
+EN: Holding a warm, damp towel to your ears helps.
+
+@447A4 max=95
+JP: あじさいってきれいだよね？
+EN: Hydrangeas are pretty, aren't they?
+
+@44804 max=95
+JP: ね～いろんな色できれいだよね。
+EN: Yeah, all those lovely colors!
+
+@44864 max=95
+JP: 青いのがきれいだな。
+EN: The blue ones are pretty.
+
+@448C4 max=95
+JP: ピンクのがきれいだな。
+EN: The pink ones are pretty.
+
+@44924 max=95
+JP: あまり好きじゃないか～。
+EN: Oh, you're not really a fan.
+
+@44984 max=95
+JP: 青いのがきれいだな。
+EN: The blue ones are pretty.
+
+@449E4 max=95
+JP: ピンクのがきれいだな。
+EN: The pink ones are pretty.
+
+@44A44 max=95
+JP: 明太子スパゲティっておいしいよね？
+EN: Spaghetti with spicy cod roe is delicious, isn't it?
+
+@44AA4 max=95
+JP: ね、おいしいよね。
+EN: Yeah, it's yummy!
+
+@44B04 max=95
+JP: ありゃ、日本固有のパスタだよな。
+EN: That's a uniquely Japanese kind of pasta, huh.
+
+@44B64 max=95
+JP: 辛い～。
+EN: So spicy!
+
+@44BC4 max=95
+JP: 辛いの苦手かな～。
+EN: Maybe spicy food isn't your thing.
+
+@44C24 max=95
+JP: ありゃ、日本固有のパスタだよな。
+EN: That's a uniquely Japanese kind of pasta, huh.
+
+@44C84 max=95
+JP: 辛い～。
+EN: So spicy!
+
+@44CE4 max=95
+JP: バラはやっぱり赤だよね？
+EN: Red roses are the best, right?
+
+@44D44 max=95
+JP: ね、情熱の赤！
+EN: Yeah! Red for passion!
+
+@44DA4 max=95
+JP: オレは黄色いバラがいい。
+EN: I like yellow roses.
+
+@44E04 max=95
+JP: ボク、白いバラ。
+EN: I like white roses.
+
+@44E64 max=95
+JP: ピンクとかが好きなのかな～。
+EN: Maybe you like pink ones?
+
+@44EC4 max=95
+JP: オレは黄色いバラがいい。
+EN: I like yellow roses.
+
+@44F24 max=95
+JP: ボク、白いバラ。
+EN: I like white roses.
+
+@44F84 max=95
+JP: 花の名前っていっぱい知っている？
+EN: Do you know lots of flower names?
+
+@44FE4 max=95
+JP: すごいね、お花好きなのね。
+EN: Wow, you must really like flowers.
+
+@45044 max=95
+JP: バラはわかる。
+EN: I know roses.
+
+@450A4 max=95
+JP: チューリップわかる！
+EN: I know tulips!
+
+@45104 max=95
+JP: バラとチューリップぐらいかな。
+EN: Just roses and tulips, huh?
+
+@45164 max=95
+JP: バラはわかる。
+EN: I know roses.
+
+@451C4 max=95
+JP: チューリップわかる！
+EN: I know tulips!
+
+@45224 max=95
+JP: 野球やるならポジションはピッチャー？
+EN: If you played baseball, would you be the pitcher?
+
+@45284 max=95
+JP: だよね～花形だもんね。
+EN: Yeah! They're the star of the show.
+
+@452E4 max=95
+JP: オレ、センター。
+EN: I'd play center field.
+
+@45344 max=95
+JP: ボク、セカンド。
+EN: I'd play second base.
+
+@453A4 max=95
+JP: 案外、レフト～。
+EN: Left field? Didn't see that coming!
+
+@45404 max=95
+JP: オレ、センター。
+EN: I'd play center field.
+
+@45464 max=95
+JP: ボク、セカンド。
+EN: I'd play second base.
+
+@454C4 max=95
+JP: スキーよりスノボーが好き？
+EN: Do you like snowboarding better than skiing?
+
+@45524 max=95
+JP: いまや、スノボー人口のほうが多いよね。
+EN: More people snowboard than ski these days, huh?
+
+@45584 max=95
+JP: オレは断然、スキー。
+EN: Skiing all the way for me.
+
+@455E4 max=95
+JP: ボク、スノボー。
+EN: I'd go snowboarding.
+
+@45644 max=95
+JP: スキー派なのね。
+EN: So you're a skier, huh?
+
+@456A4 max=95
+JP: オレは断然、スキー。
+EN: Skiing all the way for me.
+
+@45704 max=95
+JP: ボク、スノボー。
+EN: I'd go snowboarding.
+
+@45764 max=95
+JP: 自分のファッションにはこだわりがある？
+EN: Are you particular about what you wear?
+
+@457C4 max=95
+JP: だよね～やっぱり自分の個性だもんね。
+EN: Yeah! Your clothes show off who you are.
+
+@45824 max=95
+JP: オレはこだわるぜ。
+EN: I've gotta have my own style.
+
+@45884 max=95
+JP: ボク、なんでもいい。
+EN: I'll wear anything.
+
+@458E4 max=95
+JP: ファッション以外にこだわるのね。
+EN: So you save your fussing for other things.
+
+@45944 max=95
+JP: オレはこだわるぜ。
+EN: I've gotta have my own style.
+
+@459A4 max=95
+JP: ボク、なんでもいい。
+EN: I'll wear anything.
+
+@45A04 max=95
+JP: 髪の毛、染めている？
+EN: Do you dye your hair?
+
+@45A64 max=95
+JP: 茶色かな～。
+EN: Brown, maybe?
+
+@45AC4 max=95
+JP: 髪の毛の話はするな！
+EN: Don't talk to me about hair!
+
+@45B24 max=95
+JP: 髪、染めてみたい。
+EN: I'd like to try dyeing mine.
+
+@45B84 max=95
+JP: 黒髪なのね～。
+EN: So your hair's black, huh?
+
+@45BE4 max=95
+JP: 髪の毛の話はするな！
+EN: Don't talk to me about hair!
+
+@45C44 max=95
+JP: 髪、染めてみたい。
+EN: I'd like to try dyeing mine.
+
+@45CA4 max=95
+JP: ヘアスタイルにはこだわるほう？
+EN: Are you fussy about your hairstyle?
+
+@45D04 max=95
+JP: やっぱりおしゃれにいきたいよね～。
+EN: You've gotta look stylish, right?
+
+@45D64 max=95
+JP: 髪の毛の話はするなってば。
+EN: I said, don't talk about hair!
+
+@45DC4 max=95
+JP: ヘアスタイル…。
+EN: Hairstyle...
+
+@45E24 max=95
+JP: 自然のままね～。
+EN: You just let it do its thing, huh?
+
+@45E84 max=95
+JP: 髪の毛の話はするなってば。
+EN: I said, don't talk about hair!
+
+@45EE4 max=95
+JP: ヘアスタイル…。
+EN: Hairstyle...
+
+@45F44 max=95
+JP: ファックス持っている？
+EN: Do you have a fax machine?
+
+@45FA4 max=95
+JP: けっこう使うよね。
+EN: They get a lot of use, huh?
+
+@46004 max=95
+JP: あると便利だよな。
+EN: They're handy to have around.
+
+@46064 max=95
+JP: あると便利～。
+EN: So handy!
+
+@460C4 max=95
+JP: いらないもんね、べつに。
+EN: You don't really need one, anyway.
+
+@46124 max=95
+JP: あると便利だよな。
+EN: They're handy to have around.
+
+@46184 max=95
+JP: あると便利～。
+EN: So handy!
+
+@461E4 max=95
+JP: 自分が眠る瞬間ってわかんないよね？
+EN: You can never tell the exact moment you fall asleep, can you?
+
+@46244 max=95
+JP: ね、いつも眠るまで意識してようと思うのに。
+EN: Right? I always try to stay aware until I drift off.
+
+@462A4 max=95
+JP: オレは毎晩羊を数えるのだ。
+EN: I count sheep every night.
+
+@46304 max=95
+JP: ８時には寝ちゃうの。
+EN: I'm asleep by eight.
+
+@46364 max=95
+JP: わかるの！！すごい。
+EN: You can tell?! Wow!
+
+@463C4 max=95
+JP: オレは毎晩羊を数えるのだ。
+EN: I count sheep every night.
+
+@46424 max=95
+JP: ８時には寝ちゃうの。
+EN: I'm asleep by eight.
+
+@46484 max=95
+JP: そうめんの薬味はネギと揚げ玉だよね？
+EN: Somen noodles need scallions and crispy tempura bits, right?
+
+@464E4 max=95
+JP: だよね～定番だよね。
+EN: Right? Can't beat the classics.
+
+@46544 max=95
+JP: ミョウガや、シソもいいね。
+EN: Myoga ginger and shiso are good too.
+
+@465A4 max=95
+JP: ボク、油揚げ。
+EN: I like fried tofu.
+
+@46604 max=95
+JP: あれ？違うんだ～。
+EN: Huh? You don't think so?
+
+@46664 max=95
+JP: ミョウガや、シソもいいね。
+EN: Myoga ginger and shiso are good too.
+
+@466C4 max=95
+JP: ボク、油揚げ。
+EN: I like fried tofu.
+
+@46724 max=95
+JP: 試験の前って、掃除とかしたくなるよね？
+EN: Don't you always feel like cleaning before an exam?
+
+@46784 max=95
+JP: なるよね～しかもいつもやらないところ。
+EN: Totally! Even places you never usually clean.
+
+@467E4 max=95
+JP: 試験なんて必要ないよな。
+EN: Who needs exams, anyway?
+
+@46844 max=95
+JP: 試験て何？？
+EN: What's an exam??
+
+@468A4 max=95
+JP: ちゃんと勉強するのか～。
+EN: Oh, so you actually study...
+
+@46904 max=95
+JP: 試験なんて必要ないよな。
+EN: Who needs exams, anyway?
+
+@46964 max=95
+JP: 試験て何？？
+EN: What's an exam??
+
+@469C4 max=95
+JP: 鍋といったら、水炊きだよね？
+EN: For hot pot, it's got to be mizutaki, right?
+
+@46A24 max=95
+JP: ね～おじやを作るとまた格別。
+EN: Yeah! And making rice porridge in the broth afterward is the best.
+
+@46A84 max=95
+JP: 土手鍋だろ。
+EN: Miso oyster hot pot, obviously.
+
+@46AE4 max=95
+JP: ボク、湯豆腐。
+EN: I like tofu hot pot.
+
+@46B44 max=95
+JP: しゃぶしゃぶかな～。
+EN: Maybe shabu-shabu, then...
+
+@46BA4 max=95
+JP: 土手鍋だろ。
+EN: Miso oyster hot pot, obviously.
+
+@46C04 max=95
+JP: ボク、湯豆腐。
+EN: I like tofu hot pot.
+
+@46C64 max=95
+JP: 晴れた日に掃除するのって気持ちいいよね？
+EN: Doesn't it feel great to clean on a sunny day?
+
+@46CC4 max=95
+JP: ね～窓、いっぱい開けてね！
+EN: Yeah! With all the windows wide open!
+
+@46D24 max=95
+JP: 掃除は毎日するんだよ。
+EN: You're supposed to clean every day.
+
+@46D84 max=95
+JP: ボク、掃除するよ。
+EN: I clean!
+
+@46DE4 max=95
+JP: 掃除が嫌いなのね。
+EN: So you're not a fan of cleaning, huh?
+
+@46E44 max=95
+JP: 掃除は毎日するんだよ。
+EN: You're supposed to clean every day.
+
+@46EA4 max=95
+JP: ボク、掃除するよ。
+EN: I clean!
+
+@46F04 max=95
+JP: イヤホンのコードって、鞄の中で、<n>ぜったい絡まるよね？
+EN: Earphone cords always get tangled up<n>in your bag, don't they?
+
+@46F64 max=95
+JP: 絡まるよね～。
+EN: Every single time!
+
+@46FC4 max=95
+JP: そりゃ、いい加減に入れるからだよ。
+EN: That's because you just toss them in.
+
+@47024 max=95
+JP: 絡まらないよ～。
+EN: Mine don't!
+
+@47084 max=95
+JP: 絡まらないか～。
+EN: Oh, yours don't get tangled?
+
+@470E4 max=95
+JP: そりゃ、いい加減に入れるからだよ。
+EN: That's because you just toss them in.
+
+@47144 max=95
+JP: 絡まらないよ～。
+EN: Mine don't!
+
+@471A4 max=95
+JP: 間違い電話、無言で切られるのっていやだよね？
+EN: Don't you hate when a wrong-number caller just hangs up without a word?
+
+@47204 max=95
+JP: ね、ちょっとあやまるべきだよね。
+EN: Right? They could at least say sorry.
+
+@47264 max=95
+JP: 失礼しました、ぐらい言うよね。
+EN: You'd at least say, "Sorry to bother you," right?
+
+@472C4 max=95
+JP: ごめんね、っていうよ～。
+EN: I always say sorry!
+
+@47324 max=95
+JP: いいのか～。
+EN: Oh, you don't mind?
+
+@47384 max=95
+JP: 失礼しました、ぐらい言うよね。
+EN: You'd at least say, "Sorry to bother you," right?
+
+@473E4 max=95
+JP: ごめんね、っていうよ～。
+EN: I always say sorry!
+
+@47444 max=95
+JP: おしゃれな靴って、<n>履いてると足が痛くなるよね？
+EN: Stylish shoes always make<n>your feet hurt, don't they?
+
+@474A4 max=95
+JP: でも無理して履いちゃうよね。
+EN: But we wear them anyway, don't we?
+
+@47504 max=95
+JP: ちゃんと試着すればいいのだ。
+EN: You just need to try them on properly first.
+
+@47564 max=95
+JP: 靴欲しい～。
+EN: I want some shoes...
+
+@475C4 max=95
+JP: ああ、いい靴買ったのね～。
+EN: Oh, you must have bought a good pair!
+
+@47624 max=95
+JP: ちゃんと試着すればいいのだ。
+EN: You just need to try them on properly first.
+
+@47684 max=95
+JP: 靴欲しい～。
+EN: I want some shoes...
+
+@476E4 max=95
+JP: タルトのクッキー生地っておいしいよね？
+EN: Isn't the cookie crust on a tart delicious?
+
+@47744 max=95
+JP: なんかサクサクなのにしっとりね～。
+EN: Somehow it's crisp and tender at the same time...
+
+@477A4 max=95
+JP: タルトと言ったらイチゴ。
+EN: Strawberry tarts are the best.
+
+@47804 max=95
+JP: タルトといったら、ブルーベリー。
+EN: Blueberry tarts for me.
+
+@47864 max=95
+JP: 中身のほうが好きか～。
+EN: Oh, you like the filling better?
+
+@478C4 max=95
+JP: タルトと言ったらイチゴ。
+EN: Strawberry tarts are the best.
+
+@47924 max=95
+JP: タルトといったら、ブルーベリー。
+EN: Blueberry tarts for me.
+
+@47984 max=95
+JP: やっぱりコシヒカリっておいしいの？
+EN: Is Koshihikari rice really that tasty?
+
+@479E4 max=95
+JP: そうか～おいしいのか～。
+EN: Ohhh, so it really is tasty...
+
+@47A44 max=95
+JP: アキタコマチだろ。
+EN: Akitakomachi's the best.
+
+@47AA4 max=95
+JP: ヒトメボレだよ～。
+EN: Hitomebore for me...
+
+@47B04 max=95
+JP: ササニシキのほうがおいしいのか～。
+EN: So Sasanishiki tastes even better, huh...
+
+@47B64 max=95
+JP: アキタコマチだろ。
+EN: Akitakomachi's the best.
+
+@47BC4 max=95
+JP: ヒトメボレだよ～。
+EN: Hitomebore for me...
+
+@47C24 max=95
+JP: トラのシマって何本あるか知っている？
+EN: Do you know how many stripes a tiger has?
+
+@47C84 max=95
+JP: 知ってるの～～！！
+EN: You actually knooow?!
+
+@47CE4 max=95
+JP: トラによるんじゃないのか。
+EN: Doesn't that depend on the tiger?
+
+@47D44 max=95
+JP: 今度数えてみよう～。
+EN: Let's count them sometime...
+
+@47DA4 max=95
+JP: 知らないよね普通。
+EN: Most people wouldn't know, right?
+
+@47E04 max=95
+JP: トラによるんじゃないのか。
+EN: Doesn't that depend on the tiger?
+
+@47E64 max=95
+JP: 今度数えてみよう～。
+EN: Let's count them sometime...
+
+@47EC4 max=95
+JP: 友達と喧嘩すると、悲しくなるよね？
+EN: Doesn't fighting with a friend make you sad?
+
+@47F24 max=95
+JP: なんか、ああ、あやまりたいな～って思うよね。
+EN: You start thinking, "Ohhh, I wanna say sorry..."
+
+@47F84 max=95
+JP: 喧嘩したほうが仲良くなれるぜ。
+EN: A good fight brings you closer.
+
+@47FE4 max=95
+JP: 喧嘩はしないよ～。
+EN: I don't fight...
+
+@48044 max=95
+JP: ならないのか～。
+EN: Ohhh, it doesn't?
+
+@480A4 max=95
+JP: 喧嘩したほうが仲良くなれるぜ。
+EN: A good fight brings you closer.
+
+@48104 max=95
+JP: 喧嘩はしないよ～。
+EN: I don't fight...
+
+@48164 max=95
+JP: ごきぶりっていやだよね？
+EN: Cockroaches are gross, aren't they?
+
+@481C4 max=95
+JP: いやだよね、ピカピカしてて。
+EN: Yeah, they're all shiny and everything.
+
+@48224 max=95
+JP: いやだよ。
+EN: Can't stand 'em.
+
+@48284 max=95
+JP: いやぁ。
+EN: Ewww.
+
+@482E4 max=95
+JP: え、いやじゃないんだ～。
+EN: Huh, they don't bother you...
+
+@48344 max=95
+JP: いやだよ。
+EN: Can't stand 'em.
+
+@483A4 max=95
+JP: いやぁ。
+EN: Ewww.
+
+@48404 max=95
+JP: 自動改札でバーンって閉まっちゃったことある？
+EN: Ever had a train ticket gate slam shut on you?
+
+@48464 max=95
+JP: ね、カード間違えて入れたりしてね。
+EN: Yeah, like when you put the wrong card in.
+
+@484C4 max=95
+JP: あれ、恥ずかしいよな。
+EN: Man, that's embarrassing.
+
+@48524 max=95
+JP: ビックリしちゃうよね。
+EN: Really makes you jump, huh?
+
+@48584 max=95
+JP: いつもスムーズなのね。
+EN: So you always get through just fine.
+
+@485E4 max=95
+JP: あれ、恥ずかしいよな。
+EN: Man, that's embarrassing.
+
+@48644 max=95
+JP: ビックリしちゃうよね。
+EN: Really makes you jump, huh?
+
+@486A4 max=95
+JP: 映画館ではポップコーン食べる？
+EN: Do you eat popcorn at the movies?
+
+@48704 max=95
+JP: つい、買っちゃうよね～。
+EN: You just can't help buying some...
+
+@48764 max=95
+JP: やっぱりポップコーンでしょ。
+EN: Gotta have popcorn.
+
+@487C4 max=95
+JP: ポップコーン大好き。
+EN: I love popcorn.
+
+@48824 max=95
+JP: あ、観ながらは食べないのね。
+EN: Oh, so you don't eat while you watch.
+
+@48884 max=95
+JP: やっぱりポップコーンでしょ。
+EN: Gotta have popcorn.
+
+@488E4 max=95
+JP: ポップコーン大好き。
+EN: I love popcorn.
+
+@48944 max=95
+JP: 本屋さん行くと、トイレ行きたくならない？
+EN: Does going into a bookstore make you need the bathroom?
+
+@489A4 max=95
+JP: なぜだろうね～。
+EN: I wonder why that happens...
+
+@48A04 max=95
+JP: いつもなるよ。
+EN: Every single time.
+
+@48A64 max=95
+JP: なるなる。
+EN: Yep, me too.
+
+@48AC4 max=95
+JP: ならないか～。
+EN: Ohhh, it doesn't?
+
+@48B24 max=95
+JP: いつもなるよ。
+EN: Every single time.
+
+@48B84 max=95
+JP: なるなる。
+EN: Yep, me too.
+
+@48BE4 max=95
+JP: プール開きっていいよね？
+EN: Isn't it great when the pool opens for summer?
+
+@48C44 max=95
+JP: なんか、あの塩素の匂いもいいよね。
+EN: Even that chlorine smell is kinda nice.
+
+@48CA4 max=95
+JP: オレはどうせ沈むしな。
+EN: I'd just sink anyway.
+
+@48D04 max=95
+JP: ボク、泳ぎたい～。
+EN: I wanna go swimming...
+
+@48D64 max=95
+JP: 泳ぐの嫌いかな～。
+EN: Maybe swimming's not your thing...
+
+@48DC4 max=95
+JP: オレはどうせ沈むしな。
+EN: I'd just sink anyway.
+
+@48E24 max=95
+JP: ボク、泳ぎたい～。
+EN: I wanna go swimming...
+
+@48E84 max=95
+JP: 台風って怖いよね？
+EN: Typhoons are scary, aren't they?
+
+@48EE4 max=95
+JP: 停電したらどうしよう、とかね。
+EN: You start worrying, "What if the power goes out?"
+
+@48F44 max=95
+JP: 被害が出ると大変だよ。
+EN: They can cause some serious damage.
+
+@48FA4 max=95
+JP: 雨漏りしたらどうしよ～。
+EN: What if the roof starts leaking...?
+
+@49004 max=95
+JP: 停電しても平気なのね～。
+EN: So power outages don't bother you, huh...?
+
+@49064 max=95
+JP: 被害が出ると大変だよ。
+EN: They can cause some serious damage.
+
+@490C4 max=95
+JP: 雨漏りしたらどうしよ～。
+EN: What if the roof starts leaking...?
+
+@49124 max=95
+JP: 地震って怖いよね？
+EN: Earthquakes are scary, aren't they?
+
+@49184 max=95
+JP: 思わず、立ち上がっちゃうよね。
+EN: You jump to your feet without thinking, don't you?
+
+@491E4 max=95
+JP: 落ち着いて行動すればいいのだ。
+EN: Just stay calm and act sensibly.
+
+@49244 max=95
+JP: まず火を消すんだよ～。
+EN: First, turn off the stove...
+
+@492A4 max=95
+JP: 怖くないのか～。
+EN: You're not scared...?
+
+@49304 max=95
+JP: 落ち着いて行動すればいいのだ。
+EN: Just stay calm and act sensibly.
+
+@49364 max=95
+JP: まず火を消すんだよ～。
+EN: First, turn off the stove...
+
+@493C4 max=95
+JP: 同姓同名の人、見たことある？
+EN: Ever met someone with your exact same name?
+
+@49424 max=95
+JP: なんか、恥ずかしいよね。
+EN: It's kind of embarrassing, isn't it?
+
+@49484 max=95
+JP: こないだ芸能人と同姓同名がいたよ。
+EN: The other day, I met someone with the same name as a celebrity.
+
+@494E4 max=95
+JP: 見たことないよ～。
+EN: I never have...
+
+@49544 max=95
+JP: めったにないよね～。
+EN: Doesn't happen often, does it...?
+
+@495A4 max=95
+JP: こないだ芸能人と同姓同名がいたよ。
+EN: The other day, I met someone with the same name as a celebrity.
+
+@49604 max=95
+JP: 見たことないよ～。
+EN: I never have...
+
+@49664 max=95
+JP: ハンバーグは好き？
+EN: Do you like hamburger steak?
+
+@496C4 max=95
+JP: おいしいよね～。
+EN: They're sooo good, huh?
+
+@49724 max=95
+JP: ふっくらしたのがいいね。
+EN: I like it nice and juicy.
+
+@49784 max=95
+JP: ハンバーグ大好き。
+EN: I love hamburger steak.
+
+@497E4 max=95
+JP: 嫌いなのね～。
+EN: So you don't like it, huh...?
+
+@49844 max=95
+JP: ふっくらしたのがいいね。
+EN: I like it nice and juicy.
+
+@498A4 max=95
+JP: ハンバーグ大好き。
+EN: I love hamburger steak.
+
+@49904 max=95
+JP: 枕草子って小野小町が書いたんだっけ？
+EN: Was it Ono no Komachi who wrote The Pillow Book?
+
+@49964 max=95
+JP: 違うよ、清少納言だよ。
+EN: No, it was Sei Shonagon.
+
+@499C4 max=95
+JP: 清少納言だろ。
+EN: It was Sei Shonagon, wasn't it?
+
+@49A24 max=95
+JP: 誰それ～。
+EN: Who's that...?
+
+@49A84 max=95
+JP: 違うよね、清少納言だよね。
+EN: That's not right. It was Sei Shonagon, wasn't it?
+
+@49AE4 max=95
+JP: 清少納言だろ。
+EN: It was Sei Shonagon, wasn't it?
+
+@49B44 max=95
+JP: 誰それ～。
+EN: Who's that...?
+
+@49BA4 max=95
+JP: 雨が降る前の匂いってあるよね？
+EN: There's a certain smell before it rains, isn't there?
+
+@49C04 max=95
+JP: ちょっと湿気たような匂いね。
+EN: Yeah, a sort of damp smell.
+
+@49C64 max=95
+JP: あるある、雨の匂い。
+EN: Oh, yeah! That rainy smell.
+
+@49CC4 max=95
+JP: わかんな～い。
+EN: I dunno...
+
+@49D24 max=95
+JP: あ、気づかないか～。
+EN: Oh, you haven't noticed it...?
+
+@49D84 max=95
+JP: あるある、雨の匂い。
+EN: Oh, yeah! That rainy smell.
+
+@49DE4 max=95
+JP: わかんな～い。
+EN: I dunno...
+
+@49E44 max=95
+JP: ヨーグルトって果物と食べるとおいしいよね？
+EN: Yogurt tastes great with fruit, doesn't it?
+
+@49EA4 max=95
+JP: 一度で二度おいしい感じ。
+EN: It's like two treats in one.
+
+@49F04 max=95
+JP: キウィと食べるとおいしいよ。
+EN: It's great with kiwi.
+
+@49F64 max=95
+JP: ボク、りんごと食べるよ～。
+EN: I eat mine with apples...
+
+@49FC4 max=95
+JP: そのまま食べるのね。
+EN: So you eat it plain, huh?
+
+@4A024 max=95
+JP: キウィと食べるとおいしいよ。
+EN: It's great with kiwi.
+
+@4A084 max=95
+JP: ボク、りんごと食べるよ～。
+EN: I eat mine with apples...
+
+@4A0E4 max=95
+JP: から揚げって二度揚げするとおいしいよね？
+EN: Fried chicken tastes better if you fry it twice, doesn't it?
+
+@4A144 max=95
+JP: さくっと香ばしいよね。
+EN: So crispy, and it smells so good.
+
+@4A1A4 max=95
+JP: かりっとしておいしいよ。
+EN: It's crunchy and delicious.
+
+@4A204 max=95
+JP: お弁当に入れて～。
+EN: Put some in my lunchbox...
+
+@4A264 max=95
+JP: やわらかめのほうが好きなのね～。
+EN: So you like it a little softer, huh...?
+
+@4A2C4 max=95
+JP: かりっとしておいしいよ。
+EN: It's crunchy and delicious.
+
+@4A324 max=95
+JP: お弁当に入れて～。
+EN: Put some in my lunchbox...
+
+@4A384 max=95
+JP: てんぷらといったら海老だよね？
+EN: When you think tempura, you think shrimp, right?
+
+@4A3E4 max=95
+JP: リッチな感じよね～。
+EN: Feels pretty fancy, huh?
+
+@4A444 max=95
+JP: かきあげだろ～。
+EN: Gotta be tempura fritters.
+
+@4A4A4 max=95
+JP: ボク、ちくわ。
+EN: Chikuwa fish cakes for me.
+
+@4A504 max=95
+JP: イカなのかな～。
+EN: Squid, maybe?
+
+@4A564 max=95
+JP: かきあげだろ～。
+EN: Gotta be tempura fritters.
+
+@4A5C4 max=95
+JP: ボク、ちくわ。
+EN: Chikuwa fish cakes for me.
+
+@4A624 max=95
+JP: ジューサー持っている？
+EN: Got a juicer?
+
+@4A684 max=95
+JP: いいな、毎朝フレッシュだね！
+EN: Lucky you! Fresh juice every morning!
+
+@4A6E4 max=95
+JP: ぎゅっと手で絞ればいいんだよ。
+EN: Just give it a good squeeze by hand.
+
+@4A744 max=95
+JP: ジューサーやりたーい。
+EN: I wanna try the juicer!
+
+@4A7A4 max=95
+JP: 絞りたてっておいしいよ。
+EN: Freshly squeezed tastes so good.
+
+@4A804 max=95
+JP: ぎゅっと手で絞ればいいんだよ。
+EN: Just give it a good squeeze by hand.
+
+@4A864 max=95
+JP: ジューサーやりたーい。
+EN: I wanna try the juicer!
+
+@4A8C4 max=95
+JP: 昔は駅員さんが切符切ってたよね？
+EN: Station staff used to punch tickets, right?
+
+@4A924 max=95
+JP: 今、あまり見ないよね～。
+EN: You don't see that much anymore, huh?
+
+@4A984 max=95
+JP: チャカチャカチャカっとね。
+EN: Click-clack, click-clack, just like that!
+
+@4A9E4 max=95
+JP: かっこいい！
+EN: So cool!
+
+@4AA44 max=95
+JP: 切ってたんだよ～。
+EN: They sure used to punch them.
+
+@4AAA4 max=95
+JP: チャカチャカチャカっとね。
+EN: Click-clack, click-clack, just like that!
+
+@4AB04 max=95
+JP: かっこいい！
+EN: So cool!
+
+@4AB64 max=95
+JP: 新幹線ってかっこいいよね？
+EN: Bullet trains are so cool, aren't they?
+
+@4ABC4 max=95
+JP: ひかりとか、こだまとかね～。
+EN: Like the Hikari and Kodama.
+
+@4AC24 max=95
+JP: はやてとかやまびこは～。
+EN: What about the Hayate and Yamabiko?
+
+@4AC84 max=95
+JP: つばさは～。
+EN: And the Tsubasa?
+
+@4ACE4 max=95
+JP: ひかりとか、こだまとか、ダメかな～。
+EN: Even the Hikari and Kodama don't do it for you?
+
+@4AD44 max=95
+JP: はやてとかやまびこは～。
+EN: What about the Hayate and Yamabiko?
+
+@4ADA4 max=95
+JP: つばさは～。
+EN: And the Tsubasa?
+
+@4AE04 max=95
+JP: トランプゲームって面白いよね？
+EN: Card games are fun, aren't they?
+
+@4AE64 max=95
+JP: ババ抜きとかね！
+EN: Like Old Maid!
+
+@4AEC4 max=95
+JP: セブンブリッジとかさ。
+EN: Or Seven Bridge.
+
+@4AF24 max=95
+JP: ダウトとか！
+EN: Or Cheat!
+
+@4AF84 max=95
+JP: トランプ嫌いか～。
+EN: So you're not into cards, huh?
+
+@4AFE4 max=95
+JP: セブンブリッジとかさ。
+EN: Or Seven Bridge.
+
+@4B044 max=95
+JP: ダウトとか！
+EN: Or Cheat!
+
+@4B0A4 max=95
+JP: マージャンできる？
+EN: Can you play mahjong?
+
+@4B104 max=95
+JP: けっこう、面白いよね～。
+EN: It's pretty fun, huh?
+
+@4B164 max=95
+JP: ありゃ、大人の遊びだよ。
+EN: That's a game for grown-ups.
+
+@4B1C4 max=95
+JP: マージャンって何～。
+EN: What's mahjong?
+
+@4B224 max=95
+JP: 点数が面倒だもんね。
+EN: Keeping score is such a pain, huh?
+
+@4B284 max=95
+JP: ありゃ、大人の遊びだよ。
+EN: That's a game for grown-ups.
+
+@4B2E4 max=95
+JP: マージャンって何～。
+EN: What's mahjong?
+
+@4B344 max=95
+JP: 安土桃山時代って１５７３年からだよね？
+EN: The Azuchi-Momoyama period started in 1573, right?
+
+@4B3A4 max=95
+JP: そうだよね、確か。
+EN: Yeah, pretty sure that's right.
+
+@4B404 max=95
+JP: その次が江戸時代。
+EN: The Edo period came next.
+
+@4B464 max=95
+JP: その前が室町時代！
+EN: And the Muromachi period came before it!
+
+@4B4C4 max=95
+JP: あれ？違ったかな～。
+EN: Huh? Did I get that wrong?
+
+@4B524 max=95
+JP: その次が江戸時代。
+EN: The Edo period came next.
+
+@4B584 max=95
+JP: その前が室町時代！
+EN: And the Muromachi period came before it!
+
+@4B5E4 max=95
+JP: 暗証番号って誕生日にしちゃだめだよね？
+EN: You shouldn't use your birthday as your PIN, right?
+
+@4B644 max=95
+JP: ね、危険なんだってね。
+EN: Yeah, they say it's risky.
+
+@4B6A4 max=95
+JP: オレの暗証番号はオレの身長。
+EN: My PIN is my height.
+
+@4B704 max=95
+JP: ボクのは石石で１４１４。
+EN: Mine's 1414! "Ishi-ishi" means "stone-stone" in Japanese.
+
+@4B764 max=95
+JP: だって、危険だっていわれるよ。
+EN: But everyone says it's risky.
+
+@4B7C4 max=95
+JP: オレの暗証番号はオレの身長。
+EN: My PIN is my height.
+
+@4B824 max=95
+JP: ボクのは石石で１４１４。
+EN: Mine's 1414! "Ishi-ishi" means "stone-stone" in Japanese.
+
+@4B884 max=95
+JP: 読書って好き？
+EN: Do you like reading?
+
+@4B8E4 max=95
+JP: 推理小説がいいよね。
+EN: Mystery novels are the best, right?
+
+@4B944 max=95
+JP: オレは時代小説だな。
+EN: I go for historical novels.
+
+@4B9A4 max=95
+JP: ボク、絵本。
+EN: I like picture books.
+
+@4BA04 max=95
+JP: 本、読まないんだ～。
+EN: I don't really read books...
+
+@4BA64 max=95
+JP: オレは時代小説だな。
+EN: I go for historical novels.
+
+@4BAC4 max=95
+JP: ボク、絵本。
+EN: I like picture books.
+
+@4BB24 max=95
+JP: おにぎりの具は梅干しだよね～？
+EN: Pickled plum's the best rice ball filling, right?
+
+@4BB84 max=95
+JP: 定番だよね～。
+EN: It's a classic, huh?
+
+@4BBE4 max=95
+JP: オレはオカカ。
+EN: Bonito flakes for me.
+
+@4BC44 max=95
+JP: ボク、たらこ。
+EN: I like cod roe.
+
+@4BCA4 max=95
+JP: ひょっとしてツナかな～。
+EN: Or maybe you're a tuna fan?
+
+@4BD04 max=95
+JP: オレはオカカ。
+EN: Bonito flakes for me.
+
+@4BD64 max=95
+JP: ボク、たらこ。
+EN: I like cod roe.
+
+@4BDC4 max=95
+JP: 失恋すると、世の中どうでもよくなるよね？
+EN: When your heart gets broken, nothing else matters, right?
+
+@4BE24 max=95
+JP: でも案外、大丈夫なんだよね～。
+EN: But you get through it better than you'd think.
+
+@4BE84 max=95
+JP: 恋なんて最近、とんとご無沙汰だ。
+EN: It's been ages since I had any romance.
+
+@4BEE4 max=95
+JP: よくわかんないぃ。
+EN: I don't really get it...
+
+@4BF44 max=95
+JP: 立ち直りが早い人なのね～。
+EN: You bounce back pretty fast, huh?
+
+@4BFA4 max=95
+JP: 恋なんて最近、とんとご無沙汰だ。
+EN: It's been ages since I had any romance.
+
+@4C004 max=95
+JP: よくわかんないぃ。
+EN: I don't really get it...
+
+@4C064 max=95
+JP: お誕生日のケーキには歳の数だけ<n>ロウソク立てる？
+EN: Do you put a candle on your birthday cake<n>for every year of your age?
+
+@4C0C4 max=95
+JP: 立てるのね～。
+EN: So you do, huh?
+
+@4C124 max=95
+JP: 立てられる数超えてんだろ。
+EN: Bet you can't fit that many on there anymore.
+
+@4C184 max=95
+JP: ボク、立てる～～。
+EN: I dooo!
+
+@4C1E4 max=95
+JP: 立てないのね～。
+EN: So you don't, huh?
+
+@4C244 max=95
+JP: 立てられる数超えてんだろ。
+EN: Bet you can't fit that many on there anymore.
+
+@4C2A4 max=95
+JP: ボク、立てる～～。
+EN: I dooo!
+
+@4C304 max=95
+JP: プラトンとアリストテレスって<n>師弟関係なんだよね？
+EN: Plato was Aristotle's teacher,<n>wasn't he?
+
+@4C364 max=95
+JP: だよね、そうだよね。
+EN: Right? I thought so.
+
+@4C3C4 max=95
+JP: イデア論だな。
+EN: The theory of Forms, huh?
+
+@4C424 max=95
+JP: 誰それ、何それ？
+EN: Who's that? What's that?
+
+@4C484 max=95
+JP: あれ？違ったっけ～。
+EN: Huh? Have I got that wrong?
+
+@4C4E4 max=95
+JP: イデア論だな。
+EN: The theory of Forms, huh?
+
+@4C544 max=95
+JP: 誰それ、何それ？
+EN: Who's that? What's that?
+
+@4C5A4 max=95
+JP: 猫の耳って５万ヘルツ聞こえるんだよね？
+EN: Cats can hear sounds at 50,000 hertz, right?
+
+@4C604 max=95
+JP: 人間よりずっと聞こえるんだよね。
+EN: That's way beyond what humans can hear.
+
+@4C664 max=95
+JP: 犬も耳がいいよな。
+EN: Dogs have good hearing, too.
+
+@4C6C4 max=95
+JP: ボクもいいけど。
+EN: Mine's good, too, though.
+
+@4C724 max=95
+JP: 聞こえるんだよ、人間よりずっと。
+EN: They can, you know. Way beyond what humans can hear.
+
+@4C784 max=95
+JP: 犬も耳がいいよな。
+EN: Dogs have good hearing, too.
+
+@4C7E4 max=95
+JP: ボクもいいけど。
+EN: Mine's good, too, though.
+
+@4C844 max=95
+JP: 桃って好き？
+EN: Do you like peaches?
+
+@4C8A4 max=95
+JP: おいしいよね～。
+EN: They're sooo good, huh?
+
+@4C904 max=95
+JP: あの、白桃の汁がいいよな。
+EN: White peaches are so nice and juicy.
+
+@4C964 max=95
+JP: ボク、黄桃が好き。
+EN: I like yellow peaches.
+
+@4C9C4 max=95
+JP: 甘すぎるかな～。
+EN: Maybe they're a little too sweet?
+
+@4CA24 max=95
+JP: あの、白桃の汁がいいよな。
+EN: White peaches are so nice and juicy.
+
+@4CA84 max=95
+JP: ボク、黄桃が好き。
+EN: I like yellow peaches.
+
+@4CAE4 max=95
+JP: 最近、スキップしたことある？
+EN: Have you skipped along anywhere lately?
+
+@4CB44 max=95
+JP: 気分が軽くなるよね～。
+EN: Puts a spring in your step, huh?
+
+@4CBA4 max=95
+JP: スキップなんて誰がするかい。
+EN: Who'd catch me skipping?
+
+@4CC04 max=95
+JP: スキップ大好き。
+EN: I love skipping!
+
+@4CC64 max=95
+JP: してみて、気分が軽くなるよ。
+EN: Give it a try. It'll lift your spirits.
+
+@4CCC4 max=95
+JP: スキップなんて誰がするかい。
+EN: Who'd catch me skipping?
+
+@4CD24 max=95
+JP: スキップ大好き。
+EN: I love skipping!
+
+@4CD84 max=95
+JP: 寒い時って肩がこるよね？
+EN: Your shoulders get stiff when it's cold, right?
+
+@4CDE4 max=95
+JP: 肩すくめちゃうからだよね。
+EN: It's because you hunch them up, huh?
+
+@4CE44 max=95
+JP: 肩がこるよ。
+EN: Mine get stiff.
+
+@4CEA4 max=95
+JP: こったことないよ～。
+EN: Mine never have!
+
+@4CF04 max=95
+JP: こらないのか～。
+EN: So they don't get stiff, huh...
+
+@4CF64 max=95
+JP: 肩がこるよ。
+EN: Mine get stiff.
+
+@4CFC4 max=95
+JP: こったことないよ～。
+EN: Mine never have!
+
+@4D024 max=95
+JP: つくしって食べたことある？
+EN: Have you ever eaten horsetail shoots?
+
+@4D084 max=95
+JP: けっこう、おいしいんだよ。
+EN: They're actually pretty tasty.
+
+@4D0E4 max=95
+JP: ハカマを取って調理するのだ。
+EN: Peel off the papery sheaths before cooking them.
+
+@4D144 max=95
+JP: おいしいのかな～。
+EN: I wonder if they're any good...
+
+@4D1A4 max=95
+JP: 佃煮にできるんだよ～。
+EN: You can simmer them in sweet soy sauce...
+
+@4D204 max=95
+JP: ハカマを取って調理するのだ。
+EN: Peel off the papery sheaths before cooking them.
+
+@4D264 max=95
+JP: おいしいのかな～。
+EN: I wonder if they're any good...
+
+@4D2C4 max=95
+JP: 韓国の海苔っておいしいよね？
+EN: Korean seaweed is tasty, isn't it?
+
+@4D324 max=95
+JP: 塩味でおいしいよね～。
+EN: So salty and delicious...
+
+@4D384 max=95
+JP: ごま油の風味もあるよな。
+EN: It's got that sesame oil flavor, too.
+
+@4D3E4 max=95
+JP: おいしい～。
+EN: Yummm...
+
+@4D444 max=95
+JP: 塩味でおいしいよ～。
+EN: It's salty and tasty...
+
+@4D4A4 max=95
+JP: ごま油の風味もあるよな。
+EN: It's got that sesame oil flavor, too.
+
+@4D504 max=95
+JP: おいしい～。
+EN: Yummm...
+
+@4D564 max=95
+JP: 茶道って習ったことある？
+EN: Have you ever taken tea ceremony lessons?
+
+@4D5C4 max=95
+JP: 礼儀の基本が身につくよね。
+EN: They teach you basic manners, don't they?
+
+@4D624 max=95
+JP: お手前頂戴致します。
+EN: Thank you for preparing this tea.
+
+@4D684 max=95
+JP: お茶碗くるくる～～。
+EN: Round and round goes the tea bowl...
+
+@4D6E4 max=95
+JP: 礼儀の基本が身につくよ。
+EN: They teach you basic manners.
+
+@4D744 max=95
+JP: お手前頂戴致します。
+EN: Thank you for preparing this tea.
+
+@4D7A4 max=95
+JP: お茶碗くるくる～～。
+EN: Round and round goes the tea bowl...
+
+@4D804 max=95
+JP: バナナって好き？
+EN: Do you like bananas?
+
+@4D864 max=95
+JP: 好きなのか～。
+EN: So you like them, huh...
+
+@4D8C4 max=95
+JP: 一日一本。
+EN: One banana a day.
+
+@4D924 max=95
+JP: バナナおいしいよ。
+EN: Bananas are yummy.
+
+@4D984 max=95
+JP: なんか、モソモソしてるもんね。
+EN: They do have that dry, mushy texture.
+
+@4D9E4 max=95
+JP: 一日一本。
+EN: One banana a day.
+
+@4DA44 max=95
+JP: バナナおいしいよ。
+EN: Bananas are yummy.
+
+@4DAA4 max=95
+JP: 孔雀の羽ってきれいだよね？
+EN: Peacock feathers are pretty, aren't they?
+
+@4DB04 max=95
+JP: ぱーっと広げるとね、きれいだよね。
+EN: They're so pretty when they fan out.
+
+@4DB64 max=95
+JP: きれいかなぁ。
+EN: Are they really that pretty?
+
+@4DBC4 max=95
+JP: きれい～～。
+EN: So pretty...
+
+@4DC24 max=95
+JP: 見たことないかな～。
+EN: Maybe you've never seen them...
+
+@4DC84 max=95
+JP: きれいかなぁ。
+EN: Are they really that pretty?
+
+@4DCE4 max=95
+JP: きれい～～。
+EN: So pretty...
+
+@4DD44 max=95
+JP: お習字ってならったことある？
+EN: Have you ever taken calligraphy lessons?
+
+@4DDA4 max=95
+JP: 字がきれいになるって本当かな。
+EN: Do they really make your handwriting neater?
+
+@4DE04 max=95
+JP: オレ、年賀状は毛筆だぜ。
+EN: I write my New Year's cards with a brush!
+
+@4DE64 max=95
+JP: 筆で書くの～。
+EN: You write with a brush...
+
+@4DEC4 max=95
+JP: ないのか～。
+EN: So you haven't, huh...
+
+@4DF24 max=95
+JP: オレ、年賀状は毛筆だぜ。
+EN: I write my New Year's cards with a brush!
+
+@4DF84 max=95
+JP: 筆で書くの～。
+EN: You write with a brush...
+
+@4DFE4 max=95
+JP: 猫って十二支にはいないよね？
+EN: There's no cat in the Chinese zodiac, right?
+
+@4E044 max=95
+JP: いないよね、いないよね。
+EN: Nope, no cat. No cat at all.
+
+@4E0A4 max=95
+JP: 子、牛、寅…。
+EN: Rat, ox, tiger...
+
+@4E104 max=95
+JP: 辰…の次は～。
+EN: Dragon... What comes next...?
+
+@4E164 max=95
+JP: いるの？？いないでしょ～。
+EN: There is? No, there isn't...
+
+@4E1C4 max=95
+JP: 子、牛、寅…。
+EN: Rat, ox, tiger...
+
+@4E224 max=95
+JP: 辰…の次は～。
+EN: Dragon... What comes next...?
+
+@4E284 max=95
+JP: かまきりの卵、見たことある？
+EN: Have you ever seen mantis eggs?
+
+@4E2E4 max=95
+JP: 変なかたちだよね。
+EN: They're a funny shape, aren't they?
+
+@4E344 max=95
+JP: 茶色くって、固い泡みたいな。
+EN: The egg case is brown, like hardened foam.
+
+@4E3A4 max=95
+JP: よく見つけるよ～。
+EN: I find them all the time...
+
+@4E404 max=95
+JP: 変なかたちなんだよ。
+EN: It's got a funny shape.
+
+@4E464 max=95
+JP: 茶色くって、固い泡みたいな。
+EN: The egg case is brown, like hardened foam.
+
+@4E4C4 max=95
+JP: よく見つけるよ～。
+EN: I find them all the time...
+
+@4E524 max=95
+JP: 犬も子供の歯から生え変わるんだよね？
+EN: Dogs lose their baby teeth too, right?
+
+@4E584 max=95
+JP: 生え変わるよね～。
+EN: Yep, they sure do.
+
+@4E5E4 max=95
+JP: １年ぐらいで全部生え変わるよね。
+EN: They've got all their new teeth in about a year, right?
+
+@4E644 max=95
+JP: 知らなかった～。
+EN: I had no idea!
+
+@4E6A4 max=95
+JP: 生え変わるんだよ。
+EN: Yep, they lose them.
+
+@4E704 max=95
+JP: １年ぐらいで全部生え変わるよね。
+EN: They've got all their new teeth in about a year, right?
+
+@4E764 max=95
+JP: 知らなかった～。
+EN: I had no idea!
+
+@4E7C4 max=95
+JP: 最近、野菜の旬ってわからないよね？
+EN: It's hard to tell when vegetables are in season these days, huh?
+
+@4E824 max=95
+JP: いつでも、なんでも売ってるよね～。
+EN: You can buy anything all year round.
+
+@4E884 max=95
+JP: 最近、ビニール栽培多いからな。
+EN: Lots of stuff's grown in plastic greenhouses now.
+
+@4E8E4 max=95
+JP: トマトは夏～。
+EN: Tomatoes are a summer thing!
+
+@4E944 max=95
+JP: 季節を意識しているのね。
+EN: You do keep track of the seasons.
+
+@4E9A4 max=95
+JP: 最近、ビニール栽培多いからな。
+EN: Lots of stuff's grown in plastic greenhouses now.
+
+@4EA04 max=95
+JP: トマトは夏～。
+EN: Tomatoes are a summer thing!
+
+@4EA64 max=95
+JP: ルイス・キャロルはイギリス人だよね？
+EN: Lewis Carroll was British, right?
+
+@4EAC4 max=95
+JP: だよね～。
+EN: Totally.
+
+@4EB24 max=95
+JP: 不思議の国のアリスだな。
+EN: The Alice in Wonderland guy.
+
+@4EB84 max=95
+JP: チェシャ猫好き～。
+EN: I love the Cheshire Cat!
+
+@4EBE4 max=95
+JP: イギリス人だよ。
+EN: Yep, he was British.
+
+@4EC44 max=95
+JP: 不思議の国のアリスだな。
+EN: The Alice in Wonderland guy.
+
+@4ECA4 max=95
+JP: チェシャ猫好き～。
+EN: I love the Cheshire Cat!
+
+@4ED04 max=95
+JP: アメリカの歴代大統領、全部言える？
+EN: Can you name every US president?
+
+@4ED64 max=95
+JP: ぎゃ～～言えるの！すごい！！
+EN: Whaaat?! You can? That's amazing!
+
+@4EDC4 max=95
+JP: 言えないだろ、普通。
+EN: Most people couldn't.
+
+@4EE24 max=95
+JP: 言えません。
+EN: I can't.
+
+@4EE84 max=95
+JP: 言えないよね～。
+EN: Yeah, me neither.
+
+@4EEE4 max=95
+JP: 言えないだろ、普通。
+EN: Most people couldn't.
+
+@4EF44 max=95
+JP: 言えません。
+EN: I can't.
+
+@4EFA4 max=95
+JP: 円周率って、１０桁ぐらいまで言える？
+EN: Can you recite pi to about ten decimal places?
+
+@4F004 max=95
+JP: ３．１４１５９２６５３５えーとえーと。
+EN: 3.1415926535... Um, um...
+
+@4F064 max=95
+JP: 何かの役には立つだろう。
+EN: It's bound to come in handy somehow.
+
+@4F0C4 max=95
+JP: 立たないよ～。
+EN: No way it will!
+
+@4F124 max=95
+JP: 必要ないもんね。
+EN: It's not like you need it.
+
+@4F184 max=95
+JP: 何かの役には立つだろう。
+EN: It's bound to come in handy somehow.
+
+@4F1E4 max=95
+JP: 立たないよ～。
+EN: No way it will!
+
+@4F244 max=95
+JP: カレーは辛いほうが好き？
+EN: Do you like your curry spicy?
+
+@4F2A4 max=95
+JP: きりっとね～。
+EN: With a nice kick!
+
+@4F304 max=95
+JP: うんと辛いのがいいね。
+EN: The hotter, the better.
+
+@4F364 max=95
+JP: 甘いのがいいな。
+EN: I like mine sweet.
+
+@4F3C4 max=95
+JP: 甘いの好きなのね～。
+EN: So you like it sweet, huh?
+
+@4F424 max=95
+JP: うんと辛いのがいいね。
+EN: The hotter, the better.
+
+@4F484 max=95
+JP: 甘いのがいいな。
+EN: I like mine sweet.
+
+@4F4E4 max=95
+JP: 塩のジェラートって食べたことある？
+EN: Have you ever tried salt gelato?
+
+@4F544 max=95
+JP: おいしかったかな～。
+EN: Was it any good?
+
+@4F5A4 max=95
+JP: 案外、いけるぜ。
+EN: It's surprisingly good.
+
+@4F604 max=95
+JP: タロッコオレンジのがいいよ～。
+EN: I'd rather have Tarocco orange gelato!
+
+@4F664 max=95
+JP: おいしいよぉ。
+EN: It's yummy!
+
+@4F6C4 max=95
+JP: 案外、いけるぜ。
+EN: It's surprisingly good.
+
+@4F724 max=95
+JP: タロッコオレンジのがいいよ～。
+EN: I'd rather have Tarocco orange gelato!
+
+@4F784 max=95
+JP: シュレーディンガーの猫って知ってる？
+EN: Have you heard of Schrodinger's cat?
+
+@4F7E4 max=95
+JP: 量子力学のお話だね。
+EN: That's a quantum mechanics thing, right?
+
+@4F844 max=95
+JP: 猫は死んでいるのか、生きているのか。
+EN: Is the cat dead, or is it alive?
+
+@4F8A4 max=95
+JP: まねき猫なら知っているよ。
+EN: I've heard of lucky cats.
+
+@4F904 max=95
+JP: 量子力学のお話だよ。
+EN: It's a quantum mechanics thing.
+
+@4F964 max=95
+JP: 猫は死んでいるのか、生きているのか。
+EN: Is the cat dead, or is it alive?
+
+@4F9C4 max=95
+JP: まねき猫なら知っているよ。
+EN: I've heard of lucky cats.
+
+@4FA24 max=95
+JP: フロイトとユングって友達だったの？
+EN: Were Freud and Jung friends?
+
+@4FA84 max=95
+JP: 知り合いだったみたいね。
+EN: Seems they knew each other.
+
+@4FAE4 max=95
+JP: 一緒に研究したんだろ。
+EN: They did research together, right?
+
+@4FB44 max=95
+JP: 誰それ～～。
+EN: Whooo are they?
+
+@4FBA4 max=95
+JP: 知り合いだったみたいね。
+EN: Seems they knew each other.
+
+@4FC04 max=95
+JP: 一緒に研究したんだろ。
+EN: They did research together, right?
+
+@4FC64 max=95
+JP: 誰それ～～。
+EN: Whooo are they?

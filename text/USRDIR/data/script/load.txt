@@ -1,0 +1,979 @@
+# source: PSP_GAME/USRDIR/data/script/load.scb
+# format: scb
+# width: 44
+
+@5144 max=639
+JP: クイズ、やる？
+EN: Up for a quiz?
+
+@53C4 max=639
+JP: 色彩心理テストをするよ。
+EN: Let's try a color personality quiz.
+
+@5644 max=639
+JP: クイズ、やる？
+EN: Up for a quiz?
+
+@58C4 max=639
+JP: 表示したいテキストのIDを入力してください。
+EN: 
+
+@14E64 max=359
+JP: 今のあなたは、自分に自信を持っています。<n>全身、白の服を着たい、と思うようなときは、<p>目立ちたい、という願望が働いているのです。
+EN: You're feeling confident right now.<n>When you feel like dressing all in white,<p>it's a sign that you want to stand out.
+
+@14FCC max=359
+JP: 根拠のない喪失感にさいなまれていませんか。<n>あなたの心は、捉えきれない何かを求めて、<p>さまよっています。
+EN: Are you troubled by a sense of loss you can't explain?<n>Your heart is wandering in search of something<p>you can't quite put your finger on.
+
+@15134 max=359
+JP: 物事を実現させるエネルギーを<n>失いつつあります。<p>今、あなたはいわば充電中、の状態です。
+EN: You're running low on the energy<n>you need to make things happen.<p>Think of this as your time to recharge.
+
+@1529C max=359
+JP: 毎日、あまりに忙しく過ごしていませんか？<n>自分のことを後回しにしてばかりで、<p>それが焦燥感を生んでいるようです。
+EN: Have your days been a little too busy?<n>You keep putting your own needs last,<p>and it seems to be leaving you restless.
+
+@15404 max=359
+JP: 今のあなたに必要なものは、<n>あたたかい食べ物、あたたかい洋服。<p>まずは、心身をあたためて、<n>力を蓄えましょう。
+EN: What you need right now is<n>warm food and cozy clothes.<p>Start by warming yourself, body and soul,<n>and building your strength back up.
+
+@1556C max=359
+JP: 白は、すべてを反射する色。<n>あなたには、この白が持つ反射のパワーと<p>勇気が必要なのかもしれません。
+EN: White is a color that reflects all light.<n>Perhaps you need some of that power<p>to reflect things back, along with a little courage.
+
+@156D4 max=359
+JP: できれば、問題を起こさず、<n>無難にやり過ごしたい、という気持ちが、<p>今のあなたを捉えています。
+EN: Right now, you'd rather avoid trouble<n>and get through things without making waves.<p>That wish is guiding how you act.
+
+@1583C max=359
+JP: 今、あなたの心は不安に満ちています。<n>空虚な思いや、すべてから逃げたい、<p>という気持ちがあなたを臆病にしています。
+EN: Your heart is full of worry right now.<n>A sense of emptiness and a wish to escape it all<p>are making you timid.
+
+@159A4 max=359
+JP: 人に尽くすことばかりを考えて<n>自分の気持ちを押し殺していませんか？<p>たまにはわがままも、必要です。
+EN: Are you so busy looking after others<n>that you're burying your own feelings?<p>It's okay to be a little selfish sometimes.
+
+@15B0C max=359
+JP: あなたの心に必要なのは、<n>さんさんと降り注ぐ光です。<p>夜型の生活を見直しましょう。
+EN: What your heart needs<n>is a generous helping of sunshine.<p>It may be time to rethink those late nights.
+
+@15C74 max=359
+JP: 今日は何かスポーツでもしてみましょう。<n>たまには身体を動かして、汗をかくのも<p>楽しいですよ。
+EN: Why not try a sport today?<n>Getting moving and working up a sweat<p>can be fun once in a while!
+
+@15DDC max=359
+JP: 自分のことを後回しにしていませんか？<n>人のことを気にするより、<p>まずは自分のことを見つめましょう。
+EN: Have you been putting yourself last?<n>Before worrying about everyone else,<p>take a good look at your own needs.
+
+@15F44 max=359
+JP: 今あなたは、他人にも自分にも<n>強い誠実さ、潔癖性を求めています。
+EN: Right now, you expect complete honesty<n>and very high moral standards from yourself and others.
+
+@160AC max=359
+JP: 今のあなたは、心身が浄化され、<n>素直で明るい気分になっています。
+EN: You feel refreshed in body and mind,<n>leaving you openhearted and cheerful.
+
+@16214 max=359
+JP: あなたの中に、<n>誠実で純粋に見られたいという願望が<p>生まれています。
+EN: You're beginning to wish<n>that others would see you<p>as sincere and pure of heart.
+
+@1637C max=359
+JP: 誰かに大切に扱って欲しいという<n>気持ちが溢れています。
+EN: Your heart is overflowing with the wish<n>for someone to cherish you.
+
+@164E4 max=359
+JP: 他人との対立を恐れ、<n>臆病になっていませんか？<p>何事も勇気を持って行動しましょう。
+EN: Has a fear of clashing with others<n>left you afraid to act?<p>Try to face things with courage.
+
+@1664C max=359
+JP: 身体を動かすことに魅力を感じています。<n>自分でスポーツできないときは、<p>せめてテレビ観戦でもいかがですか。
+EN: You're drawn to physical activity right now.<n>If you can't play a sport yourself,<p>how about at least watching a game on TV?
+
+@167B4 max=359
+JP: 気持ちに迷いが生じています。<n>いったん、思考を停止して、<p>リラックスするところから始めてください。
+EN: You're feeling unsure of yourself.<n>Give your thoughts a break for now,<p>and start by letting yourself relax.
+
+@1691C max=359
+JP: 今、あなたの心は消極的になっています。<n>純白の明るさを取り入れて、<p>ポジティブに考えてみましょう。
+EN: You're feeling a little passive right now.<n>Let the brightness of pure white into your life,<p>and try looking on the bright side.
+
+@16A84 max=359
+JP: 今、あなたは何かに夢中になっています。<n>思い切り、目標に向かって進んでください。
+EN: Something has really captured your heart.<n>Go ahead and give that goal all you've got!
+
+@16BEC max=359
+JP: 全力投球して、その結果が期待できるとき。<n>今のあなたには実現のパワーがあります。
+EN: Now's the time to give it your all and expect results.<n>You have the power to make things happen.
+
+@16D54 max=359
+JP: やる気が空回りしていませんか？<n>気持ちばかり焦っても、しかたありません。<p>ゆっくり一呼吸することも大切です。
+EN: Are you full of drive but getting nowhere?<n>Getting worked up won't help things along.<p>It's important to pause and take a slow breath, too.
+
+@16EBC max=359
+JP: 自分の夢ばかり追って、<n>周りに迷惑をかけていませんか？<p>立ち止まって、周囲を見直してください。
+EN: Have you been chasing your dreams<n>at the expense of the people around you?<p>Stop for a moment and take a look around.
+
+@17024 max=359
+JP: 今は、とても行動的になれる時です。<n>普段からやってみたかったことに<p>今こそ挑戦してください。
+EN: You've got plenty of get-up-and-go right now.<n>That thing you've always wanted to try?<p>Now's the time to give it a go!
+
+@1718C max=359
+JP: 気力は十分です。<n>あとは、肉体面で、体を強く元気に<p>していきましょう。
+EN: You've got all the motivation you need.<n>Now it's time to build up your body<p>so you feel strong and full of life, too.
+
+@172F4 max=359
+JP: 体力を消耗したり、<n>エネルギーを使い切ってしまわないように<p>ほどほどに行動しましょう。
+EN: Pace yourself so you don't wear yourself out<n>or use up every last bit of energy.<p>A little moderation will go a long way.
+
+@1745C max=359
+JP: エネルギーが蓄えられて、爆発寸前です。<n>少し気持ちを抑える忍耐力が必要です。
+EN: You've stored up so much energy, you're ready to burst!<n>You'll need some patience to keep yourself in check.
+
+@175C4 max=359
+JP: 攻撃性や闘争心が、<n>今のあなたを捉えています。<p>内面的な愛情や温かさも大切に。
+EN: You're feeling aggressive<n>and ready for a fight right now.<p>Make room in your heart for love and warmth, too.
+
+@1772C max=359
+JP: 自分の主張も大切ですが、<n>常に冷静さを失わないように<p>気をつけましょう。
+EN: Standing up for your views matters,<n>but be careful to keep a cool head<p>at all times.
+
+@17894 max=359
+JP: 今のあなたは、気持ちが高ぶっています。<n>抜群の行動力を秘めています。
+EN: You're all fired up right now.<n>You have an incredible drive to get things done.
+
+@179FC max=359
+JP: 何か新しい事にチャレンジしたいと<n>思っていますね。<p>今がスタートにふさわしいときです。
+EN: You've been wanting to try<n>something new, haven't you?<p>Now's the perfect time to get started.
+
+@17B64 max=359
+JP: ちょっと待って！<n>周りの状況を見てください。<p>独りよがりになっていませんか。
+EN: Hold on a moment!<n>Take a look at what's happening around you.<p>Have you been seeing things only your way?
+
+@17CCC max=359
+JP: 今、あなたは余分なエネルギーを<n>もてあましている状態です。<p>カラオケやスポーツをして、<n>エネルギーを発散しましょう。
+EN: You've got more energy right now<n>than you know what to do with.<p>Try some karaoke or a sport<n>to let it all out!
+
+@17E34 max=359
+JP: 物事が思い通りにいかなくて<n>イライラしていませんか？<p>感情のコントロールが難しい時です。
+EN: Are things refusing to go your way<n>and leaving you frustrated?<p>It's a tricky time to keep your emotions in check.
+
+@17F9C max=359
+JP: 現状に不満や欲求をかかえているようです。<n>身体を動かして、<p>ストレスを溜めない努力を！
+EN: You seem unhappy with how things are and want more.<n>Get your body moving<p>to keep that stress from building up!
+
+@18104 max=359
+JP: 今のあなたに必要なのは、<n>ちょっとした休息。<p>周囲に目を向けることも必要です。
+EN: What you need right now<n>is a little rest.<p>Take some time to notice what's around you, too.
+
+@1826C max=359
+JP: 挑戦する気持ちが先走っています。<n>気持ちを着実な行動力へと変えましょう。
+EN: Your eagerness to take on a challenge is racing ahead.<n>Turn that enthusiasm into steady action.
+
+@183D4 max=359
+JP: エネルギッシュで心身共にに活力があり、<n>ポジティブ思考になれるときです。
+EN: Your mind and body are brimming with energy.<n>It's a great time to think positively.
+
+@1853C max=359
+JP: 何か、困難なことに立ち向かおうと<n>していますね。<p>今のあなたにはそれを打破する力があります。
+EN: You're getting ready to face<n>something difficult, aren't you?<p>You have the strength to overcome it.
+
+@186A4 max=359
+JP: 今のあなたは、ちょっと落ちつきたい気持ち。<n>パワーはあるのですが、<p>少しもてあましているようです。
+EN: You feel like settling down a little.<n>You have plenty of energy,<p>but you're not quite sure what to do with it.
+
+@1880C max=359
+JP: 今は、自分の内面を意識すべきときです。<n>外に向かっている神経を、いったん<p>自分に集中させましょう。
+EN: Now is the time to look within.<n>Take a break from focusing on the world around you<p>and turn your attention to yourself.
+
+@18974 max=359
+JP: 肉体的、精神的に静けさを求めています。<n>ずっと走ってきた人は、ここでちょっと<p>小休止してください。
+EN: Your mind and body are craving peace and quiet.<n>If you've been on the go nonstop,<p>give yourself a little breather.
+
+@18ADC max=359
+JP: いろいろなことに、好奇心が湧いてきます。<n>精力的になりすぎて、他人に疎まれないよう<p>注意が必要です。
+EN: Your curiosity is taking you in all sorts of directions.<n>Just be careful your enthusiasm<p>doesn't become a bit much for others.
+
+@18C44 max=359
+JP: ストレスが溜まっていませんか？<n>まずは、身体からリラックス。<p>ゆっくりお茶でも飲んでみましょう。
+EN: Has stress been building up?<n>Start by letting your body relax.<p>Take your time and enjoy a cup of tea.
+
+@18DAC max=359
+JP: 今のあなたに必要なのは自分のための時間。<n>自分の心に、栄養を与えてあげましょう。
+EN: What you need right now is some time for yourself.<n>Give your heart a little nourishment.
+
+@18F14 max=359
+JP: 世間の注目を集めたい<n>気持ちになっています。<p>ちょっと羽目を<n>はずしてしまうことがあるので、<p>自分に軽くブレーキをかけて。
+EN: You're in the mood<n>to be the center of attention.<p>You may get a little carried away<n>and let things get out of hand,<p>so go easy on the gas pedal.
+
+@1907C max=359
+JP: 気持ちが常に<n>ハイテンションになっています。<p>空回りにならないように要注意です。
+EN: Your excitement is running<n>at full throttle all the time.<p>Be careful you don't end up spinning your wheels.
+
+@191E4 max=359
+JP: 楽しい予感に満ちています。<n>今のあなたには、お楽しみを引き寄せる<p>パワーがあります。
+EN: You're full of the feeling that fun is just ahead.<n>Right now, you have the power<p>to draw good times your way.
+
+@1934C max=359
+JP: ずっと感じていたストレスが<n>少しずつ減っていきます。<p>あなたに、元々の元気が戻ってきます。
+EN: The stress you've felt for so long<n>is gradually easing.<p>Your usual energy is coming back.
+
+@194B4 max=359
+JP: あなたの、脳と舌が活性化されています。<n>誰かとおしゃべりしたり、<p>遊んだりしたいという欲求が高まります。
+EN: Your mind is buzzing, and so is your tongue!<n>You're feeling a growing urge<p>to chat with someone or have fun together.
+
+@1961C max=359
+JP: にぎやかにふるまってはいるものの、<n>あなたは寂しさを感じています。
+EN: You may be acting lively and cheerful,<n>but deep down, you're feeling lonely.
+
+@19784 max=359
+JP: 誰かに守ってもらいたい<n>気持ちになっています。<p>ひとりでいるのが寂しい、と感じています。
+EN: You're wishing you had someone<n>to look after you.<p>Being on your own feels lonely right now.
+
+@198EC max=359
+JP: 今のあなたには、<n>楽しく過ごせる仲間が必要です。<p>誰かと一緒にいることで<n>幸せを感じられます。
+EN: Right now, you need friends<n>you can have a good time with.<p>Sharing someone's company<n>will bring you happiness.
+
+@19A54 max=359
+JP: 最近、自分らしくない行動を<n>とっていませんか。<p>にぎやかな場所や大勢人の集まるところで<n>自分を取り戻すことができます。
+EN: Have you been acting a little<n>unlike yourself lately?<p>Spending time somewhere lively or crowded<n>can help you feel like yourself again.
+
+@19BBC max=359
+JP: 今のあなたは、人と人との<n>心のふれあいが必要です。<p>ふれあいがあなたをパワーアップさせます。
+EN: Right now, you need the warmth<n>of a heartfelt connection.<p>Connecting with others will recharge your energy.
+
+@19D24 max=359
+JP: 誰かに理解して欲しい、という思いが<n>強くなっている時です。<p>疎遠になっている友人や家族と<n>連絡をとってみましょう。
+EN: Your wish for someone to understand you<n>is growing stronger.<p>Try reaching out to friends or family<n>you haven't spoken to in a while.
+
+@19E8C max=359
+JP: つい、おっせかいなことをしていませんか。<n>青や黒を生活の中に取り入れると、<p>他人の個人主義も認めることができるように。
+EN: Have you been meddling without meaning to?<n>Bring some blue or black into your daily life<p>to help you respect other people's independence.
+
+@19FF4 max=359
+JP: チームワークがうまくいくときです。<n>学校や会社で、誰かと組んで作業をすると<p>うまくいくでしょう。
+EN: It's a good time for teamwork.<n>Pair up with someone at school or work,<p>and things should go smoothly.
+
+@1A15C max=359
+JP: パワーは十分、気合も十分と感じていますが、<n>実はあなたには、協力者が必要です。<p>まわりを見渡して、相談相手を探して。
+EN: You feel full of energy and determination,<n>but you could really use a helping hand.<p>Look around for someone you can turn to for advice.
+
+@1A2C4 max=359
+JP: 今、あなたは夢や幻想の世界にはまっていて、<n>現実を無視しがちです。<p>足を地に着ける努力をしてみてください。
+EN: You're caught up in dreams and fantasies<n>and tend to tune out reality.<p>Try to get your feet back on the ground.
+
+@1A42C max=359
+JP: エネルギーは十分ですが、<n>上手く使いこなせていませんね。<p>力の入れどころを、良く考えて。
+EN: You have plenty of energy,<n>but you're struggling to put it to good use.<p>Think carefully about where to focus your efforts.
+
+@1A594 max=359
+JP: 今のあなたは移り気で甘えん坊。<n>自分勝手な行動を取らないよう<p>気をつけてください。
+EN: You're feeling a little fickle and needy.<n>Be careful not to let that lead<p>to selfish behavior.
+
+@1A6FC max=359
+JP: 誰かに褒めてもらいたい<n>気持ちでいっぱいです。<p>そんなときは、まず、自分から<n>誰かを褒めることが大切です。
+EN: You're really longing<n>for a little praise.<p>At times like this, it's important<n>to start by praising someone else.
+
+@1A864 max=359
+JP: いたってマイペースな気分です。<n>唯我独尊もいいですが、<p>どうしても必要なときには<n>協調性も忘れずに。
+EN: You're happy to go at your own pace.<n>Going your own way is fine,<p>but remember to work with others<n>when it really matters.
+
+@1A9CC max=359
+JP: 今あなたは、<n>注目を集めたいと考えています。<p>浮き足立った行動を取るより、<n>地道に活動するほうが注目されますよ。
+EN: Right now, you're hoping<n>to get people to notice you.<p>Steady effort will draw more attention<n>than getting swept up in the excitement.
+
+@1AB34 max=359
+JP: 自分を含めて、まわり全体を<n>明るくしたい！という<p>気持ちに満ちています。<n>友人たちにも幸せを分けてあげましょう。
+EN: You're bursting with the desire<n>to brighten life for yourself<p>and everyone around you!<n>Share some of that happiness with your friends.
+
+@1AC9C max=359
+JP: 近い将来、何か良いことが<n>起こりそうな予感。<p>今のあなたは<n>それをウキウキと待っている状態です。
+EN: You have a feeling something good<n>is going to happen soon.<p>Right now, you're waiting for it<n>with a flutter of excitement.
+
+@1AE04 max=359
+JP: 自分の意見を決めかねて<n>煮え切らない態度をとっていませんか。<p>冷たいようでも、<n>決断が必要な時もあります。
+EN: Are you sitting on the fence<n>because you can't make up your mind?<p>Sometimes you have to make a decision,<n>even if it feels a little cold.
+
+@1AF6C max=359
+JP: 多くの人と明るくコミュニケーションできる<n>開放的な気分になっています。<p>付き合いを広げるチャンスです。
+EN: You're feeling open and outgoing,<n>ready to chat cheerfully with all sorts of people.<p>It's a chance to widen your circle.
+
+@1B0D4 max=359
+JP: 新しい交際を始めるのに<n>ふさわしい時期を迎えています。<p>思いがけない出会いに<n>恵まれるかもしれません。
+EN: This is a good time<n>to form new relationships.<p>You might be lucky enough<n>to meet someone when you least expect it.
+
+@1B23C max=359
+JP: 思い付きが冴える時です。<n>新しいアイディアを考えるのにもいい時。<p>学校や会社で、企画を立てる時、<n>活躍できそう。
+EN: Your mind is full of bright sparks.<n>It's a great time to come up with new ideas.<p>You could really shine when making plans<n>at school or work.
+
+@1B3A4 max=359
+JP: 面倒なことや困難なことを<n>避けて行きたいという逃避的な面が顔を出し<p>ちょっとあなたを消極的にしています。
+EN: Your urge to escape from hassles and challenges<n>is coming to the surface,<p>making you a little reluctant to take action.
+
+@1B50C max=359
+JP: 今は、将来に希望を持って行動するべき時。<n>今、あなたが蒔いた種は、<p>将来必ず実を結ぶはずです。
+EN: Now is the time to act with hope for the future.<n>The seeds you plant today<p>are sure to bear fruit someday.
+
+@1B674 max=359
+JP: 勉強も仕事も能率良く<n>進めることができる時期。<p>体調や気分はスッキリしています。<n>今のテンションを保つよう、心がけて。
+EN: You can make good progress<n>with both studying and work right now.<p>Your mind and body feel refreshed.<n>Try to keep that momentum going.
+
+@1B7DC max=359
+JP: ポジティブ思考で、行動は、スピーディー。<n>今は、合理的な判断ができる時。<p>いろんな場面で活躍できます。
+EN: You're thinking positively and acting quickly.<n>Now is a good time to make levelheaded decisions.<p>You can shine in all sorts of situations.
+
+@1B944 max=359
+JP: 他人に気を使いすぎて、<n>ストレス過多になっているようです。<p>まずは体の調子を整えることが大切です。
+EN: Worrying too much about others<n>seems to have left you overloaded with stress.<p>Start by taking care of your physical well-being.
+
+@1BAAC max=359
+JP: チャレンジ精神が旺盛で、<n>失敗してもめげずに再挑戦できる時。<p>受験やプレゼンには自信を持って挑んで。
+EN: You're eager for a challenge and ready<n>to try again even if you fail.<p>Approach exams and presentations with confidence.
+
+@1BC14 max=359
+JP: ちょっと自分勝手に<n>なってしまう傾向にあります。<p>今のままでは他人から<n>敬遠されてしまいます。<p>わがままは、ちょっと抑えて穏やかに。
+EN: You're tending to put yourself first<n>a little too often.<p>Keep this up, and people may<n>start keeping their distance.<p>Rein in those selfish urges and take a gentler approach.
+
+@1BD7C max=359
+JP: 空想や、想像が虜になっているようですが、<n>実は、今のあなたには、<p>現実から目をそむけず、<n>立ち向かっていくパワーがあるはずです。
+EN: You seem caught up in daydreams<n>and flights of fancy.<p>But you have the strength to face reality<n>and meet its challenges head-on.
+
+@1BEE4 max=359
+JP: 今のあなたは、<n>ちょっとパワーダウンしています。<p>自分を癒せる方法を探してみましょう。
+EN: Your batteries are running<n>a little low right now.<p>Look for something that helps you recharge.
+
+@1C04C max=359
+JP: 周囲に振り回されて、<n>精神的にとても疲れています。<p>一日のんびり過ごしてみるのは<n>いかがですか。
+EN: Being pulled this way and that by others<n>has left you mentally exhausted.<p>How about spending a whole day<n>taking it easy?
+
+@1C1B4 max=359
+JP: 今のあなたに必要なのは、<n>自分へのご褒美です。<p>おいしいケーキ、きれいな景色、<n>幸せを感じるものに触れに行きましょう。
+EN: What you need right now<n>is a little treat.<p>A delicious cake, a beautiful view...<n>Go find something that makes you happy.
+
+@1C31C max=359
+JP: 何かに深く傷ついていませんか。<n>まずはその感情を受け入れ、<p>自分で自分を理解するための心の整理を<n>してみてください。
+EN: Has something hurt you deeply?<n>Start by accepting how you feel.<p>Then take time to sort through those feelings<n>and understand yourself a little better.
+
+@1C484 max=359
+JP: 表面上の勝ち負けにこだわっています。<n>どんなことにも勝敗をつけていると、<p>自分が見えなくなってしまいますよ。
+EN: You're too caught up in who comes out on top.<n>If you turn everything into a contest,<p>you may lose sight of who you are.
+
+@1C5EC max=359
+JP: 誰にも理解してもらえない、自分は一人、<n>そんな思いに捉われていませんか。<p>あなたをわかってくれる人は、案外近くに<n>存在しています。
+EN: Do you feel like nobody understands you,<n>and you're all alone?<p>Someone who understands you may be<n>closer than you think.
+
+@1C754 max=359
+JP: 今のあなたは、自分の心の奥にある思いを、<n>押さえつけようとしています。<p>淀んだ感情を解き放てるように、<n>たまには自分を甘やかしてみてください。
+EN: You're trying to bury the feelings<n>deep inside your heart.<p>Let yourself indulge a little now and then.<n>It may help those bottled-up feelings flow free.
+
+@1C8BC max=359
+JP: 今のあなたに必要なのは、勇気です。<n>ちょっと勇気を出して、自分の気持ちを<p>言葉に出して言ってみましょう。
+EN: What you need right now is courage.<n>Take a deep breath and try<p>putting your feelings into words.
+
+@1CA24 max=359
+JP: 自分の理想に、ゆっくり一歩一歩近づいて、<n>実現するための力を養いましょう。<p>急ぐ必要は、ないのです。
+EN: Move toward your dreams one step at a time,<n>building the strength to make them come true.<p>There's no need to rush.
+
+@1CB8C max=359
+JP: 他人の意見に心を閉ざしてしまう時期です。<n>頑固になリ過ぎないよう気をつけて。
+EN: You're finding it hard to listen to other views.<n>Be careful not to dig your heels in too far.
+
+@1CCF4 max=359
+JP: 今のあなたは、<n>人に流されやすくなっています。<p>心ない人から利用されてしまわないように<n>慎重に行動してください。
+EN: You're finding it easy to get swept along<n>by other people right now.<p>Tread carefully so that thoughtless people<n>don't take advantage of you.
+
+@1CE5C max=359
+JP: 仕事や勉強で疲れているようです。<n>好きな音楽を聴いたり、本を読んだり、<p>そしてゆっくりと睡眠を取ってください。
+EN: Work or study seems to have worn you out.<n>Listen to music you love, read a good book,<p>and get plenty of restful sleep.
+
+@1CFC4 max=359
+JP: 友達と喧嘩でもしたのでしょうか。<n>恋人と別れたのでしょうか。<p>今のあなたに必要なのは家族の癒しです。
+EN: Have you had a fight with a friend?<n>Or perhaps a breakup?<p>What you need right now is the comfort of family.
+
+@1D12C max=359
+JP: 週末には、ちょっと遠出して、<n>森林に出かけましょう。<p>今、あなたが抱えているストレスは、<n>それで解消されるはずです。
+EN: Take a little trip this weekend<n>and spend some time in the woods.<p>It should help you shake off<n>the stress you've been carrying.
+
+@1D294 max=359
+JP: 今のあなたが望んでいることは、<n>心の平和です。<p>争いごとや、競争は避け、<n>ゆっくりと自分のペースで生きてください。
+EN: What you're longing for right now<n>is peace of mind.<p>Steer clear of quarrels and competition,<n>and take life at your own pace.
+
+@1D3FC max=359
+JP: 人に何かを頼まれると、断れないあなた。<n>いや、という勇気を持ちましょう。
+EN: You find it hard to refuse when someone asks a favor.<n>Find the courage to say no.
+
+@1D564 max=359
+JP: あなたの心は今、とても不安定です。<n>他人に対して批判やねたみを<p>感じてしまいます。<n>外ばかり見ずに、<p>まずは自分を見つめましょう。
+EN: Your feelings are very unsettled right now.<n>You may find yourself judging others<p>or feeling jealous of them.<n>Instead of always looking outward,<p>take a good look at yourself first.
+
+@1D6CC max=359
+JP: 自分の損得を考えず、<n>優しく穏やかな気持ちで<p>物事を解決できる時。<n>お人よしになりすぎないよう、注意して。
+EN: You can approach problems with kindness and calm,<n>without worrying about what's in it for you.<p>That makes this a good time to work things out.<n>Just don't let people take advantage of you.
+
+@1D834 max=359
+JP: 人を助けることが、自分の助けになる時と、<n>そうでないときがあります。<p>今のあなたは、<n>まず、自分を優先してください。
+EN: Sometimes helping others helps you too.<n>Sometimes it doesn't.<p>Right now, you need to put<n>your own needs first.
+
+@1D99C max=359
+JP: 家の中に、小さくても良いので鉢植えなどの<n>グリーンを取り入れてください。<p>あなたの心の安定に、<n>力を発揮してくれます。
+EN: Bring a little greenery into your home.<n>Even a tiny potted plant will do.<p>It can work wonders<n>to help you feel more settled.
+
+@1DB04 max=359
+JP: 今のあなたは<n>少し自信喪失しているようです。<p>些細な失敗に捉われず、<n>将来への希望を持って考えましょう。
+EN: Your confidence seems to have taken<n>a little knock.<p>Don't dwell on small mistakes.<n>Look to the future with hope.
+
+@1DC6C max=359
+JP: 少し気持ちが沈んでいませんか。<n>考え方がネガティブになっています。<p>明るい音楽があなたを引き上げてくれます。
+EN: Feeling a little down?<n>Your thoughts have taken a gloomy turn.<p>Some cheerful music will help lift your spirits.
+
+@1DDD4 max=359
+JP: 今のあなたは、自分のいろいろなことを、<n>人と比較したくなっています。<p>人は人、自分は自分、というペースで<n>考えていきましょう。
+EN: You're tempted to compare yourself<n>with others in all sorts of ways.<p>Remember, they have their path and you have yours.<n>Go at your own pace.
+
+@1DF3C max=359
+JP: 自分が周囲からどう見られているかが<n>とても気になってしまう時期です。<p>他人はそれほど、<n>あなたを意識していませんよ。
+EN: You're especially worried right now<n>about what other people think of you.<p>They probably aren't watching you<n>nearly as closely as you think.
+
+@1E0A4 max=359
+JP: 何事にも他人と比較するのをやめ、<n>自分の気持ちに忠実になってみましょう。<p>まったく違う視野が開けるはずです。
+EN: Stop measuring yourself against everyone else,<n>and try being true to your own feelings.<p>A whole new perspective should open up.
+
+@1E20C max=359
+JP: 今のあなたに必要なのは、<n>自分の力を信じることです。<p>自分を信じることで困難を乗り切れます。
+EN: What you need right now<n>is faith in your own abilities.<p>Believe in yourself, and you can get through the hard times.
+
+@1E374 max=359
+JP: さわやかなエネルギーが発散しています。<n>無用なものまで引き付けてしまう<p>力がありますのでちょっと気をつけて。
+EN: You're giving off a bright, refreshing energy.<n>It's strong enough to attract all sorts of things,<p>including things you don't need. Be a little careful.
+
+@1E4DC max=359
+JP: たまには、友人や知り合いたちから<n>自分の身を離して、<p>一人になってみましょう。<n>気持ちの落ち着き方が変わってきます。
+EN: Every so often, step away from friends<n>and familiar faces.<p>Spend a little time on your own.<n>You may discover a new sense of calm.
+
+@1E644 max=359
+JP: 今は、肉体的にも精神的にも、一度浄化し、<n>全体を活気付けることが必要な時です。<p>プールに泳ぎに行くのがお勧めです。
+EN: It's time to refresh both body and mind<n>and give yourself a new burst of energy.<p>A swim at the pool would be just the thing.
+
+@1E7AC max=359
+JP: ちょっと気ままになりすぎたり、<n>極端に行動したりしていませんか。<p>立ち止まる余裕を身につけて。
+EN: Have you been following every whim<n>or taking things to extremes?<p>Give yourself a little room to pause and reflect.
+
+@1E914 max=359
+JP: 自分で自分をもて余している状態です。<n>あなたの力を十分に発揮できるチャンスは<p>近い将来必ず訪れますので、少し待って。
+EN: You have energy, but don't know where to put it.<n>A chance to really put your abilities to use<p>will come along before long. Be patient.
+
+@1EA7C max=359
+JP: 今のあなたは、悪いことを何でも<n>自分のせいにしてしまう傾向にあります。<p>悪いことの後には、良いことが来ると信じて。
+EN: You're tending to blame yourself<n>for everything that goes wrong.<p>Have faith that good times will follow the bad.
+
+@1EBE4 max=359
+JP: とても消極的になっています。<n>何が怖くて自分が動けないのか、<p>自分の心を良く見つめてあげてください。
+EN: You're holding yourself back right now.<n>What fear is keeping you from taking action?<p>Look into your heart and give it some thought.
+
+@1ED4C max=359
+JP: 異性に対して、<n>合わせすぎる傾向があります。<p>たまにはわがままを言ってみるのも<n>魅力と感じてもらえますよ。
+EN: You tend to bend over backward<n>to please the opposite sex.<p>Try asking for what you want now and then.<n>They may find it charming!
+
+@1EEB4 max=359
+JP: 昔の恋を忘れることができません。<n>過去は過去として、割り切ってください。<p>新しい恋はすぐそこまで来ています。
+EN: You can't seem to forget an old love.<n>Try to accept that the past is the past.<p>A new romance is just around the corner.
+
+@1F01C max=359
+JP: 自分を過小評価しすぎています。<n>あなたは、今、自分で思っているより、<p>力強く、頼れる人間なはずですよ。
+EN: You're selling yourself far too short.<n>You're stronger and more dependable<p>than you're giving yourself credit for.
+
+@1F184 max=359
+JP: 客観的に自己評価できない<n>時期に入っています。<p>こんなときは、他人の評価を尊重して。<n>褒められたら素直に受け入れてください。
+EN: You're having trouble seeing yourself<n>in a fair and balanced light.<p>At times like this, trust what others see in you.<n>When someone offers praise, let yourself accept it.
+
+@1F2EC max=359
+JP: 昔のことばかり思い出していませんか。<n>過ぎ去った思い出は、美しく見えるもの。<p>重要なのは、今、現在です。
+EN: Have you been dwelling on the old days?<n>The past often looks rosier in our memories.<p>What matters is the here and now.
+
+@1F454 max=359
+JP: 好きなハーブや、入浴剤を使って<n>ゆっくりとお風呂に入ってください。<p>そして自分の得意なことをひとつずつ、<n>数え上げてください。
+EN: Enjoy a long, soothing bath<n>with your favorite herbs or bath salts.<p>Then think of all the things you're good at,<n>one by one.
+
+@1F5BC max=359
+JP: 海や川、湖、噴水など、水の癒しを<n>必要としています。<p>少し時間を取って、水辺に出かけましょう。
+EN: You need the soothing touch of water,<n>be it the sea, a river, a lake, or a fountain.<p>Make a little time for a trip to the water.
+
+@1F724 max=359
+JP: 今のあなたは少し気持ちを落ち着けたい、<n>と思っているはずです。<p>周りに流されずに自分だけの時間を持って。
+EN: Right now, you're probably wishing<n>for a little peace of mind.<p>Make time for yourself, away from the crowd.
+
+@1F88C max=359
+JP: 今、あなたは冷静沈着で落ち着いた状態です。<n>他人を受けとめる余裕もあります。<p>海や空のように広い心を維持しています。
+EN: You're calm and composed right now,<n>with room in your heart for others.<p>Your heart is as open as the sea and sky.
+
+@1F9F4 max=359
+JP: 今のあなたに必要なのは<n>ゆったりとリラックスできる場所。<p>部屋を自分の好きな環境に<n>模様替えしてみて。
+EN: What you need right now<n>is a place where you can truly unwind.<p>Try rearranging your room<n>to make it just how you like it.
+
+@1FB5C max=359
+JP: 今、あなたの肉体と精神は、<n>静寂な状態です。<p>激しい動きのあとの反動でしょうか。<n>しばらくは、この静寂を保ってください。
+EN: Your body and mind<n>are quiet and still right now.<p>Perhaps you're resting after a burst of activity.<n>Let yourself enjoy this stillness for a while.
+
+@1FCC4 max=359
+JP: 最近クールで穏やかな<n>印象になっているあなた。<p>活発でにぎやかな友人たちからは<n>そんな冷静さが憧れの存在となっています。
+EN: Lately, you've been giving off<n>a cool, peaceful air.<p>Your lively, outgoing friends<n>admire that calm side of you.
+
+@1FE2C max=359
+JP: 内なる力に満ちています。<n>近い将来、その力を外に向けて発揮する<p>大きなチャンスがやってくるはずです。
+EN: You're brimming with inner strength.<n>Soon, you'll have a chance to let it shine.<p>A big opportunity should be just around the corner.
+
+@1FF94 max=359
+JP: 今のあなたは、<n>何事にも自制心を持って冷静な判断、<p>対処ができるようになっています。<n>重要なことがらを決断できる<p>時期でもあります。
+EN: Right now, you have the self-control<n>to make calm judgments.<p>You can handle whatever comes your way.<n>This is also a good time<p>to make an important decision.
+
+@200FC max=359
+JP: 最近、自分の世界に<n>閉じこもりがちになっていませんか。<p>少し、外に目を向けることも大切ですよ。
+EN: Have you been retreating<n>into your own little world lately?<p>It helps to look beyond it now and then.
+
+@20264 max=359
+JP: 自分の考えがすべて正しいと<n>思っていませんか。<p>たまには他者の意見を<n>取り入れることも必要です。
+EN: Do you feel that your way of thinking<n>is always right?<p>Sometimes, you need to make room<n>for other people's views.
+
+@203CC max=359
+JP: 確固たる理想に向かって<n>自分を高めようと前向きに進んでいます。<p>あなたの夢は実現寸前です。
+EN: You're moving steadily toward your ideals,<n>working to become a better version of yourself.<p>Your dream is almost within reach.
+
+@20534 max=359
+JP: 自分で自分に枠をはめていませんか。<n>柔軟な考え方が、意外な結果を導きます。<p>あなた自身の可能性はもっと大きいですよ。
+EN: Are you putting limits on yourself?<n>A flexible mind can lead to surprising results.<p>You have more potential than you realize.
+
+@2069C max=359
+JP: 道徳的な概念や、一般常識の<n>型にはまった考え方から抜け出ません。<p>アウトローな考え方も、時には必要です。
+EN: You're stuck in conventional ideas<n>of morality and common sense.<p>Sometimes, it helps to think like a rebel.
+
+@20804 max=359
+JP: 自分に対しても他人に対しても<n>理想が高くなっています。<p>挫折感や不平不満の気持ちを<n>抱きやすい時期に入っているようです。
+EN: You're setting high standards<n>for yourself and everyone else.<p>This may leave you more prone<n>to frustration and dissatisfaction for a while.
+
+@2096C max=359
+JP: 向上心が、あなたを後押ししています。<n>自分をさわやかな存在、活力ある存在に<p>作り上げたいという願望が働いています。
+EN: Your desire to improve is spurring you on.<n>You want to become someone<p>with a fresh outlook and a zest for life.
+
+@20AD4 max=359
+JP: 思い込みの義務感にとらわれていたり<n>気分が沈みがちだったりします。<p>一度、しがらみを捨て最初から考え直して。
+EN: You may feel weighed down by imagined duties<n>or find yourself feeling low.<p>Set those ties aside and look at things afresh.
+
+@20C3C max=359
+JP: 自分をきちんと見せたい、という思いが<n>強くなっているようです。<p>まず、生活の乱れを直すことから<n>始めましょう。
+EN: You seem especially eager<n>to look like you have your life in order.<p>Start by getting your daily routine<n>back on track.
+
+@20DA4 max=359
+JP: ずっと悩んでいたことを<n>正面から受け止めて、<p>計画を立てながら進めていく、<n>という時期に来ています。
+EN: It's time to face something<n>that's been troubling you for a long while.<p>Make a plan<n>and start working through it.
+
+@20F0C max=359
+JP: 完璧を求めるあまり頑張りすぎています。<n>無理をしすぎないように気をつけましょう。
+EN: You're pushing yourself too hard in pursuit of perfection.<n>Take care not to overdo it.
+
+@21074 max=359
+JP: 今、無駄と思われる事も<n>将来の自分にプラスになると考えましょう。<p>経験があなたに磨きをかけます。
+EN: Even things that seem pointless now<n>may help you somewhere down the road.<p>Every experience helps you grow.
+
+@211DC max=359
+JP: 今のあなたは、感情のコントロールができる<n>理性的な決断者です。<p>喧嘩の仲裁なども、冷静に行えるはずです。
+EN: Right now, you can keep your feelings in check<n>and make levelheaded decisions.<p>You should be able to settle arguments calmly, too.
+
+@21344 max=359
+JP: 今、あなたが挑戦していることは<n>実はとても難易度の高いことです。<p>自分の力を過小評価せず、<n>自信を持ちましょう。
+EN: The challenge you're tackling right now<n>is actually a very difficult one.<p>Don't sell your abilities short.<n>Have faith in yourself.
+
+@214AC max=359
+JP: 今のあなたに必要なことは、<n>他人の意見に耳を傾けること。<p>異文化のものでも取り入れる姿勢を。
+EN: What you need right now<n>is to listen to other people's views.<p>Be open to ideas from other cultures, too.
+
+@21614 max=359
+JP: 今は、辛抱強く努力することで、<n>あなた自身が成熟できる時です。<p>楽して得ることは何もありません。
+EN: Now is a time when patient effort<n>will help you grow as a person.<p>Nothing comes without a little hard work.
+
+@2177C max=359
+JP: 今のあなたは感性や直感力が<n>とても鋭くなっています。<p>その力を活かした仕事をしてみましょう。
+EN: Your sensitivity and intuition<n>are especially sharp right now.<p>Try tackling work that puts those gifts to use.
+
+@218E4 max=359
+JP: 美意識が高く、高貴なものに<n>あこがれる時期。<p>理想を掲げて自分を高めてください。
+EN: Your eye for beauty is keen,<n>and you're drawn to all things refined.<p>Set your ideals high and keep improving yourself.
+
+@21A4C max=359
+JP: ちょっと疲れがたまっていませんか。<n>気分が晴れないときは、カラオケやクラブで<p>思い切り騒いでみましょう。
+EN: Have you been letting tiredness build up?<n>If you can't shake the blues, try karaoke or a club.<p>Let loose and have a blast!
+
+@21BB4 max=359
+JP: 美しいものに憧れ、自らも美しくなりたい、<n>という気持ちに溢れている今のあなた。<p>まずは身のまわりから磨きをかけて。
+EN: You're drawn to beautiful things,<n>and eager to look your best yourself.<p>Start by sprucing up your surroundings.
+
+@21D1C max=359
+JP: 大勢の中の一人であることに<n>不満を感じます。<p>人と違うことをしたいという気持ちが<n>あなたの中に満ちています。
+EN: You're tired of being<n>just another face in the crowd.<p>You're brimming with the urge<n>to do something different from everyone else.
+
+@21E84 max=359
+JP: 今のあなたは、<n>外見の印象が冷たく見えます。<p>周囲を遠ざけるようなオーラが出ています。<n>うぬぼれが過ぎないように用心しましょう。
+EN: Right now, you may come across<n>as a little cold.<p>You're giving off an air that keeps people away.<n>Be careful not to get too full of yourself.
+
+@21FEC max=359
+JP: 感受性が豊かになっていて、<n>芸術や神秘性に魅力を感じるときです。<p>絵画や音楽などに触れる生活を。
+EN: Your sensitivity is heightened,<n>drawing you toward art and mystery.<p>Make paintings, music, and other arts part of your life.
+
+@22154 max=359
+JP: 今のあなたの心は<n>些細なことも敏感に感じてしまいます。<p>余裕を持って物事を見つめる努力を。
+EN: Right now, even the smallest things<n>can touch a nerve.<p>Try to step back and give yourself some breathing room.
+
+@222BC max=359
+JP: ちょっと臆病になっていませんか。<n>明るいテーマの本や映画などを見て、<p>気分を晴れやかに保ってください。
+EN: Are you feeling a little timid?<n>Try a cheerful book or an uplifting movie.<p>Keep those spirits bright.
+
+@22424 max=359
+JP: 今までなかった、新しい才能が芽生える時。<n>今、興味を持っていることには、<p>思い切ってチャレンジするべきです。
+EN: A new talent is beginning to bloom.<n>If something has caught your interest,<p>now's the time to take the plunge and try it.
+
+@2258C max=359
+JP: 自分の世界が絶対だ、と思っていませんか。<n>周りの人の価値観を認め、<p>協調性を持つように心がけましょう。
+EN: Do you think your view of the world is the only right one?<n>Respect what matters to those around you,<p>and try to work in harmony with them.
+
+@226F4 max=359
+JP: 対人関係に難ありです。<n>オレンジ色のものを身につけると、<p>自然と人と接しやすくなります。
+EN: Getting along with others may be tricky right now.<n>Try wearing something orange.<p>You'll find it easier to connect with people.
+
+@2285C max=359
+JP: すぐに泣いたり、怒ったり、<n>感情の起伏が激しくなっています。<p>ゆっくりと水の流れなどを見て、<n>冷静さを保ちましょう。
+EN: Your emotions are swinging wildly,<n>with tears or anger never far away.<p>Take time to watch flowing water<n>and let your mind grow calm.
+
+@229C4 max=359
+JP: 今のあなたには悩みや迷いが多く、<n>自分を見失っている状態です。<p>簡単なものから順番に、<n>解決していきましょう。
+EN: Worries and doubts have piled up,<n>leaving you feeling lost.<p>Work through them one at a time,<n>starting with the easiest.
+
+@22B2C max=359
+JP: 今まで優れなかった体調に、<n>復活の兆しが見えてきました。<p>規則正しい生活で、<n>好調を取り戻しましょう。
+EN: After a spell of feeling unwell,<n>you're showing signs of bouncing back.<p>A regular daily routine<n>will help you feel your best again.
+
+@22C94 max=359
+JP: 極端に落ち込んでしまうようなことが<n>ありませんでしたか。<p>ゆっくりとお風呂に入り、リラックスして。
+EN: Has something happened recently<n>that left you feeling very low?<p>Take a long, relaxing bath and unwind.
+
+@22DFC max=359
+JP: 何か芸術的なことで評価される時期です。<n>今は、食わず嫌いはやめて、<p>初めてのことでも自信を持って<n>挑戦してみてください。
+EN: Your artistic talents could earn you recognition now.<n>Don't dismiss things you haven't tried.<p>Even if it's something new,<n>have confidence and give it a go.
+
+@22F64 max=359
+JP: 今のあなたは、子供のような無垢な状態。<n>いつまでも夢見ていたいと思うあまり<p>現実から目をそむけていませんか。
+EN: Right now, you're as innocent as a child.<n>Are you so eager to keep dreaming<p>that you're turning away from reality?
+
+@230CC max=359
+JP: あまり物事を深く考えられないあなた。<n>今はただ、目の前のものだけに<p>捉われている状態です。
+EN: You're not giving things much thought right now.<n>You're caught up entirely in<p>what's right in front of you.
+
+@23234 max=359
+JP: 今、あなたは窮地に陥っても、<n>きっと誰かが助けてくれると思っています。<p>他力本願は止めて、自分の力を発揮して。
+EN: You feel sure someone will come to your rescue,<n>even if you get into a tight spot.<p>Stop relying on others and put your own abilities to work.
+
+@2339C max=359
+JP: 誰にでも明るく、やさしく接することが<n>できるようになっています。<p>対人関係がスムースに行く時です。
+EN: You're finding it easy to be cheerful<n>and kind to everyone you meet.<p>Your relationships should go smoothly now.
+
+@23504 max=359
+JP: 人に愛される事に喜びを感じています。<n>恋人、家族など、自分を癒してくれる存在に<p>恵まれている状態です。
+EN: Being loved brings you joy.<n>You're blessed with people who comfort you,<p>whether it's a partner or your family.
+
+@2366C max=359
+JP: 義務感や罪悪感で、誰かに尽くさなければ、<n>と、思ってしまう傾向にあります。<p>義務感ではなくあなたの気持ちが欲する時に<n>行動したほうが良い結果が得られますよ。
+EN: You tend to feel you must do things for others<n>out of duty or guilt.<p>Things will turn out better if you act<n>because you want to, not because you feel obliged.
+
+@237D4 max=359
+JP: あなたは今、幸せに満ちています。<n>その幸せを周りの人にも<p>分けてあげましょう。
+EN: You're brimming with happiness right now.<n>Why not share a little of that joy<p>with the people around you?
+
+@2393C max=359
+JP: 気分がウキウキしていますね。<n>何かいいことがあったのでしょうか。<p>今日は思い切りその気分を楽しみましょう。
+EN: You're in high spirits!<n>Has something good happened?<p>Let yourself enjoy that feeling to the fullest today.
+
+@23AA4 max=359
+JP: 誰かに甘えて、やさしくして欲しい、<n>と、思っています。<p>あなたを包み込んでくれる人は<n>案外身近にいそうです。
+EN: You want someone to lean on,<n>someone who'll treat you tenderly.<p>Someone ready to wrap you in warmth<n>may be closer than you think.
+
+@23C0C max=359
+JP: 現実の世界から目をそむけ、<n>夢の世界に浸っていたい気持ちです。<p>つらいけれど、目の前の問題を直視して。
+EN: You feel like shutting out reality<n>and losing yourself in a world of dreams.<p>It's hard, but face the problems in front of you.
+
+@23D74 max=359
+JP: 今のあなたは自分も人も<n>傷つけたくないという<p>気持ちが強くなっています。<n>みんなにいい顔をして<p>疲れてしまわないように注意して。
+EN: Right now, you feel strongly that<n>you don't want anyone getting hurt,<p>including yourself.<n>Trying to keep everyone happy<p>can wear you out, so take care.
+
+@23EDC max=359
+JP: 人にはっきり意見をすることが<n>できないあなた。<p>時には強い意志を示すことも大切です。
+EN: You're finding it hard<n>to tell people what you really think.<p>Sometimes it's important to stand your ground.
+
+@24044 max=359
+JP: 自分で考えて判断することを放棄したい気分。<n>しばらくは、マニュアルどおりに生きるのも<p>いいかもしれませんが、ほどほどに。
+EN: You feel like letting someone else do the thinking.<n>Living by the book for a while<p>might be fine, but don't take it too far.
+
+@241AC max=359
+JP: 今は、愛するよりも愛されたい、と<n>感じています。<p>気持ちが重くなりすぎないよう、注意して。
+EN: Right now, you want to be loved<n>more than you want to give love.<p>Take care that this longing doesn't become too intense.
+
+@24314 max=359
+JP: 今のあなたに必要なのは<n>甘いロマンチックなひととき。<p>ふんわりとしたムードを演出してみて。
+EN: What you need right now<n>is a sweet, romantic moment.<p>Try setting a soft, dreamy mood.
+
+@2447C max=359
+JP: 愛情と生命力に溢れている状態です。<n>女性ならば新しい愛に目覚める時、<p>男性ならばやさしい気持ちになれる時です。
+EN: You're full of love and vitality.<n>For women, it's a time to awaken to new love.<p>For men, it's a time when tenderness comes naturally.
+
+@245E4 max=359
+JP: 周りの人に対して<n>行き届いた気配りが自然にできる時。<p>あなた自身の雰囲気もやさしくなっています。
+EN: Being thoughtful toward those around you<n>comes naturally right now.<p>There's a gentler air about you, too.
+
+@2474C max=359
+JP: 母性愛に溢れています。<n>親しい友人や家族の相談や悩み事を<p>聞いてあげるにはいい時です。
+EN: You're full of motherly affection.<n>It's a good time to lend an ear<p>to the worries of close friends and family.
+
+@248B4 max=359
+JP: 今あなたを悩ませるストレスはありません。<n>些細なことでも楽しみを見出せ、<p>心も温かくオープンになっています。
+EN: Nothing is weighing on you right now.<n>You can find joy in the smallest things,<p>and your heart is warm and open.
+
+@24A1C max=359
+JP: 心身ともに健康状態がよく、<n>何か気分のいいことがしたいと思っています。<p>誰かを誘って出かけてみてはどうでしょう。
+EN: You're feeling well in body and mind,<n>and you're in the mood to enjoy yourself.<p>Why not invite someone along on an outing?
+
+@24B84 max=359
+JP: 今のあなたはとても慎重になっています。<n>周りの人にはちょっとじれったい思いを<p>させてしまっているようです。
+EN: You're being very cautious right now.<n>It seems your hesitation is leaving<p>the people around you a little impatient.
+
+@24CEC max=359
+JP: 権力に対して弱くなっています。<n>長いものに巻かれることが<p>すべての場合で正解だとは限りませんよ。
+EN: You're too ready to bow to authority.<n>Going along with those in power<p>isn't always the right answer.
+
+@24E54 max=359
+JP: 無駄なことにエネルギーを費やしたくない、<n>という気持ちになっています。<p>今、無駄と思えることでも、<n>実は後々役立つかもしれませんよ。
+EN: You don't want to waste your energy<n>on anything that seems pointless.<p>But something that seems useless now<n>could come in handy later.
+
+@24FBC max=359
+JP: 新しいものや革新的なことに<n>批判的になっています。<p>頑なな気持ちをほぐす努力をしましょう。
+EN: You're feeling critical of new things<n>and fresh ideas.<p>Make an effort to loosen up and keep an open mind.
+
+@25124 max=359
+JP: 感受性が豊かになり、<n>さらに自信にも満ちているあなた。<p>着実に前進できるときです。
+EN: You're especially receptive right now,<n>and full of confidence, too.<p>This is a time when you can make steady progress.
+
+@2528C max=359
+JP: 物事を堅実に捉えようという意識が<n>高まってきている状態です。<p>分析能力が高まり、細かい仕事もこなせます。
+EN: You're making more of an effort<n>to take a practical view of things.<p>Your analytical skills are sharper, and detailed work comes easily.
+
+@253F4 max=359
+JP: 確実な計画性があるので、<n>長期的な視点で<p>何かを始めるにはいい時期です。
+EN: Your planning skills are strong right now,<n>so it's a good time to start<p>something with the long term in mind.
+
+@2555C max=359
+JP: 考え方がちょっと堅くなっています。<n>程よい柔軟性を忘れずに。
+EN: Your thinking is getting a little rigid.<n>Remember to leave some room for flexibility.
+
+@256C4 max=359
+JP: 黄色やピンクのコーディネートで、<n>ファッションに明るさを取り入れて。<p>気持ちが晴れやかになるはずです。
+EN: Brighten up your wardrobe<n>with a touch of yellow or pink.<p>It should help lift your spirits.
+
+@2582C max=359
+JP: 心身ともに安定しています。<n>面白みに欠ける毎日ですが、<p>今のあなたには、安定こそが幸せの証です。
+EN: You're feeling steady in body and mind.<n>Life may lack excitement,<p>but right now, that stability is your kind of happiness.
+
+@25994 max=359
+JP: 一般論なら強く主張できるのですが、<n>自分のことになるとはっきり言えない<p>弱さが見え隠れしています。
+EN: You can argue a general point with conviction,<n>but when it comes to your own life,<p>you seem to struggle to speak your mind.
+
+@25AFC max=359
+JP: 責任感が人一倍強くなっています。<n>責任を持つのは良いことですが、<p>あまり自分を追い詰めないように。
+EN: Your sense of responsibility is especially strong.<n>Taking responsibility is a good thing,<p>but don't put too much pressure on yourself.
+
+@25C64 max=359
+JP: ウソをつけない正直な人です。<n>大人になると、方便も必要になる、という<p>やわらかさも受け入れて。
+EN: You're so honest, you can't tell a lie.<n>Try to accept that, in adult life,<p>a little white lie can sometimes be the kindest choice.
+
+@25DCC max=359
+JP: 今のあなたは、他人の相談に<n>本当に親身になって答えられる<p>心の広さを持っています。
+EN: Right now, you have the generosity of spirit<n>to listen to other people's problems<p>and offer advice with real care.
+
+@25F34 max=359
+JP: 自分の生き方が地味だと思っていませんか。<n>孤独を感じていませんか。<p>そう思ったあなたは、友達を誘って、<n>にぎやかな場所に出かけてください。
+EN: Does your life feel a little dull?<n>Are you feeling lonely?<p>If so, invite a friend along<n>and head somewhere lively.
+
+@2609C max=359
+JP: 変化が訪れることを恐れています。<n>しかしどんな人間でも、成長の過程で<p>変化が訪れることを知ってください。
+EN: You're afraid of change.<n>But remember, change comes to everyone<p>as a natural part of growing.
+
+@26204 max=359
+JP: 今のあなたは秘めた底力を備えています。<n>瞬発力には欠けますが、<p>何かを計画するにはふさわしい時期です。
+EN: You have deep reserves of strength right now.<n>You may be slow off the mark,<p>but it's a good time to make plans.
+
+@2636C max=359
+JP: 安定を求めすぎています。<n>無難な線ばかり追っていると<p>人生から面白みがなくなってしまいます。
+EN: You're craving stability a little too much.<n>If you always play it safe,<p>life will start to lose its sparkle.
+
+@264D4 max=359
+JP: 今のあなたは誰からも頼りにされる、<n>お父さんのような存在。<p>みんなの期待に答えてあげる力もあります。
+EN: Right now, you're like a father figure,<n>someone everyone can count on.<p>You have what it takes to live up to their hopes.
+
+@2663C max=359
+JP: コツコツと大きなものを作る力に<n>満ちています。<p>目先の成功に捉われない<n>着実な目があります。
+EN: You're full of the energy it takes<n>to build something great, step by step.<p>You keep your eyes on the long term,<n>without getting caught up in quick wins.
+
+@267A4 max=359
+JP: あなたは今、穏やかで謙虚な<n>気持ちになっています。<p>攻撃より防御、という姿勢です。
+EN: You're feeling calm and humble<n>at the moment.<p>You'd rather defend your ground than attack.
+
+@2690C max=359
+JP: 今はあまり人と深く関りたくない、と<n>思っていませんか。<p>しばらく静かに過ごす必要があるようです。
+EN: Do you feel like keeping people<n>at arm's length right now?<p>It seems you need some peace and quiet for a while.
+
+@26A74 max=359
+JP: 今あなたは何かから逃げようとしています。<n>逃げることばかり考えていては<p>本当の解決にはなりません。
+EN: Right now, you're trying to escape something.<n>But if all you think about is running away,<p>you won't find a real solution.
+
+@26BDC max=359
+JP: 目の前の問題をできるだけ冷静に対処したい<n>と、望んでいます。<p>今のあなたには公正な判断もできます。
+EN: You want to deal with the problem at hand<n>as calmly as possible.<p>Right now, you can also judge things fairly.
+
+@26D44 max=359
+JP: 他人から冷たい人間とか、<n>卑怯な人、と思われるような態度を<p>取っていませんか。<n>ことなかれ主義は誤解を生みます。
+EN: Could your behavior be making you seem<n>cold or cowardly to others?<p>Avoiding trouble at all costs<n>can give people the wrong idea.
+
+@26EAC max=359
+JP: 自分で自分をパワーダウンさせています。<n>悪循環を断ち切るためにも、<p>にぎやかな場所に出かけてみましょう。
+EN: You're wearing yourself down.<n>To break out of this vicious cycle,<p>try going somewhere lively.
+
+@27014 max=359
+JP: 今あなたは必要以上に<n>神経質になっています。<p>気になることがたくさんありますが、<n>そのほとんどは、<p>たいした問題ではありません。
+EN: You're worrying more than you need to<n>right now.<p>There are lots of things on your mind,<n>but most of them<p>aren't really such a big deal.
+
+@2717C max=359
+JP: 堅実に生きていきたいと望んでいます。<n>人生には冒険が必要なときもありますが、<p>今のあなたは落ち着きを求めています。
+EN: You want a steady, sensible life.<n>Sometimes life calls for a little adventure,<p>but right now, you're looking for stability.
+
+@272E4 max=359
+JP: ゆっくりと一箇所に留まって<n>精神を安定させていたい時期です。<p>あせらず、自分をリラックスさせましょう。
+EN: This is a time to stay put for a while<n>and find some peace of mind.<p>There's no rush. Give yourself a chance to relax.
+
+@2744C max=359
+JP: 何かに不安を感じたり、<n>迷いを持ったりしています。<p>自分の問題に真正面から<n>向き合ってください。
+EN: Something is making you anxious,<n>or leaving you unsure of yourself.<p>Try facing your troubles<n>head-on.
+
+@275B4 max=359
+JP: 今日は気持ちをおおらかにして<n>過ごしましょう。<p>花の咲く公園などにでかけると<n>気分がリフレッシュします。
+EN: Take things in stride<n>and keep an open heart today.<p>A trip to a park full of flowers<n>could leave you feeling refreshed.
+
+@2771C max=359
+JP: 今のあなたは秘密主義的な<n>傾向が強くなっています。<p>人との関わりも、できれば避けたいと<n>思っています。
+EN: You're feeling more inclined<n>to keep things to yourself right now.<p>You'd also rather avoid dealing with people,<n>if you can help it.
+
+@27884 max=359
+JP: 人に干渉されることが嫌になっています。<n>しばらくの間、そっと隠れていましょう。<p>時が経てば、また明るい気持ちに戻ります。
+EN: You're tired of people meddling in your life.<n>It's fine to tuck yourself away for a while.<p>In time, your spirits will brighten again.
+
+@279EC max=359
+JP: 気持ちが不安定になっていませんか。<n>何が自分を落ち着かなくさせているのか、<p>まず、その原因を見つめましょう。
+EN: Have your emotions been a little unsettled?<n>Start by looking for the reason<p>you can't seem to put your mind at ease.
+
+@27B54 max=359
+JP: 何事にも消極的な気分の時です。<n>人間ならば誰しも、そんな気分のときが<p>ありますので心配無用ですよ。
+EN: You're finding it hard to take the initiative.<n>Everyone feels this way sometimes,<p>so there's no need to worry.
+
+@27CBC max=359
+JP: 一見、なんでも受け入れているように見えて、<n>実は、自分の欲求を殺しています。<p>無理せず、嫌なことは嫌と言って。
+EN: You may seem happy to go along with anything,<n>but you're actually burying your own wishes.<p>Don't force yourself. It's all right to say no.
+
+@27E24 max=359
+JP: 自分で自分を抑えすぎている、と感じたら、<n>ファッションの中に、黄色やオレンジ、<p>赤色のものを取り入れて気分を盛り上げて。
+EN: If you feel you're holding yourself back too much,<n>try wearing a splash of yellow, orange,<p>or red to give your spirits a lift.
+
+@27F8C max=359
+JP: あらゆる物事に慎重になっています。<n>ただ、バランス感覚は鋭くなっていますから、<p>マルチな仕事をするにはむいている時期です。
+EN: You're being cautious about everything.<n>But your sense of balance is sharp,<p>so this is a good time to juggle several tasks.
+
+@280F4 max=359
+JP: 周りの状況ばかり考えすぎています。<n>たまには自分本位になって、<p>個性を主張してみてください。
+EN: You're thinking too much about everyone around you.<n>Try putting yourself first for a change<p>and letting your personality shine.
+
+@2825C max=359
+JP: 今のあなたは冷静であろう、何事にも<n>落ち着いて対処しよう、という気持ちに<p>なっています。
+EN: Right now, you want to keep a cool head<n>and face whatever comes your way<p>with a calm, steady mind.
+
+@283C4 max=359
+JP: 人から指示されることが嫌いで、<n>自分の価値観で動ける人です。<p>あまり突っ走らないよう、自制も必要です。
+EN: You dislike being told what to do<n>and can act on your own values.<p>Just remember to rein yourself in before you get carried away.
+
+@2852C max=359
+JP: 今のあなたは自分の弱さ、不安、<n>悲しみを隠したいと思っています。<p>じっと、つらさが通り過ぎるのを<n>待っています。
+EN: Right now, you want to hide your weaknesses,<n>your worries, and your sadness.<p>You're quietly waiting<n>for the pain to pass.
+
+@28694 max=359
+JP: 自立心が旺盛で、一人でも世間を<n>渡って行ける、と思っています。<p>その自信を仕事や勉強に反映させましょう。
+EN: You're fiercely independent and feel<n>you can make your own way in the world.<p>Put that confidence to work in your job or studies.
+
+@287FC max=359
+JP: 今、あなたは、周囲からの強制や抑圧を<n>跳ね返そうと、がんばっています。<p>強くありたいと、願っています。
+EN: You're working hard to push back<n>against pressure and control from those around you.<p>You want to be strong.
+
+@28964 max=359
+JP: 思いこみが激しく、頑固になっています。<n>一度、気持ちを切り替えて、<p>最初から物事を見直してみましょう。
+EN: You're getting stubborn and too sure you're right.<n>Try taking a fresh approach<p>and looking at everything again from the beginning.
+
+@28ACC max=359
+JP: 独断的すぎるところがありますが、<n>ひたむきに自分の道を進もうとしています。<p>ちょっと振り返ることができれば、<n>あなたにも協力者がいることに気づけます。
+EN: You can be a little too set on having your way,<n>but you're determined to follow your own path.<p>If you pause to look around,<n>you'll see there are people ready to help.
+
+@28C34 max=359
+JP: 今のあなたには、<n>失敗しても他人のせいにしない<p>潔さがあります。<n>でも、なにもかも自分で抱え込まないよう、<p>注意してください。
+EN: When things go wrong,<n>you don't blame others.<p>That shows real integrity.<n>Just be careful<p>not to shoulder every burden yourself.
+
+@28D9C max=359
+JP: 今日はおしゃれにきめて<n>お出かけしましょう。<p>あなたの個性を活かすファッションで<n>間違いなく注目の的になれます。
+EN: Dress up and head out<n>in style today.<p>An outfit that shows off your personality<n>is sure to turn heads.
+
+@28F04 max=359
+JP: 今のあなたには人を動かす力があります。<n>明るさと素直さを加えれば、<p>頼れるリーダーとなれます。
+EN: Right now, you have the power to inspire action.<n>Add a cheerful spirit and an open heart,<p>and you can be a leader people can count on.
+
+@2906C max=359
+JP: いつもたくさんの希望や夢を持っているのに<n>その感情を抑えこんでいます。<p>たまにはその思いを解き放ってください。
+EN: You always have so many hopes and dreams,<n>but you keep those feelings bottled up.<p>Let them out once in a while.
+
+@291D4 max=359
+JP: 今のあなたは独立心に燃えていて、<n>自分の世界に閉じこもりがちです。<p>一人より二人の方が<n>うまくいくこともありますよ。
+EN: Your desire for independence is burning bright,<n>but you tend to shut yourself away in your own world.<p>Sometimes two people can make things work<n>better than one.
+
+@2933C max=359
+JP: 威厳を保ちたい、かっこよく、<n>神秘的な自分に見られたいと思っています。<p>何か芸術的なことに挑戦してみましょう。
+EN: You want to keep your dignity<n>and seem cool and mysterious.<p>Try your hand at something artistic.
+
+@294A4 max=359
+JP: あなたは、とても誇り高い人です。<n>ちょっと近寄りがたい雰囲気を持っています。<p>遠く憧れられる存在でもあります。
+EN: You're a person with a great deal of pride.<n>You can seem a little hard to approach.<p>People may admire you from afar.
+
+@2960C max=359
+JP: 今、あなたは人と付き合うのが面倒くさい、<n>なるべく人と関わりたくないと感じています。<p>静かに過ごしていたいと願っています。
+EN: Socializing feels like a chore right now,<n>and you'd rather keep contact to a minimum.<p>All you want is a little peace and quiet.
+
+@29774 max=359
+JP: 今のあなたはちょっと自信過剰ぎみです。<n>しかし、それが嫌味ではなく<p>魅力となって評価される得な時期です。
+EN: You're a little overconfident right now.<n>Luckily, people are finding that<p>charming rather than off-putting at the moment.
+
+@298DC max=359
+JP: 戦うことを強いられているようです。<n>相手を威圧したいという<p>気持ちが湧いています。<n>空や海などを見て、<p>少し心を落ち着けましょう。
+EN: You seem to be forced into a fight.<n>You're starting to feel the urge<p>to intimidate your opponent.<n>Take a moment to gaze at the sky or sea<p>and put your heart at ease.
+
+@29A44 max=359
+JP: 普段隠している強いコンプレックスが<n>あなたを支配しています。<p>コンプレックスは、考え方一つで<n>あなたの長所にもなりますよ。
+EN: A deep insecurity you usually keep hidden<n>is getting the better of you.<p>A change in perspective could turn it<n>into one of your strengths.
+
+@29BAC max=359
+JP: あなたの思うように物事が進まず、<n>壁に突き当たっています。<p>今のあなたにはその難題を解決する<n>力もちゃんと備わっています。
+EN: Things haven't been going your way,<n>and you've hit a wall.<p>But you have the strength you need<n>to work through this difficult problem.
+
+@29D14 max=359
+JP: 一人で頑張りすぎてストレスを<n>発散できなくなっています。<p>ジムなどで身体を動かして、余計な力を<n>使ってしまいましょう。
+EN: You're pushing yourself too hard on your own,<n>leaving you no way to let off steam.<p>Try working out at a gym or getting some exercise<n>to burn off that pent-up energy.
+
+@29E7C max=359
+JP: 強くありたいという気持ちと、<n>内面の弱さが矛盾を引き起こしています。<p>その矛盾と上手く付き合っていくことで、<n>あなたの魅力が倍増されます。
+EN: You want to be strong, but that clashes<n>with the vulnerability you feel inside.<p>Learn to live with both sides of yourself,<n>and you'll be twice as charming.
