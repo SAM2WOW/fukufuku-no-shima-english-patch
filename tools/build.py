@@ -185,7 +185,9 @@ def main():
         print('%d text entries were skipped (kept Japanese), see %s' % (len(report), rp))
 
     if a.xdelta:
-        xd = os.path.splitext(a.out)[0] + '.xdelta'
+        # same name as the GitHub release asset, so the README's
+        # releases/latest/download/... link keeps working for new versions
+        xd = os.path.join(os.path.dirname(a.out), 'Fukufuku.no.Shima.English.xdelta')
         print('creating', xd)
         vcdiff.encode(open(src, 'rb').read(), open(a.out, 'rb').read(), xd)
         print('xdelta size: %d bytes' % os.path.getsize(xd))

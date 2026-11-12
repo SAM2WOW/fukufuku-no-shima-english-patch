@@ -46,8 +46,9 @@ game and a free patching tool, and it works on **PPSSPP**, real **PSP** hardware
 
 ## 📥 Download
 
-1. Go to the **[latest release](https://github.com/SAM2WOW/Fukufuku-no-Shima-PSP-Locolization/releases/latest)**.
-2. Download **`Fukufuku no Shima (English).xdelta`** (about 6.6 MB).
+**[⬇ Download Fukufuku.no.Shima.English.xdelta](https://github.com/SAM2WOW/Fukufuku-no-Shima-PSP-Locolization/releases/latest/download/Fukufuku.no.Shima.English.xdelta)** (about 6.6 MB)
+
+Release notes, checksums and older versions are on the [Releases page](https://github.com/SAM2WOW/Fukufuku-no-Shima-PSP-Locolization/releases).
 
 The patch does **not** contain the game. You need your own ISO of the original Japanese UMD.
 
@@ -91,7 +92,7 @@ Pick whichever option is easiest for you.
 1. Open the **[xdelta online patcher](https://kotcrab.github.io/xdelta-wasm/)**.
    Everything runs in your browser; your files are not uploaded anywhere.
 2. **Source file**: choose your Japanese `Fukufuku no Shima (Japan).iso`.
-3. **Patch file**: choose `Fukufuku no Shima (English).xdelta`.
+3. **Patch file**: choose `Fukufuku.no.Shima.English.xdelta`.
 4. Click **Apply patch** and save the result as `Fukufuku no Shima (English).iso`.
 
 </details>
@@ -111,7 +112,7 @@ Pick whichever option is easiest for you.
 <summary><b>Option C – Command line (xdelta3)</b></summary>
 
 ```
-xdelta3 -d -s "Fukufuku no Shima (Japan).iso" "Fukufuku no Shima (English).xdelta" "Fukufuku no Shima (English).iso"
+xdelta3 -d -s "Fukufuku no Shima (Japan).iso" "Fukufuku.no.Shima.English.xdelta" "Fukufuku no Shima (English).iso"
 ```
 
 </details>
