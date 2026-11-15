@@ -228,7 +228,7 @@ EN: Your luck is fantastic today! Everything will run smoothly, and new ventures
 
 @14FCC max=359
 JP: 逆転運の日。これまで努力してきたことが、いろいろな形で返ってくるでしょう。しばらく進歩のなかった物事が急に動き、周りに気づいてもらえたり、認められそう。あきらめかけていることがあるなら、あと少し粘ってみるといいでしょう。<n><n><n>
-EN: Today brings a lucky turnaround. Your hard work will pay off in all sorts of ways. Things that have been stalled will suddenly move forward, and others may finally notice your efforts and give you credit. If you're about to give up on something, hang in there a little longer.<n><n><n>
+EN: A lucky turnaround! Your hard work will pay off in many ways. Stalled plans may suddenly move forward, earning you notice and praise. If you're close to giving up, hang in there a little longer.
 
 @15134 max=359
 JP: 今日は吉凶混合日。いいことが起こる一方、不快なこともありそう。浮かれず、慎重に。ラッキーは素直に喜び、アンラッキーは後を引かないよう素早く対処すること。おいしい食事や飲み物で、気分を落ち着かせましょう。
@@ -236,7 +236,7 @@ EN: Today's luck is a mixed bag. Good things will happen, but a few annoyances m
 
 @1529C max=359
 JP: 運気は午後から上昇。フットワークを軽くして、いろいろなことに手をつけると、一気に物事が動き始めるでしょう。「環境が整ってから始めよう」と思っていたことも、情報を集めるだけとか、枠組みを作るだけでもかまいません。先手必勝の日です。<n>
-EN: Your luck will improve this afternoon. Stay nimble and try your hand at a few things to get the ball rolling. Even if you've been waiting for the right conditions to start something, you can still gather information or sketch out a plan. Today, the early bird gets the worm.<n>
+EN: Luck rises this afternoon. Stay light on your feet and try a few things to set events in motion. Waiting for ideal conditions? Start by gathering facts or making a rough plan. Taking the lead brings luck.
 
 @15404 max=359
 JP: 運気は好調。ずっと前からやりたいと思っていたけれど、いつも時間がなくてあきらめていたことがあるなら始めてみましょう。家族や友人の協力も得られるはず。迷っていると、チャンスが逃げてしまうので早めの決断を心がけて。
@@ -328,7 +328,7 @@ EN: Good luck is on your side today. You'll feel positive about everything, so w
 
 @172F4 max=359
 JP: 好調運気が続いています。気の合う人と楽しい時間が過ごせそうです。家族との間に、うれしいことがあるかもしれません。離れているなら、連絡を入れましょう。また、結婚式場や何周年記念の会など、おめでたいことのある場所に出かけると、幸せのおすそ分けがありそうです。
-EN: Your run of good luck continues. Expect fun times with people you click with, and perhaps a happy moment with family. If you're apart, get in touch. Visiting a place where people are celebrating, such as a wedding venue or an anniversary party, may let some of their happiness rub off on you.
+EN: Your good luck continues. Enjoy time with kindred spirits. Family may bring happy news, so get in touch if you're apart. Visit a wedding venue or anniversary party, and some happiness may rub off on you.
 
 @1745C max=359
 JP: 今日は良い知らせが舞い込んでくる可能性がある日です。気になっている人の情報が入ったり、探しものが見つかったりしそうです。自分で手に入れるというよりは、人づてに入ってくる確率が高いので、人の話を聞き逃さないようにしましょう。
@@ -352,7 +352,7 @@ EN: Your luck is low but steady. Someone may offer advice with your future in mi
 
 @17B64 max=359
 JP: 運気快調。長い間願っていたことが、ふとしたきっかけからかなうかもしれません。それは昔なじみの協力による可能性が高いでしょう。かなったときには感謝の気持ちをしっかりと表現してください。人に伝えたいことがあれば、細部まで言葉にしたほうがいい結果になります。
-EN: Your luck is looking good. A chance encounter or event may grant a wish you've held for years, most likely with help from an old friend. Be sure to show your gratitude when it happens. If you have something to tell someone, spelling out every detail will bring better results.
+EN: Luck looks bright. A lucky break may grant a long-held wish, likely with an old friend's help. Be sure to show your thanks. If you have something to tell someone, spell out the details for the best results.
 
 @17CCC max=359
 JP: 運気は急下降。思いがけないトラブルに見舞われるかもしれませんが、落ち着いて乗り切りましょう。何もかも放り出したい気持ちになるくらい切羽詰ることも考えられます。でも、今日は我慢が大切。忍耐力を発揮してください。
@@ -392,7 +392,7 @@ EN: With luck like this, you're unstoppable! Uncertainty will fade, leaving you 
 
 @18974 max=359
 JP: 運気は少し弱まりますが、心配はいりません。興味の対象が広がり、向上心も芽生える日です。あなたのヤル気がストレートに結果に結びつくはず。チャレンジ精神が好調キープのヒケツです。初めて行く場所、初めての経験、新しく始めることに幸運がありそうです。
-EN: Your luck dips a little, but don't worry. Your interests will broaden, and you'll feel inspired to improve yourself. Your enthusiasm should lead directly to results. Keep that adventurous spirit alive! New places, first experiences, and fresh projects all hold good fortune.
+EN: Luck dips a little, but don't worry. New interests spark a desire to improve, and your drive should bring results. Keep your adventurous spirit alive! New places, first experiences and fresh projects bring luck.
 
 @18ADC max=359
 JP: 絶好調運気をキープ。思いがけない場所、思いがけないことで、ハッピーになれそうです。何事も臆病にならず、勇気を出してぶつかりましょう。きっと新しい世界が見えてくるはずです。ただし、ムリは禁物。マイペースで取り組むこと。<n>
@@ -400,15 +400,15 @@ EN: Your luck stays in top form. Happiness may turn up in unexpected places and 
 
 @18C44 max=359
 JP: 運気は高いレベルで安定してます。停滞していたことは、動き出すでしょう。挑戦してみたいことがあるなら、ぜひ手をつけてください。何かに申し込む、予約するというアクションがラッキー。楽しみができて、満足感があります。
-EN: Your luck is holding steady at a high level. Stalled matters should start moving again. If there's something you've wanted to try, get started! Signing up for something or making a reservation brings luck. Having something to look forward to will leave you feeling satisfied.
+EN: Your luck stays strong and steady. Stalled plans should move ahead. Try something you've been eager to do! Signing up or making a reservation brings luck, plus the joy of having something to look forward to.
 
 @18DAC max=359
 JP: 運気は下降。だれかと過ごすより、ひとりの時間を充実させたほうが無難です。無理して動いても、裏目に出そう。新しいことに着手するのも避けること。いつものことをいつものようにこなして。コレクションの整理や趣味の用具の手入れをすると充実感があるでしょう。
-EN: Your luck is falling. Spending quality time alone is your safest bet. Forcing yourself to act could backfire, so avoid starting anything new. Stick to your usual tasks and routines. Sorting your collection or caring for your hobby equipment should bring a sense of satisfaction.
+EN: Luck is fading. Enjoy time alone and avoid forcing things, as it could backfire. Save new ventures for later and stick to your routine. Sorting a collection or tending your hobby gear will feel rewarding.
 
 @18F14 max=359
 JP: 突然、運気に活気が戻ります。いつもよりフットワーク軽く動けそう。周りからサポートしてもらう運より、自力で切り開く運のほうが強いのです。積極的に行動し、いろいろな種をまいて。前からしてみたいと思っていたことは、途中まででもかまいませんから手をつけることが大事。
-EN: Your luck suddenly springs back to life. You'll feel ready to leap into action. Success is more likely to come through your own efforts than help from others. Take the initiative and plant plenty of seeds. Start something you've long wanted to try, even if you can only get partway through it.
+EN: Your luck suddenly perks up, putting a spring in your step. Your own efforts will count more than outside help. Take action and plant plenty of seeds. Start something you've long wanted to try, even if you only get partway.
 
 @1907C max=359
 JP: 運気は好調。何事もスムーズです。今日は受け身でいるといいでしょう。いたずらに動き回るより、待ちの姿勢が吉。やってくるものに一つずつ誠実に対処したほうがよさそうです。新しい話を持ち込まれたら、慎重に検討してください。
@@ -420,7 +420,7 @@ EN: Your luck takes a sudden plunge, leaving both body and mind unsettled. Thing
 
 @1934C max=359
 JP: 運気は最高潮。再挑戦することが開運のカギです。前に試してみて失敗したことに、もう一度トライしてみましょう。中途半端にしていたことも進めるチャンス。気力が充実しているので、準備が十分なら、必ずうれしい結果になるはずです。
-EN: Your luck is at its peak. Giving things another try is the key to good fortune. Revisit something you tried before without success. This is also your chance to move unfinished projects along. You'll have plenty of drive, and with enough preparation, happy results are sure to follow.
+EN: Luck is at its peak! Second chances are the key. Try something that failed before, or pick up an unfinished project. With your energy running high, thorough preparation is sure to bring happy results.
 
 @194B4 max=359
 JP: エネルギッシュに動き回れる日。何でもできそうな気分になれるでしょう。自分が音頭を取るつもりで、周囲に声をかけ、思う存分力を発揮してください。協力者も次々現れるはずです。身だしなみに気を使うのもラッキーアクション。魅力をアピールできるでしょう。
@@ -428,7 +428,7 @@ EN: You'll be full of energy today and feel ready for anything. Take the lead, r
 
 @1961C max=359
 JP: 穏やかな運気。将来のことを考えるのにいい日です。好奇心の赴くまま、いろいろな情報を集めてみるといいでしょう。あらためて勉強したいことがあるなら、ネット上の講座、通信講座などを検討することも幸運アクションです。
-EN: Your luck is calm. It's a good day to think about the future. Follow your curiosity and gather information on whatever catches your interest. If there's something you'd like to study again, looking into online or correspondence courses could bring good fortune.
+EN: Luck is calm. Take time to think about your future. Follow your curiosity and gather information. If you'd like to return to a subject, looking into online or correspondence courses could bring luck.
 
 @19784 max=359
 JP: 運気は絶好調。ヤル気がみなぎり、次々と課題をこなしていけるでしょう。頭を悩ませていた問題は決着がつき、開放感がありそうです。また、あなたの人柄の良さが発揮され、複数の人からおほめの言葉をもらえる予感もあります。
@@ -444,7 +444,7 @@ EN: Your luck is low. Being asked to handle something difficult may leave you fl
 
 @19BBC max=359
 JP: 今日もガマンの必要な低調運気です。自分の気持ちに正直に動くと、自分勝手と言われる恐れがあります。周りをよく見て、ペースを合わせるようにしてください。その場で一番力を持つ人に従うのが無難です。自己主張は、別の機会に回しましょう。
-EN: Low luck calls for patience again today. Acting on your true feelings could get you called selfish. Watch those around you and match their pace. Your safest bet is to follow the lead of whoever holds the most sway in the situation. Save standing your ground for another day.
+EN: Low luck calls for patience today. Following your feelings may seem selfish. Watch others and match their pace. It's safest to follow whoever has the most influence. Save speaking your mind for another day.
 
 @19D24 max=359
 JP: 一気に運気アップで、うれしさのある日です。希望がかなったり、高い評価を得たりすることがあるでしょう。周囲の人たちも何かと助けてくれそう。アイデアは練れば練るほど洗練されていきます。形にするまで粘り強く取り組みましょう。
@@ -560,7 +560,7 @@ EN: Your luck is at its peak. Your social life is picking up, drawing all sorts 
 
 @1C484 max=359
 JP: 運気はちょっとダウン。仲のいい友人ふたりに挟まれて、四苦八苦しそうです。どちらにもできる限りの誠意を持って対応しましょう。困ったときは、戸外で遊んだり食事をしてください。リフレッシュできるでしょう。大人数で行くほど楽しめそうです。
-EN: Your luck dips a little. You may struggle to keep the peace between two close friends. Be as sincere and considerate as you can with both. When things get difficult, head outdoors for fun or a meal. It'll refresh you, and the bigger the group, the more fun you'll have.
+EN: Your luck dips. You may get caught between two close friends. Treat both with care and sincerity. If things get tough, head outdoors for fun or a meal. You'll feel refreshed, and a bigger group means more fun.
 
 @1C5EC max=359
 JP: 平穏な一日です。ただ、間違った情報やウワサに踊らされて、時間を無駄にする恐れがあります。何事も少し疑ってかかるくらいで、ちょうどいいでしょう。また、少しキツイ表現で家族や友人をへこませてしまう暗示が。言動に注意しましょう。
@@ -576,7 +576,7 @@ EN: Your luck has its ups and downs, but looking after children or younger peopl
 
 @1CA24 max=359
 JP: バイタリティあふれる日です。いつもはおっくうに思える用事も軽やかにこなせるでしょう。ただし、人や物を見る目は曇りがちです。見かけより中身を重視して選ぶといいでしょう。お金の貸し借りが原因で、トラブル発生の予感もあります。注意してください。
-EN: You're brimming with vitality today. Even chores that usually feel like a hassle should be a breeze. Your judgment of people and things may be clouded, though. Choose substance over appearances. Lending or borrowing money could also lead to trouble, so take care.
+EN: You're full of energy! Even chores you usually dread should be easy. Your judgment may be cloudy, though. Look beyond appearances when choosing people or things. Lending or borrowing money could cause trouble, so take care.
 
 @1CB8C max=359
 JP: 運気は下降中です。ハイになりすぎて、ひとりで浮いてしまうかもしれません。いつも以上のパワーはありますが、周囲の人を動かすほどではありません。周りの状況をよく見て、合わせることが必要です。
@@ -592,7 +592,7 @@ EN: Your luck looks unsettled. Trouble may break out around you, or things could
 
 @1CFC4 max=359
 JP: なにかと収穫の多い日です。長い間、頭の一部を占領していた問題が解決に向かって動き始め、ホッと一息つけるでしょう。また、目の上のたんこぶだった人が遠くへ行く話が起こるかもしれません。晴れ晴れとした気分になれそう。
-EN: Today brings rewards on several fronts. A problem that's been on your mind for ages will start moving toward a solution, letting you breathe a sigh of relief. You may also hear that someone who's been a thorn in your side is moving far away. Brighter spirits are ahead!
+EN: A rewarding day awaits. A problem that's weighed on your mind for ages will start moving toward a solution. What a relief! You may also hear that a thorn in your side is moving far away. You'll feel much brighter.
 
 @1D12C max=359
 JP: 高い目標に向かって、ヤル気満々になれるでしょう。人気運が上昇して、あなたの周りに人が集まってきそう。だれにでも公平な態度で接すると、より好印象を与えられそうです。反対に、だれかをひいきしてしまうと後でしっぺ返しがあるかもしれません。
@@ -640,11 +640,11 @@ EN: Things may go a little off track this afternoon. If you're unsure about some
 
 @1E0A4 max=359
 JP: 絶好調な一日。全体的に運気が上昇するので、いろいろなことに期待がもてそうです。特に、今までなかなか挑戦できなかったことがあったり、途中であきらめてしまったことがあるなら、思い切ってチャレンジしてみましょう。発展的な未来はすぐそこです。
-EN: An excellent day! Your luck is rising across the board, giving you plenty to look forward to. If there's something you've never quite dared to try, or something you gave up halfway through, take the plunge and give it a go. A promising future is just around the corner.
+EN: An excellent day! Your luck is rising in every area. Try something you've never dared to attempt, or take another shot at something you gave up on halfway through. A promising future is just around the corner.
 
 @1E20C max=359
 JP: 吉凶混合運。身辺をきれいに整理すると運気がアップします。いらないものをきれいさっぱり処分したり部屋の模様替えをするといいでしょう。気分転換になり、ほかの物事までスムーズに運びます。模様替えなら、何かテーマを決めるとうまくまとまります。
-EN: Your luck is mixed. Tidying up your surroundings will give it a boost. Clear out things you no longer need or rearrange your room. The fresh outlook will help other things run smoothly, too. If you rearrange your room, choosing a theme will help it all come together.
+EN: Your luck is mixed. Boost it by tidying up! Clear out unwanted things or rearrange your room. The change will lift your spirits and help other things go smoothly. Pick a theme for your room to tie it all together.
 
 @1E374 max=359
 JP: 快調です。待っているだけでラッキーなことが向こうからやってくる日です。今までかなわなかった夢に近づけるチャンスがありそう。夢なんて……と淡々と過ごしていた場合でも、希望の火が再燃するかもしれません。まずは冷静に。
@@ -728,7 +728,7 @@ EN: Your luck takes a sharp dive. Focus on wrapping up what you have already sta
 
 @1FF94 max=359
 JP: 運気は低め安定。昨日までは難なくできていたことが、今日はなかなかはかどらないかもしれません。ダラダラとやっていると、満足感もありません。意地になってしまうでしょうが、「こんな日もある」と考え、別のことをしたほうがよさそうです。
-EN: Your luck is low but steady. Something you breezed through yesterday may be slow going today. Dragging it out will leave you unsatisfied. You may be tempted to dig in your heels, but try telling yourself, "It's just one of those days," and turn your attention to something else.
+EN: Your luck is low but steady. Tasks that were easy yesterday may drag today, leaving you little satisfaction. Don't stubbornly press on. Accept that it's just one of those days, and try doing something else.
 
 @200FC max=359
 JP: 運気は吉凶混合。気持ちの浮き沈みも激しいでしょう。望んでいた幸運や変化を期待しても、今日はかなえられないようです。流れに逆らわず、臨機応変な態度を心がけましょう。ヘタに動くと泥沼にハマる恐れがあります。
@@ -784,11 +784,11 @@ EN: Your luck is in a slump. Circumstances may force you to pause something midw
 
 @21344 max=359
 JP: 運気の波が激しい日。動揺してしまうことが起こりそうです。頭の中が真っ白になり、大事なことに手がつかなくなるかもしれません。しばらく歩いてみる、問題点を書き出してみるなど、考えを整理するアクションを意識的にするといいでしょう。<n>
-EN: Your luck is a roller coaster today. Something may upset you so much that your mind goes blank, leaving you unable to tackle important tasks. Make a conscious effort to clear your head. Take a short walk or write down the problems to help put your thoughts in order.<n>
+EN: Your luck has sharp ups and downs. An upsetting event may leave your mind blank and keep you from important tasks. Take steps to sort out your thoughts: go for a walk or write down what's troubling you.
 
 @214AC max=359
 JP: 運気は盛り返し、いろいろなことがはかどるでしょう。昨日まで深刻に悩んでいたはずのことも、今日は小さなことに思えるかもしれません。おおらかな気持ちになり、身近な人たちにも優しくできるはず。言おうと思っていたことを思い切って伝えると吉。
-EN: Your luck is bouncing back, and you should get plenty done. Something that weighed heavily on you yesterday may seem like a small matter today. You will feel more easygoing and have kindness to spare for those close to you. Speaking your mind about something you have been meaning to say will bring good luck.
+EN: Your luck is bouncing back, and tasks will go smoothly. Yesterday's big worries may seem small today. You'll feel more easygoing and kinder to those close to you. Say what you've been meaning to say for good luck.
 
 @21614 max=359
 JP: 引き続き好調運気。やらなければならないことがあるなら、今日手をつけましょう。先送りしても、いいことはありません。また、新しい物事を迎えつつある場合は、すぐリズムに乗れるように環境を整えておいてください。
@@ -800,11 +800,11 @@ EN: Today brings the chance for a dramatic comeback. Tackle things with confiden
 
 @218E4 max=359
 JP: 異性の注目を一身に集める日。何かと声をかけられたり、誘われたりしそう。警戒心が強すぎるのは考えものです。ライトなコミュニケーションを楽しんで。気になる異性には、特別に親切にしましょう。仲が深まる可能性が大。
-EN: You will be the center of attention for the opposite sex today. Expect plenty of conversation and invitations. Being too guarded could hold you back, so enjoy some lighthearted chats. Be especially kind to anyone who catches your eye. There is a strong chance you will grow closer.
+EN: You'll turn heads among the opposite sex today! Expect chats and invitations. Don't be too guarded; enjoy some lighthearted conversation. Be extra kind to someone who catches your eye. You could grow much closer.
 
 @21A4C max=359
 JP: あなたの気持ちが相手に届きそうな日。片思いなら、勇気を出して近づきましょう。買い物デートなどに誘えば、案外すんなりＯＫが出そうです。恋人がいるなら、最近気になっていたことを話し合うチャンスです。ただし、言葉はよく選ぶこと。<n>
-EN: Your feelings may get through today. If you have a crush, be brave and get closer. An invitation to go shopping together may get a surprisingly easy yes. If you have a partner, this is your chance to discuss something that has been bothering you lately. Just choose your words carefully.<n>
+EN: Your feelings may get through today. Have a crush? Be brave! An invite to go shopping together may get an easy yes. Couples have a chance to discuss recent concerns. Choose your words with care.
 
 @21BB4 max=359
 JP: 身近な異性に、意外な発見がありそう。共通点などないと思っていた人があなたと近い趣味を持っていたり、同じ考えでいることに気づくかもしれません。先入観を捨てて、会話を楽しんで。年上の異性とも縁がある日です。<n>
@@ -812,7 +812,7 @@ EN: Someone of the opposite sex in your circle may surprise you. A person you th
 
 @21D1C max=359
 JP: 親しい異性や恋人に対する言動に注意が必要な日。あなたは軽い気持ちでも、相手の心を傷つけたり失望させたりすることがありそう。相手の表情が曇ったら、すぐフォローを。今日はなるべくおとなしくして、相手の話を聞くだけにすると安泰です。
-EN: Mind your words and actions around your partner or close friends of the opposite sex today. A casual remark could hurt or disappoint them. If their expression darkens, make amends right away. Your safest bet is to keep a low profile and give them a chance to talk while you listen.
+EN: Be careful with your partner or friends of the opposite sex. A casual word or action could hurt them. If they look upset, make amends right away. Keep a low profile and focus on listening today.
 
 @21E84 max=359
 JP: 恋人や気になる異性との関係は好調ですが、あなたの幸せに嫉妬する人が出てきそうです。あらぬウワサを流されて、嫌な思いをしてしまうかも。相手との間の幸せな出来事はしばらくの間、だれにも言わずに秘密にしておいたほうがいいようです。<n>
@@ -904,7 +904,7 @@ EN: Your love luck is steady. Spending time with someone older could bring good 
 
 @23D74 max=359
 JP: 良い出会いが期待できる日。積極的に人と交流するように心がけてください。先入観を捨てて、何でも聞いてみると、異性に対する考えが変わることもあるでしょう。交際中の場合は、ゴージャスな雰囲気を味わえる場所でデートを。相手を見直すような出来事が起こるでしょう。　　　
-EN: A promising encounter could be in store. Make an effort to mingle. Set aside your assumptions and ask questions; you may see potential partners in a new light. If you're dating, choose somewhere with a touch of luxury. Something may happen that gives you a new appreciation of your partner.
+EN: A promising encounter awaits! Get out and mingle. Drop your assumptions and ask questions; you may see potential partners differently. Couples should try a luxurious date spot to see each other's charms anew.
 
 @23EDC max=359
 JP: パーティーや親睦会など、たくさんの人が集まる場所に幸運のある日。自分とまったく違うキャラクターで尊敬できる異性に出会えるかもしれません。その出会いから恋が始まる可能性が大です。気になる人には自分から声をかけてみてください。カップルは平穏に過ごせるでしょう。
@@ -916,7 +916,7 @@ EN: Your love luck is at its best, with exciting progress ahead. If a secret cru
 
 @241AC max=359
 JP: あなたに幸運をもたらしてくれる異性に出会う可能性があります。ただ一緒にいるだけで、満ち足りた気分になれる相手かもしれません。もしかしたらと思う人には、あなたを知ってもらうよう積極的なアピールをしてください。交際中の場合は、「この相手でよかった」と思う出来事があるでしょう。
-EN: You may meet someone who brings good luck into your love life. Simply being together could leave you feeling content. If someone seems promising, make an effort to let them get to know you. If you're dating, something may happen that makes you think, "I'm so glad we're together."
+EN: You may meet someone who brings you luck. Just being together could feel blissful. If someone seems promising, take the lead and let them get to know you. Couples will find a reason to feel glad they're together.
 
 @24314 max=359
 JP: 恋愛運は好調。片思いの人はチャンスに恵まれそう。告白のタイミングをねらい、迷わずアタックしてください。気持ちを伝えるいくつかのフレーズをあらかじめ考えるとグッド。カップルは、とても穏やかな関係でいられるでしょう。思い出を語り合うのもグッド。
@@ -924,7 +924,7 @@ EN: Your love luck is strong. If you have a crush, a chance to share your feelin
 
 @2447C max=359
 JP: 思いがけないチャンスが到来。好きな人から連絡があるとか、ふたりだけになる瞬間がありそうです。落ち着いて対応し、次につながる話をしてください。好感触を得られるでしょう。カップルは、相手の過去の恋が気になってしまうかもしれません。こだわらず、今を大事にすること。
-EN: An unexpected chance is coming. Your crush may contact you, or you could find yourselves alone together. Stay calm and say something that opens the door to another meeting. The response should be warm. Couples may get hung up on a partner's past romances. Let it go and cherish the present.
+EN: A surprise chance awaits! Your crush may call, or you may get a moment alone. Stay calm and suggest meeting again; expect a warm response. Couples may fret over past romances. Let them go and cherish the present.
 
 @245E4 max=359
 JP: 恋愛運は急上昇。告白成功のチャンスが訪れています。気持ちを打ち明けたい相手がいる場合は、勇気を出してください。カップルは、ふたりのきずなをさらに深めていけそうな日です。結婚の話題を出すこともいいでしょう。
@@ -944,7 +944,7 @@ EN: Your love luck is at its peak, and friends hold the key. If you're single, a
 
 @24B84 max=359
 JP: 冴えない恋愛運です。片思いの場合は、大きな前進は望めそうもありません。今日は相手に接近できても、特別なことをしないほうが無難です。交際中なら、パートナーと気持ちがかみ合いにくく、ゆううつな気分です。親友に相談すると気分が晴れるかもしれません。
-EN: Your love luck is lackluster. If you have a crush, don't expect much progress. Even if you get a chance to approach them, keep things low-key. Couples may struggle to connect, leaving you feeling gloomy. Talking things over with a close friend could lift your spirits.
+EN: Love luck is dull today. Don't expect much progress with a crush. Even if you get close, keep things low-key. Couples may feel out of sync and gloomy. A chat with a close friend could lift your spirits.
 
 @24CEC max=359
 JP: 恋愛運は回復しています。それなのに、少し弱気になってしまいそう。「自分なんてどうせ……」などと卑下しがちです。確かに今日のあなたはパワー不足。こんな日は好きな異性に対して行動を起こすより、じっくり自分磨きをするのが得策です。<n>
@@ -984,11 +984,11 @@ EN: Love luck is a mixed bag. Your crush or partner may say something sweet, but
 
 @25994 max=359
 JP: 「ふたりきり」をねらうより、何人かと一緒に好きな人と過ごしたほうがいい日。家族を交えた食事もラッキーです。周囲がふたりを盛り上げてくれるでしょう。恋人募集中の場合は、動きはありません。ひとりの時間を充実させると吉。<n>
-EN: Spend time with the one you like in a group today, instead of trying to get them alone. A meal with family is lucky, too. Those around you will help love along! If you're looking for a partner, there's little movement ahead. Making the most of your time alone brings good luck.<n>
+EN: Spend time with your crush in a group today. A family meal is lucky, too! Others will help bring you closer. If you're seeking a partner, little will change today. Make the most of your time alone for good luck.
 
 @25AFC max=359
 JP: 紹介運がある日です。異性を紹介されたり、「今度会わせてあげる」と言われた場合は、前向きに考えて。今日、話題になった人は、かなり可能性の高い相手です。カップルは、家族への紹介にツキあり。家族ぐるみのレジャーも楽しいでしょう。
-EN: Introductions bring luck today. If someone introduces you to a potential date, or offers to arrange a meeting, be open to it. A person mentioned today could be a very promising match. Couples have luck with family introductions. An outing with the family should be fun, too.
+EN: Introductions bring luck! Be open to meeting a potential date through someone else. A person mentioned today could be a great match. Couples are lucky with family introductions, and family outings should be fun.
 
 @25C64 max=359
 JP: 恋愛運は波乱含みです。好きな相手のために取った行動が誤解されたり、迷惑がられるかもしれません。少し距離をおくのも得策です。パートナーのいる場合も、感情の行き違いがありそうです。言葉足らずに注意しましょう。
@@ -996,7 +996,7 @@ EN: Love luck looks unsettled. Something you do for your crush may be misunderst
 
 @25DCC max=359
 JP: 恋愛に大きな変化のある日です。停滞していた片思いは、ライバルの出現の恐れが。闘志がわき、一気に近づけそうです。交際中の場合は、いつもどおりでない相手の反応に疑惑が芽生えるかもしれません。けれど、それはうれしい驚きに変わるでしょう。
-EN: Big changes await in love. If your crush has gone nowhere, a rival may appear. That could fire you up and help you grow closer fast! If you're in a relationship, your partner's unusual reaction may make you suspicious. Those doubts should turn into a pleasant surprise.
+EN: Big changes in love! If your crush has gone nowhere, a rival may spark the drive to get closer fast. Couples may grow suspicious of a partner's unusual reaction, but those doubts will turn into a happy surprise.
 
 @25F34 max=359
 JP: 恋愛面は好調で、胸高鳴る展開がありそうです。ラッキーチャンスは夕方にあります。あなたの能力を伸ばしてくれる異性との出会いがあるかもしれません。勇気を出して、出会いを次の約束につなげていくようにしましょう。
@@ -1008,7 +1008,7 @@ EN: Your love luck is shaky. You may say the opposite of what you feel and hurt 
 
 @26204 max=359
 JP: 恋愛運は最高潮。告白、プロポーズは成功の予感。お見合いもうまくいくでしょう。チャンスと感じたら、体当たりするくらいの勢いで臨んでください。相手はあなたとのこれからをマジメに考えていますから、あなたも誠実な対応をすること。<n>
-EN: Your love luck is at its peak. Confessing your feelings or proposing looks promising, and an arranged match should go well, too. When you see your chance, go for it with all your heart! The other person is serious about a future with you, so respond with equal sincerity.<n>
+EN: Love luck is at its peak! Confessions, proposals and arranged matches look promising. When your chance comes, give it your all! The other person is serious about a future with you, so be sincere in return.
 
 @2636C max=359
 JP: 恋愛に対するこだわりが強くなり、異性にかたくなな印象を与えてしまいそうです。できるだけソフトなイメージづくりが吉。また、相手に失礼なことを言ってしまったら、素直に謝りましょう。言い訳や開き直りはケンカの原因になります。<n>
@@ -1020,7 +1020,7 @@ EN: Hearing about your friends' love lives may leave you feeling inferior. Even 
 
 @2663C max=359
 JP: 好みのタイプを見つけそうです。気持ちに正直になって近づくとグッド。気を引こうとヘタな小細工をすれば、逆効果となります。ストレートな働きかけで、チャンスをつかんでください。カップルは相手と一緒に過ごす時間を多く持つほど幸せを感じられるでしょう。
-EN: You may spot someone who's just your type. Be honest about your feelings and approach them. Clumsy schemes to get their attention will only backfire. A direct approach is your best chance! If you're in a relationship, the more time you spend together, the happier you'll feel.
+EN: You may meet someone who's just your type. Be honest and make a move. Clumsy ploys to get attention will backfire, so be direct! Couples will feel happier the more time they spend together.
 
 @267A4 max=359
 JP: 変化のある恋愛運。好きな人との関係が一歩進む暗示です。思い切りのよさが幸運のカギとなりますから、特に片思いの場合は、勇気を出して何らかの行動を起こしましょう。カップルは、相手の目を見ながら、話をよく聞くようにするといいでしょう。
@@ -1028,7 +1028,7 @@ EN: Change is coming in love. Your relationship with someone you like may take a
 
 @2690C max=359
 JP: 恋愛運は吉凶がハッキリ出る日です。いつもより大胆に迫っていけるので、好きな人と急激に仲が深まるかもしれません。でも同時に、一気に距離を置かれてしまう心配もあるのです。片思いの状態から脱したいと思うなら、吉作用に賭けてみてもいいでしょう。
-EN: Love could go very well or very badly today. You'll be bolder than usual, which may bring you much closer to your crush in no time. It could also send them backing away just as fast. If you're ready to move beyond a one-sided crush, taking a chance on good luck may be worthwhile.
+EN: Love could go very well or very badly today. Your boldness may bring your crush closer or send them backing away. If you're ready to move beyond a one-sided crush, it may be worth taking a chance.
 
 @26A74 max=359
 JP: 恋愛運は盛り上がっています。理想のタイプとの出会いがありそうです。その人から、あなたの能力を伸ばすきっかけを与えられるかもしれません。片思いや交際中の場合は、できるだけ愛する人の近くにいてください。心温まる出来事があるでしょう。
@@ -1048,7 +1048,7 @@ EN: Love is sailing smoothly. An event may sweep away old worries, while trouble
 
 @27014 max=359
 JP: 今日はデート運が好調です。好きな人を誘ってなるべく遠い所まで出かけてみては？　とても楽しい時間が過ごせ、今まで以上に仲の良いふたりになれそうです。ふたりの間に新たな進展も望めるかも。片思いの場合も、ハッピーな出来事がありそう。
-EN: Your dating luck is strong today. Invite the person you like on a trip somewhere far away. You'll have a wonderful time and could become closer than ever. Your relationship may even take a new step forward. If your love is still one-sided, a happy event may be in store, too.
+EN: Dating luck is strong! Invite your crush on a trip somewhere far away. You'll have fun, grow closer, and perhaps take the next step together. Even a one-sided crush may bring a happy surprise.
 
 @2717C max=359
 JP: 今日のあなたは異性に対する関心が高くなっているようです。行動力もあり、どんどんアタックしてしまいそう。でも相手のことをよく知らないうちに衝動的な行動を起こすと大変危険です。もう少し相手の内情を探ってからでも遅くはありません。
@@ -1060,7 +1060,7 @@ EN: You're feeling positive and eager to take the initiative today. But thoughtl
 
 @2744C max=359
 JP: 今日はなぜか気持ちが高ぶってしまいそう。思い込みから必要以上に突っ走りそうな予感。カーッとなったら深呼吸をして落ち着いたほうがいいようです。周囲の状況と相手の気持ちをよく考えて行動すると良い方向に向かうでしょう。
-EN: For some reason, your emotions may run high today. You could get carried away by your own assumptions and go too far. If you feel yourself getting heated, take a deep breath and settle down. Consider the situation and the other person's feelings before acting, and things should go well.
+EN: Emotions may run high today, and your assumptions could make you rush ahead. If you get heated, breathe deeply and calm down. Consider the situation and the other person's feelings before acting.
 
 @275B4 max=359
 JP: 今日のあなたは情熱に支配されてしまいそう。自分でも驚くようなことを言ったり意外な行動をとってしまったり……。ふだんのあなたからは考えられないようなことをしがちです。意識して冷静になり、相手を思いやる気持ちを大切にしましょう。
@@ -1100,7 +1100,7 @@ EN: Love luck is a little lackluster. If you're dating, trouble is brewing, so a
 
 @2825C max=359
 JP: 今日は現状維持が無難です。告白するとか結婚を決めるなど、大きな決断はしないこと。異性と幼いころの思い出を語り合うと、いい雰囲気になります。いつも飲みに行く店に顔を出すと、心を癒してくれる人に出会えるかも。
-EN: Today, it's safest to keep things as they are. Save big decisions, like confessing your love or deciding to marry, for another day. Sharing childhood memories with someone could create a lovely mood. Drop by your usual bar, and you may meet someone who soothes your soul.
+EN: Keep things as they are today. Save love confessions and marriage decisions for later. Sharing childhood memories can set a lovely mood. Visit your usual bar; you may meet someone who soothes your heart.
 
 @283C4 max=359
 JP: あなたの努力する姿が、異性の目を引きつけそう。あなたを無視していた人からも、何らかのアプローチがあるかもしれません。でも、その相手が昨日までとあまりにロコツに態度を変えるなら、ハッキリ言ってもかまいません。耳障りのいい言葉に惑わされないように用心を。
@@ -1108,7 +1108,7 @@ EN: Your hard work may catch someone's eye. Even someone who used to ignore you 
 
 @2852C max=359
 JP: 紹介運がある日です。周りの人が「いい人がいるから会ってみたら？」「連絡を取ってみて」と言うなら、遠慮せず、どんどん実行しましょう。また、気の合う異性を交えたグループで、話題の場所に遊びに行くと吉。その中で、いい雰囲気になる人がいるかもしれません。
-EN: Introductions are lucky today. If friends say, "I know someone you should meet!" or urge you to get in touch, go for it. A group outing to a popular spot is lucky too, especially with potential love interests you get along with. Sparks may fly with someone in the group.
+EN: Introductions are lucky today. If friends suggest someone to meet or contact, go for it! Visit a popular spot with a group that includes potential love interests. Sparks may fly with someone there.
 
 @28694 max=359
 JP: ものほしそうに見られたくないとクールな態度でいると、恋のチャンスを逃します。素直に、願望を口にしたほうがいいでしょう。ただし、相手の耳に心地よく聞こえる言葉を考えること。好みのタイプの人と知り合うかもしれません。
@@ -1136,11 +1136,11 @@ EN: Something may put your love to the test. Your partner's insincerity could ma
 
 @28F04 max=359
 JP: 愛情運は絶好調。心配していたことは何でもなかったとわかり、安心できそうです。また、予想以上に簡単に望みがかないそう。告白運も大吉。成就させることより、愛を伝えることを考えて。元気に振る舞うことで、さらに恋愛運が上向きに。
-EN: Love luck is soaring! You'll feel relieved when a worry turns out to be nothing, and a wish may come true more easily than expected. It's a great day to confess your feelings. Focus on sharing your love, rather than getting the answer you want. A cheerful attitude boosts your love luck even more.
+EN: Love luck is soaring! Worries may prove needless, and wishes may come true easily. It's a great day to confess your love. Focus on sharing your feelings, not winning a yes. A cheerful attitude adds to your luck.
 
 @2906C max=359
 JP: 期待していた結果が得られそうな日。年下と縁があります。年齢を意識しすぎず、気になる人には声をかけてみましょう。グループでゲームやライブなどを楽しむと盛り上がるばかりでなく、新しい関係が生まれるかもしれません。
-EN: Today may bring the result you've been hoping for. You have a special connection with someone younger. Don't dwell on age; say hello to whoever catches your interest. Enjoying games or a concert with a group could bring plenty of fun and the start of a new relationship.
+EN: You may get the result you've hoped for. You have luck with someone younger, so don't dwell on age. Say hello to someone you like! Group games or a concert could bring fun and a new relationship.
 
 @291D4 max=359
 JP: 愛情運は上昇中。良い出会いがすぐ近くまできているようです。アンテナを敏感にして、チャンスを逃さないようにしましょう。好意はなんとなく、相手に伝わるものです。難しく考えたり、変に意識したりしないほうが吉。飾らない素直な自分でいましょう。
@@ -1160,7 +1160,7 @@ EN: Love luck is at rock bottom. You're full of energy, but the other person may
 
 @29774 max=359
 JP: 恋愛運は上昇中。ずっと願ってきたことがかなうかもしれません。片思いの状態なら、思い切って気持ちを打ち明けてみては？　ただし、時間と場所をよく選ぶことが大切。ムードづくりが成功率アップのカギになります。
-EN: Love luck is rising. Something you've wished for a long time may come true. If you've been nursing a secret crush, why not take the plunge and share your feelings? Choose the time and place carefully, though. Setting the right mood is the key to improving your chances.
+EN: Love luck is rising, and a long-held wish may come true. If you have a secret crush, why not share your feelings? Choose the time and place carefully. Setting the right mood will boost your chances.
 
 @298DC max=359
 JP: 理想にぴったりの人が現れて、心を奪われるかもしれません。でも、本当にあなたと合うかどうかは、よく話してみないとわからないもの。焦らないこと。カップルは、ちょっとしたすれ違いから寂しくなってしまいそうです。
@@ -1184,7 +1184,7 @@ EN: A relationship that's fallen into a rut may get a fresh spark. You could dis
 
 @29FE4 max=359
 JP: 恋人のイメージを追いすぎて、現実とのギャップに苦しみそう。「恋人ならこうあるべき」「こうしてくれて当然」と思ってはいけません。ふたりならではの関係を築くことが幸せにつながります。また、相手を見栄で選ぶと失敗します。
-EN: An idealized picture of romance may leave you struggling with reality. Avoid thinking, "A partner should act like this" or "Of course they should do that for me." Happiness comes from building a relationship that suits you both. Choosing someone just to impress others will backfire too.
+EN: An ideal image of a partner may clash with reality. Don't expect them to follow your rules or take their kindness for granted. Build a bond that suits you both. Choosing someone to impress others will backfire.
 
 @2A14C max=359
 JP: 大切な人とのあいだに新局面の気配が。あなたが現実的にふたりのこれからを考えるなら、うれしい方向に進むでしょう。逆に、ずるずるつきあっているだけならば、困った状況に追い込まれそう。関係をハッキリさせたほうがいい日です。
@@ -1216,7 +1216,7 @@ EN: Double-check every arrangement with a romantic interest, big or small. Going
 
 @2AB24 max=359
 JP: 運命的と思える出会いに恵まれるかもしれません。将来のベストパートナーになりうる可能性大なので、一見好みのタイプでない場合でも目を光らせてください。意外な一面に心惹かれそうです。パートナーがいる場合は、大事な話を進めるのにいい日です。
-EN: A fateful meeting may be in store. This person could become your ideal partner, so keep your eyes open even if they aren't your usual type. An unexpected side of them may win your heart. If you already have a partner, today is a good day to move an important discussion forward.
+EN: A fateful meeting may bring a future partner. Keep an open mind, even if they aren't your usual type. An unexpected side may win you over. Already have a partner? It's a good day for an important talk.
 
 @2AC8C max=359
 JP: 意中の人がいるあなたは、告白のチャンスです。素直に思いを伝えることが成功のカギとなります。恋人がいる場合は、将来について真剣に考えてみましょう。この先どのようにしてつき合っていきたいのか話し合うのもいいでしょう。思っていることは率直に伝えて。
@@ -1224,15 +1224,15 @@ EN: If you have a crush, now is your chance to confess your feelings. Honesty is
 
 @2ADF4 max=359
 JP: ささいなことから好きな人とケンカの暗示があります。思いとは裏腹の行動で、とんだ誤解も招きそう。くれぐれも暴言を吐かないよう気をつけてください。強気に出れば出るほど事態は悪化します。相手に優しい言葉をかければ、自然と状況は好転します。
-EN: A little thing could spark a fight with someone you love. Acting against your true feelings may cause quite a misunderstanding. Be careful not to say anything hurtful. The harder you push, the worse things will get. A few kind words will help things improve naturally.
+EN: A small thing could spark a lovers' quarrel. Acting against your feelings may cause confusion. Avoid harsh words: the harder you push, the worse it gets. A few kind words will help things improve.
 
 @2AF5C max=359
 JP: ステキな出会いも期待できる一方、別れの予感もある日です。交際中の場合は、かわいげのない態度、思いやりのない言葉で、場がしらけてしまいそう。本当に相手が好きなら、素直に接してください。逆に、もうそろそろ潮時だと考えている場合は別れを切り出すチャンスです。
-EN: Today holds promise for a lovely meeting, but a parting is also possible. If you're dating, a prickly attitude or thoughtless remark could spoil the mood. If you truly love your partner, be open and sincere. On the other hand, if you feel the relationship has run its course, this is a chance to bring up parting ways.
+EN: A lovely meeting or a parting may await. If you're dating, a cold attitude or thoughtless words could spoil the mood. Truly in love? Be sincere. If you feel it's run its course, this is a chance to discuss breaking up.
 
 @2B0C4 max=359
 JP: 意外なときに意外な場所で出会いがありそうです。恋愛対象として見ていなかった異性と急接近の予感もあります。悪い人ではなさそうなので、交際してみるのもいいかもしれません。パートナーがいる場合、片思いの場合は、新たな展開に期待が持てます。
-EN: You may meet someone at an unexpected time and place. Sparks could even fly with someone you'd never considered dating. They seem like a decent person, so giving romance a try might be worthwhile. Whether you have a partner or a secret crush, you can look forward to a new development.
+EN: Romance may find you when and where you least expect it, perhaps with someone you'd never considered dating. They seem nice, so give them a chance. Have a partner or a crush? A new development could be coming.
 
 @2B22C max=359
 JP: 積極的なアプローチがポイントとなる恋愛運。異性と約束があるなら、あなたが今日の主導権を握るとよさそうです。フリーの人は、知らない異性の集まる会に出かけてください。ステキな出会いが待ち受けています。大胆なファッションも吉と出るでしょう。
@@ -1248,27 +1248,27 @@ EN: Your partner may have all sorts of requests today. You could find yourself h
 
 @2B664 max=359
 JP: 雲行きが怪しい恋愛運です。軽率な態度が、とんだ誤解を招くことになるかもしれません。恋人の存在を隠してパーティーや飲み会に参加するなど、もってのほか。内緒にしていても不思議とばれてしまいます。片思いは進展を焦らないほうがいいでしょう。
-EN: Clouds are gathering over your love luck. A careless attitude could lead to a serious misunderstanding. Hiding your relationship while attending a party or going out for drinks is out of the question. Somehow, the truth will come out. If you have a crush, don't rush things along.
+EN: Clouds loom over your love luck. Careless behavior could cause a big misunderstanding. Don't hide your relationship at parties or over drinks: somehow, the truth will come out. If you have a crush, don't rush things.
 
 @2B7CC max=359
 JP: 恋愛運はハイテンション。華やかさがありますが、出すぎたことをしてドジをふむこともありそうです。はしゃぐのはほどほどにしましょう。大事な約束を控えている場合は、ビタミンカラーのファッションが幸運を呼びそうです。
-EN: Your love life is buzzing with excitement. There's plenty of sparkle, but getting carried away could lead to an embarrassing blunder. Keep your enthusiasm in check. If you have an important date coming up, bright, citrus-colored clothes could bring you luck.
+EN: Your love life is full of sparkle and excitement! Just don't get carried away and make an embarrassing blunder. Keep the revelry in check. If you have an important date coming up, bright citrus colors may bring luck.
 
 @2B934 max=359
 JP: てきぱきと動くあなたの魅力が光って、異性の注目が集まりそうな日です。近づいてくる人には、オープンな態度を取るとラッキー。好きな人には、こまめに連絡を入れるといいでしょう。カップルは、相手の世話をかいがいしくやくと、親密度がいちだんと上がります。
-EN: Your brisk, capable manner will make you shine and attract romantic attention today. Be open to anyone who approaches you. Keep in regular touch with the person you like. If you're in a relationship, giving your partner plenty of thoughtful care will bring you even closer.
+EN: Your quick, capable manner draws romantic attention today. Be open to anyone who approaches. Keep in regular touch with your crush. If you have a partner, thoughtful care will bring you closer together.
 
 @2BA9C max=359
 JP: モテモテ運の日。複数の異性からアプローチを受けて、舞い上がりそう。でも、うぬぼれてばかりではいけません。その気がないのなら、感謝の言葉を添えて、はっきりと断りましょう。恋人のいる場合は、よけいな発言が目立ちます。今日は聞き役に徹したほうが吉。
-EN: You're quite the heartthrob today! Attention from several admirers may leave you walking on air, but don't let it go to your head. If you aren't interested, thank them and turn them down clearly. If you have a partner, you may say more than you should. Listening is your best bet today.
+EN: Several admirers may sweep you off your feet today! Don't get conceited. If you're not interested, thank them and say no clearly. Have a partner? You're prone to saying too much, so be a good listener today.
 
 @2BC04 max=359
 JP: 恋人との将来についてマジメに考えてみたい日です。まだ親に紹介していないという場合は、自宅に招いたり、会わせる段取りをつけると吉。フリーの場合は、異性と接するときに清潔感をアピールすると好感度アップにつながります。
-EN: Today is a good day to think seriously about your future with your partner. If they haven't met your parents yet, invite them home or arrange an introduction for good luck. If you're single, a clean, well-groomed appearance will help you make a good impression on potential dates.
+EN: Think seriously about your future with your partner today. If they haven't met your parents, invite them home or arrange a meeting for good luck. Single? A clean, well-groomed look will help you catch someone's eye.
 
 @2BD6C max=359
 JP: ツキに恵まれている恋愛運です。片思いなら、思い切って告白してください。手が届かないとあきらめかけていた恋も予想外の展開がありそうです。素直に気持ちを伝えることで、いい反応があるでしょう。ヘタな作戦は失敗に終わりそうです。自然体が吉。
-EN: Luck is on your side in love. If you have a crush, take the plunge and tell them! Even a romance you'd almost given up on as out of reach could take an unexpected turn. Express your feelings honestly for a warm response. Clumsy schemes are likely to fail. Just be yourself.
+EN: Luck favors love! Tell your crush how you feel. Even a romance you thought out of reach may take a surprising turn. Honest feelings should get a warm response. Clumsy schemes will fall flat, so just be yourself.
 
 @2BED4 max=359
 JP: あまり好みのタイプではないけれど何となく気になる……という異性が出現しそうです。新鮮な感じがして、おつきあいがスタートするかもしれません。意中の人がいる場合は、ひょんなことからライバルと意気投合してしまいそう。カップルは安泰です。
@@ -1284,11 +1284,11 @@ EN: Your love luck is strong, and you may meet someone wonderful. Their looks ma
 
 @2C30C max=359
 JP: 恋人とケンカをしてしまいそうです。特に言いすぎてしまった場合は、素直に謝ること。メールで済ませてはいけません。面と向かって言葉にすることで、より親密な仲になれます。新しい出会いがあったら、押すよりも引いて待つ姿勢が相手の気持ちを引きつけるポイントです。
-EN: A fight with your partner may be brewing. If you go too far with your words, offer a sincere apology. Don't settle for an email. Saying it face-to-face can bring you closer than before. If you meet someone new, give them room and wait rather than pushing. That will help draw them to you.
+EN: You may quarrel with your partner. If your words go too far, apologize sincerely in person, not by email. It can bring you closer. With someone new, give them space and wait. Holding back will help draw them in.
 
 @2C474 max=359
 JP: 恋愛運快調。フリーの場合は、かつて好きだった人とよく似た人との出会いがあり、心を奪われそうです。カップルは、つきあい始めたころの気持ちを呼び覚ますようなラッキーハプニングがあるかもしれません。倦怠期かと感じていた場合も、明るい気持ちになれそうです。
-EN: Your love luck is looking great. If you're single, someone who reminds you of a past crush may steal your heart. Couples could enjoy a lucky surprise that brings back the feelings they had when they first started dating. Even if things have felt stale lately, your spirits may lift.
+EN: Love luck is strong. If you're single, someone like a past crush may steal your heart. Couples may enjoy a lucky surprise that rekindles those early feelings. Even a stale relationship could feel bright again.
 
 @2C5DC max=359
 JP: 新しい交際につながるきっかけがありそうです。また、以前旅先で出会った人、幼いころ好きだった人などなつかしい人との偶然の出会いで、心ときめくこともあるかもしれません。恋人のいる場合は、誠実さに欠ける言動で信用を失ってしまいそう。
@@ -1300,7 +1300,7 @@ EN: You're a magnet for admirers today, with several people likely to make a mov
 
 @2C8AC max=359
 JP: 異性から何かに誘われる運のある日です。特に断る理由がなければ、もったいぶらずに返事をするとラッキー。相手の話を熱心に聞くと、共通点を発見して会話が盛り上がるでしょう。カップルは、時間が合わず、寂しい思いをするかもしれません。
-EN: A romantic invitation may come your way today. If you have no reason to decline, replying without playing hard to get will bring luck. Listen closely, and shared interests could get the conversation flowing. Couples may struggle to find time together and feel a little lonely.
+EN: A romantic invitation may come today. If you have no reason to refuse, reply without playing hard to get. Listen closely: shared interests will spark lively chat. Couples may feel lonely when their schedules clash.
 
 @2CA14 max=359
 JP: 恋愛面に大きな動きはなさそうです。あまり親しくなかった異性が近づいてくることはあるかもしれません。あなたも好意を持っていたとしても、今日は慎重な態度がベター。カップルは、ふたりの時間が少し物足りないまま終わってしまいそうです。
@@ -1308,19 +1308,19 @@ EN: Don't expect any major romantic developments today. Someone you haven't been
 
 @2CB7C max=359
 JP: 意外な異性が近づいてきて、喜びと戸惑いを同時に感じそうです。今日は発展運に恵まれているとは言えませんから、様子を見ていたほうがいいでしょう。カップルは、相手から縛られているように感じ、飛び出したい気持ちが芽生えてしまうかもしれません。
-EN: Attention from an unexpected admirer may leave you both delighted and confused. Today isn't especially lucky for moving things forward, so wait and see how things unfold. If you're in a relationship, you may feel tied down by your partner and develop an urge to break free.
+EN: An unexpected admirer may leave you delighted yet unsure. Luck doesn't favor taking things further today, so wait and see. If you're in a relationship, you may feel tied down by your partner and long to break free.
 
 @2CCE4 max=359
 JP: 片思いの相手をお茶や食事に誘うと、好感触が得られそうです。そのときは、自分がよく知っている店が無難。自信をキープできます。逆にカップルは初めての店がラッキー。デートに変化をつけると、うれしい言葉が聞けるでしょう。
-EN: Inviting your crush out for tea or a meal is likely to get a warm response. Choose a place you know well so you can stay confident. For couples, a place you've never visited is the lucky choice. A change to your usual date routine could earn you some lovely words.
+EN: Invite your crush for tea or a meal: a warm response awaits. Pick a place you know to keep your confidence up. Couples should try somewhere new. A change to your usual dates could earn you some sweet words.
 
 @2CE4C max=359
 JP: 恋愛運は好調をキープしています。フリーの人は、友人の紹介が有望です。今日、好みのタイプを伝えておくのも吉。停滞していた関係は、進むか戻るかがハッキリしそうです。真剣に考え、想いを正直に伝えれば、相手の胸を打つでしょう。
-EN: Your love luck remains strong. If you're single, a friend's introduction looks promising. Telling them your type today could help. A stalled relationship may clearly move forward or slip back. Think seriously about it and express your feelings honestly. Your sincerity will touch their heart.
+EN: Love luck stays strong. Single? A friend's introduction looks promising, so tell them your type today. A stalled romance may move forward or slip back. Think it through and share your true feelings to touch their heart.
 
 @2CFB4 max=359
 JP: 恋愛運は盛り上がっています。片思いをしているなら、待っていないで、自分からきっかけをつかみにいきましょう。カップルは、相手に完ぺきさを求めてはいけません。足りないと思うところは、あなたがフォローしてあげて。また、相手を上手にじらすと燃え上がるでしょう。
-EN: Your love luck is heating up. If you have a crush, don't just wait. Make your own opportunity! Couples shouldn't expect perfection from each other. Give your partner a hand wherever you feel they're falling short. A little playful suspense could also fan the flames of romance.
+EN: Love luck is heating up. Have a crush? Make your own chance instead of waiting. Couples should avoid expecting perfection. Help your partner where they fall short. A little playful teasing could fan the flames.
 
 @2D11C max=359
 JP: 恋愛運は好調をキープしています。ちょっとした心遣いで、好きな人の心をつかむことができるでしょう。そばにいるなら、相手の役立ちそうなことを探してください。離れているなら、電話やメールで連絡しましょう。優しい言葉をかけると吉。
@@ -1328,11 +1328,11 @@ EN: Your love luck is holding strong. A little thoughtfulness could win over the
 
 @2D284 max=359
 JP: これまでの流れが、よりハッキリする日です。疎遠になりつつあった相手とは決着がつきそうです。将来性を感じていた相手とは、進展するきっかけがあるでしょう。カップルは、相手を頼りなく思うことがあるかもしれませんが、あなたがバックアップしてあげましょう。
-EN: Today will make the direction of your love life clearer. Things may finally be settled with someone you've been drifting away from. With someone you see a future with, a chance to grow closer should arise. Couples may find their partner a little unreliable, but try giving them your support.
+EN: Your love life's direction grows clearer today. A fading bond may reach its end, while a promising one gets a chance to grow. If your partner seems unreliable, give them your support.
 
 @2D3EC max=359
 JP: 恋愛面は好転運があります。ギクシャクしていた人とは、心が通じ合う出来事があるでしょう。受け身でいても、ラッキーは向こうからやってきます。周りに自慢したり、幸せな様子を見せびらかしたりしたくなるかもしれませんが、喜びはひとりでかみしめるほうが吉。
-EN: Your love life is due for a turn for the better. An event may help you connect with someone things have been awkward with. Luck will come to you even if you don't take the lead. You may want to boast or show everyone how happy you are, but quietly savoring your joy will bring better luck.
+EN: Love luck is improving. A shared moment may ease an awkward relationship. Luck will come even if you take no action. You may want to boast or show off your happiness, but quietly savoring it brings better luck.
 
 @2D554 max=359
 JP: 恋愛運はかなり厳しい日です。好きな人のひと言やしぐさで、急に熱が冷めることもありそう。今日は一緒にいる時間を少なめにしたほうがよさそうです。また、最近出会った相手との進展は焦らないこと。友情を固めるつもりでいたほうがいいでしょう。
@@ -1360,7 +1360,7 @@ EN: Expect a sudden turn in your love life. With luck, you'll grow closer to som
 
 @2DDC4 max=359
 JP: 恋愛運は下降中。好きな相手を振り向かせようと躍起になっても、効果はありません。なりゆきにまかせたほうがよさそうです。フリーの場合は、しばらく会っていない異性に連絡を取ってみると吉。カップルは、相手の対応に不満を覚えそうです。
-EN: Love luck is on the decline. Trying desperately to get your crush's attention won't help, so let things take their course. If you're single, luck favors getting in touch with someone of the opposite sex you haven't seen lately. Couples may feel unhappy with their partner's response.
+EN: Love luck is falling. Trying hard to win your crush's attention won't help. Let things unfold. Single? Contact someone you haven't seen lately who could be a romantic prospect. Couples may feel let down by their partner.
 
 @2DF2C max=359
 JP: 恋愛運は穏やかです。これまで思いどおりにならなかった関係に安らぎが訪れるでしょう。幸せを十分満喫してください。フリーの場合は、好みのタイプの異性と近づけそうな日です。ただし、親しくなるには順序があります。よけいなひと言に気をつけましょう。
@@ -1376,7 +1376,7 @@ EN: Something may change your outlook on love. A friend's story or something you
 
 @2E364 max=359
 JP: 友達と過ごす時間が多いとラッキー。面白い情報が聞けそうです。外出や飲み会など前からの約束を果たすのもいいでしょう。しばらく連絡を取っていない友人には電話やメールで近況報告をして。友情復活の可能性があります。
-EN: Spending plenty of time with friends brings luck. You could pick up some interesting news. Follow through on plans you've made for an outing or drinks. Call or email a friend you haven't contacted in a while and catch up. An old friendship could spring back to life.
+EN: Time with friends brings luck and interesting news. Keep old promises to go out or meet for drinks. Call or email a friend you haven't heard from lately to catch up. An old friendship could bloom again.
 
 @2E4CC max=359
 JP: 親しくなりたいと思っていたあこがれの人と接近のチャンスあり。気後れしないで、話しかけてみましょう。楽しく過ごせます。また、友人の友人といった関係の人から温かい言葉をかけられるかも。素直に感謝の気持ちを示しましょう。
@@ -1388,7 +1388,7 @@ EN: Your social life will run smoothly if you stay easygoing and don't fuss over
 
 @2E79C max=359
 JP: 周囲への甘えが目立つ日です。人に負担をかけるような頼みごとをしたり、人をアテにしすぎたりしないこと。少しがんばればできそうなことは、自力でがんばりましょう。ギクシャクしている人と仲直りしたいなら、ストレートに気持ちを伝えるのが一番です。
-EN: You may lean too heavily on others today. Avoid burdensome favors or expecting people to do everything for you. If a little effort would let you handle it yourself, give it a try. If you want to patch things up with someone, telling them honestly how you feel is your best bet.
+EN: You may lean too much on others today. Avoid burdensome favors, and handle what you can yourself, even if it takes some effort. To patch things up with someone, tell them plainly how you feel.
 
 @2E904 max=359
 JP: 今まで苦手だと思っていた人と思いがけず話が盛り上がりそう。意外な共通点が見つかって、一気に親しくなることもあるかもしれません。思い込みを捨てて、初めて会ったつもりで笑顔で話しかけてみるといいでしょう。<n>
@@ -1408,7 +1408,7 @@ EN: You may suddenly become close to someone you've never even spoken to before.
 
 @2EEA4 max=359
 JP: お世話になっている人に誘われたからと、気が乗らないのに出かけて行くとアクシデントが起こる確率が高そうです。はっきりと断る勇気を持ったほうが良い結果につながるはず。自分の気持ちに正直になれば、円滑な人間関係を築けそう。<n>
-EN: Accepting an invitation out of obligation to someone who's helped you could lead to mishaps if you don't really want to go. Having the courage to turn them down clearly should bring better results. Being honest about your feelings can help your relationships run smoothly.<n>
+EN: Going out just because you owe your host a favor could lead to mishaps if your heart isn't in it. Have the courage to say no clearly. Being honest about your feelings will help your relationships run smoothly.
 
 @2F00C max=359
 JP: ちょっとした行き違いから大切な友人を怒らせてしまうかも。素直に謝れば誤解はすぐにとけますが、一度意地を張ってしまうと仲直りするまでに時間がかかりそう。気心しれた相手だから大丈夫だろうと安心しないで、言動には十分気をつけて。<n>
@@ -1428,7 +1428,7 @@ EN: Your relationships should stay peaceful today. Treating others with respect 
 
 @2F5AC max=359
 JP: 習い事や、資格取得のための勉強を通じて友情が深まる可能性が大。同じ趣味を持つ仲間同士で集まって、教室以外でも交流の場を持つといいでしょう。ライバル意識が芽生えて目標を持つことができるうえに、かけがえのない友人となりそう。<n>
-EN: Taking classes or studying for a qualification could deepen your friendships. Get together with people who share your interests outside class, too. A little friendly rivalry could give you a goal to aim for, and those classmates may become friends you wouldn't trade for anything.<n>
+EN: Classes or studying for a qualification could deepen friendships. Meet up outside class with people who share your interests. Friendly rivalry can give you goals to aim for, and those bonds could become priceless.
 
 @2F714 max=359
 JP: あなたの意志の強さが前面に出る日です。そのため、味方になってくれる人と敵対する人に、はっきり分かれてしまいそう。ただし、あなたのほうからは敵味方の区別をしないで分け隔てない態度を心がけて。そうすることでトラブルを未然に防げるはず。<n>
@@ -1520,7 +1520,7 @@ EN: Your social luck is excellent. You can grow closer to friends and even cowor
 
 @31604 max=359
 JP: 交友関係は、パッとしない日です。仲間との遊びの予定が自分だけ合わないなど、疎外感を感じてしまいそうです。あなた自身ノリが悪く、人とのつきあいが面倒になるかもしれません。人と話すときは、笑顔を忘れないよう意識してください。
-EN: Your social life may feel a little flat today. Being the only one who can't make plans with the group could leave you feeling left out. You may not be in a sociable mood yourself, and keeping up with people could feel like a chore. Remember to smile when you talk to others.
+EN: Your social life may feel flat today. If you're the only one who can't make a group outing, you may feel left out. You might find socializing a chore yourself. Make a point of smiling when you talk to people.
 
 @3176C max=359
 JP: 優秀な友達にひけめを感じてしまう日。友達と比べられることを怖れ、せっかく遊びの誘いがあっても断ったりしがちです。もっと自分に自信を持つようにしましょう。家族との関係は良好。親兄弟のありがたみを感じそうです。
@@ -1596,7 +1596,7 @@ EN: Your guard is down, and you may be tempted by a dubious offer. It could leav
 
 @330BC max=359
 JP: 対人運は吉凶混合。誤解されたり、違った情報を流されたりする恐れがあります。人と話をするときは、はしょったりポイントを隠したりせず、順序だてて事実をハッキリ伝えるようにしてください。一方、後輩から頼られて、うれしいこともあるでしょう。
-EN: Your social luck is mixed. People may misunderstand you or spread inaccurate information. When talking, explain the facts clearly and in order, without skipping details or hiding key points. On the bright side, someone less experienced may turn to you for help, giving you a welcome boost.
+EN: Social luck is mixed. You risk misunderstandings or false rumors. Explain the facts clearly and in order, without skipping details or hiding key points. On the bright side, a junior may turn to you for help.
 
 @33224 max=359
 JP: 対人運は上昇しています。あなたから何もしなくても、友達が動いてくれて、ラクな日でしょう。今日は好意に甘えて、次の機会では、あなたが相手にサービスしましょう。悩みは、友達に打ち明けると、慰めてもらえそうです。
@@ -1604,7 +1604,7 @@ EN: Your social luck is rising. Friends will take the initiative without any pro
 
 @3338C max=359
 JP: 親しい友人と行動すると運気アップ。突然の誘いでも、もったいぶらずにＯＫサインを出しましょう。楽しめるはずです。反面、義理でつきあっている人とはうまくいきません。例えば、あなたの名前を間違って覚えているような人は、適当にあしらいましょう。
-EN: Spending time with close friends will boost your luck. Even if an invitation comes out of the blue, say yes without playing hard to get. You should have fun! Things will go less smoothly with people you see only out of obligation. If someone cannot even get your name right, keep things brief.
+EN: Close friends boost your luck. Say yes to surprise invitations without playing coy. You'll have fun! Things go less well with people you see out of duty. Keep it brief with anyone who can't even get your name right.
 
 @334F4 max=359
 JP: 今日は友達から幸運がもたらされます。親友と行動をともにするとラッキー。ステキな人を紹介してくれたり、うれしい情報をもらえたりしそうです。あなたへの理解が深く、本音で付き合える友達の存在に感謝して、大切に思っていることを伝えましょう。
@@ -1648,7 +1648,7 @@ EN: Your relationships are going well. You may meet someone new who inspires you
 
 @34304 max=359
 JP: 身に覚えのないことで、さまざまな意見を言われ、嫌な思いをしそう。でも、突っかかっていくと逆効果です。気にしないで、かわしてしまいましょう。今日は人間関係を広げることはせず、ごく親しい友人と遊んでストレス発散が吉。
-EN: People may make unwelcome comments about something you have no recollection of doing. Snapping back will only make matters worse. Let the remarks slide without dwelling on them. Keep to your closest friends today, and have fun together to let off steam instead of expanding your circle.
+EN: People may upset you with comments about things you never did. Snapping back will only make it worse, so let their remarks slide. Stick to close friends today and have fun to let off steam. Save new friendships for later.
 
 @3446C max=359
 JP: 力のある人や押しの強い人の言いなりになってしまうような場面があるかもしれません。納得いかないかもしれませんが、ヘタに逆らうと手痛いしっぺ返しにあってしまいそう。今日は穏やかな表情を保ちつつ、やり過ごしたほうが無難です。
@@ -1676,11 +1676,11 @@ EN: A letter or email from an old friend or former crush may brighten your day. 
 
 @34CDC max=359
 JP: レベルの高い人にあこがれる場面がありそう。その人に近づきたいという気持ちが出てきます。自分も大きくなったような、元気な気持ちになるかもしれません。一方、いつまでも同じことを言い、改善しようとしない人たちとは、少し距離を置いてもいいでしょう。
-EN: Someone accomplished may inspire your admiration and make you want to get closer to them. You may feel energized, as though you have grown a little yourself. Meanwhile, it is fine to put some distance between yourself and people who keep repeating the same complaints without trying to improve.
+EN: Someone accomplished may inspire you to get closer to them, leaving you energized and feeling you've grown too. It's fine to keep some distance from people who say the same things over and over without trying to improve.
 
 @34E44 max=359
 JP: 知り合いが刺激的な発言をしてビックリしそう。自分の身に置き換えて考え込むこともあるかもしれません。人それぞれですから、「それはまちがっている」などと批判しないように。相手のことを受け入れてあげましょう。アドバイスをしようと思わずに、聞き役に徹すると吉。
-EN: An acquaintance may surprise you with a provocative remark. You might find yourself wondering how you would feel in their place. Everyone is different, so avoid criticizing them or declaring them wrong. Accept their perspective. Listening without trying to offer advice will bring better luck.
+EN: An acquaintance's bold remark may shock you and make you imagine being in their shoes. Everyone is different, so don't tell them they're wrong. Accept their views. Luck favors listening without trying to give advice.
 
 @34FAC max=359
 JP: 周囲の人たちの望んでいることは何かを考え、少しでも役立つように動くといいでしょう。「気が利く」「わかってくれてありがとう」などのほめ言葉がもらえるはず。対人運は良好なのですが、よけいなひと言に注意しましょう。
@@ -1688,15 +1688,15 @@ EN: Think about what the people around you need, and do what you can to help. Yo
 
 @35114 max=359
 JP: 断れないことを頼まれて、ひとりで抱え、悩んでしまうかもしれません。けれど、がんばって解決すると、その後の人間関係に大きなプラスとなりそう。家族との約束は、守らないと相手を傷つけます。「自分より人のために」を心がけると万全です。
-EN: You may be asked a favor you cannot refuse, then worry as you struggle with it alone. Still, working through it should greatly benefit your relationships later. Breaking promises to family will hurt their feelings. Putting others first is your surest path today.
+EN: A favor you can't refuse may leave you worrying alone. Work through it, and your relationships will benefit greatly. Keep promises to family to avoid hurt feelings. Putting others first will see you through today.
 
 @3527C max=359
 JP: 以前練習したことを披露して、みんなの喝采を浴びたり、眠っていた才能が花開くことがありそう。仲間と取り組んでいることは、思いがけない成果に結びつきそう。アピール力を生かし、積極的に自分の意見を表明しましょう。苦手なことは後回しにしてOKです！
-EN: Showing off a skill you once practiced may earn applause, or a dormant talent may blossom. A group project could bring unexpected results. Make the most of your ability to win people over, and speak up with your ideas. It is fine to leave things you struggle with until later!
+EN: A skill you practiced may earn applause, or a hidden talent may bloom. Teamwork could bring unexpected success. Use your charm and speak up about your ideas. It's fine to leave things you struggle with for later!
 
 @353E4 max=359
 JP: 古くからの友達を大切にしたい日。それぞれの今の環境に違いがあっても、それをひけらかしたり卑下したりせず、昔に戻って話をすると楽しめます。明るい場所で会うと吉。ご無沙汰している人に電話やメールをするのもおすすめ。
-EN: Treasure your old friends today. Your lives may be different now, but avoid showing off or putting yourself down. Chat as you did in the old days, and enjoy yourselves. Meeting somewhere bright is lucky. Calling or emailing someone you have lost touch with is also a good idea.
+EN: Treasure old friends today. However different your lives are now, skip the boasting or self-pity and chat like old times. Meeting somewhere bright is lucky. Try calling or emailing someone you haven't heard from in a while.
 
 @3554C max=359
 JP: 今日出会う人すべてに対して、誠意ある対応を心がけて。さらに運を押し上げます。意見が対立したら、相手の考えを尊重したほうが、結果的にあなたがトク。人が集まり、いろいろな計画案が浮上しますが、慎重に検討して。
@@ -1704,11 +1704,11 @@ EN: Treat everyone you meet today with sincerity to boost your luck further. If 
 
 @356B4 max=359
 JP: 周りの人の言動に気になることがあっても、黙っていたほうが無難。欲求不満になって、他でウワサを広めたりしてはダメ。「口は災いの元」です。自分では事実だけを話したつもりでも、尾ひれがついて、あなたの人気を下げてしまいます。
-EN: Even if someone's words or actions bother you, keeping quiet is safest. Do not vent your frustration by spreading gossip elsewhere. Loose lips bring trouble. You may think you are only stating facts, but the story could grow in the telling and damage your reputation.
+EN: If someone's words or actions bother you, keep quiet. Don't vent by spreading gossip. Loose lips bring trouble! Even if you only state the facts, the story may grow in the telling and hurt your reputation.
 
 @3581C max=359
 JP: 人から悩みを相談されたり、意見を聞かれたりしそう。いいかげんな返事をしないで、真剣に考えて答えましょう。忙しくても、相手のために数分さけば、喜んでもらえます。損な役回りが増えますが、今はガマン。必ずいつか報われます。
-EN: Someone may ask for your advice or opinion. Give the matter serious thought instead of offering a careless answer. Even if you are busy, sparing a few minutes will mean a lot to them. You may get stuck with more thankless tasks, but be patient for now. Your efforts will be rewarded someday.
+EN: Someone may seek your advice or opinion. Think carefully before answering. Even on a busy day, a few minutes of your time will mean a lot. Thankless tasks may pile up, but be patient. Your efforts will be rewarded someday.
 
 @35984 max=359
 JP: 人からよく思われたいという気持ちが強まって、ギクシャクしてしまいそう。むしろ、どう思われてもかまわないと落ち着いたほうが、好感度を高められます。あなたの決断は間違っていませんから自信を持ってください。
@@ -1748,7 +1748,7 @@ EN: A slightly relaxed approach is just right today. Being too proper could make
 
 @3662C max=359
 JP: スマートな気遣いで好感度アップの日。カンが鋭くなっていて、人の考えていることもよくわかるでしょう。それとなく力を貸してあげると喜ばれます。また、あなたを頼ってくる人もいそう。損得を考えず親身になってあげて吉。
-EN: Thoughtful little gestures will win people over today. Your intuition is sharp, so you'll have a good sense of what others are thinking. Quietly lending a hand will be appreciated. Someone may turn to you for help, too. Give them your full attention without weighing what you'll gain.
+EN: Thoughtful gestures will win people over today. Your intuition is sharp, helping you sense what others think. Quietly lend a hand. If someone turns to you for help, show you care without worrying about what's in it for you.
 
 @36794 max=359
 JP: 人のしぐさや口癖、短所が目についてイライラしそう。でも、相手に直接指摘しても、反発されるだけです。ましてや相手にズバズバと指摘するのは、いけません。自分を振り返る材料としてとらえ、黙っていてください。
@@ -1768,7 +1768,7 @@ EN: Be kind to others and strict with yourself for good luck today. Reverse that
 
 @36D34 max=359
 JP: 良かれと思って言ったことが、周囲の人に誤解されたりして、コミュニケーションに波乱の予感。欠点の指摘や注意は避けて。どうしても言わなければならない場合は、ふたりきりになるなど配慮をしましょう。でも、よほどでない限り、沈黙を守るほうが吉。
-EN: Even well-meant words may be misunderstood, making communication tricky today. Avoid pointing out faults or telling people off. If you absolutely must say something, be considerate and speak in private. Unless it's truly necessary, keeping quiet will bring better luck.
+EN: Even well-meant words may be misunderstood today. Avoid pointing out faults or telling people off. If you must say something, be considerate and speak in private. Unless it's truly necessary, keeping quiet is your best bet.
 
 @36E9C max=359
 JP: ワガママがでがちな日。自分の願望をいったん口にすると引っ込みがつかなくなって気まずい思いをしそう。今日は周りに合わせて行動したほうがいいでしょう。どうしても譲れないと思っても、発言はよく考えてからにして。
@@ -1784,7 +1784,7 @@ EN: Someone may ask a favor that makes you want to say, "That's impossible!" Don
 
 @372D4 max=359
 JP: 人からのプレッシャーが、いい意味で刺激になる日。どうでもいいと思われているなら、放っておかれるはずです。厳しくされるのは期待されているから。耳に痛い言葉でもよく聞いて、奮起しましょう。その態度が相手からの信頼をより厚くします。
-EN: Pressure from others can give you a useful push today. If they didn't care, they'd leave you alone. They're being tough because they expect good things from you. Listen closely, even when their words sting, and rise to the challenge. Your attitude will deepen their trust.
+EN: Pressure from others can spur you on today. They'd leave you alone if they didn't care. They're tough because they expect good things from you. Listen even when their words sting, and rise to the challenge to earn more trust.
 
 @3743C max=359
 JP: あなたが困っていると、どこからか助けの手は差し伸べられます。ただし、相手はちょっと手を貸すだけのつもりで、最後まで面倒を見ようとまでは思っていません。頼りすぎず、自力で立ち直りましょう。甘えの姿勢は禁物です。
@@ -1800,11 +1800,11 @@ EN: Your social luck looks unsettled. Even a little joke could go down badly, so
 
 @37874 max=359
 JP: 最近親しい人と共通の趣味を見いだせたり相手の意外な一面を発見し、よりいっそう楽しくなるでしょう。また思いがけないところで人の輪がつながり、自分にとってプラスとなる出来事が起こるかもしれません。また、今日接触を持った相手は大事にしてください。今後のラッキーパーソンです。
-EN: You may find a shared hobby or an unexpected side to someone you've grown close to, making your time together more fun. Your social circles could connect in surprising ways and bring something good into your life. Value anyone you connect with today. They'll bring you luck in the future.
+EN: A shared hobby or a surprising side to a new friend may bring more fun. Your social circles could connect in unexpected ways that benefit you. Treasure the people you connect with today. They'll bring you luck in the future.
 
 @379DC max=359
 JP: アップダウンの激しい対人運です。めまぐるしい一日で、ちょっと疲れるかもしれません。初対面の人とのつきあいも多くなるでしょう。相手の何気ないひと言にムッとする場面もありますが、深い意味はないようですから、気にしないこと。
-EN: Your social luck is full of ups and downs. The day's hectic pace may leave you a little tired, and you'll probably meet plenty of new people. An offhand remark might rub you the wrong way, but there doesn't seem to be any deeper meaning behind it. Try not to let it bother you.
+EN: Your social luck is full of ups and downs. A hectic day with plenty of new faces may leave you tired. An offhand remark might rub you the wrong way, but there's no deeper meaning behind it. Try not to let it bother you.
 
 @37B44 max=359
 JP: デリカシーのない言動で周囲を傷つけてしまう恐れがあります。あなたにそんなつもりはなくても、相手はけっこう根にもちそうです。その後のおつきあいに悪影響を与えないためにも、相手の表情が曇ったと感じた時点で素直に謝るようにしましょう。
@@ -1820,7 +1820,7 @@ EN: Your social luck is a little cloudy. You're more likely to act without consi
 
 @37F7C max=359
 JP: 見た目で人を判断しがちな日です。いつもより心をオープンにしてみましょう。気になる人とはちょっと踏み込んだ会話をすると、意外な面を発見して楽しくなるかもしれません。相手もすんなり受け入れてくれそうです。突然の誘いは快く引き受けると吉。
-EN: You may be quick to judge by appearances today. Try opening your mind a little more than usual. A deeper chat with someone who interests you could reveal a surprising side of them and be great fun. They'll likely welcome the conversation, too. Accepting a sudden invitation brings good luck.
+EN: Look beyond appearances today. Open your heart: a deeper chat with someone who interests you may reveal a fun, surprising side. They'll likely welcome it, too. Saying yes to a sudden invitation brings good luck.
 
 @380E4 max=359
 JP: 何も悪いことをしていないのに嫌味を言われたりにらまれたりする低調な対人運です。反論するほどトラブルは大きくなりそうなので、今日のところはじっと耐えましょう。後日、誤解は解けますから、心配はいりません。
@@ -1828,11 +1828,11 @@ EN: Your social luck is low. People may make snide remarks or glare at you even 
 
 @3824C max=359
 JP: 対人運に活気があります。周囲に積極的に声をかけていくといいでしょう。特にひとりで寂しそうにしている人がいたら、お茶にでも誘ってみてください。欲しかった情報を握っているかもしれません。意外な共通点も見いだせて話が盛り上がるでしょう。
-EN: Your social luck is lively. Take the initiative and strike up conversations. If someone looks lonely on their own, invite them for tea. They may have just the information you've been looking for. You could also discover something unexpected in common and have a great chat.
+EN: Your social luck is lively. Strike up a chat! If someone looks lonely, invite them for tea. They may have information you've been seeking. An unexpected shared interest could keep the conversation flowing.
 
 @383B4 max=359
 JP: 困ったことがあったら、いつまでもひとりでがんばらないこと。遠慮せずに助けを求めれば、快く力を貸してくれる人がたくさんいます。良案が見つかり、事態は好転するでしょう。逆にピンチに陥っている人がいたら、積極的に声をかけてあげると吉。
-EN: If you're in trouble, don't struggle alone forever. Ask for help without hesitation. Plenty of people will gladly lend a hand. A good solution will turn up, and things will improve. If someone else is in a tight spot, taking the initiative to offer help will bring good luck.
+EN: Don't struggle alone when trouble strikes. Ask for help; plenty of people will gladly lend a hand. Together, you'll find a way forward. If someone else is in a tight spot, offering help brings good luck.
 
 @3851C max=359
 JP: 対人運は下降します。嫉妬やねたみ、嫌がらせを受けて、とてもブルーな気分になりそうです。沈んだ表情をすると、相手の思うつぼですから、「何も気にしてない」といった強気な態度に出てください。運気は好転していきます。
@@ -1840,15 +1840,15 @@ EN: Your social luck is slipping. Jealousy, envy or harassment may leave you fee
 
 @38684 max=359
 JP: 対人運は上昇しつつあります。何か困ったことが起こっても手を差し伸べてくれる人がいて、とても心強い一日。悩みがある場合は、年上の人に遠慮なく相談をしてみましょう。思いがけないアドバイスに目からウロコが落ち、明るい展望が開けそうです。
-EN: Your social luck is rising. If trouble strikes, someone will lend a hand, making this a reassuring day. If something is worrying you, don't hesitate to ask someone older for advice. Their unexpected insight could open your eyes and brighten your outlook.
+EN: Your social luck is rising. Helping hands will make this a reassuring day, even if trouble strikes. Share your worries with someone older. Their unexpected advice could open your eyes to a brighter future.
 
 @387EC max=359
 JP: 周囲の注目を集める日です。何かと頼りにされ、活躍の場が多くなります。嫉妬やねたみを少しは買うでしょうが、精神的にゆとりがあるので笑顔でかわせそうです。そんな頼りがいのあるあなたに相談を持ちかけてくる人もいるでしょう。親身になって聞いてあげると吉。
-EN: All eyes are on you today. People will turn to you, giving you plenty of chances to shine. You may stir up a little envy, but you'll have the composure to brush it off with a smile. Someone may also seek your advice because you're so dependable. Listening with care will bring good luck.
+EN: All eyes are on you! People will rely on you, with plenty of chances to shine. You may stir up envy, but you'll have the poise to meet it with a smile. Someone may seek your advice. Listening with care brings good luck.
 
 @38954 max=359
 JP: 交友関係が広がりそうです。初対面でも、思っていることはある程度伝えたほうが好印象につながります。もちろんきつい表現は避け、あくまでもソフトにしてください。苦手な人にも同様に接してみましょう。連絡先の交換も吉。
-EN: Your circle of friends could grow. Even when meeting someone new, sharing some of your thoughts will leave a good impression. Keep your words gentle, of course. Try the same approach with people you find difficult. Exchanging contact details will also bring good luck.
+EN: Your circle of friends could grow. Sharing your thoughts, even with someone new, leaves a good impression. Keep your words gentle. Try this with people you find difficult, too. Exchanging contact details brings luck.
 
 @38ABC max=359
 JP: 苦手だと思っていた人の意外な一面を見てびっくり。じつは自分とよく似ているタイプの人だったりします。ぜひ、あなたから声をかけてみましょう。趣味が一緒だったり共感できる話題も出てきて会話も弾みそうです。
@@ -1876,7 +1876,7 @@ EN: Your social luck is at its peak! Your bright, lively manner will draw attent
 
 @3932C max=359
 JP: 対人運は下降中。努めてプラスイメージを抱くようにすると、ニガテな人との関係も無事にこなせるでしょう。最初から「うまく話せない」と思っていれば、そのとおりになります。また、人を見かけで判断してはいけません。今日会う人は、かなり外見を裏切るキャラクターのようです。
-EN: Your social luck is falling. Picture things going well, and even dealing with difficult people should go smoothly. If you start out thinking, "I won't know what to say," you'll prove yourself right. Don't judge by appearances, either. Someone you meet today may be very different from how they look.
+EN: Your social luck is falling. Picture chats going well, even with difficult people. Expecting to stumble over your words can make it happen. Look beyond appearances: someone you meet today may surprise you.
 
 @39494 max=359
 JP: 対人運は低め安定。ものも言いようで角が立ちます。思いついたままを言うのでなく、ユーモラスな表現に変換してから口にするようにしましょう。また、ライバルの存在がクローズアップしそうですが、あまり気にする必要はありません。
@@ -1892,7 +1892,7 @@ EN: Your luck is fantastic today! Spending time with friends you click with will
 
 @398CC max=359
 JP: 家族が何かと力になってくれそうです。悩みの一部を打ち明けてみると、心配してくれたり笑い飛ばしてくれて、気分が晴れるでしょう。家族の話も聞くようにしてください。その代わり、他人とはしっくりこない日です。無理につきあうことはありません。
-EN: Your family could be a great source of support. Share a little of what's worrying you. Their concern, or even their laughter, may lift your spirits. Be sure to listen to them, too. Things may feel awkward with other people today, so don't force yourself to socialize.
+EN: Your family can offer support. Share a worry; their concern or a laugh together may lift your spirits. Listen to their stories, too. Things may feel awkward with others today, so don't force yourself to socialize.
 
 @39A34 max=359
 JP: 対人運はドラマチックです。前から気になっていた人に話しかけられるといったうれしいハプニングがあるかもしれません。ヘンに謙遜しすぎないで、相手の話をよく聞くように心がけるといいでしょう。また、昨日の敵が今日は友達に変わるような事件もあるでしょう。
@@ -1900,7 +1900,7 @@ EN: Your social luck promises drama! A happy surprise may await, such as someone
 
 @39B9C max=359
 JP: 対人運は穏やかです。親切にされて、うれしくなることがあるかもしれません。好意には、きちんと感謝の言葉を返してください。ほんのひと言が相手を傷つけたり、和ませたりすると実感するはずです。家族には優しい言葉をかけること。ほのぼのします。
-EN: Your social luck is peaceful. A kind gesture may make your day. Be sure to put your gratitude into words. You'll see how just a few words can hurt someone or put them at ease. Say something kind to your family, too. It'll leave everyone feeling warm inside.
+EN: Your social luck is peaceful. A kind gesture may lift your spirits, so say thank you. You'll see how a few words can hurt or soothe. Say something kind to your family, too, and enjoy the warmth it brings.
 
 @39D04 max=359
 JP: 自分らしさを取り戻したい日です。自分に益にならないつきあいをしていたり、あなたが尊重されにくいグループに属しているなら、思い切って抜け出すことを考えてもいいでしょう。自分と考え方が近い仲間を求める方法を考えてください。
@@ -1912,7 +1912,7 @@ EN: Get in touch with a friend or relative you haven't spoken to in a while. Rec
 
 @39FD4 max=359
 JP: 対人面は不調。手違いで、友達や同僚を怒らせてしまうかもしれません。事情をよく説明してください。借りをつくる形になったら、何かで返せるように考えましょう。目上には話しかけるタイミングをつかめなかったり遠慮しすぎたりして、用が足りない恐れがあります。
-EN: Social matters look rocky. A mix-up could upset a friend or coworker, so explain things clearly. If you end up owing them a favor, think of a way to repay it. With someone senior, poor timing or being too hesitant to speak could keep you from getting what you need.
+EN: Social luck is low. A mix-up may upset a friend or coworker, so explain it clearly. If you owe a favor, plan to repay it. Poor timing or shyness with someone senior could leave your needs unmet. Find a moment to speak up.
 
 @3A13C max=359
 JP: 対人面は好調。楽しい計画が持ち上がりそうです。また、信頼できそうな人に出会えて心強くなるかもしれません。相手に世話をかけたと恐縮することがありそうですが、相手はそれほど気にしていないようです。安心してください。
@@ -1920,11 +1920,11 @@ EN: Social matters look bright. Some fun plans may be taking shape. You could al
 
 @3A2A4 max=359
 JP: 来る者は迎え、去る者は追わないことを心がけたい日です。人間関係も自然ななりゆきにまかせたほうがよさそう。執着すると、結局寂しくなるのはあなたです。また、対立するふたりの間にはさまれることもあるかもしれませんが、中立の立場を守ると吉。
-EN: Welcome those who come, and let those who leave go freely. Let your relationships follow their natural course today. Clinging too tightly will only leave you lonely in the end. You may also get caught between two people at odds. Staying neutral will bring good luck.
+EN: Welcome those who come, and let those who leave go. Let relationships take their course; clinging only brings loneliness. If you get caught between two people at odds, stay neutral for good luck.
 
 @3A40C max=359
 JP: 人に自慢話をしたりノロケたりしがちな日です。控えめな態度が安全。また、人に「何か面白いことない？」と甘えるより、自分から周りの人を楽しませてあげるようにしましょう。相手の話に対するリアクションを工夫してみると、会話が盛り上がるでしょう。
-EN: You may be tempted to boast about your achievements or your love life today. A little modesty is safer. Instead of asking others to entertain you, make an effort to entertain them. Put some thought into how you respond to their stories, and the conversation will come alive.
+EN: Resist bragging about your achievements or love life today. Modesty is safer. Instead of asking others to entertain you, bring them some fun. Thoughtful, lively reactions to their stories will keep the conversation flowing.
 
 @3A574 max=359
 JP: 友達や家族のわがままに振り回され、疲れてしまいそう。でも、相手を責めるだけでは関係が悪くなります。ユーモラスな表現で、クギをさしましょう。相手を困らせてやりたい衝動にかられても、実行してはいけません。
@@ -1932,11 +1932,11 @@ EN: The whims of friends or family could wear you out today. Simply blaming them
 
 @3A6DC max=359
 JP: 苦手な人へのリップサービスも必要なことです。ただし、できない約束をしてしまい、言ったことには責任を持ちましょう。家族やごく親しい人とは、つまらないことでケンカしてしまいそう。優柔不断な態度にならないよう、言いたいことは言ったほうがスッキリします。
-EN: Sometimes a few pleasantries are needed even with people you find difficult. Avoid promises you can't keep, and take responsibility for your words. A trivial matter could spark a quarrel with family or close friends. Say what you mean instead of wavering. You'll feel better for it.
+EN: Be pleasant even to people you find difficult, but keep your promises and take responsibility for your words. Small things may spark rows with family or close friends. Speak your mind instead of wavering. You'll feel better.
 
 @3A844 max=359
 JP: 対人運は低調。いくら人に誠意を尽くしても、相手は誤解してしまいそうです。ムキになっても、あとで空しさに襲われるだけです。今日は、見返りを期待せず、自分がしたいからするという割り切りがポイント。ムッとくることがあっても、その場で暴言をはかないよう注意を。
-EN: Your social luck is low. Even your sincerest efforts may be misunderstood. Pushing harder will only leave you feeling empty later. Today, do things because you want to, without expecting anything in return. If something annoys you, take care not to lash out in the heat of the moment.
+EN: Social luck is low. Even sincere efforts may be misunderstood. Getting defensive will only leave you feeling empty. Do things because you want to, expecting nothing in return. If you're annoyed, pause before saying something cruel.
 
 @3A9AC max=359
 JP: 対人運は上昇中ですが、主導権争いの暗示があります。その場にリーダーが複数いれば、話は進みません。年長者に譲って、あなたはサポート役に回るといいでしょう。あなたが年長者の場では、リーダーシップを発揮してください。
@@ -1944,7 +1944,7 @@ EN: Your social luck is rising, but a struggle for control may be brewing. With 
 
 @3AB14 max=359
 JP: 対人運は好調。接待上手になれる日です。仕事の場でもプライベートの幹事役でも、力を惜しまず、サービスに努めましょう。かなり喜ばれそうです。面倒なことを引き受けると、あとで労をねぎらわれることがあるでしょう。
-EN: Your social luck is strong. You've got a knack for making people feel welcome today. Whether you're entertaining clients or organizing fun with friends, give it your all. Your efforts should be warmly appreciated. Taking on a troublesome task may also earn you thanks later.
+EN: Social luck is strong. You'll be a great host today! Whether helping clients or planning fun with friends, give it your all. People will be delighted. Taking on a troublesome task could earn you a warm thank-you later.
 
 @3AC7C max=359
 JP: 協調性を発揮したい日です。自分だけがんばっても、良い結果につながりません。関係者全員の気持ちを確かめ、意見の刷り合わせをしてください。人の言動で疑問に思うことがあっても、ポーカーフェイスで乗り切れば、結果は上々でしょう。

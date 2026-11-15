@@ -4,27 +4,27 @@
 
 @#0
 JP: ■スーパーマンの日：１９３８年、この日創<n>刊された雑誌で、スーパーマンがデビュー。<n>■電波の日：１９５１年に郵政省が制定。<n>■気象記念日：１８８４年に制定。<n>■チューインガムの日：１９９４年に制定。<n>■ねじの日：ねじ商工連盟が制定。<n>■人権擁護委員の日：１９８２年に制定。<n>■マリリン・モンローの日：誕生日から。
-EN: - Superman Day: Superman made his debut in a magazine first published on this day in 1938.<n>- Radio Day: Established by Japan's Ministry of Posts and Telecommunications in 1951.<n>- Meteorology Day: Established in 1884.<n>- Chewing Gum Day: Established in 1994.<n>- Screw Day: Established by Japan's screw industry federation.<n>- Human Rights Volunteers Day: Established in 1982.<n>- Marilyn Monroe Day: Celebrates her birthday.
+EN: - Superman Day: His 1938 comics debut.\n- Radio Day: Postal ministry, 1951.\n- Meteorology Day: Established in 1884.\n- Chewing Gum Day: Established in 1994.\n- Screw Day: Set by a screw trade group.\n- Human Rights Volunteers Day: 1982.\n- Marilyn Monroe Day: Her birthday.
 
 @#1
 JP: ■路地の日：数字の語呂合わせから、長野県<n>下諏訪町の「路地を歩く会」が制定。<n>■横浜港・長崎港開港記念日：１８５９年、<n>日米修好通商条約の締結により開港。<n>■裏切りの日：１５８２年、本能寺の変で、<n>織田信長が明智光秀に裏切られ、自害。<n>■危険物安全週間：危険物取り扱いの注意を<n>喚起するため消防庁により制定。
-EN: - Alley Day: Established by an alley-walking group in Shimosuwa, Nagano,<n>because the date sounds like "roji," Japanese for "alley."<n>- Yokohama and Nagasaki Port Opening Day: Both ports opened in 1859<n>under the Treaty of Amity and Commerce between Japan and the US.<n>- Betrayal Day: In 1582, Oda Nobunaga took his own life at Honnoji Temple<n>after being betrayed by Akechi Mitsuhide.<n>- Hazardous Materials Safety Week: Established by Japan's Fire and Disaster Management Agency<n>to promote care when handling hazardous materials.
+EN: - Alley Day: A date pun, set by an alley-walking group in Shimosuwa.\n- Yokohama/Nagasaki Port Day: Opened in 1859 under the US-Japan trade treaty.\n- Betrayal Day: Nobunaga died by suicide after Mitsuhide's 1582 betrayal.\n- Hazmat Safety Week: Fire agency campaign for safe handling.
 
 @#2
 JP: ■ムーミンの日：日本のムーミンファンによ<n>って数字の語呂合わせから制定。<n>■測量の日：国土交通省、国土地理院等が１<n>９８９年に制定。<n>■雲仙普賢岳祈りの日：１９９１年、雲仙普<n>賢岳で発生した大火砕流の犠牲者をしのんで。<n>■ウェストン祭：日本アルプスを初踏破した<n>宣教師ウェストンをしのんで、長野県で開催。
-EN: - Moomin Day: Established by Japanese Moomin fans<n>because the date sounds like "Moomin."<n>- Surveying Day: Established in 1989 by the Ministry of Land, Infrastructure and Transport,<n>the Geographical Survey Institute, and other organizations.<n>- Mount Unzen Prayer Day: Remembers those killed by the massive<n>pyroclastic flow on Mount Unzen's Fugendake peak in 1991.<n>- Weston Festival: Held in Nagano to honor the missionary Walter Weston,<n>who first traversed the Japanese Alps.
+EN: - Moomin Day: Japanese fans chose a date that sounds like "Moomin."\n- Surveying Day: Set by Japan's mapping and land agencies in 1989.\n- Unzen Prayer Day: For victims of the volcano's deadly 1991 ash flow.\n- Weston Festival: Nagano honors Weston, missionary and Japan Alps pioneer.
 
 @#3
 JP: ■侵略による罪のない幼児犠牲者の国際デー<n>：国連が主催する国際デー。<n>■虫歯予防デー：１９３８年まで日本歯科医<n>師会が実施、その後は「歯の衛生週間」に。<n>■虫の日：漫画家の手塚治虫氏らの呼びかけ<n>で設立され、日本昆虫クラブが制定。<n>■土地改良制度記念日：１９４９年、「土地<n>改良法」が制定されたことによる。
-EN: - International Day of Innocent Children Victims of Aggression:<n>An international observance organized by the UN.<n>- Cavity Prevention Day: Observed by the Japan Dental Association until 1938,<n>then succeeded by Dental Hygiene Week.<n>- Insect Day: Established by the Japan Insect Club,<n>which was founded at the urging of manga artist Osamu Tezuka and others.<n>- Land Improvement System Day: Marks the enactment<n>of Japan's Land Improvement Act in 1949.
+EN: - UN Day for Innocent Child Victims of Aggression.\n- Cavity Prevention Day: Observed until 1938, then Dental Hygiene Week.\n- Insect Day: Set by a club founded at Osamu Tezuka's urging.\n- Land Improvement Day: Marks Japan's 1949 Land Improvement Act.
 
 @#4
 JP: ■世界環境デー：１９７２年、国連総会で制<n>定された、環境の保全に関する理解と活動へ<n>の意慾を高める日。<n>■熱気球記念日：１７８３年、世界初の熱気<n>球の実験がフランスで成功。<n>■落語の日：らくご、と、ろく、ご、を語呂<n>合わせにして提唱。
-EN: - World Environment Day: Established by the UN General Assembly in 1972<n>to deepen understanding of environmental conservation<n>and encourage people to take action.<n>- Hot-Air Balloon Day: In 1783, the world's first hot-air balloon test<n>was successfully carried out in France.<n>- Rakugo Day: Inspired by a play on "rakugo," Japanese comic storytelling,<n>and "roku, go," the numbers six and five.
+EN: - World Environment Day: Set by the UN in 1972 to promote conservation and action.\n- Balloon Day: The first hot-air balloon test succeeded in France in 1783.\n- Rakugo Day: "Roku, go" (6, 5) sounds like "rakugo," Japanese comic storytelling.
 
 @#5
 JP: ■邦楽の日：芸事は６歳の６月６日から始め<n>ると上達すると言われていることから。<n>■コックさんの日：絵描き歌「かわいいコッ<n>クさん」の中に「６月６日」が出てくること<n>から。<n>■かえるの日：ケロケロ、の語呂合わせから。<n>■恐怖の日：新約聖書の一節にちなんで。
-EN: - Traditional Japanese Music Day: Based on the saying that starting an art<n>on June 6 at age six will help you master it.<n>- Cook Day: The date June 6 appears<n>in "The Cute Little Cook," a children's song<n>that teaches you to draw a cook.<n>- Frog Day: A play on "kero kero," the Japanese sound of a frog's croak.<n>- Fear Day: Inspired by a passage in the New Testament.
+EN: - Japanese Music Day: Arts begun on June 6 at age six are said to flourish.\n- Cook Day: June 6 appears in the drawing song "The Cute Little Cook."\n- Frog Day: A number pun on "kero kero," a frog's croak.\n- Fear Day: Inspired by the New Testament.
 
 @#6
 JP: ■母親大会記念日：生命と暮らし、子供と教<n>育、平和、女性の地位向上等に関する分科会<n>や講演会等で活動を広げる母親大会、第一回<n>記念日。
@@ -32,27 +32,27 @@ EN: - Mothers' Congress Anniversary: Marks the first Mothers' Congress.<n>The co
 
 @#7
 JP: ■成層圏発見の日：１９０２年、フランスの<n>気象学者テスラン・ド・ポールにより、発見。<n>■大鳴門橋開通記念日：１９８５年、鳴門海<n>峡、四国と淡路島を結ぶ大鳴門橋が開通。<n>■バイキングの日：７９３年、海賊バイキン<n>グの活動が最初に記録されていた日。<n>■学校の安全確保・安全管理の日：大阪府教<n>育委員会が２００２年に制定。
-EN: - Stratosphere Discovery Day: In 1902, French meteorologist<n>Leon Teisserenc de Bort discovered the stratosphere.<n>- Onaruto Bridge Opening Day: In 1985, the Onaruto Bridge opened,<n>linking Shikoku and Awaji Island across the Naruto Strait.<n>- Viking Day: In 793, Viking raiders appeared<n>in the historical record for the first time.<n>- School Safety and Security Day: Established in 2002<n>by the Osaka Prefectural Board of Education.
+EN: - Stratosphere Day: Discovered in 1902 by France's Teisserenc de Bort.\n- Onaruto Bridge Day: Opened in 1985, linking Shikoku and Awaji Island.\n- Viking Day: Marks the first recorded Viking raid, in 793.\n- School Safety Day: Set by Osaka's board of education in 2002.
 
 @#8
 JP: ■ロックの日：数字の語呂合わせからロック<n>音楽の日と制定。<n>■ロックの日：数字の語呂合わせから、鍵の<n>日と制定。<n>■ネッシーの日：１９３３年、スコットラン<n>ドのネス湖の怪獣写真が新聞に掲載された。<n>■皇太子殿下結婚の儀：皇太子殿下結婚の儀<n>のため、１９９３年の６月９日は休日に。
-EN: - Rock Music Day: The date sounds like "rock"<n>when read as Japanese numbers.<n>- Lock Day: The same number pun also sounds like "lock,"<n>making this a day for locks and keys, too!<n>- Nessie Day: In 1933, a photograph of a monster in Scotland's Loch Ness<n>appeared in a newspaper.<n>- Crown Prince's Wedding: June 9, 1993, was declared a public holiday<n>for the crown prince's wedding ceremony.
+EN: - Rock Music Day: A Japanese number pun on "rock."\n- Lock Day: The same number pun means "lock," too.\n- Nessie Day: A Loch Ness monster photo made the papers in 1933.\n- Crown Prince's Wedding: June 9, 1993 was a public holiday for the ceremony.
 
 @#9
 JP: ■時の記念日：東京天文台と生活改善同盟会<n>が１９２０年に制定。<n>■路面電車の日：路電の、ろ、と、でんを数<n>字の語呂合わせから制定。<n>■ミルクキャラメルの日：森永製菓が２００<n>０年に制定。<n>■歩行者天国の日：１９７３年、初の歩行者<n>天国が実施された。
-EN: - Time Day: Established in 1920 by the Tokyo Astronomical Observatory<n>and the Life Improvement League.<n>- Streetcar Day: A number pun on "ro" and "den,"<n>from "roden," a Japanese word for streetcar.<n>- Milk Caramel Day: Established in 2000<n>by Morinaga confectionery company.<n>- Pedestrian Paradise Day: In 1973, the first event was held<n>in which streets were closed to traffic for pedestrians to enjoy.
+EN: - Time Day: Set in 1920 by Tokyo Observatory and the Life Improvement League.\n- Streetcar Day: A number pun on "roden," meaning streetcar.\n- Milk Caramel Day: Set by Morinaga in 2000.\n- Pedestrian Paradise Day: Marks the first traffic-free streets event in 1973.
 
 @#10
 JP: ■国立銀行設立の日：１８７３年、日本初の<n>銀行、第一国立銀行発足。<n>■傘の日：梅雨時の必需品、傘の販売促進を<n>願って、日本洋傘振興協議会が制定。<n>■雨漏りの点検の日：本格的な梅雨のシーズ<n>ンを前に、雨漏りの点検をする日として。
-EN: - National Bank Founding Day: In 1873, Japan's first bank,<n>the First National Bank, was established.<n>- Umbrella Day: Established by the Japan Umbrella Promotion Association<n>to promote sales of this rainy-season essential.<n>- Roof Leak Inspection Day: A day to check your home for leaks<n>before the rainy season gets into full swing.
+EN: - National Bank Day: Japan's first bank, the First National Bank, opened in 1873.\n- Umbrella Day: Japan's umbrella trade group promotes this rainy-season essential.\n- Leak Inspection Day: Check for leaks before the rainy season begins.
 
 @#11
 JP: ■恋人の日：ブラジルで写真を交換する「恋<n>人の日」にちなみ全国額縁組合連合会が制定。<n>■日記の日：１９４２年、ユダヤ人の少女ア<n>ンネによって日記が書き始められた。<n>■バザー記念日：１８８４年、日本初のバザ<n>ーが開かれた。<n>■宮城県民防災の日：１９７８年の宮城県沖<n>地震を受け、防災意識を高めるために制定。
-EN: - Lovers' Day: Established by Japan's picture frame makers' federation,<n>inspired by Brazil's Lovers' Day custom of exchanging photos.<n>- Diary Day: In 1942, a Jewish girl named Anne Frank<n>began writing her diary.<n>- Bazaar Day: In 1884, Japan's first bazaar<n>was held.<n>- Miyagi Disaster Preparedness Day: Established after the 1978 earthquake off Miyagi<n>to raise awareness of disaster preparedness.
+EN: - Lovers' Day: Frame makers adopted Brazil's photo-swapping custom.\n- Diary Day: Anne Frank began her diary in 1942.\n- Bazaar Day: Japan's first bazaar, 1884.\n- Miyagi Disaster Preparedness Day: Promotes readiness after the 1978 quake.
 
 @#12
 JP: ■ＦＭの日：「Ｆ」がアルファベットの６番<n>目、「Ｍ」が１３番目、ということから。<n>■小さな親切の日：１９６３年、できる親切<n>はみんなでしよう、などのスローガンと共に<n>「小さな親切」運動本部が発足した。<n>■鉄人の日：１９８７年、プロ野球広島東洋<n>カープの衣笠選手が、２１３１試合連続出場<n>の世界記録を達成。
-EN: - FM Day: F is the sixth letter of the alphabet,<n>and M is the thirteenth.<n>- Small Kindness Day: In 1963, the Small Kindness Movement<n>was founded with slogans encouraging everyone<n>to do whatever kind deeds they could.<n>- Iron Man Day: In 1987, Sachio Kinugasa of the Hiroshima Toyo Carp<n>set a world record by playing in 2,131<n>consecutive professional baseball games.
+EN: - FM Day: F is letter 6; M is letter 13.\n- Small Kindness Day: The movement began in 1963, urging everyone to do kind deeds.\n- Iron Man Day: In 1987, Hiroshima Carp's Sachio Kinugasa set a world record: 2,131 straight games.
 
 @#13
 JP: ■フラッグデー：１７７７年、「星条旗」を<n>正式にアメリカ合衆国の国旗と定めた日。<n>■五輪旗制定記念日：１９１４年、パリ・オ<n>リンピック委員会で五輪旗が決定。
@@ -60,23 +60,23 @@ EN: - Flag Day: In 1777, the Stars and Stripes<n>was officially adopted as the f
 
 @#14
 JP: ■暑中見舞いの日：１９５０年、暑中見舞い<n>はがきが初めて発売された日。<n>■信用金庫の日：全国信用金庫協会が制定し<n>た。<n>■千葉県民の日：人口５００万人を突破した<n>ことを記念して制定。<n>■栃木県民の日：栃木県と宇都宮県が合併し<n>たことを記念。
-EN: - Summer Greetings Day: In 1950, postcards for summer greetings<n>went on sale for the first time.<n>- Shinkin Bank Day: Established by Japan's national association<n>of shinkin cooperative banks.<n>- Chiba Prefecture Day: Established to celebrate<n>the prefecture's population passing five million.<n>- Tochigi Prefecture Day: Commemorates the merger<n>of Tochigi and Utsunomiya prefectures.
+EN: - Summer Greetings Day: First summer greeting postcards sold in 1950.\n- Shinkin Bank Day: Set by Japan's national shinkin bank association.\n- Chiba Prefecture Day: Population passed five million.\n- Tochigi Prefecture Day: Tochigi and Utsunomiya prefectures merged.
 
 @#15
 JP: ■家庭裁判所創立記念日：家事事件、未成年<n>者の事件などの審議や裁判を行う家庭裁判所<n>が１９４９年創設された。<n>■和菓子の日：全国和菓子協会が制定。<n>■麦とろの日：麦ごはんの会が制定。<n>■ケーブルテレビの日：１９７２年に「有線<n>テレビジョン放送法」が成立したことを受け<n>て、１９９１年に旧郵政省が制定。
-EN: - Family Court Founding Day: Family courts were established in 1949<n>to hear and rule on family matters,<n>cases involving minors, and similar issues.<n>- Japanese Sweets Day: Established by the Japan Wagashi Association.<n>- Barley Rice and Grated Yam Day: Established by the Barley Rice Association.<n>- Cable TV Day: Established in 1991 by the former Ministry of Posts<n>and Telecommunications to mark the passage<n>of the Cable Television Broadcasting Act in 1972.
+EN: - Family Court Day: Courts for family and juvenile cases founded in 1949.\n- Japanese Sweets Day: Set by the Japan Wagashi Association.\n- Barley Rice and Yam Day: Set by the Barley Rice Association.\n- Cable TV Day: Set in 1991 to mark the 1972 cable broadcasting law.
 
 @#16
 JP: ■砂漠化および干ばつと闘う世界デー：１９<n>９４年、国連砂漠化防止条約が採択され、国<n>連総会で制定された国際デー。<n>■おまわりさんの日：１８７４年、巡査制度<n>が誕生した日。<n>■薩摩の日：１８６６年、イギリス公使が薩<n>摩藩を訪問した日。
-EN: - World Day to Combat Desertification and Drought: An international observance<n>established by the UN General Assembly following the adoption<n>of the UN Convention to Combat Desertification in 1994.<n>- Police Officer Day: In 1874, Japan introduced<n>its police constable system.<n>- Satsuma Day: In 1866, the British envoy<n>visited the Satsuma domain.
+EN: - World Day to Combat Desertification and Drought: Set by the UN after the 1994 treaty.\n- Police Officer Day: Japan's constable system began in 1874.\n- Satsuma Day: The British envoy visited the Satsuma domain in 1866.
 
 @#17
 JP: ■考古学出発の日：１８７７年、大森貝塚を<n>発見したアメリカの動物学者、モース博士が<n>来日した。<n>■海外移住の日：１９０８年、本格的な海外<n>移住の第一陣が、ブラジルに到着した日を記<n>念して。<n>■おにぎりの日：１９８７年、石川県で日本<n>最古のおにぎりの化石が発見されたことから。
-EN: - Dawn of Archaeology Day: In 1877, the American zoologist<n>Dr. Edward Morse arrived in Japan.<n>He would discover the Omori shell mounds.<n>- Overseas Emigration Day: Commemorates the arrival in Brazil<n>of the first major group of Japanese emigrants<n>in 1908.<n>- Rice Ball Day: Inspired by the discovery of Japan's oldest<n>fossilized rice ball in Ishikawa in 1987.
+EN: - Archaeology Day: US zoologist Dr. Morse, who found the Omori shell mounds, arrived in Japan in 1877.\n- Emigration Day: The first major group of Japanese emigrants reached Brazil in 1908.\n- Rice Ball Day: Japan's oldest fossil rice ball was found in Ishikawa in 1987.
 
 @#18
 JP: ■ベースボール記念日：現行のルールの基礎<n>となる野球規則で、初めて試合が行われた日。<n>■京都府開庁の日：１８６８年、京都府が開<n>設された日を記念して京都府が制定。<n>■元号の日：６４５年、蘇我氏を倒した中大<n>兄皇子が、日本初の元号「大化」を定めた日。<n>■朗読の日：数字の語呂合わせから、日本朗<n>読文化協会が制定。
-EN: - Baseball Anniversary: Marks the first game played under rules<n>that formed the basis of today's baseball rules.<n>- Kyoto Prefecture Founding Day: Established by Kyoto Prefecture<n>to commemorate its founding in 1868.<n>- Era Name Day: In 645, Prince Naka no Oe, who overthrew the Soga clan,<n>established Japan's first era name, "Taika."<n>- Reading Aloud Day: Established by the Japan Reading Aloud Culture Association<n>because the date sounds like "rodoku," Japanese for reading aloud.
+EN: - Baseball Day: First game under the rules that shaped modern baseball.\n- Kyoto Prefecture Day: Marks its founding in 1868.\n- Era Name Day: Prince Naka no Oe named Japan's first era Taika in 645.\n- Reading Aloud Day: The date sounds like 'rodoku,' or reading aloud.
 
 @#19
 JP: ■ペパーミントデー：１９８７年、ハッカを<n>特産品とする北見市まちづくり研究会が制定。<n>■難民の日：２０００年に、国連がそれまで<n>の「アフリカ難民の日」を改称して制定した。<n>■健康住宅の日：健康住宅推進協議会が制定。
@@ -88,7 +88,7 @@ EN: - Shosoin Treasures Day: On this day in 756, Empress Dowager Komyo is said<n
 
 @#21
 JP: ■かにの日：大阪のかに料理店「かに道楽」<n>が制定。<n>■ボウリングの日：１８６１年、長崎外国人<n>居留地に日本初のボウリング場が開設、と、<n>地元英字新聞に報道された日。<n>■日韓条約調印記念日：１９６５年、「日韓<n>基本条約」等の調印式が行われた。
-EN: - Crab Day: Established by Kani Doraku,<n>a crab restaurant in Osaka.<n>- Bowling Day: In 1861, a local English-language newspaper<n>reported that Japan's first bowling alley had opened<n>in Nagasaki's foreign settlement.<n>- Japan-South Korea Treaty Signing Day: In 1965, a signing ceremony was held<n>for the Treaty on Basic Relations between Japan and South Korea and related agreements.
+EN: - Crab Day: Set by Osaka's Kani Doraku crab restaurant.\n- Bowling Day: In 1861, a local English paper reported Japan's first alley opening in Nagasaki.\n- Japan-Korea Treaty Day: The basic relations treaty and other accords were signed in 1965.
 
 @#22
 JP: ■沖縄慰霊の日：１９４５年、沖縄決戦が終<n>結した日。<n>■オリンピック・デー：１８９４年、国際オ<n>リンピック委員会がパリで創立。
@@ -96,27 +96,27 @@ EN: - Okinawa Memorial Day: In 1945, the Battle of Okinawa<n>came to an end.<n>-
 
 @#23
 JP: ■ドレミの日：１０２４年のこの日に行われ<n>る祭りのため、合唱指導をしていたイタリア<n>の僧侶ダレッツオが「ド・レ・ミ」の音階の<n>元を発見した。<n>■ＵＦＯの日：１９４７年、アメリカで初め<n>てＵＦＯが目撃されたことにちなんで。<n>■林檎忌麦の日：歌手、美空ひばりの１９８<n>９年の忌日。
-EN: - Do-Re-Mi Day: While training a choir for a festival<n>held on this day in 1024, the Italian monk Guido d'Arezzo<n>discovered the basis of the familiar<n>"do, re, mi" musical scale.<n>- UFO Day: Commemorates the first UFO sighting<n>in the United States in 1947.<n>- Apple and Wheat Memorial Day: Marks the death<n>of singer Hibari Misora in 1989.
+EN: - Do-Re-Mi Day: In 1024, Italian monk Guido d'Arezzo found the scale's basis while training a festival choir.\n- UFO Day: Marks the first US UFO sighting in 1947.\n- Apple and Wheat Memorial Day: Singer Hibari Misora died in 1989.
 
 @#24
 JP: ■住宅デー：ガウディの誕生日にちなんで、<n>全国建設労働組合総連合が制定。<n>■天覧試合の日：１９５９年、昭和天皇皇后<n>両陛下が初めて後楽園球場で巨人対阪神戦を<n>観戦した日。<n>■救らいの日：らい病の予防と救済に関心を<n>よせていた貞明皇后の誕生日。１９６４年か<n>ら「ハンセン病を正しく理解する週間」に。
-EN: - Housing Day: Established by Japan's national federation of construction workers' unions<n>to mark architect Antoni Gaudi's birthday.<n>- Imperial Baseball Game Day: In 1959, Emperor Showa and the empress<n>attended their first Giants-Tigers game<n>at Korakuen Stadium.<n>- Leprosy Relief Day: The birthday of Empress Teimei, who took an interest<n>in leprosy prevention and relief. In 1964, it became<n>a week promoting accurate understanding of Hansen's disease.
+EN: - Housing Day: Builders' unions chose Gaudi's birthday.\n- Imperial Baseball Day: In 1959, the emperor and empress first saw Giants vs. Tigers at Korakuen.\n- Leprosy Relief Day: Empress Teimei's birthday. Became Hansen's disease awareness week in 1964.
 
 @#25
 JP: ■露天風呂の日：数字の語呂合わせから。<n>■雷記念日：９３０年、平安京の清涼殿に落<n>雷があり、大納言の藤原清貴が亡くなった。<n>■国際麻薬乱用・不正取引防止デー：１９８<n>７年の国連総会で制定。<n>■国連憲章調印記念日：１９４５年、「国連<n>憲章」に５０か国以上が調印し、国際連合の<n>設立が決定した。
-EN: * Open-Air Bath Day: Inspired by a Japanese number pun for 'outdoor bath.'<n>* Lightning Memorial Day: In 930, lightning struck<n>the Seiryoden palace hall in Heian-kyo, killing senior counselor Fujiwara no Kiyotaka.<n>* International Day Against Drug Abuse and Illicit Trafficking:<n>Established by the UN General Assembly in 1987.<n>* UN Charter Signing Day: In 1945,<n>50 or more countries signed the UN Charter,<n>paving the way for the founding of the United Nations.
+EN: - Open-Air Bath Day: A Japanese number pun.\n- Lightning Memorial Day: A 930 palace strike killed Fujiwara no Kiyotaka.\n- UN Anti-Drug Day: Established in 1987.\n- UN Charter Day: 50+ nations signed in 1945 to form the UN.
 
 @#26
 JP: ■奇跡の人の日：アメリカの社会福祉事業家、<n>ヘレン・ケラーの誕生日。<n>■女性雑誌の日：１６９３年、ロンドンで世<n>界初の女性向け週刊誌が創刊された。<n>■演説の日：１８７４年、慶応義塾の三田演<n>説館で日本初の演説会が行われたことから。<n>■日照権の日：最高裁の判決から、初めて日<n>照権、通風権が確立した日。
-EN: * Miracle Worker Day: The birthday of American social welfare activist<n>Helen Keller.<n>* Women's Magazine Day: In 1693, the world's first weekly magazine<n>for women was launched in London.<n>* Public Speaking Day: Commemorates Japan's first public speaking event,<n>held at Keio's Mita Public Speaking Hall in 1874.<n>* Sunlight Rights Day: A Supreme Court ruling first established<n>the right to sunlight and ventilation.
+EN: - Miracle Worker Day: Helen Keller's birthday.\n- Women's Magazine Day: First women's weekly launched in London, 1693.\n- Speech Day: Japan's first speech meeting at Keio's Mita Hall, 1874.\n- Sunlight Rights Day: Supreme Court affirms rights to sunlight and airflow.
 
 @#27
 JP: ■パフェの日：日本プロ野球史上初のパーフ<n>ェクトゲームが達成された日。<n>■貿易記念日：１９６３年、自由貿易推進の<n>為、閣議決定し、通商産業省が実施。<n>■雨の特異日：過去のデータから、雨の降る<n>確率の高い日とされている。<n>■芙美子忌：小説家、林芙美子の忌日。
-EN: * Parfait Day: Celebrates the first perfect game<n>in Japanese pro baseball. 'Parfait' is French for 'perfect.'<n>* Trade Day: Established by a cabinet decision in 1963 to promote free trade,<n>and implemented by the Ministry of International Trade and Industry.<n>* Rain Likely Day: Historical weather records show<n>an unusually high chance of rain on this date.<n>* Fumiko Memorial Day: The anniversary of novelist Fumiko Hayashi's death.
+EN: - Parfait Day: Japan's first pro baseball perfect game.\n- Trade Day: Set in 1963 to promote free trade.\n- Rain-Likely Day: Records show high odds of rain.\n- Fumiko Memorial Day: Novelist Fumiko Hayashi's death anniversary.
 
 @#28
 JP: ■ビートルズ記念日：１９６６年、伝説的人<n>気のロックグループ・ビートルズがイギリス<n>から初来日した日。<n>■星の王子さまの日：「星の王子さま」を執<n>筆したフランスの作家で飛行士の、サンテグ<n>ジュペリの誕生日。<n>■廉太郎忌：作曲家、滝廉太郎の忌日。
-EN: * Beatles Day: In 1966, the legendary British rock band<n>the Beatles arrived from the UK<n>for their first visit to Japan.<n>* Little Prince Day: The birthday of Antoine de Saint-Exupery,<n>the French writer and aviator<n>who wrote The Little Prince.<n>* Rentaro Memorial Day: The anniversary of composer Rentaro Taki's death.
+EN: - Beatles Day: The band's first visit to Japan, 1966.\n- Little Prince Day: Birthday of its author, French aviator Antoine de Saint-Exupery.\n- Rentaro Memorial Day: Composer Rentaro Taki's death anniversary.
 
 @#29
 JP: ■トランジスタの日：１９４８年、アメリカ<n>のＡＴ＆Ｔベル研究所のショックレイ、バー<n>ディン、ブラッテンによって発明されたトラ<n>ンジスタが初公開。<n>■アインシュタイン記念日：１９０５年、ア<n>インシュタインが相対性理論に関する最初の<n>論文をドイツの物理雑誌に発表した日。

@@ -4,7 +4,7 @@
 
 @#0
 JP: 日本一長い川は信濃川。<n>その長さは３６７キロメートル。<n>ほぼ、東海道本線の東京ー名古屋の距離。
-EN: Japan's longest river is the Shinano.<n>It is 367 kilometers long.<n>That is about the distance from Tokyo to Nagoya on the Tokaido Main Line.
+EN: Japan's longest river, the Shinano, is 367 km long: about Tokyo to Nagoya on the Tokaido Main Line.
 
 @#1
 JP: ドイツの地球物理学者ウェゲナーの<n>「大陸移動説」によると、約３億年むかしの地球は<n>「パンゲア」と呼ばれるひとつの大きな<n>大陸であったと言う。
@@ -12,7 +12,7 @@ EN: According to German geophysicist Wegener's<n>theory of continental drift, ab
 
 @#2
 JP: 太陽の黒点は黒く見えるが、その温度は３５００Kも<n>あり、そこだけ取り出してみると満月よりも明るい。<n>黒点を取り巻く太陽の表面が５７００Kもあるため、<n>黒く見えるのである。
-EN: Sunspots look black, but their temperature is 3,500 K.<n>Seen on their own, they would shine brighter than the full moon.<n>They look black because the Sun's surface around them<n>is even hotter, at 5,700 K.
+EN: Sunspots are 3,500 K, brighter than the full moon on their own. They look dark beside the Sun's hotter, 5,700 K surface.
 
 @#3
 JP: 「加油」とは中国語でガンバレの意味。
@@ -20,15 +20,15 @@ EN: 'Jiayou' means 'Keep it up!' in Chinese.
 
 @#4
 JP: 日本昔話に登場する太郎のうち、<n>金太郎は、坂田金時という実在の人物である。
-EN: Of the heroes whose names end in 'taro' in Japanese folktales,<n>Kintaro was a real person named Sakata no Kintoki.
+EN: Folktale hero Kintaro was a real man, Sakata no Kintoki.
 
 @#5
 JP: 「五臓六腑」の、五臓は、<n>肺臓、心臓、肝臓、腎臓、脾臓。<n>六腑は、大腸、小腸、胃、胆、膀胱、三焦。
-EN: In traditional medicine, the five solid organs are<n>the lungs, heart, liver, kidneys and spleen.<n>The six hollow organs are the large intestine, small intestine, stomach, gallbladder, bladder and triple burner.
+EN: Five organs: lungs, heart, liver, kidneys, spleen. Six: colon, small bowel, stomach, gallbladder, bladder, triple burner.
 
 @#6
 JP: １８３５年に生物学者のダーウィンが訪れ、<n>独特の生態系の観察から「種の起源」を著わした<n>ガラパゴス諸島。その正式名称はコロン諸島と言う。<n>ガラパゴスとはスペイン語で亀のことで、<n>数多くのゾウガメが生息していたことから<n>この呼び名が一般的になってしまったと考えられる。
-EN: Darwin visited the Galapagos Islands in 1835.<n>Observing their unique ecosystem led him to write<n>On the Origin of Species. Their official name is the Colon Islands.<n>'Galapagos' is Spanish for 'tortoises.'<n>The name likely caught on because so many<n>giant tortoises lived there.
+EN: Darwin's 1835 visit to the Galapagos inspired On the Origin of Species. Officially the Colon Islands, they are widely called Galapagos, Spanish for 'tortoises,' likely for their many giant tortoises.
 
 @#7
 JP: 「手紙」は中国語では<n>トイレットペーパーを意味する。
@@ -52,7 +52,7 @@ EN: The seven deadly sins are<n>pride, greed, lust, wrath, gluttony, envy and sl
 
 @#12
 JP: ドーバー海峡は「ドーバーの白い崖」と呼ばれるが、<n>この白さは、有孔虫と呼ばれる海生生物の死骸の殻が<n>古代から堆積してできたものである。
-EN: The White Cliffs of Dover overlook the Strait of Dover.<n>Their white color comes from the shells of sea creatures<n>called foraminifera, which built up over countless ages.
+EN: Dover's white cliffs formed from ancient layers of shells left by tiny sea creatures called foraminifera.
 
 @#13
 JP: 「君と一緒に陰口をきく者は、<n>君の陰口もきくだろう」<n>スペインのことわざ。
@@ -60,7 +60,7 @@ EN: 'Those who gossip with you<n>will gossip about you.'<n>A Spanish proverb.
 
 @#14
 JP: 「命あっての物種」<n>何をするにも命があればこそ、だという意味。<n>命への感謝のときにも、死んだらもともこもない、<n>と物事を断念する場合にも使われる。
-EN: 'Life is the seed of all things.'<n>It means being alive makes everything else possible.<n>It's used to express gratitude for life, or to give up<n>something dangerous: there's no point if it kills you.
+EN: 'Life comes first.' Being alive makes all else possible. Say it to celebrate life or abandon a risk: it's no use if you die.
 
 @#15
 JP: シンガポールとはサンスクリット語で「獅子」と<n>「町」という言葉をつなげて生まれたとされている。<n>サン・ニラ・ウタマという伝説上の人物が<n>この島に上陸したときに出会った動物が獅子だった<n>と言う。シンガポールの名の由来には<n>他にも諸説あるうえに、この島にライオンがいたと<n>いう証拠もないのだと言い、ナゾのままである。
@@ -68,15 +68,15 @@ EN: Singapore is said to combine the Sanskrit words for 'lion'<n>and 'city.' Acc
 
 @#16
 JP: 甘味は脳にベータ・エンドルフィンなどの麻薬様物質<n>を出し、その結果ドーパミンが分泌。そして、脳の摂<n>食中枢が刺激され食欲がわき、さらにオレキシンとい<n>う摂食促進物質を分泌して、胃をゆるめ、胃の内容物<n>を小腸へと送り出すなど、消化器活動を活発にする。<n>これが、デザートが別腹になるしくみである。
-EN: Sweets trigger opiate-like chemicals such as beta-endorphin<n>in the brain, followed by dopamine.<n>This stimulates the hunger center and boosts appetite.<n>Then orexin, an appetite stimulant, is released.<n>It relaxes the stomach and moves food into the small intestine,<n>speeding up digestion.<n>That's how we find extra room for dessert.
+EN: Sweets trigger opiate-like beta-endorphin, then dopamine, stimulating appetite. Orexin follows, relaxing the stomach and moving food into the small intestine to aid digestion. That's how we make room for dessert!
 
 @#17
 JP: 高地に出かけた人がかかる高山病。<n>高山に住んでいる人々は通常より赤血球が多いため、<n>平地に住む人よりも酸素不足に強いと言われている。<n>しかし、いったん平地に降り、再び高地に戻ると、<n>高山病の症状に悩まされることもあるらしい。
-EN: Altitude sickness can affect visitors to high places.<n>People living at high altitudes have more red blood cells,<n>so they're said to cope better with low oxygen levels.<n>But if they visit the lowlands and then return home,<n>they may suffer from altitude sickness too.
+EN: Highlanders have more red blood cells, helping them cope with low oxygen. But after a stay in the lowlands, even they may get altitude sickness on returning home.
 
 @#18
 JP: 千葉の九十九里浜の距離は約６０キロメートル。<n>十五里しかない。
-EN: Chiba's Kujukuri Beach means '99-ri beach,'<n>but it's only about 60 kilometers long, or 15 ri.
+EN: Chiba's Kujukuri ('99 ri') Beach is only 60 km long, or 15 ri.
 
 @#19
 JP: 中国の「黄海」、ロシア北西部の「白海」、<n>アフリカ大陸とアラビア半島の間の「紅海」は<n>いずれも海の水がその色に見えることから<n>名づけられている。
@@ -92,7 +92,7 @@ EN: As long as you can say, 'This is the worst!'<n>you haven't reached the worst
 
 @#22
 JP: 稲は「息」や「命」のイと、「根」のネからできた、<n>生命の根という言葉から生まれている。
-EN: Ine, Japanese for rice, combines 'i' from iki, 'breath,'<n>or inochi, 'life,' with ne, 'root,' to mean 'root of life.'
+EN: Ine (rice) joins i (breath/life) and ne (root): 'root of life.'
 
 @#23
 JP: 「話すことの二倍、人から聞くべきである」<n>デモステネスの言葉。
@@ -104,11 +104,11 @@ EN: Deserts have phantom rivers called wadis.<n>Wadi is an Arabic word for river
 
 @#25
 JP: 話す相手を威圧したいなら、<n>相手より２メートルほど離れて見下ろす位置を<n>確保することが最も効果的である。
-EN: To intimidate someone you're speaking to,<n>the most effective position is about two meters away,<n>somewhere you can look down on them.
+EN: To intimidate someone, stand about two meters away, where you can look down on them.
 
 @#26
 JP: ウサギの数え方は「一羽」。<n>肉食を禁じられ、ウサギを鳥だと言いはって<n>食べてた時代の名残りである。
-EN: Rabbits are counted with wa, the Japanese counter for birds.<n>It's a relic of a time when eating meat was forbidden,<n>so people ate rabbits while insisting they were birds.
+EN: Rabbits use Japan's bird counter, wa: a relic of when meat was banned and people claimed rabbits were birds.
 
 @#27
 JP: 「犬も歩けば棒に当たる」<n>棒にあたるとは棒で打たれるの意味で、<n>犬も出歩いていれば打たれることもあるの意味。<n>転じて、でしゃばると思いがけない災難にあう、<n>ということ。<n>しかし、積極的に出ると思いがけない幸運に会う、<n>という使い方をされることもある。
@@ -120,7 +120,7 @@ EN: Gaikyu, or 'armor ball,' is a Japanese name<n>for American football.<n>It re
 
 @#29
 JP: 人の味覚は砂糖よりも塩に厳しい。<n>塩は必須物質なのに、体内に蓄えることができない。<n>そのため、人が必要とする塩分を<n>最もおいしいと感じるような仕組みになっていると<n>考えられている。
-EN: Our sense of taste is fussier about salt than sugar.<n>Salt is essential, but our bodies can't store it.<n>It's thought that this is why the salt concentration<n>our bodies need is also the one<n>we find most delicious.
+EN: We taste salt more keenly than sugar. Salt is vital but can't be stored, so we're thought to find the amount our bodies need tastiest.
 
 @#30
 JP: 「手前みそ」<n>自家製の味噌のこと。<n>うちの味噌がいちばんうまい、と口々に言うため、<n>転じて、自分を自慢するという意味になった。
@@ -128,7 +128,7 @@ EN: Temae miso means 'homemade miso.'<n>Everyone would boast,<n>'Our miso tastes
 
 @#31
 JP: 花札で、初めに配られた七枚の札のうち、<n>一枚が二十点札で、残り六枚がカス札のとき<n>役になる。二十点札を「光り物」というので、<n>この役は「光一（ぴかいち）」と呼ばれ、<n>転じて、一番優れているという意味になった。
-EN: In hanafuda, a starting hand of seven cards qualifies<n>if one card is worth 20 points and the other six are junk.<n>The 20-point cards are called 'bright cards,'<n>so this hand is called 'pikaichi,' or 'one bright card.'<n>The word came to mean 'the very best.'
+EN: In hanafuda, a starting hand of one 20-point 'bright' card and six junk cards is pikaichi, 'one bright card.' The word came to mean 'the very best.'
 
 @#32
 JP: 月が新月のときに月から地球を眺めると、<n>地球は完全に照らされ「満地球」になる。<n>このときの明るさは、満月の１０倍近くだと<n>考えられている。
@@ -136,7 +136,7 @@ EN: When we see a new moon, someone on the Moon would see<n>a fully lit Earth: a
 
 @#33
 JP: 柏の木は新芽が出るまで古い葉を落とさない。<n>それゆえ、家系が絶えないという願いをこめて、<n>端午の節句には柏餅を食べると言われている。
-EN: Oak trees keep their old leaves until new shoots appear.<n>That's why people eat oak-leaf rice cakes on Children's Day:<n>to wish for an unbroken family line.
+EN: Oaks keep old leaves until new buds grow. Children's Day oak-leaf cakes wish for an unbroken family line.
 
 @#34
 JP: 話している最中に相手が視線をはずすことがあるなら、<n>相手はその話題に飽きているか、<n>その会話自体を拒否している可能性がある。<n>アイコンタクトをはずすのは、<n>多かれ少なかれ「拒否」のサインである。
@@ -144,7 +144,7 @@ EN: If someone looks away during a conversation,<n>they may be bored with the to
 
 @#35
 JP: 仏像の数え方は「一頭」。<n>お地蔵さまの数え方は「一尊」。
-EN: In Japanese, one Buddhist statue is counted as 'ittou.'<n>One Jizo statue is counted as 'isson.'
+EN: One Buddhist statue: 'ittou.' One Jizo statue: 'isson.'
 
 @#36
 JP: 「世界がぜんたい幸福にならないうちは<n>個人の幸福はあり得ない」<n>宮沢賢治の言葉。
@@ -152,7 +152,7 @@ EN: "Until the whole world is happy,<n>there can be no individual happiness."<n>
 
 @#37
 JP: 「泣き面に蜂」<n>泣いているところに、さらに蜂に刺されること。<n>転じて、不運が重なることを言う。
-EN: 'A bee on a crying face.'<n>Getting stung by a bee when you're already crying.<n>A Japanese saying about one misfortune following another.
+EN: 'A bee on a crying face': getting stung while crying. A Japanese saying for one misfortune after another.
 
 @#38
 JP: 「己の欲せざるところ、人に施すことなかれ」<n>孔子の言葉。
@@ -168,31 +168,31 @@ EN: The 'chohon' in 'chohonnin,' meaning 'the culprit,'<n>means making preparati
 
 @#41
 JP: 人が酸っぱいものを食べて口をすぼめるのは、<n>口をすぼませることで口の中に唾液をためて、<n>酸っぱさを中和しているのだと考えられている。
-EN: People are thought to pucker their lips when eating sour food<n>because it helps saliva collect in the mouth,<n>neutralizing the sourness.
+EN: We may pucker at sour food to pool saliva in the mouth, helping neutralize the sourness.
 
 @#42
 JP: 「味噌汁一杯三里の力」<n>味噌汁を一杯飲むと、三里（１２キロメートル）<n>歩いても疲れないほどに力がつくと言う。
-EN: 'One bowl of miso soup gives strength for three ri.'<n>It's said that one bowl gives you enough energy to walk<n>three ri, or twelve kilometers, without getting tired.
+EN: A saying claims one bowl of miso soup gives you the strength to walk three ri (12 km) without tiring.
 
 @#43
 JP: アゴを上げるしぐさには、相手を見下し、自分を<n>えらくみせたいという心理が働いている。相手より<n>自分が強いと虚勢を張りたい人がとるポーズである。
-EN: Raising the chin suggests looking down on someone<n>and wanting to seem important. It's a pose people use<n>to put on a show of being stronger than the other person.
+EN: A raised chin can signal contempt: a pose meant to make you seem important and stronger than the other person.
 
 @#44
 JP: お茶を入れるときは「一煎」。<n>飲むときは「一服」。<n>団子は「一串」。スイカは「一玉」。<n>カステラは「一釜」。
-EN: For tea, count each brewing as 'issen,'<n>and each serving as 'ippuku.'<n>Dumplings: 'hitokushi,' a skewer. Watermelons: 'hitotama,' a whole melon.<n>Castella cakes: 'hitokama,' a batch.
+EN: Japanese counters: tea brewed, 'issen'; tea drunk, 'ippuku'; dumplings, 'hitokushi' (skewer); watermelon, 'hitotama'; castella, 'hitokama' (batch).
 
 @#45
 JP: 「汽車」は中国語では自動車のこと。<n>電車のことは「火車」と書く。
-EN: The characters for 'kisha,' Japanese for a steam train, mean a car in Chinese.<n>The Chinese word for a train is written 'fire vehicle.'
+EN: The kanji for 'steam train' mean 'car' in Chinese. Train is 'fire vehicle'.
 
 @#46
 JP: ヨーロッパでは「右」には好意的な意味が、<n>「左」には不正や悪魔という意味合いがある。
-EN: In Europe, 'right' has favorable associations,<n>while 'left' suggests dishonesty or the devil.
+EN: In Europe, 'right' suggests good; 'left,' deceit or the devil.
 
 @#47
 JP: 星は、星の素になる物質ができるまでに<n>数百万年もかかる。そのあと、約１０００万年かけて<n>やっと星となる。そして、銀河系の星の<n>平均寿命は約５００億年と考えられている。
-EN: It takes millions of years for a star's raw material<n>to form, then about ten million more for it to become<n>a star. The average lifespan of a star in our galaxy<n>is thought to be about fifty billion years.
+EN: Star material takes millions of years to form, then 10 million to become a star. Our galaxy's stars are thought to live 50 billion years on average.
 
 @#48
 JP: 「底に落ちたことのない人間は、<n>上に上がることもない」<n>ロシアのことわざ。
@@ -200,7 +200,7 @@ EN: "Those who have never hit bottom<n>will never rise to the top."<n>A Russian 
 
 @#49
 JP: 「善は急げ」<n>善いことはすぐに実行せよ、という意味。
-EN: 'Waste no time doing good.'<n>It means you should put good intentions into action at once.
+EN: 'Do good without delay': put good intentions into action at once.
 
 @#50
 JP: 「清浄」は１０の-２１乗を表す数字。
@@ -208,19 +208,19 @@ EN: The Japanese number name 'seijo' represents 10^-21.
 
 @#51
 JP: 「気が置けない」<n>気遣いや遠慮のいらないこと。<n>気兼ねする意味の「気が置ける」の否定形。
-EN: 'Ki ga okenai': feeling no need for formality<n>or restraint around someone.<n>It's the negative of 'ki ga okeru', meaning to feel reserved.
+EN: 'Ki ga okenai' means feeling at ease. It negates 'ki ga okeru', or feeling reserved.
 
 @#52
 JP: 漢の時代は右上位で、左より右の方が貴ばれていたが、<n>唐の時代になると逆に左上位となった。<n>この時代の文化に大きく影響を受けた日本では、<n>左大臣の方が右大臣より上位の地位である。
-EN: In Han China, the right was honored above the left.<n>In the Tang era, the left took precedence instead.<n>Japan was heavily influenced by Tang culture,<n>so its Minister of the Left outranked its Minister of the Right.
+EN: Han China favored the right; Tang China favored the left. Tang influence made Japan's Minister of the Left outrank its Minister of the Right.
 
 @#53
 JP: ワサビの辛味成分は<n>揮発性のアリルイソチオシアネート。<n>ワサビを食べると口の中で揮発し、<n>鼻孔内で痛感を伝える受容体を刺激。<n>これがツーンという感覚を生むと考えられている。
-EN: Wasabi's pungent ingredient is<n>the volatile compound allyl isothiocyanate.<n>When you eat wasabi, it evaporates in your mouth<n>and stimulates pain receptors inside your nose.<n>This is thought to cause that stinging sensation.
+EN: Wasabi's allyl isothiocyanate evaporates in your mouth and stimulates pain receptors in your nose. This is thought to cause that sharp sting.
 
 @#54
 JP: 「野菜」は中国語では野草のこと。<n>野菜のことは「青菜」と書く。
-EN: The characters for Japan's 'yasai', or vegetables, mean wild plants in Chinese.<n>Vegetables are written 'qingcai'.
+EN: The kanji for 'yasai' mean wild plants in Chinese. Vegetables: 'qingcai'.
 
 @#55
 JP: 納豆１００グラムには、約１０００億個の<n>納豆菌が入っていると言われている。
@@ -228,15 +228,15 @@ EN: A 100-gram serving of natto is said to contain<n>about 100 billion natto bac
 
 @#56
 JP: 漢の時代、右には貴く左は卑しいとされていた。<n>そのために「右腕となる」といういい意味の言葉と、<n>「左遷」や「左前」は悪い意味の言葉が生まれた。
-EN: In Han China, the right was honorable and the left was lowly.<n>Hence positive phrases like 'right-hand man', while Japanese uses<n>'leftward transfer' for demotion and 'left-front' for financial trouble.
+EN: Han China prized right over left: 'right-hand man' is good; Japan's 'left' terms mean demotion or money woes.
 
 @#57
 JP: 「刹那」はほんの一瞬にも満たない短い感じ。<n>１０の-１８乗の表す数字。
-EN: 'Setsuna' suggests a time shorter than an instant.<n>It's also a Japanese name for the number 10^-18.
+EN: 'Setsuna': less than an instant, and a name for 10^-18.
 
 @#58
 JP: 人と対したときの腕の組み方には潜在的な意識があら<n>われる。高い位置で腕を組む場合は「威嚇」。<n>逆に低い位置で腕を組む場合は「防御」。<n>無意識に組んだ腕の高さで相手の心理が読める。
-EN: How you fold your arms when facing someone can reveal<n>your subconscious feelings. Folding them high means 'intimidation'.<n>Folding them low means 'defense'.<n>The height of someone's unconsciously folded arms can reveal their state of mind.
+EN: When facing someone, unconsciously crossed arms reveal your feelings: held high, they signal intimidation; held low, defense.
 
 @#59
 JP: 筆の数え方は「一管」。
@@ -256,11 +256,11 @@ EN: 'Kurouto hadashi', literally 'barefoot expert':<n>An amateur whose skills su
 
 @#63
 JP: お雛様の並びは関東と関西で逆。<n>唐の時代の左上位にのっとって<n>関西では男雛が左（向かって右）で、<n>女雛が右（向かって左）。<n>関東では西洋式の右上位にのっとっているため、<n>その逆になっている。
-EN: Hina dolls sit in opposite places in Kanto and Kansai.<n>Kansai follows the Tang custom of honoring the left:<n>The male sits on his left, the viewer's right,<n>and the female on her right, the viewer's left.<n>Kanto follows the Western custom of honoring the right,<n>so their positions are reversed.
+EN: Hina dolls swap places in Kanto and Kansai. Kansai follows Tang custom: the male sits left (your right), the female right (your left). Kanto follows Western custom, honoring the right, so they switch.
 
 @#64
 JP: 「国破山河在　城春草木深」　<n>杜甫「春望」の一節。
-EN: 'The nation lies ruined; mountains and rivers remain. Spring in the city; grass and trees grow thick.'<n>A passage from Du Fu's 'Spring View'.
+EN: Land ruined; hills, rivers endure. Spring weeds fill the city. Du Fu's 'Spring View'.
 
 @#65
 JP: 「好きこそものの上手なれ」<n>好きなことには天分があったり、熱中できるため、<n>上達も早く、上手になれるという意味。<n>反対に、天分もなくいつまでも下手なのに<n>懲りずにずっと好きな様子を<n>「下手の横好き」と言う。
@@ -268,11 +268,11 @@ EN: 'Love makes you skillful.'<n>Talent or enthusiasm for something you enjoy<n>
 
 @#66
 JP: 「弾指」は指を弾くほどの間、という意味。<n>１０の-１７乗を表す数字。
-EN: 'Danshi' means the time it takes to snap your fingers.<n>It's also a Japanese name for the number 10^-17.
+EN: 'Danshi': a finger snap's worth of time, and the number 10^-17.
 
 @#67
 JP: 「のどもと過ぎれば熱さも忘れる」は格言だが、<n>実際に食道から先の消化管には温度を感じる場所<n>「温点」は存在しない。
-EN: 'Once past the throat, the heat is forgotten' is a maxim.<n>In fact, beyond the esophagus, the digestive tract has no<n>'warm spots' that sense temperature.
+EN: As the saying goes, heat is forgotten past the throat. The gut beyond the esophagus has no heat-sensing spots.
 
 @#68
 JP: 朝顔は平安朝の始めの頃に<n>薬として中国から輸入された。
@@ -292,7 +292,7 @@ EN: 'Shunsoku' means the briefest of moments.<n>It is a Japanese name for the nu
 
 @#72
 JP: ヘビのウロコは頭に近い部分は横幅に広く、<n>後方は二列に並んでいる。このウロコの境目が<n>ヘビの胴体とシッポの境目でもある。
-EN: A snake's belly scales are broad toward the head, while those farther back form two rows.<n>The change marks where its body ends and its tail begins.
+EN: A snake's broad belly scales become two rows near the rear. That change marks where its body ends and tail begins.
 
 @#73
 JP: 動物は、恐怖や緊張を緩和しようとするとき<n>毛繕いや目をそらすなどの行動をとる。<n>それを「転位行動」という。
@@ -312,7 +312,7 @@ EN: 'Fine as can be, cats all sooty!'<n>A playful rendering of a Japanese saying
 
 @#77
 JP: ナマケモノの胃は大きくくびれている上に、<n>脳への伝達が遅いため、胃の食べ物が腸に送り出す<n>までに１カ月以上もかかると言う。
-EN: A sloth's stomach has deep constrictions, and signals to its brain travel slowly.<n>Food is said to take over a month to pass from its stomach to its intestines.
+EN: A sloth's pinched stomach and slow brain signals mean food may take over a month to reach its intestines.
 
 @#78
 JP: 「ヘソで茶を沸かす」<n>あまりにも、ばかばかしくて<n>あきれてしまうこと。
@@ -324,7 +324,7 @@ EN: 'Even brushing sleeves is a bond from a past life.'<n>The saying means that 
 
 @#80
 JP: スケートリンクの氷は不純物の少ない水で作られる。<n>５０度程度に沸かしたものを霧状にしてまいて、<n>一気に冷却。という作業を何回か繰り返して、<n>滑走に耐えられるリンクを作りあげると言う。
-EN: Ice rinks are made with very pure water.<n>The water is heated to about 50 degrees Celsius, sprayed as a mist, then rapidly frozen.<n>Repeating this process builds ice strong enough for skating.
+EN: Rink ice uses pure water heated to 50 C, sprayed as mist and rapidly frozen. Repeated layers make it strong enough to skate on.
 
 @#81
 JP: 「恒河沙」は「ごうがしゃ」と読む。<n>ガンジス川の砂という意味で、<n>砂ほどの数の多さを指す。<n>ちなみに１０の５２乗を表す数字。
@@ -340,23 +340,23 @@ EN: During a long fast, once the stomach is empty, the body breaks down fat and 
 
 @#84
 JP: 「大根役者」<n>消化のいい大根は、めったにあたらないので、<n>転じてあたらない役者のことを大根役者と<n>呼ぶようになった。
-EN: 'Daikon actor' means a bad actor.<n>Daikon is easy to digest and rarely makes you sick. In Japanese, getting sick and scoring a hit both use 'ataru.'<n>So an actor who never scores a hit is a 'daikon actor.'
+EN: 'Daikon actor' means a flop: daikon rarely causes food poisoning. In Japanese, 'ataru' means both to get food poisoning and to score a hit.
 
 @#85
 JP: 臆病ものほど大声でしゃべりたがる。<n>自分の自信のなさを隠すために、<n>声の大きさだけを武器にしているのである。
-EN: The more timid someone is, the louder they tend to talk.<n>They use sheer volume as their only weapon to hide their lack of confidence.
+EN: Cowards often talk loud to hide their lack of confidence. Volume is their only weapon.
 
 @#86
 JP: 「無量大数」とは１０の６８乗の数。<n>とにかくすっごく大きい数、という意味。
-EN: 'Muryo taisu' is the Japanese name for 10^68.<n>It means a really, really enormous number.
+EN: 'Muryo taisu' means 10^68, an enormous number.
 
 @#87
 JP: 西日本と東日本で電気の周波数が異なる。<n>東京はドイツ製発電機。大阪はアメリカ製発電機。<n>明治２８年に誕生した東京と大阪の<n>２つの電力会社がそれぞれに別の外国製の発電機を<n>独自に輸入したことに端を発している。
-EN: Eastern and western Japan use different electrical frequencies.<n>It began when two power companies established in Tokyo and Osaka in 1895 independently imported generators.<n>Tokyo chose German generators, while Osaka chose American ones.
+EN: Japan's east and west use different power frequencies because two firms founded in 1895 chose different generators: German for Tokyo, American for Osaka.
 
 @#88
 JP: 何も書かれてないハガキの数え方は「一葉」、<n>書いて送ると「一通」。
-EN: In Japanese, a blank postcard is counted as 'ichiyo.'<n>Once written on and sent, it is counted as 'ittsuu.'
+EN: In Japanese: blank postcard, 'ichiyo'; written and sent, 'ittsuu.'
 
 @#89
 JP: 「急がば回れ」<n>急いでいるときには、少し遠回りになろうとも、<n>安全で確実な道を選んだ方が、<n>結果的に早く着くという意味。
@@ -364,7 +364,7 @@ EN: 'When in a hurry, take the long way around.'<n>It means that choosing a safe
 
 @#90
 JP: 地震雷火事親父。<n>この世で恐ろしいものを順にあげたもの。
-EN: 'Earthquakes, lightning, fires, fathers.'<n>An old Japanese list of the world's scariest things, in order.
+EN: An old fear ranking: earthquakes, lightning, fires, then fathers.
 
 @#91
 JP: せんべい、ポテトチップスのように、<n>パリッとした食感の食品は、<n>食品を構成している分子が不規則に並んでいて、<n>「ガラス状態」という壊れやすい固体になっている。<n>ここに水分や温度の上昇が加わると分子が動きだす。<n>この状態を「しける」と言う。
@@ -380,11 +380,11 @@ EN: 'Faith can make even a sardine's head sacred.'<n>Even something as humble as
 
 @#94
 JP: 会ったばかりなのになれなれしい人はさみしがりやだ。<n>初対面の警戒もなく、せっかちに友達同士のような<n>関係をとりつくろう態度は、一見強気に見えるが、<n>実は友達が少ないさみしがりやゆえ、と考えられる。
-EN: People who act overly familiar at first may be lonely.<n>Rushing to act like old friends without any initial caution<n>may seem bold, but it could actually mean<n>they are lonely and have few friends.
+EN: Acting like old friends on first meeting may look bold, but it can signal loneliness and a lack of friends.
 
 @#95
 JP: 失業率は義務教育を終えた１５歳以上を対象に、<n>職探しをしたか、月末１週間に少しでも働いたかの<n>質問によって算出される。<n>職探しをし、それでも月末１週間に少しも<n>働けなかったという人が「失業者」となる。
-EN: The unemployment rate covers people aged 15 and up<n>who have finished compulsory schooling. It asks if they<n>sought work or worked at all in the month's final week.<n>Those who sought work but did none at all that week<n>are counted as unemployed.
+EN: Unemployment figures cover people aged 15+ who finished compulsory schooling. Jobseekers who did no work in the month's final week count as unemployed.
 
 @#96
 JP: 琴の数え方は「一面」。
@@ -404,7 +404,7 @@ EN: Under Japan's Civil Code, you turn a year older<n>the day before your birthd
 
 @#100
 JP: 一富士二鷹三茄子<n>初夢で見ると縁起のいいものの順番。
-EN: First, Mount Fuji. Second, a hawk. Third, an eggplant.<n>The ranking of lucky sights in your first dream of the year.
+EN: Lucky first dreams of the year, ranked: Mt. Fuji, a hawk, then an eggplant.
 
 @#101
 JP: 「魚を猫にあずける」<n>もっとも信用おけない相手に大事なものを<n>預けてしまうという意味。
@@ -412,7 +412,7 @@ EN: 'Leaving a cat in charge of a fish.'<n>This means entrusting something preci
 
 @#102
 JP: 髪をしきりに触る、頭に手をやる、顔を触るなど、<n>無意味な動作を繰り返すのは、不安の表れ。<n>不安や不満を埋めたいという思いのときに起こる<n>「自己親密行動」である。
-EN: Repeatedly fiddling with your hair, touching your head<n>or face for no reason can be a sign of anxiety.<n>This is 'self-soothing behavior', used to ease<n>feelings of anxiety or dissatisfaction.
+EN: Repeatedly touching your hair, head or face can signal anxiety. This 'self-soothing' aims to ease worry or discontent.
 
 @#103
 JP: 櫛の数え方は「一枚」。
@@ -420,15 +420,15 @@ EN: The Japanese counter for a comb is 'mai': 'ichi-mai'.
 
 @#104
 JP: 除夜の鐘は１０８回ならされる。<n>その数は人間の煩悩の数とされている。<n>韓国の除夜の鐘は３３回だけ。
-EN: New Year's Eve bells ring 108 times in Japan.<n>This is said to be the number of human worldly desires.<n>In Korea, the bells ring only 33 times.
+EN: Japan's New Year's Eve bells ring 108 times for 108 worldly desires. Korea's ring 33.
 
 @#105
 JP: 「毒にも薬にもならぬ」<n>害にならないが、利益も生まない。<n>可もなく不可もない、どうでもいい存在。
-EN: 'Neither poison nor medicine.'<n>Something that does no harm but offers no benefit.<n>Neither good nor bad; something of no consequence.
+EN: 'Neither poison nor medicine': harmless but useless. Neither good nor bad, and of little consequence.
 
 @#106
 JP: ニオイの分子は鼻腔内にある嗅細胞がとらえ、嗅神経<n>によって脳にニオイとして伝わる。<n>同じニオイを嗅ぎ続けると嗅細胞は興奮状態が続くた<n>め、嗅覚細胞内ではその興奮を止める機能が働きだす。<n>最初は感じた強いニオイも嗅いでいるうちに徐々に感<n>じなくなるのは、この現象によるものである。
-EN: Smell receptor cells in your nose catch odor molecules.<n>The olfactory nerves carry the signals to your brain.<n>Continued exposure to one smell keeps the cells active,<n>so a mechanism inside them starts suppressing the signals.<n>That's why even a strong smell gradually fades<n>as you keep breathing it in.
+EN: Cells in your nose detect odor molecules and send signals to your brain via smell nerves. A constant smell triggers a mechanism that dampens the cells' activity, so even a strong smell slowly fades.
 
 @#107
 JP: 一番面積が大きい都道府県は、北海道。<n>一番面積が小さいのは、香川県。
@@ -440,11 +440,11 @@ EN: Japan's earliest chopsticks were a single stick.<n>People bent it to eat wit
 
 @#109
 JP: 「三が日間のにらみ鯛」<n>正月の三が日、祝い膳に鯛の姿焼きを飾っておき、<n>４日目には野菜などと一緒に鍋料理にして食べる<n>という、京都や大阪の風習。
-EN: 'Three days of staring at sea bream.'<n>In this Kyoto and Osaka custom, a whole roast sea bream<n>decorates the New Year's table for three days. On day four,<n>it's eaten in a hot pot with vegetables and other ingredients.
+EN: Kyoto and Osaka's 'staring sea bream': a whole roast fish decorates the New Year's table for three days, then goes into a vegetable hot pot on day four.
 
 @#110
 JP: 指を指しながら話すのは相手への「威嚇信号」。<n>相手を下に見ながら指示をくだすというような、<n>相手には威圧感と不快感を与えるしぐさである。
-EN: Pointing at someone while speaking is a 'threat signal'.<n>It suggests you're looking down on them and giving orders,<n>making them feel intimidated and uncomfortable.
+EN: Pointing as you speak can feel threatening, as if you're looking down on someone and ordering them around.
 
 @#111
 JP: 蝶々の数え方は「一頭」。
@@ -452,11 +452,11 @@ EN: Japanese counts butterflies with 'to,'<n>the counter used for large animals.
 
 @#112
 JP: 「子はかすがい」<n>かすがいとは、二つの木材をつなぎとめる<n>コの字型の釘。子供への愛情は、夫婦の仲を<n>つなぎとめるだけの強い存在であるという意味。
-EN: 'Children are the ties that bind.'<n>The Japanese saying compares children to a U-shaped nail<n>that joins two pieces of wood. Love for their children<n>can be strong enough to hold a marriage together.
+EN: 'Children are the ties that bind.' Like a U-shaped nail joining wood, love for their children can hold a couple together.
 
 @#113
 JP: 人は味わうときには食べ物の発するニオイもその食べ<n>物の味の一部として認識している。そのため、鼻をつ<n>まんで食べると口呼吸をすることになり、食べ物のニ<n>オイを鼻腔で感知しにくくなるため、味がわかなくな<n>る。鼻がつまっていると味がわかりにくいのも同様。<n>舌はきちんと味を感知しているにもかかわらずだ。
-EN: Our brains treat a food's smell as part of its flavor.<n>Pinching your nose makes you breathe through your mouth,<n>so the food's aroma has trouble reaching your nasal cavity.<n>This makes flavors harder to recognize.<n>The same happens when your nose is blocked,<n>even though your tongue still detects tastes normally.
+EN: Smell is part of flavor. Pinching your nose or having a stuffy nose blocks food aromas, making food seem tasteless even though your tongue still detects taste.
 
 @#114
 JP: 「明日できる仕事を今日するな。<n>他人ができる仕事を自分がするな」<n>古代ローマ人の格言。
@@ -468,15 +468,15 @@ EN: Sea cucumber is written 'sea mouse' in Japanese.<n>In Chinese, its name is w
 
 @#116
 JP: 日本人は江戸時代まで、手を振らずに、右手と右足、<n>左手と左足を一緒に出して歩く「ナンバ」歩きをして<n>いた。今の歩き方になったのは明治以降である。
-EN: Until the end of the Edo period, Japanese people used<n>a walk called 'nanba.' Without swinging their arms,<n>they moved each arm forward with the leg on the same side.<n>The modern walking style came in during the Meiji era.
+EN: Before Meiji, Japanese used 'nanba': each arm moved with the leg on that side. Modern walking began in Meiji.
 
 @#117
 JP: 店先に飾られている「盛り塩」。<n>古代中国で皇帝に自分の家に立ち寄ってもらうため、<n>側室たちが皇帝の乗った牛車を立ち止まらせるために、<n>牛の好物の塩を玄関先においたことに始まる。<n>転じて、客を呼ぶおまじないになった。
-EN: The little piles of salt outside shops trace back<n>to ancient China. Hoping the emperor would visit,<n>his consorts put salt outside their doors<n>to tempt the ox pulling his carriage to stop.<n>This later became a charm for attracting customers.
+EN: Shopfront salt piles began in ancient China. Consorts left salt outside to stop the emperor's carriage by tempting his ox. This became a charm to attract customers.
 
 @#118
 JP: 羊羹のような棒状の菓子は<n>「棹物菓子」と呼び、<n>数も「一棹」と数える。<n>箪笥も同じく「一棹」と数える。<n>しかし羊羹は切ると「一切」になる。
-EN: Log-shaped sweets such as yokan bean jelly<n>are called 'saomono,' or 'pole sweets.'<n>They use the counter 'sao,' meaning 'pole.'<n>Chests of drawers use the same counter.<n>Once yokan is cut up, however, it is counted in slices.
+EN: Log-shaped sweets like yokan bean jelly are called 'pole sweets' and counted with 'sao' (pole). Chests of drawers use 'sao' too. Cut yokan is counted in slices.
 
 @#119
 JP: 「のれんに腕押し」<n>風になびくのれんに腕を押したところで、<n>なんの手応えもない、という意味。<n>転じて、期待しても張り合いのないこと、<n>力をそそいでも手応えのないことを言う。
@@ -484,7 +484,7 @@ EN: 'Pushing against a shop curtain.'<n>Pushing a curtain fluttering in the bree
 
 @#120
 JP: 森の中で植物が放出しているフィトンチッドという<n>揮発性の高い物質には、人のストレスをやわらげ、<n>安らぎを与える効果があると考えられている。<n>いわゆる「森林浴」効果である。
-EN: Plants in forests release volatile chemicals<n>called phytoncides. These are thought to ease stress<n>and give people a sense of peace.<n>This is the effect known as 'forest bathing.'
+EN: Forest plants release airborne chemicals called phytoncides, thought to ease stress and bring calm. This is the 'forest bathing' effect.
 
 @#121
 JP: 「朝茶に別れるな」<n>朝のお茶は災いよけになるので、<n>必ず飲むものであるという意味。
@@ -492,11 +492,11 @@ EN: 'Never part with your morning tea.'<n>Morning tea is said to ward off misfor
 
 @#122
 JP: Ｖサインはもともとチョキをした手の甲の側を相手に<n>見せて「侮辱」を意味するサインだった。指も少し曲<n>げていた。手の平側を見せる「勝利」のサインとなっ<n>たのは第二次世界大戦中に、ナチスへの抵抗として勝<n>利をあらわす頭文字として「Ｖ」を落書きしたことに<n>由来する。
-EN: The original V sign was an insult, made with<n>two slightly bent fingers and the back of the hand<n>facing the other person. The palm-out victory sign<n>grew out of resistance to the Nazis during World War II,<n>when people scrawled 'V,' the first letter of 'victory,'<n>as graffiti.
+EN: The V sign was once an insult: two slightly bent fingers, back of the hand facing out. The palm-out victory sign came from WWII anti-Nazi graffiti: 'V' for 'victory.'
 
 @#123
 JP: 日本では子供のヘソの緒をとっておく風習がある。<n>「日本書記」にはすでにヘソの緒を保存していた<n>と思われる記述が残っていると言う。<n>ちなみに欧米などにはヘソの緒をとっておく風習は<n>見られない。
-EN: Japanese families traditionally keep their children's<n>umbilical cords. The Nihon Shoki, an ancient chronicle,<n>is said to contain passages suggesting this custom<n>already existed then. Keeping umbilical cords<n>is not a tradition in Europe or America.
+EN: Japanese families keep children's umbilical cords, a custom hinted at in the ancient Nihon Shoki. Europe and America have no such tradition.
 
 @#124
 JP: 小春とは、<n>陰暦の十月のこと。
@@ -520,11 +520,11 @@ EN: 'Gochiso,' meaning 'feast,' combines a polite prefix<n>with 'chiso,' meaning
 
 @#129
 JP: 大人にダメと言われたり、禁止されたりするほど、<n>かえってしたくなるのは「心理的抵抗」という<n>心の働きによる。<n>ダメという壁が立ちはだかることで、かえって<n>その壁に意識が集中してしまうという心理活動だ。
-EN: Wanting something more when adults forbid it<n>is caused by 'psychological reactance.'<n>When someone puts up a barrier by saying 'no,'<n>your attention becomes fixed on that barrier,<n>making you want to cross it all the more.
+EN: Wanting something more when adults forbid it is called 'psychological reactance.' Saying 'no' puts up a barrier that draws your attention, making you want to cross it.
 
 @#130
 JP: 「乗りかかった船」<n>乗ってこぎ出してしまった船。<n>もはや途中で降りることも止めることも<n>できない状況であることを言う。
-EN: 'Already aboard the boat.'<n>Once you've boarded and the boat has set off,<n>you can no longer stop it or get off halfway.<n>It describes being committed to seeing something through.
+EN: 'Already aboard the boat.' Once you've set sail, you can't stop or get off midway. It means being committed to seeing things through.
 
 @#131
 JP: 「マリアージュ」とは結婚のことだが、<n>ワイン用語では<n>料理とワインの相性のこと。
@@ -532,7 +532,7 @@ EN: "Mariage" means marriage.<n>In wine terminology, it refers to how well<n>foo
 
 @#132
 JP: 「濡れ手で粟」<n>濡れた手を入れればそれだけで粟はたくさんつかめる。<n>転じて、たいした労を伴わず、大もうけすること。
-EN: "Wet hands in millet"<n>Dip wet hands into millet, and plenty sticks to them.<n>The saying means making a big profit with little effort.
+EN: 'Wet hands in millet.' Grain sticks to wet hands: an image of making big profits with little effort.
 
 @#133
 JP: 火を通して食べる「調理」という技術を<n>手にしている動物は人間だけである。
@@ -544,7 +544,7 @@ EN: "Bitten by your own dog"<n>Like being bitten by a dog you raised yourself.<n
 
 @#135
 JP: 男物と女物ではシャツのボタンの穴が逆。<n>シャツが生まれた頃のヨーロッパでは、<n>上流社会の女性は使用人に着せてもらっていたため、<n>着せる人が便利なようにと<n>ボタンホールを逆にしたと言われている。
-EN: Men's and women's shirts have buttonholes on opposite sides.<n>It's said that when shirts first appeared in Europe,<n>upper-class women were dressed by servants.<n>The buttonholes were reversed<n>to make the servants' job easier.
+EN: Men's and women's shirts button on opposite sides. It's said European ladies once had servants dress them, so their buttons were reversed to make dressing them easier.
 
 @#136
 JP: 「ごますり」<n>すり鉢でごまをすると、ごまが鉢のあちこちに<n>こびりつくことから、誰にでもこびへつらう人を<n>ごますりと言うようになった。
@@ -568,7 +568,7 @@ EN: "Prayers in a horse's ear"<n>A horse can't appreciate Buddhist prayers.<n>Th
 
 @#141
 JP: 舌や口腔粘膜の表層を覆っている角化層は、<n>年齢とともに厚くなる。<n>そのため大人になると猫舌が減ると考えられている。
-EN: The keratinized layer covering the tongue<n>and the lining of the mouth thickens with age.<n>This is thought to make adults less sensitive to hot food.
+EN: The tongue and mouth's outer layer thickens with age. This may explain why adults handle hot food better.
 
 @#142
 JP: 「旬」<n>魚や野菜などの出さかりの時のことを旬と呼ぶ。<n>旬の食物は、いちばん味がよい上に、栄養価も高い。<n>上旬、中旬、下旬を表す「旬」でもあり、<n>「十日」という意味も持つ。
@@ -576,11 +576,11 @@ EN: "Shun"<n>This means the peak season for foods like fish and vegetables.<n>Fo
 
 @#143
 JP: 「鳩に豆鉄砲」<n>豆鉄砲をくらって目を丸くしている鳩の様子から、<n>突然のことに驚き、きょとんとしてしまう状況のこと。
-EN: "A pigeon hit by a peashooter"<n>Like a pigeon staring wide-eyed after being hit by a pea,<n>it means being startled and left looking utterly bewildered.
+EN: 'A pigeon hit by a peashooter.' Like the bird's wide-eyed stare, it means being startled and bewildered.
 
 @#144
 JP: 将棋の駒。「歩」の裏に書かれている文字は「と」と<n>読めるが、実際には「金」の略字である。
-EN: The character on the back of a shogi pawn looks like "to,"<n>but it's actually a shortened form of "kin," meaning gold.
+EN: A shogi pawn's back looks like 'to,' but is short for 'kin,' meaning gold.
 
 @#145
 JP: 日本三景。<n>「松島」「厳島」「天橋立」
@@ -588,11 +588,11 @@ EN: Japan's Three Scenic Views:<n>Matsushima, Itsukushima and Amanohashidate.
 
 @#146
 JP: 「嘘も方便」<n>方便とは仏教で衆生（この世に生きているすべてのも<n>の）を導くための手段のこと。<n>嘘は本来悪いことではあるが、<n>時と場合によっては必要なことがあるという意味。
-EN: "Even a lie can serve a purpose"<n>In Buddhism, an "expedient means" is a way<n>to guide all living beings toward enlightenment.<n>The saying means that although lying is wrong,<n>circumstances can sometimes make it necessary.
+EN: 'Even lies can serve a purpose.' In Buddhism, skillful means guide all living beings. The saying means that although lying is wrong, it can sometimes be necessary.
 
 @#147
 JP: 耳の鼓膜の裏側には、舌の前方２／３部分の<n>味覚を伝える鼓索神経が通っている。<n>右耳側は舌の右側、左耳側は<n>舌の左側に対応して、味覚を伝達している。
-EN: Behind each eardrum runs the chorda tympani nerve,<n>which carries taste signals from the front two-thirds of the tongue.<n>The right ear's nerve serves the right side of the tongue,<n>and the left ear's nerve serves the left.
+EN: The chorda tympani behind each eardrum carries taste from the tongue's front two-thirds: right ear, right side; left ear, left side.
 
 @#148
 JP: 「身土不二」<n>身と土は決して別々なものではなく、<n>一緒だという意味。<n>人にとっても大地は母なるものである。
@@ -604,7 +604,7 @@ EN: "Rice-bran joy"<n>You see rice bran and hope there's rice too,<n>but there's
 
 @#150
 JP: 夜空を彩る花火の色は、金属粉が燃える際の色。<n>ストロンチウム、ナトリウム、カリウムが、<n>それぞれ赤、黄、紫の色になり、<n>金属粉の調合により、花火の多彩な色が生まれる。
-EN: Fireworks get their colors from burning metal powders.<n>Strontium, sodium and potassium produce<n>red, yellow and purple respectively.<n>Different mixtures create the many colors that light up the sky.
+EN: Fireworks use burning metal powders: strontium makes red, sodium yellow and potassium purple. Mixing the powders creates many colors.
 
 @#151
 JP: 世界四大文明。<n>「エジプト文明」「メソポタミア文明」<n>「インダス文明」「黄河文明」
@@ -632,7 +632,7 @@ EN: Shakespeare's four great tragedies:<n>Hamlet, Othello,<n>Macbeth and King Le
 
 @#157
 JP: 石の太鼓橋。そのアーチが落ちることなくあるのは、<n>中心にある「要石」が石と石との力の均衡を保って、<n>支え合っているからだ。宙に浮いていて落ちないのは、<n>力学的に計算されつくされて、この要石があるからだ。
-EN: A stone bridge's arch stays up thanks to its keystone.<n>This central stone balances the forces between the stones,<n>allowing them to support one another.<n>Carefully calculated forces and the keystone keep the arch aloft.
+EN: A stone arch bridge stays up thanks to its central keystone. It balances the forces between the stones so they support each other.
 
 @#158
 JP: ガンジーは、生涯で合計１８回も<n>断食を行っている。<n>一番長いものは、２１日にも及んだ。
@@ -640,7 +640,7 @@ EN: Gandhi fasted a total of 18 times<n>over the course of his life.<n>His longe
 
 @#159
 JP: 「生き馬の目を抜く」<n>生きた馬の目玉を抜き取ってしまうほど、<n>すばしっこくて油断ならない、という意味。
-EN: "Plucking out a living horse's eye"<n>Describes someone so quick and cunning they could steal<n>a living horse's eye. Someone you can't let your guard down around.
+EN: "Steal a live horse's eye": be so quick and cunning that no one can let their guard down around you.
 
 @#160
 JP: 「寝た子を起こす」<n>ようやく静かになって寝ついた赤ん坊を、<n>わざわざ起こして泣かすようなこと。<n>せっかくおさまっている事柄に対して、<n>いらぬ手出しをしてぶりかえさせるさまを言う。
@@ -664,11 +664,11 @@ EN: The opposite of "resistance" is "submission."
 
 @#165
 JP: 砂時計の砂はいつ入れられるか。<n>ガラスの円筒にまず砂を入れてから中を真空にし、<n>ガラスの口を閉じて成形する。
-EN: When does the sand go into an hourglass?<n>First, sand is put in a glass cylinder and the air is removed.<n>Then the opening is sealed and the glass is shaped.
+EN: When is sand put in an hourglass? Before the air is removed and the glass is sealed and shaped.
 
 @#166
 JP: 大哲学者ソクラテスは、<n>妻のクサンチッペにはいつもののしられていた。<n>妻のグチが始まると<n>ソクラテスは家にいたたまれなくなり、<n>また街に出て市民に政治の理想を説いたと言う。
-EN: The great philosopher Socrates<n>was always being scolded by his wife, Xanthippe.<n>They say that whenever she started complaining,<n>he couldn't bear to stay at home,<n>so he'd go into town to teach the citizens his political ideals.
+EN: Socrates' wife, Xanthippe, often scolded him. They say her nagging drove the great philosopher out of the house to teach townsfolk his political ideals.
 
 @#167
 JP: 「寝る子は育つ」<n>よく眠る子は丈夫に育つという意味。<n>寝てても起きてても子供は自然に育つのだと、<n>子育てを励ます言葉でもある。
@@ -676,7 +676,7 @@ EN: "Sleeping children grow"<n>Means children who sleep well grow up strong.<n>I
 
 @#168
 JP: 「にべもない」の「ニベ」とは魚の名前。<n>腹の浮き袋からつくったニカワ（ニベ）は<n>ベタベタくっつくことから転じて、お世辞の意味。<n>「にべもない」というのはその否定形。
-EN: Nibe in "nibe mo nai," meaning "curt," is a fish.<n>Glue made from its swim bladder is also called nibe.<n>Its stickiness gave the word the meaning "flattery."<n>"Nibe mo nai" is the negative: having none of that.
+EN: Nibe is a fish whose swim bladder makes sticky glue. That stickiness came to mean "flattery." "Nibe mo nai," or "curt," means having none of it.
 
 @#169
 JP: 「借りてきた猫」<n>自分の家にいるときとちがって、<n>小さくなっておとなしくしている猫のように、<n>普段とは違って、妙におとなしくしている様子のこと。<n>緊張してかしこまってるさま。
@@ -692,47 +692,47 @@ EN: Plato's real name was Aristocles.<n>His broad build earned him the name Plat
 
 @#172
 JP: 「旅の恥はかき捨て」<n>旅先には知っている人もいないので、<n>多少恥ずかしいことをしてもその場かぎりのこと、<n>と、普段しないような行動や言動をするさま。<n>あるいは、そういう気分になるということ。
-EN: "Leave your shame on the road."<n>When traveling where nobody knows you, you may say or do things you normally wouldn't, figuring any embarrassment will stay there when you leave. The saying also describes that carefree mood.
+EN: "Leave your shame on the road." With no one you know around, you may do things you normally wouldn't, thinking any embarrassment stays behind when you leave.
 
 @#173
 JP: 「ごまめの歯ぎしり」<n>ごまめとはカタクチイワシの干したもの。<n>力のない弱いものが、勝負にもなってないのに<n>悔しがってる様子。相手には何の影響もなく、<n>無駄なこと。
-EN: "A dried anchovy grinding its teeth."<n>The Japanese word "gomame" means dried anchovy.<n>The saying describes someone weak fuming over a contest they never stood a chance in. Their anger has no effect on their opponent and achieves nothing.
+EN: "A dried anchovy grinding its teeth." Gomame means dried anchovy. It describes the weak fuming over a hopeless contest: their anger achieves nothing and leaves their rival unfazed.
 
 @#174
 JP: 核に破壊されても通信を確保する手段の模索から、<n>インターネットは生まれた。<n>アメリカの軍事目的だったのだ。
-EN: The internet grew out of a search for a way to keep communications working even after a nuclear attack.<n>Its original purpose was to serve the U.S. military.
+EN: The internet began as a U.S. military effort to keep communications working after a nuclear attack.
 
 @#175
 JP: 「金のわらじで探す」は、<n>「キン」のわらじではなく<n>金属性を意味する「カネ」のわらじ。<n>丈夫なわらじを履いて根気よく探す、という意味。
-EN: "Search in metal sandals."<n>The character for "metal" can also mean "gold," but here it means ordinary metal.<n>The saying means to search patiently and persistently, as if wearing sandals that never wear out.
+EN: In "search in metal sandals," the word is kane (metal), not kin (gold). It means to search patiently in sandals that won't wear out.
 
 @#176
 JP: ロダンの彫刻「考える人」は、ダンテの「神曲」をイ<n>メージして作られた。それゆえ、彼は考えているので<n>はなく、地獄の門の上で、地獄で苦しむ人を「見つめ<n>ている人」なのである。
-EN: Rodin's sculpture "The Thinker" was inspired by Dante's "Divine Comedy."<n>Thus, he isn't thinking: he is "watching" the souls suffering in hell from his perch atop the Gates of Hell.
+EN: Inspired by Dante's Divine Comedy, Rodin's Thinker is really a watcher, gazing at souls suffering in hell from atop the Gates of Hell.
 
 @#177
 JP: 「真理も友も、ともに敬愛すべきであるが、<n>私は、友より以上に真理を尊重する」<n>師プラトンのイデア説に反論し、<n>独自の道を進んだアリストテレスは、<n>世間の非難にそう答えた。
-EN: "Both truth and friends deserve our love,<n>but I value truth more highly than friendship."<n>Aristotle gave this answer to his critics after challenging his teacher Plato's theory of Forms and following his own path.
+EN: "I cherish friends and truth, but truth comes first." Aristotle said this to his critics after rejecting his teacher Plato's theory of Forms and going his own way.
 
 @#178
 JP: 「帯に短し、たすきに長し」<n>その布は、帯にするには短すぎ、<n>かといってたすきにするには長過ぎて不便だ。<n>転じて、中途半端で使い物にならないことを言う。
-EN: "Too short for a sash, too long for a sleeve tie."<n>A piece of cloth is too short to wrap around the waist, yet awkwardly long for tying back sleeves.<n>The saying describes something that falls between two uses and suits neither.
+EN: "Too short for a sash, too long to tie back sleeves." The cloth suits neither use. This saying describes something too in-between to be useful.
 
 @#179
 JP: 「二階から目薬」<n>一階にいて二階の人に目薬をさしてもらう。<n>転じて、まわり遠くてもどかしく、思いどおりに<n>ならない様子を言う。
-EN: "Eye drops from upstairs."<n>Imagine standing downstairs while someone upstairs tries to put drops in your eyes.<n>The saying describes a roundabout, frustrating approach that just won't work as intended.
+EN: "Eye drops from upstairs": someone upstairs tries to put drops in your eyes below. It means a roundabout, frustrating approach that won't work.
 
 @#180
 JP: 「犯罪を犯す」というのは<n>表現が重複している。<n>罪を犯すのが、犯罪だ。
-EN: The Japanese phrase "hanzai o okasu,"<n>meaning "commit a crime," is redundant:<n>"hanzai" already means committing an offense.
+EN: In Japanese, "hanzai o okasu" ("commit a crime") is redundant: hanzai already means committing an offense.
 
 @#181
 JP: 囲碁の碁石は、白と黒とでは大きさが異なる。<n>目の錯覚によって白石は黒石より大きく見えるため、<n>あらかじめ黒石は大きめにつくってある。
-EN: Black and white Go stones differ in size.<n>An optical illusion makes white stones look larger, so black stones are made slightly bigger to compensate.
+EN: White Go stones look bigger due to an optical illusion, so black stones are made slightly larger to compensate.
 
 @#182
 JP: 「絃が強すぎると切れる。弱いと弱いでまた鳴らぬ。<n>ほどほどの調子にしめて、上手にかきならすがよい」<n>という農夫の歌う民謡を聞き、<n>仏陀は「中道」をひらめいた。
-EN: "A string pulled too tight will snap.<n>Too loose, and it makes no sound.<n>Tune it just right, and play it well."<n>Hearing a farmer sing this folk song inspired the Buddha's idea of the Middle Way.
+EN: A farmer sang: "Too tight, a string snaps; too loose, it won't sound. Tune it just right." This inspired the Buddha's Middle Way.
 
 @#183
 JP: 「爪に火をともす」<n>ろうそくのかわりに爪の先に火をつけて、<n>明かりのかわりにすること。<n>転じて、とってもケチなこと。
@@ -740,19 +740,19 @@ EN: "Light a fire on your fingernail."<n>Burning the tips of your fingernails fo
 
 @#184
 JP: 「穴があったら入りたい」<n>恥ずかしくて、身を隠してしまいたい。<n>身のおきばがないほどに恥ずかしいという思い。
-EN: "I wish I could crawl into a hole."<n>Being so embarrassed that you want to hide away.<n>You feel so ashamed, you don't know where to put yourself.
+EN: "I wish I could crawl into a hole." It means feeling so embarrassed that all you want to do is hide.
 
 @#185
 JP: 「おざなり」は意識的にいいかげん。<n>「なおざり」は無意識におろそか。<n>似ているが、違う。
-EN: "Ozanari" means knowingly doing a slapdash job.<n>"Naozari" means neglecting something without thinking.<n>Similar words, different meanings.
+EN: Ozanari: knowingly doing a sloppy job. Naozari: neglect without thinking. Similar words, different meanings.
 
 @#186
 JP: ボーリングで三連続ストライクを「ターキー」と呼ぶ<n>のは、オランダ人がアメリカ大陸に移住した頃にさか<n>のぼる。１本の矢で３羽の七面鳥をしとめた先住民を<n>見て、ボーリングで三連続ストライクを出すぐらいの<n>腕前だと驚いたオランダ人が、その後、ターキー（七<n>面鳥）と呼ぶようになったという。
-EN: Calling three bowling strikes a "turkey" dates back to Dutch settlement in America.<n>A Dutchman saw a Native American kill three turkeys with one arrow. Amazed, he compared that skill to bowling three strikes in a row.<n>It's said that's how the feat got its name.
+EN: They say Dutch settlers named three bowling strikes a "turkey" after seeing a Native American kill three turkeys with one arrow. They felt it took as much skill as bowling three strikes in a row.
 
 @#187
 JP: 孔子が魯の国の役人として頭角をあらわしていた頃、<n>斉の国は、魯の国の政治を堕落させようと企て、<n>女優８０人、馬１２０頭からなる<n>女歌舞伎を送り込んだ。<n>策は成功し、魯の国の政治は乱れていった。
-EN: When Confucius was gaining prominence as an official in Lu, the state of Qi plotted to corrupt Lu's government.<n>Qi sent over a troupe of 80 female performers and 120 horses.<n>The plan succeeded, and Lu's government fell into disorder.
+EN: As Confucius rose as an official in Lu, Qi sent 80 female performers and 120 horses to corrupt Lu's rulers. The scheme worked, throwing the government into disorder.
 
 @#188
 JP: 「無い袖は振れぬ」<n>無いものはどうしようもない。<n>どうがんばっても、どんなにやきもきしても<n>どうしようもないという状況を言う。<n>貸してあげたいが金がないので貸せない、<n>といったときの断りなどにも使う。
@@ -760,7 +760,7 @@ EN: "You can't wave sleeves you haven't got."<n>You can't give what you don't ha
 
 @#189
 JP: 人が熱中しているときに無意識に舌を出す現象を<n>「タン・ショー」と呼ぶ。<n>舌の出し方はさまざまでも、そのしぐさの示す<n>メッセージはおおむね「ほっておいてくれ」である。
-EN: Unconsciously sticking out your tongue while deeply absorbed in something is called a "tongue show."<n>The tongue may appear in various ways, but the gesture generally sends the same message: "Leave me alone."
+EN: Sticking out your tongue unconsciously while absorbed in a task is called a "tongue show." Whatever its form, it usually means "Leave me alone."
 
 @#190
 JP: 「絵に描いた餅」<n>どんなに上手に描かれた餅でも、しょせん絵では<n>おなかいっぱいにはならないということ。<n>言ってることは立派でも、実際には役にたたない<n>という意味。
@@ -768,7 +768,7 @@ EN: "A rice cake in a painting."<n>No matter how beautifully a rice cake is pain
 
 @#191
 JP: 第４回のロンドン・オリンピックではあらかじめマラ<n>ソンは２６マイル（４１．８４２キロメートル）の予<n>定であった。しかし、貴賓席の女王の前をゴールにと<n>変更したため、４２．１９５キロメートルというハン<n>パな距離になり、現在に至る。
-EN: At the fourth Olympics, in London, the marathon was planned as 26 miles (41.842 kilometers). But the finish was moved to pass before the queen in the royal box, giving us the oddly precise 42.195 kilometers still used today.
+EN: At the fourth Olympics, in London, the marathon was to be 26 miles. Moving the finish to the queen's box made it 42.195 km, the distance used today.
 
 @#192
 JP: 「やおら」というのは、<n>おもむろに、悠然にという意味。<n>ゆったりしてるという意味なので、<n>「やおら歩き始める」ことはあっても<n>「やおら駈け出す」ことはない。
@@ -780,19 +780,19 @@ EN: The Analects<n>A record of the words and deeds of Confucius and his disciple
 
 @#194
 JP: 「人事を尽くして天命を待つ」<n>できる限りのことをした上で、<n>結果は天命にまかせる、と悔いもなく潔い状況。
-EN: "Do all you can, then leave the rest to Heaven."<n>Having done everything possible, you can calmly leave the outcome to fate, with no regrets.
+EN: "Do all you can, then leave the rest to Heaven." Having done your best, trust fate with no regrets.
 
 @#195
 JP: 地平線上に見える月が、<n>頭上のてっぺんにある月よりも大きく見えるのは、<n>脳の錯覚である。月のサイズは常に同じである。
-EN: The moon looks larger near the horizon than it does directly overhead because of an illusion created by the brain. The moon itself stays the same size.
+EN: The moon seems bigger on the horizon than overhead. It's a trick of the brain: its size stays the same.
 
 @#196
 JP: 「可愛い子には旅をさせよ」<n>本当に可愛いのであれば、甘やかさず、<n>世の中の苦しさ辛さも味あわせよという意味。
-EN: "If you love your child, send them on a journey."<n>If you truly love your children, let them experience life's hardships instead of spoiling them.
+EN: "Send a beloved child on a journey." True love means letting children face life's hardships, not spoiling them.
 
 @#197
 JP: 大相撲の土俵上には吊り屋根があり、「四つ房」とい<n>う４色の房が下がっている。正面東側に青房、向正面<n>東側に赤房、向正面西側に白房、正面西側が黒房。そ<n>れぞれ、青は青竜、赤は朱雀、白は白虎、黒は玄武と<n>いう神獣を表している。
-EN: Four colored tassels hang from the roof above a professional sumo ring: blue at the front east, red at the rear east, white at the rear west, and black at the front west. They represent the Azure Dragon, Vermilion Bird, White Tiger, and Black Tortoise, respectively.
+EN: Sumo roof tassels represent sacred beasts: front east, blue/Azure Dragon; rear east, red/Vermilion Bird; rear west, white/White Tiger; front west, black/Black Tortoise.
 
 @#198
 JP: 「流れにさお差す」というのは、<n>流れに逆らわずに上手に時流に乗ること。<n>さおを差して流れに逆らうという意味ではない。
@@ -800,7 +800,7 @@ EN: "Poling with the current" means skillfully going along with the times. It do
 
 @#199
 JP: 「性悪説」<n>荀子は、人間は自然のままに放置しておけば、<n>欲を追い求め、互いに争うことになると唱えた。
-EN: The theory that human nature is evil:<n>Xunzi taught that people left to their own devices would pursue their desires and fight one another.
+EN: Xunzi's "human nature is evil" theory says people left unchecked chase their desires and fight each other.
 
 @#200
 JP: 「わざわい転じて福となす」<n>身にふりかかった災いも、うまく対処すれば<n>幸運への足がかりにすることもできるという意味。<n>実際に災いをきっかけにあらたな幸せを導いたときに<n>感心と祝福をこめて使うほか、<n>災いの渦中にいる人を励ますときにも使う。
@@ -836,11 +836,11 @@ EN: A person blinks about 15,000 times a day.
 
 @#208
 JP: 野球で左投手のことをサウスポー（南の手）と呼ぶ。<n>バッターボックスで太陽の光が眩しくないようにと、<n>打者が東を向くように設計されたシカゴ球場では、<n>左投手の左腕が南側になったことから<n>アメリカの新聞記者が作った言葉だ。
-EN: Left-handed baseball pitchers are called "southpaws," or "southern hands." An American reporter coined the term at a Chicago ballpark built so batters faced east to avoid the sun's glare. A left-handed pitcher's throwing arm was on the south side.
+EN: A US reporter coined "southpaw" at a Chicago ballpark: batters faced east to avoid glare, so left-handed pitchers' left arms were on the south side.
 
 @#209
 JP: 「たとえ火の中、水の中」<n>どんなに辛い状況にあろうとも、<n>最後まで相手についていく、という覚悟を言う。
-EN: "Through fire and water."<n>An expression of resolve to stay by someone's side to the very end, no matter how difficult things become.
+EN: "Through fire and water": a vow to stay by someone's side to the end, whatever hardships come.
 
 @#210
 JP: 眉は「ひそめる」のであって<n>「しかめる」のではない。<n>しかめるのは「顔」だ。
@@ -856,7 +856,7 @@ EN: 'Seek shelter under a mighty tree.'<n>If you need shelter, a big tree<n>is b
 
 @#213
 JP: 野球の三振、スリーアウトチェンジ、９回制。<n>アメリカで野球が誕生した頃は１２進法が一般的で、<n>すべて１２進法が元になっている。
-EN: Three strikes, three outs to change sides, nine innings.<n>Base-12 counting was common when baseball began in America,<n>and all these rules are based on it.
+EN: Baseball's 3 strikes, 3 outs and 9 innings stem from base 12, common in America when the game began.
 
 @#214
 JP: 蚊で血を吸うのはメスだけ。<n>オスが吸うのは花の蜜。
@@ -864,7 +864,7 @@ EN: Only female mosquitoes suck blood.<n>The males drink flower nectar.
 
 @#215
 JP: 「三つ子の魂百まで」<n>小さいときにそなわった性質は、歳をとっても<n>変わらないという意味。<n>雀百まで踊りを忘れず、も同じ意味。
-EN: 'The soul at three stays till a hundred.'<n>The traits you acquire as a small child stay with you<n>even in old age.<n>'A sparrow never forgets its dance, even at a hundred' means the same.
+EN: "The soul at three lasts till a hundred": childhood traits last for life. "A sparrow never forgets its dance, even at a hundred" means the same.
 
 @#216
 JP: れっきとした、という意味の言葉は<n>「押しも押されぬ」ではなく<n>「押しも押されもせぬ」が正しい。
@@ -872,7 +872,7 @@ EN: 'Oshi mo osare mo senu,'<n>meaning 'undeniably established,' is correct.<n>'
 
 @#217
 JP: 平和を愛する哲学者ホッブズは生涯独身だった。<n>午後１時になると必ず一人で食事をし、<n>煙草を吸いながら著述に没頭したと言う。
-EN: Hobbes, the peace-loving philosopher, never married.<n>He is said to have always eaten alone at 1 p.m.,<n>then immersed himself in writing while smoking.
+EN: Peace-loving philosopher Hobbes never married. He ate alone at 1 p.m. daily, then wrote while smoking.
 
 @#218
 JP: 野球がアメリカで誕生した頃は<n>得点は「２１点先取制」だった。
@@ -900,7 +900,7 @@ EN: At 30, stand firm; at 40, be free of doubt.<n>At 50, know heaven's will; at 
 
 @#224
 JP: 「愛想をふりまく」ではなく<n>「愛きょうをふりまく」が正しい。
-EN: In Japanese, 'aikyo o furimaku' (spread your charm)<n>is correct, not 'aiso o furimaku' (spread your friendliness).
+EN: In Japanese, you spread "aikyo" (charm), not "aiso" (friendliness).
 
 @#225
 JP: 寿司屋でご飯をシャリと呼ぶ語源は<n>仏教語の「仏舎利」が語源。<n>舎利とはお釈迦様の骨のことで、<n>舎利が土に還って穀類になるという意味で<n>米を舎利と呼ぶようになった。
@@ -916,7 +916,7 @@ EN: 'Kindness is not for others alone.'<n>When you do good things for others,<n>
 
 @#228
 JP: プレートテクトニクス理論によると、<n>ハワイは１年に６～８センチずつ日本に近づいている。
-EN: According to plate tectonics,<n>Hawaii moves six to eight centimeters closer to Japan each year.
+EN: Plate tectonics brings Hawaii 6-8 cm closer to Japan each year.
 
 @#229
 JP: １９０２年１１月。<n>ミシシッピ州におもむいたアメリカ合衆国第２６代<n>大統領セオドア・ルーズベルト（愛称テディ）は<n>狩りをしていたが、小熊を撃たずに逃がしてやった。<n>この話をきっかけに小熊のぬいぐるみが誕生し、<n>テディ・ベアと呼ばれて大ヒットした。
@@ -924,15 +924,15 @@ EN: November 1902.<n>The 26th US president, Theodore Roosevelt,<n>nicknamed Tedd
 
 @#230
 JP: 源九郎義経こと源義経。<n>義経は八男であったが、<n>叔父の為朝が鎮西八郎と名乗っていたため、<n>元服の際に九郎と名乗ったと言われている。
-EN: Minamoto no Yoshitsune was also called Kuro.<n>He was the eighth son, but his uncle Tametomo<n>already used Chinzei Hachiro, a name meaning 'eighth son.'<n>So Yoshitsune is said to have chosen Kuro, 'ninth son,' at his coming-of-age ceremony.
+EN: Minamoto no Yoshitsune, an eighth son, chose Kuro (ninth son) at coming of age: his uncle Tametomo already used Chinzei Hachiro (eighth son).
 
 @#231
 JP: 「あばたもえくぼ」<n>あばたとは、天然痘にかかったあとの、<n>ブツブツのことで、それすら愛嬌のあるえくぼに<n>見えるということ。転じて、好きになってしまえば<n>欠点も長所に見えてくるという意味。
-EN: 'Even pockmarks look like dimples.'<n>Pockmarks are scars left by smallpox.<n>The saying means even those scars can look<n>like charming dimples when you're in love.<n>Once you love someone, even their flaws seem like virtues.
+EN: 'Even pockmarks look like dimples.' Love can make even smallpox scars seem charming. Once you love someone, their flaws can look like virtues.
 
 @#232
 JP: 卒業予定者を早くから決定するのは「青田買い」。<n>まだ稲の青いうちに田を買うことから。
-EN: Recruiting students before graduation is called 'aotagai.'<n>It means buying a field while its rice is still green.
+EN: 'Aotagai': hiring before graduation, like buying fields of unripe rice.
 
 @#233
 JP: オーストラリアのエアーズロックは、<n>世界最大級の一枚岩である。<n>現地では「ウルル」と呼ばれている。
@@ -940,7 +940,7 @@ EN: Australia's Ayers Rock is<n>one of the world's largest monoliths.<n>Its loca
 
 @#234
 JP: 光が強いと瞳孔は閉じ、光が弱いと瞳孔が開く。人は<n>薄暗い空間の方が少ない光を感じとろうと、光への感<n>受性を高めるため、明るい中にいる時よりも感情が豊<n>かになると考えられている。
-EN: Pupils shrink in bright light and widen in dim light.<n>In dim surroundings, people become more sensitive<n>to light as they try to detect what little there is.<n>This is thought to make emotions richer than in bright light.
+EN: Pupils shrink in bright light and widen in dim light. Dim light boosts sensitivity to light, which is thought to make emotions richer.
 
 @#235
 JP: 孤独を愛したデカルトは<n>パリでは自分の居所を隠し、<n>オランダでは２０年間に１３の土地で<n>２４回引越した。
@@ -952,7 +952,7 @@ EN: The Black Ships arrived in 1853.<n>The interpreters sent by Japan's shogunat
 
 @#237
 JP: 「親しき仲にも礼儀あり」<n>親しさにあぐらをかいて、礼儀を忘れると、<n>それがせっかくの仲に不和を生み出すことになる、<n>といういましめのことわざ。
-EN: 'Even close friends need manners.'<n>This proverb warns that taking friendship for granted<n>and forgetting your manners can cause friction<n>in an otherwise happy relationship.
+EN: 'Even close friends need manners.' Taking friendship for granted and forgetting your manners can spoil a happy relationship.
 
 @#238
 JP: アマゾン川流域の面積は、<n>日本の国土の約１９倍もの広さがある。
@@ -960,11 +960,11 @@ EN: The Amazon River basin covers an area<n>roughly 19 times the size of Japan.
 
 @#239
 JP: 人間の赤ん坊、動物の赤ん坊は、丸くぽっちゃりした<n>顔、大きな目、おぼつかない動きなどの身体特徴によ<n>って自らの生存率を高めている。<n>親たちを「かわいい」「優しくしてあげたい」という<n>気持ちにさせることで愛情心をそそっているのだ。
-EN: Human and animal babies have round, chubby faces,<n>big eyes and unsteady movements.<n>These traits improve their chances of survival<n>by making parents think, 'How cute! I must be gentle!'<n>That feeling brings out their love and affection.
+EN: Round, chubby faces, big eyes and clumsy movements help human and animal babies survive. These cute traits stir parents' love and make them want to care for their young.
 
 @#240
 JP: 色が身体への生理的な影響を与えるという説がある。<n>暖色には交感神経に働きかけてエネルギー代謝を高め<n>る効果が、寒色には副交感神経を刺激してエネルギー<n>代謝を抑制する効果があると考えられるという。
-EN: One theory holds that colors affect the body.<n>Warm colors are thought to stimulate the sympathetic<n>nervous system and boost energy metabolism. Cool colors<n>may stimulate the parasympathetic system and reduce it.
+EN: One theory says warm colors stimulate sympathetic nerves, boosting metabolism. Cool colors stimulate parasympathetic nerves, slowing it.
 
 @#241
 JP: カナリア諸島はカナリアの原産地だが、<n>カナリアとはラテン語で犬を意味する言葉に<n>由来しているのだと言われている。
@@ -972,27 +972,27 @@ EN: Canaries are native to the Canary Islands,<n>but the islands' name is said t
 
 @#242
 JP: 「たで食う虫も好きずき」<n>たでという辛い葉でも好んで食べる虫もいる。<n>人の好みもさまざまだと言う意味で、<n>時として悪趣味なことも指す。
-EN: 'Some bugs love even bitter weeds.'<n>Some insects happily eat the peppery leaves of tade.<n>The saying means that tastes differ,<n>sometimes with a hint that someone's taste is bad.
+EN: 'Some bugs love peppery weeds.' Even spicy tade leaves have fans! Tastes differ, though the saying can also hint that someone's taste is bad.
 
 @#243
 JP: 「海のもくず」とは海で死ぬこと。<n>「海のもずく」とは海藻の一種。
-EN: 'Umi no mokuzu,' or 'sea debris,' means dying at sea.<n>'Umi no mozuku' refers to a type of seaweed.
+EN: 'Mokuzu' means sea debris, or death at sea. 'Mozuku' is a kind of seaweed.
 
 @#244
 JP: 背景が暗いと、中の色は大きくはっきりと見える。特<n>に効果的なのが黒。黒で囲んだとき、中の色はその色<n>の特性を最大限に発揮する。この効果は寿司など料理<n>の盛りつけで活用されることが多い。
-EN: Colors look larger and more distinct against a dark<n>background. Black is especially effective.<n>Surrounding a color with black brings out its qualities.<n>This effect is often used when plating sushi and other food.
+EN: Dark backgrounds make colors look bigger and clearer. Black brings out their qualities best. This effect is often used when plating sushi and other foods.
 
 @#245
 JP: カナダとアメリカの国境、アフリカの国々の国境が<n>直線なのは、新たに入ってきた人びとが<n>まさに地図上に定規で線を引き、<n>勝手に土地を分割したからである。
-EN: Straight borders between the US and Canada,<n>and between countries in Africa, came about<n>because newcomers drew lines on maps with rulers<n>and divided up the land as they pleased.
+EN: The US-Canada border and many African borders are straight because newcomers used rulers on maps to divide the land as they pleased.
 
 @#246
 JP: 隠れキリシタン探しの手段として生まれた「踏み絵」。<n>長崎奉行の水野河内守だと言われている。
-EN: Fumi-e, images used to expose secret Christians by making people step on them,<n>are said to have been devised by Nagasaki magistrate Mizuno Kawachi-no-kami.
+EN: Nagasaki's Mizuno reportedly devised fumi-e tests to expose secret Christians.
 
 @#247
 JP: オリンピックを五輪と書くようになったのは、<n>１９３６年のこと。<n>新聞記者がオリンピックという言葉を<n>もっと短く訳せないかと考え、<n>５つの輪と、宮本武蔵の五輪書から発想したものだ。
-EN: The Japanese shorthand for the Olympics, 'gorin,'<n>meaning 'five rings,' first appeared in 1936.<n>A newspaper reporter wanted a shorter name.<n>He drew on the five Olympic rings and<n>Miyamoto Musashi's 'The Book of Five Rings.'
+EN: In 1936, a reporter coined 'gorin' (five rings) as Japanese shorthand for the Olympics, inspired by the Olympic rings and Miyamoto Musashi's Book of Five Rings.
 
 @#248
 JP: アーメンとは、ヘブライ語で<n>「確かに」という意味。<n>お祈りの最後に言う時のアーメンは、<n>「かくあれ」という意味。
@@ -1004,15 +1004,15 @@ EN: 'It's darkest under the todai.'<n>Here, 'todai' means an old indoor lamp,<n>
 
 @#250
 JP: しばらく赤を見たあとに緑を見ると、その緑が鮮やか<n>に見える。赤を見つづけたあとに白い紙を見ると青緑<n>が見える。これらは色順応という作用によるものだ。<n>いったんひとつの色に目が慣れると、それが次の色の<n>見え方に影響を及ぼすわけだ。
-EN: After looking at red for a while, green looks more vivid.<n>Look at white paper after staring at red,<n>and you'll see blue-green. This is color adaptation.<n>Once your eyes adjust to one color, it changes<n>how you see the next one.
+EN: Stare at red, and green looks brighter. Look at white paper afterward, and you see blue-green. This is color adaptation: getting used to one color affects how you see the next.
 
 @#251
 JP: 「まな板の鯉」<n>まな板にのせられて、あとは料理をされるのを待つ鯉。<n>相手の思う通りにしかならない状態で、<n>もうどうにでもしてくれ、と観念したり、<n>開き直るしかないような状態のこと。
-EN: 'A carp on the chopping board'<n>A carp laid out on a chopping board, waiting to be cooked.<n>It describes being completely at someone else's mercy,<n>with no choice but to accept your fate<n>or defiantly say, 'Do your worst!'
+EN: 'A carp on the chopping board' means being at someone else's mercy, like a fish waiting to be cooked. All you can do is accept your fate or say, 'Do your worst!'
 
 @#252
 JP: 紀元前２世紀に活躍した天文学者、エラトステネス。<n>彼は夏至の日の太陽の南中角度から<n>子午線の長さを割り出し、<n>すでにほぼ正確な地球の大きさを推定していた。
-EN: Eratosthenes was an astronomer active in the 2nd century BC.<n>Using the sun's noon angle at the summer solstice,<n>he calculated the length of a meridian<n>and made an almost accurate estimate of Earth's size.
+EN: In the 2nd century BC, astronomer Eratosthenes used the sun's noon angle at the summer solstice to calculate Earth's circumference almost accurately.
 
 @#253
 JP: ミケランジェロの「ダビデ像」が片手で<n>肩にかけているのは石投げ紐。<n>この紐は片方だけが袋になっており、<n>ここに石を入れて振り回すことで武器になる。<n>戦いに挑むダビデの姿を表したのが、<n>このダビデ像なのである。
@@ -1020,11 +1020,11 @@ EN: What Michelangelo's David holds in one hand<n>and drapes over his shoulder i
 
 @#254
 JP: 「汚名返上」。「名誉挽回」。<n>汚名挽回では汚名の上塗りになってしまう。
-EN: You clear your bad name. You restore your good name.<n>Restore your bad name and you'll only make it worse.
+EN: Clear your bad name; restore your good name. Restoring a bad name makes it worse!
 
 @#255
 JP: 陰陽思想では３は区切りも縁起もよい数とされてる。<n>また、３には満つという言葉にかけられるため、<n>日本人は３をおめでたい数字として大事にしてきた。<n>御三家、日本三大祭など、日本には３でくくるものが<n>多いのは、そのためだと言われている。
-EN: In yin-yang thought, three marks a neat, lucky grouping.<n>Its Japanese reading, 'mitsu,' also suggests fullness.<n>So the Japanese have long treasured it as a lucky number.<n>That's said to explain Japan's many groups of three,<n>like the Three Great Houses and Three Great Festivals.
+EN: In yin-yang thought, three is a lucky grouping. Its Japanese reading, 'mitsu,' suggests fullness. Hence Japan's fondness for threes, like its Three Great Houses and Three Great Festivals.
 
 @#256
 JP: 現存する世界最古の地図は、<n>古代バビロニア時代の粘土板地図だと考えられている。
@@ -1032,7 +1032,7 @@ EN: The world's oldest surviving map is believed to be<n>a clay tablet from anci
 
 @#257
 JP: 仏陀の本名は、ゴータマ・シッダルタ。<n>釈迦とも呼ばれるのはシャーキャ族の出身ゆえ。
-EN: The Buddha's real name was Siddhartha Gautama.<n>He's also called Shaka because he came from the Shakya clan.
+EN: Buddha was Siddhartha Gautama, also called Shaka because he was from the Shakya clan.
 
 @#258
 JP: 日本の三名山は、<n>富士山、立山、白山。
@@ -1044,11 +1044,11 @@ EN: Red, yellow, blue, black and white<n>help bring out the appeal of food.<n>Us
 
 @#260
 JP: スイスには数多くの銀行があるが、<n>スイス銀行という名称の銀行は存在しないと言う。
-EN: Switzerland has plenty of banks,<n>but it's said that none is actually named 'Swiss Bank.'
+EN: Switzerland has many banks, but none is said to be named 'Swiss Bank.'
 
 @#261
 JP: 「井の中の蛙大海を知らず」<n>井戸の中で暮らしている蛙は、<n>この世の中に海が存在することを知らない。<n>転じて、自分の狭い世界や知識だけにとらわれ、<n>人の意見に耳も貸さない、世間知らずを言う。
-EN: 'A frog in a well knows nothing of the ocean.'<n>A frog that lives inside a well<n>doesn't know the sea even exists.<n>It describes someone trapped in their own narrow world,<n>ignorant of life beyond it and deaf to others' opinions.
+EN: 'A frog in a well knows nothing of the sea.' This means someone trapped in a narrow world, ignorant of life beyond it and deaf to others' views.
 
 @#262
 JP: 「一陽来復」<n>陰が極まって陽に返る冬至の日のこと。<n>転じて、苦しい日々のあとには<n>幸運がやってくるたとえ。
@@ -1056,7 +1056,7 @@ EN: 'The return of yang'<n>The winter solstice, when yin peaks and gives way to 
 
 @#263
 JP: 日本人に多い鈴木という姓は、熊野神社の神官が<n>最初に名乗ったと言われている。
-EN: The common Japanese surname Suzuki is said to have<n>first been used by priests at Kumano Shrine.
+EN: The surname Suzuki was first used by Kumano Shrine priests, they say.
 
 @#264
 JP: 相撲の三役とは、<n>大関、関脇、小結のこと。
@@ -1072,7 +1072,7 @@ EN: The Pure Land paradise is said to lie<n>west of this mortal world,<n>beyond 
 
 @#267
 JP: 「かぶりつき」<n>劇場の最前列の客席のこと。<n>この席で芝居を見ている観客が<n>まるで食べ物にかぶりつくように見えたことから。
-EN: 'Kaburitsuki,' or 'biting into something,'<n>means the front-row seats in a theater.<n>The audience sitting there seemed to watch the play<n>as though they were biting into a tasty meal.
+EN: 'Kaburitsuki' means a theater's front row. Literally 'biting into,' it likens the eager audience to people tucking into a meal.
 
 @#268
 JP: 「尊大」の反対語は「卑下」。
@@ -1080,7 +1080,7 @@ EN: The opposite of 'arrogance' is 'self-abasement.'
 
 @#269
 JP: サーファーたちを魅了するハワイのビッグウェーブ。<n>その波は、日本の北東沖付近で生まれ、<n>ハワイに到着したうねりだと考えられている。
-EN: Hawaii's big waves are a dream for surfers.<n>They're thought to be swells born off northeastern Japan<n>that have traveled all the way to Hawaii.
+EN: Hawaii's big waves, loved by surfers, are thought to start as swells off northeastern Japan.
 
 @#270
 JP: 音階をしめすドレミファソラシドは、<n>イタリア人の僧侶、ギドー・ダレッツォが<n>完成させたものだ。
@@ -1088,11 +1088,11 @@ EN: The scale syllables do, re, mi, fa, sol, la, si, do<n>were perfected by an I
 
 @#271
 JP: インドはカースト制のギブ＆テイクの精神により、<n>「ありがとう」にあたる言葉がないのだと言う。<n>物質を恵んでもらった者は、<n>その代わりに功徳を与えているので、<n>一方的に「ありがとう」と言う関係性ではないのだ。
-EN: They say India's caste system has no equivalent<n>of "thank you" because it rests on give-and-take.<n>Someone who receives material charity<n>gives spiritual merit in return,<n>so gratitude doesn't flow in just one direction.
+EN: They say India has no 'thank you': under caste-based give-and-take, charity recipients give donors spiritual merit in return, so gratitude isn't one-sided.
 
 @#272
 JP: 光の強さが一定であると、<n>物の形はわかっても色の判別はしにくい。<n>しかし赤だけは、明かりがあると認識するのと、<n>赤であると認識するのが同時であると言われている。
-EN: When light stays at a constant intensity,<n>shapes are clear, but colors are harder to distinguish.<n>Red is said to be the exception: you recognize<n>both the light and the color at the same time.
+EN: At constant light levels, shapes are easier to see than colors. Red is the exception: light and redness are said to register at once.
 
 @#273
 JP: 「六法全書」。<n>憲法、民法、商法、民事訴訟法、<n>刑法、刑事訴訟法。
@@ -1100,11 +1100,11 @@ EN: Japan's Six Codes:<n>The Constitution, Civil Code, Commercial Code,<n>Civil 
 
 @#274
 JP: ロココ式の椅子は、座面が低く、ひじ掛けを後ろの方<n>に取り付けてある。当時の上流社会の女性たちは、コ<n>ルセットでウエストを細くすることで胸を誇張し、ド<n>レスのすそは床につくほどであった。そんな女性たち<n>が腰掛けたときに、衣裳が最も美しく映えるようにと<n>考えられて椅子がデザインされていたという。
-EN: Rococo chairs had low seats and armrests set far back.<n>Upper-class women wore corsets to narrow the waist<n>and accentuate the bust, with dresses reaching the floor.<n>The chairs were designed so these women could sit<n>while showing off their elaborate gowns<n>to the best advantage.
+EN: Rococo chairs had low seats and armrests set back. Ladies wore corsets to slim their waists and enhance their busts, with skirts sweeping the floor. The chairs were designed to show off these gowns when seated.
 
 @#275
 JP: シャバとは煩悩からのがれる場所ではなく、<n>苦しみ耐えて生きるこの世界のことを指している。
-EN: "Shaba" is no refuge from worldly desires.<n>It means this world, where we live and endure suffering.
+EN: "Shaba" is this world where we endure suffering, no refuge from worldly desires.
 
 @#276
 JP: １７７８年にハワイ諸島に上陸した<n>キャプテン・クックは、ハワイをサンドイッチ島と<n>名づけようとしていたと言う。サンドイッチの命名で<n>名高いサンドイッチ伯爵が<n>彼のスポンサーだったからだ。
@@ -1116,7 +1116,7 @@ EN: The dove's role as a symbol of peace comes from Noah's Ark.<n>Noah escaped t
 
 @#278
 JP: イカは「一杯」、ヒラメは「一枚」、<n>鮭は「一尺」、サヨリは「一条」と数える。
-EN: In Japanese, count squid with "ippai," flounder with "ichimai,"<n>salmon with "isshaku" and halfbeaks with "ichijo."
+EN: "One" in Japanese: squid ippai, flounder ichimai, salmon isshaku, halfbeak ichijo.
 
 @#279
 JP: ローマの観光名所「トレビの泉」作者は<n>ニコラ・サルヴィ。<n>海馬が引く貝殻の戦車に乗って走り出た<n>海神ネットゥーノの姿が表現されている。<n>その迫力に満ちた荒々しく激しい動きの彫像には、<n>まさにバロック式と呼べる特色が表れている。
@@ -1128,7 +1128,7 @@ EN: Enma, king of hell, lives in Komyo-o-in.<n>Jizo is said to live in Zenmyosho
 
 @#281
 JP: マゼランが「太平な海洋」と表現したことで<n>その海は「太平洋」と命名された。<n>宣教師マテオ・リッチが「西の方に開けた大きな<n>海洋」と表現したことでその海は「大西洋」と<n>命名されたのだそうだ。
-EN: The Pacific's Japanese name, "Taiheiyo," comes from<n>Magellan's description of it as a "peaceful ocean."<n>The Atlantic's name, "Taiseiyo," is said to come from<n>missionary Matteo Ricci's description of it as<n>a "great ocean opening to the west."
+EN: Japan's "Taiheiyo" (Pacific) comes from Magellan's "peaceful ocean." "Taiseiyo" (Atlantic) is said to come from Matteo Ricci's "great ocean opening to the west."
 
 @#282
 JP: 日本一高い一本滝は那智の滝。<n>１３３メートルの高さから<n>毎秒１トンの水が落ちる。
@@ -1140,7 +1140,7 @@ EN: Many national flags feature three colors.<n>The first was the Netherlands,<n
 
 @#284
 JP: 暗いところで物を見る場合には、見えにくい分、人は<n>心をよく働かせなくてはならない。近づいて見たり、<n>目をこらして見るなど、積極的に意識的に見るように<n>なる。それゆえ、美術館や神社仏閣が暗いのには、見<n>る気を起こさせる、集中力を引き出すなどの心理的効<n>果を期待している側面もあると考えられる。
-EN: In dim light, seeing takes more mental effort.<n>People move closer or peer more carefully,<n>making a conscious effort to look.<n>This may help explain the dim lighting in museums,<n>shrines and temples: it encourages closer observation<n>and draws out our powers of concentration.
+EN: Dim light makes us look harder, move closer and focus our minds. Museums, shrines and temples may be dimly lit partly to stir our desire to look and draw out our powers of concentration.
 
 @#285
 JP: 子供の頭には仏様が宿っている<n>と考えられているタイでは、<n>子供の頭をなでてはいけない。
@@ -1152,15 +1152,15 @@ EN: In Japanese, one shrine or temple is counted as "ichiu."
 
 @#287
 JP: タピストリーは、絹や毛や麻などを素材につづれ織り<n>で模様を描き出した布織物で、ヨーロッパの宮殿など<n>に飾られている壁掛け。行事にあわせて柄を掛けかえ<n>たり、場所を移動したりと取り外し可能な壁画感覚で<n>重宝されていたらしい。また、石壁でできた宮殿内の<n>防寒の役割も果たしているとも言われている。
-EN: Tapestries are wall hangings woven from silk, wool<n>or hemp, with patterns worked into the fabric.<n>In European palaces, they served as movable murals:<n>designs could be swapped for special occasions<n>or moved elsewhere. They also helped insulate<n>cold rooms built with stone walls.
+EN: Tapestries are patterned wall hangings woven from silk, wool or hemp. In European palaces, they served as movable murals, swapped to suit an occasion or a new spot. They also helped keep cold stone rooms warm.
 
 @#288
 JP: 「天上天下唯我独尊」<n>釈迦が生まれたとき、一方の手で天を、<n>もう一方の手で地を指し、こう言ったといわれる。<n>天上にもこの世にも自分より尊いものはいない、<n>という意味で、人間の尊厳を説いた言葉である。
-EN: "In heaven and on earth, I alone am supreme."<n>The newborn Buddha is said to have declared this,<n>pointing one hand at heaven and the other at earth.<n>It means nothing in heaven or this world is more precious<n>than oneself, and teaches the dignity of human life.
+EN: Buddha is said to have pointed to heaven and earth at birth, declaring, "I alone am supreme in heaven and on earth." It affirms the dignity and unique worth of each human life.
 
 @#289
 JP: アメリカの東海岸と西海岸、<n>ロシアの東と西では同じ国内でありながら<n>時差があるが、広大な面積を誇る中国では<n>国内の時刻を統一しているために時差はない。
-EN: The US has different times on its east and west coasts,<n>as does Russia in its eastern and western regions.<n>China, despite its vast size, uses one standard time<n>throughout the country, so there is no time difference.
+EN: The US and Russia have time differences between east and west. Vast as China is, it uses one standard time nationwide.
 
 @#290
 JP: 「史実」の反対語は「伝説」。
@@ -1168,7 +1168,7 @@ EN: The opposite of "historical fact" is "legend."
 
 @#291
 JP: 「三国一の花嫁」の三国とは、<n>日本、中国、インドのこと。その昔、<n>日本人にとっての世界とはこの三国だったため、<n>三国一の花嫁とは世界一の花嫁という意味だったのだ。
-EN: The 'three lands' in 'the finest bride in the three lands'<n>are Japan, China, and India. Long ago, those three<n>countries were the whole world to the Japanese,<n>so the phrase meant 'the world's finest bride.'
+EN: Japan's "finest bride in three lands" means the world's finest bride. The three lands were Japan, China and India: once the whole world to the Japanese.
 
 @#292
 JP: 鳥居の数え方は「一基」。<n>エスカレーターも「一基」。<n>お墓も「一基」。
@@ -1184,15 +1184,15 @@ EN: The opposite of 'dialogue' is 'monologue.'
 
 @#295
 JP: 光源から放出されたエネルギーが大気中で変化をし、<n>その光が網膜まで達し、電気エネルギーに変わって視<n>神経を通って大脳皮質に伝えられる。その情報が脳内<n>のほかの知覚や、過去の経験とあいまったときに、は<n>じめて色として認識されるのではないかと考えられて<n>いる。色を見るためには物理的側面と精神的側面の関<n>連性があるのでは、というのである。
-EN: Light changes as it travels through air. At the retina,<n>it becomes electrical signals sent via the optic nerve<n>to the cerebral cortex. There, past experiences and<n>other sensory input may combine to produce our sense<n>of color. Color perception may thus involve both<n>physical processes and the mind.
+EN: Light changes in the air. The retina turns it into electrical signals sent via the optic nerve to the cerebral cortex. Other senses and past experience may turn this into color, linking physical processes with the mind.
 
 @#296
 JP: 七徳とは、<n>信仰、希望、仁愛、分別、正義、不屈、自制である。
-EN: The seven virtues are:<n>faith, hope, charity, prudence, justice, fortitude, and temperance.
+EN: Seven virtues: faith, hope, charity, prudence, justice, fortitude, temperance.
 
 @#297
 JP: 洋の東西を問わず、船には女神が飾られている。<n>漁船が女人禁制なのは、この女神が嫉妬するからだと<n>言われている。
-EN: In both East and West, boats display images of goddesses.<n>Women are barred from fishing boats because, it is said,<n>the goddess would become jealous.
+EN: East and West, ships bear goddesses. Women are said to be barred from fishing boats lest the goddess grow jealous.
 
 @#298
 JP: 日本と西洋では「庭」に対する意識に決定的な違いが<n>あるようだ。日本式庭園は自然の風景をそのままにう<n>つし、季節の移り変わりを愛でて楽しむもの。それに<n>対して西洋式庭園は人工的な造形で建物の装飾的な効<n>果を持つ。そしてなにより異なるのは、西洋式庭園内<n>は多くの人びとを招いてパーティなどイベントを開催<n>できるよう、あらかじめ設計されている点だ。
@@ -1216,7 +1216,7 @@ EN: The formal name for whiplash is traumatic cervical syndrome.
 
 @#303
 JP: 宇宙のすべての天体は、<n>常にお互いから遠ざかり続けている。<n>そのため、宇宙は膨張しているといわれている。
-EN: All celestial bodies in the universe<n>are constantly moving away from one another.<n>That is why we say the universe is expanding.
+EN: All celestial bodies keep moving apart, so we say the universe is expanding.
 
 @#304
 JP: 犬同士がおしりのニオイをかぎあうのは<n>犬のあいさつである。<n>おしりのニオイから年齢や性別など、<n>相手の情報を得ている。
@@ -1228,7 +1228,7 @@ EN: Earth's ozone layer formed 400 million years ago.<n>It blocked harmful ultra
 
 @#306
 JP: 地球と同じ速度で回ってる人工衛星は、<n>まるで静止しているように見えるため、<n>静止衛星と呼ばれる。
-EN: Satellites that orbit at the same rate as Earth rotates<n>appear to stay in one place.<n>That is why they are called geostationary satellites.
+EN: Satellites that match Earth's rotation seem fixed. We call them geostationary satellites.
 
 @#307
 JP: 人が呼吸しているとき、<n>吸っている空気の大部分は<n>酸素ではなく、窒素である。<n>また、吐いている大部分も<n>二酸化炭素ではなくて窒素である。
@@ -1236,11 +1236,11 @@ EN: Most of the air we breathe in is nitrogen,<n>rather than oxygen.<n>Most of w
 
 @#308
 JP: 地球の赤道半径は極半径よりも長い。<n>地球は、完全な球ではないため。
-EN: Earth's equatorial radius is greater than its polar radius.<n>This is because Earth is not a perfect sphere.
+EN: Earth is wider at the equator than from pole to pole. It isn't a perfect sphere.
 
 @#309
 JP: 地球上の緑色植物は１年に１９００億トンもの<n>酸素を光合成によって生産している。
-EN: Earth's green plants produce 190 billion metric tons<n>of oxygen each year through photosynthesis.
+EN: Plants make 190 billion metric tons of oxygen a year by photosynthesis.
 
 @#310
 JP: 活性炭は細かい穴が多く、<n>表面積が大きいため、<n>臭いの成分を取り込みやすい。<n>そのため、脱臭剤として使われている。
@@ -1272,7 +1272,7 @@ EN: Air at different temperatures bends light,<n>creating mirages.
 
 @#317
 JP: 光が１年間に進む距離を１光年、<n>太陽が銀河系を１周する時間を１銀河年という。
-EN: A light-year is the distance light travels in one year.<n>A galactic year is the time the Sun takes to orbit our galaxy.
+EN: Light-year: light's yearly travel. Galactic year: time for the Sun to orbit our galaxy.
 
 @#318
 JP: 光速で宇宙旅行していると、<n>歳をとるのがゆっくりになる。
@@ -1312,7 +1312,7 @@ EN: Our ancestors include<n>Australopithecus afarensis,<n>an early human species
 
 @#327
 JP: 水星には、「広重」、「芭蕉」や「人麻呂」など<n>日本人の名前がついたクレーターがある。
-EN: Mercury has craters named after Japanese people,<n>including Hiroshige, Basho and Hitomaro.
+EN: Mercury has craters named Hiroshige, Basho and Hitomaro, after Japanese people.
 
 @#328
 JP: モルヒネの名の由来は、<n>ギリシャ神話の夢の神・モルフィウスから<n>命名された。
@@ -1320,7 +1320,7 @@ EN: Morphine gets its name<n>from Morpheus, the god of dreams<n>in Greek mytholo
 
 @#329
 JP: 水には表面張力という力がいつも働いている。<n>そのため、水滴は、表面積がいちばん小さい<n>丸の形になりやすい。
-EN: A force called surface tension always acts on water.<n>This makes water droplets tend to form spheres,<n>the shape with the smallest surface area.
+EN: Surface tension makes water form round drops: the shape with the smallest surface area.
 
 @#330
 JP: 木星には、イオ、ガニメデ、カリスト、<n>エウロパという衛星がある。<n>１６１０年にガリレオによって発見された。
@@ -1352,11 +1352,11 @@ EN: In 1961, Soviet Major Titov became<n>the first person to experience space si
 
 @#337
 JP: 標高３６００メートルのアンデス高地にある<n>ウユニ塩湖は、海水の約８倍の塩水である。<n>約２０万年前、海だったところが隆起して<n>できた湖だからと言われている。
-EN: Lake Uyuni in the Andes lies 3,600 meters<n>above sea level and is about eight times as salty<n>as seawater. It's said to have formed when land<n>under the sea rose up about 200,000 years ago.
+EN: Lake Uyuni, 3,600 meters up in the Andes, is about eight times as salty as seawater. A seabed uplift about 200,000 years ago is said to have formed it.
 
 @#338
 JP: 蛍光塗料は、その色素の分子が光を吸収して<n>励起状態になるから光る。
-EN: Fluorescent paint glows because its pigment<n>molecules absorb light and enter an excited state.
+EN: Fluorescent paint glows as its pigment molecules absorb light and become excited.
 
 @#339
 JP: １９８２年３月、<n>ソビエトのベネラ１３号が金星に着陸。<n>このとき金星のカラー写真を初めて撮影した。
@@ -1368,7 +1368,7 @@ EN: Glucose is the only fuel<n>the human brain can use.
 
 @#341
 JP: 地球の自転周期は２３時間５６分である。<n>秒速２９．８ｋｍで<n>太陽の周りをまわっている。
-EN: Earth takes 23 hours and 56 minutes<n>to complete one rotation.<n>It travels around the sun<n>at 29.8 kilometers per second.
+EN: Earth rotates in 23 hours, 56 minutes and orbits the sun at 29.8 km per second.
 
 @#342
 JP: ボールペンは１９４３年に<n>ハンガリー人のピロによって発明された。<n>ボールペンという名称は、ペンの先に<n>小さなボールを組み込んでいることから。
@@ -1384,7 +1384,7 @@ EN: Saturn's rings have a gap called the Cassini Division.<n>Galileo discovered 
 
 @#345
 JP: 猫の視力は犬よりもずっと良い。<n>ただし、静止した物体はうまく認識できない。
-EN: Cats have much better eyesight than dogs.<n>However, they struggle to recognize objects<n>that stay still.
+EN: Cats see far better than dogs, but struggle to recognize still objects.
 
 @#346
 JP: 月は地球からおよそ<n>３８万４０００ｋｍ先にある。<n>その月は１年に約３．８センチずつ<n>地球から遠ざかっている。
@@ -1408,11 +1408,11 @@ EN: An antigen-antibody reaction is the body's response<n>to something foreign, 
 
 @#351
 JP: １６８２年、エドモンド・ハレーは見つけた彗星が<n>７６年周期の楕円軌道をもっていると予言した。<n>彼の死後それが証明され、その彗星は<n>「ハレー彗星」と呼ばれるようになった。
-EN: In 1682, Edmond Halley predicted that a comet he observed<n>followed an elliptical orbit with a 76-year period.<n>His prediction was proved after his death,<n>and it came to be called Halley's Comet.
+EN: In 1682, Edmond Halley predicted a comet's 76-year elliptical orbit. Proven right after his death, it was named Halley's Comet.
 
 @#352
 JP: ２億年ぐらい前、<n>福島県はアジア大陸にくっついていた。
-EN: About 200 million years ago,<n>Fukushima Prefecture was joined to the Asian continent.
+EN: About 200 million years ago, Fukushima was joined to mainland Asia.
 
 @#353
 JP: 江戸時代の人たちも、<n>ちゃんと水道料金を払っていた。<n>水道料金のことは<n>水銀（みずぎん）と呼ばれていた。
@@ -1420,7 +1420,7 @@ EN: People paid water bills even in the Edo period.<n>The fees were called "mizu
 
 @#354
 JP: １７９７年にアンドレ・ガルネリンが<n>人類初のパラシュート降下実験を行った。
-EN: In 1797, Andre Garnerin carried out<n>humanity's first experimental parachute jump.
+EN: In 1797, Andre Garnerin made the first experimental parachute jump.
 
 @#355
 JP: チワワはメキシコの州、<n>チワワ州から名前を付けられた。
@@ -1484,7 +1484,7 @@ EN: Inspired by Galileo's thermometer,<n>Santorio invented the clinical thermome
 
 @#370
 JP: 商品のバーコードの最初の二桁は国名である。<n>ちなみに、日本の数字は４９と４５。
-EN: The first two digits of a product's barcode identify its country of origin.<n>Japan's codes are 49 and 45.
+EN: A barcode's first two digits name a country. Japan's are 49 and 45.
 
 @#371
 JP: ある固体が、溶けたとき液体にならずに<n>いきなり気体になることを昇華と呼ぶ。
@@ -1516,7 +1516,7 @@ EN: Pacific oysters<n>start life as males, then become females.<n>After that, th
 
 @#378
 JP: ドライアイスの白い気体は、<n>ドライアイスに含まれる二酸化炭素によって、<n>冷やされ水蒸気が水滴になったもの。
-EN: The white cloud around dry ice consists of water droplets.<n>Carbon dioxide from the dry ice cools the surrounding water vapor,<n>turning it into droplets.
+EN: Dry ice's white cloud is water droplets: its carbon dioxide cools water vapor, making it condense.
 
 @#379
 JP: 錠前師のピーター・ハインラインが<n>世界で最初に発明した懐中時計は<n>「ニュールンベルグの卵」と呼ばれた。
@@ -1540,7 +1540,7 @@ EN: Some fish can survive without freezing<n>in seas cold enough to freeze water
 
 @#384
 JP: １以上の整数を、<n>偶数なら２で割り、奇数なら３倍して１を足す、<n>という計算を繰り返していくと、<n>元の数字がなんであれ最後は必ず１になるらしい。
-EN: Take any whole number of at least 1.<n>If even, halve it. If odd, triple it and add 1.<n>Keep repeating those steps, and apparently you'll reach 1,<n>whatever number you started with.
+EN: Start with a positive whole number. If even, halve it; if odd, triple it and add 1. Repeat: supposedly, any starting number ends at 1.
 
 @#385
 JP: 自分に聞こえる自分の声は、<n>骨伝導によって聞こえているので、<n>実際、他の人が聞くより少し低めに聞こえる。
@@ -1576,7 +1576,7 @@ EN: Sahara Blend and Arabian Light<n>are varieties of crude oil.
 
 @#393
 JP: 地球からは月の裏側は見えない。<n>月の公転と自転の周期が同じなため。
-EN: We cannot see the far side of the moon from Earth.<n>The moon's rotation and orbital periods are the same.
+EN: We can't see the moon's far side: it spins once for each orbit of Earth.
 
 @#394
 JP: 絶対零度は－２７３．１５度Ｃ。<n>これ以上低い温度は考えられないという意味で<n>つけられたネーミング。
@@ -1604,7 +1604,7 @@ EN: The eraser was invented<n>by the British chemist Priestley.<n>It was very ex
 
 @#400
 JP: ヒトデをばらばらにしても死なない。<n>ちぎれても、再生する。
-EN: Cutting a starfish into pieces won't kill it.<n>It can regenerate after being torn apart.
+EN: Starfish survive being cut apart. Torn-off pieces can regrow.
 
 @#401
 JP: ライプニッツとニュートンは、<n>微積分をそれぞれ自分が発見したと<n>主張していた。<n>ニュートンは万有引力の発見も<n>ロバート・フックと言い争っていた。
@@ -1624,7 +1624,7 @@ EN: Baby koalas grow up eating their mothers' droppings.<n>These special droppin
 
 @#405
 JP: 鷲座の１等星アルタイルは<n>日本では彦星と呼ばれている。<n>ちなみに、織姫は琴座のベガ。
-EN: Altair, the first-magnitude star in Aquila,<n>is called Hikoboshi, the Cowherd Star, in Japan.<n>Orihime, the Weaver Star, is Vega in Lyra.
+EN: In Japan, Altair, Aquila's first-magnitude star, is called Hikoboshi. Orihime is Vega in Lyra.
 
 @#406
 JP: クモは２カ月ぐらい何も食べなくても<n>生存できる。
@@ -1676,7 +1676,7 @@ EN: Japanese monkshood has petals shaped<n>to let bumblebees reach its nectar ea
 
 @#418
 JP: ジェンナーは少年を実験台にして<n>種痘を発明した。<n>日本では華岡青州が妻を実験台にして<n>世界最初の全身麻酔手術を成功させた。
-EN: Jenner developed smallpox vaccination<n>by experimenting on a young boy.<n>In Japan, Hanaoka Seishu experimented on his wife<n>and went on to perform the world's first surgery<n>under general anesthesia.
+EN: Jenner developed vaccination using a boy. In Japan, Hanaoka Seishu tested anesthetics on his wife, then performed the world's first surgery under general anesthesia.
 
 @#419
 JP: 大西洋をはさんだ、<n>アフリカと南アメリカの沿岸のかたちが<n>ぴったりと合うのは、<n>二つの大陸は大昔くっついていて、<n>プレートの運動などによって<n>徐々に移動していったからという。<n>これを大陸移動説という。
@@ -1712,7 +1712,7 @@ EN: Plants release protective substances<n>called phytoncides.<n>These substance
 
 @#427
 JP: 木星は太陽系外惑星で一番質量が多い。<n>一番少ないのは水星。
-EN: Jupiter has the greatest mass<n>of any planet in our solar system.<n>Mercury has the least.
+EN: Jupiter is our solar system's most massive planet; Mercury is the least.
 
 @#428
 JP: 人は体温が４２度まで上がると死んでしまう。
@@ -1720,7 +1720,7 @@ EN: A person dies if their body temperature<n>reaches 42 degrees Celsius.
 
 @#429
 JP: かたつむりが雌雄同体なのは、足がのろいため。<n>足がのろいと、<n>繁殖相手に出会うのも稀である。<n>数少ないチャンスを生かすための進化だった。
-EN: Snails are both male and female<n>because they move so slowly.<n>They rarely meet potential mates,<n>so they evolved to make the most<n>of those rare opportunities.
+EN: Snails are both male and female because they move slowly and rarely meet mates. They evolved to make every encounter count.
 
 @#430
 JP: プラスチック消しゴムを<n>長時間プラスチックにくっつけておくと、<n>プラスチックが溶けてしまう。<n>消しゴムに含まれている可塑剤が<n>プラスチックを溶かしてしまうため。
@@ -1760,7 +1760,7 @@ EN: In 1628, Harvey figured out<n>how blood circulates.<n>It can make a full cir
 
 @#439
 JP: 単孔類のカモノハシとハリモグラは、<n>赤ちゃんではなく、卵を産む。
-EN: Platypuses and echidnas are monotremes.<n>They lay eggs instead of giving birth to live young.
+EN: Platypuses and echidnas are egg-laying mammals called monotremes.
 
 @#440
 JP: 挿し木、接ぎ木で<n>植物のクローンを作ることができる。
@@ -1780,11 +1780,11 @@ EN: A piano is a harpsichord<n>with hammers and dampers added.<n>It was invented
 
 @#444
 JP: 水は、液体のときは分子がばらばらに運動し、<n>凍ると分子の運動が遅くなり規則正しく並ぶ。<n>この状態を結晶という。
-EN: In liquid water, molecules move freely.<n>When it freezes, they slow down and line up in a regular pattern.<n>This arrangement is called a crystal.
+EN: In liquid water, molecules move freely. As water freezes, they slow and form an orderly pattern called a crystal.
 
 @#445
 JP: スプレー缶の底が、球状なのは、<n>平らなものよりも容器の強度が高くなるため。
-EN: Spray cans have curved bottoms<n>because a curved shape makes the container stronger than a flat one.
+EN: Spray cans have curved bases because they're stronger than flat ones.
 
 @#446
 JP: エアロビクスは運動生理学では、<n>有酸素運動を意味する。
@@ -1816,7 +1816,7 @@ EN: The space shuttle Discovery once had<n>its insulation damaged by woodpeckers
 
 @#453
 JP: 寿命が１００億といわれている太陽は<n>現在、約５０億歳である。
-EN: The Sun's lifespan is said to be ten billion years.<n>It is currently about five billion years old.
+EN: The Sun is about 5 billion years old, halfway through its 10-billion-year life.
 
 @#454
 JP: オーデコロンは１８世紀初めに<n>イタリア人のファリナによって発明された。<n>その頃はケルンの水と呼ばれていた。
@@ -1824,7 +1824,7 @@ EN: Eau de cologne was invented in the early 1700s<n>by an Italian named Farina.
 
 @#455
 JP: 月のクレーターには日本名がついているものがある。<n>国際天文学連合総会で、<n>歴史上功績のあった科学者を<n>選び出して命名したとき、<n>日本人科学者も含まれていたから。
-EN: Some craters on the Moon have Japanese names.<n>The International Astronomical Union's General Assembly<n>selected scientists with great achievements<n>to name the craters after,<n>and Japanese scientists were among them.
+EN: Some Moon craters have Japanese names. The International Astronomical Union's General Assembly named craters after distinguished scientists, including Japanese ones.
 
 @#456
 JP: 天然ゴムは、ゴムの樹に傷をつけて採取する。<n>ゴムの木の中でも「へベアゴム」は、<n>最高級品。
@@ -1872,7 +1872,7 @@ EN: Patches for stiff shoulders and anti-itch remedies<n>are made with camphor.<
 
 @#467
 JP: 宇宙空間で育てた貝割れ大根は、<n>こんがらがってしまう、という実験をしたのは<n>日本人宇宙飛行士、向井千秋さん。
-EN: An experiment showed that radish sprouts grown in space<n>get all tangled up. It was conducted<n>by Japanese astronaut Chiaki Mukai.
+EN: Japanese astronaut Chiaki Mukai's experiment found that radish sprouts grown in space get all tangled up.
 
 @#468
 JP: 人間の体の中にはたんぱく質の細い糸から成る<n>繊維性結合組織がある。<n>この組織が腱やじん帯を作っている。
@@ -1968,7 +1968,7 @@ EN: The golden ratio, which feels harmonious and soothing,<n>is 1:1.618.
 
 @#491
 JP: それ以上分解できない物質のことを単体と呼び、<n>それ以上分けられない物質の最小の粒のことを<n>原子と呼ぶ。
-EN: A substance that cannot be broken down further is called an element.<n>The smallest indivisible particle of a substance<n>is called an atom.
+EN: An element cannot be broken down further. An atom is a substance's smallest indivisible particle.
 
 @#492
 JP: 太陽を中心として、<n>地球より内側を回っている惑星を<n>内惑星と呼ぶ。
@@ -1996,7 +1996,7 @@ EN: The chemical change that removes oxygen from an oxide is called reduction.
 
 @#498
 JP: 生体のたんぱく質を構成するアミノ酸は、<n>すべてＬー型片手構造であり、<n>遺伝子を構成する糖はすべてＤー型である。
-EN: The amino acids that make up proteins in living things<n>all have L-handed structures,<n>while the sugars in genetic material are all D-handed.
+EN: Living proteins use only L-form amino acids, while sugars in genetic material are all D-form.
 
 @#499
 JP: ユークリッドは幾何学の父と呼ばれている。
@@ -2020,7 +2020,7 @@ EN: Tokyo Dome's roof weighs 400 metric tons<n>and is supported by air.<n>High a
 
 @#504
 JP: 有機物を無機物に分解する生物を<n>分解者という。<n>細菌類や菌類がこれにあたる。
-EN: Organisms that break organic matter down into inorganic matter<n>are called decomposers.<n>These include bacteria and fungi.
+EN: Decomposers, such as bacteria and fungi, break organic matter down into inorganic matter.
 
 @#505
 JP: ローラースケートは<n>ベルギーのジョセフ・メルリンによって<n>発明された。
@@ -2032,11 +2032,11 @@ EN: Termites aren't ants.<n>They're relatives of cockroaches.
 
 @#507
 JP: 落花生は、地中にサヤができて豆が育つ。<n>まるで、花が落ちた地面のところに<n>サヤができているように見えるため、<n>落花生という名になっている。
-EN: Peanut pods form underground, where the nuts grow.<n>The pods seem to form in the ground<n>right where the flowers fall, hence their Japanese name,<n>rakkasei: "fallen-flower nuts."
+EN: Peanuts grow in pods underground, as if beneath fallen flowers. Hence rakkasei, their Japanese name: "fallen-flower nuts."
 
 @#508
 JP: 賭け事好きのシュバリエ・ド・メレが<n>パスカルに相談したことから、確率論は生まれた。
-EN: Probability theory was born when the keen gambler<n>Chevalier de Mere asked Pascal for advice.
+EN: Probability theory began with gambler de Mere consulting Pascal.
 
 @#509
 JP: 自ら光を発する星のことを恒星と呼ぶ。
@@ -2128,7 +2128,7 @@ EN: When Earth was born,<n>a day lasted only about five hours.<n>Earth's rotatio
 
 @#531
 JP: パスカルは三角形の内角の和がニ直角であることを<n>証明し、また、世界で最初の計算機を考えだした。
-EN: Pascal proved that a triangle's angles add up to 180 degrees<n>and also devised the world's first calculator.
+EN: Pascal proved triangle angles total 180 degrees and devised the first calculator.
 
 @#532
 JP: 気圧を測る単位はヘクトパスカル。
@@ -2144,7 +2144,7 @@ EN: Miso and soy sauce are made using koji mold.
 
 @#535
 JP: 天体からの光と、<n>それを観測するものが相対的に速度を持つ場合、<n>光は本来の方向より前に傾いた方向から<n>来るように見える現象を「光行差」という。
-EN: When an observer moves relative to light<n>arriving from a celestial body,<n>the light appears to come from a direction tilted forward.<n>This is called the aberration of light.
+EN: When an observer moves relative to starlight, it seems to arrive from farther forward. This is called the aberration of light.
 
 @#536
 JP: ノーベル賞のノーベルは<n>生涯、３００も特許を取った。
@@ -2192,7 +2192,7 @@ EN: Radar is short for<n>Radio Detection<n>and Ranging.
 
 @#547
 JP: ハレー彗星の中身は、巨大な氷の塊である。<n>長年飛び続けているため、チリなどで<n>真っ黒に汚れてしまった。
-EN: Halley's Comet has a huge lump of ice inside.<n>After many years flying through space, dust and debris<n>have left it filthy and black.
+EN: Halley's Comet is a huge lump of ice, blackened by dust and debris over its long journey through space.
 
 @#548
 JP: 重力を測る単位をニュートンという。<n>約１００グラムの物体にかかる重力の大きさは<n>１ニュートン。
@@ -2212,7 +2212,7 @@ EN: Boyle's law states that,<n>at a constant temperature, a gas's volume<n>is in
 
 @#552
 JP: オームの法則とは、<n>回路に流れる電流は電圧に比例する。
-EN: Ohm's law states that<n>the current flowing through a circuit is proportional to the voltage.
+EN: Ohm's law: current in a circuit is proportional to voltage.
 
 @#553
 JP: ジオデシック・ドームを考え出した建築家は<n>バックミンスター・フラーである。<n>建築家であり、数学者でもあった。
@@ -2224,7 +2224,7 @@ EN: Living things grow to a certain size<n>through cell division.
 
 @#555
 JP: クローンを作っても、自分に近い友人などには<n>すぐ偽者だとばれてしまう。<n>人間の個性は後天的なもののため、<n>遺伝子が同じでも違う個体ということになる。
-EN: Even if you made a clone of yourself, your close friends<n>would soon spot the impostor.<n>Personality develops through experience,<n>so identical genes don't make you the same person.
+EN: Close friends would soon spot your clone. Personality comes from experience, so identical genes do not make the same person.
 
 @#556
 JP: 地球上にいちばん多い化合物は水である。
@@ -2240,11 +2240,11 @@ EN: Mercury is the only metallic element that's liquid at room temperature.
 
 @#559
 JP: 液体に溶けている物質のことを溶質、<n>その液体のことを溶媒と呼ぶ。<n>水に塩を溶かした場合、<n>その塩が溶質、水を溶媒になる。
-EN: A substance dissolved in a liquid is called the solute,<n>and the liquid is called the solvent.<n>If you dissolve salt in water,<n>the salt is the solute and the water is the solvent.
+EN: A dissolved substance is the solute; the liquid is the solvent. In salt water, salt is the solute and water is the solvent.
 
 @#560
 JP: 納豆菌のバチルス・ナットー・サワムラは、<n>発見者である沢村博士の名から命名された。
-EN: The natto bacterium Bacillus natto Sawamura<n>was named after its discoverer, Dr. Sawamura.
+EN: Bacillus natto Sawamura was named for its discoverer, Dr. Sawamura.
 
 @#561
 JP: タンポポは食べることができる。<n>葉はおひたしなどに<n>根は炒るとコーヒーの代わりになる。
@@ -2252,11 +2252,11 @@ EN: Dandelions are edible.<n>The leaves can be blanched for a side dish,<n>and t
 
 @#562
 JP: 若者がかかる病気、尋常性座瘡とは<n>ニキビのことである。
-EN: Acne vulgaris is a condition common among young people.<n>It's the medical term for pimples.
+EN: Acne vulgaris means pimples, a common problem among young people.
 
 @#563
 JP: 人間の骨の中でいちばん長いのは大腿骨、<n>もっとも小さいのは耳の中にあるアブミ骨。
-EN: The longest human bone is the femur, or thighbone.<n>The smallest is the stapes, or stirrup bone, inside the ear.
+EN: The femur is our longest bone; the stapes in the ear is our smallest.
 
 @#564
 JP: 地球上で、最初に酸素を放出したのは<n>海中のラン細菌だった。
@@ -2312,7 +2312,7 @@ EN: The face has the most pores of any part of the human body.<n>It has about 20
 
 @#577
 JP: 玉ねぎに含まれる硫化アリルという匂い成分には、<n>精神を安定させる働きがある。
-EN: Allyl sulfide, a substance that gives onions their smell,<n>has a calming effect on the mind.
+EN: Onions' smelly allyl sulfide has a calming effect on the mind.
 
 @#578
 JP: ロバート・フックが発見した<n>「小部屋」は、細胞と名付けられた。
@@ -2328,7 +2328,7 @@ EN: Spread flat, the human small intestine<n>would cover an area of 120 tatami m
 
 @#581
 JP: 雀の足の指、サソリのハサミ以外の足、ダニの足は<n>すべて８本である。
-EN: A sparrow's toes, a scorpion's legs excluding its pincers,<n>and a mite's legs all total eight each.
+EN: Sparrows have eight toes. Scorpions and mites each have eight legs.
 
 @#582
 JP: ナノはラテン語で小さい人、と言う意味である。<n>バクテリアやウィルスを測るときの単位。
@@ -2348,7 +2348,7 @@ EN: Archaeopteryx had a total of six clawed fingers<n>across its two wings.
 
 @#586
 JP: クモは無重力の世界でも、きれいに巣がはれる。<n>宇宙ステーションで実際に行われた実験で、<n>最初のうちは巣がはれなかったクモたちが、<n>２カ月弱の滞在期間中に環境に適応して、<n>きれいにはれるようになった。
-EN: Spiders can spin neat webs even in zero gravity.<n>In an experiment aboard a space station,<n>the spiders couldn't spin webs at first.<n>During their stay of just under two months,<n>they adapted and learned to spin neat webs.
+EN: Spiders can spin neat webs in zero gravity! On a space station, they struggled at first, but adapted during a stay of just under two months.
 
 @#587
 JP: アフリカ象とインド象の違いは、<n>鼻の先が三角なのはインド象、<n>耳が大きいのはアフリカ象。<n>ちなみにアフリカ象はインド象に比べて<n>飼いならすのが難しい。
@@ -2384,7 +2384,7 @@ EN: "Koala" means "doesn't drink water"<n>in an Aboriginal language.
 
 @#595
 JP: 恐竜が首と尾を水平にして歩いていた。<n>揺れが小さく、歩幅も大きくなるので<n>効率のよい歩き方だった。
-EN: Dinosaurs walked with their necks and tails held level.<n>This reduced swaying and lengthened their strides,<n>making it an efficient way to walk.
+EN: Dinosaurs held their necks and tails level to walk efficiently, with less sway and longer strides.
 
 @#596
 JP: フグは、目のまわりの皮膚が収縮して<n>目を閉じることができる。
@@ -2408,7 +2408,7 @@ EN: One theory says cats were brought to Japan<n>aboard ships carrying scripture
 
 @#601
 JP: 江戸時代、大阪は「天下の台所」と呼ばれた。<n>当時、経済の中心地であり、<n>商人の町、交通の要所であったから、<n>一流の食材が集まっていたため。
-EN: In the Edo period, Osaka was called 'the nation's kitchen.'<n>It was the economic center of the time,<n>a city of merchants and a transport hub,<n>so the finest ingredients gathered there.
+EN: Edo-era Osaka was 'the nation's kitchen': a trade and transport hub where the finest ingredients gathered.
 
 @#602
 JP: みかんをたくさん食べたときに、<n>手が黄色くなるのは、<n>みかんに含まれる「βクリプトキサンチン」という<n>橙色の色素が蓄積されて、血管を通して<n>皮膚に出てくるから。
@@ -2424,7 +2424,7 @@ EN: A brooch is usually worn on the left chest.<n>That's because its design flow
 
 @#605
 JP: 「濡衣（ぬれぎぬ）」の語源は、<n>先妻の娘の美しさを妬む継母が、<n>娘の部屋に濡れた着物を置いたため、<n>漁師の恋人がいると誤解した、<n>父親は怒って、娘を殺してしまったことから。
-EN: 'Nureginu' means 'false accusation,' literally 'wet clothes.'<n>A stepmother, jealous of her stepdaughter's beauty,<n>left a wet kimono in the girl's room.<n>Her father thought she had a fisherman for a lover<n>and killed her in a rage. That's where the saying comes from.
+EN: Nureginu ('wet clothes') means a false charge. Jealous of her beauty, a stepmother planted a wet kimono. Thinking his daughter had a fisherman lover, her father killed her.
 
 @#606
 JP: 日本には、１３箇所の世界遺産がある。
@@ -2440,7 +2440,7 @@ EN: In adults,<n>nails grow about 0.1 millimeters a day.
 
 @#609
 JP: 「トンチンカン」という言葉は、もともとは鍛冶屋で、<n>二人が交互に鎚を打つ音がそろわないことから、<n>「つじつまが合わない」という意味になった。
-EN: The Japanese word 'tonchinkan' came from blacksmiths:<n>two smiths striking in turns, their hammers out of sync.<n>It came to mean 'inconsistent' or 'not adding up'.
+EN: Tonchinkan ('inconsistent') comes from the out-of-sync hammering of two blacksmiths taking turns.
 
 @#610
 JP: ハンカチーフを四角に決めたのは<n>マリーアントワネットだった。
@@ -2452,7 +2452,7 @@ EN: The black specks inside a banana<n>are the remains of seeds.<n>Seedless bana
 
 @#612
 JP: クチナシの実で染めた濃いキイロのことを、<n>昔は「口無し」にかけて、「言わぬ色」とも<n>言っていた。
-EN: The deep yellow dye from gardenia fruit was called<n>'the color that says nothing,' a pun on 'kuchinashi,'<n>which sounds like 'no mouth' in Japanese.
+EN: Gardenia yellow was called 'the silent color': kuchinashi, or gardenia, also sounds like 'no mouth'.
 
 @#613
 JP: きんぴらごぼうの「きんぴら」の語源は<n>江戸時代に流行った金平浄瑠璃の主人公、<n>坂田金平から。<n>金平は、怪力で有名だったので、<n>硬いごぼうを使った料理にもその名がついた。
@@ -2468,11 +2468,11 @@ EN: The woodblock artist Katsushika Hokusai<n>moved house 93 times during his li
 
 @#616
 JP: １９１２年、国際陸上競技連盟にて、<n>陸上のトラックは、左回りと統一された。
-EN: In 1912, the international athletics federation<n>made counterclockwise the standard direction for track races.
+EN: In 1912, the IAAF made counterclockwise the standard for track races.
 
 @#617
 JP: 「木で鼻をくくる」とは、<n>相手への冷淡な態度のたとえのこと。<n>ほかにも、杵で鼻こすったよう、拍子木で鼻かむ、<n>とも言う。
-EN: The Japanese saying 'wipe your nose with wood'<n>means to give someone a cold reception.<n>Similar sayings include 'rub your nose with a mallet'<n>and 'blow your nose with wooden clappers.'
+EN: 'Wipe your nose with wood' means a cold reception. Other versions say 'rub your nose with a mallet' or 'blow it with wooden clappers'.
 
 @#618
 JP: 現在、ビタミンは１３種類、発見されている。<n>ちなみに、ビタミンの名前についた<n>アルファベットや数字は、発見された順番に<n>つけられたもの。
@@ -2484,7 +2484,7 @@ EN: The fresher an egg is, the rougher<n>and duller its shell.<n>To check its fr
 
 @#620
 JP: ズボンのことを、明治時代、<n>「洋袴」とか「段袋」と呼んでいた。
-EN: During the Meiji period, trousers were called<n>'Western hakama' or 'stepped sacks' in Japan.
+EN: In Meiji Japan, trousers were 'Western hakama' or 'stepped sacks'.
 
 @#621
 JP: キューピッドとエンジェルの見分け方。<n>弓矢を持っていたらキューピッド、<n>ハープやラッパを持っていたらエンジェル。
@@ -2492,7 +2492,7 @@ EN: How to tell Cupid and an angel apart:<n>Cupid carries a bow and arrows.<n>An
 
 @#622
 JP: 「役不足」<n>人物の力量に対して、役目の方が不足していること。<n>謙遜して「役不足ですが…」と使うのは、間違い。
-EN: 'Yakubusoku'<n>A Japanese term for a role too small for someone's talents.<n>Using it to humbly say 'I'm not up to the job' is incorrect.
+EN: 'Yakubusoku' means a job beneath your talents. Using it to humbly say 'I'm not up to the job' is wrong.
 
 @#623
 JP: 日本のトイレットぺーパーの幅が<n>１１４ミリになったのは、<n>アメリカの主流サイズ４．５インチに<n>合わせたから。
@@ -2508,7 +2508,7 @@ EN: In tennis, zero is called 'love'<n>because a zero resembles an egg.<n>The Fr
 
 @#626
 JP: 「幕の内弁当」は、芝居の幕間の休憩時間に<n>食べるお弁当だから「幕の内」となった。<n>握り飯に煮物、カマボコ、卵焼きなどの<n>おかずがついたものがもともとの原型。
-EN: Makunouchi boxed lunches got their name, 'between the curtains,'<n>from being eaten during theater intermissions.<n>The original version had rice balls with side dishes<n>like simmered vegetables, fish cake and rolled omelet.
+EN: Makunouchi means 'between the curtains': a theater-interval lunch, originally rice balls, simmered foods, fish cake and omelet.
 
 @#627
 JP: 「けんもほろろ」<n>「けん」と「ほろろ」はキジの鳴き声。<n>その無愛想な声の響きが語源となって、<n>あっさりとあしらわれる様子のこと。
@@ -2520,7 +2520,7 @@ EN: A 'cross-border station' is a station built<n>in the town next to the one yo
 
 @#629
 JP: 握り鮨は、二個で一貫と数える。<n>一貫は、江戸時代の屋台で出された鮨が、<n>穴あき銭で一貫分の大きさと同じくらいだったから。
-EN: Two pieces of nigiri sushi count as one 'kan.'<n>The name comes from Edo-period sushi stalls, whose sushi<n>was about the same size as a kan's worth of coins with holes in them.
+EN: Two nigiri pieces count as one 'kan': Edo stall sushi was about the size of a kan's worth of holed coins.
 
 @#630
 JP: おなかが鳴るのは、<n>飢餓収縮と言う胃袋の働きによるもの。<n>空腹によって、胃に強い収縮が起こると<n>胃袋の上の方に溜まっていた空気が圧迫されて<n>「グーッ」と鳴る。
@@ -2568,7 +2568,7 @@ EN: Worcestershire sauce takes its name from<n>the English county of Worcestersh
 
 @#641
 JP: 「きしめん」の名の由来は、<n>練って伸ばした小麦粉を碁石の形に打ち抜いたので、<n>「碁石のめん」が「きしめん」になった。<n>また、平たいめんの形を考案したそば屋の主人が<n>紀州出身だったからという説もある。
-EN: One theory about the name 'kishimen':<n>The dough was cut into shapes like Go stones,<n>and 'Go-stone noodles' became 'kishimen.'<n>Another says the owner who devised the flat noodles<n>came from Kishu, which gave them their name.
+EN: Kishimen may come from 'Go-stone noodles,' once cut like Go stones. Another theory credits a noodle shop owner from Kishu with inventing the flat noodles.
 
 @#642
 JP: 昭和２３年から２６年まで<n>日本でも、サマータイムが実施されていた。
@@ -2576,7 +2576,7 @@ EN: From 1948 to 1951,<n>Japan also observed daylight saving time.
 
 @#643
 JP: 台風の渦巻きは、北半球では左巻き、<n>南半球では右巻きに回転して進む。<n>これは、「コリオリ」という、地球の自転によって<n>風の進行方向を曲げる力によって起きている。<n>ちなみに、コリオリは赤道ではゼロになるので、<n>赤道上の台風というのはない。
-EN: Typhoons spin counterclockwise in the Northern Hemisphere<n>and clockwise in the Southern Hemisphere.<n>This is due to the Coriolis force,<n>which bends the wind's path as Earth rotates.<n>The force is zero at the equator,<n>so typhoons don't occur right on it.
+EN: Typhoons spin counterclockwise north of the equator, clockwise south of it. Earth's rotation bends winds via the Coriolis force. This force is zero at the equator, so no typhoons form there.
 
 @#644
 JP: 第二次世界大戦前までは、<n>沖縄本島にも鉄道があった。
@@ -2584,7 +2584,7 @@ EN: Before World War II,<n>Okinawa's main island also had a railway.
 
 @#645
 JP: ４７都道府県名で、最も多く使われている漢字は、<n>「山」。<n>山形、山梨、山口、富山、和歌山、岡山。<n>６県で使われてる。
-EN: The most common kanji in Japan's 47 prefecture names<n>is 'yama,' meaning mountain.<n>It appears in Yamagata, Yamanashi, Yamaguchi, Toyama,<n>Wakayama and Okayama. Six prefectures in all.
+EN: Japan's most common prefecture-name kanji is 'yama' (mountain): Yamagata, Yamanashi, Yamaguchi, Toyama, Wakayama and Okayama. Six in all!
 
 @#646
 JP: 手の他に、足や目にも<n>右利き、左利きがある。<n>ちなみに、利き手の場合、<n>日本人の９０％以上が右利き。
@@ -2644,11 +2644,11 @@ EN: Types of gloves include half mitts, opera gloves and arm-length gloves.
 
 @#660
 JP: 二葉亭四迷のペンネームは、<n>父親から「くたばってしめえ」と怒鳴られたことから。
-EN: Futabatei Shimei's pen name echoes "Kutabatte shimee!" ("Drop dead!"), which his father yelled at him.
+EN: Futabatei Shimei's pen name mimics his dad's cry of 'Drop dead!' in Japanese.
 
 @#661
 JP: ハチミツは、アルカリ性食品。<n>ミツバチが花の蜜に、体内で転化酵素を加えて、<n>ブドウ糖と果糖に分解したもの、<n>それがハチミツ。<n>ちなみに、ハチミツ自体が強い殺菌力を持っていて<n>何年も腐敗しない優秀な健康食品である。
-EN: Honey is an alkaline food.<n>Bees add the enzyme invertase to flower nectar, breaking it down into glucose and fructose to make honey.<n>Honey has strong germ-killing properties and keeps for years without spoiling, making it an excellent health food.
+EN: Honey is an alkaline health food. Bees add invertase to nectar, splitting it into glucose and fructose. Honey kills germs and can keep for years without spoiling.
 
 @#662
 JP: タイではナンプラー、ベトナムではニョクマム、<n>秋田ではしょっつる、北海道や石川ではイカ醤油、<n>香川ではイカナゴ醤油。<n>これらみんな魚から作る醤油、魚醤のこと。
@@ -2660,7 +2660,7 @@ EN: Seibu's Ikebukuro and Shinjuku lines began as rival firms, Musashino Railway
 
 @#664
 JP: 「十八番（おはこ）」の語源は、<n>江戸歌舞伎の市川家が得意演目「歌舞伎十八番」の<n>台本を箱に入れて大切にしまっていたから。
-EN: "Ohako," meaning a specialty, comes from the Ichikawa kabuki family in Edo keeping scripts for their eighteen signature plays safe in boxes, or "hako."
+EN: Ohako (specialty) comes from the Ichikawa kabuki family storing their 18 signature plays' scripts in boxes (hako).
 
 @#665
 JP: 秋の七草は、<n>はぎ、ききょう、くず、おみなえし、<n>なでしこ、おばな、ふじばかま。
@@ -2668,7 +2668,7 @@ EN: Japan's seven flowers of autumn are bush clover, balloon flower, kudzu, gold
 
 @#666
 JP: 核兵器を作らない、持たない、持ち込ませない。<n>これが非核三原則。
-EN: Japan's Three Non-Nuclear Principles: never produce, possess or allow in nuclear weapons.
+EN: Three Non-Nuclear Principles: never make, own or allow in nuclear weapons.
 
 @#667
 JP: シクラメンは、<n>ブタがその地下茎を食べていたので<n>「ブタのパン」と呼ばれていた。<n>明治時代、日本に伝わったときは、<n>「ブタのマンジュウ」と訳されていた。
@@ -2676,7 +2676,7 @@ EN: Cyclamen was called "sowbread" because pigs ate its underground stems.<n>Whe
 
 @#668
 JP: コンセントの穴は、左の穴の方が大きい。<n>家庭用電気の変圧器の故障に備えて、<n>家庭用電線の片方をアースしてあるから。
-EN: The left slot in a Japanese wall outlet is larger.<n>One of the home's wires is grounded as a precaution against a household transformer failure.
+EN: A Japanese outlet's left slot is larger: its wire is grounded to guard against transformer failure.
 
 @#669
 JP: 特異日とは、ある天気が<n>高い確率で現れる特定の日のこと。<n>ちなみに１１月３日は、<n>晴れの特異日である。
@@ -2684,7 +2684,7 @@ EN: A "weather singularity" is a date when a particular kind of weather is unusu
 
 @#670
 JP: 肥満であるかどうかの指標として使われるＢＭＩ。<n>体重（Ｋｇ）÷身長（ｍ）の２乗で計算する。<n>最も健康なＢＭＩ値は、２２。<n>２５以上だと肥満になる。
-EN: BMI is used to judge whether someone is obese.<n>Calculate it as weight in kg divided by height in meters squared.<n>The healthiest BMI is 22.<n>A value of 25 or more means obesity.
+EN: BMI gauges obesity: weight in kg divided by height in meters squared. The healthiest score is 22; 25 or above counts as obese.
 
 @#671
 JP: 「卵の殻で海を渡る」とは、<n>やってもできないこと、<n>危険なことをするたとえ。
@@ -2692,7 +2692,7 @@ EN: 'Crossing the sea in an eggshell' means<n>attempting the impossible,<n>or do
 
 @#672
 JP: 世界で最も短い手紙は、文豪ビクトル・ユゴーの<n>ものだと言われている。<n>「レ・ミゼラブル」の売れ行きが気になった彼が<n>版元に送った一通の手紙は、「？」という一字だけ。<n>版元の返事は、大きく「！」。<n>「売れている」の意味だった。
-EN: The world's shortest letter is said to have been written<n>by the great author Victor Hugo.<n>Wondering how Les Miserables was selling,<n>he sent his publisher a letter containing only '?'.<n>The publisher replied with a big '!'.<n>That meant it was selling well.
+EN: Victor Hugo is said to have sent the world's shortest letter: '?', asking his publisher how Les Miserables was selling. The reply was a big '!', meaning sales were great.
 
 @#673
 JP: 日本で一番透明度が高い湖は<n>北海道の摩周湖である。<n>１９３１年の調査では、<n>４１．６メートルを記録した。
@@ -2704,7 +2704,7 @@ EN: The Italian dish gnocchi<n>takes its name from the plural of gnocco,<n>which
 
 @#675
 JP: 桐タンスが火事に強いとされるのは、<n>燃えにくく、水をかけると<n>膨張して引き出しの隙間をふさいで<n>中の衣類を守るため。
-EN: Paulownia dressers are said to withstand fires because<n>the wood is hard to burn, and water makes it<n>swell and seal the gaps around the drawers,<n>protecting the clothes inside.
+EN: Paulownia dressers resist fire: the wood burns poorly and swells when wet, sealing drawer gaps to protect the clothes.
 
 @#676
 JP: 「千鳥格子」は、<n>英語ではハウンド・トゥースと呼ぶ。<n>犬のキバが並んでるように見えるから。<n>
@@ -2724,7 +2724,7 @@ EN: When storing eggs in the fridge,<n>keep the pointed end down.<n>If the round
 
 @#680
 JP: 「白寿」<n>九十九歳の長寿のお祝い。<n>「百」の字から「一」をとると「白」になるから。
-EN: 'Hakuju,' or 'white longevity':<n>A celebration of someone's 99th birthday.<n>Removing the top stroke from the kanji for '100' gives the kanji for 'white.'
+EN: 'Hakuju' marks age 99: remove 'one' from the kanji for 'hundred' and you get 'white.'
 
 @#681
 JP: すき焼きをするとき、シラタキのとなりに<n>肉を置かないほうがよい。<n>シラタキに含まれるカルシウムが、<n>肉を変色させたり、硬くしてしまうから。
@@ -2740,11 +2740,11 @@ EN: There are as many as 200 species of fish<n>with organs that generate electri
 
 @#684
 JP: 人間の左脳は論理的・分析的な働きをし、<n>右脳は直感的・感覚的な働きをする。<n>虫の声や鳥のさえずりを、<n>欧米人が右脳で「音」として受け取るのに対し、<n>日本人は「言葉」と同じ、左脳で受け取る。
-EN: The brain's left half handles logic and analysis,<n>while the right handles intuition and the senses.<n>Westerners process insect calls and birdsong<n>as 'sounds' in the right half of the brain.<n>Japanese people process them in the left half, like words.
+EN: The left brain handles logic; the right, intuition. Westerners process bird and insect calls on the right as sounds; Japanese use the left, like words.
 
 @#685
 JP: 日本の鉄道開業当時、<n>蒸気機関車は、陸蒸気（おかじょうき）と、<n>運転士は「陸蒸気の船頭」と呼ばれていた。
-EN: When Japan's railways first opened,<n>steam locomotives were called 'okajoki,' or 'land steamers.'<n>Their drivers were called 'land-steamer captains.'
+EN: Japan's first steam trains were called 'land steamers,' and their drivers 'land-steamer captains.'
 
 @#686
 JP: 「さしがね」とは、<n>蝶などを動かすときに使う<n>歌舞伎の小道具のこと。<n>転じて、裏で人を操ること。
@@ -2768,11 +2768,11 @@ EN: 'Bonkura': a dimwit.<n>'Bon' refers to the mat beneath a gambler's dice cup.
 
 @#691
 JP: ビールと発泡酒の違いは、麦芽使用率。<n>２／３以上がビール、２／３未満なら発泡酒。
-EN: Beer and happoshu differ in their malt content.<n>At least two-thirds means beer; less means happoshu.
+EN: Malt content: beer is at least 2/3 malt; happoshu is less.
 
 @#692
 JP: 江戸時代、妊婦のもとへ急ぐ産婆は<n>大名行列を横切ることが許されていた。
-EN: In the Edo period, a midwife hurrying to a woman in labor<n>was allowed to cross a feudal lord's procession.
+EN: In Edo Japan, midwives rushing to a birth could cross a lord's procession.
 
 @#693
 JP: 仕事の分量を数える単位は、<n>「人日」や「人月」。
@@ -2784,11 +2784,11 @@ EN: 'Hidden knife work' is a cooking technique.<n>Cuts are made on the underside
 
 @#695
 JP: 日本一長い駅名は、一畑鉄道の<n>「ルイス・Ｃ．ティファニー庭園美術館前」駅。
-EN: Japan's longest station name belongs to Ichibata Railway:<n>'Louis C. Tiffany Teien Bijutsukan-mae.'
+EN: Japan's longest station name: Louis C. Tiffany Teien Bijutsukan-mae (Ichibata).
 
 @#696
 JP: いなり寿司を「しのだ寿司」と呼ぶのは、<n>狐の好物が油揚げなのと<n>大阪の信太（しのだ）の森に<n>美女に化けて人をだましたという白狐が<n>住んでいたから。
-EN: Inari sushi is also called 'Shinoda sushi.'<n>It uses fried tofu, said to be a fox's favorite food.<n>Osaka's Shinoda Forest was said to be home<n>to a white fox that took the form of a beautiful woman<n>and tricked people. That's where the name comes from.
+EN: Inari sushi is also called 'Shinoda sushi': foxes love its fried tofu, and Osaka's Shinoda Forest had a white fox said to fool people by posing as a beauty.
 
 @#697
 JP: 魚の数え方は、<n>生きているうちは「匹」、<n>食材になると「尾」。<n>サンマなど細長い魚は「本」。<n>ヒラメなど平たい魚は「枚」。
@@ -2796,19 +2796,19 @@ EN: Japanese counting words for fish vary:<n>'Hiki' for living fish.<n>'Bi' for 
 
 @#698
 JP: オリンピック競技になる条件は、<n>男性競技は「少なくとも四大陸にわたって<n>７５か国以上で広く行われている競技」、<n>女性競技では「少なくとも三大陸にわたって<n>４０か国以上で広く行われている競技」と<n>オリンピック憲章で定められている。
-EN: The Olympic Charter sets these requirements<n>for a sport to become an Olympic event:<n>Men's sports must be widely practiced in at least<n>75 countries across four continents.<n>Women's sports must be widely practiced in at least<n>40 countries across three continents.
+EN: To qualify for the Olympics, the Charter requires men's sports to be widely played in at least 75 countries on four continents; women's, in at least 40 countries on three continents.
 
 @#699
 JP: 「弱冠」は、もともと二十歳のことだったが、<n>最近は、年の若い人のことをいう。
-EN: 'Jakkan' originally meant being 20 years old.<n>These days, it refers more generally to being young.
+EN: 'Jakkan' once meant age 20. Today it just means young.
 
 @#700
 JP: 「虫酸が走る（むしずがはしる）」<n>「虫酸」とは、胃からあがってくる胃液のこと。<n>転じて、不快な気分になること。
-EN: 'Mushizu ga hashiru': to feel sick with disgust.<n>'Mushizu' means stomach acid that rises into the throat.<n>The phrase came to describe a feeling of intense revulsion.
+EN: 'Mushizu ga hashiru' means to feel disgust. 'Mushizu' is stomach acid rising in the throat.
 
 @#701
 JP: 相撲では、勝負に勝つことを白星、<n>平幕力士が横綱に勝った場合は金星という。
-EN: In sumo, a win is a 'white star.' A 'gold star' is earned<n>when a rank-and-file wrestler defeats a yokozuna.
+EN: In sumo: a win is a white star; a maegashira beating a yokozuna, gold.
 
 @#702
 JP: 日本で最初の蒸気機関車を運転していたのは、<n>イギリス人だった。
@@ -2816,7 +2816,7 @@ EN: Japan's first steam locomotives<n>were driven by British drivers.
 
 @#703
 JP: 料理の「ひとつまみ」は、指三本でつまんだ量、<n>「少々」は指二本でつまんだ量。
-EN: In Japanese recipes, a 'pinch' means a three-finger pinch.<n>'A little' means a two-finger pinch.
+EN: Japanese recipes: a 'pinch' uses 3 fingers; 'a little' uses 2.
 
 @#704
 JP: 男性１８歳、女性１６歳になると<n>親の同意のもとに結婚できる。<n>ちなみに未成年でも民法上は結婚すると<n>成年扱いになる。<n>しかも未成年のまま離婚しても、<n>そのまま成人扱いとなる。
@@ -2828,7 +2828,7 @@ EN: If a zipper sticks,<n>rub a little wax on it while it's closed.<n>That will 
 
 @#706
 JP: 江戸幕府、１５代の将軍の中で、一番長生きしたのは、<n>最後の将軍、徳川慶喜の７７歳。
-EN: Of the Edo period's 15 shoguns, the longest-lived<n>was the last, Tokugawa Yoshinobu, who lived to 77.
+EN: Of Edo's 15 shoguns, the last, Tokugawa Yoshinobu, lived longest: 77 years.
 
 @#707
 JP: 濃口醤油と薄口醤油では、<n>薄口のほうが、しょっぱい。<n>薄口醤油は濃口より約一割食塩が多く、<n>塩分は約２％多い。
@@ -2836,11 +2836,11 @@ EN: Of dark and light soy sauce,<n>the light variety is saltier.<n>It uses about
 
 @#708
 JP: 「松風」は、表面にだけ焦げ目や焼き目をつけた<n>菓子や料理のこと。<n>表は華やかなのに裏はさびしいので、裏さびしい。<n>浦さびしい松風の音から、松風となった。
-EN: 'Matsukaze' means dishes or sweets browned only on top.<n>The fancy top leaves the underside looking lonely:<n>'ura sabishii.' That sounds like a lonely shore,<n>where 'matsukaze,' the wind in the pines, blows.<n>That's the pun behind the name.
+EN: Matsukaze foods brown only on top. The plain 'ura' (back) puns on 'ura' (shore): a lonely shore swept by matsukaze, wind in the pines.
 
 @#709
 JP: 「１０月半ばから１１月末日までに<n>初めて吹く北または西寄りの秒速８メートル以上」<n>の風が、気象庁の定める木枯らし１号。
-EN: The weather agency defines 'Kogarashi No. 1' as<n>the first northerly or westerly wind of at least 8 meters<n>per second between mid-October and the end of November.
+EN: Japan defines Kogarashi No. 1 as the first N/W wind of 8 m/s or more from mid-October through November.
 
 @#710
 JP: １９４９年、第一次ベビーブームの<n>出生数は、２７０万人。<n>１９７３年の第二次ベビーブームの<n>出生数は、２０９万人。
@@ -2860,11 +2860,11 @@ EN: Awaji Island in the Seto Inland Sea<n>had a railway running from 1922 to 196
 
 @#714
 JP: 新人などを指す「新米」は、もとは「新前」と書いた。<n>江戸時代、店の主人は、新しく来た奉公人に<n>「新しい前かけ」を与え、「新前」と呼んだから。
-EN: 'Shinmai,' meaning a newcomer, was once<n>written 'shinmae.' In Edo times, shopkeepers<n>gave new servants fresh aprons, or 'shinmae,'<n>and called the servants that too.
+EN: 'Shinmai' (newbie) was once 'shinmae': a new apron, like those given to new shop servants in Edo times.
 
 @#715
 JP: お祝い料理につきものの鯛が「尾頭つき」なのは、<n>頭から尾まで欠けることなく揃っているという<n>縁起をかついでいるから。
-EN: Celebratory sea bream is served with its<n>head and tail intact for good luck:<n>it is complete from head to tail,<n>with nothing missing.
+EN: For good luck, festive sea bream keeps its head and tail: nothing is missing, so it symbolizes completeness.
 
 @#716
 JP: ダイヤモンドの「４つのＣ」は、<n>カット、カラット、カラー、クオリティ。<n>この４つのＣでダイヤモンドの品質が決まる。
@@ -2876,7 +2876,7 @@ EN: At the Olympics and World Championships,<n>swimming pools must be kept at 26
 
 @#718
 JP: １０月１４日（旧暦の９月１２日）は、<n>日本で初めて鉄道が開通した鉄道記念日。<n>本来は旧暦の９月９日、重陽の節句の日に<n>予定されていたが、悪天候のため延期された。
-EN: Railway Day, October 14, marks the opening<n>of Japan's first railway: September 12 on<n>the old calendar. It was planned for the<n>Chrysanthemum Festival on September 9,<n>but bad weather delayed it.
+EN: Japan's Railway Day: Oct. 14 (old calendar: Sept. 12). Bad weather delayed the first railway's opening from Sept. 9, the Chrysanthemum Festival.
 
 @#719
 JP: 競走馬は、父親が同じだけでは、<n>兄弟とは呼ばない。<n>母親も同じ場合のみ、兄弟姉妹とみなされる。
@@ -2900,7 +2900,7 @@ EN: The bikini swimsuit was named after<n>Bikini Atoll in the Marshall Islands.<
 
 @#724
 JP: 上野にある西郷隆盛の銅像がつれている<n>犬は、薩摩犬で「ツン」という名前だった。
-EN: The dog beside the statue of<n>Saigo Takamori in Ueno is<n>a Satsuma dog named Tsun.
+EN: The dog with Saigo Takamori's statue in Ueno is Tsun, a Satsuma dog.
 
 @#725
 JP: 「贔屓（ひいき）」<n>石碑を支える石造りの大きな亀のことを<n>「贔屓（ひき）」と呼んだことから、<n>気に入った役者や店に対して<n>特別に支援するという意味になった。
@@ -2908,7 +2908,7 @@ EN: 'Hiiki' means favoritism.<n>Its characters also name the 'hiki,'<n>a huge st
 
 @#726
 JP: 眼鏡の生産が、日本一の都道府県は、福井県。<n>約６割が生産されている。
-EN: Fukui is Japan's leading prefecture<n>for eyeglass production.<n>It makes about 60 percent of them.
+EN: Fukui leads Japan in eyeglass production, making about six in ten.
 
 @#727
 JP: 一期一会の「一期」は、一生涯という意味。
@@ -2920,15 +2920,15 @@ EN: In Japanese, postboxes are counted<n>with 'hon,' the counter for long object
 
 @#729
 JP: 「能書き」<n>薬の説明書のことを「効能書き」という。<n>薬の効能がいくつも書いてあることから<n>自分のすぐれた点を並べ立てた言葉となった。
-EN: 'Nogaki' means bragging.<n>It comes from 'konogaki,' a medicine leaflet.<n>Since those leaflets list a medicine's<n>many benefits, the word came to mean<n>listing all your own fine qualities.
+EN: Nogaki, 'bragging,' comes from konogaki, a leaflet listing a medicine's benefits. It came to mean listing your own fine points.
 
 @#730
 JP: 世界初の自動改札機が設置されたのは、<n>阪急電鉄の北千里駅。<n>定期券専用だったが、<n>切符や現金を入れてしまう客が多く、<n>故障がたえなかった。
-EN: The world's first automatic ticket gates were installed<n>at Hankyu Railway's Kita-Senri Station.<n>They only accepted season passes,<n>but passengers often inserted tickets or cash,<n>causing frequent breakdowns.
+EN: The world's first automatic ticket gates were at Hankyu's Kita-Senri Station. They took only season passes, but people inserted tickets and cash, causing frequent breakdowns.
 
 @#731
 JP: 会席料理と懐石料理の違いは、<n>会席料理はお酒を楽しむための宴会料理で、<n>懐石料理は茶の湯の席で出す軽い食事のこと。
-EN: Two kinds of Japanese cuisine share the name kaiseki.<n>One is a banquet meal enjoyed with sake.<n>The other is a light meal served at a tea ceremony.
+EN: Kaiseki has two forms: banquet fare to enjoy with sake, and a light meal served at a tea ceremony.
 
 @#732
 JP: ハンカチにアイロンがけするときのコツは、<n>アイロン台に真四角に整えたハンカチを置き、<n>高温のアイロンを真ん中から四方へとかけること。
@@ -2936,11 +2936,11 @@ EN: To iron a handkerchief neatly,<n>lay it on the ironing board in a perfect sq
 
 @#733
 JP: パンダの和名は「シロクログマ」。<n>ちなみに中国語では「大熊猫」、<n>学名は「アイルロポーダ・メラノレウカ」。
-EN: A panda's Japanese name, shirokuroguma, means "black-and-white bear."<n>Its Chinese name means "big bear-cat."<n>Its scientific name is Ailuropoda melanoleuca.
+EN: Panda: 'black-white bear' in Japanese, 'big bear-cat' in Chinese; scientific name: Ailuropoda melanoleuca.
 
 @#734
 JP: 外国映画の字幕のルールは、<n>「フィルム１フィートに対して３文字」。<n>時間にすると１秒間に４文字。
-EN: The rule for Japanese subtitles in foreign films is<n>three characters per foot of film.<n>That works out to four characters per second.
+EN: For foreign films, Japanese subtitles allow three characters per foot of film, or four per second.
 
 @#735
 JP: 酔いを早く覚ましたいときには、<n>柿を食べるといい。<n>アルコールを分解するフルクトース、<n>血中アルコール濃度を下げるペクチン、<n>胃の粘膜を引き締めるタンニンが含まれているため。
@@ -2960,7 +2960,7 @@ EN: Gokiburi, Japanese for cockroach,<n>was originally gokikaburi.<n>Goki meant 
 
 @#739
 JP: 「鍋肌」は鍋の内側のこと。<n>「最後に醤油を鍋肌から回し入れ」のように使う。
-EN: Nabehada, or "pot skin," means the inside surface of a cooking pot.<n>As in, "Finish by drizzling soy sauce around the inside of the pot."
+EN: Nabehada means a pot's inner surface: 'Drizzle soy sauce around the edge.'
 
 @#740
 JP: 「ガリバー旅行記」のガリバーは、<n>日本も旅行し、江戸に上陸して、<n>徳川将軍に謁見したことになっている。
@@ -2972,7 +2972,7 @@ EN: To find shoes that fit well,<n>shop in the evening after a day's work.<n>Aft
 
 @#742
 JP: 北海道の広尾線は廃線になったが、<n>その「愛国」と「幸福」駅舎は、<n>取り壊されず、観光スポットとなっている。
-EN: Hokkaido's Hiroo Line has closed,<n>but its Aikoku and Kofuku station buildings were preserved<n>and have become tourist attractions.
+EN: Hokkaido's Hiroo Line closed, but Aikoku and Kofuku's station buildings remain as tourist attractions.
 
 @#743
 JP: 「くだをまく」<n>くだ（管）は、糸車の軸のこと。<n>糸車を回すとブウブウという音がする。<n>この音から、酔った人が<n>訳のわからないことをいうことを<n>くだをまくと言うようになった。
@@ -2984,23 +2984,23 @@ EN: A diamond is a single crystal of carbon.<n>To become that hard, it needs<n>a
 
 @#745
 JP: 焼きたてのパンを上手に切るコツは、<n>包丁の刃をコンロで充分に熱してから使うと<n>切り口がぼろぼろにならず、滑らかに切れる。
-EN: To slice freshly baked bread neatly,<n>heat the knife blade well over the stove before using it.<n>This gives you smooth slices instead of crumbly edges.
+EN: For neat slices of fresh bread, heat the knife blade well on the stove. It will cut smoothly, without crumbling.
 
 @#746
 JP: 「切磋琢磨」<n>骨を切る。象牙を磋ぐ。玉を琢つ。石を磨くという<n>４つの加工のこと。<n>互いに競い合い、磨きあうという意味。
-EN: Sessatakuma is a Japanese saying.<n>Its four parts mean cutting bone, filing ivory,<n>carving jade and polishing stone.<n>It means improving one another through friendly competition.
+EN: Sessatakuma: cutting bone, filing ivory, carving jade, polishing stone. It means helping each other improve through friendly competition.
 
 @#747
 JP: 「いちご煮」とは、<n>青森県の八戸地方の名物で<n>切ったアワビとウニを潮汁で煮たもの。<n>煮込んだウニが野苺に似ていたことから<n>ついた名前。
-EN: Ichigoni, or "strawberry stew,"<n>is a specialty of Hachinohe in Aomori Prefecture.<n>It's sliced abalone and sea urchin in a salty seafood broth.<n>The name comes from the cooked sea urchin's<n>resemblance to wild strawberries.
+EN: Ichigoni, Hachinohe's specialty in Aomori, is sliced abalone and sea urchin in salty broth. Its name, "strawberry stew," comes from the cooked urchin's likeness to wild strawberries.
 
 @#748
 JP: 鶏肉を「カシワ」というのは<n>柏の葉に形が似ているから。<n>ササミは、笹の葉にその形が似ているから。
-EN: Chicken is called kashiwa in Japanese<n>because its shape resembles a kashiwa oak leaf.<n>Tenderloin is called sasami because it resembles a bamboo leaf.
+EN: Chicken is called kashiwa for its oak-leaf shape; tenderloin is sasami for its bamboo-leaf shape.
 
 @#749
 JP: 新しく買った陶器を使い始める前には、<n>一度、煮立てて冷めるまで放っておくと、<n>熱湯消毒になるだけでなく、割れにくくなる。
-EN: Before using new pottery,<n>boil it once and leave it until it cools.<n>This both sterilizes it and makes it less likely to crack.
+EN: Before using new pottery, boil it and let it cool in the water to sterilize it and help prevent cracks.
 
 @#750
 JP: イタリア料理のオードブル「カルパッチョ」は、<n>画家カルパッチョからその名がついた。<n>生の牛肉の赤とカルパッチョの描く絵の具の赤が<n>似ていたことから。
@@ -3020,7 +3020,7 @@ EN: Beef stroganoff was named after Russia's Marquis Stroganov, who first served
 
 @#754
 JP: 中国語では、「老婆」は、<n>自分の妻のこと。
-EN: The Chinese word 'laopo' means your wife.<n>The same written characters mean 'old woman' in Japanese.
+EN: The characters for "old woman" in Japanese mean "one's wife" in Chinese.
 
 @#755
 JP: 「陸でなし」<n>陸（ろく）とは、土地が平らで、<n>物事がまっすぐで正しいという意味。<n>それを否定した「ろくでなし」は、<n>役に立たない者という意味になった。
@@ -3036,11 +3036,11 @@ EN: Yamaguchi has produced more Japanese prime ministers than any other prefectu
 
 @#758
 JP: 「柳川鍋」の名前の由来は、<n>福岡県柳川がどじょうの産地であるという説と、<n>初めてこの料理を出した江戸のどじょう屋の<n>店名「柳川屋」からとったという説がある。
-EN: There are two theories about the name of Yanagawa hot pot.<n>One links it to Yanagawa in Fukuoka, known for loaches.<n>The other links it to Yanagawa-ya, the Edo loach restaurant that first served it.
+EN: Yanagawa hot pot may be named for loach-producing Yanagawa, Fukuoka, or Yanagawa-ya, the Edo loach eatery said to have first served it.
 
 @#759
 JP: 「さくら肉」は馬肉のこと。<n>肉の色が、桜の花のような色をしていることから。
-EN: 'Sakura meat,' or 'cherry blossom meat,' means horsemeat.<n>The name comes from its cherry blossom color.
+EN: Horsemeat is called "sakura meat" for its cherry-blossom color.
 
 @#760
 JP: 世界初の自動販売機は、<n>紀元前２１５年頃、<n>エジプトのアレキサンドリア神殿で<n>聖水を売っていた。
@@ -3108,7 +3108,7 @@ EN: Xylitol suppresses S. mutans bacteria, which cause tooth decay.<n>It also he
 
 @#776
 JP: 「書き入れ時（かきいれどき）」<n>帳簿に書き入れる作業が最も多くて忙しい時期が、<n>一番儲かるとき、という意味になった。
-EN: 'Kakiire-doki' means peak business season.<n>Originally the busiest time for writing entries in the ledger, it came to mean the most profitable time.
+EN: Kakiire-doki, or peak business season, takes its name from the busy task of filling in ledgers.
 
 @#777
 JP: パズルピースの数え方は、「片」。<n>完成すると「枚」や「点」。
@@ -3116,11 +3116,11 @@ EN: In Japanese, puzzle pieces are counted with 'hen.'<n>Finished puzzles use 'm
 
 @#778
 JP: ズボンは、<n>英語でトラウザーズ、米語でパンツ、<n>仏語でパンタロン、独語でホーゼンという。
-EN: The same garment is called 'trousers' in British English, 'pants' in American English, 'pantalon' in French, and 'Hosen' in German.
+EN: Pants are "trousers" in Britain, "pants" in the US, "pantalon" in French and "Hosen" in German.
 
 @#779
 JP: 人間の身長は、朝と夜では、<n>１．５センチから２センチくらい違う。<n>朝の方が高く、小学生で１．３センチ、<n>大学生では１．８センチくらい変わる。
-EN: Human height varies by about 1.5 to 2 cm between morning and night.<n>People are taller in the morning, with a difference of about 1.3 cm for primary school children and 1.8 cm for university students.
+EN: We're 1.5-2 cm taller in the morning than at night: about 1.3 cm for elementary school kids and 1.8 cm for college students.
 
 @#780
 JP: 「板ずり」とは、<n>まな板の上にのせた<n>キュウリやフキなどに塩をふって、<n>手で押さえながら転がすこと。<n>緑が鮮やかになり、味もしみやすくなる。
@@ -3128,7 +3128,7 @@ EN: 'Itazuri' means sprinkling salt on cucumbers or butterbur stalks on a choppi
 
 @#781
 JP: 相撲力士のひいきや後援会を「谷町」というのは、<n>明治時代の末ごろ、大阪の谷町筋の医者が、<n>相撲取りたちの面倒を見たことから。
-EN: Sumo patrons and supporters' clubs are called 'tanimachi' because a doctor on Osaka's Tanimachi-suji cared for sumo wrestlers late in the Meiji era.
+EN: Sumo patrons are called tanimachi after a doctor on Osaka's Tanimachi-suji who cared for wrestlers in late Meiji times.
 
 @#782
 JP: 「和牛」と認められるのは、<n>黒毛和種、褐毛和種、無角和種、日本短角種の<n>４種類だけである。
@@ -3160,7 +3160,7 @@ EN: The baseball rulebook says the line from home plate through the pitcher's pl
 
 @#789
 JP: 足袋の足首を止める<n>爪のような金具は「こはぜ」という。
-EN: The little claw-shaped metal hooks that fasten tabi socks at the ankle are called 'kohaze.'
+EN: Tabi socks fasten at the ankle with claw-like metal hooks called "kohaze."
 
 @#790
 JP: 「狐の嫁入り」とは、<n>お天気なのに雨がパラパラ降ることを言う。<n>不思議な感じを、狐の嫁入り行列にたとえた。<n>
@@ -3188,7 +3188,7 @@ EN: Tarnish on silver accessories<n>can be removed with toothpaste.
 
 @#796
 JP: ラーメンのどんぶりにある渦巻き模様は<n>「雷文」という雷の稲妻を図案化したもの。
-EN: The swirling design on ramen bowls<n>is a stylized lightning bolt called a "thunder pattern."
+EN: Ramen bowls' "raimon" swirls are stylized lightning bolts.
 
 @#797
 JP: 銀行の「頭取」は、<n>雅楽の「音頭取」に由来している。<n>江戸時代は、歌舞伎の興行で<n>お金を取り仕切る人を<n>「頭取」と呼んでいた流れから<n>銀行の代表を「頭取」と呼ぶようになった。
@@ -3196,11 +3196,11 @@ EN: "Todori," the Japanese title for a bank president,<n>comes from "ondotori," 
 
 @#798
 JP: 日本人に多い名字ベストスリーは、<n>佐藤、鈴木、高橋。<n>名字に使われる最も多い漢字は、「田」。
-EN: Japan's three most common surnames<n>are Sato, Suzuki and Takahashi.<n>The most common surname character is "ta," meaning "rice field."
+EN: Japan's top surnames: Sato, Suzuki, Takahashi. The most used surname kanji is "ta" (rice field).
 
 @#799
 JP: 雁の味に似せて作った「がんもどき」の別名は<n>「飛竜頭（ひりょうず）」。<n>ポルトガルの揚げ菓子ヒリウズが語源。<n>生地が油の中でうごめく様子が、<n>竜の頭が飛んでるように見えたから。
-EN: Ganmodoki, tofu fritters made to taste like goose,<n>are also called "hiryozu," written "flying dragon head."<n>The name comes from Portuguese filhos fritters.<n>The batter moving about in the oil<n>looked like a dragon's head flying.
+EN: Ganmodoki tofu fritters mimic goose meat. Also called "hiryozu," from Portuguese filhos fritters, their name means "flying dragon head": the batter writhing in oil looked like one.
 
 @#800
 JP: 「珊瑚婚式」<n>結婚３５周年の結婚記念日。
@@ -3216,15 +3216,15 @@ EN: When dining at a restaurant,<n>the proper way to signal that you're still ea
 
 @#803
 JP: 歯磨き後や風邪予防にする「うがい」は、<n>もともとは「鵜飼い」からきている。<n>鵜が飲み込んだ魚を吐き出すさまが、<n>口をすすいだあとに水を吐き出す様子に<n>にているから。
-EN: "Ugai," the Japanese word for gargling or rinsing your mouth,<n>comes from "ukai," meaning cormorant fishing.<n>The birds spit out fish they've swallowed,<n>which resembles someone rinsing their mouth<n>and spitting out the water.
+EN: Japanese "ugai" (gargling) comes from "ukai" (cormorant fishing). Birds spitting out swallowed fish looked like people spitting out rinse water.
 
 @#804
 JP: 「おやつ」は、八どきの食事という意味。<n>八どきは今の午後２時から４時のこと。
-EN: "Oyatsu," Japanese for a snack, means a meal at "yatsu."<n>That old time period corresponds to 2 to 4 p.m. today.
+EN: "Oyatsu" (snack) means a meal at "yatsu," an old time slot: 2-4 p.m.
 
 @#805
 JP: １９２６年に世界で初めて、ブラウン管による<n>電子式受像に成功したのは、日本人だった。<n>ちなみに、そのときブラウン管に映し出されたのは、<n>「イ」という文字だった。
-EN: In 1926, a Japanese person was the first in the world<n>to receive an electronic image on a cathode-ray tube.<n>The image shown on the screen<n>was the Japanese katakana character "i."
+EN: In 1926, a Japanese inventor first displayed an electronic image on a cathode-ray tube: the katakana letter "i."
 
 @#806
 JP: 東京の大崎と埼玉の大宮を結ぶ埼京線は、<n>通称名で、実在しない。<n>正式名称は、<n>大崎ー池袋が山手線、<n>池袋ー赤羽は、赤羽線、<n>赤羽ー大宮は、東北本線。
@@ -3232,7 +3232,7 @@ EN: The Saikyo Line links Osaki in Tokyo to Omiya in Saitama,<n>but has no offic
 
 @#807
 JP: ゴリ押しのゴリは、淡水の小魚の名前。<n>石の間でじっとして動かないのを<n>無理矢理に捕ることを、ゴリ押しと言う。
-EN: The "gori" in "gorioshi," meaning brute force, is a freshwater fish.<n>They sit still between rocks, and forcing them out<n>to catch them was called "gorioshi."
+EN: "Gorioshi" (brute force) comes from forcing gori, small freshwater fish, out from between rocks.
 
 @#808
 JP: 「いなばの白うさぎ」に出てくる<n>「わに」は、爬虫類のワニではなくて<n>サメのこと。
@@ -3240,7 +3240,7 @@ EN: The "wani" that appear in the tale<n>"The White Hare of Inaba" aren't crocod
 
 @#809
 JP: 持ち家率が最も高い都道府県は、富山県。<n>ほぼ８割にもなる。
-EN: Toyama has Japan's highest homeownership rate.<n>Nearly 80 percent of households own their homes.
+EN: Toyama leads Japan in homeownership, at nearly 80%.
 
 @#810
 JP: 電波のＡＭは、振幅変調。<n>ＦＭは周波数変調。
@@ -3280,7 +3280,7 @@ EN: The first Japanese person on a foreign stamp<n>was Sesshu, the famous ink pa
 
 @#819
 JP: 江戸の三珍味は、<n>肥前のからすみ、三河のこのわた、越前のうに。<n>ちなみに中国の三大珍味は、<n>ふかひれ、あわび、つばめの巣。
-EN: Edo's three delicacies were<n>Hizen's dried mullet roe, Mikawa's salted sea cucumber innards, and Echizen's sea urchin.<n>China's three great delicacies, meanwhile, are<n>shark fin, abalone, and edible bird's nests.
+EN: Edo's three delicacies: Hizen mullet roe, Mikawa sea cucumber guts, Echizen sea urchin. China's: shark fin, abalone, bird's nests.
 
 @#820
 JP: 「三行半（みくだりはん）」とは、<n>江戸時代の離縁状のこと。<n>離婚することと、その後の再婚を許すことが、<n>３．５行で書かれていたことから。
@@ -3304,7 +3304,7 @@ EN: King crabs belong to the hermit crab family.
 
 @#825
 JP: 「鴨なんばん」の「なんばん」は<n>「南蛮」ではなく、ネギの産地「難波」のこと。
-EN: The "nanban" in "kamo nanban" means Namba, a green onion growing area,<n>rather than "southern barbarian."
+EN: In kamo nanban, "nanban" means onion-growing Namba, not "southern barbarian."
 
 @#826
 JP: 昔の武士がちょんまげを結うときに<n>前頭部を剃っていたのは、<n>兜をかぶっても頭が蒸れないようにという<n>戦国時代の習慣が始まり。<n>ちなみに、その剃った部分は、<n>「月代（さかやき）」と呼ぶ。
@@ -3312,7 +3312,7 @@ EN: Samurai shaved the front of their heads<n>when wearing a topknot.<n>The cust
 
 @#827
 JP: ゆで卵の殻を簡単にむく方法は、<n>卵が茹で上がったら鍋の中の湯を捨てて、<n>フタをしたまま鍋を振り、殻に細かいひびを入れる。<n>この卵を水に浸ければ簡単にむける。
-EN: To peel boiled eggs easily,<n>drain the pot once the eggs are cooked.<n>Put the lid on and shake it to make little cracks in the shells.<n>Soak the eggs in water, and they'll peel easily.
+EN: For easy-peel boiled eggs, drain the pot, cover it and shake to crack the shells. Then soak the eggs in water and peel.
 
 @#828
 JP: レストランで、コーヒーカップの中に<n>スプーンを入れっぱなしにするのは、<n>マナー違反。
@@ -3324,7 +3324,7 @@ EN: Amino acids<n>don't just supply energy during exercise.<n>They also help red
 
 @#830
 JP: カロテンが１００グラムに６００マイクログラム以上<n>含まれている野菜は緑黄色野菜。<n>それ以外は淡色野菜。<n>キャベツもレタスもキュウリも見た目は緑色でも<n>淡色野菜である。
-EN: Vegetables with at least 600 micrograms of carotene per 100 grams are classed as green and yellow vegetables.<n>The rest are pale vegetables.<n>Cabbage, lettuce and cucumbers count as pale vegetables despite looking green.
+EN: Vegetables with at least 600 mcg of carotene per 100 g count as green/yellow. The rest count as pale, even green-looking cabbage, lettuce and cucumbers.
 
 @#831
 JP: 画家ピカソの正式な名前は、<n>パブロ・ディエゴ・ホセ・フランシスコ・デ・<n>パウラ・ファン・ネポムセノ・マリア・デ・ロス・<n>レメディオス・クリスピン・クリスピニャーノ・<n>デ・ラ・サンテシマ・トリニダット・ルイス・<n>イ・ピカソ。
@@ -3344,15 +3344,15 @@ EN: In Japanese, lunches in stacking boxes are counted with 'ju.'<n>Those in fol
 
 @#835
 JP: 地下鉄と私鉄の相互乗り入れは、<n>１９６０年の都営地下鉄浅草線と京成電鉄押上線が<n>日本での第一号。
-EN: Japan's first through service between a subway and a private railway began in 1960, linking the Toei Asakusa Line and the Keisei Oshiage Line.
+EN: Japan's first subway/private rail through service linked Toei Asakusa and Keisei Oshiage in 1960.
 
 @#836
 JP: 節分は、旧暦の時代、年に４回あった。<n>節分に豆まきをするようになったのは、平安時代で<n>庶民に広まったのは江戸時代から。
-EN: Under the old calendar, Setsubun occurred four times a year.<n>The custom of throwing beans began in the Heian period and spread among ordinary people in the Edo period.
+EN: Under the old calendar, Setsubun was quarterly. Bean tossing began in Heian times, spreading to the masses in Edo.
 
 @#837
 JP: 指がむくんで指輪が抜けなくなったら、<n>鉄観音茶やプーアール茶をたくさん飲んで、<n>水分の排出を促すのがよい。<n>早く抜きたいときには、石鹸水に手を入れて、<n>指輪を回すようにして抜くといい。
-EN: If swelling leaves a ring stuck on your finger, drinking plenty of Tieguanyin or pu-erh tea helps your body shed excess water.<n>For quicker removal, dip your hand in soapy water and twist the ring as you slip it off.
+EN: For a ring stuck on a swollen finger, drink Tieguanyin or pu-erh tea to help shed water. For quicker removal, soak your hand in soapy water and gently twist the ring off.
 
 @#838
 JP: 焼酎には、乙類と甲類がある。<n>単式蒸留器で蒸留した、<n>アルコール４５度以下のものが乙類で、<n>連続式蒸留器で蒸留した、<n>アルコール３６度未満のものが甲類。<n>本格焼酎と言われるのは乙類となる。
@@ -3380,7 +3380,7 @@ EN: The Japanese phrase 'katabara itai' means something looks utterly ridiculous
 
 @#844
 JP: 電子レンジを使ってドライフラワーができる。<n>乾燥剤を入れた容器に花を詰めて、<n>電子レンジに約９０秒入れた後、<n>乾燥剤の上に花を並べて、５分間おけばいい。
-EN: You can make dried flowers in a microwave.<n>Put flowers in a container with a drying agent and microwave for about 90 seconds.<n>Then arrange the flowers on top of the drying agent and leave them for five minutes.
+EN: To dry flowers, microwave them in a container with desiccant for about 90 seconds. Then lay them on the desiccant for five minutes.
 
 @#845
 JP: 飲食店の開業に必要な資格は、<n>「調理師免許」ではなく、<n>「食品衛生責任者」の資格が必要。
@@ -3392,7 +3392,7 @@ EN: Basic eyeglass frame shapes include Boston, Wellington, oval, teardrop and f
 
 @#847
 JP: 「小春日和」とは、陰暦の１０月のこと。<n>初冬の頃の、春のような陽気な日のこと。
-EN: 'Koharubiyori,' or 'little spring weather,' refers to the tenth lunar month.<n>It describes warm, springlike days in early winter.
+EN: Koharubiyori: springlike days in early winter, in the tenth lunar month.
 
 @#848
 JP: 「閑古鳥が鳴く」<n>閑古鳥はカッコウのこと。<n>「カッコー」というもの淋しい鳴き声のイメージから<n>商売が流行らない様子のこと。
@@ -3400,15 +3400,15 @@ EN: 'The kankodori calls' is a Japanese saying meaning business is slow.<n>A kan
 
 @#849
 JP: 「八月一日」と書いて「ほずみ」と読む<n>名字がある。<n>８月１日には、稲の穂を神棚に供えて<n>豊作を祈るという風習からきている。
-EN: The Japanese surname Hozumi is written with the characters for 'August 1.'<n>It comes from the custom of offering ears of rice at a household shrine on August 1 to pray for a good harvest.
+EN: The surname Hozumi can be written "August 1," from the custom of offering rice ears at a home shrine that day to pray for a good harvest.
 
 @#850
 JP: 「おじゃんになる」の「おじゃん」は、<n>火の見櫓の鐘の音のこと。<n>火事が消えると「ジャン、ジャン」と<n>鐘を２回鳴らして消火を告げていたことから、<n>「物事が終わる」という意味になった。
-EN: The "ojan" in "ojan ni naru" ("come to nothing")<n>comes from the sound of a fire watchtower's bell.<n>Once a fire was out, the bell rang "jan, jan"<n>in pairs to announce that it had been put out.<n>That's how it came to mean "something is over."
+EN: Ojan ni naru means "come to nothing." Its "ojan" echoes a fire watchtower's bell, rung twice ("jan, jan") when a fire was out. This came to mean "it's over."
 
 @#851
 JP: 岩手県、盛岡の名物料理「わんこそば」の<n>名前の由来は、岩手県出身の政治家、原敬が<n>「そばはわんこで食べるに限る」と<n>力説していたからだと言われている。<n>ちなみに、わんこそば約１５杯で、かけそば１杯分。
-EN: Morioka's famous wanko soba, from Iwate Prefecture,<n>is said to owe its name to local politician Takashi Hara.<n>He insisted, "Soba is best eaten from wanko bowls!"<n>"Wanko" means a little bowl.<n>About 15 servings equal one regular bowl of soba.
+EN: Morioka's wanko soba is said to be named for Iwate politician Takashi Hara's claim: "Soba is best in wanko bowls!" About 15 servings equal one regular bowl.
 
 @#852
 JP: 「阪神タイガース」の名前は、大リーグの<n>デトロイト・タイガースにちなんでつけられた。
@@ -3416,7 +3416,7 @@ EN: The Hanshin Tigers were named after<n>Major League Baseball's Detroit Tigers
 
 @#853
 JP: 国立駅は、国分寺駅と立川駅の<n>中間にあるので、そう名付けられ、<n>その駅名から、国立市となった。
-EN: Kunitachi Station lies between Kokubunji and Tachikawa.<n>Its name combines their first written characters,<n>and that station name became the city's name.
+EN: Kunitachi Station, between Kokubunji and Tachikawa, blends their names. The city was named for the station.
 
 @#854
 JP: 「ちゃきちゃき」<n>「嫡嫡（ちゃくちゃく）」がなまって、<n>ちゃきちゃきとなった。<n>嫡子から嫡子へ家を受け継ぐこと。
@@ -3428,7 +3428,7 @@ EN: In Kyoto, "habakari-san" means<n>"thanks for your hard work."
 
 @#856
 JP: パスタの茹で加減、「アルデンテ」は、<n>パスタを１本手で切ってみて、<n>中心に芯がちょっと残っているくらいの状態。<n>ちなみに茹ですぎは「スコタッタ」と言う。
-EN: For pasta, "al dente" means cooked until firm.<n>Break a strand in half by hand to check:<n>there should still be a tiny firm core in the center.<n>Overcooked pasta is called "scotta."
+EN: "Al dente" pasta has a tiny firm core when you break a strand in two. Overcooked pasta is called "scotta."
 
 @#857
 JP: 江戸時代からの呉服店「越後屋」が、<n>１９０４年に「三越呉服店」となり、<n>日本で初めて<n>「デパートメントストア宣言」をした。
@@ -3448,15 +3448,15 @@ EN: Birthstones trace their origins<n>to ancient Jewish high priests, who wore<n
 
 @#861
 JP: トランプの４つのマークは、<n>スペードは剣で王侯、<n>ダイヤは貨幣で商人、<n>クローバーは棍棒で農民、<n>ハートは聖杯で聖職者をあらわしている。
-EN: The four card suits have these meanings:<n>Spades are swords, representing royalty.<n>Diamonds are coins, representing merchants.<n>Clubs are cudgels, representing farmers.<n>Hearts are holy chalices, representing the clergy.
+EN: Card suits symbolize social classes: spades, swords for royalty; diamonds, coins for merchants; clubs, cudgels for farmers; hearts, holy chalices for clergy.
 
 @#862
 JP: 四十肩や五十肩の正式名称は、<n>肩関節周囲炎。
-EN: The formal name for "forties shoulder" and "fifties shoulder"<n>is periarthritis of the shoulder.
+EN: Frozen shoulder's formal name is periarthritis of the shoulder.
 
 @#863
 JP: 「七夕」が「たなばた」と読まれるようになったのは、<n>織女と牽牛が年に一度だけ会える日という伝説が<n>有名になったから。<n>織女が布を織る機（はた）には、棚がついていたので<n>「棚機（たなばた）」と呼ばれていたのが、<n>その日の呼び名にまでなった。
-EN: The characters for "seventh night" are read "Tanabata"<n>thanks to the famous legend of the Weaver Girl and Cowherd,<n>who can meet only once a year.<n>Her loom, or "hata," had a shelf, or "tana,"<n>so it was called a "tanabata."<n>The loom's name became the name of their special day.
+EN: Tanabata marks the Weaver Girl and Cowherd's yearly meeting. Her loom, "hata," had a shelf, "tana," hence "tanabata." The loom's name became the festival's name, written with the kanji for "seventh night."
 
 @#864
 JP: お相撲さんのちゃんこ鍋のルーツは、<n>長崎のしっぽく料理。<n>しっぽく料理で使う中華鍋を<n>「ちゃんこ」という。<n>お相撲さんが長崎巡業のおみやげに<n>それを持ち帰ったのがはじまり。
@@ -3492,7 +3492,7 @@ EN: Every prefecture in Japan has hot springs.<n>Hokkaido has the most.
 
 @#872
 JP: ペーパードライバーは、和製英語。<n>海外では通じない。
-EN: "Paper driver" is Japanese-made English for someone licensed to drive who rarely does.<n>The term isn't understood abroad.
+EN: A "paper driver" rarely drives. It's Japanese English, not used abroad.
 
 @#873
 JP: 「飾り包丁」とは、<n>盛り付けるとき表になる側に、飾り模様のように<n>切り目を入れること。
@@ -3500,19 +3500,19 @@ EN: "Kazari bocho," or "decorative knife work," means making decorative cuts on 
 
 @#874
 JP: タクシー第一号は、１９１２年の８月１５日に<n>東京の有楽町にできた「タクシー自働車株式会社」。<n>たった、６台でのスタートだった。
-EN: Japan's first taxi service was Taxi Motor Co., which opened in Yurakucho, Tokyo, on August 15, 1912.<n>It started with just six cars.
+EN: Taxi Motor Co., Japan's first taxi firm, opened in Tokyo's Yurakucho on Aug. 15, 1912, with just six cars.
 
 @#875
 JP: 日本で最初に、駅弁と一緒にお茶を売ったのは、<n>東海道線が開通した昭和２２年頃の静岡駅。<n>当時は、「汽車土瓶」と呼ばれていた。
-EN: Tea was first sold with station boxed lunches at Shizuoka Station around 1947, when the Tokaido Line opened.<n>It came in pots called "train teapots."
+EN: Shizuoka first sold tea with station lunches around 1947. The pots were called "train teapots."
 
 @#876
 JP: 「尻が割れる」とは、<n>かくし事や、たくらみがばれることを言う。<n>ちなみに「尻が来る」は、<n>とばっちりが来ること。
-EN: "Shiri ga wareru" literally means "one's backside splits." It means a secret or scheme is exposed.<n>"Shiri ga kuru," or "the backside comes," means suffering the fallout of someone else's trouble.
+EN: "Shiri ga wareru" ("backside splits") means a secret or plot is exposed. "Shiri ga kuru" ("backside comes") means catching someone else's flak.
 
 @#877
 JP: 「神無月」<n>１０月の和名。<n>日本の神様が出雲大社に集まる月なので、<n>出雲以外の地方では神が不在になるため。
-EN: "Kannazuki," or "month without gods," is October's traditional Japanese name.<n>Japan's gods gather at Izumo Grand Shrine that month, leaving the rest of the country without them.
+EN: October is "Kannazuki," the month without gods. They gather at Izumo Grand Shrine, leaving the rest of Japan without them.
 
 @#878
 JP: 沖縄の星の砂は、<n>実はバキュロジプシナという<n>有孔虫の死がい。
@@ -3528,11 +3528,11 @@ EN: In the Meiji era, locomotives running in Hokkaido had nicknames such as "Yos
 
 @#881
 JP: 青菜や貝を酢みそであえた「ぬた」は、<n>漢字では「沼田」と書く。
-EN: "Nuta," a dish of greens or shellfish dressed with vinegared miso, is written with kanji meaning "swampy rice paddy."
+EN: Nuta: greens or shellfish in vinegar-miso. Its kanji mean "swampy paddy."
 
 @#882
 JP: 「お茶を濁す」<n>もともとは、お茶の作法をよく知らないものが、<n>いいかげんな点前で適当に振舞うことから、<n>その場を適当にごまかすという意味。
-EN: "O-cha o nigosu," or "muddy the tea," means fudging things to get through a situation.<n>It comes from people unfamiliar with tea ceremony etiquette making a sloppy attempt at the proper motions.
+EN: "Muddy the tea" means bluffing your way through. It comes from novices faking the proper steps in a tea ceremony.
 
 @#883
 JP: ネックレスは長さによって呼び名が異なる。<n>チョーカー、プリンセス、マチネ、<n>オペラ、ロープなどがある。
@@ -3556,7 +3556,7 @@ EN: A hair's usual lifespan is three to five years.<n>Each day, 50 to 60 hairs f
 
 @#888
 JP: 着物の「単衣（ひとえ）」には、裏地がなく<n>「袷（あわせ）」には裏地がある。<n>着物は、季節や気温に合わせて着わけする。
-EN: A "hitoe" kimono is unlined, while an "awase" kimono has a lining.<n>People choose which to wear according to the season and temperature.
+EN: "Hitoe" kimonos are unlined; "awase" are lined. The choice depends on the season and temperature.
 
 @#889
 JP: フリスビーの起源は、エール大学の学生が<n>パイ皿を投げて遊んでいたことから。<n>投げていたパイ皿が「フリスビー・ベーカリー」<n>というパン屋のものだったので、<n>フリスビーという名前になった。
@@ -3568,7 +3568,7 @@ EN: "Mutsuki"<n>The old Japanese name for January.<n>Named for "mutsumajiku," be
 
 @#891
 JP: 「言葉は身のあや」とは、<n>言葉はその人の品性のあらわれだと言う意味。
-EN: "Words are the fabric of character" means<n>that a person's speech reveals their character.
+EN: "Words reveal character": how you speak shows what sort of person you are.
 
 @#892
 JP: 広島県で食される、「わにの刺身」の<n>「わに」は鮫のこと。
@@ -3788,7 +3788,7 @@ EN: "Georgie Porgie, pudding and pie,<n>kissed the girls and made them cry;<n>wh
 
 @#946
 JP: That's so long ago, I don't remember.<n>意味：そんな昔のことは覚えちゃいないね。<n>備考：映画「カサブランカ」の主人公のセリフ
-EN: That's so long ago, I don't remember.<n>Meaning: It was so far back, I've forgotten.<n>Note: A line spoken by the hero of Casablanca.
+EN: That's so long ago, I don't remember. Meaning: Too long ago to recall. From Casablanca's hero.
 
 @#947
 JP: An apple a day keeps the doctor away.<n>意味：一日一個のリンゴで医者要らず。<n>備考：アメリカのことわざ
@@ -3960,7 +3960,7 @@ EN: Key chain<n>Meaning: A chain or ring that holds your keys.
 
 @#989
 JP: "Happiness lies in the joy of achievement<n>and the thrill of creative effort."<n>意味：幸福は、達成の喜び、<n>そして新しい何かを生み出すスリルのことである。<n>備考：ルーズベルト元米国大統領の言葉
-EN: "Happiness lies in the joy of achievement<n>and the thrill of creative effort."<n>Meaning: Happiness comes from achieving things<n>and the excitement of creating something new.<n>Note: Words of former US President Roosevelt.
+EN: "Happiness lies in the joy of achievement and the thrill of creative effort." Meaning: The joy of success and thrill of creating. -Former US President Roosevelt
 
 @#990
 JP: Enthusiasm is contagious.<n>意味：熱意は伝染する。<n>備考：イギリスのことわざ
@@ -3992,7 +3992,7 @@ EN: Cream puff<n>Meaning: A pastry filled with cream, called 'shu kurimu' in Jap
 
 @#997
 JP: I've been with Hanako for two years.<n>意味：オレ、花子ちゃんと二年付き合ってるんだ。
-EN: I've been with Hanako for two years.<n>Meaning: Hanako and I have been dating for two years.
+EN: I've been with Hanako for two years. Meaning: We've dated for two years.
 
 @#998
 JP: I don't have a date.<n>意味：今、彼氏がいないの！
@@ -4000,7 +4000,7 @@ EN: I don't have a date.<n>Meaning: I don't have a boyfriend right now!
 
 @#999
 JP: First floor<n>意味：米国ではビルの一階、イギリスでは２階。
-EN: First floor<n>Meaning: The street-level floor in the US; one floor above street level in the UK.
+EN: First floor: ground level in the US; one level up in the UK.
 
 @#1000
 JP: "I can't go back to yesterday,<n>because I was a different person then."<n>意味：私は昨日に戻ることはできない。<n>だって昨日は別の人間だったのだから。<n>備考：作家ルイス・キャロルの言葉
@@ -4008,7 +4008,7 @@ EN: "I can't go back to yesterday,<n>because I was a different person then."<n>M
 
 @#1001
 JP: When I was a boy, everything was right.<n>意味：私が少年だった頃、すべてのものは正しかった。<n>備考：ミュージシャン、ジョン・レノンの言葉
-EN: When I was a boy, everything was right.<n>Meaning: As a boy, I felt everything was as it should be.<n>Note: Words by musician John Lennon.
+EN: When I was a boy, everything was right. - John Lennon. Meaning: All seemed right then.
 
 @#1002
 JP: It takes two to make a quarrel.<n>意味：二人いないとケンカはできない。<n>備考：ことわざ
@@ -4016,7 +4016,7 @@ EN: It takes two to make a quarrel.<n>Meaning: A quarrel needs two people.<n>Not
 
 @#1003
 JP: A leopard cannot change its spots.<n>意味：ヒョウはその斑点を変えることはできない。<n>つまり三つ子の魂百まで、ということ。<n>備考：ことわざ
-EN: A leopard cannot change its spots.<n>Meaning: A person's basic nature does not change.<n>Like the Japanese saying, 'A three-year-old's nature lasts to a hundred.'<n>Note: A proverb.
+EN: A leopard cannot change its spots. A proverb: our basic nature stays the same, from childhood to old age.
 
 @#1004
 JP: Do you want to go fishing with me?<n>意味：一緒に釣りに行きませんか？
@@ -4028,7 +4028,7 @@ EN: How interesting!<n>Meaning: Oh, that sounds fascinating!
 
 @#1006
 JP: I can't tell you how much I miss him!<n>意味：彼に会えなくて本当に切ないの！
-EN: I can't tell you how much I miss him!<n>Meaning: It hurts so much to be apart from him!
+EN: I can't tell you how much I miss him! Meaning: I miss him so much!
 
 @#1007
 JP: Thank you very much.<n>意味：どうもありがとうございます。
@@ -4056,7 +4056,7 @@ EN: I think you should make a reservation.<n>Meaning: It would be best to book a
 
 @#1013
 JP: Can I walk to Shinjuku-station from here?<n>意味：ここから新宿駅まで歩いて行けますか？
-EN: Can I walk to Shinjuku Station from here?<n>Meaning: Is Shinjuku Station within walking distance?
+EN: Can I walk to Shinjuku Station from here? Meaning: Is it walkable?
 
 @#1014
 JP: Good for you!<n>意味：よかったね！
@@ -4076,7 +4076,7 @@ EN: I shut my eyes in order to see.<n>Meaning: Closing my eyes helps me truly se
 
 @#1018
 JP: My friend has decided to settle down.<n>意味：私の友達、結婚することにしたんだって。
-EN: My friend has decided to settle down.<n>Meaning: My friend has decided to get married.
+EN: My friend has decided to settle down. Meaning: My friend's marrying.
 
 @#1019
 JP: Are you free tomorrow afternoon?<n>意味：明日の午後、時間ある？
@@ -4116,7 +4116,7 @@ EN: Love is blind.<n>Meaning: Love can keep you from seeing someone's faults.
 
 @#1028
 JP: I'm sorry if I gave you the wrong impression.<n>意味：誤解を招くようなことを言ってごめんね。
-EN: I'm sorry if I gave you the wrong impression.<n>Meaning: Sorry if I made you misunderstand.
+EN: I'm sorry if I gave you the wrong impression. Meaning: Sorry I misled you.
 
 @#1029
 JP: I'm so bored.<n>意味：あーあ退屈だ。
@@ -4124,7 +4124,7 @@ EN: I'm so bored.<n>Meaning: Oh, I have nothing to do.
 
 @#1030
 JP: You'd better check the expiration date on this.<n>意味：これ、賞味期限チェックしたほうがいいよ。
-EN: You'd better check the expiration date on this.<n>Meaning: Check the date to see if this is still good.
+EN: Better check the expiration date on this. Meaning: Is it still good?
 
 @#1031
 JP: Look before you leap!<n>意味：飛ぶ前に気をつけて、つまり、転ばぬ先の杖。<n>備考：ことわざ
@@ -4148,7 +4148,7 @@ EN: I want to rent a car.<n>Meaning: I'd like a rental car.
 
 @#1036
 JP: Please tell me how to use this phone?<n>意味：この電話のかけ方をおしえてください。
-EN: Please tell me how to use this phone?<n>Meaning: Could you show me how to make a call?
+EN: Please tell me how to use this phone. Meaning: Show me how to call.
 
 @#1037
 JP: Here.<n>意味：ここ。はい。<n>備考：学校などで名前を呼ばれたときの返事
@@ -4184,7 +4184,7 @@ EN: O Romeo, Romeo, wherefore art thou Romeo?<n>Meaning: Oh, Romeo, Romeo,<n>why
 
 @#1045
 JP: "Not everything that can be counted counts<n>and not everything that counts can be counted."<n>意味：数えられるすべてのものが大切なわけでもなく、<n>そして大切なものすべてが数えられるわけでもない。<n>備考：アインシュタインの名言
-EN: "Not everything that can be counted counts<n>and not everything that counts can be counted."<n>Meaning: Not all measurable things matter,<n>and not all things that matter are measurable.<n>Note: A famous quote from Einstein.
+EN: "Not everything that can be counted counts, and not everything that counts can be counted." Meaning: What matters isn't always measurable. A famous Einstein quote.
 
 @#1046
 JP: Could you give me a second?<n>意味：少々お待ちいただけますか？
@@ -4204,7 +4204,7 @@ EN: Take care!<n>Meaning: Look after yourself!
 
 @#1050
 JP: Be the change you wish to see in other people.<n>意味：他人に求める変化をまず自分で行いなさい。<n>備考：宗教家ガンジーの言葉
-EN: Be the change you wish to see in other people.<n>Meaning: Change yourself as you wish others would change.<n>Note: A quote from spiritual leader Gandhi.
+EN: Be the change you wish to see in other people. Meaning: Change yourself first. A saying by Gandhi.
 
 @#1051
 JP: Seeing is believing.<n>意味：百聞は一見にしかず。
@@ -4220,7 +4220,7 @@ EN: I really doubt that it's true.<n>Meaning: I find that hard to believe.
 
 @#1054
 JP: I'm very interested in American history.<n>意味：私はアメリカ史に興味があります。
-EN: I'm very interested in American history.<n>Meaning: I have a keen interest in American history.
+EN: I'm very interested in American history. Meaning: US history fascinates me.
 
 @#1055
 JP: I stayed up late last night.<n>意味：夕べ夜更かししたんだ。
@@ -4232,7 +4232,7 @@ EN: Can I put my shoes in your locker?<n>Meaning: May I leave my shoes in your l
 
 @#1057
 JP: Let's check out the new shop on the corner.<n>意味：角の新しいお店に行ってみましょう！
-EN: Let's check out the new shop on the corner.<n>Meaning: Let's go and see that new place on the corner!
+EN: Let's check out the new shop on the corner. Meaning: Let's visit it!
 
 @#1058
 JP: What's with you?<n>意味：どうしちゃったの？
@@ -4264,7 +4264,7 @@ EN: Walls have ears.<n>Meaning: Someone may be listening, so mind what you say.
 
 @#1065
 JP: Lack of money is the root of all evil.<n>意味：お金がないことはすべての不幸の元である。<n>備考：戯曲家バーナード・ショーのフレーズ
-EN: Lack of money is the root of all evil.<n>Meaning: Having no money is the source of all misery.<n>Note: A saying by playwright Bernard Shaw.
+EN: Lack of money is the root of all evil. Meaning: Poverty causes misery. From playwright Bernard Shaw.
 
 @#1066
 JP: Let's take a break!<n>意味：ここらで一休み！
@@ -4332,7 +4332,7 @@ EN: May I come in?<n>Meaning: Is it all right if I come in?
 
 @#1082
 JP: I'm considering applying for a scholarship.<n>意味：奨学金に応募しようと思っています。
-EN: I'm considering applying for a scholarship.<n>Meaning: I'm thinking of applying for funding for my studies.
+EN: I'm considering applying for a scholarship. Meaning: I may seek study aid.
 
 @#1083
 JP: Can I keep my bag as carry-on luggage?<n>意味：このバッグ、機内に持込してもいいですか？
@@ -4352,7 +4352,7 @@ EN: Like father, like son.<n>Meaning: Children take after their parents.
 
 @#1087
 JP: Necessity is the mother of invention.<n>意味：必要は発明の母。
-EN: Necessity is the mother of invention.<n>Meaning: Needing something inspires us to invent it.
+EN: Necessity is the mother of invention. Need inspires new ideas.
 
 @#1088
 JP: Let's go Dutch.<n>意味：割り勘にしましょう。
@@ -4448,7 +4448,7 @@ EN: I usually go to bed at eleven.<n>Meaning: My usual bedtime is around eleven 
 
 @#1111
 JP: This book is the most interesting of the three.<n>意味：この三冊の中では、この本が一番面白いよ。
-EN: This book is the most interesting of the three.<n>Meaning: Of these three books, this one interests me most.
+EN: This book is the most interesting of the three. It is the best read.
 
 @#1112
 JP: Those bags are heavy, aren't they?<n>意味：そのかばん重いですね。
@@ -4524,7 +4524,7 @@ EN: "And so, my fellow Americans,<n>ask not what your country can do for you;<n>
 
 @#1130
 JP: "Mediocrity knows nothing higher than itself,<n>but talent instantly recognizes genius."<n>意味：凡人は己より優れているものに気づかないが、<n>才能ある者は瞬時に天才を見分ける。<n>備考：作家コナン・ドイルの言葉
-EN: "Mediocrity knows nothing higher than itself,<n>but talent instantly recognizes genius."<n>Meaning: Ordinary minds miss their betters,<n>but talented minds spot genius at once.<n>Note: Words of author Arthur Conan Doyle.
+EN: "Mediocrity knows nothing higher than itself, but talent instantly recognizes genius." Ordinary minds miss their betters; talent spots genius. By Arthur Conan Doyle.
 
 @#1131
 JP: "Show me a sane man<n>and I will cure him for you."<n>意味：まともな人がいるなら見せてくれ、<n>私が治してあげるよ。<n>備考：心理学者ユングの言葉
@@ -4572,7 +4572,7 @@ EN: You must not play on the street!<n>Meaning: Don't play in the street!
 
 @#1142
 JP: You don't have to get up so early.<n>意味：あなたはそんなに早く起きなくてもいいわよ。
-EN: You don't have to get up so early.<n>Meaning: There's no need for you to wake up that early.
+EN: You don't have to get up so early. No need to rise that early.
 
 @#1143
 JP: How high that building is!<n>意味：なんて高いビルなんだ！
@@ -4580,7 +4580,7 @@ EN: How high that building is!<n>Meaning: What a tall building!
 
 @#1144
 JP: I hope that you will write to me soon.<n>意味：すぐに手紙くれたらいいなぁ。
-EN: I hope that you will write to me soon.<n>Meaning: I'd love to get a letter from you soon.
+EN: I hope that you will write to me soon. I hope for a letter soon.
 
 @#1145
 JP: She can speak a little Japanese.<n>意味：彼女は少し日本語が話せます。
@@ -4612,7 +4612,7 @@ EN: I'd like to make an international call to Japan,<n>please.<n>Meaning: Please
 
 @#1152
 JP: I want to contact the Japanese Embassy.<n>意味：日本大使館に連絡したいのですが。
-EN: I want to contact the Japanese Embassy.<n>Meaning: I'd like to get in touch with the Japanese Embassy.
+EN: I want to contact the Japanese Embassy. I'd like to reach Japan's embassy.
 
 @#1153
 JP: Hay fever<n>意味：花粉症。
@@ -4676,11 +4676,11 @@ EN: Never too old to learn.<n>Meaning: Whatever your age,<n>you can always learn
 
 @#1168
 JP: One cannot be in two places at once.<n>意味：二ヶ所に同時にいることはできない、<n>つまり、二兎を追うものは一兎をも得ず。
-EN: One cannot be in two places at once.<n>Meaning: You can't be in two places at the same time.<n>Chase two rabbits and you'll catch neither.
+EN: One cannot be in two places at once. Meaning: Chase two rabbits and you'll catch neither.
 
 @#1169
 JP: What are you going to do after you graduate?<n>意味：卒業したらどうするの？
-EN: What are you going to do after you graduate?<n>Meaning: What are your plans after graduation?
+EN: What are you going to do after you graduate? Your next step, yes?
 
 @#1170
 JP: I understand what you're going through.<n>意味：お察しします。
@@ -4696,7 +4696,7 @@ EN: I'm so glad I found my passport.<n>Meaning: What a relief! My passport turne
 
 @#1173
 JP: You people are watching too much TV.<n>意味：あんたらテレビ見すぎだよ。
-EN: You people are watching too much TV.<n>Meaning: You lot spend too much time watching TV.
+EN: You people are watching too much TV. Meaning: Too much TV, yes?
 
 @#1174
 JP: Are you sure?<n>意味：本気なの？

@@ -156,7 +156,7 @@ EN: Somali
 
 @15134 max=359
 JP: ソマリのあなたは、独立心が旺盛<n>で、勝気な人です。プライドが高<n>く負けず嫌いで、妥協ということ<n>を知りません。逆に言うと、とて<n>もがんばりやで、逆境に強くくじ<n>けないタイプ。事業を起こしたり<n>仕事などで成功する人も多いです。
-EN: As a Somali, you're independent and<n>strong-willed. Proud and fiercely<n>competitive, you never compromise.<n>That also makes you a hard worker<n>who stands firm in tough times.<n>Many of your type start businesses<n>or find success in their careers.
+EN: Somali: Proud, independent and competitive, you never compromise. Your grit gets you through hard times and can bring success in business or your career.
 
 @1529C max=359
 JP: バーミーズ
@@ -164,7 +164,7 @@ EN: Burmese
 
 @15404 max=359
 JP: バーミーズのあなたは、一見、穏<n>やかで柔和な人なのですが、実は、<n>心の奥底に、野心と闘争心を秘め<n>た二重人格タイプです。社交性も<n>あり、仕事でも思い切った判断が<n>できるので、将来は、大きな勝負<n>に挑戦することも多いはずです。
-EN: As a Burmese, you seem calm and gentle,<n>but you have another side: deep down,<n>you're ambitious and ready to fight.<n>You're sociable, too, and can make<n>bold decisions at work. In the years<n>ahead, you'll likely take on plenty<n>of challenges with big stakes.
+EN: Burmese: You seem calm and gentle, but hide ambition and a fighting spirit. Sociable and bold in work decisions, you're likely to take on high-stakes challenges.
 
 @1556C max=359
 JP: ペルシャ
@@ -172,7 +172,7 @@ EN: Persian
 
 @156D4 max=359
 JP: ペルシャのあなたは、美しいもの<n>に惹かれ、ゆとりのある生活を好<n>む、セレブ志向の強い人。自分は<n>自由でいたいけれど、望むものを<n>手に入れるためには積極的に動き<n>ます。かなり強いグルメでもある<n>ので、太りすぎには要注意です。
-EN: As a Persian, you love beautiful things<n>and a comfortable life. You've got<n>a real taste for luxury! You value<n>your freedom, but you'll take action<n>to get what you want. You're also<n>quite the food lover, so be careful<n>not to put on too much weight.
+EN: Persian: You love beauty, luxury and an easy life. You prize freedom, but go after what you want. You're quite the food lover, too, so watch your weight!
 
 @1583C max=359
 JP: シャム猫
@@ -180,7 +180,7 @@ EN: Siamese
 
 @159A4 max=359
 JP: シャム猫のあなたは、芸術家肌で、<n>人一倍、感性の鋭い人です。プラ<n>イドも高く自信家ですから、他人<n>を見下すようなこともあり、周囲<n>から誤解を受けたりもします。マ<n>スコミ、医者など、技術や芸術を<n>生かす仕事で、成功するでしょう。
-EN: As a Siamese, you're an artistic soul<n>with unusually keen sensibilities.<n>Proud and confident, you may sometimes<n>look down on others, leading people<n>to misunderstand you. You'll succeed<n>in work that uses your skills or<n>creativity, such as media or medicine.
+EN: Siamese: Artistic and sensitive, you're proud and confident. Looking down on others invites misunderstanding. Your skills could shine in media or medicine.
 
 @15B0C max=359
 JP: マンクス
@@ -188,7 +188,7 @@ EN: Manx
 
 @15C74 max=359
 JP: マンクスのあなたは、明るく、人<n>に好かれる人気者です。趣味も広<n>く、また様々な才能もあり、社交<n>性にも富んでいます。商売をやる<n>とかなりうまくいくタイプですが、<n>その反面、金銭感覚がルーズなの<n>で、散財ぐせには要注意。
-EN: As a Manx, you're cheerful, popular,<n>and easy to like. You have all sorts<n>of hobbies and talents, plus a real<n>knack for getting along with people.<n>You could do very well in business,<n>but you're careless with money.<n>Watch that habit of splashing out!
+EN: Manx: Cheerful and popular, you have many hobbies, talents and social skills. You could thrive in business, but you're careless with money. Watch your spending!
 
 @15DDC max=359
 JP: チンチラ
@@ -196,7 +196,7 @@ EN: Chinchilla
 
 @15F44 max=359
 JP: チンチラのあなたは、頑固で融通<n>がきかず、保守的な人です。しか<n>し、コツコツと固く生きて、財産<n>を築くこともできるタイプ。頑固<n>なわりには、情にもろいところも<n>あり、真面目なところに付け込ま<n>れて利用されないよう注意が必要。
-EN: As a Chinchilla, you're stubborn,<n>set in your ways, and rather cautious<n>about change. Still, steady effort<n>can help you build a fortune. Beneath<n>that stubborn streak, you're a soft<n>touch. Don't let anyone exploit your<n>good nature and earnest attitude.
+EN: Chinchilla: Stubborn and set in your ways, you can build wealth through steady effort. You also have a soft heart. Don't let others exploit your earnest nature.
 
 @160AC max=359
 JP: アビシニアン
@@ -204,7 +204,7 @@ EN: Abyssinian
 
 @16214 max=359
 JP: アビシニアンのあなたは、活発で<n>エネルギッシュ、頭の回転も早い<n>人です。義理人情にも厚く、人か<n>らも好かれます。ただし、あまり<n>強い野心を持ち続けたり、短気な<n>面が強く出てしまうと、敵を作る<n>可能性もあります。
-EN: As an Abyssinian, you're lively,<n>energetic, and quick on your feet<n>mentally. You're loyal and caring,<n>which makes you easy to like.<n>But if you let ambition consume you<n>or your short temper get the better<n>of you, you could make some enemies.
+EN: Abyssinian: Lively, energetic and quick-witted, you're liked for your loyalty and warmth. But unchecked ambition or a short temper could earn you enemies.
 
 @1637C max=359
 JP: ロシアンブルー
@@ -212,7 +212,7 @@ EN: Russian Blue
 
 @164E4 max=359
 JP: ロシアンブルーのあなたは、気品<n>高く品行方正で、バランス感覚あ<n>ふれる人です。正義感が強く、会<n>社、家庭など、一定の組織の中で<n>自分の力を発揮できる人でもあり<n>ます。見栄っ張りなところ、諦め<n>がよすぎるところが欠点です。
-EN: As a Russian Blue, you're dignified,<n>well-behaved, and levelheaded.<n>You have a strong sense of justice<n>and shine within a group, whether<n>at work or in the family. Your weak<n>spots? You care too much about keeping<n>up appearances and give up too easily.
+EN: Russian Blue: Refined, upright and fair, you shine in a team or family. You're well-balanced, but care too much about appearances and tend to give up too easily.
 
 @1664C max=359
 JP: 西表ヤマネコ
@@ -220,7 +220,7 @@ EN: Iriomote Cat
 
 @167B4 max=359
 JP: 西表ヤマネコのあなたは、意思が<n>強く個性的、天才肌で自信家です。<n>個性が強い分、孤独で協調性に欠<n>ける面があり、あまり社交的なタ<n>イプではありません。芸術や学問、<n>自由業などで大きく成功する可能<n>性を持つ人です。
-EN: As an Iriomote Cat, you're strong-willed,<n>unique, confident, and gifted with<n>a spark of genius. That individuality<n>can leave you lonely and make teamwork<n>difficult. You're not very sociable,<n>but you could achieve great success<n>in the arts, academia, or freelance work.
+EN: Iriomote Cat: Unique, gifted and strong-willed, you trust yourself but can be a loner who struggles with teamwork. You could excel in art, study or freelance work.
 
 @1691C max=359
 JP: 三毛猫
@@ -228,4 +228,4 @@ EN: Calico
 
 @16A84 max=359
 JP: 三毛猫のあなたは、知的で温厚な<n>人です。自分の置かれている状況<n>を的確に判断し、理性に基づいて<n>きちんと前進できます。対人関係<n>も良好で、人からも好かれるタイ<n>プです。一歩一歩確実に進んでい<n>くことで地位と名誉に恵まれます。
-EN: As a Calico, you're intelligent and<n>even-tempered. You read situations<n>accurately and let reason guide<n>your progress. You get along well<n>with others, and people like you.<n>Keep moving steadily, one step at a<n>time, and status and honor will follow.
+EN: Calico: Clever and mild-mannered, you assess situations well and let reason guide you. People like you. Keep making steady progress, and status and honor will follow.

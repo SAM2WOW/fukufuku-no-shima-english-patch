@@ -156,7 +156,7 @@ EN: Baihui
 
 @15134 max=359
 JP: 頭のてっぺんの真ん中にある「百<n>会」です。カリスマ性のある華や<n>かな存在感で、トップに立つこと<n>ができる才能と強運に恵まれてい<n>ます。プライドの高さがストレス<n>や頭痛の原因にも。そういうとき<n>こそ百会を押しましょう。
-EN: Your point is Baihui, at the center<n>of the crown of your head. Your charisma<n>and dazzling presence give you the talent<n>and luck to rise to the top.<n>But your pride may bring stress<n>and headaches. When that happens,<n>give Baihui a press!
+EN: Baihui is at the center of your crown. Your charisma and luck can take you to the top! Pride may bring stress or headaches. When they strike, give Baihui a press.
 
 @1529C max=359
 JP: 足三里
@@ -164,7 +164,7 @@ EN: Zusanli
 
 @15404 max=359
 JP: ひざの近く、すねの骨から指２～<n>３本外側にある「足三里」です。<n>すねにあるのに風邪や口内炎にも<n>効果があるこのツボのように、ひ<n>かえめながらもその独創性の高さ<n>で道を切り拓いていける不思議な<n>才能のある人です。
-EN: Your point is Zusanli, near the knee,<n>two or three finger-widths outward<n>from the shinbone. This point on the shin<n>helps with colds and mouth ulcers.<n>Like it, you're full of surprises!<n>Though modest, you have a unique gift<n>for blazing your own trail.
+EN: Zusanli lies near the knee, 2-3 finger widths outside the shinbone. It helps colds and mouth sores. Like this surprising point, your quiet originality lets you blaze new trails.
 
 @1556C max=359
 JP: 中府
@@ -172,7 +172,7 @@ EN: Zhongfu
 
 @156D4 max=359
 JP: 鎖骨と肩の骨が交差したところの<n>指１本下にある「中府」です。自<n>信に満ちあふれ、どちらかという<n>と目立ちたがり屋。つねに困難に<n>立ち向かっていける精神力がみな<n>ぎっています。でも心配ごとがで<n>きたらこのツボを押しましょう。
-EN: Your point is Zhongfu, one finger-width<n>below where the collarbone meets<n>the shoulder bone. Brimming with confidence,<n>you rather enjoy the spotlight.<n>You have the inner strength to face<n>any challenge. But if worries creep in,<n>give this point a press.
+EN: Zhongfu is a finger width below where collarbone meets shoulder. Confident, you love the spotlight and face hardship bravely. Press here when worries strike.
 
 @1583C max=359
 JP: 風門
@@ -180,7 +180,7 @@ EN: Fengmen
 
 @159A4 max=359
 JP: 背中の上部で首の付け根のちょっ<n>と下の両側にある「風門」です。<n>一見すると地味なあなたですが、<n>実は独創的な発想の持ち主。風門<n>も見つけにくい場所ですが、ここ<n>を押すと全身に抵抗力を高められ<n>る、力みなぎるツボです。
-EN: Your point is Fengmen, on either side<n>of the upper back, just below<n>the base of the neck. You may seem plain<n>at first glance, but you're full of<n>original ideas. Fengmen is hard to find,<n>too, but pressing this powerful point<n>boosts your whole body's resistance.
+EN: Fengmen lies on both sides of your upper back, just below the neck. You seem plain but have original ideas. This hidden point packs power: press it to boost your body's defenses.
 
 @15B0C max=359
 JP: 手三里
@@ -188,7 +188,7 @@ EN: Shousanli
 
 @15C74 max=359
 JP: ひじを曲げたときにできるシワか<n>ら手首方向に指３本分めあたりに<n>ある「手三里」です。自分で決め<n>たことにはがんばりのきく努力家<n>ですが、いったん息づまると自暴<n>自棄になりがち。このツボを押し<n>て鼻をスッと通せば気分一新！
-EN: Your point is Shousanli, three finger-widths<n>toward the wrist from the crease<n>that forms when you bend your elbow.<n>You work hard at anything you set your mind to,<n>but hitting a wall can make you give up.<n>Press this point to clear your nose<n>and give yourself a fresh start!
+EN: Shousanli is 3 finger widths from the elbow crease toward the wrist. You work hard but may give up when stuck. Press here to clear your nose and refresh your spirits!
 
 @15DDC max=359
 JP: 気海
@@ -196,7 +196,7 @@ EN: Qihai
 
 @15F44 max=359
 JP: おへそから、指２本分下にある、「気海」です。生まれながらにし<n>て人の目をひきつける魅力を持っ<n>ている人です。華やかな分野での<n>活躍が似合う一方で、とってもナイーブ。食欲不振になったら息を<n>吐きながらここを押しましょう。
-EN: Your point is Qihai, two finger-widths<n>below your belly button. Born with a charm<n>that catches everyone's eye, you're suited<n>to glamorous pursuits, yet very sensitive. If you lose your appetite,<n>breathe out as you press this point.
+EN: Qihai is 2 finger widths below your navel. Your natural charm suits a life in the spotlight, but you're sensitive. If your appetite fades, breathe out while pressing here.
 
 @160AC max=359
 JP: 失眠
@@ -204,4 +204,4 @@ EN: Shimian
 
 @16214 max=359
 JP: 足のかかとの真ん中の「失眠」で<n>す。何にでも意欲的ながんばり屋<n>さん。地に足のついた考えができ<n>る一方で、ときにはハリキリすぎ<n>て勇み足になることもありそうで<n>す。このツボを刺激してたっぷり<n>休養することも大事。
-EN: Your point is Shimian, right in the center<n>of your heel. You're an eager hard worker<n>who tackles everything with enthusiasm.<n>You keep your feet on the ground,<n>but sometimes get so carried away<n>that you jump the gun. Stimulate this point<n>and remember to get plenty of rest, too.
+EN: Shimian is at the center of your heel. You're keen, hardworking and down to earth, but may rush ahead in your zeal. Stimulate this point and get plenty of rest, too!

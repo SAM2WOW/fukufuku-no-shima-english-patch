@@ -156,7 +156,7 @@ EN: TV
 
 @15134 max=359
 JP: 明るく、逆境に強く、常に話題の<n>中心にいるテレビタイプ。積極的<n>で実行力もあり、頼れるリーダー<n>でもあります。ただ、思い立った<n>らすぐ行動、周りのことが目に入<n>らない、という欠点もありますの<n>で、常に余裕を心がけて。
-EN: You're the TV type: bright, resilient,<n>and always the talk of the town.<n>Bold and quick to get things done,<n>you're a leader people can count on.<n>But you act the instant an idea hits,<n>sometimes losing sight of others.<n>Give yourself room to stop and think.
+EN: You're the TV type: bright, resilient, and always in the spotlight. A bold, reliable leader, you get things done. But don't rush in and lose sight of others!
 
 @1529C max=359
 JP: 冷蔵庫
@@ -164,7 +164,7 @@ EN: Refrigerator
 
 @15404 max=359
 JP: いつも冷静、平和で穏やか、堂々<n>としていて堅実まじめな冷蔵庫。<n>安定していることを好み、変化を<n>嫌いますが、それは、ひとつのこ<n>とを粘り強く続けられるというこ<n>とでもあります。ネクラな印象を<n>与えますが、実は楽天家です。
-EN: Calm, peaceful, and composed,<n>you're the steady, serious fridge type.<n>You like stability and dislike change,<n>but that also means you can stick<n>with something for the long haul.<n>You may seem gloomy at first glance,<n>but you're actually an optimist.
+EN: You're the fridge type: calm, steady, and serious. You dislike change, but have the grit to stick with things. You may seem gloomy, but you're an optimist at heart.
 
 @1556C max=359
 JP: 食器洗い機
@@ -172,7 +172,7 @@ EN: Dishwasher
 
 @156D4 max=359
 JP: サービス精神旺盛で、いつもにぎ<n>やか、センスが良くて、頭の回転<n>も早い、魅力的なタイプ。ただし、<n>気まぐれな上に、案外、人に冷た<n>い一面もあるので、深く付き合う<n>相手からは、その二面性に驚かれ<n>ることもしばしばあるはずです。
-EN: Eager to help and always lively,<n>you're the charming dishwasher type.<n>You've got style and a quick wit,<n>but you can also be fickle<n>and surprisingly cold toward others.<n>People who get close to you are often<n>startled by these two sides of you.
+EN: Lively, charming, stylish, and quick-witted, you love to entertain. But you can be fickle and cold, too. Those who get close may be shocked by your other side.
 
 @1583C max=359
 JP: ＤＶＤプレイヤー
@@ -180,7 +180,7 @@ EN: DVD Player
 
 @159A4 max=359
 JP: 喜怒哀楽を自由に表現し、自分の<n>思ったことをまっすぐに言葉に出<n>せるＤＶＤプレイヤーのあなた。<n>身内意識が高く、自分の周りの人<n>が傷ついたり弱ったりすると、助<n>けずにはいられない優しさがあり<n>ます。気分家なのが玉にキズ。
-EN: As a DVD player type, you freely<n>show your feelings and speak your mind.<n>You have a strong sense of belonging<n>and a soft spot for your inner circle.<n>When someone close is hurt or down,<n>you simply can't help helping them.<n>Your one little flaw? Your moods.
+EN: You're the DVD player type: open with your feelings and frank with your words. You can't leave a loved one hurting without helping. Your flaw? You're moody!
 
 @15B0C max=359
 JP: 掃除機
@@ -188,7 +188,7 @@ EN: Vacuum Cleaner
 
 @15C74 max=359
 JP: 騒ぐの大好き、目立つの大好き、<n>陽気で前向き、堂々とした性格<n>の掃除機。ほめられると実力以<n>上の力を発揮、注目されること<n>で、伸びていくタイプ。そのた<n>め、人から無視されたりすると<n>露骨に怒るタイプでもあります。
-EN: You love noise and the spotlight!<n>A vacuum cleaner type, you're cheerful,<n>confident, and full of optimism.<n>Praise helps you outdo even yourself,<n>and you flourish with an audience.<n>But when people ignore you,<n>you make your anger quite clear.
+EN: You're the vacuum cleaner type: cheerful, bold, and keen to stand out! Praise brings out your best, and attention helps you grow. Being ignored makes you openly angry.
 
 @15DDC max=359
 JP: ＣＤプレイヤー
@@ -196,7 +196,7 @@ EN: CD Player
 
 @15F44 max=359
 JP: ピュアでロマンチスト、夢の中に<n>生きているようなＣＤプレイヤー<n>タイプのあなた。夢を追っている<n>せいか理想が高く、潔癖で自分に<n>も人にも厳しい批評家タイプでも<n>あります。なかなか打ち解けにく<n>い氷のような雰囲気もあります。
-EN: Purehearted and romantic, you're<n>a CD player type living in a dream.<n>Chasing dreams gives you high ideals,<n>but also a perfectionist streak.<n>You're a stern critic of yourself<n>and others, with an icy air that<n>can make you hard to get close to.
+EN: You're the CD player type: a purehearted romantic lost in dreams. Your high ideals make you hard on yourself and others. That icy air makes you hard to get close to.
 
 @160AC max=359
 JP: マッサージ機
@@ -204,7 +204,7 @@ EN: Massager
 
 @16214 max=359
 JP: 誰に対しても公平で、平等、困難<n>な状況下でも柔和で、穏やかな癒<n>しタイプのマッサージ機。頭も良<n>く、合理的でもあります。バラン<n>ス感覚が良い分、誰に対しても親<n>切に振舞えるので、人から見ると<n>八方美人に見える場合も。
-EN: Fair to everyone, you're the soothing<n>massager type: gentle and calm,<n>even when things get tough.<n>You're clever and practical, too.<n>Your balanced outlook lets you treat<n>everyone kindly, though some may think<n>you're just trying to please everyone.
+EN: You're the massager type: fair, gentle, and calm even in a crisis. Clever and practical, you treat everyone kindly. Some may see you as a people pleaser, though.
 
 @1637C max=359
 JP: コタツ
@@ -212,7 +212,7 @@ EN: Heated Table
 
 @164E4 max=359
 JP: 一見、控えめで温和、慎重な性格<n>のコタツタイプですが、実は、頑<n>固さにかけてはピカいち。物静か<n>なのに、観察力、洞察力に優れ、<n>人の気持ちを先回りして汲める人<n>でもあります。ちょっと執念深く<n>執着しがちなところが欠点です。
-EN: The heated table type seems reserved,<n>gentle, and cautious at first glance.<n>But few can match your stubbornness!<n>Quiet yet observant and perceptive,<n>you sense people's feelings early.<n>Your flaws? You tend to hold grudges<n>and have trouble letting things go.
+EN: You're the heated table type: quiet, gentle, cautious... and stubborn! You read people well and sense their needs. But you hold grudges and struggle to let go.
 
 @1664C max=359
 JP: 電子レンジ
@@ -220,7 +220,7 @@ EN: Microwave
 
 @167B4 max=359
 JP: あまり人の意見を聞かず、物事を<n>自分中心に回していく、電子レン<n>ジ。しかしその判断力は鋭く、あ<n>まり間違うことはありません。例<n>え間違ってもそれを経験として生<n>かせる柔軟性があります。面倒見<n>が良く、人から頼りにされます。
-EN: As a microwave type, you rarely listen<n>to advice and do things your own way.<n>Still, your judgment is sharp,<n>and you're seldom wrong.<n>Even mistakes become lessons,<n>thanks to your flexible outlook.<n>You look after others, who rely on you.
+EN: You're the microwave type: you ignore advice and do things your way. Your sharp judgment is rarely wrong, and you learn from mistakes. Others count on your care.
 
 @1691C max=359
 JP: 蛍光灯
@@ -228,7 +228,7 @@ EN: Fluorescent Light
 
 @16A84 max=359
 JP: じっくり行動し、忍耐力、持久力<n>抜群の蛍光灯タイプ。見た目のカ<n>ッコ良さより、内面の魅力、内に<n>秘めた力が、きらりと光る努力家<n>です。年をとってから大成功、と<n>いう大器晩成型ですが、自分に厳<n>しくしすぎないよう注意が必要。
-EN: You take your time, with patience<n>and stamina to spare: a fluorescent<n>light type! Your hard work, inner charm,<n>and hidden strength shine brighter<n>than any flashy looks. A late bloomer,<n>you may find great success later in life.<n>Just don't be too hard on yourself.
+EN: You're the fluorescent light type: patient and tireless. Inner charm and hidden strength outshine your looks. Success comes later in life. Go easy on yourself!
 
 @16BEC max=359
 JP: 洗濯機
@@ -236,7 +236,7 @@ EN: Washing Machine
 
 @16D54 max=359
 JP: クールで頭の回転が早く、合理的<n>なのに天才的。いろんな側面をあ<n>わせ持つマルチタイプの洗濯機。<n>集団のリーダーにもなれるタイプ。<n>ただし、常識にとらわれることが<n>嫌いで突然、むちゃなことをして<n>しまうこともあるので注意が必要。
-EN: Cool, quick-witted, and practical,<n>with a spark of genius, you're<n>the versatile washing machine type.<n>You've got what it takes to lead.<n>But you hate being bound by convention<n>and may suddenly do something reckless.<n>Watch out for those wild impulses!
+EN: A cool, quick-witted washing machine: practical, brilliant and versatile. A born leader! But you hate convention and may do something rash on a whim. Take care!
 
 @16EBC max=359
 JP: ビデオデッキ
@@ -244,4 +244,4 @@ EN: VCR
 
 @17024 max=359
 JP: ロマンチストでやさしい、昔話の<n>登場人物のようなビデオデッキ。<n>疑うことを知らず、デリケートな<n>心の持ち主。人にだまされてしま<n>ったり、利用されてしまうことも<n>ありますが、それでも人を信じる<n>ことを止めない、やさしい人です。
-EN: Gentle and romantic, you're a VCR type,<n>like someone out of a fairy tale.<n>You have a sensitive heart<n>and never think to doubt anyone.<n>People may trick you or use you,<n>but even then, you never stop<n>believing in others. What a kind soul!
+EN: A gentle, romantic VCR, like a fairy-tale character. Your heart is sensitive and trusting. Even when people trick or use you, you never stop believing in them.

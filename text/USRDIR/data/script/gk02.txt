@@ -156,7 +156,7 @@ EN: Stomach
 
 @15134 max=359
 JP: あなたは、胃タイプです。どんな<n>食品でも、可能な限り自分の守備<n>範囲の場所で消化しようとする責<n>任感の強さは、胃の真骨頂。それ<n>でもたまには、どんなに頑張って<n>も消化できない異物もあり、と認<n>めて、頑固になりすぎないこと。
-EN: You're the stomach type.<n>You take responsibility for whatever<n>comes your way, doing all you can<n>to digest it on your own turf.<n>That's a stomach's true strength!<n>Still, some things just won't go down,<n>however hard you try. Don't be stubborn.
+EN: You're the stomach type! You take responsibility and digest all you can on your own turf. But some things just won't go down, however hard you try. Don't be too stubborn!
 
 @1529C max=359
 JP: 心臓
@@ -164,7 +164,7 @@ EN: Heart
 
 @15404 max=359
 JP: あなたは、活発で行動力抜群の心<n>臓タイプです。人間の体の中で、<n>最後まで動きつづける心臓のよう<n>に、これと決めたら粘り強く目標<n>を達成する強さもあります。でも、<n>気分次第でやる気を失い、突然止<n>まったりしないように！
-EN: You're the lively, energetic heart type!<n>Like the heart, which keeps beating<n>until the very end, you have the grit<n>to reach a goal once you've set it.<n>But don't let a passing mood<n>drain all your motivation and bring<n>you to a sudden stop!
+EN: You're the heart type: lively and full of energy! Like a heart beating to the very end, you keep at your goals. Just don't let a passing mood bring you to a sudden stop!
 
 @1556C max=359
 JP: 腸
@@ -172,7 +172,7 @@ EN: Intestines
 
 @156D4 max=359
 JP: あなたは、調整能力が高い腸タイ<n>プです。チームで取り組むスポー<n>ツや仕事の司令塔がぴったりです。<n>ながーい腸の中でゆっくり食物を<n>消化するまさに腸のような存在。<n>ただし「調子良すぎ」て、逆に下<n>痢をしないように注意。
-EN: You're the intestines type, a gifted<n>coordinator! You're a natural leader<n>in team sports or group projects.<n>Like those looong intestines slowly<n>digesting food, you keep things moving.<n>Just don't get so carried away that<n>your smooth running becomes the runs!
+EN: You're the intestines type: a born team leader! Like a long gut slowly digesting food, you keep things running smoothly. Just don't get so carried away you give yourself the runs!
 
 @1583C max=359
 JP: 肝臓
@@ -180,4 +180,4 @@ EN: Liver
 
 @159A4 max=359
 JP: あなたは、沈黙の臓器と呼ばれる<n>肝臓タイプです。他人に内面の悩<n>みや努力する姿を見せず、何事も<n>スマートにこなしてしまいます。<n>でも無理は禁物。溜め込んだスト<n>レスで、つぶれてしまわないよう<n>プライドも程々に！
-EN: You're the liver type, the silent organ.<n>You keep your worries and hard work<n>to yourself, making everything you do<n>look effortless. But don't overdo it!<n>Swallow too much stress and you could<n>end up buckling under the strain.<n>Don't let your pride get in the way!
+EN: You're the liver type, the silent organ! You hide your worries and effort, making it all look easy. But don't let pride stop you easing up before bottled-up stress crushes you!

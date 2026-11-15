@@ -156,7 +156,7 @@ EN: Bok Choy
 
 @15134 max=359
 JP: 新しいことを始めるのが好きなあ<n>なたは、チンゲンサイが初めて市<n>場に出たときも飛びついたはず。<n>チャレンジ精神が旺盛で、負けず<n>ギライなので、自然とリーダーに<n>なってしまいます。ただ人の意見<n>を聞かないところがあるので注意。
-EN: You love trying new things, so you<n>probably pounced on bok choy when it<n>first hit the shops! Adventurous and<n>fiercely competitive, you naturally<n>end up leading the pack. Just be<n>careful: you sometimes forget to<n>listen to other people's opinions.
+EN: You love new things, like bok choy on its debut! Bold and competitive, you're a natural leader. Just remember to listen to other people's views.
 
 @1529C max=359
 JP: モヤシ
@@ -164,7 +164,7 @@ EN: Bean Sprouts
 
 @15404 max=359
 JP: 人に見られていなくても、やるべ<n>きことは地道にコツコツとこなし<n>ていくあなた。ふだんは目立たな<n>くても、いざというときに、すぐ<n>に料理の逸品になるモヤシのよう<n>に頼りになる人です。一度友達に<n>なると誠実につきあっていきます。
-EN: You steadily get things done, even<n>when no one's watching. Like humble<n>bean sprouts that can become a tasty<n>dish in a flash, you may not stand<n>out, but you're someone people can<n>count on in a pinch. Once you make a<n>friend, you're loyal through and through.
+EN: You work steadily, even unseen. Like bean sprouts, you quietly shine when needed. People can count on you in a pinch, and you're a loyal friend for life.
 
 @1556C max=359
 JP: キャベツ
@@ -172,7 +172,7 @@ EN: Cabbage
 
 @156D4 max=359
 JP: 社交性があり、誰とでも合わせら<n>れるあなたは、どんな料理にもマ<n>ッチするキャベツタイプ。好奇心<n>が旺盛で、頭の回転が速く、行動<n>的ですが、飽きっぽいところが玉<n>にキズ。意外に神経質で、落ち込<n>むと立ち直りは遅いほうです。
-EN: Sociable and easy to get along with,<n>you're like cabbage: a good fit for<n>almost any dish! You're curious,<n>quick-witted and active, though you<n>get bored easily. You're also more<n>sensitive than people realize, and<n>take a while to bounce back when down.
+EN: Like cabbage in any dish, you fit in anywhere! Curious, quick and active, you bore easily. You're sensitive, too, and take time to bounce back from setbacks.
 
 @1583C max=359
 JP: シイタケ
@@ -180,7 +180,7 @@ EN: Shiitake Mushrooms
 
 @159A4 max=359
 JP: 母のようなやさしさを持つあなた<n>は、ジンワリと野菜に染み入るだ<n>しを出すシイタケのような、癒し<n>の人。好きな人をずっと見守る家<n>庭的なタイプです。世話好きで献<n>身的。ただ、それが度を過ぎると<n>おせっかいと思われるので注意。
-EN: Like shiitake broth gently flavoring<n>vegetables, your motherly kindness<n>soothes everyone around you. You're<n>a home-loving soul who watches over<n>loved ones with care. Helpful and<n>devoted, you love looking after people.<n>Just don't let caring become meddling!
+EN: Like soothing shiitake broth, your motherly kindness warms others. You love home and care devotedly for loved ones. Just don't let caring turn into meddling!
 
 @15B0C max=359
 JP: トマト
@@ -188,7 +188,7 @@ EN: Tomatoes
 
 @15C74 max=359
 JP: 情熱的で華やかなあなたは、野菜<n>の中で目立つ真っ赤なトマトのよ<n>うです。あなたの周りにはいつも<n>友達が集まってくるはず。行動力<n>はある反面、自分の意見を押し付<n>けがちに。ひとりになるとロマン<n>ティストで寂しがりやな面も。
-EN: Passionate and vibrant, you stand out<n>like a bright red tomato among the<n>vegetables. Friends always seem to<n>gather around you! You make things<n>happen, but can push your opinions<n>on others. In private, you're a romantic<n>who gets lonely more easily than you'd think.
+EN: Like a bright red tomato, you're vibrant and passionate. Friends flock to you! You take action, but can push your views. Alone, you're a lonely romantic.
 
 @15DDC max=359
 JP: キュウリ
@@ -196,7 +196,7 @@ EN: Cucumbers
 
 @15F44 max=359
 JP: 鮮度がすぐ落ちてしまうキュウリ<n>のように、あなたはデリケートで<n>繊細な神経の持ち主。マジメで何<n>をするにも慎重に完ぺきを目指す<n>タイプなので人から頼りにされま<n>す。観察力も鋭く、人にキツイこ<n>とを言ってしまいがちなので注意。
-EN: Like cucumbers that quickly lose<n>their freshness, you're delicate and<n>sensitive. Serious and cautious, you<n>aim for perfection in everything,<n>making you someone people rely on.<n>You're very observant, too, but watch<n>out: your comments can be a bit harsh!
+EN: You're delicate, like a cucumber that soon loses its freshness. Careful and serious, you aim for perfection. People rely on you, but your keen eye can lead to sharp words.
 
 @160AC max=359
 JP: レタス
@@ -204,7 +204,7 @@ EN: Lettuce
 
 @16214 max=359
 JP: 食事の口直しに食べるレタスのよ<n>うに、あなたはバランスを大切に<n>するタイプ。争いごとを好まず、<n>いつも冷静に周りの状況を判断し<n>ます。会話上手なあなたはグルー<n>プのまとめ役になっているはず。<n>少し決断力が欠けるところも。
-EN: Like lettuce refreshing the palate,<n>you value balance. You dislike conflict<n>and always keep a cool head as you<n>assess what's going on around you.<n>Your knack for conversation makes<n>you the one who holds a group together.<n>Making decisions can be a struggle, though.
+EN: Like refreshing lettuce, you bring balance. You avoid conflict and calmly assess things. Your gift for conversation holds groups together, but decisions can stump you.
 
 @1637C max=359
 JP: インゲン
@@ -212,7 +212,7 @@ EN: Green Beans
 
 @164E4 max=359
 JP: 大人しいけれど、内面に激しい情<n>熱を秘めているあなたは、脇役だ<n>けれども栄養価は高いインゲンタ<n>イプ。しんぼう強く、目標を決め<n>るとやり遂げる意思を持っていま<n>す。ただ思ったことを口に出さな<n>いので、誤解されやすいかも。
-EN: Quiet on the outside, you hide a fiery<n>passion within. You're like green beans:<n>rarely the star, but full of goodness.<n>You're patient, and once you set a goal,<n>you have the will to see it through.<n>Still, keeping your thoughts to yourself<n>can leave people misunderstanding you.
+EN: Like humble but nourishing green beans, you're quiet but full of passion. Patient and determined, you see goals through. Keeping your thoughts inside can cause confusion.
 
 @1664C max=359
 JP: ニラ
@@ -220,7 +220,7 @@ EN: Garlic Chives
 
 @167B4 max=359
 JP: どこにいても目立つ開放的で大ら<n>かなあなた。ニラのように、人に<n>アピールする個性の持ち主です。<n>好奇心が強く、興味を持ったら後<n>先を考えずに行動します。束縛さ<n>れることがキライなので、自分勝<n>手と思われがちなので注意して。
-EN: Open and easygoing, you stand out<n>wherever you go. Like garlic chives,<n>you have a personality people notice!<n>Curious by nature, you leap into anything<n>that interests you without thinking ahead.<n>You hate being tied down, but take care:<n>others may see that as selfishness.
+EN: Open and easygoing, you stand out like garlic chives! Curiosity makes you leap before you look. You hate being tied down, but watch out: that can seem selfish.
 
 @1691C max=359
 JP: ニンジン
@@ -228,7 +228,7 @@ EN: Carrots
 
 @16A84 max=359
 JP: 孤独にコツコツとどんな分野のこ<n>ともマジメに取り組み、ニンジン<n>のように周りから時間をかけて価<n>値を認められるあなた。堅実派で<n>マイペースです。友達は心を許せ<n>る人と長く付き合いますが、たま<n>には新しいことに挑戦してみて！
-EN: You work steadily and seriously on<n>anything you tackle, even all alone.<n>Like carrots, your worth takes time<n>for others to appreciate. Practical,<n>you move at your own pace and keep<n>trusted friends for years. Still, try<n>something new every now and then!
+EN: Like carrots, your worth takes time to be appreciated. You work steadily at your own pace and keep trusted friends for years. Try something new now and then!
 
 @16BEC max=359
 JP: ピーマン
@@ -236,7 +236,7 @@ EN: Green Peppers
 
 @16D54 max=359
 JP: 人から指示をされることがキライ<n>で、ちょっとクセのあるあなたは<n>ピーマンタイプ。人に何をいわれ<n>ようとも、自分がこだわることに<n>は譲りません。新しいものに興味<n>しんしん。パッとしたヒラメキは<n>天才的。友情を大切にするほう。
-EN: You hate being told what to do and<n>have a quirky streak: a green pepper<n>through and through! Whatever people<n>say, you won't budge on what matters<n>to you. New things fascinate you, and<n>your flashes of inspiration are pure<n>genius. You value friendship, too.
+EN: You're a green pepper! Quirky and curious, you hate orders and won't budge on what matters. Your bright ideas are pure genius, and you treasure friendship.
 
 @16EBC max=359
 JP: ナス
@@ -244,4 +244,4 @@ EN: Eggplant
 
 @17024 max=359
 JP: 和洋中とどんな料理にも使えるナ<n>スのように、あなたはとても順応<n>性に富み、おだやかな性格です。<n>年上の人に甘えることが上手なタ<n>イプです。困ってる人がいると、<n>ほおって置けません。思いやりが<n>深い分だけ、傷つきやすい面も。
-EN: Like eggplant, at home in Japanese,<n>Western or Chinese cooking, you're<n>adaptable and easygoing. You know how<n>to win a little pampering from your elders.<n>You can't walk past someone who needs<n>help. Such a caring heart also means<n>your feelings are easily hurt.
+EN: Like eggplant, you're adaptable and easygoing. You charm your elders into pampering you and can't ignore anyone in need. Your caring heart is easily hurt.

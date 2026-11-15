@@ -156,7 +156,7 @@ EN: Pickled Plum
 
 @15134 max=359
 JP: どんな壁が立ちふさがろうと果敢<n>に前進するあなたは、元気いっぱ<n>いの梅干しおにぎり。任されたこ<n>とはしっかりやりとおすリーダー<n>的存在でもあります。夢中になり<n>すぎて周りが見えなくなることも<n>あるので、ご注意を。
-EN: No obstacle can stop you from<n>charging ahead! You're a lively<n>pickled plum rice ball. A natural<n>leader, you always see your duties<n>through. Just watch out: when you<n>get too caught up in something,<n>you can lose sight of those around you.
+EN: You're a lively pickled plum rice ball! A bold leader, you tackle obstacles and see each task through. Just don't get so caught up that you forget those around you.
 
 @1529C max=359
 JP: おかか
@@ -164,7 +164,7 @@ EN: Bonito Flakes
 
 @15404 max=359
 JP: だれでもふと懐かしい気持ちにさ<n>せてくれるおかかのおにぎり。あ<n>なたからにじみ出る温かい雰囲気<n>が周りの人をほっとさせてくれま<n>す。意外にも粘り強さと頑固さに<n>かけては、どんなおにぎりよりも<n>上を行きます。
-EN: Like a bonito flake rice ball, you<n>give everyone a warm taste of nostalgia.<n>Your gentle warmth helps people<n>around you relax. But there's more<n>to you than comfort food! When it<n>comes to persistence and stubbornness,<n>you beat every other rice ball.
+EN: You're a bonito flake rice ball, full of cozy nostalgia. Your warmth puts others at ease, but no other rice ball can match your persistence... or your stubborn streak!
 
 @1556C max=359
 JP: 五目
@@ -172,7 +172,7 @@ EN: Mixed Rice
 
 @156D4 max=359
 JP: いつも何かを求めてあちこち飛び<n>回っている印象が強いあなた。ひ<n>とつの味では満足できない五目お<n>にぎりです。いろんな味を一度に<n>食べたい気持ちもわかるけど、た<n>まには目標をひとつに絞って最後<n>まで取り組んでみたら？
-EN: Always dashing about in search of<n>something, you're a mixed rice ball.<n>One flavor just won't satisfy you!<n>It's only natural to want a taste of<n>everything, but why not pick just<n>one goal now and then, and stick<n>with it all the way to the finish?
+EN: Always chasing something new, you're a mixed rice ball. One flavor is never enough! Variety is fun, but try picking one goal and sticking with it to the very end.
 
 @1583C max=359
 JP: いくら
@@ -180,7 +180,7 @@ EN: Salmon Roe
 
 @159A4 max=359
 JP: 感性が豊かでいつもたくさんの夢<n>や憧れをいだいているあなたは、<n>宝石のような粒をいっぱい詰め込<n>んだいくらのおにぎり。大好きな<n>恋人や家族はとっても大切にする<n>のに、人見知りが激しいところが<n>もったいないところです。
-EN: Sensitive and full of dreams, you're<n>a salmon roe rice ball, packed with<n>little jewels of possibility. You<n>treasure your sweetheart and family,<n>but you're terribly shy around<n>strangers. It's a shame to keep all<n>that warmth hidden from new friends!
+EN: Full of dreams, you're a rice ball filled with jewel-like salmon roe. You treasure your sweetheart and family, but shyness keeps new people from seeing your warmth.
 
 @15B0C max=359
 JP: 赤飯
@@ -188,7 +188,7 @@ EN: Red Bean Rice
 
 @15C74 max=359
 JP: なんとなくいつもお祭り気分なと<n>ころは、赤飯のおにぎりタイプ。<n>普段、明るくて陽気な反面、一人<n>ぼっちになるととたんに寂しがり<n>やに変身してしまいます。自分の<n>力を過信して大変なことも平気で<n>背負い込む一面も。
-EN: Life always feels like a festival<n>to you, making you a red bean rice ball.<n>You're usually bright and cheerful,<n>but the moment you're alone, you<n>get terribly lonely. You can also<n>overestimate your abilities and<n>cheerfully take on more than you can handle.
+EN: You're a festive red bean rice ball! Bright and cheerful in company, you soon get lonely by yourself. You also overrate your strength and take on more than you can handle.
 
 @15DDC max=359
 JP: 焼きおにぎり
@@ -196,7 +196,7 @@ EN: Grilled Rice Ball
 
 @15F44 max=359
 JP: やるべきことはきちんとこなさな<n>いと気がすまない性格は、焼き目<n>も焦げ目も均一な焼きおにぎり。<n>なんでもそつなくこなす一方で、<n>大人になりきれない純情派なとこ<n>ろもあります。現実をしっかり見<n>据える大人の目も必要。
-EN: You can't rest until every job is<n>done properly. You're a grilled rice<n>ball, perfectly browned on every side.<n>You handle most things with ease,<n>yet part of you is still an innocent<n>child at heart. Try to develop a<n>grown-up eye for life's realities, too.
+EN: You're an evenly grilled rice ball: every job must be done right! You handle things well, yet you're still an innocent at heart. Try taking a more grown-up view of reality.
 
 @160AC max=359
 JP: シャケ
@@ -204,7 +204,7 @@ EN: Salmon
 
 @16214 max=359
 JP: 誰にでも愛されるおにぎりの定番<n>のひとつシャケ。ご飯との相性の<n>よさは、誰とでもうちとけられる<n>あなたのコミュニケーション能力<n>の高さみたいなもの。あなたの能<n>力に嫉妬している人も実はいるこ<n>とも忘れずに。
-EN: You're salmon, a classic rice ball<n>filling loved by all. Salmon's knack<n>for going perfectly with rice is like<n>your gift for getting along with<n>anyone. Those people skills are<n>impressive! Just remember, some<n>people may be jealous of your talents.
+EN: You're a salmon rice ball, a well-loved classic! Like salmon with rice, you fit right in with anyone. Just remember, some people may envy those winning people skills.
 
 @1637C max=359
 JP: 明太子
@@ -212,7 +212,7 @@ EN: Spicy Cod Roe
 
 @164E4 max=359
 JP: クールに見えて本当は熱き情熱家。<n>そんなあなたは、ぴりりと辛い明<n>太子を真っ白なご飯に隠した明太<n>子おにぎり。これ、と思って狙っ<n>た獲物は絶対に逃がさない執念深<n>さは、ともすれば嫉妬深さに繋が<n>るので注意して。
-EN: Cool on the outside, passionate within!<n>You're a rice ball hiding fiery cod<n>roe beneath pure white rice. Once<n>something catches your eye, you<n>won't let it get away. That fierce<n>determination can turn into jealousy,<n>though, so keep an eye on it.
+EN: Cool outside, fiery within: you're a spicy cod roe rice ball! Once you set your sights on something, you never let go. Be careful that passion doesn't turn to jealousy.
 
 @1664C max=359
 JP: ツナマヨネーズ
@@ -220,7 +220,7 @@ EN: Tuna Mayo
 
 @167B4 max=359
 JP: いつのまにか、おにぎりの定番に<n>なったツナマヨネーズ。あなたの<n>自由奔放な性格もなぜか、いつの<n>まにか周囲が認めてしまう不思議<n>な魅力です。チャレンジ精神旺盛<n>なのは結構ですが、瞬発力だけで<n>なく持久力も養いましょう。
-EN: Tuna mayo quietly became a rice ball<n>classic. In much the same way, your<n>free spirit has a mysterious charm<n>that wins people over before they<n>know it. Your eagerness to try new<n>things is great, but build up some<n>staying power to match that initial burst!
+EN: You're tuna mayo, a surprise rice ball classic! Your free spirit wins people over before they know it. You love a challenge; now build the stamina to match your enthusiasm.
 
 @1691C max=359
 JP: 塩むすび
@@ -228,7 +228,7 @@ EN: Salted Rice Ball
 
 @16A84 max=359
 JP: 地味で目立たないけど、食べてみ<n>たらお米の味がひときわ際立つ塩<n>むすび。かめばかむほど本当のい<n>い味が出る頑張りやさんのあなた<n>です。一見おとなしそうに見える<n>ので、あなたが口にする批判は、<n>想像以上に辛らつかも。
-EN: Plain and unassuming, a salted rice<n>ball lets the rice's true flavor shine.<n>You're a hard worker whose best<n>qualities emerge with time. You seem<n>so quiet at first that any criticism<n>you voice may come across as far<n>more biting than you realize.
+EN: You're a plain salted rice ball: a hard worker whose true flavor shines with time. You seem so quiet that your criticism can sting much more than you realize.
 
 @16BEC max=359
 JP: 天むす
@@ -236,7 +236,7 @@ EN: Shrimp Tempura
 
 @16D54 max=359
 JP: 周囲をあっと驚かせるような言動<n>をときどき披露するあなたは、初<n>めて見たらちょっとびっくりの天<n>むすです。頭の回転が速すぎて、<n>みんながついてこれないなんてこ<n>とになると、個性もただの変人に<n>なるので気をつけて。
-EN: Your words and actions sometimes<n>leave everyone amazed. You're a shrimp<n>tempura rice ball: a surprise at first<n>sight! Your mind works fast, but<n>if nobody can keep up, your unique<n>style may just seem odd. Give the<n>rest of us a chance to catch up!
+EN: You're a shrimp tempura rice ball, full of surprises! Your mind races ahead of the crowd. Let others catch up, or your unique charm may come off as plain weird.
 
 @16EBC max=359
 JP: 昆布
@@ -244,4 +244,4 @@ EN: Kelp
 
 @17024 max=359
 JP: 甘くて辛くてしょっぱくて、その<n>味加減がご飯にしっくりなじむ昆<n>布のおにぎり。周りへの気配りは<n>誰より一番。ただ、ときどき自分<n>だけの空想の世界に入り込んでし<n>まうようです。いやと言えない性<n>格を悪用されないで。
-EN: Sweet, spicy and salty in just the<n>right balance, kelp goes beautifully<n>with rice. You're more considerate<n>of others than anyone, though you<n>sometimes drift into your own fantasy<n>world. You find it hard to say no,<n>so don't let anyone take advantage of you.
+EN: You're a kelp rice ball: sweet, spicy and salty. Ever thoughtful, you sometimes drift into your own dream world. You struggle to say no, so don't let others take advantage.

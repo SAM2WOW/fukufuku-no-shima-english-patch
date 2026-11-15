@@ -244,7 +244,7 @@ EN: Do you take into account<n>what matters to you and to others?
 
 @15D5C max=127
 JP: あなたは、感情に動かされない穏やかな仲裁者として、<n>双方の立場を理解できますか？
-EN: Can you stay calm and understand both sides of a dispute<n>without letting your emotions sway you?
+EN: Can you calmly mediate a dispute and see both sides?
 
 @15DE0 max=127
 JP: リラックスすることが苦手で、<n>冗談などをあまりいわないほうですか？
@@ -316,7 +316,7 @@ EN: Do you worry about people disliking you?
 
 @166A4 max=127
 JP: 人のために尽くすことで、その人の人生にとって<n>自分が大切な存在になりたいと思いますか？
-EN: Do you hope that by devoting yourself to others,<n>you'll become an important part of their lives?
+EN: Do you help others in hopes of becoming important to them?
 
 @16728 max=127
 JP: 直接会うより、<n>文章でのコミュニケーションの方が好きですか？
@@ -328,7 +328,7 @@ EN: Do you value your work or role<n>and feel that others appreciate it too?
 
 @16830 max=127
 JP: 自分以上に、他人は人生の本当の美しさと深さを<n>味わっていないと思いますか？
-EN: Do you feel that others don't experience life's true beauty<n>and depth as fully as you do?
+EN: Do you feel you savor life's beauty and depth more than others do?
 
 @168B4 max=127
 JP: 待ち合わせの時間は必ず守りますか？
@@ -416,7 +416,7 @@ EN: Are you the quiet, reserved type who tends to hold back?
 
 @17388 max=127
 JP: 他人の弱点を見つけるのが得意で、<n>相手が挑戦してきたら、その弱点を攻撃しますか？
-EN: Are you good at spotting people's weaknesses,<n>and do you target them if someone challenges you?
+EN: Do you spot others' weak points and attack them when challenged?
 
 @1740C max=127
 JP: きちんと整理された状態で生活する方ですか？
@@ -472,7 +472,7 @@ EN: Do you always look on the bright side<n>and avoid dwelling on life's darker 
 
 @17AC0 max=127
 JP: 自分以外の意見や、<n>賛否両論を参考にすることができますか？
-EN: Can you take other people's views into account,<n>including arguments for and against an idea?
+EN: Can you consider other views and weigh both pros and cons?
 
 @17B44 max=127
 JP: 物事について、不満を表明することは<n>あなたにとってはあたりまえのことですか？
@@ -564,7 +564,7 @@ EN: Do your own values guide your thinking?
 
 @1869C max=127
 JP: 自ら決断することが多いけれど、<n>ときには臨機応変に意見を変えることもありますか？
-EN: Do you usually make your own decisions,<n>but sometimes change your mind as circumstances change?
+EN: Do you decide for yourself, but adapt your views when needed?
 
 @18720 max=127
 JP: 自分の過去をよく思い出しては、<n>哀愁に浸ることがありますか？
@@ -684,7 +684,7 @@ EN: Do you like to grasp the deeper meanings<n>and patterns behind the facts?
 
 @19614 max=127
 JP: 物事を達成するためには、組織化して、<n>無駄なく効率的にやることが大切だと思いますか？
-EN: Do you think getting things done requires organization<n>and working efficiently, without wasted effort?
+EN: Is being organized and efficient vital to getting things done?
 
 @19698 max=127
 JP: 深遠なものや象徴的なものに心がひかれますか？
@@ -804,7 +804,7 @@ EN: Do you enjoy being alone<n>and tend to keep your thoughts and feelings to yo
 
 @1A58C max=127
 JP: 達成表や得点といった、<n>自分の実績を示すものが好きですか？
-EN: Do you like things that show your achievements,<n>such as progress charts and scores?
+EN: Do you like progress charts and scores that show your achievements?
 
 @1A610 max=127
 JP: あなたがどのように感じているか、<n>他の人には理解できないと思いますか？
@@ -884,7 +884,7 @@ EN: Do you value harmony and respect for each individual?
 
 @1AFDC max=127
 JP: 信頼している人に対しては、<n>損得抜きで尽くす方ですか？
-EN: Do you go out of your way for people you trust,<n>without thinking of what you might gain or lose?
+EN: Do you help those you trust without weighing the cost or reward?
 
 @1B060 max=127
 JP: 出会う人に対して<n>あまり敵意を感じることがありませんか？
@@ -904,7 +904,7 @@ EN: Do you make a plan before starting something?
 
 @1B270 max=127
 JP: 基本的に力を浪費するのがきらいなので、<n>何かするときは力の節約を考えますか？
-EN: Do you dislike wasting energy<n>and look for ways to save your strength when doing things?
+EN: Do you dislike wasted effort and try to conserve your energy?
 
 @1B2F4 max=127
 JP: 見た目は平静でも、<n>心の中では腹がたっているということがありますか？
@@ -948,7 +948,7 @@ EN: Do you find it impossible to go against your parents or boss?
 
 @1B81C max=127
 JP: 細かいことにこだわらず、<n>物事は広い視野でとらえるべきだと思いますか？
-EN: Do you think you should focus on the big picture<n>without getting caught up in the details?
+EN: Should you take a broad view without fussing over details?
 
 @1B8A0 max=127
 JP: 家事は好きですか？
@@ -968,7 +968,7 @@ EN: Do you dislike leaving things half-finished and unresolved?
 
 @1BAB0 max=127
 JP: もっとうまくやれるはずなのに、どうしてできないの<n>かと、ときどき自分や他人を責めますか？
-EN: Do you sometimes blame yourself or others,<n>wondering why you can't do better when you know you could?
+EN: Do you sometimes blame yourself or others for not doing better?
 
 @1BB34 max=127
 JP: 次に起こることを予測して冷静に行動できますか？
@@ -984,7 +984,7 @@ EN: Do you tend to gather information one step at a time, in a logical order?
 
 @1BCC0 max=127
 JP: 過去の失敗や間違いを反省するより、<n>自分がやり遂げたことに満足したいですか？
-EN: Would you rather feel proud of your achievements<n>than reflect on past failures and mistakes?
+EN: Would you rather enjoy your successes than reflect on past mistakes?
 
 @1BD44 max=127
 JP: 自分は人生という舞台で演じているのだと<n>感じることがありますか？
@@ -996,11 +996,11 @@ EN: Are you easily irritated or angered?
 
 @1BE4C max=127
 JP: 全体の状況を把握してから判断したいと思い、何か見<n>落としていたら、自分自身の軽率さを責めますか？
-EN: Do you want the full picture before deciding,<n>and blame yourself for being careless if you overlook something?
+EN: Do you seek the full picture and blame yourself for careless oversights?
 
 @1BED0 max=127
 JP: 思いついたり、思いたったことから<n>情報を集める方ですか？
-EN: Do you tend to gather information by following<n>whatever ideas happen to come to mind?
+EN: Do you gather information on whatever happens to come to mind?
 
 @1BF54 max=127
 JP: 無視されたり、仲間はずれにされることは、<n>何よりもつらいことですか？
@@ -1044,7 +1044,7 @@ EN: Do you value other people's feelings as well as your own?
 
 @1C47C max=127
 JP: 続けていく意味がなくなると、<n>新しい何かを始めたくなりますか？
-EN: When you no longer see a point in continuing,<n>do you want to start something new?
+EN: When there's no point going on, do you want to start something new?
 
 @1C500 max=127
 JP: 深い感動こそ、<n>自分が生きている原動力だと感じますか？
@@ -1216,7 +1216,7 @@ EN: Do you have a knack for jokes and a good sense of humor?
 
 @1DAA8 max=127
 JP: ひとつのことに集中するよりも、<n>次から次へと関心が移りますか？
-EN: Does your interest jump from one thing to the next<n>instead of staying focused on one thing?
+EN: Do your interests keep shifting instead of staying on one thing?
 
 @1DB2C max=127
 JP: 最後に慌ててやらないようにする方ですか？
@@ -1388,7 +1388,7 @@ EN: Full Throttle
 
 @1F66C max=359
 JP: あなたはいつでもやる気満々のテンション満<n>開タイプです。野心にあふれ、高い目標に向<n>かって突き進んでいきますが、自分の目標を<n>達成するためには手段を選ばない利己的な性<n>格も持ち合わせているので、他人から見ると<n>かなり迷惑な人でもあります。他人を踏み台<n>にするような冷たさと頑固なところを、思い<n>やりと柔軟性に変えるよう努力しましょう。
-EN: You're the Full Throttle type, always<n>raring to go. Ambitious, you charge<n>toward lofty goals. But your selfish<n>willingness to do anything to succeed<n>can make you a real nuisance to others.<n>You can be cold enough to use people<n>as stepping stones. Replace that coldness<n>and stubbornness with care and flexibility.
+EN: You're the Full Throttle type: eager and ambitious, charging toward lofty goals. But you'll do anything to succeed, even use others as stepping stones. That selfish streak can make you a nuisance. Try replacing coldness and stubbornness with kindness and flexibility.
 
 @1F7D4 max=31
 JP: 実行力ゼロ
@@ -1436,7 +1436,7 @@ EN: Eternal Child
 
 @1FF9C max=359
 JP: あなたは永遠の子供タイプです。欲しいと思<n>ったものは手に入れないと気がすまないし、<n>その場限りのごまかしなど得意中の得意。好<n>奇心が旺盛で、なんにでもクビを突っ込み、<n>常識なんか考えもせず、ひたすら、自分の欲<n>するままに行動を起こしていきます。子供心<n>を発揮して遊ぶのは大いに結構ですが、公的<n>なときは少し自分を抑えることも大切ですよ。
-EN: You're an Eternal Child. You must have<n>what you want, and you're a master of<n>quick cover-ups. Curious about everything,<n>you poke your nose in without a thought<n>for common sense, following every whim.<n>Playing with childlike wonder is fine,<n>but learn to rein yourself in a little<n>when the occasion calls for proper behavior.
+EN: You're an Eternal Child: you must have what you want and excel at quick cover-ups. Endlessly curious, you poke your nose into everything, ignoring common sense to follow your whims. Childlike play is fine, but on formal occasions, try to rein yourself in a little.
 
 @20104 max=31
 JP: 穏やか大人

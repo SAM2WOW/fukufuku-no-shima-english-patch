@@ -152,7 +152,7 @@ EN: that all celestial bodies in the universe<n>are constantly moving away from 
 
 @1583C max=359
 JP: 宇宙のすべての天体は、<n>常にお互いから遠ざかり続けている。<n>そのため、宇宙は膨張しているといわれている。
-EN: All celestial bodies in the universe<n>are constantly moving away from one another.<n>That is why we say the universe is expanding.
+EN: All celestial bodies keep moving apart, so we say the universe is expanding.
 
 @159A4 max=359
 JP: 犬同士がおしりのニオイをかぎあうのは<n>あいさつだということを。<p>相手の年齢や性別といった情報を<n>おしりのニオイから得ているということなんだがね。
@@ -176,7 +176,7 @@ EN: that geostationary satellites do not actually stand still?<p>They orbit at t
 
 @160AC max=359
 JP: 地球と同じ速度で回ってる人工衛星は、<n>まるで静止しているように見えるため、<n>静止衛星と呼ばれる。
-EN: Satellites that orbit at the same rate as Earth rotates<n>appear to stay in one place.<n>That is why they are called geostationary satellites.
+EN: Satellites that match Earth's rotation seem fixed. We call them geostationary satellites.
 
 @16214 max=359
 JP: 人が呼吸しているとき、<n>吸っている空気の大部分は酸素ではなく、<p>窒素だということを。<p>ま、吐いているのも大部分が<n>二酸化炭素ではなくて窒素なんだがね。
@@ -188,11 +188,11 @@ EN: Most of the air we breathe in is nitrogen,<n>rather than oxygen.<n>Most of w
 
 @164E4 max=359
 JP: 地球の赤道半径は、極半径よりも長いということを。<n>地球は、完全な球ではないということなんだがね。
-EN: that Earth's equatorial radius is greater than its polar radius?<n>Earth is not a perfect sphere, you see.
+EN: Earth is wider at the equator than from pole to pole. It isn't a perfect sphere.
 
 @1664C max=359
 JP: 地球の赤道半径は極半径よりも長い。<n>地球は、完全な球ではないため。
-EN: Earth's equatorial radius is greater than its polar radius.<n>This is because Earth is not a perfect sphere.
+EN: Earth is wider at the equator than from pole to pole. It isn't a perfect sphere.
 
 @167B4 max=359
 JP: 地球上の緑色植物が１年に１９００億トンもの<n>酸素を生産しているということを。<p>この酸素は、光合成によって作られているんだがね。
@@ -200,7 +200,7 @@ EN: that Earth's green plants produce a staggering<n>190 billion metric tons of 
 
 @1691C max=359
 JP: 地球上の緑色植物は１年に１９００億トンもの<n>酸素を光合成によって生産している。
-EN: Earth's green plants produce 190 billion metric tons<n>of oxygen each year through photosynthesis.
+EN: Plants make 190 billion metric tons of oxygen a year by photosynthesis.
 
 @16A84 max=359
 JP: よくある冷蔵庫の臭い取りなんかの中身は、<n>炭だってことを。<p>ま、活性炭にはたくさんの細かい穴が開いていて、<n>表面積が大きいから、<p>臭いの成分を取り込みやすいんだけどね。
@@ -264,7 +264,7 @@ EN: Did you know that the distance light travels in one year<n>is called a light
 
 @17F9C max=359
 JP: 光が１年間に進む距離を１光年、<n>太陽が銀河系を１周する時間を１銀河年という。
-EN: A light-year is the distance light travels in one year.<n>A galactic year is the time the Sun takes to orbit our galaxy.
+EN: Light-year: light's yearly travel. Galactic year: time for the Sun to orbit our galaxy.
 
 @18104 max=359
 JP: 光速で宇宙旅行していると、<n>歳をとるのがゆっくりになるということを。<p>ま、すべてのものは、<n>そのもののおかれた状況で時間を<p>生きていくからなんだけどね。
@@ -344,7 +344,7 @@ EN: Did you know that Mercury has a crater called Hiroshige?<p>Others bear Japan
 
 @19BBC max=359
 JP: 水星には、「広重」、「芭蕉」や「人麻呂」など<n>日本人の名前がついたクレーターがある。
-EN: Mercury has craters named after Japanese people,<n>including Hiroshige, Basho and Hitomaro.
+EN: Mercury has craters named Hiroshige, Basho and Hitomaro, after Japanese people.
 
 @19D24 max=359
 JP: モルヒネの名の由来を。<p>ギリシャ神話の夢の神・モルフェウスから<n>命名されたのだがね。
@@ -360,7 +360,7 @@ EN: Did you know that a force called surface tension<n>is always acting on water
 
 @1A15C max=359
 JP: 水には表面張力という力がいつも働いている。<n>そのため、水滴は、表面積がいちばん小さい<n>丸の形になりやすい。
-EN: A force called surface tension always acts on water.<n>This makes water droplets tend to form spheres,<n>the shape with the smallest surface area.
+EN: Surface tension makes water form round drops: the shape with the smallest surface area.
 
 @1A2C4 max=359
 JP: 木星にイオ、ガニメデ、カリスト、エウロパという<n>衛星があることを。<p>１６１０年にガリレオによって<n>発見されたんだがね。
@@ -424,7 +424,7 @@ EN: Did you know there's a salt lake in the Andes,<n>3,600 meters above sea leve
 
 @1B7DC max=359
 JP: 標高３６００メートルのアンデス高地にある<n>ウユニ塩湖は、海水の約８倍の塩水である。<n>約２０万年前、海だったところが隆起して<n>できた湖だからと言われている。
-EN: Lake Uyuni in the Andes lies 3,600 meters<n>above sea level and is about eight times as salty<n>as seawater. It's said to have formed when land<n>under the sea rose up about 200,000 years ago.
+EN: Lake Uyuni, 3,600 meters up in the Andes, is about eight times as salty as seawater. A seabed uplift about 200,000 years ago is said to have formed it.
 
 @1B944 max=359
 JP: 蛍光塗料は、その色素の分子が光を吸収して<n>励起状態になるから光るんだということを。<p>ま、この励起状態がいつまで続くかが、<n>蛍光塗料がどのくらい光るかを決めるんだがね。
@@ -432,7 +432,7 @@ EN: Did you know fluorescent paint glows because<n>its pigment molecules absorb 
 
 @1BAAC max=359
 JP: 蛍光塗料は、その色素の分子が光を吸収して<n>励起状態になるから光る。
-EN: Fluorescent paint glows because its pigment<n>molecules absorb light and enter an excited state.
+EN: Fluorescent paint glows as its pigment molecules absorb light and become excited.
 
 @1BC14 max=359
 JP: 金星に１９８２年３月に<n>ソビエトのベネラ１３号が着陸したということを。<p>このとき金星のカラー写真を初めて撮影したんだがね。
@@ -456,7 +456,7 @@ EN: Did you know Earth takes 23 hours<n>and 56 minutes to complete one rotation?
 
 @1C31C max=359
 JP: 地球の自転周期は２３時間５６分である。<n>秒速２９．８ｋｍで<n>太陽の周りをまわっている。
-EN: Earth takes 23 hours and 56 minutes<n>to complete one rotation.<n>It travels around the sun<n>at 29.8 kilometers per second.
+EN: Earth rotates in 23 hours, 56 minutes and orbits the sun at 29.8 km per second.
 
 @1C484 max=359
 JP: ボールペンが１９４３年に<n>ハンガリー人のピロによって<p>発明されたのだということを。<p>ペンの先に小さなボールを組み込んでいるから<n>ボールペンと言うのだがね。
@@ -488,7 +488,7 @@ EN: Did you know cats have much better eyesight<n>than dogs?<p>Mind you, they ar
 
 @1CE5C max=359
 JP: 猫の視力は犬よりもずっと良い。<n>ただし、静止した物体はうまく認識できない。
-EN: Cats have much better eyesight than dogs.<n>However, they struggle to recognize objects<n>that stay still.
+EN: Cats see far better than dogs, but struggle to recognize still objects.
 
 @1CFC4 max=359
 JP: 月が地球から３８万４０００ｋｍ先に<n>あるのだということを。<p>その月は１年に約３．８センチずつ<n>地球から遠ざかっているんだがね。
@@ -536,7 +536,7 @@ EN: In 1682, Edmond Halley observed a comet...<p>And predicted that it followed 
 
 @1DF3C max=359
 JP: １６８２年、エドモンド・ハレーは見つけた彗星が<n>７６年周期の楕円軌道をもっていると予言した。<n>彼の死後それが証明され、その彗星は<n>「ハレー彗星」と呼ばれるようになった。
-EN: In 1682, Edmond Halley predicted that a comet he observed<n>followed an elliptical orbit with a 76-year period.<n>His prediction was proved after his death,<n>and it came to be called Halley's Comet.
+EN: In 1682, Edmond Halley predicted a comet's 76-year elliptical orbit. Proven right after his death, it was named Halley's Comet.
 
 @1E0A4 max=359
 JP: 福島県は、２億年ぐらい前は<n>アジア大陸にくっついていたってことを。<p>ま、だからこそ、<n>いまだに大昔の恐竜の骨なんかがでてくるわけだがね。
@@ -544,7 +544,7 @@ EN: Did you know Fukushima Prefecture was joined<n>to the Asian continent about 
 
 @1E20C max=359
 JP: ２億年ぐらい前、<n>福島県はアジア大陸にくっついていた。
-EN: About 200 million years ago,<n>Fukushima Prefecture was joined to the Asian continent.
+EN: About 200 million years ago, Fukushima was joined to mainland Asia.
 
 @1E374 max=359
 JP: 江戸時代の人たちも、<n>ちゃんと水道料金を払っていたということを。<p>ま、江戸時代だってちゃんと上水道は<n>整備されていたから、その管理にかかるお金を<p>みんなで負担していたということだね。<p>ちなみに、水道料金のことは<n>水銀（みずぎん）と呼ばれていたんだがね。
@@ -560,7 +560,7 @@ EN: Did you know Andre Garnerin made<n>a parachute jump in 1797?<p>It was humani
 
 @1E7AC max=359
 JP: １７９７年にアンドレ・ガルネリンが<n>人類初のパラシュート降下実験を行った。
-EN: In 1797, Andre Garnerin carried out<n>humanity's first experimental parachute jump.
+EN: In 1797, Andre Garnerin made the first experimental parachute jump.
 
 @1E914 max=359
 JP: チワワがメキシコの州の名前から<n>付けられているということを。<p>チワワは知っていても<n>その州のことはこれっぽっちも知らない<p>日本人はかなり多いと思うんだがね。
@@ -688,7 +688,7 @@ EN: The first two digits of a product's barcode<n>tell you its country of origin
 
 @214AC max=359
 JP: 商品のバーコードの最初の二桁は国名である。<n>ちなみに、日本の数字は４９と４５。
-EN: The first two digits of a product's barcode identify its country of origin.<n>Japan's codes are 49 and 45.
+EN: A barcode's first two digits name a country. Japan's are 49 and 45.
 
 @21614 max=359
 JP: ある固体が、溶けたとき液体にならずに<n>いきなり気体になることを昇華と呼ぶということを。<p>ま、防虫剤なんかは、この昇華のおかげで<n>布を汚さずにすんでいるけどね。
@@ -752,7 +752,7 @@ EN: That white cloud around dry ice is made of tiny water droplets.<p>The carbon
 
 @22B2C max=359
 JP: ドライアイスの白い気体は、<n>ドライアイスに含まれる二酸化炭素によって、<n>冷やされ水蒸気が水滴になったもの。
-EN: The white cloud around dry ice consists of water droplets.<n>Carbon dioxide from the dry ice cools the surrounding water vapor,<n>turning it into droplets.
+EN: Dry ice's white cloud is water droplets: its carbon dioxide cools water vapor, making it condense.
 
 @22C94 max=359
 JP: 錠前師のピーター・ハインラインが<n>世界で最初に発明した<p>「ニュールンベルグの卵」とは何かを。<p>懐中時計なんだがね。
@@ -800,7 +800,7 @@ EN: Take any whole number of at least 1.<n>If even, halve it. If odd, triple it 
 
 @23C0C max=359
 JP: １以上の整数を、<n>偶数なら２で割り、奇数なら３倍して１を足す、<n>という計算を繰り返していくと、<n>元の数字がなんであれ最後は必ず１になるらしい。
-EN: Take any whole number of at least 1.<n>If even, halve it. If odd, triple it and add 1.<n>Keep repeating those steps, and apparently you'll reach 1,<n>whatever number you started with.
+EN: Start with a positive whole number. If even, halve it; if odd, triple it and add 1. Repeat: supposedly, any starting number ends at 1.
 
 @23D74 max=359
 JP: 自分に聞こえる自分の声は、<n>自分の声とは違うってことを。<p>自分の声の大部分は、<n>骨伝導によって聞こえているので、<p>実際、他の人が聞くより少し低めに聞こえる。<p>ま、自分の声を録音して聞いてみれば、<n>その差はすぐにわかるんだがね。
@@ -872,7 +872,7 @@ EN: We cannot see the far side of the moon from Earth.<p>You see, the moon takes
 
 @2555C max=359
 JP: 地球からは月の裏側は見えない。<n>月の公転と自転の周期が同じなため。
-EN: We cannot see the far side of the moon from Earth.<n>The moon's rotation and orbital periods are the same.
+EN: We can't see the moon's far side: it spins once for each orbit of Earth.
 
 @256C4 max=359
 JP: 絶対零度が－２７３．１５度Ｃであることを。<n>これ以上低い温度は考えられないという意味で<p>つけられたネーミングなのだ。<p>零度なんてつくからまぎらわしいんだがね。
@@ -928,7 +928,7 @@ EN: Cutting a starfish into pieces won't kill it.<p>Each piece simply grows back
 
 @2690C max=359
 JP: ヒトデをばらばらにしても死なない。<n>ちぎれても、再生する。
-EN: Cutting a starfish into pieces won't kill it.<n>It can regenerate after being torn apart.
+EN: Starfish survive being cut apart. Torn-off pieces can regrow.
 
 @26A74 max=359
 JP: ライプニッツとニュートンは、<n>微積分をそれぞれ自分が発見したと<p>言い張ってたということを。<p>ちなみにニュートンは万有引力の発見も<n>ロバート・フックと言い争ったのだがね。
@@ -968,7 +968,7 @@ EN: Altair, the first-magnitude star in Aquila,<n>is known in Japan as Hikoboshi
 
 @2771C max=359
 JP: 鷲座の１等星アルタイルは<n>日本では彦星と呼ばれている。<n>ちなみに、織姫は琴座のベガ。
-EN: Altair, the first-magnitude star in Aquila,<n>is called Hikoboshi, the Cowherd Star, in Japan.<n>Orihime, the Weaver Star, is Vega in Lyra.
+EN: In Japan, Altair, Aquila's first-magnitude star, is called Hikoboshi. Orihime is Vega in Lyra.
 
 @27884 max=359
 JP: クモは２カ月ぐらい何も食べないでも<n>生きていけるということを。<p>ま、水分は必要なんだがね。
@@ -1072,7 +1072,7 @@ EN: Jenner developed smallpox vaccination<n>by experimenting on a young boy.<p>I
 
 @29BAC max=359
 JP: ジェンナーは少年を実験台にして<n>種痘を発明した。<n>日本では華岡青州が妻を実験台にして<n>世界最初の全身麻酔手術を成功させた。
-EN: Jenner developed smallpox vaccination<n>by experimenting on a young boy.<n>In Japan, Hanaoka Seishu experimented on his wife<n>and went on to perform the world's first surgery<n>under general anesthesia.
+EN: Jenner developed vaccination using a boy. In Japan, Hanaoka Seishu tested anesthetics on his wife, then performed the world's first surgery under general anesthesia.
 
 @29D14 max=359
 JP: 大西洋をはさんだ、<n>アフリカと南アメリカの沿岸のかたちが<p>ぴったりと合うということを。<p>ま、二つの大陸は大昔くっついていて、<n>プレートの運動などによって<p>徐々に移動していったという<n>大陸移動説なんだがね。
@@ -1144,7 +1144,7 @@ EN: Jupiter has the greatest mass<n>of any planet in our solar system.<p>And Mer
 
 @2B4FC max=359
 JP: 木星は太陽系外惑星で一番質量が多い。<n>一番少ないのは水星。
-EN: Jupiter has the greatest mass<n>of any planet in our solar system.<n>Mercury has the least.
+EN: Jupiter is our solar system's most massive planet; Mercury is the least.
 
 @2B664 max=359
 JP: 人は体温が４２度まで上がると<n>死んでしまうってことを。<p>ま、４２度で人体のたんぱく質が<n>固まってしまうからなんだがね。
@@ -1160,7 +1160,7 @@ EN: Snails are both male and female<n>because they move so slowly.<p>You see, wh
 
 @2BA9C max=359
 JP: かたつむりが雌雄同体なのは、足がのろいため。<n>足がのろいと、<n>繁殖相手に出会うのも稀である。<n>数少ないチャンスを生かすための進化だった。
-EN: Snails are both male and female<n>because they move so slowly.<n>They rarely meet potential mates,<n>so they evolved to make the most<n>of those rare opportunities.
+EN: Snails are both male and female because they move slowly and rarely meet mates. They evolved to make every encounter count.
 
 @2BC04 max=359
 JP: プラスチック消しゴムを<n>長時間プラスチックにくっつけておくと、<p>プラスチックが溶けてしまう、ということを。<p>ま、消しゴムに含まれている可塑剤が<n>プラスチックを溶かす原因なんだけどね。
@@ -1240,7 +1240,7 @@ EN: Did you know platypuses lay eggs<n>instead of giving birth to live young?<p>
 
 @2D6BC max=359
 JP: 単孔類のカモノハシとハリモグラは、<n>赤ちゃんではなく、卵を産む。
-EN: Platypuses and echidnas are monotremes.<n>They lay eggs instead of giving birth to live young.
+EN: Platypuses and echidnas are egg-laying mammals called monotremes.
 
 @2D824 max=359
 JP: 植物のクローンなら、<n>誰にでも簡単に作れるってことを。<p>ま、植物のクローンというのは、<n>簡単に言うと挿し木、接ぎ木のことで<p>昔から作られていたのだがね。
@@ -1280,7 +1280,7 @@ EN: In liquid water, molecules move freely.<n>When it freezes, they slow down an
 
 @2E4CC max=359
 JP: 水は、液体のときは分子がばらばらに運動し、<n>凍ると分子の運動が遅くなり規則正しく並ぶ。<n>この状態を結晶という。
-EN: In liquid water, molecules move freely.<n>When it freezes, they slow down and line up in a regular pattern.<n>This arrangement is called a crystal.
+EN: In liquid water, molecules move freely. As water freezes, they slow and form an orderly pattern called a crystal.
 
 @2E634 max=359
 JP: スプレー缶の底がみんな球状だということを。<p>ま、スプレー缶の中が高圧なので<n>強度の高い球状になっているということなんだがね。
@@ -1288,7 +1288,7 @@ EN: Did you know spray cans all have curved bottoms?<p>The contents are under hi
 
 @2E79C max=359
 JP: スプレー缶の底が、球状なのは、<n>平らなものよりも容器の強度が高くなるため。
-EN: Spray cans have curved bottoms<n>because a curved shape makes the container stronger than a flat one.
+EN: Spray cans have curved bases because they're stronger than flat ones.
 
 @2E904 max=359
 JP: エアロビクスが運動生理学でいうところの<n>有酸素運動を意味するということを。<p>笑顔で踊るあの運動のことだけを<n>さすのではないのだよ。<p>もちろんあれこそ有酸素運動なんだがね。
@@ -1352,7 +1352,7 @@ EN: The Sun is about five billion years old, you know.<p>Its lifespan is said to
 
 @2FE1C max=359
 JP: 寿命が１００億といわれている太陽は<n>現在、約５０億歳である。
-EN: The Sun's lifespan is said to be ten billion years.<n>It is currently about five billion years old.
+EN: The Sun is about 5 billion years old, halfway through its 10-billion-year life.
 
 @2FF84 max=359
 JP: オーデコロンが１８世紀初めに<n>イタリア人のファリナによって<p>発明されたということを。<p>その頃はケルンの水と呼ばれていたんだがね。
@@ -1368,7 +1368,7 @@ EN: Some craters on the Moon have Japanese names, you know.<p>The International 
 
 @303BC max=359
 JP: 月のクレーターには日本名がついているものがある。<n>国際天文学連合総会で、<n>歴史上功績のあった科学者を<n>選び出して命名したとき、<n>日本人科学者も含まれていたから。
-EN: Some craters on the Moon have Japanese names.<n>The International Astronomical Union's General Assembly<n>selected scientists with great achievements<n>to name the craters after,<n>and Japanese scientists were among them.
+EN: Some Moon craters have Japanese names. The International Astronomical Union's General Assembly named craters after distinguished scientists, including Japanese ones.
 
 @30524 max=359
 JP: 天然ゴムは、ゴムの樹に<n>傷をつけると採れるということを。<p>ゴムの木の中でも「へベアゴム」は、<n>最高級品なんだがね。
@@ -1464,7 +1464,7 @@ EN: Radish sprouts grown in space<n>get all tangled up, you know.<p>The experime
 
 @3257C max=359
 JP: 宇宙空間で育てた貝割れ大根は、<n>こんがらがってしまう、という実験をしたのは<n>日本人宇宙飛行士、向井千秋さん。
-EN: An experiment showed that radish sprouts grown in space<n>get all tangled up. It was conducted<n>by Japanese astronaut Chiaki Mukai.
+EN: Japanese astronaut Chiaki Mukai's experiment found that radish sprouts grown in space get all tangled up.
 
 @326E4 max=359
 JP: 人間の体の中にはタンパク質の細い糸から成る<n>繊維性結合組織があるということを。<p>ま、それがいわゆる腱やじん帯なんかを<n>作っているのだがね。
@@ -1656,7 +1656,7 @@ EN: A substance that cannot be broken down further is an element.<n>And its smal
 
 @368FC max=359
 JP: それ以上分解できない物質のことを単体と呼び、<n>それ以上分けられない物質の最小の粒のことを<n>原子と呼ぶ。
-EN: A substance that cannot be broken down further is called an element.<n>The smallest indivisible particle of a substance<n>is called an atom.
+EN: An element cannot be broken down further. An atom is a substance's smallest indivisible particle.
 
 @36A64 max=359
 JP: 太陽を中心として、<n>金星は地球より内側を回っているということを。<p>ま、こういう惑星のことを内惑星と呼ぶんだがね。
@@ -1712,7 +1712,7 @@ EN: The amino acids that make up proteins in living things<n>all have L-handed s
 
 @37CAC max=359
 JP: 生体のたんぱく質を構成するアミノ酸は、<n>すべてＬー型片手構造であり、<n>遺伝子を構成する糖はすべてＤー型である。
-EN: The amino acids that make up proteins in living things<n>all have L-handed structures,<n>while the sugars in genetic material are all D-handed.
+EN: Living proteins use only L-form amino acids, while sugars in genetic material are all D-form.
 
 @37E14 max=359
 JP: ユークリッドが幾何学の父であることを。<p>母はどこにいるのかは気になるとこだがね。
@@ -1760,7 +1760,7 @@ EN: Organisms that break organic matter down into inorganic matter<n>are called 
 
 @38D8C max=359
 JP: 有機物を無機物に分解する生物を<n>分解者という。<n>細菌類や菌類がこれにあたる。
-EN: Organisms that break organic matter down into inorganic matter<n>are called decomposers.<n>These include bacteria and fungi.
+EN: Decomposers, such as bacteria and fungi, break organic matter down into inorganic matter.
 
 @38EF4 max=359
 JP: ローラースケートが<n>ベルギーのジョセフ・メルリンによって<p>発明されたということを。<p>１７００年代中盤のことなんだがね。
@@ -1784,7 +1784,7 @@ EN: Peanuts grow underground.<p>The pods seem to form in the ground<n>right wher
 
 @395FC max=359
 JP: 落花生は、地中にサヤができて豆が育つ。<n>まるで、花が落ちた地面のところに<n>サヤができているように見えるため、<n>落花生という名になっている。
-EN: Peanut pods form underground, where the nuts grow.<n>The pods seem to form in the ground<n>right where the flowers fall, hence their Japanese name,<n>rakkasei: "fallen-flower nuts."
+EN: Peanuts grow in pods underground, as if beneath fallen flowers. Hence rakkasei, their Japanese name: "fallen-flower nuts."
 
 @39764 max=359
 JP: 確率論は、シュバリエ・ド・メレが<n>パスカルに相談をもちかけて<p>生まれた数学理論だということを。<p>シュバリエは賭け事をする人だったわけだがね。
@@ -1792,7 +1792,7 @@ EN: Chevalier de Mere once<n>asked Pascal for some advice.<p>That's how the math
 
 @398CC max=359
 JP: 賭け事好きのシュバリエ・ド・メレが<n>パスカルに相談したことから、確率論は生まれた。
-EN: Probability theory was born when the keen gambler<n>Chevalier de Mere asked Pascal for advice.
+EN: Probability theory began with gambler de Mere consulting Pascal.
 
 @39A34 max=359
 JP: 自ら光を発する星のことを恒星と呼ぶことを。<p>ま、太陽なんかがそうなんだけどね。
@@ -1976,7 +1976,7 @@ EN: Did you know the Frenchman who proved<n>that a triangle's angles add up to 1
 
 @3D97C max=359
 JP: パスカルは三角形の内角の和がニ直角であることを<n>証明し、また、世界で最初の計算機を考えだした。
-EN: Pascal proved that a triangle's angles add up to 180 degrees<n>and also devised the world's first calculator.
+EN: Pascal proved triangle angles total 180 degrees and devised the first calculator.
 
 @3DAE4 max=359
 JP: 気圧を測る単位をヘクトパスカルということを。<p>ま、台風なんかのニュースで<n>きいたことがあるかもしれないがね。
@@ -2008,7 +2008,7 @@ EN: Did you know that when an observer moves<n>relative to light arriving from a
 
 @3E4BC max=359
 JP: 天体からの光と、<n>それを観測するものが相対的に速度を持つ場合、<n>光は本来の方向より前に傾いた方向から<n>来るように見える現象を「光行差」という。
-EN: When an observer moves relative to light<n>arriving from a celestial body,<n>the light appears to come from a direction tilted forward.<n>This is called the aberration of light.
+EN: When an observer moves relative to starlight, it seems to arrive from farther forward. This is called the aberration of light.
 
 @3E624 max=359
 JP: 一生の間に取った特許の数が、<n>３００以上もあるというスウェーデン人のことを。<p>あの、ノーベル賞のノーベル、だがね。
@@ -2104,7 +2104,7 @@ EN: Did you know Halley's Comet has a huge lump of ice inside?<p>Well, after all
 
 @4067C max=359
 JP: ハレー彗星の中身は、巨大な氷の塊である。<n>長年飛び続けているため、チリなどで<n>真っ黒に汚れてしまった。
-EN: Halley's Comet has a huge lump of ice inside.<n>After many years flying through space, dust and debris<n>have left it filthy and black.
+EN: Halley's Comet is a huge lump of ice, blackened by dust and debris over its long journey through space.
 
 @407E4 max=359
 JP: 重力を測る単位がニュートン、ということを。<p>約１００グラムの物体にかかる重力の大きさを、<n>１ニュートン、とするんだがね。
@@ -2144,7 +2144,7 @@ EN: The current flowing through a circuit is proportional to the voltage.<p>That
 
 @4148C max=359
 JP: オームの法則とは、<n>回路に流れる電流は電圧に比例する。
-EN: Ohm's law states that<n>the current flowing through a circuit is proportional to the voltage.
+EN: Ohm's law: current in a circuit is proportional to voltage.
 
 @415F4 max=359
 JP: バックミンスター・フラーとは誰かを。<p>ジオデシック・ドームを<n>考え出した建築家なんだがね。
@@ -2168,7 +2168,7 @@ EN: Even if you made a clone of yourself, your close friends<n>would soon spot t
 
 @41CFC max=359
 JP: クローンを作っても、自分に近い友人などには<n>すぐ偽者だとばれてしまう。<n>人間の個性は後天的なもののため、<n>遺伝子が同じでも違う個体ということになる。
-EN: Even if you made a clone of yourself, your close friends<n>would soon spot the impostor.<n>Personality develops through experience,<n>so identical genes don't make you the same person.
+EN: Close friends would soon spot your clone. Personality comes from experience, so identical genes do not make the same person.
 
 @41E64 max=359
 JP: 地球上にいちばん多い化合物が水であることを。<p>それゆえに、水の惑星なわけだがね。
@@ -2200,7 +2200,7 @@ EN: A substance dissolved in a liquid is called the solute,<n>and the liquid is 
 
 @4283C max=359
 JP: 液体に溶けている物質のことを溶質、<n>その液体のことを溶媒と呼ぶ。<n>水に塩を溶かした場合、<n>その塩が溶質、水を溶媒になる。
-EN: A substance dissolved in a liquid is called the solute,<n>and the liquid is called the solvent.<n>If you dissolve salt in water,<n>the salt is the solute and the water is the solvent.
+EN: A dissolved substance is the solute; the liquid is the solvent. In salt water, salt is the solute and water is the solvent.
 
 @429A4 max=359
 JP: バチルス・ナットー・サワムラが<n>稲わらにいるということを。<p>これが、稲わらに包んだ煮大豆を<n>納豆に変えてくれる張本人なんだがね。
@@ -2208,7 +2208,7 @@ EN: Bacillus natto Sawamura<n>lives on rice straw.<p>It's the little fellow resp
 
 @42B0C max=359
 JP: 納豆菌のバチルス・ナットー・サワムラは、<n>発見者である沢村博士の名から命名された。
-EN: The natto bacterium Bacillus natto Sawamura<n>was named after its discoverer, Dr. Sawamura.
+EN: Bacillus natto Sawamura was named for its discoverer, Dr. Sawamura.
 
 @42C74 max=359
 JP: タンポポが食べられるということを。<p>葉をおひたしなどに<n>根は炒るとコーヒーになるんだがね。
@@ -2224,7 +2224,7 @@ EN: So many people suffer from a condition<n>called acne vulgaris.<p>Or plain ol
 
 @430AC max=359
 JP: 若者がかかる病気、尋常性座瘡とは<n>ニキビのことである。
-EN: Acne vulgaris is a condition common among young people.<n>It's the medical term for pimples.
+EN: Acne vulgaris means pimples, a common problem among young people.
 
 @43214 max=359
 JP: 人間の骨の中でいちばん長いのは<n>大腿骨なんだということを。<p>ちなみにもっとも小さな骨は耳にある<n>アブミ骨なんだがね。
@@ -2232,7 +2232,7 @@ EN: The longest bone in the human body<n>is the femur, or thighbone.<p>The small
 
 @4337C max=359
 JP: 人間の骨の中でいちばん長いのは大腿骨、<n>もっとも小さいのは耳の中にあるアブミ骨。
-EN: The longest human bone is the femur, or thighbone.<n>The smallest is the stapes, or stirrup bone, inside the ear.
+EN: The femur is our longest bone; the stapes in the ear is our smallest.
 
 @434E4 max=359
 JP: 地球上で、最初に酸素を放出したのは<n>海中のラン細菌だったってことを。<p>ま、長い年月をかけて<n>酸素が蓄積されてきたってことだがね。
@@ -2276,7 +2276,7 @@ EN: Saliva can break down starch into sugar.
 
 @442F4 max=359
 JP: 脳は切られても痛みを感じない、ってことを。<n>ま、脳そのものには痛感がないからなんだけどね。
-EN: The brain feels no pain, even when cut.<n>That's because brain tissue itself has no pain receptors.
+EN: The brain feels no pain when cut: its tissue has no pain receptors.
 
 @4445C max=359
 JP: 脳は痛感がないので、<n>切られても痛みを感じない。
@@ -2344,7 +2344,7 @@ EN: Onions can help calm the mind.<p>You see, allyl sulfide, one of the substanc
 
 @45ADC max=359
 JP: 玉ねぎに含まれる硫化アリルという匂い成分には、<n>精神を安定させる働きがある。
-EN: Allyl sulfide, a substance that gives onions their smell,<n>has a calming effect on the mind.
+EN: Onions' smelly allyl sulfide has a calming effect on the mind.
 
 @45C44 max=359
 JP: 細胞はロバート・フックが発見した<n>「小部屋」であるということを。<p>１６６５年のことなんだがね。
@@ -2376,7 +2376,7 @@ EN: How many toes does a sparrow have?<p>How many legs does a scorpion have, exc
 
 @4661C max=359
 JP: 雀の足の指、サソリのハサミ以外の足、ダニの足は<n>すべて８本である。
-EN: A sparrow's toes, a scorpion's legs excluding its pincers,<n>and a mite's legs all total eight each.
+EN: Sparrows have eight toes. Scorpions and mites each have eight legs.
 
 @46784 max=359
 JP: 最近よく聞く、ナノテクノロジーなどのナノは、<n>ラテン語で小さい人、と言う意味だということを。<p>ま、バクテリアやウィルス、<n>たんぱく質の分子なんかを測るときに<p>使う単位なんだけどね。
@@ -2416,7 +2416,7 @@ EN: Spiders can spin neat webs<n>even in zero gravity.<p>This was tested in an a
 
 @4742C max=359
 JP: クモは無重力の世界でも、きれいに巣がはれる。<n>宇宙ステーションで実際に行われた実験で、<n>最初のうちは巣がはれなかったクモたちが、<n>２カ月弱の滞在期間中に環境に適応して、<n>きれいにはれるようになった。
-EN: Spiders can spin neat webs even in zero gravity.<n>In an experiment aboard a space station,<n>the spiders couldn't spin webs at first.<n>During their stay of just under two months,<n>they adapted and learned to spin neat webs.
+EN: Spiders can spin neat webs in zero gravity! On a space station, they struggled at first, but adapted during a stay of just under two months.
 
 @47594 max=359
 JP: アフリカ象とインド象の違いについて。<p>鼻の先が三角なのはインド象、<n>耳が大きいのはアフリカ象なんだがね。<p>ちなみにアフリカ象は<n>飼いならせないといわれているんだゾウ。<p>ここ笑うとこなんだがね。
@@ -2488,7 +2488,7 @@ EN: Dinosaurs walked with their necks and tails held level.<n>This kept them fro
 
 @48D7C max=359
 JP: 恐竜が首と尾を水平にして歩いていた。<n>揺れが小さく、歩幅も大きくなるので<n>効率のよい歩き方だった。
-EN: Dinosaurs walked with their necks and tails held level.<n>This reduced swaying and lengthened their strides,<n>making it an efficient way to walk.
+EN: Dinosaurs held their necks and tails level to walk efficiently, with less sway and longer strides.
 
 @48EE4 max=359
 JP: フグが目をつぶることを。<p>まぶたがあるわけではなく、<n>目のまわりの皮膚が収縮してるだけなんだがね。

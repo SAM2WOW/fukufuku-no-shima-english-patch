@@ -128,7 +128,7 @@ EN: Waiting puts your pride and your willingness to give up<p>on opposite sides 
 
 @150EC max=319
 JP: 素直で我慢強い人です。が、それ以上に、<n>並んででも評判の味を試したい気持ちと、<n>それをみんなに自慢したいという気持ちが<n>あるのではないですか？
-EN: You're easygoing and patient. But isn't there more to it? You want to try that famous food, even if it means waiting... and perhaps boast about it to everyone afterward!
+EN: You're sincere and patient. But don't you also want to try that famous food, even if you must wait in line, then brag about it to everyone?
 
 @1522C max=319
 JP: 人の行動をけなすという行為には、<n>自分の行動や考えを正当化する、<n>という心の働きがあらわれます。<n>並んで食べた人に自慢されたときのための<n>心の防御策なんです。
@@ -272,11 +272,11 @@ EN: This question explores how well you<n>bounce back from life's knocks.<p>A cl
 
 @1769C max=319
 JP: 失敗して叱られることで社会から認知され、<n>しょうがない奴、と可愛がられている人。<n>他人からは元気だけがとりえのように<n>思われていても、かなり打たれ強い人なので<n>陰では人知れずがんばっています。
-EN: Your mistakes and scoldings get you noticed,<n>and people grow fond of you as a lovable handful.<n>Others may think enthusiasm is all you have,<n>but you're remarkably resilient.<n>You work hard behind the scenes, out of sight.
+EN: Your mistakes get you noticed as a lovable handful. Others may think energy is all you have, but you're resilient and work hard behind the scenes.
 
 @177DC max=319
 JP: 小憎らしい口をきき、<n>小生意気な奴と思われていますが<n>心の奥底では傷つきやすく繊細です。<n>本来は涙もろく、打たれ弱いのですが、<n>人前では涙をみせない意地っ張りです。
-EN: Your cheeky remarks<n>can make you seem like a little rascal,<n>but deep down, you're sensitive and easily hurt.<n>Tears come easily, and setbacks hit you hard,<n>yet you're too stubborn to cry in front of others.
+EN: Your cheeky remarks make you seem bratty, but deep down, you're sensitive and easily hurt. Tears come easily, yet you're too stubborn to let anyone see you cry.
 
 @17A7C max=127
 JP: お肉と言えば？
@@ -340,11 +340,11 @@ EN: The way you eat says a great deal<n>about your sense of responsibility.<p>It
 
 @18974 max=319
 JP: 自他共に認める、一本スジの通った人。<n>がんばっていれば評価は必ずついてくる、と<n>自信をもってがんばれます。<n>仕事の処理能力も高く、<n>合理的にこなせるタイプです。
-EN: You and others see you as a person of principle.<n>You work hard, confident that your efforts<n>will earn the recognition they deserve.<n>You are also skilled at getting things done<n>and take a practical, efficient approach.
+EN: Everyone, including you, knows you have firm principles. You work hard, sure your efforts will earn recognition. You're also capable, practical and efficient.
 
 @18AB4 max=319
 JP: 人目を気にせず、マイペースで行動する人。<n>人の意見にはなかなか耳をかさない<n>ガンコものですが、自分なりの理屈に<n>なっているので、ゆるぎはありません。が、<n>もう少し合理的な発想も必要です。
-EN: You go at your own pace, unconcerned with appearances.<n>You can be stubborn and reluctant to listen<n>to others, but your views follow your own logic,<n>so you rarely waver. Still, a little more<n>practical thinking would do you good.
+EN: You go your own way, regardless of what others think. Your own logic keeps you firm but stubborn and slow to listen. A more practical outlook would help.
 
 @18BF4 max=319
 JP: 相手をいい気持ちにさせながら<n>頼ることができる、甘え上手な人です。<n>そこが個性として愛されるタイプでは<n>あるのですが、ときとしてそれが<n>責任転嫁になってしまう場合があるので、<n>心しなくてはいけません。
@@ -388,7 +388,7 @@ EN: You enjoy living for pleasure without<n>thinking about the consequences.<n>Y
 
 @19744 max=319
 JP: 自分のやるべき事は完璧にこなせる人で、<n>誰からも信頼されています。<n>ただし、先の心配ばかりする傾向があるので<n>思いっきり、今を楽しむことができません。
-EN: You handle your responsibilities perfectly,<n>and everyone knows they can count on you.<n>However, you worry so much about what lies ahead<n>that you find it hard to fully enjoy the present.
+EN: Everyone trusts you to handle your duties perfectly. But you spend so much time worrying about the future that you can't fully enjoy the present.
 
 @199E4 max=127
 JP: 知人の家の洋式トイレの中、<n>座った目線の先にあったものは？
@@ -404,11 +404,11 @@ EN: However careful you are, the bathroom is a place<n>where you have to let you
 
 @19C4C max=319
 JP: トイレの中にもスケジュールを持ち込むのは<n>常に気を抜きたくない心構えの表れです。<n>あなたは、恋人に対してもぎこちなくて<n>心を開けない人。防衛過多とも言えます。
-EN: Bringing a schedule into the bathroom suggests<n>that you never want to let your guard down.<n>Even with your partner, you feel awkward<n>and struggle to open up. You may be a little too guarded.
+EN: Taking your schedule into the bathroom shows you never relax your guard. Even with a partner, you're awkward and struggle to open up. Too guarded, perhaps.
 
 @19D8C max=319
 JP: 風景画は、気を抜いてはいけないと<n>わかりつつ、少しは安らぎたい、という<n>気持ちの表れです。恋人にも親しい知人にも<n>適度に開けっぴろげに出来る人で、<n>時として、やや無防備なところも。
-EN: A landscape suggests you know you should stay alert,<n>but would still like a little peace and quiet.<n>You can be comfortably open with your partner<n>and close acquaintances, though at times<n>you may let your guard down a little too far.
+EN: A landscape shows you crave peace, though you know you should stay alert. You're fairly open with your partner and close friends, but sometimes you let your guard down too far.
 
 @19ECC max=319
 JP: トリックアートには、一瞬おどろくものの、<n>安心した後には開放感があります。ゆえに、<n>安心したくてたまらない気持ちの表れです。<n>あなたは、最初は人見知りしてても、<n>心を許したとたんに明け透けになってしまう<n>とっても無防備な人なのでは？
@@ -452,7 +452,7 @@ EN: This question reveals how eager you are<n>to take on new challenges.<p>When 
 
 @1A8DC max=319
 JP: どんなことでも楽しもうという、<n>前向きな考え方をもったチャレンジャーです。<n>わくわくした高揚感を<n>日常生活の中でも隠すことができず、<n>いつでもとてもテンション高い人です。
-EN: You embrace challenges with a positive outlook,<n>determined to find the fun in anything.<n>You cannot hide your sense of excitement,<n>even as you go about your everyday life.<n>You are always bursting with energy.
+EN: You're an upbeat adventurer who finds fun in anything. Even in everyday life, you can't hide your excitement. You're always bursting with energy!
 
 @1AA1C max=319
 JP: 三歩進んだら二歩下がって考える、<n>思慮深い行動をとります。<n>華々しい成功よりも<n>失敗のない地道な生き方を心がけています。<n>なんでもチャレンジ、というよりは、<n>自分の状態をわきまえた行動を取れる人です。
@@ -480,7 +480,7 @@ EN: Even if you tripped in the street,<n>you would blame a banana peel<n>rather 
 
 @1B064 max=319
 JP: 自分の失敗を素直に認め<n>反省点や失策をとりもどす方法を考えます。<n>素直すぎて時には落ち込みやすく<n>同じ過ちを繰り返すのではないかと<n>思い切った行動をとりにくい場合もあります。
-EN: You readily admit your mistakes<n>and think about what to learn and how to make amends.<n>But you can take things too much to heart<n>and worry about making the same mistake again,<n>which sometimes makes it hard to act boldly.
+EN: You admit mistakes and think about how to learn and make amends. But you take them to heart, and fear of repeating them can leave you feeling low and afraid to act boldly.
 
 @1B304 max=127
 JP: お祭りの屋台で遊ぶなら、真っ先にどれで遊ぶ？
@@ -496,7 +496,7 @@ EN: The first game stall you head for at a festival<n>reveals how much you treat
 
 @1B56C max=319
 JP: あなたは、周りからは恋愛経験豊富なように<n>思われがちなんですが、<n>実は意外と奥手だったりしませんか？<n>浮気心は十分あるのだけれど、いざとなると<n>なかなか実行に移せない純情派なんですね。
-EN: People may assume you have plenty<n>of romantic experience,<n>but are you actually rather shy in love?<n>You have a wandering eye, but when the moment comes,<n>you cannot quite act on it. You're an innocent at heart.
+EN: People think you're experienced in love, but aren't you rather shy? You have a wandering eye, yet when the moment comes, you're too innocent to act on it.
 
 @1B6AC max=319
 JP: 恋するチャンスがあれば、タイプに関係なく<n>いろんな人を好きになれちゃう人ですね。<n>その場で一気に熱くなるかわりに、<n>興味を失うのもあっという間なのでは？<n>長続きはしないかわりに、<n>間もあかないのが、あなたらしさですね。
@@ -564,11 +564,11 @@ EN: You put your own enjoyment first, which can make you a little troublesome fo
 
 @1C984 max=319
 JP: 常識で秩序正しい生活を心がけている人です。<n>行動半径はちょっと狭くなってしまいますが<n>他者に迷惑をかけることのない常識人。<n>キチンとした社会人ではありますが<n>ちょっとつまらない人に見えてしまうことも。
-EN: You try to lead a sensible, orderly life.<n>Your world may be a little small, but you're considerate and careful not to trouble others.<n>You're a responsible member of society, though some people may find you a little dull.
+EN: You lead a sensible, orderly life. Your world may be small, but you take care not to trouble others. You're responsible, though some may find you a little dull.
 
 @1CAC4 max=319
 JP: パフォーマンス的な行動が嫌いで、<n>イベントなども無視してしまうタイプです。<n>世間の常識に流されることなく、<n>自分の個性も、他者の個性も大切にしながら<n>考えを実行に移せる人です。
-EN: You dislike making a spectacle of yourself and tend to give organized events a miss.<n>You aren't swept along by social conventions. You act on your own ideas while respecting both your individuality and everyone else's.
+EN: You dislike showing off and tend to skip events. You follow your own ideas without bowing to convention, respecting both your individuality and other people's.
 
 @1CC24 max=127
 JP: 恋人へのお見舞いに持っていくならどれ？
@@ -584,7 +584,7 @@ EN: When you choose a gift for someone, you unconsciously judge what sort of per
 
 @1CE8C max=319
 JP: 本には、本の内容のような人であって欲しい<n>と願う気持ちがあらわれます。それだけに、<n>あなたのブランド欲求はかなり高めです。<n>でも、そんなあなたが本を贈る相手は、<n>きっとその基準点に達している人でしょう。
-EN: A book suggests you want your partner to embody the ideals in its pages.<n>You place quite a high value on prestige.<n>Still, anyone you choose to give a book to has probably already met those exacting standards.
+EN: Giving a book means you want someone to live up to its ideals. Prestige matters a lot to you. Still, anyone you give a book to has likely already met your high standards.
 
 @1CFCC max=319
 JP: 花束は自己満足をあらわしています。<n>相手に求めるものは高くはないのですが、<n>何事も自分のレベルで考えすぎていて、<n>自分の満足を優先しがちな傾向です。<n>相手の気持ちに鈍感にならないように<n>注意が必要です。
@@ -716,7 +716,7 @@ EN: You're not too particular about things,<n>so you stay relaxed in any situati
 
 @1F1D4 max=127
 JP: 鮭と生たまご、のりと納豆、おみそ汁と熱々ごはん。<n>…って聞いたら、どっちを思い浮かべる？
-EN: Salmon, raw egg, seaweed, natto, miso soup and steaming rice...<n>What does that bring to mind?
+EN: Salmon, raw egg, nori, natto, miso soup, hot rice... Which comes to mind?
 
 @1F254 max=127
 JP: 朝ご飯<n>温泉旅行
@@ -856,11 +856,11 @@ EN: Whether you consider a tea break<p>a waste of time reveals what you value.<n
 
 @219EC max=319
 JP: あなたは、貢がないタイプです。<n>すべてのコトに対して合理的なものを求め、<n>よけいなものはいらない人。貢ぐ価値や、<n>見返りを考えてしまったら、<n>とても貢ぐ気にはならないのでは？
-EN: You're not one to shower people with money.<n>You want everything to serve a purpose,<n>with no unnecessary extras. Once you weigh<n>the cost against what you'll get in return,<n>spending on someone loses its appeal, doesn't it?
+EN: You're not one to lavish money on someone. You value practicality and skip the extras. Once you weigh the cost against what you'll get back, giving loses its appeal, doesn't it?
 
 @21B2C max=319
 JP: お茶は人生の大切な時間と考える人です。<n>喧噪から逃れ、喫茶店で物事をじっくりと<n>考えるタイプ。貢ぐ前にもよく考え、<n>最小限、必要な分だけ貢ぐという、<n>しっかり屋さんなのでは？
-EN: You see tea breaks as an important part of life.<n>You escape the bustle to think things over<n>in a quiet coffeehouse. You also think carefully<n>before spending money on someone, giving only<n>what's needed. Quite sensible, aren't you?
+EN: You treasure tea breaks, escaping the bustle to think in a cafe. You also think before spending on someone, giving only what's needed. Quite sensible, aren't you?
 
 @21C6C max=319
 JP: 好きな時に好きなだけお茶したい、と<n>自分の感覚を一番重要視する人です。<n>好きでやっているのなら問題ありませんが、<n>自分が貢いでいることにも気がつかずに、<n>ポンポンとお金を出してしまっているかも<n>しれません。要注意を。
@@ -964,7 +964,7 @@ EN: Even in love, you like to keep things<n>in separate little boxes<n>so you ca
 
 @236EC max=127
 JP: 今日は映画を観よう！とハリキッて<n>映画館にやってきたのに満席状態。…どうする？
-EN: You're all set for a movie, but you arrive<n>at the theater to find every seat taken. What do you do?
+EN: You're eager to see a movie, but the theater's full. What do you do?
 
 @2376C max=127
 JP: 今日は映画やめ！<n>次回を指定席で<n>立ち見でいいや
@@ -972,7 +972,7 @@ EN: Skip the movie today<n>Book the next show<n>Standing is fine
 
 @237EC max=359
 JP: 計画が予定通りにすすまない時の対応から、<n>あなたの責任感の強さがわかります。
-EN: How you react when things don't go to plan<n>reveals how strong your sense of responsibility is.
+EN: Your response to plans going awry reveals your sense of responsibility.
 
 @23954 max=319
 JP: 今日のことを深く反省し、<n>次回は万全の準備を整えて望もうと<n>今から考えている責任感の強い人です。<n>表面的にはきっぱりしているようでも<n>内面は意外と粘着質です。
@@ -1040,7 +1040,7 @@ EN: Your choice of destination reveals<n>how you go about finding yourself.<p>It
 
 @24C2C max=319
 JP: ほかの人とはちょっと違う人、<n>と個性を評価されたいと思っているあなた。<n>自分へのお値段もかなり高めです。
-EN: You want people to appreciate your individuality<n>and see you as someone a little different.<n>You put quite a high price on yourself, too.
+EN: You want people to value you for being unique. You put quite a high price on yourself, too.
 
 @24D6C max=319
 JP: がんばってる自分にご褒美をあげたい、<n>そんな風に思っているあなた。<n>自分へのお値段も適正価格です。
@@ -1052,7 +1052,7 @@ EN: You have a wonderfully curious mind.<n>You sense there's more potential to e
 
 @2500C max=127
 JP: 人と話す時には、つい相手の頭をたたいたり<n>腕をつかんだりなど、体にタッチしまうことが多い？
-EN: When chatting, do you often touch people,<n>perhaps by tapping their head or grabbing their arm?
+EN: When chatting, do you often tap heads, grab arms or touch people?
 
 @2508C max=127
 JP: よくタッチする<n>そんなことしない
@@ -1072,7 +1072,7 @@ EN: You may seem hard to approach at first,<n>but people trust you deeply once t
 
 @25654 max=127
 JP: いろいろな国や人種の人々。そんな人達が一緒に<n>並んでいる写真を見て、まず思い浮かぶことは？
-EN: You see a photo of people of many races<n>and nationalities standing together. What's your first thought?
+EN: A photo shows people of many races and nations. What's your first thought?
 
 @256D4 max=127
 JP: 外国の人だ！<n>宇宙船地球号
@@ -1104,7 +1104,7 @@ EN: Your choice of trash bins reveals<n>your outlook on marriage when you feel..
 
 @25F04 max=319
 JP: 各部屋にゴミ箱があるのは、<n>人生に節目があって当然と考える人です。<n>逆に、あるべきものがないと不安になって、<n>自分が結婚適齢期と思った瞬間、<n>何が何でも結婚したくなるタイプです。
-EN: A bin in every room suggests you feel<n>life should have certain milestones.<n>You feel uneasy when something expected is missing.<n>Once you decide you're at the right age,<n>you'll want to get married, whatever it takes.
+EN: A bin in each room means you expect life's milestones. Missing one makes you uneasy. Once you feel it's time to marry, you'll do whatever it takes.
 
 @26044 max=319
 JP: 大きなゴミ箱がひとつだけなのは、<n>人生の節目も自分次第と考えられる人です。<n>周囲の判断に左右されずに行動できるので、<n>結婚適齢期と感じた時に相手がいなくても、<n>結婚相談所もあることだしね、と<n>余裕をもって過ごせるタイプです。
@@ -1136,7 +1136,7 @@ EN: You're earnest at heart,<n>so there's always something on your mind.<n>You s
 
 @267CC max=319
 JP: 誰との付き合いにも<n>細やかな気配りを忘れないタイプです。<n>落ち込んだ仲間に対しても、<n>自然に慰めや励ましができるので、<n>みんなの相談役として頼られます。<n>仲間うちでは一番の出世頭になるでしょう。
-EN: You're thoughtful and considerate<n>with everyone you know.<n>Comforting and encouraging a friend<n>who feels down comes naturally to you,<n>so everyone turns to you for advice.<n>You'll likely go furthest in your career<n>out of all your friends.
+EN: You're kind and thoughtful to everyone. You naturally comfort and encourage friends, so they turn to you for advice. Of all your friends, you're likely to rise highest in your career.
 
 @2692C max=127
 JP: あ、虫だ！　って言われて連想するものはどっち？
@@ -1320,7 +1320,7 @@ EN: You're able to see things through<n>all by yourself. Other people's achievem
 
 @29B6C max=127
 JP: 友達がプレゼントしてくれた大きな箱。<n>中身はどうやら人形らしい。どんな人形だと思う？
-EN: A friend gives you a big box as a present.<n>It seems there's a doll inside. What kind do you picture?
+EN: A friend gives you a big box with a doll inside. What kind of doll is it?
 
 @29BEC max=127
 JP: リアルな雪だるま<n>マトリョーシカ<n>だるま
@@ -1384,7 +1384,7 @@ EN: Cheating never crosses your mind.<n>You take love seriously and stay faithfu
 
 @2ABA4 max=319
 JP: 好きになったら猪突猛進タイプのあなた。<n>一途な分だけ、少しでも気持ちが変わると、<n>今までの相手とやり直すことはできません。<n>そういう意味では、実は一途とは言えない<n>のかもしれません。恋はフクザツです。
-EN: When you fall in love, you charge straight ahead.<n>But that focus means even a slight change of heart<n>can make it impossible to rekindle things<n>with your partner. In that sense, perhaps<n>you aren't so steadfast after all. Love is complicated!
+EN: You charge headlong into love. Yet if your feelings shift even slightly, you can't start over with that partner. Perhaps you're less steadfast than you think. Love is complicated!
 
 @2ACE4 max=319
 JP: あなたは、すべてのコトに真面目なため、<n>恋愛だけに一途にはなれないタイプです。<n>仕事も友人も恋愛も、すべて横並びです。<n>でも、その真面目さの中にこそ、実は<n>一途な一面があるのかもしれません。
@@ -1400,7 +1400,7 @@ EN: Summer<n>Winter<n>Spring or fall
 
 @2AF44 max=359
 JP: 好きな季節から、あなたが<n>使命感に燃えるタイプかどうかがわかります。
-EN: Your favorite season reveals whether you're<n>the sort of person driven by a sense of purpose.
+EN: Your favorite season reveals how strongly a sense of purpose drives you.
 
 @2B0AC max=319
 JP: あなたは、使命感に燃えまくる人。<n>思いついたら即行動の実行派です。<n>また、つねに大きな声でしゃべる傾向にあり、<n>周囲からはエネルギッシュな人<n>と認識されています。
@@ -1476,7 +1476,7 @@ EN: The bear who helps you in a panic<n>represents a patron or supporter.<p>Your
 
 @2C384 max=319
 JP: 冒険心があまりなく、現実的な人です。<n>誰かをあてにするより<n>１人で動いた方が早いと思っています。
-EN: You're practical, with little taste for adventure.<n>You feel it's quicker to handle things yourself<n>than to count on someone else.
+EN: You're practical, not adventurous. You feel it's faster to act alone than rely on others.
 
 @2C4C4 max=319
 JP: 警戒心ゼロのあなたは、無邪気な人です。<n>その無邪気さで、人生の苦労を<n>うまく回避できるでしょう。
@@ -1512,7 +1512,7 @@ EN: You're determined to do<n>what's proper and polite.<n>Do you sometimes strug
 
 @2CDAC max=127
 JP: 人の体に象の顔が乗ったインドの神様、ガネーシャ。<n>人なの？象なの？と聞かれたらどっちに分類する？
-EN: Ganesha, an Indian god, has a human body<n>and an elephant's head. Is he a human or an elephant?
+EN: Ganesha, an Indian god: human body, elephant head. Is he human or elephant?
 
 @2CE2C max=127
 JP: 象<n>人
@@ -1632,11 +1632,11 @@ EN: This question measures your popularity.<n>When you're easygoing and ask for 
 
 @2EF7C max=319
 JP: 上からは可愛がられ下からは慕われ<n>どこへいっても好かれます。<n>ただし自分から人を頼ることがないので<n>近しい人間はそれを淋しく思っています。
-EN: Your elders adore you, younger people look up to you,<n>and you're liked wherever you go.<n>But you never ask anyone for help,<n>which leaves those close to you feeling a little lonely.
+EN: Elders adore you, youngsters admire you, and everyone likes you. But you never ask for help, which leaves those close to you feeling lonely.
 
 @2F0BC max=319
 JP: 気配りを好意と勘違いされ<n>過剰な付き合いを望まれてしまいます。<n>なのに上っ面だけの人と言われる場合もあり<n>傷つくこともしばしばです。
-EN: People mistake your thoughtfulness for affection<n>and expect more closeness than you intended.<n>Yet others may call you superficial,<n>so your feelings often get hurt.
+EN: People mistake your kindness for affection and want too much closeness. Yet some call you shallow, so your feelings often get hurt.
 
 @2F1FC max=319
 JP: 誰からも好かれるような<n>気楽さは持ち合わせていませんが<n>親しくなれば一生裏切りません。<n>友人の少なさは<n>自分でもあきらめているところがあります。
@@ -1656,7 +1656,7 @@ EN: Someone who treats you to a meal<n>represents a person who supports you.<p>Y
 
 @2F5C4 max=319
 JP: とっても義理堅い人です。が、同時に<n>あまり人にかまってもらうと負担に感じて<n>しまうストイックな面があります。<n>応援も「評価」と感じていまいがちです。<n>信頼できる人からの応援なら、もう少し<n>素直になった方が自分がラクになれますよ。
-EN: You never forget a kindness. But your self-reliant side<n>can find too much attention a burden.<n>You may even see encouragement as a form of judgment.<n>When someone you trust supports you,<n>try accepting it more openly.<n>You'll feel more at ease.
+EN: You never forget a kindness, but too much attention feels like a burden. Even encouragement can feel like judgment. Try accepting support from people you trust more openly. You'll feel more at ease.
 
 @2F704 max=319
 JP: 人の好意をなんでも素直に喜べる、<n>無邪気な心の持ち主です。が、実は、<n>応援してもらえないと無視されていると<n>思い込んでしまうさみしがり屋さん。<n>無邪気も過ぎると自己中心的と思われちゃう<n>ので、空気を読んで、ほどほどに。
@@ -1664,7 +1664,7 @@ EN: You have an innocent heart and gladly accept kindness.<n>Deep down, though, 
 
 @2F844 max=319
 JP: なにかイヤなことがあっても後にひかない、<n>さっぱりした人です。が、実は、<n>面倒なことが嫌いなので、<n>応援したりされたりが苦手です。<n>それでも、たまには気くばりも忘れずに。
-EN: You're easygoing and don't dwell on unpleasant things.<n>But you also dislike complications,<n>so giving and receiving support isn't your strong suit.<n>Still, remember to show a little thoughtfulness now and then.
+EN: You don't dwell on unpleasant things. But you dislike hassle, so giving and receiving support can be hard for you. Remember to show a little care now and then.
 
 @2F9A4 max=127
 JP: 真面目な話、本当に生きている恐竜のテーマパークを<n>作ろうという計画があったら？
@@ -1708,7 +1708,7 @@ EN: You tend to leave things to fate.<n>You don't push yourself very hard,<n>and
 
 @30394 max=319
 JP: コツコツ積み重ねるのが苦手なタイプ。<n>先を見据えた努力はできませんが<n>ちょっとしたやりくりで<n>その場をつないでおくのが上手です。<n>根回し的な働きかけが得意な人でもあります。
-EN: Slow, steady progress isn't your strong suit.<n>You struggle to work toward distant goals,<n>but you're good at making do<n>and keeping things going for now.<n>You also have a knack for laying the groundwork behind the scenes.
+EN: Steady effort toward distant goals isn't your strength. But you're good at making do and keeping things going. You also have a knack for winning support behind the scenes.
 
 @304D4 max=319
 JP: 度胸がすわっていて多少のことでは<n>たじろぎません。自分の努力に対して<n>自信をもっていて、危機におちいっても<n>今までの自分の力試しのようなつもりで<n>挑戦していくことができます。<n>そんながむしゃらな性格が災いし<n>貧乏くじをひいてしまうことも。
@@ -1796,7 +1796,7 @@ EN: This question reveals how much of your childhood innocence remains.<p>As adu
 
 @31B74 max=319
 JP: 純粋な、少年があなたの中に存在します。<n>媚びることが大嫌いなので<n>敵を作ることを怖がりません。<n>いつも見えない何かと闘っている戦士です。
-EN: An innocent child still lives inside you. You hate flattering people to win their favor, so you aren't afraid to make enemies. You're a warrior, always battling some unseen foe.
+EN: An innocent boy lives within you. You hate flattery and aren't afraid to make enemies. You're a warrior, always fighting some unseen foe.
 
 @31CB4 max=319
 JP: 誰かに不快感を与えてしまうことを<n>何より嫌います。<n>心はすっかり大人になっています。<n>真っ正面から対決するよりも<n>ほほえみを武器とします。
@@ -1876,7 +1876,7 @@ EN: Work isn't quite what you live for. You take an easygoing view of life, and 
 
 @3322C max=127
 JP: 散歩で、窓にてるてる坊主が下がってる家の前を<n>通りかかりました。明日は何がある日だと思う？
-EN: On a walk, you spot a rain-chasing doll in a window. What do you think is happening there tomorrow?
+EN: You spot a rain-chasing doll in a window. What event might be on tomorrow?
 
 @332AC max=127
 JP: 修学旅行<n>家族旅行
@@ -1916,7 +1916,7 @@ EN: You consciously put a great deal of effort into winning people's affection. 
 
 @33D5C max=319
 JP: 人の好意を素直に受け取れないために<n>しなくてもいい苦労を引き受けてしまいます。<n>面倒を見てもらう、というより、<n>面倒を見てあげるタイプなので、<n>関係のないトラブルに巻きこまれがちです。
-EN: You find it hard to simply accept others' kindness, so you take on more trouble than you need to. You're more likely to look after others than let them look after you, which often draws you into problems that aren't yours.
+EN: You struggle to accept kindness and take on needless burdens. You tend to care for others instead of letting them care for you, drawing you into troubles that aren't yours.
 
 @33EBC max=127
 JP: 靴屋さんで一目惚れ！<n>思わず衝動買いしちゃった靴はどんな靴？
@@ -1932,7 +1932,7 @@ EN: Shoes represent your taste in romantic partners.<p>The shoes you choose dete
 
 @34124 max=319
 JP: 浮き立つ心に軽い足取りのあなた。<n>恋に対しても遊び感覚の軽いノリなので、<n>恋人もアクセサリー感覚で選ぶタイプです。
-EN: With a light heart and a spring in your step, you take a playful, casual approach to romance. You tend to choose a partner much as you'd choose an accessory.
+EN: You're lighthearted, even in love. Romance is a game, and you choose partners like fashion accessories.
 
 @34264 max=319
 JP: 思い込みが激しいあなた。<n>他人から見ればちっとも特別ではないのに、<n>あなたはこれぞ一生に一度の出会い！<n>とベタ惚れしてしまうタイプです。
@@ -2228,7 +2228,7 @@ EN: You hold yourself to very strict standards.<n>You're so hard on yourself tha
 
 @396AC max=127
 JP: 天女様を描いた掛け軸。…透き通るような<n>女の人の絵を見て思い浮ぶことは？
-EN: A hanging scroll shows an ethereal maiden...<n>What does this almost translucent woman bring to mind?
+EN: A scroll shows a heavenly maiden, almost see-through. What comes to mind?
 
 @3972C max=127
 JP: 女神<n>刺青<n>天上界
@@ -2348,7 +2348,7 @@ EN: This question reveals how strong<n>your likes and dislikes are.<p>On a date 
 
 @3B87C max=319
 JP: 特に不得意なことはなく、何事においても<n>趣味や個人的な好みを追求するより、<n>他人と合わせる、役に立つ、などの<n>社会的な視線で物事を考えられる人です。<n>苦手なことでも、便利と判断すれば<n>躊躇なくチャレンジできるタイプです。
-EN: There's little you find especially difficult.<n>Rather than pursuing your personal tastes,<n>you think about fitting in with others<n>and being useful.<n>Even if something isn't your strong point,<n>you'll try it without hesitation if it seems useful.
+EN: Few things trouble you. You value fitting in and being useful more than pursuing your own tastes. Even if something is hard for you, you'll try it without hesitation if you see a practical benefit.
 
 @3B9BC max=319
 JP: 実は、好き嫌いの差は激しいものの<n>それを瞬時に顔には出さない大人です。<n>ただし後々になってから<n>徐々に自分の好みをアピールするので、<n>相手は軌道修正が大変です。
@@ -2376,11 +2376,11 @@ EN: You're an impulse shopper.<n>When choosing a partner, could you also be plac
 
 @3C004 max=319
 JP: あなたは買う前にちょっと考えるタイプ。<n>恋人もじっくり観察して選ぶのでは？<n>その結果、性格や相性を重視するので、<n>友だちには異性の趣味がヤボったい、と<n>思われているかもしれません。
-EN: You think a little before you buy.<n>Perhaps you also take time to size up a partner?<n>You end up valuing personality and compatibility,<n>so your friends might think your taste in dates<n>is a little unfashionable.
+EN: You think before buying, and likely take your time choosing a partner, too. You value personality and compatibility, though friends may think your taste in dates is a little dull.
 
 @3C2A4 max=127
 JP: 皆で食事をする時、自分の目の前に<n>お醤油ビンがあったら？
-EN: When dining with a group, what do you do<n>if the soy sauce bottle is right in front of you?
+EN: At a group meal, the soy sauce is right in front of you. What do you do?
 
 @3C324 max=127
 JP: ついであげる<n>ビンをまわす
@@ -2396,7 +2396,7 @@ EN: Making others happy gives your life meaning.<n>You love being asked for help
 
 @3C64C max=319
 JP: 周囲への気くばりには無頓着なあなた。<n>相手のためにならない手助けは<n>引き受けない、という強さを持っています。<n>でも相手に必要なことで自分にできることは<n>キチンとするタイプです。集中力があり、<n>一度引き受けた仕事は完璧にこなします。
-EN: You don't fuss over everyone around you.<n>You're strong enough to refuse help<n>that wouldn't do the other person any good.<n>But if they need something you can do, you do it well.<n>You have excellent focus, and once you accept a task,<n>you see it through to perfection.
+EN: You don't fuss over others, and can refuse help that would do no good. But when someone needs something you can do, you do it properly. You focus well and complete any task you take on to perfection.
 
 @3C8EC max=127
 JP: 自由の女神をみて何を連想する？
@@ -2472,7 +2472,7 @@ EN: Quite a short fuse<n>Not very often
 
 @3DCC4 max=359
 JP: 感情をあらわにすることができるかどうかから、<n>自分の考えに対する姿勢がうかがえてしまいます。
-EN: How freely you show your emotions offers<n>a glimpse of your attitude toward your own opinions.
+EN: How openly you show emotion reveals how you view your own opinions.
 
 @3DE2C max=319
 JP: 怒りっぽい人は一度怒ってしまうと<n>その感情はすっかり忘れてしまう、<n>さっぱりした気性を持っています。<n>そのために、前言とはまったく違う意見を<n>主張することがあり、相手によって意見を<n>変える「こうもり」だと誤解される心配も。
@@ -2544,7 +2544,7 @@ EN: Whether you pretend to be out reveals<n>how much time you make<p>for your pa
 
 @3F104 max=319
 JP: 自分をしっかりと持った大人な人です。<n>他人の意見や批判に影響を受けることなく、<n>マイペースなので、恋人にさく時間が<n>少なめです。それを恋人が不満に思って<n>ないか心くばりも忘れないように。
-EN: You're mature and know your own mind.<n>Others' opinions and criticism don't sway you.<n>You go at your own pace, leaving less time<n>for your partner. Remember to consider<n>whether they're unhappy with that arrangement.
+EN: You're mature and sure of yourself. Others' views don't sway you. You set your own pace, leaving little time for your partner. Be mindful of whether that leaves them unhappy.
 
 @3F244 max=319
 JP: 自分で納得していることであれば、<n>犠牲もいとわないと思っている人です。<n>が、気持ちに無理をした犠牲は、<n>たまりたまってのちのち不満にも。<n>どちらかが我慢する関係性は、<n>長続きしないことを心しましょう。
@@ -2568,7 +2568,7 @@ EN: You're a hard worker who doesn't mind effort.<n>Personal satisfaction isn't 
 
 @3F88C max=319
 JP: 自分一人だけで大変な思いをすることに<n>満足感を覚えます。<n>その達成感だけで良しとしてしまい<n>その先へ進むのを忘れたりします。
-EN: You find satisfaction in tackling<n>something difficult all by yourself.<n>That sense of achievement can be enough<n>to satisfy you, making you forget<n>to take the next step.
+EN: You find pride in facing hardship alone. But that sense of achievement can be so satisfying that you forget to take the next step.
 
 @3FB2C max=127
 JP: 老後に向けて何を考える？
@@ -2636,7 +2636,7 @@ EN: You're brimming with confidence.<n>That can make you stubborn about<n>your o
 
 @40E04 max=127
 JP: 残業なのに、同僚の１人は<n>風邪気味だからと言って定時で退社。今の心境は？
-EN: You're working late, but a coworker leaves on time,<n>saying they feel a cold coming on. Your reaction?
+EN: You're working late. A coworker feels ill and leaves on time. Your reaction?
 
 @40E84 max=127
 JP: デートかな？<n>仕事が増えるー！
@@ -2712,7 +2712,7 @@ EN: You need time to prepare yourself mentally<n>before meeting people.<n>You ma
 
 @42484 max=319
 JP: あなたは、人と会うのにも特に心の準備を<n>必要とせず、つねに本音で話せる人です。<n>また、隠し事ができない、<n>まっすぐな正直さが魅力です。
-EN: You don't need to prepare yourself mentally<n>before meeting people. You always speak honestly.<n>You simply can't keep secrets,<n>and your straightforward honesty is part of your charm.
+EN: You need no mental preparation to meet people and always speak your mind. You can't keep secrets, and your open, honest nature is charming.
 
 @42724 max=127
 JP: 鍋をするなら…
@@ -2780,7 +2780,7 @@ EN: You choose things for convenience and ease of use rather than style.<n>You c
 
 @4375C max=319
 JP: 奇抜な色合いや、誰もが驚くような<n>センスに心惹かれるタイプです。<n>仕事もファッションのうちと考え、<n>スタイルを重点に仕事選びをしています。
-EN: You're drawn to unusual colors and styles that make everyone stop and stare.<n>You see your job as part of your fashion statement, so style plays a big role in choosing your work.
+EN: You love bold colors and styles that turn heads. You see work as part of your fashion statement, so you choose a job largely for its image.
 
 @439FC max=127
 JP: 喫茶店でお茶を飲むとき、<n>ドコの席に座る？
@@ -2864,7 +2864,7 @@ EN: This question explores how you relate to other people.<p>When you're under s
 
 @44F3C max=319
 JP: 弱点が多く、すねやすいのですが<n>そこが異性には可愛らしく映っています。<n>けっこう短気なのですが<n>本音をさらけだしていると受け止められ<n>裏表のない人間と評価されています。
-EN: You have plenty of weaknesses and tend to sulk, but potential partners find that endearing.<n>You have quite a temper, yet people see it as you being open about your feelings. They feel you're someone with nothing to hide.
+EN: You have many weaknesses and sulk easily, but potential partners find that cute. You also have a quick temper, yet people see it as honest emotion and feel you have nothing to hide.
 
 @4507C max=319
 JP: 一見、理性的に振舞えるのですが、<n>他者の心の底まで見通せるような観察眼を<n>もっているので、<n>なかなか本気で相手を許すことができません。<n>終わった恋愛関係に長く執着してしまう<n>傾向もあります。
@@ -2872,7 +2872,7 @@ EN: You seem reasonable on the surface, but you're so good at seeing into people
 
 @451BC max=319
 JP: 何事にも、次があるという<n>気持ちがあるので、あせりません。<n>恋愛中にも、常に別の、<n>半恋愛関係な人がいるので<n>ケンカするほど１人に固執しないタイプです。
-EN: You don't rush, because you always feel there will be another chance.<n>Even when you're dating someone, there's always someone else you have a budding romance with.<n>You don't get attached enough to one person to fight over them.
+EN: You stay calm, sure of another chance. Even while dating, you tend to have another budding romance, so you rarely cling to one person enough to fight.
 
 @4531C max=127
 JP: メールを書いたら、
@@ -2888,11 +2888,11 @@ EN: Sending an email takes courage: you reveal yourself and accept the risk of b
 
 @45584 max=319
 JP: 自分に素直な、世間ずれとは無縁の人です。<n>人の目や評価をまったく気にしない<n>おおらかさで異性からモテるでしょう。<n>ただし、ちょっと無防備すぎて、<n>誤解を受けやすいかもしれません。
-EN: You're true to yourself and haven't become jaded.<n>Your easygoing attitude and lack of concern for others' judgments make you attractive to potential partners.<n>Still, you may be a little too unguarded, leaving you open to misunderstandings.
+EN: You're sincere and unjaded. Your easygoing nature and indifference to others' opinions attract admirers. Still, being so unguarded can lead to misunderstandings.
 
 @456C4 max=319
 JP: あれこれと疑ってかかるタイプの人です。<n>恋愛でもたいした根拠もなく、相手の浮気を<n>疑って、自分が苦しくなっていませんか？<n>自分に自信を持って、素直になれれば、<n>世の中捨てたもんじゃないと思えるはず。
-EN: You tend to be suspicious of everything.<n>In romance, do you make yourself miserable suspecting your partner of cheating without much evidence?<n>With more confidence and a more open heart, you may find the world isn't such a bad place.
+EN: You tend to doubt everything. Do fears of cheating, with little proof, make love painful? Trust yourself and open your heart; you may find the world is kinder than you think.
 
 @45964 max=127
 JP: 目玉焼きには…
@@ -2912,7 +2912,7 @@ EN: You're mature enough to set aside your feelings and act as the situation req
 
 @45D0C max=319
 JP: いつも白黒ハッキリつけた状態でないと<n>気持ちが悪いと感じる人です。曖昧なものを<n>許さないので、周囲をハラハラさせる発言も<n>多いのでは？ほんの少し大人になれると<n>あなた自身がもっとラクになれるのですが。
-EN: You feel uneasy unless everything is clearly black or white.<n>You have little patience for ambiguity, so your remarks may keep others on edge.<n>With just a little more maturity, you could make life easier for yourself, too.
+EN: You need everything to be black or white. Your dislike of gray areas can lead to remarks that put others on edge. A little more maturity would make life easier for you, too.
 
 @45E4C max=319
 JP: たとえ誰にもわかってもらえなくても、<n>自分のこだわりは押し通す人です。<n>大人らしからぬまっすぐさですが、<n>その不器用さが、かえって信用される<n>個性となっているようです。
@@ -2956,7 +2956,7 @@ EN: This question measures your romantic appeal.<n>The eyes you chose reflect yo
 
 @4685C max=319
 JP: できればもてたい、と思うタイプなので、<n>そのためのどんな努力もいといません。<n>それが同性からは<n>煙たがられる原因になっています。
-EN: You'd like to be popular with potential partners, and you'll spare no effort to make it happen.<n>That may be just what makes people of your own gender find you a bit much.
+EN: You want to attract admirers and will spare no effort to do so. That can make people of your own gender find you a bit much.
 
 @4699C max=319
 JP: 自分にコンプレックスをもっています。<n>ただし、そのコンプレックスは<n>恋人ができることによって解消されるので<n>自分の恋愛事情が変わると、<n>周囲に対する態度まで<n>変わってしまう傾向があります。
@@ -2968,7 +2968,7 @@ EN: At first glance, people may think you don't attract much romantic interest. 
 
 @46C3C max=127
 JP: 卒業文集には、<n>恥ずかしい夢を書いてしまった方？
-EN: Did you write about an embarrassing dream for the future in your school graduation book?
+EN: Did you share an embarrassing ambition in your school yearbook?
 
 @46CBC max=127
 JP: 書いた覚えあり<n>書いた覚えなし
@@ -2984,7 +2984,7 @@ EN: You're in love with love itself.<n>Do your romantic dreams make you insist t
 
 @46FE4 max=319
 JP: 現実的でしっかりした人です。<n>自分の勝手な思い込みで、相手に多大な<n>期待をしない客観性を持ち合わせています。<n>それだけに、恋愛の初期でも<n>熱にうかれて夢気分、なんてことにならず、<n>相手がちょっと不安になることもあるかも？
-EN: You're practical and levelheaded.<n>You can see your partner clearly, without letting your own assumptions create unreasonable expectations.<n>Even in the early days of romance, you don't get swept away. That might leave your partner feeling a little unsure of your feelings.
+EN: You're practical and levelheaded, with a clear view of your partner and no wild expectations. Even in new love, you keep your feet on the ground. Your partner may wonder if you really care.
 
 @47284 max=127
 JP: 体の調子が悪いと感じたら？
@@ -3044,7 +3044,7 @@ EN: This question measures how easily you warm up to people.<n>Flowers represent
 
 @4817C max=319
 JP: 人付き合いにストレスを感じることなく<n>誰とでも、適度に仲良くできます。<n>その為に、社交辞令がうまいように思われ<n>信用してもらえなかったりします。
-EN: Socializing doesn't stress you out, and you can get along reasonably well with anyone.<n>But that may make people think you're just good at saying the right things, leaving them unsure whether to trust you.
+EN: You get along with anyone without stress. But your social ease may seem like empty politeness, making it hard for others to trust you.
 
 @482BC max=319
 JP: 誰にでも躊躇なく声をかけて<n>すぐに仲良くなることができます。<n>どんな場所でもナチュラルハイなので<n>酔っぱらっても態度が同じです。
@@ -3052,7 +3052,7 @@ EN: You can strike up a conversation with anyone and become friends in no time.<
 
 @483FC max=319
 JP: 付き合いが進んで、うちとけていくうちに<n>だんだん甘えが出てしまうタイプです。<n>調子に乗りすぎさえしなければ、<n>集団の中のリーダーにもなれる人です。
-EN: As you grow closer to people and relax around them, you tend to lean on their goodwill more and more.<n>As long as you don't get carried away, you have the makings of a group leader.
+EN: As you grow close to people, you start taking their kindness for granted. Keep that in check, and you have the makings of a group leader.
 
 @4855C max=127
 JP: どちらのカバンが好き？
@@ -3248,7 +3248,7 @@ EN: Cooking at a campsite reflects<n>how you behave in formal settings.<p>The me
 
 @4BA04 max=319
 JP: あなたは自分なりの美学にのっとって<n>行動することを大切にしている人。<n>でもとっさの機転が利かないタイプなので、<n>思わぬアクシデントに弱いのが難点です。
-EN: You believe in acting according<n>to your own sense of how things should be done.<n>But thinking on your feet is not your strong suit,<n>so unexpected mishaps can really throw you.
+EN: You value living by your own ideals. But thinking on your feet isn't your strength, so unexpected mishaps can throw you off.
 
 @4BB44 max=319
 JP: どんなときでも自分なりの工夫を活かして<n>行動したいと考える人です。が、<n>考えすぎてハズしてることも多いみたい。<n>でも愛嬌でカバーできてるので大丈夫。
@@ -3420,15 +3420,15 @@ EN: I know all about them<n>I know nothing<n>A little, I guess?
 
 @4EADC max=359
 JP: 有名人や周囲のウワサに興味津々かどうかで、<n>あなたの自己確立度がわかります。
-EN: Your interest in celebrity gossip and rumors about people around you<n>reveals how firmly you've established your sense of self.
+EN: Your interest in gossip reveals how firmly you know who you are.
 
 @4EC44 max=319
 JP: 執着心や探求心が強い人です。<n>とことん追求しようという気持ちは<n>りっぱな自我の芽生えと言えます。<n>自己確立度は中ランクです。
-EN: You have a strong drive to dig deeper and hold on.<n>Your urge to get to the bottom of things<n>is a promising sign of a budding sense of self.<n>Yours is moderately well established.
+EN: You're persistent and curious. Your drive to dig deeper shows a budding sense of self. Your identity is moderately well established.
 
 @4ED84 max=319
 JP: 他人にはあまり関心のない人です。<n>まったく興味がないのか、<n>自分に余裕がないのか、のどちらかですが、<n>ただ自己確立にはとっても熱心です。
-EN: You don't take much interest in others.<n>Perhaps they simply don't interest you,<n>or perhaps you have too much on your plate.<n>Still, you're very keen to establish your own identity.
+EN: You take little interest in others. You may lack curiosity or have too much on your plate. Still, you're keen to build your own identity.
 
 @4EEC4 max=319
 JP: 漠然とした不安感を抱えていませんか？<n>情報を集めることでその不安を解消したり、<n>自分に不足する何かを補いたいのでしょう。<n>自分の気持ちが自分でもわからず、<n>自己確立度はまだ低めです。<n>何か好きなことに打ち込んでみては？
@@ -3488,7 +3488,7 @@ EN: Pride
 
 @4FCD4 max=319
 JP: 相手に多くを求めず、<n>自分と似た趣味の人を好きになるなど、<n>日常生活の中に恋愛を見つけることができる。<n>好意をもった相手には不満をもたない。
-EN: You don't ask too much of a partner.<n>You find romance in everyday life,<n>perhaps falling for someone who shares your hobbies.<n>Once you like someone, you find little to complain about.
+EN: You ask little of a partner and find love in daily life, often through shared hobbies. Once you like someone, you rarely find fault with them.
 
 @4FE14 max=63
 JP: プライド度
@@ -3504,7 +3504,7 @@ EN: Pride
 
 @4FFD4 max=319
 JP: 多少の好意的な言動には惑わされず<n>相手に対し正確な評価を下すことができる。<n>好きになるまでには時間がかかるが<n>出会いを大切に考え<n>一期一会の精神で接する。
-EN: A few flattering words or kind gestures don't sway you.<n>You can judge the other person accurately.<n>You take time to fall in love,<n>but you treasure each encounter,<n>treating it as a once-in-a-lifetime opportunity.
+EN: Flattery and kind gestures don't sway your judgment. You take time to fall in love, but treasure each encounter as a once-in-a-lifetime meeting.
 
 @50114 max=63
 JP: ロマンチスト度
@@ -3512,7 +3512,7 @@ EN: Romanticism
 
 @50154 max=319
 JP: 恋愛にあまり比重をおかないので<n>問題のある相手とは<n>すぐに恋愛関係を解消できる判断力をもつ。<n>恋愛初期においても冷静さを失わず<n>友達と恋人を同等の立場におくことができる。
-EN: Romance isn't your main priority,<n>so if a partner has serious issues,<n>you can quickly decide to end the relationship.<n>You stay levelheaded even in love's early stages,<n>giving friends and partners equal importance.
+EN: Romance isn't your top priority, so you can quickly leave a troubled relationship. You stay calm even when love is new, and give friends and partners equal importance.
 
 @50294 max=63
 JP: ロマンチスト度
@@ -3568,7 +3568,7 @@ EN: Gullible
 
 @50BD4 max=319
 JP: もともと恐がりでいつもドキドキしてる。<n>その為、惚れっぽい。<n>１人でいるのが不安なあまり、<n>恋愛感情をもってしまう場合があるが、<n>我に返ったとたん一瞬にして冷めてしまう。
-EN: You're naturally timid, with a heart that's always racing.<n>That makes you quick to fall in love.<n>Sometimes your fear of being alone<n>is what sparks those romantic feelings.<n>But once you come to your senses, they vanish in a flash.
+EN: You're timid and fall in love easily. Fear of being alone can spark romantic feelings, but they may vanish in a flash once you come to your senses.
 
 @50D14 max=63
 JP: 心の隙度
@@ -3584,7 +3584,7 @@ EN: Pleaser
 
 @50ED4 max=319
 JP: 自分の恋愛相手以外の異性に対しては<n>無愛想ともいえるほどの態度をつらぬく。<n>貞操が堅く浮気という概念がない。<n>無駄なフェロモンを発しないため<n>性別をこえての友情も持つことができる。
-EN: You can seem almost unfriendly to anyone<n>of the opposite sex except your partner.<n>You're utterly faithful; cheating never crosses your mind.<n>Since you don't send out flirtatious signals,<n>you can enjoy friendships across genders, too.
+EN: You can seem cold to the opposite sex, except your partner. You're faithful; cheating never occurs to you. Since you don't flirt, you can also form friendships across genders.
 
 @51014 max=63
 JP: 八方美人度
@@ -3600,7 +3600,7 @@ EN: Pleaser
 
 @511D4 max=319
 JP: 会話の時には相手の目を見る、という<n>コミュニケーションの基本を必ず実行する。<n>自分が不利な立場の時ほど視線をそらさず<n>相手に忠実に対応する。<n>その為、異性から嫌われることがない。
-EN: You always follow a basic rule of communication:<n>look the other person in the eye.<n>Even when you're at a disadvantage, you hold their gaze<n>and respond with sincerity.<n>This keeps you in the good graces of the opposite sex.
+EN: You always look people in the eye, especially when you're at a disadvantage, and respond sincerely. This keeps you in the good graces of the opposite sex.
 
 @51314 max=63
 JP: リーダー度
@@ -3744,7 +3744,7 @@ EN: Impatience
 
 @52CD4 max=319
 JP: 神経質でちょっと分裂気味…かもしれない。<n>ゆえに完璧主義者。<n>もっともっといろんな事ができるように、<n>生まれ変わったら千手観音になりたい。<n>欲張りは、がんばり屋のあかし。
-EN: You're high-strung and perhaps a little torn...<n>which makes you a perfectionist.<n>You wish you could do more and more.<n>Next life, you'd like to be Kannon, with a thousand arms!<n>Wanting so much shows how hard you work.
+EN: You're high-strung, a bit torn... and a perfectionist. You want to do so much, you wish to be reborn as Kannon with a thousand arms! Wanting it all shows how hard you work.
 
 @52E14 max=63
 JP: タフ度
@@ -3760,7 +3760,7 @@ EN: Stamina
 
 @52FD4 max=319
 JP: いつも成功するとは限らないから<n>失敗には万全の備えを。<n>力の限り…なんて子供じみた幻想だと思う。<n>自滅しないことを心がけていて、<n>転んでも必ず立ち上がる。
-EN: Success isn't guaranteed,<n>so you prepare thoroughly for failure.<n>"Just give it your all" sounds like a childish fantasy.<n>You take care not to bring about your own downfall,<n>and whenever you fall, you get back up.
+EN: You prepare for failure, knowing success is never certain. "Give it your all" seems childish. You avoid self-destruction and always get back up after a fall.
 
 @53114 max=63
 JP: タフ度
@@ -3832,7 +3832,7 @@ EN: Justice
 
 @53D54 max=319
 JP: 自分の内で欲求不満をうまく解消できる。<n>とれなかったぶどうは酸っぱいぶどう。<n>無理をしないことが幸せのコツ。<n>悪も一概に悪とは言えないと考えるタイプ。<n>必要悪ってこともある、がモットー。
-EN: You're good at soothing your own frustrations.<n>Those grapes you couldn't reach were probably sour!<n>Happiness means knowing when not to push yourself.<n>You don't see every wrong as entirely bad.<n>"Sometimes it's a necessary evil" is your motto.
+EN: You soothe your frustrations: unreachable grapes must be sour! Happiness means knowing your limits. You see shades of gray in wrongdoing. "Some evils are necessary" is your motto.
 
 @53E94 max=63
 JP: 正義感度
@@ -3880,7 +3880,7 @@ EN: Playfulness
 
 @54654 max=319
 JP: 外交範囲が広く物怖じしない。<n>自分をとりまく環境に強い興味をもっている。<n>失敗しても、気持ちをすばやく切り替えて<n>経験を次に生かすことができる。
-EN: You have a wide social circle and aren't easily daunted.<n>You're deeply curious about the world around you.<n>After a setback, you quickly shift gears<n>and put the experience to use next time.
+EN: You're bold, with a wide social circle and a keen interest in the world around you. After setbacks, you move on quickly and learn from them.
 
 @54794 max=63
 JP: ひょうきん度
@@ -3888,7 +3888,7 @@ EN: Playfulness
 
 @547D4 max=319
 JP: 表情や表現が豊かでアクションが派手。<n>常に相手に喜ばれる対応を心がけている<n>自立心も強く、気持ちが弱々しい時は<n>人に会わないようにするなど、<n>不快な印象を与えないよう努力する。
-EN: You're expressive, with big, lively gestures.<n>You always try to make others happy.<n>You're also fiercely independent.<n>When you feel fragile, you may avoid company,<n>taking care not to leave an unpleasant impression.
+EN: You're expressive, with big gestures, and eager to please. Independent at heart, you avoid company when you feel fragile, taking care not to leave a bad impression.
 
 @54914 max=63
 JP: 甘えん坊度
@@ -3920,7 +3920,7 @@ EN: Vanity
 
 @54DD4 max=319
 JP: 他者と自分の違いをはっきりと認識できる。<n>人と比べることで劣等感を持たないタイプ。<n>できない自分を気に病むより<n>できる自分をのばすことを心がける。
-EN: You clearly recognize what makes you different.<n>Comparing yourself to others doesn't make you feel inferior.<n>Rather than fret over what you can't do,<n>you focus on developing what you can.
+EN: You know how you differ from others without feeling inferior. You focus on building your strengths instead of fretting over what you can't do.
 
 @54F14 max=63
 JP: 見栄っ張り度
@@ -3928,7 +3928,7 @@ EN: Vanity
 
 @54F54 max=319
 JP: 本人も気づいてない長所や個性を<n>見つける能力に長けている。<n>自分に欠けていることも良いモノと認めたら<n>どんどん積極的に取り入れることができる。
-EN: You excel at spotting strengths and unique qualities<n>that people haven't even noticed in themselves.<n>When you recognize a quality you lack as valuable,<n>you eagerly work to develop it yourself.
+EN: You spot strengths and traits people don't see in themselves. When you admire a quality you lack, you eagerly work to develop it.
 
 @55094 max=63
 JP: 見栄っ張り度
@@ -3952,7 +3952,7 @@ EN: Quirkiness
 
 @553D4 max=319
 JP: 誰かの言動に惑わされたり、<n>感情を左右されるということが少なめ。<n>その為、無感動のように思われがちだが、<n>表に出さないだけで<n>実際、周囲の人間よりも情緒は豊か。
-EN: Other people's words and actions rarely sway you<n>or send your feelings on a roller coaster.<n>This can make you seem unmoved, but in fact,<n>your emotional life is richer than most people's.<n>You simply keep it to yourself.
+EN: Others' words and actions rarely sway your feelings. You may seem unmoved, but your emotional life is richer than most. You simply keep those feelings to yourself.
 
 @55514 max=63
 JP: 不思議ちゃん度
@@ -3960,4 +3960,4 @@ EN: Quirkiness
 
 @55554 max=319
 JP: 常識を振りかざされてもひるまず<n>むしろまったく逆の行動で<n>自立心を社会に示すタイプ。<n>その為に受けてしまうダメージは多大でも<n>あえてリスクのある生き方を選択する。
-EN: You stand firm when people insist on doing things<n>the conventional way. You may do the exact opposite<n>to show the world your independent spirit.<n>Even when it comes at a great personal cost,<n>you deliberately choose a life of risk.
+EN: You defy convention, often doing the exact opposite to show your independence. Even at great personal cost, you choose to live a life of risk.

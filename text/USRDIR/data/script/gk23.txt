@@ -156,7 +156,7 @@ EN: Pointe Shoes
 
 @15134 max=359
 JP: あなたはコツコツと努力すること<n>で夢を叶えるトーシューズです。<n>汗と血のにじむつらい毎日も、ス<n>ポットライトを浴びる瞬間を夢見<n>れば耐えつづけることができるで<n>しょう。あなたのマジメな努力は<n>将来必ず大輪を咲かせます。
-EN: You're pointe shoes, making dreams<n>come true through steady effort.<n>Even through days of blood, sweat<n>and tears, dreaming of your moment<n>in the spotlight keeps you going.<n>Your sincere hard work will surely<n>blossom into something magnificent.
+EN: You're pointe shoes: steady effort makes dreams come true. Even grueling days feel bearable as you picture the spotlight. Your hard work will blossom one day.
 
 @1529C max=359
 JP: スニーカー
@@ -164,7 +164,7 @@ EN: Sneakers
 
 @15404 max=359
 JP: あなたは瞬発力があってフットワ<n>ークのいいスニーカーです。いろ<n>いろな場面であなたの柔軟なアイ<n>デアが冴えまくり、人気者になれ<n>ます。ただし持久力に欠けるので、<n>表舞台に出るよりは名脇役として<n>の方が個性をいかせます。
-EN: You're sneakers, quick to react<n>and light on your feet. Your flexible<n>thinking shines in all sorts of<n>situations, winning you plenty of fans.<n>You lack stamina, though, so your<n>talents shine brightest in a supporting<n>role, away from center stage.
+EN: You're sneakers: quick on your feet, with clever, flexible ideas that win you fans. You tire easily, though, so your talents shine brightest in a supporting role.
 
 @1556C max=359
 JP: わらじ
@@ -172,7 +172,7 @@ EN: Straw Sandals
 
 @156D4 max=359
 JP: あなたは天然ボケが魅力のわらじ<n>です。素朴で無邪気な明るいキャ<n>ラクターはたくさんの人に好かれ<n>ます。また、ダサいと嫌われたと<n>ころで、へこたれない強さも持っ<n>ています。実は短気な面もあるの<n>で、キレるとやっかいです。
-EN: You're straw sandals, charmingly<n>scatterbrained. Your simple, innocent<n>and sunny nature wins plenty of hearts.<n>Even if someone calls you hopelessly<n>uncool, you won't let it get you down.<n>But you do have a short fuse, and when<n>you snap, things can get messy!
+EN: You're straw sandals: sunny, sincere, and charmingly clueless. People love you, and being called uncool won't faze you. But watch that short fuse: you're trouble when you snap!
 
 @1583C max=359
 JP: ハイヒール
@@ -180,7 +180,7 @@ EN: High Heels
 
 @159A4 max=359
 JP: あなたは持って生まれた華やかさ<n>のあるハイヒールです。派手にし<n>ていてもお金に苦労することがあ<n>りません。でも、いつも少し爪先<n>立ちで無理をしていてストレスも<n>たまりがち。少し地に足をつけた<n>考えを持った方がいいでしょう。
-EN: You're high heels, born with a flair<n>for glamour. Even living in style,<n>you never seem to struggle for money.<n>But always being on tiptoe means<n>you're pushing yourself, and stress<n>can build up. Try keeping your feet<n>on the ground a little more.
+EN: You're high heels: born glamorous, with money to spare even when living it up. But always standing on tiptoe strains you. Ease the stress by keeping your feet on the ground.
 
 @15B0C max=359
 JP: スリッパ
@@ -188,7 +188,7 @@ EN: Slippers
 
 @15C74 max=359
 JP: あなたは誰とでもすんなりうまく<n>いくスリッパです。ちょっとふん<n>ばりには欠けますが、どこへでも<n>行ける前向きさがあります。たま<n>には華やかな世界ものぞいてみた<n>いと願うなら、思い切って転身し<n>てみるのもいいでしょう。
-EN: You're slippers, getting along with<n>just about anyone. You may not always<n>stand your ground, but your positive<n>attitude can take you anywhere.<n>If you've been dreaming of a peek<n>into a more glamorous world, why not<n>take the plunge and reinvent yourself?
+EN: You're slippers: you get along with anyone. You lack grit, but your optimism takes you places. Dreaming of a more glamorous life? Take the plunge and reinvent yourself!
 
 @15DDC max=359
 JP: 健康サンダル
@@ -196,7 +196,7 @@ EN: Massage Sandals
 
 @15F44 max=359
 JP: あなたは人のために役立ちたいと<n>願う健康サンダルです。人には不<n>器用な人と見られがちですが、あ<n>なた自身は人に尽くすことで喜び<n>を感じます。悪い運気もよい運気<n>に転じさせる才能を持っています。<n>最後に笑うのはあなたですよ。
-EN: You're massage sandals, eager to<n>be useful to others. People tend to<n>see you as awkward, but helping them<n>brings you joy. You have a gift<n>for turning bad luck into good luck.<n>Keep at it, because you'll be the one<n>who gets the last laugh!
+EN: You're massage sandals: eager to help. Others may find you awkward, but serving them brings you joy. You can turn bad luck into good. You'll have the last laugh!
 
 @160AC max=359
 JP: ブーツ
@@ -204,7 +204,7 @@ EN: Boots
 
 @16214 max=359
 JP: あたなは流行を敏感にキャッチで<n>きるブーツです。好奇心旺盛なの<n>で新しいことはどんどん取り入れ<n>て、時代時代の波に乗っていくこ<n>とができます。ただし、自分の実<n>力を過信して努力をおこたると一<n>気にダサくなってしまいますよ。
-EN: You're boots, always quick to spot<n>the latest trends. Brimming with<n>curiosity, you eagerly embrace new<n>things and ride each wave of fashion.<n>But get too confident in your talents<n>and stop putting in the effort, and<n>you'll be out of style in no time!
+EN: You're boots: quick to catch every trend. Your curiosity helps you embrace new things and ride each wave. But get smug and stop trying, and you'll be out of style in no time!
 
 @1637C max=359
 JP: 長靴
@@ -212,7 +212,7 @@ EN: Rain Boots
 
 @164E4 max=359
 JP: あなたはおおらかで丈夫な長靴で<n>す。雨の日はもちろん、重労働で<n>も粘り強くこなせる体力に恵まれ<n>た体育会系。でも内面はロマンチ<n>ストでブーツのようにカッコよく<n>なりたいなぁと夢見ていますね。
-EN: You're rain boots, easygoing and sturdy.<n>A sporty type blessed with stamina,<n>you weather rainy days and tackle<n>hard work with grit. But deep down,<n>you're a romantic, dreaming of looking<n>as stylish as a pair of fashion boots.
+EN: You're rain boots: easygoing and sturdy. A sporty type with stamina to handle rain and hard work alike. Deep down, you're a romantic who dreams of being as stylish as dress boots.
 
 @1664C max=359
 JP: 下駄
@@ -220,4 +220,4 @@ EN: Geta Sandals
 
 @167B4 max=359
 JP: あなたは立派な自立心のある下駄<n>です。足の動きにあわせる柔軟性<n>はありませんが、その個性的な存<n>在感で他を圧倒するカリスマ性が<n>あります。ただし、順調に歩いて<n>いても急にパキッと割れてしまう<n>ような危うさも持っています。
-EN: You're geta sandals, proudly independent.<n>You may not bend to match anyone's<n>stride, but your distinctive presence<n>has a charisma that dwarfs the rest.<n>Still, there's a fragile side to you:<n>even when all is going smoothly,<n>you might suddenly crack!
+EN: You're wooden geta sandals: proudly independent and rigid, with charisma that outshines the rest. Yet even when life is going smoothly, you could suddenly crack.

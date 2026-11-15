@@ -114,6 +114,26 @@ def texture_patches(original, patched):
 GAME_TITLE = 'Fukufuku no Shima (English)'
 
 
+def update_file_table(exe, moves):
+    """Rewrite the executable's own file table. Each entry holds the file's
+    start sector and byte size right after each other; replace every aligned
+    (old sector, old size) pair by the new values. Every changed file must be
+    found exactly once, otherwise the game would still read the old copy."""
+    exe = bytearray(exe)
+    for (olba, osz), (nlba, nsz) in moves.items():
+        pat = struct.pack('<II', olba, osz)
+        hits = []
+        i = exe.find(pat)
+        while i >= 0:
+            if i % 4 == 0:
+                hits.append(i)
+            i = exe.find(pat, i + 1)
+        if len(hits) != 1:
+            raise SystemExit('file table: expected one entry for sector %d size %d, found %d' % (olba, osz, len(hits)))
+        struct.pack_into('<II', exe, hits[0], nlba, nsz)
+    return bytes(exe)
+
+
 def patch_sfo_title(d, title):
     """Set the TITLE shown in the PSP menu / PPSSPP game list."""
     d = bytearray(d)
@@ -163,20 +183,33 @@ def main():
 
     patched['PSP_GAME/PARAM.SFO'] = patch_sfo_title(original('PSP_GAME/PARAM.SFO'), GAME_TITLE)
 
-    boot = patched.get('PSP_GAME/SYSDIR/BOOT.BIN')
-    if boot:
-        patched['PSP_GAME/SYSDIR/EBOOT.BIN'] = boot          # run the unencrypted, patched ELF
-        patched['PSP_GAME/USRDIR/AKI.PSP.PRX'] = boot
+    EXE = 'PSP_GAME/SYSDIR/BOOT.BIN'
+    EXE_COPIES = ['PSP_GAME/SYSDIR/EBOOT.BIN', 'PSP_GAME/USRDIR/AKI.PSP.PRX']
+    boot = patched.pop(EXE, None) or original(EXE)
 
     print('copying ISO...')
     shutil.copyfile(src, a.out)
     with open(a.out, 'r+b') as f:
         files = iso9660.list_files(f)
         nxt = [iso9660.volume_sectors(f)]
+        # 1. data files first: they may grow and move to the end of the disc
+        moves = {}
         for path, data in sorted(patched.items()):
-            iso9660.write_file(f, files[path], data, nxt)
+            e = files[path]
+            old = (e.lba, e.size)
+            iso9660.write_file(f, e, data, nxt)
+            if (e.lba, e.size) != old:
+                moves[old] = (e.lba, e.size)
+                print('  moved/resized:', path)
+        # 2. the game does not use the ISO directory: the executable keeps its
+        #    own table of {name pointer, start sector, size} per file. Point it
+        #    at the new location/size of every file that changed.
+        boot = update_file_table(boot, moves)
+        # 3. then the executable itself (same size, in place)
+        for path in [EXE] + EXE_COPIES:
+            iso9660.write_file(f, files[path], boot, nxt)
         iso9660.set_volume_sectors(f, nxt[0])
-    print('wrote', a.out, '(%d files changed)' % len(patched))
+    print('wrote', a.out, '(%d files changed, %d file-table entries updated)' % (len(patched) + 3, len(moves)))
 
     if report:
         rp = os.path.join(os.path.dirname(a.out), 'text_problems.txt')

@@ -156,7 +156,7 @@ EN: Eagle
 
 @15134 max=359
 JP: 力強く大空に羽ばたいていくよう<n>な冒険心と、何事にも果敢に挑戦<n>する勇気を兼ね備えたあなたは、<n>ワシタイプ。常にリーダー的存在<n>で、みんなを引っ張っていきます。<n>大胆不敵、逆にいうと向こう見ず<n>なところが目立ちます。
-EN: You're an Eagle type!<n>Your adventurous spirit soars high,<n>and you bravely tackle any challenge.<n>A natural leader, you take charge<n>and bring everyone along with you.<n>You're bold and fearless... though<n>some might call you reckless!
+EN: You're an Eagle type! Brave and adventurous, you're a born leader who spurs everyone on. You boldly tackle any challenge, but your fearlessness can turn reckless.
 
 @1529C max=359
 JP: インコ
@@ -164,7 +164,7 @@ EN: Parakeet
 
 @15404 max=359
 JP: 気立てがよくて、慎重、そして美<n>しいものを愛するあなたはインコ<n>タイプ。歌を歌ったり、草花とふ<n>れあったりするのが大好きな一方、<n>現実的な判断力も兼ね備えており<n>癒しにあふれ安定した生活を送る<n>ことができる人でもあります。
-EN: You're a Parakeet type!<n>Kindhearted and careful, you love<n>all things beautiful. Singing songs<n>and tending flowers bring you joy.<n>You also have a practical head<n>on your shoulders, helping you build<n>a peaceful, steady, comforting life.
+EN: You're a Parakeet type! Kind, careful and drawn to beauty, you love singing and flowers. Your practical judgment helps you build a peaceful, stable life.
 
 @1556C max=359
 JP: ニワトリ
@@ -172,7 +172,7 @@ EN: Chicken
 
 @156D4 max=359
 JP: どんなところにもおっくうがらず<n>に顔を出し、好奇心に溢れ快活、<n>そんなあなたはニワトリタイプ。<n>頭の回転はかなり早いのですが、<n>飽きっぽいところがあり、次々と<n>新しいものを求めてさまよってし<n>まう人でもあります。
-EN: You're a Chicken type!<n>Bright, lively, and full of curiosity,<n>you're always happy to pop up anywhere.<n>You're quick on the uptake, too!<n>But you tend to get bored easily,<n>so you're forever wandering off<n>in search of the next new thing.
+EN: You're a Chicken type! Lively and curious, you happily show up anywhere. You're quick-witted but easily bored, forever roaming in search of something new.
 
 @1583C max=359
 JP: キツツキ
@@ -180,7 +180,7 @@ EN: Woodpecker
 
 @159A4 max=359
 JP: 自分の居場所を大切にし、精神的<n>物理的に安定した生活を愛するあ<n>なたはキツツキタイプ。人に優し<n>く、奉仕するタイプでもあります<n>が、その反面、自分の本当の姿を<n>誰にも見せたがらない防衛本能過<n>剰なところもあります。
-EN: You're a Woodpecker type!<n>You treasure your own little haven<n>and love a secure life, inside and out.<n>You're kind and eager to help others.<n>On the other hand, you can be so guarded<n>that you won't let anyone see<n>who you really are beneath the surface.
+EN: You're a Woodpecker type! You cherish your home and a secure, settled life. Kind and helpful, you care for others, but guard your true self so closely that no one sees it.
 
 @15B0C max=359
 JP: キジ
@@ -188,7 +188,7 @@ EN: Pheasant
 
 @15C74 max=359
 JP: プライドが高く、集団の先陣を切<n>って進む勝気なあなたはキジタイ<n>プ。気高く、なおかつクリエイテ<n>ィブなあなたは、他人を惹きつけ<n>る魅力にあふれ、カリスマ的でも<n>あります。自意識過剰気味なとこ<n>ろが唯一の欠点でしょう。
-EN: You're a Pheasant type!<n>Proud and competitive, you love<n>being out in front of the crowd.<n>Your noble spirit and creative flair<n>give you a magnetic charm.<n>You've got charisma to spare! Your one<n>flaw? You can be a bit full of yourself.
+EN: You're a Pheasant type! Proud and competitive, you lead the charge. Your noble air and creative flair draw people in. Your one flaw? You can be a bit full of yourself.
 
 @15DDC max=359
 JP: ジュウシマツ
@@ -196,7 +196,7 @@ EN: Society Finch
 
 @15F44 max=359
 JP: 細かい気配りができ、与えられた<n>仕事をきちんとやりとげることが<n>できる、責任感の強いあなたは、<n>ジュウシマツタイプ。独立心旺盛<n>で、完全主義者なので、いい加減<n>に見える他人に対してうるさく小<n>言を言ってしまうことが多いです。
-EN: You're a Society Finch type!<n>Thoughtful and responsible, you notice<n>the little things and finish every job.<n>You're fiercely independent, too.<n>But as a perfectionist, you often<n>end up nagging people whose work<n>seems a little too sloppy to you.
+EN: You're a Society Finch type! Attentive and responsible, you finish every task. You're independent, but your perfectionism makes you nag anyone whose work seems sloppy.
 
 @160AC max=359
 JP: フクロウ
@@ -204,7 +204,7 @@ EN: Owl
 
 @16214 max=359
 JP: 争いを好まず、落ち着いていて知<n>的、さらに機知に富んだ会話も上<n>手、そんなあなたは、フクロウタ<n>イプ。芸術や文化を愛し、また、<n>その価値を認めて自分の中に取り<n>入れていくことも上手です。ちょ<n>っと保守的すぎる傾向もあります。
-EN: You're an Owl type!<n>Calm and clever, you avoid conflict<n>and have a knack for witty conversation.<n>You love art and culture,<n>recognize their worth, and know how<n>to enrich your life with them.<n>You can be a little too set in your ways.
+EN: You're an Owl type! Calm, clever and witty, you prefer peace to conflict. You appreciate art and culture and let them enrich your life, but can be too set in your ways.
 
 @1637C max=359
 JP: クジャク
@@ -212,7 +212,7 @@ EN: Peacock
 
 @164E4 max=359
 JP: 危険なくらい神秘的、謎めいた魅<n>力に満ち溢れているあなたは、ク<n>ジャクタイプ。愛に生き、愛に死<n>ぬような情熱的なところもあり、<n>一度決心したことは、容易にゆら<n>ぐことはありません。思い込みの<n>激しさで身を滅ぼすことも。
-EN: You're a Peacock type!<n>You have an air of mystery and<n>an almost dangerous, enigmatic charm.<n>So passionate you'd live or die for love,<n>you rarely waver once your mind is made up.<n>But when conviction becomes obsession,<n>it can be your undoing.
+EN: You're a Peacock type! Your mysterious charm has a dangerous edge. You'd live or die for love and rarely waver once you decide. Yet obsession can be your downfall.
 
 @1664C max=359
 JP: カラス
@@ -220,7 +220,7 @@ EN: Crow
 
 @167B4 max=359
 JP: 頭が良くて、探究心旺盛、怖いも<n>の知らずのあなたはカラスタイプ。<n>どんなことでも、一生懸命勉強し<n>自分のものにして、そしてさらに<n>新しい挑戦へと立ち向かいます。<n>人生そのものが、旅のような人で<n>いつも何かを求めて進んでいます。
-EN: You're a Crow type!<n>Bright, inquisitive, and fearless,<n>you study hard to master whatever<n>catches your interest, then head off<n>to tackle a brand-new challenge.<n>Life itself is a journey for you.<n>You're always moving, always seeking.
+EN: You're a Crow type! Clever, curious and fearless, you study hard to master each new interest, then seek another challenge. Life is a journey, and you're always searching.
 
 @1691C max=359
 JP: ハクチョウ
@@ -228,7 +228,7 @@ EN: Swan
 
 @16A84 max=359
 JP: 穏やかで信頼がおける、そして何<n>事も慌てず騒がすこなしてしまう、<n>ハクチョウタイプ。これと決めた<n>ところでは、責任を持って行動す<n>ることができ、人からも頼りにさ<n>れる人格を持っています。内面の<n>面白みに欠けるところが欠点です。
-EN: You're a Swan type!<n>Calm and trustworthy, you handle things<n>without getting flustered or making a fuss.<n>Once you commit, you take responsibility<n>and see things through.<n>People know they can rely on you.<n>Your flaw? You can be a little dull.
+EN: You're a Swan type! Calm and trustworthy, you handle things without a fuss. Once committed, you act responsibly, and others rely on you. Your flaw? You can be a little dull.
 
 @16BEC max=359
 JP: スズメ
@@ -236,7 +236,7 @@ EN: Sparrow
 
 @16D54 max=359
 JP: 物事をきちんと見極める判断力を<n>もち、平等であることを愛するあ<n>なたは、スズメタイプ。人を差別<n>することなく、それぞれの個性を<n>見出し、大切にしていくことがで<n>きます。集団の中にいながら、孤<n>独でもありたいという冷静な人。
-EN: You're a Sparrow type!<n>You have sound judgment and love fairness.<n>You treat people without prejudice,<n>recognizing and cherishing<n>what makes each person unique.<n>Coolheaded and composed, you like being<n>part of a group, yet also want solitude.
+EN: You're a Sparrow: fair, levelheaded and a sound judge. You value what makes each person unique, without prejudice. You like being part of a flock, but need solitude too.
 
 @16EBC max=359
 JP: モズ
@@ -244,4 +244,4 @@ EN: Shrike
 
 @17024 max=359
 JP: 自分の世界に浸って、いつもまど<n>ろむように夢見ているあなたは、<n>モズタイプ。物静かで芸術や文学、<n>音楽などに長け、感受性も鋭い人<n>です。ただ、周りに流されてしま<n>ったり、人の気持ちを思うあまり<n>強く出れないという一面も。
-EN: You're a Shrike type!<n>Lost in your own world, you drift<n>through life as if in a pleasant dream.<n>Quiet and sensitive, you have a gift<n>for art, literature, and music.<n>But you can get swept along by others,<n>or care too much to stand your ground.
+EN: You're a Shrike: a quiet, sensitive dreamer gifted in art, literature and music. Lost in your own world, you're easily swayed and may care too much to stand your ground.

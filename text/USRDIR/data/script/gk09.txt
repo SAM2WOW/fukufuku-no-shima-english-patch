@@ -156,7 +156,7 @@ EN: Green Tea
 
 @15134 max=359
 JP: 節約家のあなたは、緑茶をいれる<n>ときも３煎は飲むと決めていませ<n>んか？コツコツと貯金をしてギャ<n>ンブルなどは大嫌いなあなたは、<n>堅実な人生を歩みます。一度選ん<n>だ堅い仕事を定年まで勤めたほう<n>がよいでしょう。
-EN: Thrifty as you are, do you insist on brewing each batch of green tea leaves three times? You save steadily and can't stand gambling, so your life follows a sensible path. Your best bet is to find a secure job and stick with it until retirement.
+EN: Thrifty enough to brew green tea leaves three times? You save steadily and hate gambling. A secure job you can keep until retirement suits your sensible approach to life.
 
 @1529C max=359
 JP: 青汁
@@ -164,7 +164,7 @@ EN: Green Juice
 
 @15404 max=359
 JP: 無駄なおしゃべりが嫌いで、人付<n>き合いもあまり得意でないあなた<n>は、ふとした拍子に、青汁を飲ん<n>だあとのような苦い顔をしていた<n>りしませんか？ときには、意識し<n>て交際範囲を広げてみてはどうで<n>しょう？笑顔が増えますよ。
-EN: You dislike idle chatter and aren't much of a social butterfly. Do you sometimes catch yourself looking as sour as if you'd just gulped down bitter green juice? Try making a conscious effort to widen your circle of friends. You'll find more reasons to smile.
+EN: You dislike small talk and find socializing hard. Is your face as sour as bitter green juice? Try widening your circle of friends. You'll have more reasons to smile.
 
 @1556C max=359
 JP: コーヒー
@@ -172,7 +172,7 @@ EN: Coffee
 
 @156D4 max=359
 JP: 負けず嫌いなあなたは、人の下で<n>働くことも苦手としています。香<n>り高き、ブルーマウンテンのコー<n>ヒーのように人から敬われ、特別<n>な扱いを受けることを望んでいま<n>す。仕事ではその道の第一人者を<n>目指せば、人生が開けます。
-EN: You hate losing and struggle to work under someone else. Like fragrant Blue Mountain coffee, you want to be prized and given special treatment. Aim to become the leading expert in your field, and new doors will open for you.
+EN: You hate losing or taking orders. Like fine Blue Mountain coffee, you want respect and special treatment. Become your field's leading expert, and doors will open.
 
 @1583C max=359
 JP: 紅茶
@@ -180,7 +180,7 @@ EN: Black Tea
 
 @159A4 max=359
 JP: ネゴシエーションが苦手なあなた<n>は、エグゼクティブ・ビジネスマ<n>ンよりは、医師や芸術家、作家な<n>どが向いているようです。紅茶を<n>ゆっくりいれて、のんびり過ごす<n>時間を大切にしたいもの。酒の席<n>が好きでも飲みすぎはＮＧ。
-EN: Negotiating isn't your strong suit, so life as a doctor, artist or writer may suit you better than the executive track. Make time to brew a leisurely cup of tea and unwind. Even if you enjoy parties with a few drinks, don't overdo the alcohol.
+EN: Negotiating is tricky for you. Medicine, art or writing may suit you best. Take time to brew some tea and unwind. Enjoy drinks with friends, but know your limit.
 
 @15B0C max=359
 JP: 炭酸飲料
@@ -188,7 +188,7 @@ EN: Soda
 
 @15C74 max=359
 JP: 上司や目上の人に対してついつい<n>反論してしまうことが多いあなた<n>は、泡がはじける炭酸飲料タイプ<n>です。人にとやかく言われるより<n>は、独断で物事を進める方が得意<n>なので、広告関係や芸能関係の仕<n>事が向いています。
-EN: Always talking back to your boss or your elders? You're the fizzy soda type, bubbling over with objections. You work best calling your own shots, without people telling you what to do. Advertising or entertainment could be just your thing.
+EN: Always arguing with bosses and elders? You're fizzy soda, bubbling with objections! You like calling the shots. A job in advertising or entertainment could suit you.
 
 @15DDC max=359
 JP: 麦茶
@@ -196,7 +196,7 @@ EN: Barley Tea
 
 @15F44 max=359
 JP: 静かな場所でじっくりと腰を据え<n>てできる職業が向いているあなた<n>は、ゆっくり煮出した麦茶タイプ。<n>知性のないおしゃべりは嫌いなく<n>せに噂話が好きなのも特徴。嫉妬<n>心を抑えることで、運気上昇の兆<n>しがあります。
-EN: Like slowly simmered barley tea, you're suited to work that lets you settle down and concentrate somewhere quiet. You dislike mindless chatter, yet can't resist a bit of gossip. Keep your jealousy in check, and your luck should take a turn for the better.
+EN: Like slow-brewed barley tea, you suit quiet, focused work. You dislike mindless chatter but love gossip. Keep jealousy in check, and your luck could improve.
 
 @160AC max=359
 JP: オレンジジュース
@@ -204,7 +204,7 @@ EN: Orange Juice
 
 @16214 max=359
 JP: 絞りたてのオレンジジュースのよ<n>うにいつも新鮮な気持ちでいたい<n>あなたは、一人ぼっちでいるより<n>は、笑い声のあふれるにぎやかな<n>場所が大好きです。節約すること<n>が苦手な上に、買い物好きなので、<n>無駄遣いは禁物です。
-EN: Like freshly squeezed orange juice, you want to feel fresh every day. You'd much rather be somewhere lively and full of laughter than all alone. Saving isn't your strong suit, and you love shopping, so watch out for wasteful spending!
+EN: Like fresh orange juice, you crave a fresh outlook. You love lively places full of laughter. Saving is hard and shopping is fun, so keep a lid on needless spending!
 
 @1637C max=359
 JP: 豆乳
@@ -212,7 +212,7 @@ EN: Soy Milk
 
 @164E4 max=359
 JP: 理論だてて物事を考えたり、理詰<n>めで議論することが得意なあなた<n>は、他人が約束を破ることなど許<n>せない成分無調整の豆乳タイプ。<n>音楽や小説、陶器にも興味を持つ<n>あなたは、文学や美術、教育関係<n>の仕事にも向いているようです。
-EN: You think things through logically and excel at reasoned debate. Like plain, unadulterated soy milk, you accept no compromises: broken promises are unforgivable. Your interests also include music, novels and pottery, so work in literature, art or education could suit you.
+EN: The plain soy milk type: logical and strict about promises. You like music, novels and pottery, too. A career in literature, art or teaching could suit you.
 
 @1664C max=359
 JP: 牛乳
@@ -220,7 +220,7 @@ EN: Milk
 
 @167B4 max=359
 JP: じっとしているくらいなら、誰か<n>の世話をやいていたり、とにかく<n>忙しくしていることが好きなあな<n>たは、毎日どこの家庭でも飲まれ<n>ている牛乳タイプ。料理が得意な<n>人が多いのもこのタイプの特徴。<n>レストラン経営なども吉。
-EN: Rather than sit still, you'd sooner look after someone or simply keep busy. You're the milk type, a welcome presence in homes every day. Many people of this type are great cooks, too. Running a restaurant could be a lucky choice.
+EN: You're the milk type, a staple in every home! You'd rather care for others and keep busy than sit still. Many milk types cook well. Running a restaurant looks lucky.
 
 @1691C max=359
 JP: ウーロン茶
@@ -228,7 +228,7 @@ EN: Oolong Tea
 
 @16A84 max=359
 JP: 綿密に計画を立て、確実にそれを<n>実行に移していくのが得意なあな<n>たは、ゆっくりと茶葉が開くのを<n>待って香りを楽しむ烏龍茶がぴっ<n>たり。つねに明快な答えが頭の中<n>にあるので決断が遅い人や話が下<n>手な人が不得意。
-EN: You excel at making detailed plans and steadily putting them into action. Oolong tea suits you perfectly: you wait patiently for the leaves to unfurl, then savor the aroma. With a clear answer always in mind, you struggle with people who dither or have trouble expressing themselves.
+EN: You plan carefully and follow through, like patiently brewing fragrant oolong tea. You always have a clear answer, so slow decisions and muddled speech try your patience.
 
 @16BEC max=359
 JP: 水
@@ -236,7 +236,7 @@ EN: Water
 
 @16D54 max=359
 JP: 実直で礼儀を重んじるあなたは、<n>水のようにピュアな一面も見受け<n>られます。人に頭を下げてまで物<n>を頼むことが嫌いなあなたは、時<n>として頑固に見えてしまうかもし<n>れません。我慢のし過ぎもほどほ<n>どが肝心です。
-EN: Honest and respectful of good manners, you have a side as pure as water. You hate having to bow and scrape to ask a favor, which can sometimes make you seem stubborn. Remember, there's a limit to how much you should put up with.
+EN: Honest, polite and pure as water, you hate bowing to ask a favor. That pride can make you seem stubborn. Don't force yourself to put up with too much.
 
 @16EBC max=359
 JP: スポーツ飲料
@@ -244,4 +244,4 @@ EN: Sports Drink
 
 @17024 max=359
 JP: 情報通で自分がこうと信じたら、<n>あくまで貫くスポ根的な性格は、<n>スポーツ飲料そのもの。そのくせ<n>早起きは不得意な人が多いのもこ<n>のタイプだが、それも信念のため<n>なら平気で起きられるから不思議。<n>浪費癖をなおせば吉。
-EN: Well-informed and full of fighting spirit, you stick to your beliefs no matter what. You're a sports drink through and through! Oddly, many of your type hate getting up early, yet leap out of bed if their convictions call for it. Curb your spending habit, and good luck should follow.
+EN: Savvy and full of grit, you're a sports drink! You stick to your beliefs. You hate early starts, unless your beliefs demand it. Curb your spending for better luck.

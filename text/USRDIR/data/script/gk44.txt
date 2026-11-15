@@ -156,7 +156,7 @@ EN: Aikido
 
 @15134 max=359
 JP: 根がマジメで人と争うことがキラ<n>イなあなた。粘り強く、自分の目<n>標に向かって努力することを惜し<n>みません。いざというときに頼り<n>にされます。攻撃よりも相手の力<n>を使って防御する合気道タイプ。<n>少しは自己主張をしてもいいかも。
-EN: Earnest at heart, you hate conflict.<n>You persevere, working hard<n>toward your goals without complaint.<n>People count on you in a crisis.<n>You're the aikido type: you defend<n>using your opponent's own strength.<n>Try speaking up for yourself a little.
+EN: Earnest and peaceful, you work steadily toward your goals. Like aikido, you defend with a rival's own strength. People rely on you in a pinch. Speak up for yourself more.
 
 @1529C max=359
 JP: 剣道
@@ -164,7 +164,7 @@ EN: Kendo
 
 @15404 max=359
 JP: 人にこびることがキライで、自分<n>の道をまっすぐに進むあなた。正<n>義感が強く、間違ってることをし<n>た人には剣道の鋭い太刀裁きのよ<n>うに、ビシビシと意見をいいます。<n>人に使われるよりも自分で事業を<n>起こすほうが才能を発揮します。
-EN: You hate sucking up to people<n>and follow your own path faithfully.<n>With your strong sense of justice,<n>you call out wrongdoing with words<n>as sharp as a kendo sword strike.<n>Your talents shine brighter running<n>your own business than working for others.
+EN: You shun flattery and go your own way. Your strong sense of justice strikes at wrongdoers like a kendo sword. Your talents shine most when you run your own business.
 
 @1556C max=359
 JP: ボクシング
@@ -172,7 +172,7 @@ EN: Boxing
 
 @156D4 max=359
 JP: ハングリー精神が強く、何ごとで<n>もトップでないと気がすまないあ<n>なた。危険とわかっていても飛び<n>込むパワーはボクサーのよう。負<n>けずギライで、勝つための努力と<n>苦しくてもやりぬくガッツは人一<n>倍。見栄を張り過ぎないように。
-EN: Hungry for success, you won't settle<n>for anything less than first place.<n>Like a boxer, you charge right in,<n>even when you know there's danger.<n>You hate losing and have the grit<n>to work hard and fight through pain.<n>Just don't get too caught up in showing off.
+EN: You crave first place. Like a boxer, you charge in despite the danger. You hate losing and have the grit to work hard and push through pain. Just don't show off too much.
 
 @1583C max=359
 JP: 太極拳
@@ -180,7 +180,7 @@ EN: Tai Chi
 
 @159A4 max=359
 JP: のんびりしていて、散歩や美術鑑<n>賞など趣味に生きることが好きな<n>あなた。争いごとがキライで、仲<n>間のもめごとも、あなたが仲裁す<n>る役に。ゆったりと相手の懐にも<n>ぐりこむ太極拳タイプ。そんなあ<n>なたに癒される人も多いはず。
-EN: Easygoing, you love enjoying hobbies<n>like taking walks or admiring art.<n>You hate conflict and often step in<n>to settle squabbles among friends.<n>You're the tai chi type, gently<n>finding a way past people's defenses.<n>Your soothing presence puts many at ease.
+EN: Easygoing, you love walks, art and hobbies. You hate conflict and settle friends' disputes. Like tai chi, you gently slip past defenses. Your calm puts others at ease.
 
 @15B0C max=359
 JP: キックボクシング
@@ -188,7 +188,7 @@ EN: Kickboxing
 
 @15C74 max=359
 JP: 頭の回転が速く、流行や情報など<n>いち早くキャッチするスピード感<n>を持っているあなた。冷静にダメ<n>かいいかを判断し、チャンスをも<n>のにするキックボクシングタイプ。<n>ただ、人に勝つことに執着しすぎ<n>なのでリラックスも大切です。
-EN: Quick on the uptake, you're first<n>to catch new trends and information.<n>You coolly weigh the pros and cons<n>and seize your chance when it comes.<n>That makes you the kickboxing type.<n>You can get too fixated on winning,<n>though. Remember to relax sometimes!
+EN: Quick-witted, you catch trends early. Like a kickboxer, you coolly judge your chances and strike at the right moment. Don't get so hung up on winning. Relax a little!
 
 @15DDC max=359
 JP: レスリング
@@ -196,7 +196,7 @@ EN: Wrestling
 
 @15F44 max=359
 JP: 周りの様子を見て、自分にプラス<n>の方向に絡んでいくあなたは、ジ<n>ンワリと攻めていくレスリングタ<n>イプ。ふだんから落ち着いたムー<n>ドを持っていて、自分の興味のあ<n>ることは、とことん追及するタイ<n>プ。人づき合いは少し苦手です。
-EN: You size up your surroundings<n>and get involved where it benefits you.<n>You're the wrestling type, steadily<n>working your way toward an advantage.<n>You have a calm air about you<n>and pursue your interests to the limit.<n>Socializing can be a bit of a struggle.
+EN: Calm and watchful, you seek an advantage, like a wrestler steadily pressing the attack. You pursue your interests to the end, though socializing can be a struggle.
 
 @160AC max=359
 JP: 空手
@@ -204,7 +204,7 @@ EN: Karate
 
 @16214 max=359
 JP: ひとりでいることが苦手で、友達<n>といつもワイワイと騒いでいたい<n>あなた。組み手など団体で競技も<n>できる空手タイプです。何をする<n>にも信頼できるパートナーがいる<n>と実力以上の力を発揮します。少<n>しお調子者のところに注意して。
-EN: You hate being alone and love<n>laughing and joking with friends.<n>You're the karate type, at home<n>in team events like team sparring.<n>With a trusted partner by your side,<n>you can surpass your usual limits.<n>Just watch that tendency to get carried away!
+EN: You love lively times with friends and hate being alone. You're the karate type: a team player. A trusted partner helps you surpass yourself. Just don't get carried away!
 
 @1637C max=359
 JP: フェンシング
@@ -212,7 +212,7 @@ EN: Fencing
 
 @164E4 max=359
 JP: ファッションやアートに興味のあ<n>るあなた。洗練されたスタイリッ<n>シュな生活をしたいと思っている<n>はず。見た目もオシャレで型にこ<n>だわるフェンシングタイプ。理屈<n>っぽく、つい友達にキツイひとこ<n>とをいいがちなので押さえて。
-EN: Fashion and art catch your eye.<n>You dream of a polished, stylish life.<n>You're the fencing type: looking sharp<n>and being a stickler for proper form.<n>You can get a little too argumentative<n>and blurt out harsh words to friends.<n>Try to keep that sharp tongue in check.
+EN: You love fashion and art, and want a stylish life. Like a fencer, you look sharp and value form. You tend to argue and speak harshly to friends. Mind that sharp tongue!
 
 @1664C max=359
 JP: 相撲
@@ -220,7 +220,7 @@ EN: Sumo
 
 @167B4 max=359
 JP: 統率力があり、人に使われるより<n>も使う立場のほうが実力を発揮す<n>るあなたは、相撲の横綱タイプ。<n>小さくても、自分の店などを持つ<n>と成功するでしょう。面倒見がよ<n>く、意外にまめに動くあなたは、<n>後輩から慕われ、尊敬されます。
-EN: A natural leader, you shine brightest<n>giving orders rather than taking them.<n>You're sumo's grand champion type.<n>A business of your own, even a tiny<n>shop, could thrive under your care.<n>Caring and surprisingly attentive,<n>you earn the love and respect of your juniors.
+EN: A born leader, you're sumo's grand champion type. Your own shop, however small, could thrive. Caring and attentive, you earn the love and respect of those under you.
 
 @1691C max=359
 JP: テコンドー
@@ -228,7 +228,7 @@ EN: Taekwondo
 
 @16A84 max=359
 JP: 人から何をいわれても、自分の好<n>きなことに突き進むあなた。テコ<n>ンドーのように、少しマイナーな<n>ものにも積極的にチャレンジする<n>強い意志を持っています。的確な<n>判断力があるので、人にアドバイ<n>スするカウンセラー向きかも。
-EN: Whatever people say, you charge ahead<n>with the things you love.<n>Like taekwondo, less mainstream pursuits<n>don't faze you. You have the willpower<n>to give them a determined try.<n>Your sound judgment could make you<n>a great counselor, helping others with advice.
+EN: You're the taekwondo type, keen to try less common pursuits. You follow your passions despite what others say. Your strong will and sound judgment could make you a fine counselor.
 
 @16BEC max=359
 JP: 少林寺拳法
@@ -236,7 +236,7 @@ EN: Shorinji Kempo
 
 @16D54 max=359
 JP: ガンコで粘り強くひとつのことを<n>やり遂げることのできるあなた。<n>自分に厳しい少林寺拳法タイプ。<n>人に頼むよりも時間をかけても、<n>納得するまでひとりで取り組むの<n>が好きです。引っ込み思案なとこ<n>ろを直せば、さらに成功します。
-EN: Stubborn and persistent, you see<n>whatever you start through to the end.<n>You're the self-disciplined<n>Shorinji Kempo type. You'd rather<n>take your time and get it right alone<n>than ask for help. If you can overcome<n>your shyness, even more success awaits.
+EN: You're the Shorinji Kempo type: tough on yourself, persistent, and happy to work alone until you're satisfied. Overcome your shyness and you'll go even further.
 
 @16EBC max=359
 JP: ムエタイ
@@ -244,4 +244,4 @@ EN: Muay Thai
 
 @17024 max=359
 JP: 竹を割ったような性格で、目標を<n>決めると、少々のことではへこた<n>れないあなた。ムエタイのように<n>ハードで、勝負がハッキリするも<n>のに惹かれる傾向があります。直<n>感で行動することが多いので、た<n>まにはじっくり考えることも大切。
-EN: Straightforward and decisive, once<n>you set a goal, little can deter you.<n>Like muay thai, you favor tough contests<n>with clear winners and losers.<n>You tend to act on instinct,<n>so remember that sometimes it pays<n>to slow down and think things through.
+EN: Frank and determined, you like tough contests with clear winners, like muay thai. You act on instinct, so take time to think things through, too.

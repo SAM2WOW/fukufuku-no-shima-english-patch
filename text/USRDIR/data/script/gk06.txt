@@ -156,7 +156,7 @@ EN: Bookshelf
 
 @15134 max=359
 JP: マジメで、キチンと整理整頓され<n>ている本棚のようなあなた。誠実<n>で誰からも信頼されています。<n>そんな自分がつまらないと思わな<n>いこと。あなたのよさはその慎重<n>さ。努力と粘り強さが武器になり、<n>仕事や学問で成功するはず。
-EN: Like a neatly arranged bookshelf,<n>you're earnest and organized.<n>Your honesty earns everyone's trust.<n>Don't mistake that for being boring!<n>Your careful nature is a strength.<n>Hard work and persistence are your<n>keys to success at work or in school.
+EN: Like a tidy bookshelf, you're earnest and trusted. Never call that boring! Caution is your strength. Hard work and grit bring success at work or school.
 
 @1529C max=359
 JP: 勉強机
@@ -164,7 +164,7 @@ EN: Study Desk
 
 @15404 max=359
 JP: ついほかのことをしてしまう勉強<n>机のように、あなたは少し根気が<n>たりないかも。でも、あなたのヒ<n>ラメキは天才的。それを生かすに<n>は、そのアイデアを認めてくれた<n>人のサポートに徹すること。そう<n>すれば、成功の確率がアップ。
-EN: Like a study desk where you end up<n>doing everything but studying,<n>you may lack staying power.<n>But your flashes of genius are real!<n>Put them to work by supporting<n>someone who believes in your ideas.<n>That will boost your odds of success.
+EN: Like a study desk full of distractions, you lack focus but have genius ideas. Support someone who believes in those ideas to boost your odds of success.
 
 @1556C max=359
 JP: 洋服ダンス
@@ -172,7 +172,7 @@ EN: Wardrobe
 
 @156D4 max=359
 JP: ついごちゃごちゃになってしまう<n>洋服ダンスのように、あなたはム<n>ラッ気があり、いろんな場所に首<n>を突っ込むほうです。でも活動的<n>なあなたは、運を呼び込むパワー<n>にあふれ、周りには自然に人が集<n>まってきます。失言にだけ注意。
-EN: Like a wardrobe that soon gets messy,<n>you're changeable and tend to poke<n>your nose into all sorts of things.<n>But your lively spirit has plenty<n>of power to draw good luck your way.<n>People naturally flock to you, too.<n>Just watch what you blurt out!
+EN: Like a messy wardrobe, you're moody and dabble in everything. Your energy draws luck and people to you. Just mind what you blurt out!
 
 @1583C max=359
 JP: 桐ダンス
@@ -180,7 +180,7 @@ EN: Paulownia Chest
 
 @159A4 max=359
 JP: 家族の大切なものをしまっておく<n>桐ダンスのように、あなたには金<n>運がついています。これから一生<n>お金には苦労しないはず。ただし、<n>堅実に使うこと。本当はさびしが<n>りやのあなた。心を許せる友達を<n>見つけることが運気をアップ。
-EN: Like a paulownia chest holding<n>family treasures, you have money luck.<n>You should never struggle for money<n>all your life. Just spend it wisely!<n>Deep down, you're a lonely soul.<n>Finding a friend you can open up to<n>will give your luck a boost.
+EN: Like a chest of family treasures, you're blessed with money luck for life. Spend wisely! Deep down you're lonely. A trusted friend will boost your luck.
 
 @15B0C max=359
 JP: ちゃぶ台
@@ -188,7 +188,7 @@ EN: Low Dining Table
 
 @15C74 max=359
 JP: お年寄りに人気のちゃぶ台のよう<n>に、目上の人を立てるので人望の<n>厚いあなた。マナーや常識にもく<n>わしく世渡り上手です。いざって<n>いうときには、あきらめずにがん<n>ばるガッツはピカイチ。もっと目<n>立ちたいという野心家の面も。
-EN: Like a low table beloved by elders,<n>you win respect by honoring those<n>above you. Good manners and common<n>sense help you get along in life.<n>When the going gets tough, your grit<n>is second to none. You also have an<n>ambitious side that craves attention.
+EN: Like a low table loved by elders, you honor your seniors and win respect. Manners and sense serve you well. You've got grit and ambition to stand out.
 
 @15DDC max=359
 JP: イス
@@ -196,7 +196,7 @@ EN: Chair
 
 @15F44 max=359
 JP: 黙って人の重みに耐えるイスのよ<n>うに、人に何か頼まれると断れな<n>いタイプ。つくすことが生きがい<n>なのです。裏切られても、決して<n>恨まないで、笑顔のあなたを慕っ<n>てくる人は多いはず。そう、最後<n>にいい運を掴むのはあなたです。
-EN: Like a chair quietly bearing weight,<n>you can't say no to a favor.<n>Helping others gives your life meaning.<n>Even if betrayed, don't hold a grudge.<n>Your smile will draw plenty of people<n>who care about you. In the end,<n>you'll be the one good luck smiles on.
+EN: Like a chair bearing weight, you can't refuse a favor. Helping gives you purpose. Don't resent betrayal. Your smile draws friends, and luck will find you.
 
 @160AC max=359
 JP: ソファ
@@ -204,7 +204,7 @@ EN: Sofa
 
 @16214 max=359
 JP: 新しい情報をキャッチして、うま<n>く自分にいかせる才能のあるあな<n>た。コレだと思ったことはとこと<n>ん突き詰め、その道のエキスパー<n>トになれます。ただ、ドンと構え<n>てるソファのようにプライドが高<n>いところが、誤解されることも。
-EN: You have a gift for picking up new<n>information and putting it to use.<n>Once something grabs you, you dig<n>deep enough to become an expert.<n>But like a sofa sitting grandly<n>in the room, you can be rather proud.<n>People may get the wrong idea.
+EN: You put new knowledge to good use and dig deep into what you love, becoming an expert. But like a grand sofa, your pride can give people the wrong idea.
 
 @1637C max=359
 JP: ベッド
@@ -212,7 +212,7 @@ EN: Bed
 
 @164E4 max=359
 JP: 打たれ強く忍耐力もあるベッドの<n>ようなあなた。逆境に負けない精<n>神力とスタミナがあります。人に<n>対しては大らかで好かれます。た<n>だ、好奇心がありすぎて、あれも<n>これもと手を出し、すべてものに<n>ならないこともあるので注意。
-EN: Like a sturdy, patient bed, you can<n>take life's knocks. You have the grit<n>and stamina to weather hard times.<n>Your easygoing nature wins friends.<n>But beware: your endless curiosity<n>can lead you to try so many things<n>that you never master any of them.
+EN: Like a sturdy bed, you endure life's knocks. Your grit keeps you going, and your easygoing ways win friends. But dabble too much, and you may master nothing.
 
 @1664C max=359
 JP: テーブル
@@ -220,4 +220,4 @@ EN: Table
 
 @167B4 max=359
 JP: 大切にされたり、邪険にされたり<n>するテーブルのように、あなたの<n>運は吉凶の落差が激しいようです。<n>でも持っている運は強いので、ト<n>ラブルに襲われても乗り越えられ<n>るはず。どんな分野でもトップに<n>なれる素質があります。
-EN: Like a table that's treasured one day<n>and treated roughly the next,<n>your luck swings between highs and lows.<n>Still, your natural luck is strong,<n>so you should overcome any trouble<n>that comes your way. You have what<n>it takes to reach the top in any field.
+EN: Like a table treasured or mistreated, your luck has sharp highs and lows. Still, it's strong enough to see you through trouble. You could top any field.

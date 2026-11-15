@@ -880,7 +880,7 @@ EN: Eisaku Sato<n>Kakuei Tanaka<n>Yasuhiro Nakasone
 
 @192AC max=119
 JP: 太陽表面の磁場がもつれて再結合することで、<n>大気中のガスが高温になって噴出することを何という？
-EN: What is an eruption of hot gas caused by tangled magnetic fields reconnecting on the Sun called?
+EN: What hot-gas eruption on the Sun is caused by magnetic reconnection?
 
 @19324 max=63
 JP: ディック・フレア<n>太陽光線<n>太陽フレア
@@ -904,7 +904,7 @@ EN: World Health Org.<n>UN Children's Fund<n>NATO
 
 @194EC max=119
 JP: 台風の渦が南半球では時計回り、<n>北半球では反時計回りなのは？
-EN: Why do typhoons spin clockwise in the Southern Hemisphere and counterclockwise in the Northern Hemisphere?
+EN: Why do typhoons spin clockwise south of the equator, but counterclockwise north?
 
 @19564 max=63
 JP: カタコリ効果<n>コリオリ効果<n>オリヨタ効果
@@ -1080,7 +1080,7 @@ EN: Gadot<n>Kudot<n>Godot
 
 @1A56C max=119
 JP: 大気都比売神（おほげつひめのかみ）のなきがらから<n>生まれた五穀は、稲、小豆、麦、大豆と？
-EN: From Ogetsuhime's body came rice, adzuki beans,<n>barley, soybeans and which other crop?
+EN: Ogetsuhime's body bore rice, adzuki, barley, soybeans and what?
 
 @1A5E4 max=63
 JP: ごま<n>あわ<n>こま
@@ -1128,7 +1128,7 @@ EN: The finder<n>The landowner<n>Both
 
 @1A9EC max=119
 JP: 江戸の五街道は、<n>東海道、中山道、甲州街道、日光街道と？
-EN: Edo's Five Routes were the Tokaido, Nakasendo,<n>Koshu Kaido, Nikko Kaido and which other route?
+EN: Edo's five roads: Tokaido, Nakasendo, Koshu, Nikko and which other?
 
 @1AA64 max=63
 JP: 奥州街道<n>本州街道<n>九州街道
@@ -1208,7 +1208,7 @@ EN: True<n>False
 
 @1B16C max=119
 JP: おせち料理の基本は三つ肴。<n>関東では、黒豆、数の子と、もうひとつは？
-EN: Osechi has three staple dishes. In Kanto, they're black soybeans, herring roe and what?
+EN: Kanto's three osechi staples: black beans, herring roe and what?
 
 @1B1E4 max=63
 JP: ごまめ<n>こんにゃく<n>きんとん
@@ -1216,7 +1216,7 @@ EN: Dried sardines<n>Konjac<n>Sweet chestnut mash
 
 @1B22C max=119
 JP: おせち料理の基本は三つ肴。<n>関西では、黒豆、数の子と、もうひとつは？
-EN: Osechi has three staple dishes. In Kansai, they're black soybeans, herring roe and what?
+EN: Kansai's three osechi staples: black beans, herring roe and what?
 
 @1B2A4 max=63
 JP: かつおたたき<n>いりこんにゃく<n>たたきゴボウ
@@ -2320,7 +2320,7 @@ EN: Type A<n>Type O<n>Type B
 
 @219AC max=119
 JP: 杉やヒノキなど、細い葉のついた木を<n>一般的になんと呼ぶ？
-EN: What are trees with thin leaves, like Japanese cedar<n>and hinoki cypress, generally called?
+EN: What are needle-leaved trees like cedar and cypress called?
 
 @21A24 max=63
 JP: 針葉樹<n>細葉樹<n>糸葉樹
@@ -2536,7 +2536,7 @@ EN: Autumn darter<n>Japanese emperor<n>Small copper
 
 @22DEC max=119
 JP: 銀行やコンビニなどでお金をおろしたり<n>預けたりする機械のことをなんという？
-EN: What do you call a machine used to withdraw or deposit money at banks and convenience stores?
+EN: What machine lets you withdraw or deposit cash at a bank or store?
 
 @22E64 max=63
 JP: ＩＴＣ<n>ＡＴＭ<n>ＮＰＣ
@@ -2744,7 +2744,7 @@ EN: 7<n>9<n>Too many to count
 
 @2416C max=119
 JP: 織姫と彦星の言い伝えでは、<n>年に一度、二人が会えるのは元旦の朝である！
-EN: In the Tanabata legend, Orihime and Hikoboshi<n>can meet once a year, on New Year's morning!
+EN: Orihime and Hikoboshi meet once a year, on New Year's morning!
 
 @241E4 max=63
 JP: ○<n>×
@@ -2784,7 +2784,7 @@ EN: True<n>False
 
 @2452C max=119
 JP: 地球温暖化の原因は、主に、地球上をとりまく<n>温室効果ガスが減ってしまったことにある！
-EN: Global warming is mainly caused by a decrease<n>in greenhouse gases surrounding Earth!
+EN: Global warming is mainly caused by a drop in Earth's greenhouse gases!
 
 @245A4 max=63
 JP: ○<n>×
@@ -2816,7 +2816,7 @@ EN: True<n>False
 
 @2482C max=119
 JP: 気圧配置「西高東低」とは、<n>一般的に日本では冬によく見られる！
-EN: High pressure in the west and low pressure in the east<n>is a common winter weather pattern in Japan!
+EN: Japan often has high pressure west and low pressure east in winter!
 
 @248A4 max=63
 JP: ○<n>×
@@ -2960,7 +2960,7 @@ EN: Fedelini<n>Capellini<n>Spaghetti
 
 @255AC max=119
 JP: イギリスとフランスで共同開発した<n>超音速の旅客機の名前はなんという？
-EN: What was the supersonic passenger plane jointly developed by Britain and France called?
+EN: What supersonic airliner did Britain and France jointly develop?
 
 @25624 max=63
 JP: コンコルド<n>ボーイング<n>エアバス
@@ -4128,7 +4128,7 @@ EN: Won<n>Peso<n>Rupee
 
 @2C32C max=119
 JP: フェアの打球が外野でワンバウンドしてスタンドに<n>入ったとき、打者は何塁に行ける？
-EN: A fair ball bounces once in the outfield, then enters the stands.<n>Which base is the batter awarded?
+EN: A fair ball bounces once into the stands. What base does the batter get?
 
 @2C3A4 max=63
 JP: １塁<n>２塁<n>アウト
@@ -4192,7 +4192,7 @@ EN: Black<n>White<n>Yellow
 
 @2C92C max=119
 JP: ふつうＡ型の父親とＢ型の母親から<n>生まれない血液型は？
-EN: Which blood type is normally impossible for a child<n>with a type A father and a type B mother?
+EN: Which blood type can't normally result from type A and type B parents?
 
 @2C9A4 max=63
 JP: ない<n>Ｏ型<n>ＡＢ型
@@ -4456,7 +4456,7 @@ EN: Sacred water<n>Young water<n>Original water
 
 @2E1EC max=119
 JP: 既婚者が指輪をしているのは<n>向かって右手の左から２本目の指だ。
-EN: Married people wear a ring on the second finger from the left on the hand to your right when facing them!
+EN: Wedding rings go on the hand to your right, on its second finger from the left.
 
 @2E264 max=63
 JP: ○<n>×

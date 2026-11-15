@@ -156,7 +156,7 @@ EN: Sports Car
 
 @15134 max=359
 JP: いつでも話題の中心、集団のトッ<n>プを走りたいスポーツカー。短気<n>で、せっかちなのが玉にキズです。<n>思い立ったらすぐ行動。早とちり<n>も経験のうち、と、全然めげない<n>性格の持ち主です。ストレートな<n>告白にぐらっとくるタイプです。
-EN: Sports Cars love being the talk of the<n>town and leading the pack. Impatient<n>and quick-tempered, they act on every<n>whim. Jumping to conclusions is just<n>another lesson learned! Nothing keeps<n>them down for long. A direct confession<n>of love can make their hearts race.
+EN: Sports Cars crave the spotlight and first place. Rash and impatient, they act first and shrug off mistakes. A blunt confession of love can sweep them off their feet.
 
 @1529C max=359
 JP: 清掃車
@@ -164,7 +164,7 @@ EN: Garbage Truck
 
 @15404 max=359
 JP: 華やかなライトの下よりも、影で<n>そっとその実力を発揮する清掃車。<n>しかし、その実力は誰もが認める<n>ところでもあり、必ず理解者に恵<n>まれて引き立てられる人です。案<n>外、プレゼントなどに弱く、モノ<n>で口説かれると流されることも。
-EN: Garbage Trucks shine behind the scenes,<n>away from the spotlight. Their talents<n>are widely recognized, and they always<n>find someone who understands them and<n>helps them get ahead. Surprisingly soft<n>on gifts, they may let a generous suitor<n>buy their way into their hearts.
+EN: Garbage Trucks quietly shine behind the scenes. Their talents earn respect and support from those who see their worth. Presents may be the key to winning their hearts.
 
 @1556C max=359
 JP: タクシー
@@ -172,7 +172,7 @@ EN: Taxi
 
 @156D4 max=359
 JP: その場その場でいろいろな顔に変<n>身できるタクシー。なんでも器用<n>にこなすけれど、あきっぽい性格<n>がアダとなって、なかなか極める<n>ところまでいけないのが玉にキズ。<n>楽しいことが大好きで、恋の相手<n>にも、面白さを求めるタイプです。
-EN: Taxis can put on a different face to<n>suit any situation. They're good at<n>almost anything, but get bored too<n>easily to truly master a skill.<n>They love having fun, and look for<n>that same spark in a partner.<n>Win them over by keeping them amused!
+EN: Taxis adapt to any crowd and do most things well, but get bored before mastering them. They love fun and want a partner who keeps them entertained.
 
 @1583C max=359
 JP: トラック
@@ -180,7 +180,7 @@ EN: Truck
 
 @159A4 max=359
 JP: 人情に厚く、お人好し、頼まれる<n>といやとは言えないトラック。面<n>倒見が良く、甘えられると弱いの<n>で、気づくと恋人がいつも年下、<n>なんてことも。自分を頼る相手に<n>親身になる分、裏切りには厳しく<n>て案外、やきもち焼きなところも。
-EN: Warmhearted Trucks are generous souls<n>who just can't say no to a favor.<n>They love looking after others and<n>being needed, so often date younger<n>partners. They give their all to anyone<n>who relies on them, but take betrayal<n>hard and can be surprisingly jealous.
+EN: Kindhearted Trucks can't say no. They love being needed and often date younger partners. Loyal to those who rely on them, they take betrayal hard and can get jealous.
 
 @15B0C max=359
 JP: パトカー
@@ -188,7 +188,7 @@ EN: Police Car
 
 @15C74 max=359
 JP: 常にトップを目指す、正義感の強<n>いパトカー。周りに与える影響も<n>かなりのもので、このタイプがい<n>るだけで、パーティの雰囲気がガ<n>ラっと変わったりします。大胆に<n>迫られると弱いので、恋の相手は<n>いつも派手でドラマチックです。
-EN: Police Cars aim for the top and have<n>a strong sense of justice. They have<n>a huge influence on those around them.<n>Just having one at a party can change<n>the whole mood! Bold romantic advances<n>make them weak at the knees, so their<n>love lives are always flashy and dramatic.
+EN: Police Cars aim high and stand for justice. Their presence can change a whole party's mood! Bold advances win them over, leading to flashy, dramatic romances.
 
 @15DDC max=359
 JP: 消防車
@@ -196,7 +196,7 @@ EN: Fire Engine
 
 @15F44 max=359
 JP: 定時定刻、言われたことはきちん<n>とこなす消防車。根はやさしいの<n>ですが、ちゃんとしていない人を<n>見ると、ついつい批判してしまう<n>神経質なところもあります。気長<n>な口説きに弱いタイプで、友達か<n>ら恋人に発展することも多いです。
-EN: Fire Engines are punctual and do<n>exactly what's asked of them. They're<n>kind at heart, but their fussy streak<n>makes them criticize anyone who fails<n>to measure up. Patient courtship wins<n>them over, and their friendships often<n>blossom into romance.
+EN: Fire Engines are punctual and dutiful. Kind but fussy, they tend to criticize slackers. Patient wooing wins them over, so friendships often blossom into romance.
 
 @160AC max=359
 JP: ショベルカー
@@ -204,7 +204,7 @@ EN: Excavator
 
 @16214 max=359
 JP: どんな現場でもすいすい働くショ<n>ベルカー。平和主義者で、社交的、<n>わかる人にはわかる実力の持ち主。<n>どっしりとバランスよく世の中を<n>渡っていく堅実派でもあります。<n>人からの信頼も厚く、友情にも愛<n>情にも恵まれるタイプ。
-EN: Excavators work smoothly on any job.<n>Sociable peace lovers, they have talents<n>that a discerning eye will recognize.<n>Practical and steady, they navigate<n>life with a fine sense of balance.<n>Others trust them deeply, and they're<n>blessed in both friendship and love.
+EN: Excavators handle any job with ease. Sociable and peace-loving, their quiet talent wins respect. Steady and trusted, they're blessed with friendship and love.
 
 @1637C max=359
 JP: 人力車
@@ -212,7 +212,7 @@ EN: Rickshaw
 
 @164E4 max=359
 JP: 根性たっぷり、気合もがっちり、<n>目的を絞ると、底力が出る人力車。<n>自分が案外現実的なせいか、神秘<n>的なものに弱く、ムードたっぷり<n>に口説かれると流されてしまうこ<n>とも。けっこう執念深いので、一<n>度はまるとかなり長い付き合いに。
-EN: Rickshaws have grit and spirit to spare.<n>Give them a clear goal, and their hidden<n>strength shines. Perhaps because they're<n>so practical, mystery fascinates them.<n>A romantic mood can sweep them away.<n>They're tenacious, too: once hooked,<n>they tend to stick around for years.
+EN: Rickshaws have grit and thrive on clear goals. Practical yet drawn to mystery, they can be swept away by romance. Once hooked, they stick around for years.
 
 @1664C max=359
 JP: キャンピングカー
@@ -220,7 +220,7 @@ EN: Camper Van
 
 @167B4 max=359
 JP: 楽しいことが一番、というキャン<n>ピングカー。毎日、何をして楽し<n>もう、と考えて人生を送るタイプ。<n>自分がいやになると即座に逃げて<n>しまう性格でもあるので、なかな<n>か長く深い付き合いに発展しない<n>ところが欠点でもあります。
-EN: For Camper Vans, fun comes first!<n>They spend every day dreaming up<n>new ways to enjoy themselves.<n>The trouble is, the moment something<n>stops suiting them, they're off!<n>That urge to flee makes it hard to<n>build deep, lasting relationships.
+EN: Camper Vans live for fun, always dreaming up ways to enjoy the day. But as soon as things stop suiting them, they flee, making deep, lasting bonds hard to build.
 
 @1691C max=359
 JP: 馬車
@@ -228,7 +228,7 @@ EN: Horse-Drawn Carriage
 
 @16A84 max=359
 JP: 一見、ネクラな雰囲気なのに、実<n>は影の実力者、という隠れた大物、<n>それが馬車です。地味と言われる<n>ことが多いのですが、それは、あ<n>くまでイメージだけ。このタイプ<n>には誰にも負けない実力が備わっ<n>ています。
-EN: Carriages may seem gloomy at first,<n>but they're secret powerhouses,<n>quietly pulling strings behind the<n>scenes. People often call them plain,<n>but that's only an impression.<n>Beneath that modest exterior lies<n>talent that no one else can match.
+EN: Carriages may seem gloomy or plain, but looks deceive. Behind that quiet facade is a hidden powerhouse, with talent no one else can match.
 
 @16BEC max=359
 JP: バス
@@ -236,7 +236,7 @@ EN: Bus
 
 @16D54 max=359
 JP: 仕事でも恋でも、さまざまな路線<n>が頭に入っているバス。そのため、<n>計画優先で実行が伴わないことも<n>しばしば。感情的になることが苦<n>手で、恋の相手にも常に冷静さを<n>求めてしまいます。友人には恵ま<n>れますが恋は発展しにくい方です。
-EN: Buses know every route through work<n>and romance. But they can get so busy<n>planning that they never take action.<n>They struggle with strong emotions and<n>expect partners to stay calm at all<n>times, too. Friends are easy to find,<n>but romance often struggles to get going.
+EN: Buses map out work and love, but plan more than they act. Uneasy with emotion, they want calm partners. Friends come easily; romance is harder.
 
 @16EBC max=359
 JP: トラクター
@@ -244,4 +244,4 @@ EN: Tractor
 
 @17024 max=359
 JP: 気は優しくて力持ち、損して得を<n>取るタイプのトラクター。見かけ<n>と違って中身は案外ロマンチスト<n>なので、いつもでっかい夢を追っ<n>ているような人です。自分が個性<n>的なので、恋の相手にも普通とは<n>違う特徴を求める人です。
-EN: Strong but gentle, Tractors will take<n>a small loss for a bigger gain later.<n>Despite appearances, they're romantics<n>at heart, always chasing some grand<n>dream. They're unique characters,<n>and want a partner with something<n>equally out of the ordinary.
+EN: Strong, kind Tractors take small losses for bigger gains. Romantics at heart, they chase big dreams. Unique themselves, they seek unusual partners.

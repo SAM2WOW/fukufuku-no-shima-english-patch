@@ -156,7 +156,7 @@ EN: Indian Cuisine
 
 @15134 max=359
 JP: 脳まで刺激する香辛料、なのに薬<n>膳効果もあって実は身体にやさし<n>い、そんなインド料理タイプ。鋭<n>い切れ味、なのにさらっとしてい<n>て、バリエーションも次々と変わ<n>る、冒険心にあふれたインドカレ<n>ーのような人、それがあなたです。
-EN: You're the Indian food type:<n>spices that wake up your brain,<n>yet nourish your body, too.<n>Like an Indian curry, you're<n>sharp but light, full of variety<n>and always changing things up.<n>You have a real taste for adventure!
+EN: You're the Indian food type! Your spices wake the mind and nourish the body. Like Indian curry, you're sharp yet light, full of variety and hungry for adventure.
 
 @1529C max=359
 JP: ロシア料理
@@ -164,7 +164,7 @@ EN: Russian Cuisine
 
 @15404 max=359
 JP: じっくり煮こんで素材の旨みを引<n>き出したり、見えないところに手<n>がかかっていたり。地味に見えて、<n>実はとても高い水準を保つ味、そ<n>んなロシア料理タイプ。身体を温<n>めるボルシチ、素朴に見えて味わ<n>い深い黒パンのような人です。
-EN: You're the Russian food type:<n>slowly simmered to bring out flavor,<n>with care hidden in every detail.<n>You may seem modest, but your<n>standards are impressively high.<n>Like warming borscht or dark bread,<n>your simple exterior hides real depth.
+EN: You're the Russian food type! Slow cooking and hidden care give you quiet quality. Like warming borscht or hearty dark bread, your simple looks hide rich depths.
 
 @1556C max=359
 JP: イタリア料理
@@ -172,7 +172,7 @@ EN: Italian Cuisine
 
 @156D4 max=359
 JP: にぎやかで華やか。バラエティに<n>富んだ楽しい食卓、色とりどりの<n>料理、そんなイタリア料理タイプ。<n>次々と新しい素材、新しい味と変<n>化していき、楽しくなければ食事<n>じゃない、というピザやパスタの<n>ように変化や冒険を好む人です。
-EN: You're the Italian food type:<n>lively, colorful and full of variety!<n>New ingredients and flavors keep<n>finding their way to your table.<n>Like pizza and pasta, you embrace<n>change and adventure. After all,<n>what's a meal if it isn't fun?
+EN: You're the Italian food type! Lively, colorful and full of variety, you love fresh flavors and adventure. Like pizza and pasta, you prove food should be fun!
 
 @1583C max=359
 JP: タイ料理
@@ -180,7 +180,7 @@ EN: Thai Cuisine
 
 @159A4 max=359
 JP: 甘くてすっぱくて辛い。ひとつの<n>料理にあらゆる味わいの入った、<n>複雑で、旨みあふれるタイ料理、<n>それがあなたのタイプです。どん<n>な強い味にも負けないしっかりと<n>した芯の強さがあるトムヤムクン<n>のような人です。
-EN: Sweet, sour and spicy!<n>You're the Thai food type,<n>with a whole world of flavors<n>in one rich, complex dish.<n>Like tom yum goong, you have<n>a strong core that holds its own<n>against even the boldest flavors.
+EN: You're the Thai food type! Sweet, sour and spicy, you're rich and complex. Like tom yum goong, you have an inner strength that holds its own amid bold flavors.
 
 @15B0C max=359
 JP: メキシコ料理
@@ -188,7 +188,7 @@ EN: Mexican Cuisine
 
 @15C74 max=359
 JP: 食は遊び、楽しい生活の重要なパ<n>ートナー。手軽でおやつ感覚、な<n>のに、実は手間がかかっていて、<n>旨みも凝縮されているメキシコ料<n>理、それがあなたのタイプです。<n>ぴりりときいた香辛料が刺激的な<n>タコスのような人なのです。
-EN: You're the Mexican food type:<n>food is fun, and fun is part of life!<n>Casual enough for a quick snack,<n>yet full of care and rich flavor,<n>there's more to you than meets the eye.<n>Like a taco with a kick of spice,<n>you know how to liven things up!
+EN: You're the Mexican food type! Food makes life fun. You seem casual, yet hide much care and rich flavor. Like a spicy taco, you've got an exciting kick!
 
 @15DDC max=359
 JP: 日本料理
@@ -196,7 +196,7 @@ EN: Japanese Cuisine
 
 @15F44 max=359
 JP: 整然とした懐石料理があるかと思<n>えば、ちゃんこのような混沌とし<n>た鍋もある、そんな日本料理タイ<n>プ。細かいところまで気配り、こ<n>だわりが届いているのに、思い切<n>った調理法で魅せるテンプラのよ<n>うな、繊細かつ大胆な人です。
-EN: You're the Japanese food type:<n>from elegant kaiseki courses<n>to a glorious jumble of chanko stew.<n>You care about every tiny detail,<n>yet know how to make a bold splash.<n>Like tempura, your delicate touch<n>goes hand in hand with daring flair.
+EN: You're the Japanese food type, from neat kaiseki to jumbled chanko stew! Like tempura, you blend care for tiny details with bold flair. Delicate yet daring!
 
 @160AC max=359
 JP: ドイツ料理
@@ -204,7 +204,7 @@ EN: German Cuisine
 
 @16214 max=359
 JP: 手間ひまかけた深い味わい、食通<n>をうならせる旨みの宝庫。季節を<n>待ってじっくりと保存がきき、な<n>おかつ、その旨みを損なわないし<n>っかりとしたドイツ料理タイプ。<n>シンプルなのに、どんな料理にも<n>合うソーセージのような人です。
-EN: You're the German food type:<n>time and care create deep flavors<n>that win over even the finest palates.<n>Steady and patient, you preserve<n>what's good through every season.<n>Like a sausage, you're simple,<n>reliable and at home with any dish.
+EN: You're the German food type! Time and care create deep flavors that keep through the seasons. Like a sausage, you're simple, dependable and go well with any dish.
 
 @1637C max=359
 JP: 中国料理
@@ -212,7 +212,7 @@ EN: Chinese Cuisine
 
 @164E4 max=359
 JP: 世界のあらゆる国で食することが<n>でき、どの国でもその本質を変え<n>ないこだわりと情熱を持った料理、<n>そんな中国料理タイプ。例えどん<n>な状況で食べても、おいしいと感<n>じさせる、中華麺のようなしっか<n>りとした存在。それがあなたです。
-EN: You're the Chinese food type:<n>at home in countries worldwide,<n>yet always true to your roots.<n>Your passion and principles endure<n>wherever life happens to take you.<n>Like Chinese noodles, you're a trusty<n>favorite, delicious in any setting.
+EN: You're the Chinese food type! Loved worldwide yet true to your roots, you stand firm with passion and pride. Like Chinese noodles, you're a treat in any setting.
 
 @1664C max=359
 JP: 韓国料理
@@ -220,7 +220,7 @@ EN: Korean Cuisine
 
 @167B4 max=359
 JP: きりっと辛口、狙ったものは外さ<n>ない。あいまいさがない厳しい味、<n>自信に満ち溢れて堂々とした韓国<n>料理があなたのタイプ。主張がは<n>っきりしているのに、どんな素材<n>の旨みも引き出すキムチのように、<n>自分をつらぬける人です。
-EN: You're the Korean food type:<n>bold, spicy and right on target.<n>No wishy-washy flavors here!<n>You stand tall, brimming with confidence.<n>Like kimchi, your strong character<n>brings out the best in other ingredients<n>while staying utterly true to itself.
+EN: You're the Korean food type! Bold, spicy and sure of your aim, you radiate confidence. Like kimchi, you bring out the best in others while staying true to yourself.
 
 @1691C max=359
 JP: フランス料理
@@ -228,7 +228,7 @@ EN: French Cuisine
 
 @16A84 max=359
 JP: 王道の落ち着き、価値ある素材。<n>磨かれてよりおいしくなり、いつ<n>でもトップを目指し向上している<n>こびない味、そんなフランス料理<n>があなたのタイプ。じっくりと楽<n>しむフルコース、芳醇なワインの<n>香りのような人です。
-EN: You're the French food type:<n>classic poise and fine ingredients,<n>polished to ever greater heights.<n>You aim for the top on your own terms.<n>Like a full-course meal savored slowly<n>or the rich bouquet of a fine wine,<n>you're someone to truly appreciate.
+EN: You're the French food type! Poised and refined, you keep aiming higher on your own terms. Like a fine full-course meal or fragrant wine, you're worth savoring.
 
 @16BEC max=359
 JP: トルコ料理
@@ -236,7 +236,7 @@ EN: Turkish Cuisine
 
 @16D54 max=359
 JP: 独創的で、刺激的、けっしてマネ<n>ではあり得ない。独特の香辛料な<n>のに、他者を拒絶することなく受<n>け入れる、そんなトルコ料理があ<n>なたのタイプ。見た目のダイナミ<n>ックさと、刺激的な味が素晴しい<n>シシケバブのような人です。
-EN: You're the Turkish food type:<n>original, exciting and no imitation!<n>Your distinctive blend of spices<n>welcomes others instead of shutting<n>them out. Like a shish kebab,<n>your striking appearance and bold flavor<n>make an unforgettable combination.
+EN: You're the Turkish food type: bold, original and welcoming. Like a shish kebab, your striking looks and spicy flair make quite an impression!
 
 @16EBC max=359
 JP: ベトナム料理
@@ -244,4 +244,4 @@ EN: Vietnamese Cuisine
 
 @17024 max=359
 JP: デリケートで繊細、ロマンチスト<n>で感情豊か。個性的なのにやさし<n>い味、多くの人に支持されるのに、<n>こびているわけではない、そんな<n>ベトナム料理があなたのタイプ。<n>さっぱりなのに、あとを引く、生<n>春巻きみたいな自然派です。
-EN: You're the Vietnamese food type:<n>delicate, sensitive and romantic,<n>with a rich emotional world.<n>Your gentle but distinctive flavor<n>wins fans without trying to please.<n>Like a fresh spring roll, you're natural,<n>refreshing and leave people wanting more.
+EN: You're the Vietnamese food type: sensitive, romantic and gently unique. You win hearts without pandering. Like a fresh spring roll, you're natural, light and moreish!

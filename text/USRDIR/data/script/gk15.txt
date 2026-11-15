@@ -156,7 +156,7 @@ EN: Princess Kaguya
 
 @15134 max=359
 JP: 頭が良く、クールで、常に客観的<n>に物事を判断できるかぐや姫タイ<n>プ。その場だけの雰囲気におぼれ<n>ることなく、苦労があってもひと<n>つひとつ乗り越えていかれる努力<n>家です。意外にユーモラスな一面<n>もあり異性からも好かれます。
-EN: You're a Princess Kaguya type: clever, cool, and always able to judge things objectively. You don't get swept up in the mood of the moment. A hard worker, you overcome obstacles one by one. Your surprisingly funny side also makes you popular with the opposite sex.
+EN: A Princess Kaguya type: clever, cool and objective. You resist passing moods and work through each trial. Your hidden sense of humor wins hearts.
 
 @1529C max=359
 JP: 鶴の恩返し
@@ -164,7 +164,7 @@ EN: The Grateful Crane
 
 @15404 max=359
 JP: 芯が強く、努力家、温かく優しい<n>つうタイプ。奉仕精神に富み、誰<n>かを助けながら生きていくことで<n>自分も幸せになる人です。このタ<n>イプの人が、困った人やつらい人<n>にもたらす癒し効果は抜群で、そ<n>のやさしさゆえ恋が始まることも。
-EN: You're a Tsu type, like the heroine of The Grateful Crane: strong at heart, hardworking, warm, and kind. Helping others brings you happiness, too. Your generous spirit has a remarkable gift for soothing people in trouble or pain. That kindness may even spark a romance.
+EN: Like Tsu, the grateful crane, you're strong, hardworking and kind. Helping others brings you joy. Your warmth soothes troubled hearts and may even spark romance.
 
 @1556C max=359
 JP: 人魚姫
@@ -172,7 +172,7 @@ EN: The Little Mermaid
 
 @156D4 max=359
 JP: あれこれ悩まず、爽やかで元気な<n>人魚姫タイプ。おしゃべりで移り<n>気なところもありますが、人を蹴<n>落としたりせずに成長でき、若い<n>うちから社会に飛び出しても成功<n>する人。思いのほか情熱的で一途<n>なところがとても魅力的です。
-EN: You're a Little Mermaid type: bright, lively, and free of needless worries. You can be chatty and fickle, but you get ahead without stepping on others. Even if you strike out into the world young, you can succeed. Your surprising passion and devotion are a big part of your charm.
+EN: A Little Mermaid type: breezy, lively, chatty and fickle. You can succeed young without stepping on others. Your surprising passion and devotion make you charming.
 
 @1583C max=359
 JP: シンデレラ
@@ -180,7 +180,7 @@ EN: Cinderella
 
 @159A4 max=359
 JP: 社交的で明るく、誰かを恨んだり<n>妬んだりすることがない、穏やか<n>なシンデレラ。若くして成功を収<n>め、変な高望みをしなければ、黙<n>っていても幸運が舞い込みます。<n>要領が良すぎるところがあるので、<n>こじんまりしてしまう場合も。
-EN: You're a Cinderella type: sociable, cheerful, and easygoing, with no room for grudges or envy. Success comes early, and luck falls into your lap if you keep your ambitions realistic. Still, your knack for getting by with little effort can keep you from reaching your full potential.
+EN: A Cinderella type: friendly, sunny and free of envy. Success comes young; luck follows if you aim sensibly. But coasting on your cleverness may limit your potential.
 
 @15B0C max=359
 JP: マッチ売りの少女
@@ -188,7 +188,7 @@ EN: The Little Match Girl
 
 @15C74 max=359
 JP: こつこつとまじめな努力家で、内<n>面はとてもナイーブなマッチ売り<n>の少女タイプ。波乱に富んだ人生<n>を送りますが、融通が利かないと<n>ころを直していくことで、運気が<n>開きます。子供のような感性と一<n>途さが異性を惹きつける魅力です。
-EN: You're a Little Match Girl type: a steady, earnest worker with a deeply sensitive heart. Life has plenty of ups and downs in store, but learning to be more flexible will improve your luck. Your childlike outlook and wholehearted devotion make you especially appealing to the opposite sex.
+EN: A Little Match Girl type: diligent and sensitive. Life has its ups and downs, but flexibility brings luck. Your childlike spirit and devotion win hearts.
 
 @15DDC max=359
 JP: 赤ずきん
@@ -196,7 +196,7 @@ EN: Little Red Riding Hood
 
 @15F44 max=359
 JP: ちょっと天然、でも人情に厚く、<n>頼まれるといやとはいえない赤ず<n>きんタイプ。見かけによらず、激<n>しい人生を歩む人も多く、苦労も<n>多いですが、必ず挽回できる力を<n>持っています。好きな相手には率<n>直に心を打ち明けられる人です。
-EN: You're a Little Red Riding Hood type: a little clueless, but warmhearted and unable to say no to a favor. Despite appearances, many of your type lead turbulent lives with plenty of hardship. Still, you always have the strength to bounce back. You're also able to tell someone you like exactly how you feel.
+EN: A Red Riding Hood type: a bit spacey, kind and unable to refuse a favor. Life can be rough, but you always bounce back. You're frank about your feelings in love.
 
 @160AC max=359
 JP: アリス
@@ -204,7 +204,7 @@ EN: Alice
 
 @16214 max=359
 JP: 愛嬌があり、常に周囲を楽しませ<n>ることができるアリスタイプ。<n>いつまでも若々しく、サービス精<n>神旺盛で、誰からも好かれる人で<n>す。若いときは細々とした苦労も<n>ありますが、年を取るにつれて落<n>ち着き、幸せな晩年を過ごせます。
-EN: You're an Alice type: charming and always able to keep everyone entertained. Forever young at heart and eager to please, you're liked by all. You may face a string of little troubles in your youth, but life settles down as you grow older, with happy later years ahead.
+EN: An Alice type: charming, young at heart and eager to entertain. Everyone likes you! Early life has its little troubles, but things settle down into happy later years.
 
 @1637C max=359
 JP: 眠れる森の美女
@@ -212,7 +212,7 @@ EN: Sleeping Beauty
 
 @164E4 max=359
 JP: 特定の相手から長く、ゆっくり愛<n>される、眠りの森の美女タイプ。<n>忍耐強く、相手を欠点ごと愛せる<n>包容力のある人です。年を重ねる<n>ごとにその魅力が増していき、や<n>がて大輪の花のように美しく咲き<n>誇る晩成型でもあります。
-EN: You're a Sleeping Beauty type, whose lasting love with one special person grows slowly over time. Patient and accepting, you can love someone flaws and all. You're a late bloomer whose charm deepens with age, until you blossom like a magnificent flower.
+EN: A Sleeping Beauty type: one special person's love for you grows slowly and lasts. Patient, you love them flaws and all. A late bloomer, your charm blossoms with age.
 
 @1664C max=359
 JP: 白雪姫
@@ -220,4 +220,4 @@ EN: Snow White
 
 @167B4 max=359
 JP: 焦がれても手に届かないような雰<n>囲気を秘めた白雪姫タイプ。外見<n>とは裏腹なその感情の激しさ、早<n>熟さが異性を惹きつける魅力にな<n>っています。多少、情緒不安定な<n>ところがあり、それが悪く出ると<n>道ならぬ恋に走ることも。
-EN: You're a Snow White type, with an air of being forever just out of reach. Beneath that exterior, your intense emotions and maturity beyond your years draw the opposite sex to you. You can be a little emotionally unstable, though. If that gets the better of you, you may fall into a forbidden romance.
+EN: A Snow White type: alluring yet out of reach. Hidden passion and early maturity win hearts. But emotional ups and downs may lead you into forbidden love.

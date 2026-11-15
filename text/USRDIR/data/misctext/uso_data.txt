@@ -128,7 +128,7 @@ EN: Try a scruffy, defeated-samurai hairdo for luck.
 
 @#31
 JP: 「いくつだと思う？」と聞く人<n>の歳を不思議にわかる一日。
-EN: When someone asks, "How old do you think I am?"<n>you'll mysteriously know the answer today.
+EN: Asked to guess someone's age? Today, you'll just know.
 
 @#32
 JP: 「なんか今日は血色がいいねぇ。」って<n>言われるだろう。
@@ -184,7 +184,7 @@ EN: Your sweetheart will look extra dreamy today.
 
 @#45
 JP: コーヒーにニガリを入れるような<n>冒険心が必要な一日。
-EN: Today calls for an adventurous spirit.<n>The kind that puts tofu-making salts in coffee.
+EN: Be bold today, like adding tofu salts to your coffee.
 
 @#46
 JP: コンビニ弁当でのご飯が吉。
@@ -312,7 +312,7 @@ EN: Wear your pajamas inside out tonight<n>for sweet dreams.
 
 @#77
 JP: 三流でなにが悪いと<n>開き直る気持ちも大事。
-EN: Sometimes you need to stand tall and say,<n>"Third-rate? What's wrong with that?"
+EN: Sometimes, own it: "Third-rate? So what?"
 
 @#78
 JP: 先に謝っておこう。
@@ -776,7 +776,7 @@ EN: Declare today Fried Rice Day.
 
 @#193
 JP: 今日割れた食器は、<n>昨日割れるはずだった食器だと思うべし。
-EN: Think of any dishes you break today<n>as dishes that were meant to break yesterday.
+EN: Tell yourself today's broken dishes were due to break yesterday.
 
 @#194
 JP: 今日捨てるとあとで必ず後悔する。
@@ -960,7 +960,7 @@ EN: Insist on getting your money's worth today.
 
 @#239
 JP: 今日はだれのであろうと、<n>爪のアカを煎じて飲むようなことはダメ。
-EN: Don't drink anyone's boiled nail dirt today,<n>even if you hope their greatness will rub off.
+EN: No drinking boiled nail dirt today, no matter whose it is!
 
 @#240
 JP: 今日はつり革に小指だけでつかまること。
@@ -1028,7 +1028,7 @@ EN: One cup of tea before heading out is bad luck.<n>Have another before you go.
 
 @#256
 JP: 粉茶を飲んでるような人生じゃ<n>茶柱は立たない。
-EN: No lucky tea stalk will stand upright in your cup<n>if you spend your life drinking powdered tea.
+EN: A life of powdered tea has no lucky upright tea stalks.
 
 @#257
 JP: 萌えの一日となるだろう。
@@ -1052,7 +1052,7 @@ EN: Someone will say,<n>"You make such a weird face when you sneeze."
 
 @#262
 JP: 「怪しいものではありません」という<n>怪しい人に遭遇する可能性大。
-EN: You'll probably meet someone suspicious<n>who insists, "I'm not suspicious at all."
+EN: Expect a shady type who says, "I'm not shady!"
 
 @#263
 JP: 「顔文字に似てる」って<n>言われるだろう。
@@ -1220,7 +1220,7 @@ EN: You'll hear "You're still here?" twice today.
 
 @#304
 JP: 今日は「雨降って地かたまる」ことを<n>確信する一日になる。
-EN: Today will convince you that a little trouble<n>can leave things on firmer ground.
+EN: Today proves that storms can leave you on firmer ground.
 
 @#305
 JP: 今日は好きなことをやる時間が<n>なかなか持てないだろう。
@@ -1272,7 +1272,7 @@ EN: Someone will tell you<n>your smile looks like a chicken's.
 
 @#317
 JP: 切手をなめた舌で<n>他人のソフトクリームをなめるな。
-EN: Don't lick someone else's soft-serve ice cream<n>with the tongue you just used to lick a stamp.
+EN: Licked a stamp? Keep that tongue off other people's soft-serve.
 
 @#318
 JP: 爪の間に土が入る。
@@ -1344,7 +1344,7 @@ EN: A three-minute speech or a five-minute test.<n>One of them awaits you today.
 
 @#335
 JP: あんな人がスキだった自分を<n>消してしまいたいと思うことだろう。
-EN: You'll wish you could erase the fact<n>that you ever had a crush on someone like that.
+EN: You'll wish you could erase your old crush on someone like that.
 
 @#336
 JP: 今頭を悩ましているその問題、<n>それは今日やんなきゃダメなこと？
@@ -1388,7 +1388,7 @@ EN: You'll hiccup 98 times.
 
 @#346
 JP: そろそろ足を洗った方がよさそうな事は、<n>今日足を洗うように。
-EN: If there's something you ought to wash your hands of,<n>make today the day you do it.
+EN: Been meaning to quit a bad habit? Do it today.
 
 @#347
 JP: ダマされやすい一日になるので、要注意。
@@ -1424,7 +1424,7 @@ EN: Splitting the bill today will leave you out of pocket.
 
 @#355
 JP: 今日の間違いメールは、<n>間違ったふりをしてるだけだ。
-EN: That email sent to you "by mistake" today?<n>The sender only wants you to think it was a mistake.
+EN: Today's email sent "by mistake" is no mistake.
 
 @#356
 JP: 今日の居留守はバレている。
@@ -1476,7 +1476,7 @@ EN: The pen by the phone will run out of ink.
 
 @#368
 JP: 「猫背で猫舌で猫ッ毛なのぉ～」って、<n>猫なで声を出す人に要注意。
-EN: Beware anyone who purrs, "I have a cat's slouch,<n>hate hot food and have kitten-soft hair!"
+EN: Beware anyone purring about their many catlike quirks.
 
 @#369
 JP: 立ち読みを注意される日になる。
@@ -1564,7 +1564,7 @@ EN: Your nose is prone to acting up. Take care.
 
 @#390
 JP: 風呂上がりの自分の顔が、<n>親に似てると感じるだろう。
-EN: You'll look in the mirror after a bath<n>and see one of your parents staring back.
+EN: After a bath, you'll think you look like your parents.
 
 @#391
 JP: 「ありえない。」と何度も思う<n>一日になるだろう。

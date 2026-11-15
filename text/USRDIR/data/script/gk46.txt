@@ -156,7 +156,7 @@ EN: Treble Clef
 
 @15134 max=359
 JP: 気が付くと、なぜかグループの中<n>心で物事を仕切っている、そんな<n>ことが多くありませんか？責任感<n>が強く、調整能力も高いあなたは、<n>ト音記号タイプです。ときどき、<n>ぽかっとミスをして信頼を裏切ら<n>ないように注意が必要です。
-EN: Do you often find yourself at the center of your group, running the show before you know it? You're a Treble Clef type! With your strong sense of responsibility and knack for coordinating people, others count on you. Just watch out for the occasional careless blunder that could shake their trust.
+EN: You're a Treble Clef type! You often end up leading the group. Responsible and good at keeping everyone in tune, you earn trust. Don't let careless mistakes spoil it.
 
 @1529C max=359
 JP: シャープ
@@ -164,7 +164,7 @@ EN: Sharp
 
 @15404 max=359
 JP: シャープタイプ。じっとしている<n>のが苦手で、いつもパワー全開。<n>テンションは大抵、半音上がり気<n>味。元気なときはいいけど、頑張<n>りすぎて燃料切れにならないよう<n>に注意。たまには、立ち止まって<n>じっくり考える時間を持って。
-EN: You're a Sharp type! Sitting still isn't your thing. You're always at full power, with your excitement pitched a semitone higher than most. That's great when you're feeling good, but don't push so hard that you run out of fuel. Now and then, stop and give yourself time to think things through.
+EN: You're a Sharp type! Always on the go, your mood runs a semitone high. All that energy is great, but don't burn out. Pause now and then to think things through.
 
 @1556C max=359
 JP: フェルマータ
@@ -172,7 +172,7 @@ EN: Fermata
 
 @156D4 max=359
 JP: なんとなくその場のムードをほの<n>ぼのとさせる存在のあなたは、フ<n>ェルマータタイプ。包容力がある<n>ので、友人たちも安心してリラッ<n>クスできるみたい。物事には慎重<n>に取り組むので失敗は少ないけど、<n>ときには勇気を出して！
-EN: You have a way of making any gathering feel warm and cozy. You're a Fermata type! Your accepting nature helps your friends feel safe and relaxed around you. You approach things carefully, so you rarely slip up. Still, sometimes you need to take a deep breath and be brave!
+EN: You're a Fermata type! Your warm, accepting nature puts friends at ease. You're careful, so you rarely slip up. Now and then, though, dare to be brave!
 
 @1583C max=359
 JP: 全休符
@@ -180,7 +180,7 @@ EN: Whole Rest
 
 @159A4 max=359
 JP: あなたは、常にマイペースを心が<n>ける全休符タイプ。迷ったら、立<n>ち止まって納得がいくまで考える<n>方ですね？熱き情熱も、周囲の友<n>人には頑固に映ったり、押し付け<n>がましく見えたりすることもある<n>ということを、心の隅に置いて。
-EN: You're a Whole Rest type, always moving at your own pace. When in doubt, you stop and think until you're satisfied, don't you? Just keep in mind that what feels like burning passion to you can sometimes look like stubbornness to your friends, or feel as if you're forcing your views on them.
+EN: You're a Whole Rest type! You move at your own pace and ponder doubts until satisfied. Remember, your passion can seem stubborn or pushy to your friends.
 
 @15B0C max=359
 JP: フラット
@@ -188,7 +188,7 @@ EN: Flat
 
 @15C74 max=359
 JP: バランス感覚にすぐれたあなたは、<n>フラットタイプ。仲間意識が強く、<n>浮ついた行動はしないので、グル<n>ープの信頼も厚いはず。ただし、<n>仲間じゃない人には意外とクール<n>な態度をとっているかも。他人の<n>目を気にしすぎないように。
-EN: With your excellent sense of balance, you're a Flat type! You're loyal to your friends and keep your feet on the ground, so your group probably trusts you deeply. Still, you may be surprisingly chilly toward anyone outside your circle. Try not to worry too much about what others think.
+EN: You're a Flat type! Loyal and levelheaded, you earn your group's trust. You may seem chilly to outsiders, though. Don't worry so much about what others think.
 
 @15DDC max=359
 JP: 音符
@@ -196,7 +196,7 @@ EN: Musical Note
 
 @15F44 max=359
 JP: あなたは、音楽やリズムを体現す<n>る音符タイプ。ＴＰＯにあわせて<n>行動できるフレキシビリティがウ<n>リ。ファッションや人気スポット<n>にも詳しい情報通でもあります。<n>人見知りしないのはいいことだけ<n>ど、信じすぎてだまされないで！
-EN: You're a Musical Note type, with music and rhythm in your soul! Your strength is your flexibility: you know how to act to suit the occasion. You're also in the know about fashion and popular hangouts. Being friendly with strangers is great, but don't be so trusting that someone takes you for a ride!
+EN: You're a Musical Note type! Full of rhythm, you adapt to any occasion and know the latest trends and hangouts. You make friends easily, but don't be too quick to trust!
 
 @160AC max=359
 JP: クレッシェンド
@@ -204,4 +204,4 @@ EN: Crescendo
 
 @16214 max=359
 JP: 全てのことに前向きで、これと思<n>ったら、わき目も振らずに突進す<n>る傾向があるあなたは、クレッシ<n>ェンドタイプ。文字通り、だんだ<n>んと強く行動に拍車がかかるタイ<n>プ。強すぎる正義感が、友達との<n>口喧嘩になりやすいので注意。
-EN: You're a Crescendo type! You approach everything positively, and once you set your sights on something, you charge ahead without a glance sideways. Just like a crescendo, you grow stronger and gather momentum as you go. Watch that fierce sense of justice, though. It can easily lead to arguments with friends.
+EN: You're a Crescendo type! Upbeat and focused, you charge toward your goals, gaining force as you go. Watch that fierce sense of justice: it can spark rows with friends.

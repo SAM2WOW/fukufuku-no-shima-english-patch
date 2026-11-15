@@ -156,7 +156,7 @@ EN: Submarine
 
 @15134 max=359
 JP: すべて自分の思い通りに、自分は<n>特別な存在、そんな考え方を貫い<n>ているあなたは潜水艦タイプです。<n>やりたくないことは、絶対にやろ<n>うとしませんし、プライドも高い。<n>海中深くから頭を出そう、と決断<n>できたときがあなたの転機です。
-EN: You're the submarine type: you want<n>everything your way and believe you're<n>someone special. Proud and stubborn,<n>you refuse to do anything you dislike.<n>Your turning point will come when you<n>decide to rise from the depths and<n>show yourself to the world.
+EN: Submarine type: proud and set on having your way. You feel special and refuse tasks you dislike. Your turning point comes when you choose to rise from the depths.
 
 @1529C max=359
 JP: ささぶね
@@ -164,7 +164,7 @@ EN: Leaf Boat
 
 @15404 max=359
 JP: 風と共に漂い、芸術を愛する、そ<n>んなささぶねタイプのあなた。世<n>の中の神秘的なこと、不思議なこ<n>とを否定せず受け入れ、自分の感<n>情に素直に生きてゆける人です。<n>決断に時間がかかるのが難点で、<n>優柔不断もほどほどに。
-EN: You're the leaf boat type: drifting<n>with the breeze, with a love of art.<n>You embrace life's mysteries and<n>wonders, and stay true to your feelings.<n>The catch? You take ages to make up<n>your mind. A little indecision is fine,<n>but don't let it leave you stranded!
+EN: Leaf boat type: an art lover who drifts with the breeze. You welcome mysteries and follow your feelings. Just don't take forever to make up your mind!
 
 @1556C max=359
 JP: ボート
@@ -172,7 +172,7 @@ EN: Rowboat
 
 @156D4 max=359
 JP: 楽天的で、前向き、あまり物事を<n>重く考えないボートタイプのあな<n>た。とにかく行動ありき、で問題<n>を解決していくフットワークの軽<n>さが長所です。ただ、自分の理解<n>のはんちゅうを超えてしまった時<n>に妙に臆病になる一面もあります。
-EN: You're the rowboat type: upbeat,<n>optimistic, and not one to dwell on<n>problems. You jump into action and<n>solve things as you go. Your quick<n>response is a real strength! Still,<n>when something is beyond your grasp,<n>you can turn surprisingly timid.
+EN: Rowboat type: upbeat and carefree. You leap into action, solving problems as you go. Being quick to act is your strength, but things beyond your grasp can make you timid.
 
 @1583C max=359
 JP: ヨット
@@ -180,7 +180,7 @@ EN: Yacht
 
 @159A4 max=359
 JP: 決まりごとをきちんと守る保守的<n>なあなたはヨットタイプ。一見、<n>そんなに頑固そうには見えず、穏<n>やかな印象がありますが、実は、<n>思い込んだら突き進むマイペース<n>なところがあるのです。周囲に巻<n>き込まれずにがんばる人です。
-EN: You're the yacht type: traditional<n>and careful to follow the rules.<n>You seem gentle, with little hint of<n>stubbornness. Yet once your mind is<n>made up, you press ahead at your own<n>pace. You keep working toward your goal<n>without being swept along by others.
+EN: Yacht type: traditional and mindful of rules. You seem gentle, but once your mind is made up, you press ahead at your own pace. Others won't knock you off course.
 
 @15B0C max=359
 JP: 帆船
@@ -188,7 +188,7 @@ EN: Sailing Ship
 
 @15C74 max=359
 JP: 好奇心旺盛で、夢追い人、自由を<n>愛するあなたは帆船タイプです。<n>目的にたどり着くまでの迷いがと<n>ても長いのですが、一度結論に達<n>すると驚くような変貌を遂げる人<n>でもあります。こだわりたいこと<n>には勇気を持って挑戦して。
-EN: You're the sailing ship type: curious,<n>a dreamer, and a lover of freedom.<n>You may spend ages wondering which<n>course to take, but once you decide,<n>you can change in astonishing ways.<n>Be brave and pursue the things that<n>really matter to you!
+EN: Sailing ship type: curious, free, and full of dreams. You take ages to choose a course, but deciding can transform you. Be brave and pursue what matters to you!
 
 @15DDC max=359
 JP: 客船
@@ -196,7 +196,7 @@ EN: Passenger Liner
 
 @15F44 max=359
 JP: 美しく豪華、愛きょうたっぷりで<n>社交的、そんなあなたは客船タイ<n>プ。家族や友人、自分のまわりの<n>人々に対する責任感が強く、面倒<n>見も良い人です。趣味も広く、芸<n>術、音楽などさまざまな分野で才<n>能を発揮する人も多いです。
-EN: You're the passenger liner type:<n>stylish, glamorous, charming, and<n>sociable. You feel responsible for<n>family, friends, and those around you,<n>and take good care of them. Your many<n>interests often come with talents in<n>fields such as art and music.
+EN: Passenger liner type: stylish, charming, and sociable. You take good care of family and friends. Your wide interests often come with talents in fields like art and music.
 
 @160AC max=359
 JP: いかだ
@@ -204,7 +204,7 @@ EN: Raft
 
 @16214 max=359
 JP: 自然と親しみ、非現実的な空想の<n>世界を遊ぶ楽しみを知っている、<n>いかだタイプのあなた。周囲から<n>は、とても扱いにくいタイプで、<n>社会性がないと思われがちですが、<n>実は客観的で冷静な人でもありま<n>す。こだわりの強い性格です。
-EN: You're the raft type: close to nature,<n>with a knack for losing yourself in<n>fantastic worlds of make-believe.<n>Others may find you hard to deal with<n>and think you lack social skills.<n>Yet you're also calm and objective,<n>with very firm ideas about what matters.
+EN: Raft type: a nature lover at home in worlds of fantasy. Others may find you difficult and unsociable, yet you're calm and objective, with firm ideas you won't let go of.
 
 @1637C max=359
 JP: ホバークラフト
@@ -212,7 +212,7 @@ EN: Hovercraft
 
 @164E4 max=359
 JP: 芯が強く、迫力満点、どんな道で<n>も突き進む、ホバークラフトがあ<n>なたのタイプ。どこにいてもリー<n>ダー格で、集団の中では責任感が<n>強いのですが、いざ、自分のこと<n>になると、ちょっとルーズな一面<n>も。感情に走る傾向も要注意です。
-EN: You're the hovercraft type: strong,<n>imposing, and ready to charge ahead<n>over any terrain. You're a natural<n>leader who takes group duties seriously.<n>Your own affairs, though, can get a<n>little sloppy. Watch that tendency to<n>let your emotions take the wheel!
+EN: Hovercraft type: strong and bold, you charge down any path. A natural leader, you take group duties seriously but neglect your own affairs. Don't let emotions steer you!
 
 @1664C max=359
 JP: タンカー
@@ -220,4 +220,4 @@ EN: Tanker
 
 @167B4 max=359
 JP: 信頼に厚く、正義感にあふれどっ<n>しりとした印象のあなたは、タン<n>カータイプ。あまり外面が良くな<n>いので、他人からは何をしている<n>のか良くわからない、などと言わ<n>れることもありますが、あなた自<n>身はとても慈悲深い人なのです。
-EN: You're the tanker type: dependable,<n>steady, and full of a sense of justice.<n>You don't always come across as<n>friendly, so people may say they can't<n>quite work out what you're up to.<n>Deep down, though, you're a person<n>with a very compassionate heart.
+EN: Tanker type: steady, trusted, and full of justice. You may seem unfriendly, leaving others puzzled about what you're up to. Deep down, though, you have a compassionate heart.

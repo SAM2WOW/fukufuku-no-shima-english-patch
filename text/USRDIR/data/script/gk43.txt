@@ -156,7 +156,7 @@ EN: Yakisoba
 
 @15134 max=359
 JP: にぎやかなのが大好きで、自信満<n>々、リーダー的存在なのが、やき<n>そばタイプのあなた。どんな場面<n>でも、機転が利いて仕切りができ<n>る人でもあります。恋に落ちると<n>きはヒトメボレが多くて飽きっぽ<n>い、ちょっと浮気モノタイプです。
-EN: You're the yakisoba type: confident, happiest in a crowd, and a natural leader. Quick on your feet, you can take charge in any situation. In love, you tend to fall at first sight, but get bored easily. You've got a bit of a wandering eye!
+EN: The yakisoba type: bold, sociable, and a born leader. You think fast and take charge. You often fall in love at first sight, but bore easily and have a wandering eye.
 
 @1529C max=359
 JP: うどん
@@ -164,7 +164,7 @@ EN: Udon
 
 @15404 max=359
 JP: やる気、元気、一生懸命、そんな<n>言葉がかっこよく見えちゃう、そ<n>れがうどんタイプのあなたの長所。<n>しっかりとしていて、面倒見も良<n>く人望が厚いやさしいあなた。た<n>だちょっと、独占欲が強すぎて、<n>恋では失敗することもあります。
-EN: You're the udon type: living proof that drive, energy, and hard work can look cool! Kind and dependable, you look after others and earn their trust. But you can be a little too possessive, which sometimes trips you up in love.
+EN: The udon type: you make energy, drive, and hard work look cool! Kind, reliable, and caring, you earn people's trust. But being too possessive can spoil your love life.
 
 @1556C max=359
 JP: 冷やし中華
@@ -172,7 +172,7 @@ EN: Hiyashi Chuka
 
 @156D4 max=359
 JP: 素直でやさしい癒し系、そんな冷<n>やし中華タイプのあなた。聞き上<n>手で他人からも頼りにされて、受<n>身なイメージが強いけど、実は個<n>性派で才能豊かです。美男・美女<n>が多いのも、この冷やし中華タイ<n>プの特徴です。
-EN: You're the hiyashi chuka type: sincere, kind, and a soothing presence. A great listener, you're someone others rely on. You may seem passive, but you're actually full of talent and individuality. This type boasts plenty of beauties and handsome faces, too!
+EN: The hiyashi chuka type: kind, sincere, and soothing. People count on your listening ear. You seem passive, but have talent and flair. This type has plenty of good looks, too!
 
 @1583C max=359
 JP: そば
@@ -180,7 +180,7 @@ EN: Soba
 
 @159A4 max=359
 JP: おとなしそうに見えて、実は芯が<n>一本通った、情熱家。一つのこと<n>をずっと頑張り通したり、自分の<n>意見を決して曲げなかったり、ち<n>ょっと頑固な人でもあります。で<n>もそんなあなたに惹かれる異性は<n>実はたくさんいるのです。
-EN: You may seem quiet, but beneath it all, you're passionate and have a backbone of steel. You stick with things to the end and refuse to budge on your opinions. A little stubborn? Sure. But plenty of people of the opposite sex find that side of you attractive!
+EN: You seem quiet, but have a strong will and a fiery heart. You see things through and won't budge on your views. Stubborn? Yes, but plenty of potential dates love that!
 
 @15B0C max=359
 JP: ビーフン
@@ -188,7 +188,7 @@ EN: Rice Vermicelli
 
 @15C74 max=359
 JP: 人なつこくて、とっても礼儀正し<n>い、そんなあなたはビーフンタイ<n>プ。バランス感覚も抜群で、がん<n>ばり屋なのですが、ちょっと仲間<n>意識が強いのが欠点。友達以外の<n>他人でも、そのひとなつこさが出<n>せるようになると二重丸です。
-EN: You're the rice vermicelli type: friendly and ever so polite. You're hardworking and have a great sense of balance, but you can be a bit too attached to your own circle. Share that warmth with people outside your group of friends, and you'll earn top marks!
+EN: The rice vermicelli type: friendly, polite, hardworking, and levelheaded. You can be too cliquish, though. Share your warmth with people outside your circle for top marks!
 
 @15DDC max=359
 JP: ラーメン
@@ -196,7 +196,7 @@ EN: Ramen
 
 @15F44 max=359
 JP: 流行に敏感で新しい物好き、変わ<n>り身が早いけど人気者、そんなあ<n>なたはラーメンタイプ。サービス<n>精神が旺盛すぎて、他人からはお<n>調子者、と思われてしまうことも<n>あるはずです。社交的で親切なイ<n>メージを大切にしてくださいね。
-EN: You're the ramen type: quick to catch a trend, eager for anything new, and popular despite your sudden changes of course. You love entertaining people so much that you can come across as a bit of a show-off. Let your friendly, helpful side shine!
+EN: The ramen type: trendy, fond of new things, and popular despite your quick changes. Trying too hard to please can seem showy. Let your friendly, helpful side shine!
 
 @160AC max=359
 JP: スパゲティ
@@ -204,4 +204,4 @@ EN: Spaghetti
 
 @16214 max=359
 JP: ちょっと短気で一本気、情熱家タ<n>イプのスパゲティ。外見も華やか<n>で朗らか、いろんな人から好かれ<n>ます。ただ、ちょっと自分と違う<n>人や間違っていると思うことを攻<n>撃するような強さがあって、そん<n>なところが玉にキズです。
-EN: You're the spaghetti type: passionate, single-minded, and a little quick-tempered. With your bright looks and sunny manner, you're liked by all sorts of people. Your one flaw? You can come down hard on people who are different from you, or things you think are wrong.
+EN: The spaghetti type: passionate, focused, and quick-tempered. Your sunny flair wins people over. Your flaw? Coming down hard on anyone different or anything you think is wrong.

@@ -156,7 +156,7 @@ EN: Castanets
 
 @15134 max=359
 JP: 勝気で瞬発力のあるカスタネット<n>タイプ。おとなしくしているのが<n>苦手で、常に活動していることが<n>好きな人。じっくりと取り組む、<n>ということができないので、結婚<n>生活には不向きな場合もあるが、<n>経験を積むことで幸せに。
-EN: The castanet type: strong-willed and<n>quick to act. Sitting still isn't your<n>style. You love being on the go!<n>Sticking with things takes patience<n>you don't always have, so married life<n>may be a challenge. But experience<n>will help you find happiness.
+EN: The castanet type: bold, quick, and always on the go. Patience isn't your forte, so marriage may be a struggle. Experience will help you find happiness.
 
 @1529C max=359
 JP: ハープ
@@ -164,7 +164,7 @@ EN: Harp
 
 @15404 max=359
 JP: 貞淑で、さびしがりやのハープタ<n>イプ。はかなげな雰囲気に、多く<n>の異性が惹きつけられ、おのずと<n>恋愛回数が増える人でもあります。<n>本来は内気な人なので、恋愛回数<n>が多くても遊んでいるようなイメ<n>ージは持たれず、幸せな結婚を。
-EN: The harp type: faithful, but easily<n>lonely. Your delicate air draws many<n>admirers of the opposite sex, so you<n>naturally find yourself in love often.<n>Still, you're shy at heart, so nobody<n>takes you for a heartbreaker. A happy<n>marriage is in the cards.
+EN: The harp type: faithful but lonely. Your delicate charm brings many romances, yet your shy nature keeps your image innocent. A happy marriage awaits.
 
 @1556C max=359
 JP: クラリネット
@@ -172,7 +172,7 @@ EN: Clarinet
 
 @156D4 max=359
 JP: 頭の回転が早く、知的向上心が強<n>いクラリネットタイプ。機転が利<n>いて親切なので、いつも多くの友<n>人に囲まれていますが、理想が高<n>いのでなかなか恋には発展しにく<n>い人。自分と同じぐらいの知性を<n>持つ相手を見つけられれば幸せに。
-EN: Quick-witted and eager to learn,<n>the clarinet type is resourceful and<n>kind, with plenty of friends. But your<n>high standards make it hard for those<n>friendships to blossom into romance.<n>Find someone who matches your intellect,<n>and happiness will follow.
+EN: The clarinet type: clever, kind, and eager to learn. You have many friends, but high standards hinder love. A partner who matches your mind brings happiness.
 
 @1583C max=359
 JP: シンバル
@@ -180,7 +180,7 @@ EN: Cymbals
 
 @159A4 max=359
 JP: ボーイッシュな魅力を持つシンバ<n>ルタイプ。仕事でも恋愛でも、常<n>にここ一番を決めるリーダー的存<n>在なので、立場が近い人からは疎<n>まれることもあります。一生、モ<n>ノには困らない運命ですが、結婚<n>運はあまりよくありません。
-EN: The cymbal type has a boyish charm.<n>At work or in love, you're the leader<n>who always comes through in a pinch.<n>People in similar positions may resent<n>you for it. You're destined never to<n>want for material things, though your<n>marriage luck isn't quite so bright.
+EN: The cymbal type: boyish and a born leader in work and love. Your peers may resent your success. You'll never lack material comforts, but marriage luck is poor.
 
 @15B0C max=359
 JP: ピアノ
@@ -188,7 +188,7 @@ EN: Piano
 
 @15C74 max=359
 JP: 人の上に立ってリードしていける<n>場の中心的役割、ピアノタイプ。<n>知的でなんでもこなせるが、その<n>分、人を見下すようなところもあ<n>り、気取っていると思われること<n>も。自分が最高と思うあまり、嫉<n>妬深い一面もあります。
-EN: The piano type: a natural leader who<n>takes center stage. You're bright and<n>capable of just about anything, but<n>you sometimes look down on others,<n>which can make you seem rather snooty.<n>Being so sure you're the best can also<n>bring out your jealous side.
+EN: The piano type: a bright, versatile leader who takes center stage. You may look down on others and seem snooty. Believing you're the best can make you jealous.
 
 @15DDC max=359
 JP: ギター
@@ -196,7 +196,7 @@ EN: Guitar
 
 @15F44 max=359
 JP: ときに激しく、ときに冷淡、とい<n>う二面性を持つギタータイプ。特<n>定のことに対する才能や、人目を<n>引く美貌、派手さがあり、タレン<n>ト、俳優などに向いています。恋<n>多き人で、あまり結婚向きではあ<n>りませんが、それでも幸せに。
-EN: The guitar type has two sides:<n>fiery one moment, icy the next.<n>A special talent, striking good looks,<n>or a flair for the dramatic makes you<n>suited to acting or show business.<n>You fall in love often. Marriage may<n>not suit you, but happiness still can!
+EN: The guitar type: fiery one moment, cold the next. Talent, looks, and flair suit you to showbiz. You love often; marriage may not suit you, but happiness awaits.
 
 @160AC max=359
 JP: フルート
@@ -204,7 +204,7 @@ EN: Flute
 
 @16214 max=359
 JP: ロマンチックで、華やか、異性を<n>惹きつける魅力に満ち溢れている<n>フルートタイプ。ファッションや<n>流行にも敏感で、それを取り入れ<n>て自分を魅力的に見せる技にも長<n>けています。恋愛、結婚共に、自<n>分の思いのまま操れる人です。
-EN: The flute type: romantic, glamorous,<n>and brimming with charm that draws<n>the opposite sex. You have an eye for<n>fashion and trends, and know just how<n>to use them to look your best.<n>In both romance and marriage, you know<n>how to make things go your way.
+EN: The flute type: romantic, glamorous, and irresistible. You use fashion and trends to boost your charm. In both love and marriage, you make things go your way.
 
 @1637C max=359
 JP: チェロ
@@ -212,7 +212,7 @@ EN: Cello
 
 @164E4 max=359
 JP: 強運でぜいたく、モノにこだわり<n>を持つチェロタイプ。持って生ま<n>れた運が強いため、良くも悪くも<n>振れ幅の広い人。特に、結婚では、<n>夢のような家庭を築けるか、ある<n>いは浪費がたたって生活が破綻す<n>るか、などその差が激しいです。
-EN: The cello type loves luxury and has<n>very particular tastes. Your powerful<n>inborn luck brings dramatic highs and<n>lows, especially in marriage.<n>You might build a dream home together,<n>or spend so freely that your life<n>falls apart. It's a world of extremes.
+EN: The cello type: lucky, luxury-loving, and fussy about possessions. Life swings to extremes: marriage may bring a dream home, or overspending may ruin it all.
 
 @1664C max=359
 JP: バイオリン
@@ -220,7 +220,7 @@ EN: Violin
 
 @167B4 max=359
 JP: 常識的で優等生、道徳観念の強い<n>バイオリンタイプ。時にははめを<n>外して遊びほうけてしまうことも<n>ありますが、だいたい、元のさや<n>に収まって幸せに。根が善良なの<n>で、あまり特殊なことには向きま<n>せん。
-EN: The violin type: sensible, studious,<n>and guided by a strong moral compass.<n>You may occasionally cut loose and<n>get carried away having fun, but you<n>usually return to your old life and<n>find happiness. You're good at heart,<n>and not suited to anything too unusual.
+EN: The violin type: sensible, studious, and moral. You may cut loose, but soon return to your old ways and find happiness. Good at heart, you prefer a conventional life.
 
 @1691C max=359
 JP: 二胡
@@ -228,7 +228,7 @@ EN: Erhu
 
 @16A84 max=359
 JP: 知性的で教養のある二胡タイプは<n>典型的なセレブタイプでもありま<n>す。美しいものを見極めたり、正<n>しい判断をできたり、冷静沈着で、<n>自分を高めていく手腕に長けてい<n>ます。自分にふさわしい相手を見<n>つける才能も生まれながらに。
-EN: The erhu type: intelligent, cultured,<n>and right at home in high society.<n>You have an eye for beauty and sound<n>judgment. Calm and collected, you know<n>how to better yourself and get ahead.<n>You're also born with a knack for<n>finding a partner who's right for you.
+EN: The erhu type: clever, cultured, and born for high society. Calm and discerning, you judge wisely and know how to better yourself. You have a gift for finding the right partner.
 
 @16BEC max=359
 JP: 三味線
@@ -236,7 +236,7 @@ EN: Shamisen
 
 @16D54 max=359
 JP: 遊び好きで、行動的、口も上手い<n>三味線タイプ。強烈な個性の持ち<n>主で、良くも悪くも目立つ人が多<n>いです。結婚は、ものすごく良い<n>か、まったく縁遠いかのいずれか<n>になることが多いですが、縁遠く<n>ても本人はいたって幸せです。
-EN: The shamisen type: fun-loving, active,<n>and a smooth talker. Your personality<n>stands out, for better or worse.<n>Marriage tends to be either wonderful<n>or nowhere on the horizon.<n>Even if you never tie the knot,<n>you're perfectly happy just as you are.
+EN: Shamisen type: playful, active and smooth-talking. Your bold personality stands out, for good or ill. Marriage tends to be bliss or out of reach, but you're happy either way.
 
 @16EBC max=359
 JP: トライアングル
@@ -244,4 +244,4 @@ EN: Triangle
 
 @17024 max=359
 JP: 見かけと違って活動的で、正義感<n>が強く、実は重要な役回りを演じ<n>ることが多いトライアングルタイ<n>プ。指導権を握りたい性格なので<n>恋愛でも結婚でも自分が引っ張っ<n>っていくほうです。人の意見を聞<n>かないのが唯一の欠点です。
-EN: The triangle type is more active than<n>you look, with a strong sense of justice.<n>You often play a surprisingly vital role.<n>You like to take charge, so you lead<n>the way in both romance and marriage.<n>Your only flaw? You don't listen to<n>what anyone else has to say.
+EN: Triangle type: livelier than you look, with a strong sense of justice. You often play a key role and lead in love and marriage. Your only flaw: you won't listen to others.

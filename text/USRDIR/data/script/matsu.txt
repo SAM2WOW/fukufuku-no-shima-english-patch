@@ -208,7 +208,7 @@ EN: Please don't take your health for granted today. Moving between hot and cold
 
 @15134 max=359
 JP: 今日の健康運はまあまあ。体調はいいのですが、それに比べ、精神面は不安定です。車の運転は慎重に。できれば助手席が無難。スポーツやエクササイズで汗を流し、スッキリすることをおすすめ。部屋の掃除や模様替えで気分を変えるのもいいでしょう。<n>
-EN: Your health luck is fair. You feel physically well, but your emotions are unsettled. Drive carefully, or let someone else take the wheel if possible. Work up a sweat with sports or exercise to clear your head. Cleaning or rearranging your room could lift your spirits, too.<n>
+EN: Your health luck is fair. Your body feels well, but your mood is shaky. Drive carefully; let someone else drive if you can. Exercise to clear your head. Cleaning or rearranging your room may lift your spirits, too.
 
 @1529C max=359
 JP: 健康面はちょっとしたケガに気をつけたい日。階段を踏み外したり、ドアに手足をはさんだりしないよう注意してください。いつもよりスローペースで動くくらいでちょうどいいはずです。飲みすぎ食べすぎにもご用心。<n>
@@ -256,19 +256,19 @@ EN: Your health luck is good. Try a meal made with carefully chosen ingredients,
 
 @16214 max=359
 JP: 食べすぎたり、お腹をこわしたりしやすい日。胃腸が弱っている可能性があるので、外食をするなら薬膳や野菜の産地にこだわった料理を。おいしさプラス体にやさしい食べ物を探して。ただし、体にいいからと言って食べすぎてしまわないように気をつけて。<n>
-EN: You're prone to overeating or an upset stomach today. Your digestion may be delicate, so if you eat out, try herbal cuisine or dishes made with carefully sourced vegetables. Look for food that's tasty and gentle on your stomach. Even healthy food is best enjoyed in moderation.<n>
+EN: Overeating or an upset stomach is likely today. If eating out, try herbal cuisine or dishes with carefully sourced vegetables. Choose tasty food that's gentle on your stomach. Even healthy food needs a little moderation.
 
 @1637C max=359
 JP: 比較的好調な健康運。ただ、体調がいいことに安心していると、急な腹痛に悩まされる恐れも。暴飲暴食には、特に注意が必要です。ダラダラしている時間があるなら、エクササイズで体をしぼって。アロマテラピーも心のケアには効果的です。
-EN: Your health luck is fairly good, but feeling well could make you careless and lead to a sudden stomachache. Be especially careful not to overeat or drink too much. If you have time to lounge around, try some exercise to shape up. Aromatherapy could help soothe your mind, too.
+EN: Your health luck is fairly good, but don't get careless: a sudden stomachache may strike. Avoid eating or drinking too much. Put spare time toward exercise to get in shape. Aromatherapy may soothe your mind, too.
 
 @164E4 max=359
 JP: 一日を通して健康運は吉凶混合の模様。食欲もあり、体力的には問題なくても、寝不足や疲労から、頭痛に悩まされそう。精神的な疲れには、音楽鑑賞がとても効果的です。ヨガや整体で体の手入れをすることが、心にもいい影響を及ぼすでしょう。
-EN: Your health luck is mixed today. Even with a good appetite and plenty of stamina, too little sleep or fatigue could give you a headache. Listening to music can really help with mental exhaustion. Yoga or a bodywork session could benefit both your body and your spirits.
+EN: Your health luck is mixed. Even with a good appetite and stamina, fatigue or lack of sleep may cause headaches. Music can ease mental strain. Yoga or bodywork may help both your body and your spirits.
 
 @1664C max=359
 JP: 健康運はアップダウンの激しい一日になりそうです。疲労からの頭痛や食欲不振で、ダルさに悩まされるかもしれません。日ごろからストレスをため込んでいるなら要注意。突然、体に異変が表れることもあるので、適度に遊んで発散することも大事です。
-EN: Your health luck may swing up and down today. Headaches from fatigue or a poor appetite could leave you feeling sluggish. Take extra care if you've been letting stress build up. It may suddenly show itself in physical symptoms, so make time for a little fun to let off steam.
+EN: Your health luck has sharp ups and downs. Fatigue may bring headaches, poor appetite and sluggishness. Take care if stress has been building up; it may suddenly affect your body. Make time for fun to let off steam.
 
 @167B4 max=359
 JP: 今日の健康運はまあまあ。体調も万全で、元気いっぱいです。ただし、今日のあなたはかなりのおっちょこちょい。車の運転やスポーツなどで、ちょっとした油断や判断ミスからケガをするかもしれません。慎重に過ごしましょう。
@@ -312,7 +312,7 @@ EN: Your health luck is good, with no particular problems in store. Still, you m
 
 @175C4 max=359
 JP: 重いものを持ったり、長時間同じ姿勢を続けたりすると、腰を痛める恐れがあります。大変な作業は無理せず、人に手伝ってもらいましょう。休憩時間には、血行を意識して、ストレッチやマッサージをしてください。クイックマッサージなどに行くのも吉。
-EN: Lifting heavy things or staying in one position too long could hurt your lower back. Please ask for help with demanding tasks instead of pushing yourself. During breaks, try stretching or massage to get your blood flowing. A quick professional massage could be a lucky choice, too.
+EN: Heavy lifting or staying in one position too long may hurt your lower back. Please ask for help with tough tasks. Stretch or massage tired muscles during breaks to boost circulation. A quick massage brings good luck, too.
 
 @1772C max=359
 JP: 体に関して何となく気がかりな部分が出てきそうです。専門医を訪れたり、健康診断を受けに行くことも考えてください。不調を感じているなら、早めに解消したほうが気持ちも軽くなります。食べすぎや飲みすぎ、たばこの吸い過ぎにも注意が必要です。
@@ -348,7 +348,7 @@ EN: Your health luck calls for care today. Stress may bring headaches or stomach
 
 @1826C max=359
 JP: 今日の健康運は低調です。精神面の不安定さが体調に出やすい日。頭痛や腹痛がしたら、休憩を取ったり薬を飲んで。健康管理も甘くなりがちです。風邪などウイルス系の病気に注意してください。外出のあとのうがい、手洗いは入念にしましょう。<n>
-EN: Your health luck is low today. Emotional ups and downs may easily affect your body. If your head or stomach hurts, take a break or some medicine. You may also get careless about your health. Watch out for colds and other viral illnesses. Gargle and wash your hands thoroughly after going out.<n>
+EN: Your health luck is low. Emotional strain may affect your body. For head or stomach pain, rest or take medicine. Don't neglect your health: watch for colds and other viruses. Gargle and wash well after going out.
 
 @183D4 max=359
 JP: 今日の健康運は絶好調。体調もよく、気力も充実しています。多少の寝不足ぐらいならへっちゃらです。ただし、注意力に欠け、小さなケガがたえないかもしれません。なんでもないところで転んだり、ぶつかったりしそうです。
@@ -360,7 +360,7 @@ EN: You're in great shape for a healthy day. You're so motivated that sheer will
 
 @186A4 max=359
 JP: 心身ともにパワーがみなぎる一日です。新陳代謝がよく、健康的に過ごせるでしょう。食欲も旺盛で、何を食べてもおいしく感じるはずです。唯一不安なのは、体重の変動。昼夜問わず、よく食べるため、今日一日で一気に太りそうです。<n>
-EN: Both mind and body are brimming with energy today. Your metabolism is working well, and you should feel healthy. You'll have a hearty appetite, and everything should taste delicious. The only worry is your weight. Eating enthusiastically day and night could have you piling on pounds in a single day.<n>
+EN: Your mind and body brim with energy today. Your metabolism is strong, and you should feel healthy. With such a hearty appetite, everything tastes delicious! Just watch your weight: eating day and night may add pounds fast.
 
 @1880C max=359
 JP: 今日の健康運はバッチリ。ハードなスケジュールもドンと来い！といった感じです。食欲も増加するため、スタイル維持がポイントとなりますが、その分動き回っているため、エネルギーとして放出してしまえるでしょう。
@@ -380,7 +380,7 @@ EN: Unfamiliar activities may take a toll on your body. Suddenly playing sports 
 
 @18DAC max=359
 JP: 健康面はまあまあ。精神的にはアップダウンがあるけれど、体の調子はいいはずです。軽い運動で汗を流し、気分転換をするのがおすすめ。食べ物、飲み物がおいしいでしょう。ただし、食べ合わせに気をつけて。夜更かしもしないほうがラッキー。
-EN: Your health is fairly good. Your mood may have its ups and downs, but your body should feel fine. Try some light exercise to work up a sweat and clear your head. Food and drink should taste delicious, but take care with what you combine. An early night will bring better luck, too.
+EN: Your health is fair. Your mood may swing, but your body should feel well. Light exercise can clear your head. Food and drink will taste great, but be careful what you combine. Going to bed early brings better luck.
 
 @18F14 max=359
 JP: 体のあちこちが、なんとなく不調の暗示。ストレス解消のつもりで食べたり飲んだりすると、逆に胃腸のトラブルを起こしそう。ゆっくり入浴し、早めに休むといいでしょう。常備薬のチェックをするとラッキー。
@@ -412,7 +412,7 @@ EN: Your health luck is good, and you should stay in fine form. Take regular bre
 
 @198EC max=359
 JP: 健康面は油断大敵です。体力を過信し、無理を重ねる心配があります。用心が過ぎるくらいで、ちょうどいいでしょう。時間があれば、整体やマッサージ店で体をほぐしてもらうのもいいでしょう。香りのアイテムでリラックスするのも吉。
-EN: Don't let your guard down about your health. You may overestimate your stamina and keep pushing too hard. A little extra caution is just right today. If you have time, visit a bodywork or massage clinic to loosen up. Relaxing with something pleasantly scented will bring good luck, too.
+EN: Please take care of your health. You may overrate your stamina and push too hard. Extra caution is wise today. If you have time, loosen up with bodywork or a massage. Relaxing with a pleasant scent brings good luck, too.
 
 @19A54 max=359
 JP: 根をつめた作業で、気になっていたところが痛み出しそうです。画面を見つめる仕事なら特に、目や腕の疲れ、肩こりに注意。冷やす、温めるなどは、自分で勝手に判断せず、薬局などで聞いて、症状に合った湿布をしてください。
@@ -452,7 +452,7 @@ EN: Your health luck is fair. You shouldn't fall ill, but there are signs of inj
 
 @1A6FC max=359
 JP: 今日はちょっとしたケガに気をつけたほうがよさそうです。スポーツをしているときに足をくじいたり乗り物の中でケガをしたりしないように、立ち方や姿勢に注意を払って。飲みすぎ、食べすぎもテキメンに体調を崩してしまいそうな予感。腹八分目を心がけましょう。
-EN: Please watch out for minor injuries today. Mind your footing and posture so you don't twist an ankle playing sports or get hurt while riding in a vehicle. Eating or drinking too much could quickly leave you feeling unwell, too. Try stopping before you're completely full.
+EN: Please watch for minor injuries today. Mind your footing and posture during sports or when traveling. Eating or drinking too much could quickly leave you unwell, too. Stop before you're completely full.
 
 @1A864 max=359
 JP: ちょっと疲れ気味のようです。今日無理をすると、あとあとまで響き、体調不良が長引いてしまいそう。がんばりすぎないで、少し休みましょう。冷えやのぼせにも注意したほうがいいかもしれません。冷たいものの飲みすぎ食べすぎは控えめに。
@@ -492,7 +492,7 @@ EN: You're in top condition, full of energy in body and mind. Today is a fine da
 
 @1B50C max=359
 JP: 今日は心が疲れてしまいそう。ユウウツになったら、深呼吸して落ち着きましょう。好きなことに没頭して、気分転換をはかって。また、肌のトラブルに注意。自然の多い場所では、虫刺されやかぶれを防ぐようにしてください。
-EN: Today may leave you mentally drained. If you feel down, take a deep breath and settle yourself. Lose yourself in something you enjoy for a refreshing change of pace. Watch out for skin trouble, too. When you're out in nature, take care to prevent insect bites and rashes.
+EN: You may feel mentally drained today. If you feel down, breathe deeply and relax. Enjoy a favorite pastime for a change of pace. Watch for skin trouble, too: take care to avoid insect bites and rashes outdoors.
 
 @1B674 max=359
 JP: 疲れがたまっているようです。オーバーワークになっていないか自己診断をしたり、体の気になる部分を病院で相談しましょう。知らないうちに悪くなっているところがあるかもしれません。目の疲れにも要注意。今日はよく睡眠をとりましょう。
@@ -528,7 +528,7 @@ EN: You should feel well and light on your feet. Remember to drink before you fe
 
 @1C1B4 max=359
 JP: 気持ちが高ぶっているせいか、体は信号を発しているのに、休む気分になれません。「熱なんか平気！」などと豪語していると、取り返しのつかないことになります。自信過剰にならないように。自己判断は禁物です。人の意見、医者の判断を素直に聞きましょう。
-EN: You may feel too excited to rest, even while your body sends warning signs. Boasting, "A little fever won't stop me!" could have serious consequences. Please don't be overconfident or judge everything for yourself. Listen to others' advice and your doctor's opinion.
+EN: Excitement may keep you going despite your body's warnings. Please don't shrug off a fever! Overconfidence could have serious consequences. Don't judge your health on your own; listen to others and your doctor.
 
 @1C31C max=359
 JP: ムシャクシャする出来事があっても、ヤケ飲み、ヤケ食いはしないこと。空気の悪いところに長くいることも避けて。お腹をこわしたり頭痛を起こしたりしそうです。軽いスポーツやエクササイズで、気持ちのよい汗をかく工夫をしましょう。
@@ -544,15 +544,15 @@ EN: Your health luck is down. Feeling unwell could cost you a lovely invitation 
 
 @1C754 max=359
 JP: 睡眠時間が不規則になりがち。早寝早起きを心がけましょう。乗り物の中や昼休みなどに、目をつぶって短時間休むのもおすすめです。また、バランスの良い食事を心がけましょう。煮たり焼いたりして温かくした野菜やきのこ、豆類をいっぱいたべるとラッキー。
-EN: Your sleep schedule may become irregular. Try going to bed early and getting up early. Closing your eyes for a short rest while traveling or on your lunch break may help, too. Aim for balanced meals. Plenty of warm, simmered or grilled vegetables, mushrooms and beans will bring good luck.
+EN: Your sleep schedule may slip. Try going to bed and rising early. Close your eyes for a brief rest when traveling or on your lunch break. Eat balanced meals. Warm, cooked vegetables, mushrooms and beans bring good luck.
 
 @1C8BC max=359
 JP: 体の不調が出てくる恐れが。今までに経験のない部分に痛みを感じそう。しばらく休んでも弱まらないなら、時間やお金のことはさておいて、思い切って専門医をたずねましょう。あれこれ考えるよりも、すっきりするはず。また、ソファで寝たりしないで、きちんとベッドかふとんの上で寝ましょう。
-EN: Health trouble may surface, with pain somewhere you've never had it before. If rest doesn't ease it, set worries about time or money aside and see a specialist. That should put your mind at ease more than fretting will. Also, sleep properly in a bed or on a futon instead of dozing on the sofa.
+EN: You may feel pain somewhere new. If rest doesn't ease it, please see a specialist, despite worries about time or cost. It should ease your mind more than fretting will. Sleep in a bed or on a futon, rather than on the sofa.
 
 @1CA24 max=359
 JP: 過食や拒食の傾向がないか、自己診断を。原因になっているストレスと向き合うこと。日記などに心境を書いてみるといいでしょう。人に話せないことでも、文字にしてみると案外なんでもなく、スッキリとできるはず。ビデオ鑑賞で、思い切り泣いたりするのもいいかも。
-EN: Consider whether you've been eating too much or avoiding food, and face any stress behind it. Try writing your feelings in a diary. Even things you can't tell anyone may seem less daunting on paper, leaving you relieved. Watching a movie and having a good cry could help, too.
+EN: Have you been overeating or avoiding food? Face the stress behind it. Try keeping a diary. Feelings you can't share may seem less daunting on paper, leaving you relieved. A good cry over a movie might help, too.
 
 @1CB8C max=359
 JP: 健康運はまあまあ。ただし、小さな痛みに注意しましょう。打ち身やすり傷、虫さされは適切な手当てをすること。むやみにいじると、あとが残ります。慌てて料理したり味見したりすると、ヤケドする恐れが。気をつけてください。
@@ -564,7 +564,7 @@ EN: There are no particular health concerns today. It's an ideal time to build u
 
 @1CE5C max=359
 JP: 大きな心配はありませんが、忙しいからといって徹夜などで無理をするのはやめましょう。短時間でも睡眠をとるほうが能率アップにつながります。多忙だと精神的に追い詰められやすい日なので、上手に気分転換することも大切です。
-EN: There's no major cause for concern, but please don't push yourself into an all-nighter just because you're busy. Even a little sleep will help you work more efficiently. A busy schedule could leave you feeling cornered today, so finding a pleasant change of pace matters, too.
+EN: No major worries, but please don't pull an all-nighter just because you're busy. Even a little sleep can help you work better. A packed schedule may leave you feeling overwhelmed today, so make time for a refreshing break.
 
 @1CFC4 max=359
 JP: あらためて肌のチェックを。鏡をよく見て顔を点検するのはもちろん、ひじやかかとなど手足の荒れや汚れに気づくかも。バスタイムをゆっくりとるといいでしょう。精神的にもリラックスできて、一石二鳥になりそうです。
@@ -572,11 +572,11 @@ EN: Take a fresh look at your skin. Besides checking your face in the mirror, yo
 
 @1D12C max=359
 JP: 胃腸のトラブルの恐れ。熱すぎたり冷たすぎたりするものを避けましょう。食べ合わせにも注意を。賞味期限もよく見ること。うっかり暴飲暴食してしまうと尾を引いて、後悔しそう。食べるものに気を使いたい一日です。
-EN: Stomach or digestive trouble may be brewing. Avoid food and drinks that are too hot or too cold. Watch food combinations and check best-before dates carefully. Overeating or drinking too much could leave you with lingering regrets. Give today's food choices some extra thought.
+EN: Digestive trouble may be brewing. Avoid food and drinks that are too hot or cold. Mind food combinations and check best-before dates. Overeating or drinking too much could cause lasting discomfort. Choose meals with care.
 
 @1D294 max=359
 JP: 服装と気温が合っていなかったり、建物の中と外との温度差が激しかったりして、調子をくずしそう。ファッションは実用性を重視して、調節できるものを着ましょう。また外出後の手洗い、うがいなど、風邪予防もしておきたい日。
-EN: Clothes unsuited to the weather, or sharp temperature changes between indoors and out, could leave you unwell. Favor practical outfits with layers you can adjust. It's also a good day to take precautions against colds, such as washing your hands and gargling after going out.
+EN: Unsuitable clothes or sharp changes in temperature indoors and out may leave you unwell. Choose practical layers you can adjust. Take care to ward off colds, too: wash your hands and gargle after going out.
 
 @1D3FC max=359
 JP: 人から面白い健康法や、気になっている症状に効き目がありそうな話を聞くかもしれません。そのままにせず、試してみるとラッキー。期待以上の効果が望めそうです。また、ダイエットを始めるのにも最適な日。情報収集してみましょう。
@@ -648,7 +648,7 @@ EN: There's a risk of injury from a sudden mishap today. Be especially careful o
 
 @1EBE4 max=359
 JP: 疲れ知らずの健康運。体力アップを心がけてみるといいでしょう。自分の体力に見合ったもので、最初からあまり無理をしないことがポイント。ウォーキングやなわとびなど軽いものでもＯＫ。運動が得意という場合はレベルアップをはかって。
-EN: Your health luck gives you energy to spare. Try building up your stamina. The key is to choose something suited to your fitness and avoid pushing too hard at first. Gentle exercise like walking or jumping rope is fine. If you're already athletic, aim for the next level.
+EN: Your health luck brings energy to spare! Try building stamina with exercise that suits your fitness. Go easy at first. Walking or jumping rope is fine. If you're already athletic, try taking it to the next level.
 
 @1ED4C max=359
 JP: 気力・体力ともに抜群のコンディションです。少しの距離なら、なるべく歩くことをおすすめします。よほど高層でなければビル内や駅でもエスカレーターやエレベーターを使わずに階段を使いましょう。軽く汗をかくくらいのほうが健康的です。
@@ -708,11 +708,11 @@ EN: There's probably nothing to worry about, but your body may feel as if it has
 
 @200FC max=359
 JP: 腹痛の暗示がある日。食事の内容や量に気を配りましょう。食事も、そのスピードも人に合わせなければならない場合は、消化薬や下痢止めを持ち歩くといいでしょう。また、トイレを我慢してはいけません。席をはずしやすい位置を考えるなど工夫して。
-EN: An upset stomach may be in the cards. Please watch what and how much you eat. If you have to match someone else's meal or eating pace, carrying digestive medicine or diarrhea tablets may help. Don't put off going to the bathroom, either. Try choosing a seat you can easily slip away from.
+EN: An upset stomach may be in the cards. Watch what and how much you eat. If you must match others' meals or pace, carry digestive or diarrhea medicine. Don't delay bathroom visits; sit where you can easily slip away.
 
 @20264 max=359
 JP: 健康運は好調。体にいいとわかっていることは、ひとつでもやってみましょう。わざわざ体を痛めつけるのはいけません。今日スポーツを始めると上達が早そうです。ただ、張り切りすぎ、浮かれすぎはケガのもとですから、ほどほどに。
-EN: Your health luck is good. Try doing even one thing you know is good for you, but please don't punish your body. If you take up a sport today, you could improve quickly. Just keep your enthusiasm in check. Getting too carried away could lead to an injury, so take things in moderation.
+EN: Your health luck is good. Please try something healthy, but don't punish your body. Take up a sport today and you may improve quickly. Just go easy; getting carried away could lead to injury.
 
 @203CC max=359
 JP: 健康面は問題ありません。外食が続きがちな場合は、手作りしたり家庭料理のメニューを選んで、最近不足している栄養素を補ってください。また、定期的に痛む部分がある場合は、十分用心を。専門医に行くことも検討してください。
@@ -724,7 +724,7 @@ EN: Your health should be fine. Today is a good day to give your feet some care,
 
 @2069C max=359
 JP: 健康運は好調。パワーにあふれ、活発に動けるでしょう。いつもは避けがちな力仕事も、進んで取り組んでみてください。体力にものを言わせて、なしとげることができそうです。大きな達成感と心地よい疲れを感じることができるでしょう。
-EN: Your health luck is good. You'll have plenty of energy to keep you moving. Try volunteering for the heavy work you usually avoid. Your stamina should help you see it through. Finishing could leave you with a great sense of achievement and that pleasant, well-earned tiredness.
+EN: Your health luck is good, and you'll have energy to spare. Try tackling the heavy work you usually avoid. Your stamina should see you through, leaving you with a sense of achievement and a pleasant, well-earned tiredness.
 
 @20804 max=359
 JP: 健康面は少し心配があります。大事な場面で歯が痛み出したり、腹痛を感じたりしそうです。あらかじめ鎮痛剤などを持ち歩くといいでしょう。また、コーヒーを何杯も飲むハメにならないよう、スケジュールを工夫してください。
@@ -736,11 +736,11 @@ EN: Please watch out for food poisoning today. Something you eat while out may d
 
 @20AD4 max=359
 JP: 暴飲暴食に注意。しかもカロリーの高いものばかり食べたくなってしまいそうです。似た食感で低カロリーのものを選ぶとか、噛みごたえのあるものを先にとって食欲を満足させるといいでしょう。飲みすぎは、いつもよりあとに響きそうですから、ほどほどに。
-EN: Watch out for overeating and drinking too much. You may crave nothing but high-calorie treats. Try lighter foods with a similar texture, or start with something chewy to satisfy your appetite. Too much alcohol could linger longer than usual, so please keep it moderate.
+EN: Watch out for overeating and drinking too much. Craving rich foods? Try lighter ones with a similar texture, or start with something chewy to curb your appetite. Alcohol may affect you longer than usual, so go easy.
 
 @20C3C max=359
 JP: 手や肩に不調の出やすい日です。長時間画面に向かっていたり、同じ動きを繰り返すような環境なら、いつもよりこまめに休憩を入れながらにしてください。痛みが強まるようなら、自己流の湿布でごまかさず、薬局で相談しましょう。
-EN: Your hands and shoulders may give you trouble today. If you spend hours at a screen or repeat the same movements, please take more frequent breaks than usual. If the pain gets worse, don't just try to cover it up with a home remedy or a pain patch. Ask a pharmacist for advice.
+EN: Your hands and shoulders may ache today. If you spend hours at a screen or repeat the same movements, please take extra breaks. If pain worsens, ask a pharmacist rather than just trying to soothe it with a patch.
 
 @20DA4 max=359
 JP: エネルギー充電をはかるといい日。何もしないでボーッとする時間をつくったり、おいしいものを食べてゆっくりしたいところです。忙しい場合も、無理をしないで、適度に休憩を入れてください。自分の限界を把握することも大切なことです。
@@ -764,7 +764,7 @@ EN: Unhealthy habits may catch up with you. Please find the resolve to cut back 
 
 @214AC max=359
 JP: 健康運は上昇中。旬の食材を生かしたメニューを食べると、エネルギー充てんができそうです。好き嫌いも変えられるかもしれません。また、成人病の情報を仕入れておくといいでしょう。気をつけることがわかって、安心できそうです。
-EN: Your health luck is on the rise. Meals made with seasonal ingredients could recharge your batteries. You might even warm up to foods you used to dislike. It's also a good time to learn about lifestyle-related diseases. Knowing what to watch out for should help put your mind at ease.
+EN: Your health luck is rising. Seasonal foods could recharge you, and you might even enjoy foods you used to dislike. Read up on lifestyle-related diseases, too. Knowing what to watch for could put your mind at ease.
 
 @21614 max=359
 JP: 健康運は絶好調。食べ物もお酒もおいしいでしょう。ただし、食べすぎ飲みすぎに気をつけて。元気なあなたをまぶしく見ている人がいそうです。美容運も好調。思い切ったイメージチェンジに挑戦すると吉。好評を得るはずです。
@@ -776,19 +776,19 @@ EN: Your good health luck continues. You'll feel full of drive and ready to spri
 
 @218E4 max=359
 JP: 活発に動けば動くほど、今後の仕事運を開く道筋が見えてきます。今日出会った人の印象や情報を忘れないよう書き留めておくとグッド。いずれそのメモが役立ち、その人から仕事上のヒントをもらえたり有力なコネになってくれるかもしれません。<n>
-EN: The more active you are, the clearer your path to future work luck will become. Jot down what you learn about people you meet today, along with your impressions of them. Those notes may come in handy someday. One of these people could offer a useful work tip or become a valuable contact.<n>
+EN: Stay active and a path to better work luck will open up. Note what you learn about people you meet today, along with your impressions. Those notes may prove useful: someone could offer a work tip or become a valuable contact.
 
 @21A4C max=359
 JP: どんな簡単な作業でも真剣に取り組む態度が幸運を呼ぶ日です。周囲の人たちに好印象を与えることはもちろん、高評価につながるでしょう。意識して集中すれば、なかなかはかどらなかった作業の速度も予想以上に上がり、満足感があるはず。<n>
-EN: Taking even the simplest task seriously will bring good fortune today. You'll make a good impression on those around you and earn their respect. Make a point of focusing, and even work that's been dragging along could pick up speed beyond your expectations. That should feel satisfying.<n>
+EN: Taking even simple tasks seriously brings good luck today. You'll impress others and earn their respect. Please make an effort to focus; even work that's been dragging could go faster than expected, leaving you satisfied.
 
 @21BB4 max=359
 JP: 目上からの引き立て運がある日。素直に恩恵に浴しましょう。報告や連絡をしっかりすれば、さらに好印象を与えることができます。また、疲れている同僚や後輩の仕事をできる範囲で手伝ってあげると、うれしいお返しがありそうです。<n>
-EN: Someone senior may give you a helping hand today. Please accept their kindness. Keeping them properly informed will make an even better impression. If a coworker or junior colleague looks tired, help with their work as much as you can. A welcome favor may come back your way.<n>
+EN: Someone senior may lend you a hand today. Please accept, and keep them well informed to make a good impression. Help tired coworkers or junior colleagues where you can, too. A welcome favor may come back your way.
 
 @21D1C max=359
 JP: アイデアが次々と浮かぶ日です。そのままにせず、考えを発展させたり、企画書にまとめたりしましょう。発想を人にわかる形にすることで仕事が大きく広がります。ただし、うっかりミスをいくつか起こしそう。大切な物を置き忘れたりしないよう注意して。
-EN: Ideas will come to you one after another today. Don't let them drift away. Develop them or put them into a proposal. Giving your ideas a form others can understand could open up big opportunities at work. Still, a few careless mistakes may creep in. Take care not to leave anything important behind.
+EN: Ideas will come thick and fast today. Develop them or write a proposal. Making them clear to others could open up work opportunities. Please watch for careless mistakes, though, and don't leave anything important behind.
 
 @21E84 max=359
 JP: 上司や先輩に助けられる日です。どうしてもうまくいかず困っていたことがあれば、思い切って質問してみるといいでしょう。今まで悩んでいたことがあっさりと解決して、たまっていた仕事もどんどん片づきそうです。感謝の言葉を忘れないようにしましょう。<n>
@@ -796,7 +796,7 @@ EN: A boss or senior colleague may help you today. If something just won't go ri
 
 @21FEC max=359
 JP: 頼まれたことを忘れていて大ごとになりそう。最近のメールや手帳、書類を確認しましょう。日付や曜日を勘違いしていることもあるかも。もし手に負えないトラブルになったら、正直にわけを話し、周りに協力を求めて。身の回りをきちんと整理するとラッキー。
-EN: Forgetting a request could cause a major problem. Check recent emails, your planner and your paperwork. You may also have mixed up a date or day of the week. If trouble gets beyond you, explain honestly what happened and ask others for help. Putting your workspace in order will bring good luck.
+EN: A forgotten request may cause trouble. Check recent emails, your planner and papers for missed tasks or mixed-up dates. If things get out of hand, explain honestly and ask for help. Tidying up will bring luck.
 
 @22154 max=359
 JP: ミスをしてしまいやすい日。カンペキだと思っても、最後にもう一度確認することを忘れないで。「石橋を叩いて渡る」姿勢が大切です。ただし、失敗を恐れるあまり消極的な態度になってしまうのは避けたほうがいいでしょう。堂々と胸を張っていればＯＫです。
@@ -828,7 +828,7 @@ EN: Being entrusted with an important job may leave you feeling under pressure t
 
 @22B2C max=359
 JP: 裏方の仕事が回ってきやすい日ですが、結果はきちんと目に見える形で出るはず。手間ばかりかかっておもしろくない作業を押しつけられたと思わないほうが吉。一見つまらなそうに見える仕事でも不満を言わずに取り組んでください。あなたへの評価は上がっていくでしょう。<n>
-EN: You may be given work behind the scenes today, but your results should still be plain to see. Try not to feel you've been stuck with a tedious chore that takes too much effort. Even if a task looks dull, tackle it without complaining. Others will come to value you more highly.<n>
+EN: Behind-the-scenes work may come your way, but the results will show. Please don't see a dull, time-consuming task as a burden. Tackle it without complaint, and others will think more highly of you.
 
 @22C94 max=359
 JP: どんな仕事でも自信を持ってこなすことで、結果が後からついてくる日です。悩みが出てきても、今日はそれを口に出さないほうがいいでしょう。不安はあっても自信ありげにしていれば、あなたの態度に周囲は安心して、大きな仕事をまかせてもらえるかも。<n>
@@ -852,7 +852,7 @@ EN: Your personal relationships will carry over into work today. How you've trea
 
 @2339C max=359
 JP: 仕事運にツキがある日。大きな仕事を任される暗示があります。責任も大きくなりますが、やりがいを感じられそう。望んでいたポジションに手の届く可能性もあるかもしれません。荷が重いとしり込みすれば、チャンスは通り過ぎてしまいますから積極的に。
-EN: Luck is on your side at work. A major assignment may be coming your way. It brings more responsibility, but should feel rewarding. That position you've wanted could even come within reach. If you shy away because it seems too much, the chance will pass you by. Step forward eagerly.
+EN: Your work luck is good. A big assignment could bring more responsibility and a sense of purpose. That position you've wanted may be within reach. Please step forward! Shying away could cost you this chance.
 
 @23504 max=359
 JP: 仕事運は好調です。ノルマが少し厳しくなって困惑するかもしれませんが、こなせるだけの集中力を発揮でき、満足感を持って仕事を終えられそうです。同僚や先輩からの助けも大きいでしょう。日ごろの信頼関係がものを言いそうです。
@@ -888,11 +888,11 @@ EN: Keeping in touch with your work contacts holds the key to good luck. Make a 
 
 @24044 max=359
 JP: 仕事運は活気があります。がんばるほど、結果がついてくるはずです。新しい企画なども積極的に提案してください。「ここまで仕上げる」というラインに向かって、集中力を発揮すると、大きな達成感があるでしょう。ただし、能率が悪くなったら、適度に休憩を入れるようにして。
-EN: Your work luck is full of energy. The more effort you put in, the more results you should see. Be eager to propose new projects. Set yourself a clear target and focus on reaching it. You'll feel a real sense of achievement. If your efficiency starts to slip, though, take a well-earned break.
+EN: Your work luck is lively. Effort should bring results, so go ahead and propose new ideas. Set a clear goal and focus on reaching it for a real sense of achievement. Take a break if your pace starts to slip.
 
 @241AC max=359
 JP: 仕事運は吉凶混合。予定外の仕事を頼まれて、思うようにはかどらないことがありそうです。しかし手伝ってくれる人も現れ、今日すべきところまでのめどはつきそうです。相手の希望通りにはできないと思ったら、その時点でスケジュールを修正し、臨機応変に対応していきましょう。
-EN: Your work luck is mixed. An unexpected assignment may slow your progress, but someone should lend a hand, helping you see a way to finish today's tasks. If you realize you can't meet someone's expectations, adjust your schedule right away. A flexible approach will serve you well.
+EN: Your work luck is mixed. Unexpected tasks may slow you down, but help should arrive to get today's work on track. If you can't meet someone's expectations, adjust your schedule promptly and stay flexible.
 
 @24314 max=359
 JP: 仕事運は順調です。これまで培ってきたものを生かすことができ、その結果、高い評価を得ることができそうです。最後まで力を抜かず、がんばりましょう。あなたの仕事振りが認められ、昇進や昇給のチャンスにつながるかもしれません。
@@ -908,7 +908,7 @@ EN: Your work luck shows signs of major growth. If you've been stuck, a way forw
 
 @2474C max=359
 JP: 仕事に何らかの変化がありそうです。手がけていることが大きく発展する可能性や、逆に予想外の壁に突き当たる恐れがあります。異動が発表されるとか、転職の話が入ってくることも考えられます。冷静な判断が求められる日です。無理はしないで、自分のペースを守ること。
-EN: Changes may be coming at work. Your current project could grow dramatically or hit an unexpected wall. A transfer might be announced, or a new job opportunity could come your way. Today calls for a cool head. Don't push yourself too hard, and keep to your own pace.
+EN: Changes may be coming at work. Your project could take off or hit an unexpected wall. A transfer or a new job offer is also possible. Please keep a cool head, avoid overdoing things and work at your own pace.
 
 @248B4 max=359
 JP: 仕事のうえでの人間関係に恵まれそうです。上司から良い評価を得られたり、後輩に慕われたりするでしょう。同僚とも良い刺激を与え合えそうです。得意先とのコミュニケーションもスムーズ。うれしい進展があるかもしれません。
@@ -920,7 +920,7 @@ EN: Your work luck is good. You may be given a very rewarding assignment, but tr
 
 @24B84 max=359
 JP: なぜか実りの少ないときです。まじめにがんばっているのに、成績に結びつかずイライラしそう。一気に飛躍を望むのはムリ。ただ、何事も継続することで逆転の見込みはあります。ジミな作業をコツコツ続けることで、光は必ず見えてくるはず。
-EN: For some reason, your efforts may yield little just now. Working hard without seeing results could leave you frustrated. A sudden leap forward is unlikely, but persistence can turn things around. Keep chipping away at the routine tasks, and brighter prospects will come into view.
+EN: Hard work may bring few results for now, leaving you frustrated. A sudden breakthrough is unlikely, but steady effort can turn things around. Keep chipping away at routine tasks. Brighter days will come.
 
 @24CEC max=359
 JP: 精神面が安定し、それが仕事をしていく上でプラスに働くはずです。堅実に仕事をこなしていけば、職場であなたをバックアップしようという機運も高まっていくはず。職場にいる時間を短くすることが、かえって働く意欲をアップさせます。
@@ -968,7 +968,7 @@ EN: Steady tasks will go well today. Focus on work that takes care and patience,
 
 @25C64 max=359
 JP: ヤル気が空回りしやすい日です。肝心なところで詰めが甘く、失敗が目立ちやすくなっています。計画に沿って確実に物事を処理するようにしてください。提出書類の見直しは入念に。仕事仲間のフォローを期待せず、まず自分がしっかりすることです。
-EN: Your enthusiasm may get you nowhere today. Overlooking crucial details could lead to some very obvious mistakes. Follow your plan and handle each task carefully. Check documents thoroughly before submitting them. Please don't count on coworkers to cover for you. Get your own work in order first.
+EN: Enthusiasm may get you nowhere today if you miss crucial details. Follow your plan and handle each task carefully. Check documents before submitting them. Please put your own work in order before relying on coworkers.
 
 @25DCC max=359
 JP: 仕事運に勢いはありますが、うっかりミスも起こりそうなので気をつけましょう。話し合わなければならないことや仕事相手の方法に言及するときは、言葉を選んで慎重に。言い方一つで、相手の動きが変わってきます。
@@ -992,7 +992,7 @@ EN: Your work luck may have its ups and downs. A troublesome task could leave yo
 
 @264D4 max=359
 JP: 伝言ミスや日時の勘違いがあって、慌てることがあるかもしれません。重要なことは復唱し、手帳や予定表などをしっかりと確認してください。うっかりしていた連絡も思い出しそうです。ミスを注意されているときは、辛抱強く聞くようにしましょう。のちのちの評価につながります。
-EN: A mixed-up message or a mistaken date or time could leave you scrambling. Repeat important details back and check your planner carefully. You may also remember someone you forgot to contact. If someone points out a mistake, please listen patiently. How you handle it will shape their opinion of you later.
+EN: A mixed-up message or date could cause a panic. Repeat key details back and check your planner. You may recall a call you forgot to make. Listen patiently when corrected; it will help your reputation later.
 
 @2663C max=359
 JP: 仕事運は低迷。人を批判する気持ちや、上司への不満がたまってしまいそう。でも、口にすれば、その瞬間は気が晴れますが、周囲に「グチの多い人」という印象を与えてしまいます。黙ってノルマをこなしたほうがいいでしょう。<n>
@@ -1004,7 +1004,7 @@ EN: You could reach a goal today. Why not let people know what you've achieved? 
 
 @2690C max=359
 JP: 動揺するような出来事がありそう。仕事に手がつかなくなるかもしれませんが、単純作業をしながら気持ちを落ち着けてください。わからないことは、その場でたずねて。「聞くはいっときの恥で、聞かぬは一生の恥」と心得てください。
-EN: Something may happen that leaves you rattled. If you can't focus on work, try a simple task to help settle your nerves. Ask about anything you don't understand right away. Remember, asking may feel embarrassing for a moment, but never asking can leave you in the dark for life.
+EN: Something may leave you rattled. If you can't focus, settle your nerves with a simple task. Ask right away about anything you don't understand. Better a moment's embarrassment for asking than a lifetime of not knowing.
 
 @26A74 max=359
 JP: 仕事運は好転。嫌な思いをすることなく、快適な環境で仕事をすることができるでしょう。ほぼ決定したことでも、再度確認してみる価値があります。不備を見つけたり、より良い案を加えたりすることができます。あなたの評価もますます上がるでしょう。
@@ -1012,11 +1012,11 @@ EN: Your work luck is looking up. You should be able to work comfortably, free o
 
 @26BDC max=359
 JP: どういうわけか無駄なことばかり押しつけられるハメになりそう。イライラして成果もいまひとつのようです。だからといって休憩を長めに取るなどサボっていると、見られたくない人に見つかるかも。今日は早目に仕事を終わらせて帰宅したほうが賢明です。
-EN: Somehow, you may end up saddled with one pointless task after another. Frustration could leave you with little to show for your efforts. Still, slack off with a long break and the very person you'd least want to see may catch you. Finishing early and heading home would be wiser today.
+EN: Pointless tasks may leave you frustrated, with little to show for your work. But take too long a break and the last person you'd want may catch you slacking. It would be wise to finish early and head home.
 
 @26D44 max=359
 JP: すっかり手慣れてしまったことを見直したほうがよさそうな日です。電話の応対などの言葉遣いをていねいにしましょう。また、話す速度やタイミングなど小さなこと一つ一つを大切に。好印象を与えることができ、あなたのイメージアップにつながります。
-EN: It's a good day to review things you've started doing on autopilot. Mind your manners when answering the phone and speaking to others. Small details matter, including how fast you speak and when you choose to say something. Taking care with each one will help you make a better impression.
+EN: Review tasks you've started doing on autopilot. Be polite, especially on the phone, and mind your speaking pace and timing. Care with these small details will help you make a better impression.
 
 @26EAC max=359
 JP: たくさんの仕事を抱えてしまいそうな運勢。すべてをひとりでこなそうとせず、周りの人に助けを求めて。上手にやりくりをして仕事を片づけたほうがいいでしょう。メンツを気にして黙っているとパニックに陥り、かえって周りに迷惑をかけてしまうかもしれません。
@@ -1044,19 +1044,19 @@ EN: Unexpected trouble may crop up today. A coworker could leave, or another cha
 
 @2771C max=359
 JP: 連絡ミスや伝言ミスに気をつけたい日です。内容をきっちりとメモをとり、先方に伝えるようにしましょう。自分の仕事に集中しているときに確認が相次いで、うっかりすることがありそう。また、せっかくリズムができているときに中断されてしまいそうな暗示です。
-EN: Watch out for communication mix-ups today. Write down messages accurately and pass the details along with care. Repeated requests to check things could distract you from your own work and lead to a slip. You may also be interrupted just as you're getting into a good rhythm.
+EN: Watch for mixed-up messages today. Take clear notes and pass them on carefully. Repeated requests to check things may distract you and cause slips, or break your rhythm just as work starts going smoothly.
 
 @27884 max=359
 JP: 新しい企画を立てるとか調べ物をするなど、ひとり静かに進められる知的な作業が幸運を呼ぶ日です。集中して仕事ができ、思った以上にはかどります。新しい発見もあるかもしれません。仕事の幅も広がる予感がして、満足感が得られるでしょう。
-EN: Quiet mental work you can do alone brings luck today, whether it's research or planning a new project. You'll be able to concentrate and get more done than expected. You might even discover something new. The prospect of broadening your work should leave you feeling satisfied.
+EN: Quiet work alone, like research or planning, brings luck today. You'll focus well and get more done than expected. A new discovery may even broaden your work, leaving you with a sense of satisfaction.
 
 @279EC max=359
 JP: 今日の仕事は波乱運。状況が大きく変わり、忙しくなってしまうかもしれません。改めて仕事と家族、仕事とプライベートの板ばさみになってしまいそうな暗示もあります。今だけと割り切って仕事をこなし、休日のお楽しみを励みにするといいでしょう。
-EN: Work could be turbulent today. A major change may leave you much busier, and you could once again feel torn between work, family and your private life. Remind yourself this is temporary and get through what needs doing. Plans for your next day off can help keep you going.
+EN: Work may be turbulent today. Big changes could keep you busy and torn between work, family and private life. Remember, this is temporary. Plans for your next day off can help you keep going.
 
 @27B54 max=359
 JP: 迷っていることには、今日は手を出さないほうがいいでしょう。ヘタに動くと、混乱してしまいそう。いつものことをいつものようにこなして。単純作業にはツキがあります。チームワークを発揮するとあっというまに片づき、職場での一体感が得られるでしょう。
-EN: If you're unsure about something, it's best to leave it alone today. A clumsy move could only make things more confusing. Stick to your usual routine. Simple tasks bring good luck, and teamwork could get them done in no time while bringing everyone at work closer together.
+EN: If you're unsure about something, leave it for now. Acting could cause confusion. Stick to your routine; simple tasks bring luck. Teamwork will help you finish quickly and feel closer to your coworkers.
 
 @27CBC max=359
 JP: 「自分に任せてくれれば、もっとうまくできるのに」というくやしい気持ちで他の人の仕事を見ている場面がありそう。でも、そこで口を出さないこと。よけいなことをすると叩かれます。自分にチャンスがめぐってきたときに、その気持ちを生かしましょう。
@@ -1076,7 +1076,7 @@ EN: Don't readily agree to a job you can't handle alone. You could lose the trus
 
 @2825C max=359
 JP: 我を出しすぎると、あちこちでぶつかりそうです。人の考えを聞いてうなずいてから、自分の方法を提示してみましょう。相手の立場や利益のことまで頭に置きながら交渉してください。まずは、相手の笑顔を誘えたら成功です。
-EN: Pushing your own way too hard could cause clashes everywhere. Hear others out and acknowledge their ideas before suggesting your approach. When negotiating, keep their position and interests in mind too. If you can get them smiling, you're off to a good start.
+EN: Pushing your own way may lead to clashes. Hear others out and acknowledge their ideas before suggesting yours. Keep their needs and interests in mind when negotiating. Getting them smiling is a good start.
 
 @283C4 max=359
 JP: スピーディーに行動したい日です。即断、即決が幸運を呼ぶカギに。活発に動くほど、チャンスは倍増します。今日、新しく会った人との関係が、いずれ面白い仕事に結びつくかもしれません。名刺交換、アドレス交換を忘れずに。
@@ -1088,7 +1088,7 @@ EN: Luck favors leaving yourself plenty of time. Start troublesome jobs early. E
 
 @28694 max=359
 JP: 話を聞いてくれない相手や自分勝手な上司にイライラするかも。でも、ここで踏ん張って力を尽くせば、仕事運が上昇していきます。グチや文句を言わずにがんばって。相手の利益を意識した言動を心がけ、目上の人を敬えば、評価が一気にアップします。
-EN: People who won't listen and selfish bosses may test your patience. Still, giving your best now will improve your work luck. Keep at it without grumbling. Consider what others stand to gain when you speak and act, and show respect for your superiors. Their opinion of you could soar.
+EN: Selfish bosses or people who won't listen may try your patience. Do your best without grumbling, and your work luck will rise. Consider others' interests and respect your superiors to boost your reputation.
 
 @287FC max=359
 JP: 難しい課題や慣れない作業でも、失敗を恐れないで思い切って取り組むこと。集中してやれば、案外すぐ自分のものにすることができそうです。地道な努力がツキを呼び込みます。一気に結果を出そうとして焦ると、つまずくので注意しましょう。
@@ -1148,7 +1148,7 @@ EN: Your steady efforts look set to pay off, and people around you will likely o
 
 @29BAC max=359
 JP: 上と下にはさまれて、やっかいなことになりそう。どっちつかずの態度は逆効果です。自分の立場を明確にしておきましょう。また、つまらないことにこだわって、人に頭を下げるのをためらうと、それが命取りになる恐れもあります。
-EN: Being caught between higher-ups and junior staff could get messy. Sitting on the fence will only make things worse, so make your position clear. Also, don't let a trivial point of pride stop you from swallowing your pride and asking a favor or apologizing. It could prove your undoing.
+EN: You may get caught between bosses and junior staff. Sitting on the fence will make things worse, so be clear where you stand. Don't let petty pride stop you from apologizing or asking a favor. It could cost you dearly.
 
 @29D14 max=359
 JP: ライバルとの戦いが激しくなって、周囲もふたりに注目しそう。つい焦ってしまいがちですが、それでは実力を発揮できません。人を気にしすぎず、マイペースで進めましょう。じっくり集中して取り組むことで、成果をあげられます。
@@ -1168,7 +1168,7 @@ EN: Trouble at work may leave you unsettled. People around you could get worked 
 
 @2A2B4 max=359
 JP: 判断力が低下。なにかと頑固になってしまいがちですが、譲り合いの精神が大事です。自分のテリトリーにこだわると、器量が狭いと言われそう。必要に応じて融通をきかせると吉。また、仕事相手の良いところは認めましょう。
-EN: Your judgment is a little shaky. You may feel unusually stubborn, but give-and-take matters today. Being too protective of your turf could make you seem small-minded. Be flexible when needed for good luck, and acknowledge the strengths of the people you work with.
+EN: Your judgment may be shaky, and stubbornness could creep in. Try to give and take. Guarding your turf too closely may seem petty. Being flexible brings luck, so recognize your coworkers' strengths too.
 
 @2A41C max=359
 JP: 情け深さがアダとなる日。後輩の面倒を見ていたら自分の仕事がおろそかになったり、ていねいな対応をしていたら相手がつけ上がったりといったことがありそうです。できるだけクールでいることで、トラブルを避けられます。
@@ -1188,11 +1188,11 @@ EN: Someone influential may give you a boost today. Support from senior colleagu
 
 @2A9BC max=359
 JP: ぼんやりしてしまい、注意されてしまうかも。特に午後は、会議中など大事なところで眠くなり、ヒンシュクを買う暗示もあるので気をつけて。食事の量は控えめにし、食後はガムをかむなどして、気分をスッキリさせる工夫をしてください。
-EN: You may drift off and get told off for it. Be especially careful in the afternoon: getting sleepy at an important moment, such as during a meeting, could draw disapproving looks. Keep meals light and try chewing gum afterward to help yourself feel refreshed.
+EN: You may get told off for daydreaming. Be careful this afternoon: dozing off in a meeting could earn you disapproving looks. Keep meals light and try chewing gum afterward to freshen up.
 
 @2AB24 max=359
 JP: 周囲にあなたの力を認めてもらえるチャンスです。責任のある仕事を任される人もいそう。ただ、活躍するあなたをねたむ人もチラホラいます。あまり刺激しすぎないようにしたほうが無難です。成功の秘訣は、あともう少しというところで気を抜かずに最後までがんばること。
-EN: This is your chance to have your abilities recognized. You may be entrusted with important work. A few people could envy your success, though, so avoid giving them too much reason to bristle. The secret to success is to keep your focus right to the end, even when you're almost finished.
+EN: Your talents may earn you recognition and a task with real responsibility. Some may envy your success, so avoid showing off. The key is to stay focused right to the finish, even when you're nearly there.
 
 @2AC8C max=359
 JP: 尊敬している上司や、かねてから希望していた物事に近づけるチャンスです。転機が訪れることもあるかもしれません。ジャンプアップも望めますから、周囲の動きをじっくりうかがいながら慎重に臨んでください。カンも鋭いときです。自信をもって前進しましょう。
@@ -1200,11 +1200,11 @@ EN: You may get a chance to grow closer to a boss you admire or move toward a lo
 
 @2ADF4 max=359
 JP: どんなささいなことも甘く見ないこと。マジメに取り組む姿をじっと見ている人物がそばにいます。あなた自身を試されていると思ってください。認められれば、たちまち飛躍できるでしょう。清潔感のあるファッションもポイントになりますから、念入りにチェックして。
-EN: Don't underestimate even the smallest task. Someone nearby is watching how seriously you work. Think of it as a test of your character. Earn their approval, and you could advance in no time. A clean, neat appearance matters too, so give your outfit a careful check.
+EN: Take even small tasks seriously. Someone nearby is watching your efforts, so think of this as a test. Earn their approval and you could advance quickly. A neat, clean look matters too, so check your outfit.
 
 @2AF5C max=359
 JP: 良き理解者・指導者の出現が期待できます。あなたの長所をさらに伸ばし、短所をカバーしてくれる、そんな人物でしょう。疑問点はどんどん聞いて積極的に取り組むのがベター。けれど甘えは禁物。「自分のことは自分で」が基本です。
-EN: You may meet an understanding ally or a good mentor, someone who helps develop your strengths and makes up for your weaknesses. Ask plenty of questions and take an active part in learning. Just don't become dependent on them. Handling your own responsibilities should remain the rule.
+EN: An understanding ally or mentor may appear to build on your strengths and cover your weaknesses. Ask questions and take an active part. Just don't lean on them too much. Your responsibilities are still yours.
 
 @2B0C4 max=359
 JP: 活気があふれています。周囲からの期待も大きく、何かと頼りにされることでしょう。スケジュール外の仕事まで頼まれそうなので、とうてい無理と感じたらはっきり断ったほうが無難です。後輩からの質問は丁寧に答えてあげましょう。
@@ -1216,7 +1216,7 @@ EN: Your work luck is very rewarding. Sudden requests may catch you off guard, b
 
 @2B394 max=359
 JP: 肝心なところを見落としてしまいがちです。どんなに忙しくても他人任せにしないよう、しっかり管理しましょう。また頼まれていた仕事を忘れていたことに気づいて青ざめる瞬間があるかもしれません。目のつくところにメモを貼り付けるなどして、すべきことをしっかり把握して。
-EN: You're prone to overlooking crucial details. However busy you get, keep track of things yourself instead of leaving it all to others. You may go pale when you remember a forgotten assignment! Put notes where you'll see them and keep a firm grasp on what needs doing.
+EN: You may miss a crucial detail or get a nasty shock over a forgotten task. However busy you are, keep track of things yourself. Put reminder notes where you'll see them so you know what needs doing.
 
 @2B4FC max=359
 JP: 今まで積み上げてきた経験と直感がものを言う日です。新しいことに一瞬心を奪われそうですが、よけいな情報には振り回されないよう注意しましょう。用事をいろいろ頼まれることもありますが、できる範囲で引き受けるようにすると吉。
@@ -1272,11 +1272,11 @@ EN: A situation may test your sense of responsibility as a working adult. Think 
 
 @2C744 max=359
 JP: バリバリと仕事をこなせる好調日。後輩のフォローや顧客のサポートにてんてこまいという場面もあるでしょう。でも、あなたの活躍を熱い目で見守る人がいそうです。その人から、良い縁や新たな仕事の話が舞い込む可能性もあります。
-EN: It's a great day to power through your work. Helping junior coworkers and supporting clients may keep you rushed off your feet. Still, someone seems to be watching your efforts with admiration. They could bring you a valuable connection or news of a new job.
+EN: You're ready to power through work today! Helping junior coworkers and clients may keep you busy, but someone is watching with admiration. They could bring you a useful connection or a new work opportunity.
 
 @2C8AC max=359
 JP: 周囲の期待が大きく、プレッシャーを感じそうな日。できないかもしれないという不安感にとらわれていると、進めません。逆に突っ走ってしまうと、クオリティが下がってしまう恐れもあります。励ましは素直に受けとめ、雑音は気にせず、しっかりと取り組みましょう。
-EN: Others' high expectations may put you under pressure today. Dwelling on fears of failure will only hold you back, while rushing ahead could hurt the quality of your work. Accept encouragement graciously, tune out distracting chatter, and give the task your full attention.
+EN: High expectations may put you under pressure. Fear of failure can stall you, but rushing could hurt your work's quality. Accept encouragement, tune out unhelpful chatter, and give the task your full attention.
 
 @2CA14 max=359
 JP: 自分の仕事をコツコツとこなしたい日。ていねいな作業を継続するような場面で、あなたの真価を発揮できそうです。ただ、完ぺきを目指すあまり、型にはまってしまう恐れもあります。少々はみ出す発想も加えるよう意識してみるといいでしょう。
@@ -1288,7 +1288,7 @@ EN: Trouble may be brewing at work. Something that normally gets approved could 
 
 @2CCE4 max=359
 JP: カンが冴え、うまく立ち回れる好調日。時間を上手に使え、いつもの倍近いスピードで作業をこなせるかもしれません。達成感もあるでしょう。職場のムードを盛り上げるアイデアもわきそうです。メールでメンバーに伝えたり号令をかけて段取りを進めてください。
-EN: Your instincts are sharp, helping you navigate work with ease. You may use your time so well that you finish tasks at nearly twice your usual speed. Enjoy that sense of achievement! Ideas to lift workplace spirits may come, too. Email the team or rally everyone to get plans moving.
+EN: Sharp instincts help work go smoothly. You may finish tasks at nearly twice your usual speed and feel quite accomplished! Ideas to lift the team's spirits may come too. Email everyone or rally them to get plans moving.
 
 @2CE4C max=359
 JP: 仕事運は安定しています。ふらりと立ち寄ったところで、仕事に役立つ情報を得られる予感があります。今日は直感の導くまま、動いてみましょう。仕事に関する資格試験、公募などへのチャレンジを考えることはラッキー。
@@ -1328,7 +1328,7 @@ EN: Your work luck is ordinary. If something needs doing eventually, start now. 
 
 @2DAF4 max=359
 JP: 仕事運は不安定。仕事相手との間に誤解が生じるかもしれません。いつものことでも、指を差して確認するといいでしょう。形骸化しているあいさつや号令もていねいにすることでトラブル防止になります。イライラして、後輩に八つ当たりしてはいけません。
-EN: Your work luck is unsettled. Misunderstandings may arise with people you work with. Even for routine tasks, point out each detail as you check it. Give proper care to greetings and instructions that have become mere formalities, too. Don't take your frustration out on junior coworkers.
+EN: Work luck is shaky, and misunderstandings may arise. Point to each detail as you check even routine tasks. Careful greetings and clear instructions can prevent trouble. Don't snap at junior coworkers out of frustration.
 
 @2DC5C max=359
 JP: 仕事運は冴えません。実力が発揮できず、時間ばかりかかってしまいそうな日です。うまく進まないのは、自分の思い込みのせいだったということもありますから、出発点から見直してみてください。面倒だと思うことから取りかかると、あとがラクでしょう。
@@ -1352,7 +1352,7 @@ EN: Your work luck is holding steady at a high level. Please stay alert, especia
 
 @2E364 max=359
 JP: カンが鋭くなっているので、大きな買い物をするのにいい日です。特に暮らしが快適になる家電がグッド。便利な機能に、生活リズムも変わりそう。ギャンブル運にもツキがあります。お小遣いの範囲でなら、予想以上に楽しめそう。
-EN: Your instincts are sharp, making this a good day for a major purchase. Appliances that make home life easier are especially lucky. Handy new features could even change your daily routine. Your gambling luck is good, too. Within your spending money, it could be more fun than expected.
+EN: Sharp instincts make this a good day for a big purchase, especially a handy home appliance. Its features could change your daily routine! Gambling luck is good too. Stick to your fun-money budget and you may enjoy it more than expected.
 
 @2E4CC max=359
 JP: 思いがけない金運・物質運がある日です。臨時収入があったり、すっかり忘れていた懸賞当選の品が届いたりするかも。宝くじを買ったり、何かに応募するのも吉。「どうせ当たらない」という気持ちでなく、気合いを入れて挑戦するとラッキー。
@@ -1376,7 +1376,7 @@ EN: You're especially vulnerable to offers that sound too good to be true today.
 
 @2EBD4 max=359
 JP: 衝動買いをすると失敗してしまう日。強烈に「欲しい！」と思ってもグッとこらえたほうがいいでしょう。友人とショッピングを楽しむより、習い事など自己投資にお金を使うことをおすすめします。目に見えない財産となって、後で役に立つはず。<n>
-EN: Impulse buys are likely to go wrong today. Even if you desperately want something, please try to resist. Instead of shopping with friends, consider investing in yourself through lessons or classes. The skills you gain will be a lasting asset that serves you well later.<n>
+EN: Impulse buys may disappoint today. Please resist, even if you really want something. Instead of shopping with friends, invest in lessons or classes. The skills you gain should serve you well later.
 
 @2ED3C max=359
 JP: お金の貸し借りからトラブルが起こりそう。借りたまま忘れていることがないか、確認してみたほうがいいでしょう。少額でも、貸したほうは覚えているものです。また、今日貸したお金はなかなか返ってこない可能性が高いので気をつけて。<n>
@@ -1400,7 +1400,7 @@ EN: A practical approach to shopping brings luck. Tidy up, discard what you don'
 
 @2F444 max=359
 JP: 金運は吉凶混合。臨時収入や得する情報があって喜んでいたと思ったら、知人へのお祝い金など義理がらみの避けられない支出もありそう。手持ちのお金は全部使ってしまわずに少し残しておいたほうがいいでしょう。<n>
-EN: Your money luck is mixed. Just as extra income or a useful money-saving tip cheers you up, an unavoidable social expense may arrive, such as a gift to celebrate an acquaintance's big occasion. Please keep a little money in reserve instead of spending everything you have.<n>
+EN: Your money luck is mixed. Extra income or a handy savings tip may cheer you up, only for an unavoidable expense, like a celebration gift, to follow. Please keep some money in reserve.
 
 @2F5AC max=359
 JP: もうけ話や臨時収入のチャンスが舞い込む可能性が高い日です。ためらっているうちにきっかけを逃してしまうこともありますから、一口だけでも乗ってみるといいでしょう。収支の管理をしっかりすれば幸運が続きそうです。<n>
@@ -1440,7 +1440,7 @@ EN: Please take care not to lose people's trust over money today. Casual request
 
 @30254 max=359
 JP: 安定した金運に恵まれた一日。ちょっと高級な食材を買ったり、おいしいものを食べに行ったりすると、出費以上の満足感がありそうです。デートもケチケチしないほうがラッキー。日ごろ何かと手助けしてくれる同僚や友人に差し入れするのもいいでしょう。
-EN: Your money luck is steady today. Splurging on quality ingredients or a delicious meal out could bring more satisfaction than the cost suggests. Being generous on a date brings luck, too. You might also bring treats for friends or colleagues who often help you.
+EN: Your money luck is steady. Fine ingredients or a tasty meal out may be well worth the cost. Be generous on dates, too. Treating friends or coworkers who often help you would also be a lovely idea.
 
 @303BC max=359
 JP: 金運のアップダウンが激しい一日になりそう。衝動買いで大きな買い物をしてしまう恐れがある一方、金券が手に入ったりするラッキーにも恵まれそうです。スピードくじに当たる可能性もありますから、購入してみては？
@@ -1508,7 +1508,7 @@ EN: Money may come and go quickly today. Extra income is likely, but so are extr
 
 @31A3C max=359
 JP: 思いがけない金運・物質運がある日です。以前から欲しかったものを突然プレゼントされたり、忘れていたへそくりを発見してニヤニヤするかもしれません。懸賞に応募するにもいいでしょう。今日のツキを生かしてください。
-EN: Unexpected luck with money and possessions awaits. Someone might surprise you with something you've wanted for ages, or you could find a forgotten stash of cash and grin from ear to ear. It's also a good day to enter a prize draw. Make the most of your luck!
+EN: Expect surprise luck with money and possessions. You might receive a gift you've long wanted or find some forgotten savings. It's a good day to enter a prize draw, too. Please make the most of your luck!
 
 @31BA4 max=359
 JP: 今後の収入アップが見込めるうれしいニュースがあるかもしれません。臨時収入にも恵まれそうです。周囲の手伝いや手助けを進んですると、思いがけないプレゼントや収入が得られるでしょう。ただし、感謝をねらってするのはダメです。
@@ -1560,7 +1560,7 @@ EN: Your money luck could be turbulent. Plans may go awry and leave you in a tig
 
 @32C84 max=359
 JP: 金運は小さなラッキーあり。少額ながら、くじの当選や優待券の入手などの幸運がありそうです。家族へのお土産、恋人への差し入れは、とても喜ばれそう。また、趣味に関する専門店へ行くと、予想外に安く、いいものが手に入ることもあるでしょう。
-EN: A little money luck is coming your way. You might win a small lottery prize or get a discount voucher. A souvenir for your family or a treat for your sweetheart should go down very well. A specialty shop for your hobby may also offer something lovely at a surprisingly low price.
+EN: A little money luck awaits: perhaps a small lottery win or a discount voucher. Gifts for family or treats for your sweetheart should delight them. A shop for your hobby may have a surprisingly good bargain.
 
 @32DEC max=359
 JP: レジャー費、交際費がふくらんでしまいそうです。でも、ケチっても楽しくはないので、ある程度の出費はよしとしましょう。財布の中を整理すると吉。よけいなカードやレシートを出し、必要なものだけにしてください。新しい金運を呼び込めます。
@@ -1596,7 +1596,7 @@ EN: Please watch out for impulse buys today. Don't buy something just because ev
 
 @3392C max=359
 JP: 金運は下降気味。お財布の中身がちょっと寂しいことを忘れてしまい、いざというときにあわてそう。恥ずかしい思いをしないよう、出かける前には財布の中身を確認しておきましょう。期限間近な割引券やポイントカードを見つけて得することもありそう。
-EN: Your money luck is slipping. You may forget how little is in your wallet and get a nasty surprise when it's time to pay. Check before heading out to spare yourself any embarrassment. You might even find a coupon or rewards card that's about to expire and put it to good use.
+EN: Your money luck is slipping. You may forget your wallet is nearly empty and panic when it's time to pay. Please check before going out. You might find a coupon or rewards card to use before it expires.
 
 @33A94 max=359
 JP: 物質運がとてもラッキーです。もらい物やおすそ分けがあって、リッチな気分が味わえるでしょう。お返しは無理せず、でも心のこもったものを探してください。ギャンブルにツキはない日ですから、今日は手を出さないこと。
@@ -1604,7 +1604,7 @@ EN: You're very lucky when it comes to possessions. Gifts and little things othe
 
 @33BFC max=359
 JP: 金運は上昇しています。くじ運があるので宝くじなどの購入が吉。気合いを入れて挑戦すると、思いがけないラッキーを呼びます。懸賞応募にもツキがあります。作品応募へのチャレンジもおすすめ。ずっと欲しかった賞品が当たるかもしれません。
-EN: Your money luck is rising. Lottery luck is with you, so buying a ticket looks promising. Giving it an enthusiastic try could bring a lovely surprise. Prize drawings are lucky too, and entering your own work in a contest is worth a try. You may win a prize you've wanted for ages.
+EN: Your money luck is rising. A lottery ticket may bring a surprise win, so give it a spirited try. Prize draws look lucky, too. Why not enter your work in a contest? You might win a prize you've long wanted.
 
 @33D64 max=359
 JP: 今日は領収書、請求書などの整理を徹底的にしてみましょう。今まで気づかなかった無駄な出費や問題点がはっきり見えてきます。それを元に節約ポイントをしっかり絞ると、今まで以上に支出のスリム化をはかることができるでしょう。
@@ -1628,15 +1628,15 @@ EN: A little luck may come your way: a coupon, a gift certificate, or enough poi
 
 @3446C max=359
 JP: 金運は不安定。交際費やレジャー費など、自分が希望しないことにお金を出さなくてはならないかも。今、自分にとって大事なことは何かよく考えてください。それ以外の費用は、きっぱり断ったほうが精神衛生上いいかもしれません。
-EN: Your money luck is unsettled. You may feel obliged to pay for outings or entertainment you don't even want. Think carefully about what matters to you right now. For your own peace of mind, it may be best to firmly decline expenses that don't fit those priorities.
+EN: Your money luck is unsteady. You may be asked to pay for outings or fun you don't want. Please think about what matters most to you now. Firmly declining other expenses could bring you peace of mind.
 
 @345D4 max=359
 JP: キャッチセールスなどにあう暗示があります。うまく乗せられて契約してしまわないこと。のちのち支払いに無理が生じて、困ることになるかも。人を頼ったりお金を借りたりなどの恐れもある日。心を強く持ち、自分の責任を持てる範囲での行動を心がけて。
-EN: You may encounter a pushy street salesperson. Don't let a smooth pitch talk you into signing a contract; the payments could become a burden later. You may also end up relying on others or borrowing money today. Stay firm, and only take on commitments you can handle yourself.
+EN: Beware of pushy sales pitches. Please don't be talked into a contract whose payments may strain your budget later. You could end up borrowing or relying on others. Stay firm and only commit to what you can afford.
 
 @3473C max=359
 JP: 金運に大きな動きはないでしょう。良くも悪くもないので今日は「節約の日」と決めて、なるべくお金を使わないことに挑戦してみると楽しいでしょう。安価でできるおいしいレシピなど、新たな発見があり、気持ちが豊かになりそうです。
-EN: Your money luck should hold steady, neither good nor bad. Why not declare this a saving day and see how little you can spend? You may enjoy the challenge. Discovering something new, like a delicious recipe that costs very little, could leave you feeling richer in spirit.
+EN: Your money luck is neither good nor bad. Why not make today a savings day and see how little you can spend? A discovery, like a tasty budget recipe, could make the challenge fun and leave you richer in spirit.
 
 @348A4 max=359
 JP: 金運は低迷。必要のないものに大金をつぎ込みやすい日です。テレビやネットショッピング、通販カタログなどは見ないほうがいいかも。見ると、つい欲しくなって散財してしまいそう。ただし、人への贈り物選びはツキがあります。
@@ -1644,23 +1644,23 @@ EN: Your money luck is low. You could spend a large sum on things you don't need
 
 @34A0C max=359
 JP: 金運は絶好調。ラッキーデイです。貸したお金が返ってきたり、おごってもらえたりとホクホク気分が味わえそう。くじ運もあるので景品が当たることもあるかも。最近いいことがあった友人と行動をともにすると、さらにツキが回ってくるでしょう。
-EN: Your money luck is wonderful today! Someone may repay a loan or treat you to something, leaving you feeling very pleased. Luck is also with you in prize drawings, so you might win something. Spend time with a friend who's had good news recently, and even more luck may rub off on you.
+EN: Your money luck is at its peak! A loan may be repaid, someone may treat you, or you may win a prize. Spend time with a friend who's had good news lately, and even more luck may come your way.
 
 @34B74 max=359
 JP: 家電や生活必需品が壊れるなどして、買い換えなくてはならなくなるかも。予算を決めて下見に行きましょう。ほしいものが次々と出てきて逆に散財する恐れもあり。情報を多く集めて見比べて。遊んでいる最中のスリや落とし物にも注意を。
-EN: An appliance or household essential may break and need replacing. Set a budget before browsing. Otherwise, one tempting find after another could lead to a spending spree. Gather plenty of information and compare your options. While out having fun, watch for pickpockets and lost belongings too.
+EN: An appliance or daily essential may break. Set a budget before shopping, or tempting finds could send you on a spree. Research and compare your options. While out having fun, watch for pickpockets and lost belongings.
 
 @34CDC max=359
 JP: 金銭感覚が、マヒしやすいときなので要注意！簡単に人にお金を貸してはいけません。たとえ少額でも、のちのちトラブルになりそう。安易に物をあげるのも避けたい日。相手にとってありがた迷惑のようです。コンビニでは買いすぎに注意。
-EN: Be careful: your sense of money's value may go astray today! Don't lend money casually. Even a small sum could cause trouble later. Avoid giving things away on a whim, too; the recipient may find your kindness more trouble than help. Watch your spending at convenience stores.
+EN: Your sense of money's value may slip today! Don't lend casually; even small loans could cause trouble later. Avoid giving things away on a whim, too. Your gift may be a burden. Go easy at convenience stores.
 
 @34E44 max=359
 JP: 家計簿など、お金の流れを確認しましょう。どんぶり勘定で、かなり損をしていたことに気づきそう。友達とワリカンをするときは、ケータイの電卓機能を駆使して、すばやくきっちり出しましょう。大損しやすい日なので、投資やギャンブルは禁物です。
-EN: Check where your money is going, perhaps with a household budget. Rough guesses may have cost you more than you realized. When splitting a bill with friends, use your phone's calculator to work out an exact share quickly. Heavy losses are possible today, so please avoid investing and gambling.
+EN: Review your spending. Rough guesses may have cost you dearly. When splitting bills with friends, use your phone's calculator to get everyone's share right. Big losses are likely today, so please avoid investing and gambling.
 
 @34FAC max=359
 JP: 出費が重なって、ピンチが訪れそう。ゴージャスなムードの物に引かれ、一番いいものから手を出すことも原因でしょう。今日は、ほしい物があっても我慢してください。お札と小銭、カードを一つの財布に入れず、別々にしておくと、使いすぎを防げていいかもしれません。
-EN: Expenses may pile up and leave you in a pinch. Your taste for luxury and habit of reaching for the best may be partly to blame. Please resist buying things you want today. Keeping bills, coins, and cards separately, instead of all in one wallet, may help you avoid overspending.
+EN: Bills may pile up and leave you short. A taste for luxury and always choosing the best may be to blame. Please resist buying things you want today. Keeping cash, coins, and cards separate may help curb your spending.
 
 @35114 max=359
 JP: 予想外の出費が重なり、ピンチになりそうな日。好きなアーティストのコンサートや興味のあるイベントの予告に、ついスケジュール帳をいっぱいにしてしまいがち。チケット代に交通費や食事代も含めて予算を立てておくようにしましょう。
@@ -1672,15 +1672,15 @@ EN: Carry only the cash you need today, and leave the rest at home. An unexpecte
 
 @353E4 max=359
 JP: 大きなお金が動きそうです。どうしても必要で、手持ちのお金がなかったら、家族に頼るのも一つの方法でしょう。金運は上昇していますから、ギャンブル性のある投資でも意外に成功しそうです。ただし、金銭感覚がマヒしやすいので注意を。
-EN: A large sum of money may change hands. If you truly need it and don't have enough, asking your family for help is one option. Your money luck is rising, so even a speculative investment may do surprisingly well. Still, please take care: it's easy to lose your sense of money's value today.
+EN: A large sum may change hands. If you truly need money you don't have, consider asking family for help. Your money luck is rising, so even a risky investment may succeed. Just take care not to lose your sense of money's value.
 
 @3554C max=359
 JP: アルバイトやサイドビジネスの話があるかも。おいしそうな話でも、自分で負担しなければならないものがあったりします。目先のお金に惑わされないように。お金のやりくりが大切です。出金は、レシートやメモを残して、家計の現状を知るようにしましょう。
-EN: You may hear about a part-time job or side business. Even an attractive offer could involve costs you must cover yourself. Don't be dazzled by quick cash. Managing your money matters today, so keep receipts or notes of your spending to see how your household finances really stand.
+EN: A part-time job or side business may come your way. Even a tempting offer could have costs you must cover. Don't let quick cash blind you. Manage your money carefully; keep receipts or notes to see where your finances stand.
 
 @356B4 max=359
 JP: 将来を考えて、少額でかまいませんから貯蓄を始めましょう。今日始めると、目標の金額までためられそうです。また、自分で見つけた金融商品は順調に増えそうです。よく調べて、自分に合うものを探しましょう。人任せにしては得になりません。
-EN: Start saving for the future, even if you can only put aside a little. Begin today, and you should be able to reach your target. An investment you find through your own research may also grow steadily. Look carefully for one that suits you. Leaving the choice to someone else won't pay off.
+EN: Start saving for the future, even just a little. Begin today, and you may reach your goal. An investment you find yourself may grow steadily, too. Research one that suits you; leaving the choice to others won't pay off.
 
 @3581C max=359
 JP: 計画どおりにお金を使える日です。また、オマケをもらえたりサービスがあったりして、得することが多そうです。また、インターネットを活用すると、お買い得品を見つけられそう。将来やりたいことのための投資なら吉。
@@ -1700,7 +1700,7 @@ EN: The mood of the moment may tempt you to spend. Please stay firm. Even at a g
 
 @35DBC max=359
 JP: おねだりがきく日です。パートナーや家族をほめたたえると、ほしいものを買ってもらえたり、援助してくれたりしそう。大げさにお礼を言うのもポイント。電話やメールを活躍させましょう。「久しぶりです。お元気ですか？」の優しい言葉だけで運を呼びます。家族のきずなを大切にしましょう。
-EN: A little sweet talk may work today. Praise your partner or family, and they may buy you something you want or offer support. Thank them with plenty of enthusiasm, too. Reach out by phone or email. Even a kind "It's been a while! How are you?" can invite good luck. Treasure your family ties.
+EN: Sweet talk works today! Praise your partner or family, and they may buy you a gift or offer support. Thank them warmly! Call or email; a kind "How have you been?" can bring luck. Treasure your family ties.
 
 @35F24 max=359
 JP: 旅行などのために「夢貯金」を始めるといいでしょう。今日スタートすると、順調にたまりそうです。また、お金に関する将来の計画を、もう一度確認しましょう。時代の変化とともに、計画どおりになっていないところは見直しを。
@@ -1708,7 +1708,7 @@ EN: Why not start a dream fund for a trip or another goal? Begin today, and your
 
 @3608C max=359
 JP: ほしいものが多すぎるのでは？　全部書き出して、本当に必要なものに絞り込みましょう。どうしても欲しいものは、それほど多くないことに気がつくはずです。また、今すぐ必要でないものは次回のリッチな時期に回すと、無駄遣いしません。
-EN: Could your wish list be a little too long? Write everything down, then narrow it to what you truly need. You may find there aren't that many things you simply must have. Put off anything you don't need right away until you have more money to spare, and you'll avoid wasteful spending.
+EN: Is your wish list too long? Write it all down, then keep only what you truly need. You may find few things you simply must have. Save less urgent purchases for when you have more to spend, and you'll avoid wasting money.
 
 @361F4 max=359
 JP: 新たな収入の方法が見つかるかも。チャンスを見逃さないよう、アンテナを広げておきましょう。また時給が上がったり昇進したりすることもあるかも。割引券やポイントカードなどをチェックして使うのも、思わぬ節約になりそうです。
@@ -1720,11 +1720,11 @@ EN: Your skills or talents may help someone out or save the day, earning you a c
 
 @364C4 max=359
 JP: バーゲンや特別セールでトクしそう。小物などは、まとめていくらとか福袋系にツキあり。自分には多すぎてもプレゼントにちょうどよかったりして、無駄にはならず後悔しません。また、大当たりはしませんがくじ運もある日です。
-EN: Bargains and special sales could bring good savings. Bulk deals on little items and lucky bags are especially promising. Even if you buy more than you need, the extras will make nice gifts, so nothing goes to waste. You also have some luck with prize draws today, though don't expect the jackpot.
+EN: Sales look lucky, especially bulk deals on small items and lucky bags. Any extras will make fine gifts, so you won't regret buying them. Prize draws look promising too, though a jackpot is unlikely.
 
 @3662C max=359
 JP: ちょっとした親切や無料奉仕のつもりがお礼や品物をもらえたりして、恐縮しそう。かたくなに断るより、遠慮なく受け取ったほうが好印象を与えます。感謝の気持ちは、「ありがとう」の言葉と笑顔にして返すと大吉です。
-EN: A small kindness or favor you meant to do for free may earn you money or a gift, leaving you a little embarrassed. Accepting graciously will make a better impression than stubbornly refusing. Return their kindness with a smile and a heartfelt "thank you" for excellent luck.
+EN: A small favor may earn you an unexpected gift, leaving you feeling a little shy. Accept it graciously instead of insisting you couldn't. A smile and a heartfelt "thank you" will bring wonderful luck.
 
 @36794 max=359
 JP: 人が持っているからとか、経験したからと、対抗心からお金を使ってしまいそう。自分にはフィットせず、後悔することになりそう。自分自身に必要かどうかを判断基準にして。また、衝動買いしたものは後で持て余しそうです。
@@ -1744,7 +1744,7 @@ EN: When shopping, compare your options and give yourself time to think. Buying 
 
 @36D34 max=359
 JP: 人間関係にお金のことを持ち込まないようにしましょう。貸し借りはもちろん、保証人などの契約は絶対に避けて。あとでトラブルになります。人の経済状況を話題にしたり、うらやましがったりするのはいけません。人のお金にかかわってはいけない日です。
-EN: Keep money out of your relationships today. Avoid lending, borrowing, and especially agreeing to guarantee someone else's debt. Trouble would follow. Don't discuss other people's finances or envy their wealth, either. This is a day to stay out of other people's money matters.
+EN: Keep money out of your relationships today. Avoid lending, borrowing or guaranteeing anyone's debt; trouble could follow. Don't discuss other people's finances or envy their wealth. Leave their money matters alone.
 
 @36E9C max=359
 JP: 人に乗せられて、気前よくおごってしまいそうな運気。本当におごりたいときはいいけれど、相手の関心を買おうとしたり、利用されたりしてお金を出すのはダメ。甘く見られてしまいます。財布のヒモはしめておいたほうがいい日です。
@@ -1764,7 +1764,7 @@ EN: Luck favors asking for a little treat today. Listen with a smile and offer a
 
 @3743C max=359
 JP: 節約精神が高まる日。家の中をよく見回して、無駄遣いだったと思う物をチェックすると吉。買い置きの食材を使うのも吉。リサイクルショップに行くと不用品が高く売れるかもしれません。ただし、買い物にはツキがなさそう。
-EN: You'll feel especially thrifty today. Look around your home and note anything you regret spending money on. Using ingredients you already have will bring luck, too. A secondhand shop may pay well for things you no longer need. Buying things yourself isn't favored, though.
+EN: Feeling thrifty? Look around your home for things you regret buying, and use food you already have. A secondhand shop may pay well for things you no longer need. Selling looks lucky today, but shopping doesn't.
 
 @375A4 max=359
 JP: まさに好調。特にくじ運がついていますから、宝くじなどはカンに頼り、ピン！とひらめいた場所での購入をおすすめします。また新たに貯蓄をスタートさせるのにも最適な日。確実にお金をためていける良い方法を見つけられそうです。
@@ -1776,7 +1776,7 @@ EN: Today is a good day to invest in your future, whether through classes for a 
 
 @37874 max=359
 JP: 上り調子の金運です。今まで努力してきたことが収入につながりそうな予感があります。自分へのごほうびに何か買うのもいいでしょう。また、目当ての品物が値下げになっていそうなので、ショップに出かけてみると吉。迷わず買って正解です。
-EN: Your money luck is on the rise. Your hard work may finally start bringing in income. Why not buy yourself a little reward? Something you've had your eye on may also be marked down, so a shopping trip could bring good luck. If you find it, buying without hesitation is the right choice.
+EN: Your money luck is rising. Past efforts may start paying off, so a little reward for yourself would be nice. Something you've wanted may be on sale. Try visiting the shops; if you find it, go ahead and buy it.
 
 @379DC max=359
 JP: 思いがけない臨時収入があり、財布のヒモがゆるみそうです。しかしその一方、突然のアクシデントによる支払いに見舞われたり、忘れていた請求書が届きそうな暗示が。はやる気持ちは抑えて、今日のところは派手に使わないほうが無難です。
@@ -1800,7 +1800,7 @@ EN: Overspending is on the cards. Shopping channels and catalogs may have you wa
 
 @380E4 max=359
 JP: 節約に徹したい日です。食費、光熱費などを見直してみると吉。衝動買いの気分にもかられそう。スーパーでは特価品の張り紙についつい手を伸ばし、買いすぎの恐れがあります。整理整頓も節約につながりますから、時間に余裕があればぜひ取りかかって。
-EN: Make saving your priority today. Reviewing your food and utility bills could help. You may also feel tempted to buy on impulse, especially when supermarket sale signs catch your eye. Be careful not to buy too much. Tidying up can help you save, too, so give it a go if you have time.
+EN: Focus on saving today. Review food and utility costs, and watch those impulse buys. Supermarket sale signs may tempt you to buy too much. Tidying up can also help you save, so give it a try if you have time.
 
 @3824C max=359
 JP: いい意味で、とても計算高くなる日です。電気屋やディスカウントショップでは、思い切って値段の交渉に出てみるといいでしょう。希望の金額に近づけるかもしれません。くじ運・懸賞運にもツキがありますから、プレゼントに応募してみると吉。
@@ -1820,7 +1820,7 @@ EN: You may be offered a new financial product or a dubious money-making scheme.
 
 @387EC max=359
 JP: 自分への投資なら少々の出費もいい日です。出て行った分は不思議と戻ってきそう。ケチらないほうがいいでしょう。「お金がない」とか「高すぎる」など、あまりマイナスの言葉ばかり発しているとツキが逃げてしまいますから気をつけましょう。
-EN: It's a good day to spend a little on improving yourself. Somehow, what you spend may find its way back to you, so don't be stingy. Be careful with gloomy remarks like "I have no money" or "That's too expensive." Too much negative talk could chase your luck away.
+EN: Spending a little on yourself is favored today. What you spend may somehow find its way back, so don't skimp. Just beware of saying "I'm broke" or "That's too expensive" too often. Gloomy talk can chase luck away.
 
 @38954 max=359
 JP: 滞っていたお金の問題に何とか明るい兆しが見えてきそうです。貸していたお金などは戻ってくる気配があります。また不動産に関してはいい物件が見つかりそうなので、引越しを考えている場合は思い切って決めるのも吉。予算も折り合いがつきそうです。
@@ -1828,7 +1828,7 @@ EN: A money problem that's been dragging on may finally show signs of improvemen
 
 @38ABC max=359
 JP: 金運は安定。気分転換になるための出費ならかまいません。インテリアやファッション、美容など、よほど高価でなければＯＫです。気分がよくなることで、運もあとからついてきます。また突然プレゼントが届いたり、くじが当たったりするなどラッキーの予感もあります。
-EN: Your money luck is steady. It's fine to spend a little to lift your spirits. Home decor, clothes, or beauty treats are all fine, provided they aren't too expensive. A brighter mood will bring better luck in its wake. A surprise gift or a win in a prize draw may also be on the way.
+EN: Your money luck is steady. Affordable treats for your home, wardrobe or beauty routine can lift your spirits, and luck will follow your brighter mood. A surprise gift or a win in a prize draw may also be on the way.
 
 @38C24 max=359
 JP: 金銭がらみのトラブルに巻き込まれそうな波乱含みの金運です。どんなに親しい間柄でも、お金だけでなく物質面の貸し借りも好ましくありません。壊れてしまったり汚されてしまったりして、あなたがショックを受ける恐れがあります。
@@ -1836,7 +1836,7 @@ EN: Your money luck looks unsettled, with a risk of getting caught up in financi
 
 @38D8C max=359
 JP: 下降気味の金運です。金銭の貸借は、あとで話がこじれるのでやめましょう。おごったりおごられたり、というのもトラブルのもとになりそう。「こんなはずではなかった」という事件が起こりそうですから、できるだけ避けてください。
-EN: Your money luck is slipping. Avoid lending or borrowing, as things could get complicated later. Treating others or accepting a treat could also cause trouble. Something may turn out very differently from what you expected, so avoid these situations as much as possible.
+EN: Your money luck is slipping. Lending or borrowing could get messy later. Treating someone, or letting them treat you, may also cause trouble. Things could turn out quite differently than expected, so steer clear.
 
 @38EF4 max=359
 JP: 金運はまあまあです。迷いのある買い物は後日、再検討したほうがよさそう。まだ必要がなかった、ということも考えられます。ただし、癒し系の小物などストレス発散に効果のある物は役に立ちそうなので、買ってみてもいいでしょう。
@@ -1896,15 +1896,15 @@ EN: You may buy or order something without checking the price carefully. Please 
 
 @3A2A4 max=359
 JP: 貯蓄や保険の話題から、将来に対する不安が芽生えてしまいそう。さまざまなマネープランを研究するといいでしょう。パートナーがいる場合は、金銭感覚の確認をすることも大切。お金に関する本や雑誌を読んだり、メールマガジンなどを見たりすると、得るものがあるはずです。
-EN: Talk of savings or insurance may leave you anxious about the future. Try exploring different financial plans. If you have a partner, it's also important to understand each other's attitudes toward money. Books, magazines and email newsletters about money should offer useful insights.
+EN: Talk of savings or insurance may stir worries about the future. Explore financial plans, and if you have a partner, compare your views on money. Books, magazines and email newsletters on finance could offer useful tips.
 
 @3A40C max=359
 JP: 人のお金の使い方やため方が参考になりそうです。話題にし、さしつかえのない範囲で聞いてみてください。意外な節約法やお得情報を聞けるかもしれません。自分でもできそうなことは、さっそく試してみましょう。光熱・通信費の設定変更も調べてみると吉。
-EN: Other people's spending and saving habits could teach you something. Bring it up, but only ask what they're comfortable sharing. You may hear surprising saving tips or news of bargains. Try any ideas that seem practical. Looking into changes to your utility and phone plans will also bring luck.
+EN: Others' spending and saving habits may help. Ask only what they're happy to share. You may discover clever tips or bargains. Try ideas that suit you. Reviewing utility and phone plans brings luck.
 
 @3A574 max=359
 JP: 金銭面ではピンチがありそう。人に振り回されてお金を使うハメになったり、調子に乗って遊んでいたら財布の中が小銭だけになってしまったり……。上手に中座することを考えてください。家にある食材を工夫した手料理で外食費を浮かせると吉。
-EN: Money may get tight. Others could draw you into spending, or you might have so much fun that you end up with only coins in your wallet... Think of a graceful way to leave partway through. Cooking creatively with ingredients already at home will help you save on eating out and bring good luck.
+EN: Money may get tight. Others may push you to spend, or a good time could leave you with just loose change. Plan a graceful early exit. Cooking with ingredients you have at home saves on eating out and brings luck.
 
 @3A6DC max=359
 JP: 今日の買い物は、ちぐはぐ運。大は小を兼ねると思って使いにくいものを買ってしまったり、部品や材料を買い続けなければならないものを手にしてしまいそう。複数の商品をじっくり検討して、ピッタリのものがなければ見送りましょう。妥協すると、損をします。
@@ -1916,7 +1916,7 @@ EN: Poor timing or preparation could lead to extra costs today. Check your suppl
 
 @3A9AC max=359
 JP: 知人の話に焦って、よく調べずに高額な用具をそろえたりするかもしれません。本当に使うかどうか、冷静に考えること。部屋の掃除や服の入れ替えをすると、引き出しやポケットから、忘れていた小銭や金券が出てくるかもしれません。
-EN: Something an acquaintance says may make you rush into buying expensive equipment without proper research. Please consider calmly whether you'll really use it. Cleaning your room or sorting out seasonal clothes could uncover forgotten coins or gift certificates in drawers and pockets.
+EN: Don't let someone's story rush you into buying pricey gear. Research it and calmly ask if you'll use it. Cleaning your room or swapping seasonal clothes may reveal forgotten coins or vouchers in drawers and pockets.
 
 @3AB14 max=359
 JP: お得情報が舞い込みそう。アルバイトやサイドビジネスの話はよく内容を確かめて、できそうなら乗ってみるのもいいでしょう。欲しいものには、だれよりも先に手を伸ばす強い気持ちを持っていると、しっかりと幸運をつかむことができます。

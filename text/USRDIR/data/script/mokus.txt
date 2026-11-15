@@ -1184,7 +1184,7 @@ EN: How about going out for a little shopping spree?
 
 @2C8AC max=359
 JP: 子供の頃の夢、<n>いっこでも叶えてれば立派なもんです。
-EN: Those dreams you had as a child...<n>Even making one come true is something to be proud of.
+EN: Making even one childhood dream come true is something to be proud of.
 
 @2CA14 max=359
 JP: 大丈夫です、<n>まだまだ夢はふくらむ余地がありますです。
@@ -1496,7 +1496,7 @@ EN: When you like something, try saying "I like it" out loud.
 
 @3365C max=359
 JP: <PN>さんの夢は、<n><PN>さんが叶えてあげなくっちゃです。
-EN: Your dreams are counting on you, <PN>.<n>Only you can make them come true, <PN>.
+EN: Your dreams need you, <PN>. You have to make them come true, <PN>.
 
 @337C4 max=359
 JP: 大丈夫、<PN>さんの夢は<n>ひとつずつ叶ってきてますです。

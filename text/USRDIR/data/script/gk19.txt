@@ -164,7 +164,7 @@ EN: Peach
 
 @15404 max=359
 JP: どんな相手に対しても思いやりが<n>深く、優しい気持ちで接すること<n>ができるあなたは、モモタイプ。<n>一見ソフトムードだけど、意外に<n>芯は頑固なところも、甘く柔らか<n>い果肉の奥に硬くて無骨な種を隠<n>したモモとそっくりですね。
-EN: Kind and thoughtful toward everyone,<n>you're a peach type.<n>You seem soft and gentle at first,<n>but there's a surprisingly stubborn<n>streak beneath that sweetness.<n>Just like a peach, your tender flesh<n>hides a hard, unyielding pit!
+EN: You're a peach: kind and caring to everyone. You seem soft and sweet, but hide a stubborn streak, just as a peach's tender flesh hides a hard, rugged pit.
 
 @1556C max=359
 JP: ブドウ
@@ -172,7 +172,7 @@ EN: Grape
 
 @156D4 max=359
 JP: 好奇心が強く、様々なことに興味<n>を抱くあなたは、ブドウタイプ。<n>ぎっしりついたブドウの実のよう<n>に、たくさんの興味の対象をいっ<n>ぱい抱えこむのもいいですが、目<n>移りしすぎて長続きしないという<n>欠点にならないように注意。
-EN: Curious about all sorts of things,<n>you're a grape type.<n>Your interests grow in big bunches,<n>just like grapes on a vine.<n>It's lovely to have so many passions,<n>but don't let every new distraction<n>make you abandon the last one!
+EN: You're a grape: curious about all sorts of things, with interests that grow in bunches! Just beware of chasing every new interest and never sticking with any.
 
 @1583C max=359
 JP: イチゴ
@@ -180,7 +180,7 @@ EN: Strawberry
 
 @159A4 max=359
 JP: 夢見るロマンチストのあなたは、<n>イチゴタイプです。香り豊かで甘<n>くて、ちょっぴり酸っぱいキュー<n>トなイチゴは、感受性の豊かなあ<n>なたの象徴です。母性本能が強く、<n>一途な愛は、相手によっては負担<n>になるということも忘れずに。
-EN: A dreamy romantic,<n>you're a strawberry type.<n>Sweet, fragrant and a little tart,<n>this cute fruit suits your sensitive soul.<n>You have a strong nurturing instinct,<n>but remember: your devoted love<n>can feel overwhelming to some people.
+EN: You're a strawberry: a dreamy romantic, sweet, a little tart, and sensitive. You love to nurture others, but remember, some may find your devoted love a bit much.
 
 @15B0C max=359
 JP: パイナップル
@@ -188,7 +188,7 @@ EN: Pineapple
 
 @15C74 max=359
 JP: 堂々としていて風格があり、華や<n>かな印象を与えるあなたは、パイ<n>ナップルタイプ。硬くてゴツイ皮<n>で自分の弱気の部分や欠点を隠し<n>ているところもありますね。まじ<n>めすぎたり、他人の評価を気にし<n>過ぎないように注意しましょう。
-EN: Poised, dignified and dazzling,<n>you're a pineapple type.<n>That tough, rugged rind of yours<n>sometimes hides your insecurities<n>and flaws from the world.<n>Try not to take life too seriously<n>or worry so much about others' opinions.
+EN: You're a pineapple: bold, regal and dazzling! Your tough rind hides doubts and flaws. Try not to be too serious or worry too much about what others think.
 
 @15DDC max=359
 JP: マンゴスチン
@@ -196,7 +196,7 @@ EN: Mangosteen
 
 @15F44 max=359
 JP: 完全主義者とは、あなたのための<n>言葉かもしれません。ほどよい甘<n>さでジューシーな味はまさにパー<n>フェクトなフルーツなのに、それ<n>を被う無骨な皮を持つところは、<n>理想が高すぎて融通がきかない所<n>がある、あなたを見るようです。
-EN: 'Perfectionist' could mean you!<n>Juicy and just sweet enough,<n>the mangosteen seems like a perfect fruit.<n>Yet it wears a rough, ungainly rind.<n>It rather resembles you:<n>your ideals are so high that<n>you sometimes struggle to bend.
+EN: You're a perfectionist! Juicy and just sweet enough, this fruit seems perfect, yet has a rough rind. Like you, its high ideals come with a stubborn lack of give.
 
 @160AC max=359
 JP: サクランボ
@@ -204,7 +204,7 @@ EN: Cherry
 
 @16214 max=359
 JP: 笑顔が魅力的なあなたは、サクラ<n>ンボのようにチャーミングな女性<n>ですね。ファッションもおしゃべ<n>りもセンスがいいので、誰からも<n>好かれる半面、気が多いと思われ<n>がちで損をしているかもしれませ<n>ん。理想が高すぎるところも。
-EN: With that lovely smile,<n>you're a lady as charming as a cherry.<n>Your flair for fashion and conversation<n>makes you popular with everyone.<n>Sadly, people may mistake that charm<n>for a wandering eye. You may also<n>set your sights a little too high.
+EN: You're a charming cherry of a lady! Your smile, style and witty chat win everyone over, but some may think you flirt too much. Your standards can be too high, too.
 
 @1637C max=359
 JP: ランブータン
@@ -212,7 +212,7 @@ EN: Rambutan
 
 @164E4 max=359
 JP: その形からして不思議で神秘的な<n>ランブータンは、その中に秘めた<n>おいしさのギャップが魅力。一見<n>クールに見えて実は情熱を内に秘<n>めたあなたの性格のようです。恋<n>をしたら、その気持ちを素直に表<n>現してみることをお勧めします。
-EN: The rambutan looks strange and mysterious,<n>but its hidden sweetness is a lovely surprise.<n>That contrast is part of its charm,<n>just like your personality.<n>You may seem cool, but passion burns within.<n>When you fall in love, try letting<n>those feelings show openly.
+EN: A rambutan's odd looks hide a sweet surprise. Like this mysterious fruit, you seem cool but hold passion inside. When you fall in love, let those feelings show!
 
 @1664C max=359
 JP: バナナ
@@ -220,7 +220,7 @@ EN: Banana
 
 @167B4 max=359
 JP: 野外でのレジャーやスポーツが大<n>好きなあなたは、いつでもどこへ<n>でもフットワークよく出かけて行<n>きます。いつでも簡単に食べられ<n>て栄養的にも優れたバナナは、ま<n>さにあなたのよう。簡単すぎる分、<n>後始末もきちんと忘れないで。
-EN: You love outdoor fun and sports,<n>and you're always ready to go anywhere<n>at a moment's notice.<n>A banana, handy to eat and packed with<n>nutrients, is the perfect fruit for you.<n>Just because it's easy, though,<n>don't forget to clean up afterward!
+EN: You're a banana: handy, nourishing and always ready to go! You love sports and outdoor fun. Just because it's easy to dive in, don't forget to clean up afterward.
 
 @1691C max=359
 JP: プルーン
@@ -228,7 +228,7 @@ EN: Prune
 
 @16A84 max=359
 JP: 責任感は人一倍。地道にコツコツ<n>と物事を進めることが得意なあな<n>たは、鉄分たっぷりのプルーンタ<n>イプ。努力、忍耐と言う言葉がい<n>やみなく当てはまる誠実さがウリ<n>です。他人にはシビアなので、言<n>葉で相手を傷つけてしまうことも。
-EN: Exceptionally responsible and good at<n>making steady progress, you're a prune type,<n>packed with iron.<n>Hard work and patience come naturally to you,<n>and your sincerity is your strength.<n>You can be strict with others, though,<n>so watch out for words that might hurt.
+EN: You're an iron-rich prune: responsible, honest and steady. Hard work and patience are your strengths. But you can be tough on others, so take care with your words.
 
 @16BEC max=359
 JP: メロン
@@ -236,7 +236,7 @@ EN: Melon
 
 @16D54 max=359
 JP: 創造性に富み、ユニークな発想が<n>できるあなたは、ジューシーさが<n>命のメロンタイプ。それでも、い<n>ざ恋をするとあまーいムードは苦<n>手。さばさばしすぎて、ずっと友<n>達のままなんてことにならないよ<n>うに、たまには彼に甘えてみて。
-EN: Creative and full of original ideas,<n>you're a melon type, juicy to the core.<n>Yet when you fall in love,<n>you struggle with sweet romantic moments.<n>Try leaning on him a little now and then.<n>If you're always too matter-of-fact,<n>you might stay 'just friends' forever!
+EN: You're a juicy melon, full of fresh ideas! But romance leaves you awkward. Let him pamper you sometimes, or your casual manner may keep you 'just friends' forever.
 
 @16EBC max=359
 JP: ビワ
@@ -244,4 +244,4 @@ EN: Loquat
 
 @17024 max=359
 JP: 慈悲にあふれ、困った人を見ると<n>じっとしていられないあなたは、<n>優しい甘さのビワタイプ。恋にお<n>ちると深みにはまりやすいタイプ<n>でもあります。自分も彼も美化し<n>すぎてしまって、本質が見えなく<n>ならないように注意が必要。
-EN: Compassionate and unable to ignore<n>anyone in need, you're a loquat type,<n>with a gentle sweetness.<n>You also tend to fall deeply in love.<n>Be careful not to idealize yourself<n>or him so much that you lose sight<n>of who you both really are.
+EN: You're a sweet loquat type, always eager to help those in need. You fall hard in love. Don't idealize yourself or him so much that you forget who you both really are.

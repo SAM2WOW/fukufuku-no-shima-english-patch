@@ -7942,11 +7942,12 @@ EN:
 JP: ﾛI?ﾛﾉ?ﾚI@h!"4ﾚI@ﾚIﾀﾛﾉｿﾛﾉ?ﾛI?ﾛIｿ萢@萢ﾀ
 EN: 
 
-@240FB8 max=27
-JP: Z\n<\nZ<Z\n<<\nZ福福先生
-EN: 
+@240FC8 max=23
+// speaker-name table (0x18-byte entries)
+JP: 福福先生
+EN: Master Fukufuku
 
-@240FE0 max=11
+@240FE0 max=23
 JP: マリアン
 EN: Marian
 

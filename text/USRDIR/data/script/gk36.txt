@@ -156,7 +156,7 @@ EN: Azuchi-Momoyama Period
 
 @15134 max=359
 JP: 常に未来に目を向けて前向きな考<n>え方をするあなたは、人々が天下<n>統一を夢見て戦った時代、安土桃<n>山時代タイプです。新しい冒険にチャレンジするときは、じっくり<n>と考えてから始めれば、洞察力も<n>おのずと養われてきます。
-EN: Always looking ahead with optimism,<n>you're the Azuchi-Momoyama Period type,<n>when people fought to unite Japan.<n>Before setting off on a new adventure,<n>take time to think things through.<n>Your insight will grow naturally.
+EN: An optimist, you're the Azuchi-Momoyama era type, an age of battles to unite Japan. Think before each new adventure, and your insight will grow.
 
 @1529C max=359
 JP: 平安時代
@@ -164,7 +164,7 @@ EN: Heian Period
 
 @15404 max=359
 JP: 古いものや慣れ親しんだものを大<n>切にするあなたは平安時代タイプ。<n>もっと未来にも目を向けて、新し<n>いこと、流行のことにもトライし<n>てみる勇気をもちましょう。時代<n>遅れと言われないためにも視野を<n>広げてみることです。
-EN: You treasure the old and familiar,<n>making you the Heian Period type.<n>Try looking toward the future, too.<n>Be brave and give new things<n>and the latest trends a chance.<n>Broaden your horizons so you don't<n>get left behind the times!
+EN: You cherish the old and familiar: a Heian era type. Look to the future, too! Dare to try new things and trends. Broaden your horizons to keep up with the times.
 
 @1556C max=359
 JP: 大正時代
@@ -172,7 +172,7 @@ EN: Taisho Era
 
 @156D4 max=359
 JP: 目の前の忙しさに振り回されてい<n>るような気分になることはありま<n>せんか？めまぐるしく時代が動き<n>出した大正時代があなたのタイプ。<n>本当に好きだと感じたことにじっ<n>くりと取り組んでみると、もっと<n>豊かな心でリラックスできるはず。
-EN: Does life's daily bustle ever leave you<n>feeling swept off your feet?<n>You're the Taisho Era type,<n>a time when change gathered speed.<n>Take time to focus on something<n>you truly love. You'll feel more relaxed<n>and find life more rewarding.
+EN: Swept up in life's daily rush? You're the Taisho era type, an age of rapid change. Spend time on what you truly love to relax and enrich your inner life.
 
 @1583C max=359
 JP: 室町時代
@@ -180,7 +180,7 @@ EN: Muromachi Period
 
 @159A4 max=359
 JP: 過去の思い出にとらわれて、ちょ<n>っとしたことでくよくよしてしま<n>いがちなあなたは、室町時代タイ<n>プ。デリケートな自分を守ろうと<n>しすぎて、取り越し苦労が多いの<n>かもしれません。傷つくのを恐れ<n>ず、一歩外へ踏み出して！
-EN: Caught up in memories of the past,<n>you tend to fret over little things.<n>You're the Muromachi Period type.<n>You may be so keen to protect<n>your sensitive side that you worry<n>over things that never happen.<n>Don't fear getting hurt. Step out!
+EN: Dwelling on the past and fretting over little things makes you a Muromachi era type. Guarding your tender heart can breed needless worry. Be brave and step outside!
 
 @15B0C max=359
 JP: 昭和
@@ -188,7 +188,7 @@ EN: Showa Era
 
 @15C74 max=359
 JP: 人の上に立つリーダーとして生ま<n>れてきたようなあなたは、まさに<n>昭和の高度成長期。ただ、あまり<n>にイケイケばかりだと、用心深い<n>仲間から敬遠されてしまうかも。<n>バブル崩壊なんてことにならない<n>ようさらに自分を磨いて。
-EN: A born leader, you embody<n>the Showa Era's economic boom!<n>But if you're always charging ahead,<n>your more cautious friends<n>may start keeping their distance.<n>Keep working on yourself so your boom<n>doesn't end in a burst bubble!
+EN: A born leader, you embody the Showa economic boom! Charging ahead can put cautious friends off. Keep working on yourself so your bubble doesn't burst.
 
 @15DDC max=359
 JP: 奈良時代
@@ -196,7 +196,7 @@ EN: Nara Period
 
 @15F44 max=359
 JP: 常にカンペキを目指すあなたは、<n>ちみつに区画整理された平城京が<n>栄えた奈良時代タイプ。きちんと<n>計画を立てられるのはあなたの長<n>所ですが、ワンパターンの生活に<n>はまり過ぎないように、たまには<n>変化も楽しみましょう。
-EN: Always aiming for perfection,<n>you're the Nara Period type,<n>when the carefully planned capital<n>of Heijo-kyo flourished.<n>Planning ahead is your strength,<n>but don't get stuck in a routine.<n>Enjoy a change now and then!
+EN: A perfectionist, you're the Nara era type, when the planned capital Heijo-kyo thrived. Planning is your strength, but avoid a rut. Enjoy a change now and then!
 
 @160AC max=359
 JP: 江戸時代
@@ -204,7 +204,7 @@ EN: Edo Period
 
 @16214 max=359
 JP: 年月だけをみれば天下泰平の歴史<n>が続いた江戸時代は、魅力的な外<n>見からは複雑な心境が見えないあ<n>なたのタイプ。トラブルを恐れて<n>解決すべき問題に直面するのを避<n>けていませんか？自分に正直にな<n>ることから始めてみて。
-EN: The long, peaceful Edo Period is your type.<n>Your charming exterior gives no hint<n>of the complicated feelings within.<n>Are you so afraid of trouble<n>that you avoid facing problems<n>that need solving? Start by being<n>honest with yourself.
+EN: You're the long, peaceful Edo era type. Your charm hides complex feelings. Do you avoid problems for fear of trouble? Start by being honest with yourself.
 
 @1637C max=359
 JP: 鎌倉時代
@@ -212,7 +212,7 @@ EN: Kamakura Period
 
 @164E4 max=359
 JP: 簡単に他人を信用しないところが<n>あるあなたのタイプは、鎌倉時代。<n>常に臨戦体制では、大切な人間関<n>係も危うくなりがちです。落ち着<n>かない気持ちを和らげるためには、<n>たっぷりと睡眠をとることをおす<n>すめします。
-EN: You don't trust others easily,<n>making you the Kamakura Period type.<n>Always being ready for battle<n>can put even your closest<n>relationships at risk.<n>Try getting plenty of sleep<n>to help settle that restless mind.
+EN: Slow to trust, you're the Kamakura era type. Always being ready for battle can put valued friendships at risk. Get plenty of sleep to soothe your restless mind.
 
 @1664C max=359
 JP: 石器時代
@@ -220,7 +220,7 @@ EN: Stone Age
 
 @167B4 max=359
 JP: 「人生は冒険」そんな風に考えて<n>生きているあなたは石器時代タイ<n>プ。好奇心旺盛で毎日がチャレン<n>ジの連続。まさに自由奔放に生き<n>るサバイバーですが、ときには周<n>囲を見渡したり、自分を振り返る<n>習慣も身につけましょう。
-EN: Life is an adventure to you,<n>making you the Stone Age type.<n>Brimming with curiosity, you see<n>every day as a new challenge.<n>You're a true free-spirited survivor,<n>but make time to look around you<n>and reflect on yourself, too.
+EN: Life is an adventure for you, the Stone Age type! Curious and free, you tackle new challenges daily. Take time to notice others and reflect on yourself, too.
 
 @1691C max=359
 JP: 明治時代
@@ -228,7 +228,7 @@ EN: Meiji Era
 
 @16A84 max=359
 JP: 上昇志向が強く、そのための努力<n>も惜しまないあなたは、明治時代<n>タイプ。ただし、自分のやり方に<n>とらわれて、周囲から強引だと思<n>われているかもしれません。なん<n>でも自分ひとりで抱え込まず、み<n>んなで分担することも忘れずに。
-EN: Ambitious and willing to work hard<n>to get ahead, you're the Meiji Era type.<n>But you may be so set in your ways<n>that others find you pushy.<n>Don't take everything on alone.<n>Remember to share the workload<n>and let everyone lend a hand.
+EN: Ambitious and hardworking, you're the Meiji era type. Being set in your ways may make you seem pushy. Don't shoulder it all alone. Share the work with others!
 
 @16BEC max=359
 JP: 縄文時代
@@ -236,7 +236,7 @@ EN: Jomon Period
 
 @16D54 max=359
 JP: 他人と深く関わることが苦手なあ<n>なたは、独特の土器が作られた縄<n>文時代タイプ。新しい情報やニュ<n>ースをキャッチしては人に喜んで<n>提供するのに、自分の気持ちを伝<n>えるのは得意ではないようです。<n>心を開く練習をして。
-EN: You struggle to get close to others.<n>You're the Jomon Period type,<n>an age known for its distinctive pottery.<n>You happily pick up news and information<n>and share it with others, but sharing<n>your own feelings is harder for you.<n>Practice opening your heart.
+EN: You're the Jomon Period type, an era of unique pottery. You gladly share news, but struggle with closeness and expressing feelings. Practice opening up.
 
 @16EBC max=359
 JP: 弥生時代
@@ -244,4 +244,4 @@ EN: Yayoi Period
 
 @17024 max=359
 JP: 直感やインスピレーションがあた<n>っていることが多く、クリエイテ<n>ィブな才能もあるあなたは、新し<n>い可能性が目の前に広がる弥生時<n>代タイプです。回りに流されずに<n>自分でしっかり目標をたてて頑張<n>ることが成功のカギです。
-EN: Your hunches are often right,<n>and you have a creative streak.<n>You're the Yayoi Period type,<n>with new possibilities opening before you.<n>The key to success is to set your own<n>goals and work hard to reach them.<n>Don't just follow the crowd!
+EN: You're the Yayoi Period type: creative, with keen instincts and new possibilities ahead. Success means setting your own goals and working hard. Don't follow the crowd!

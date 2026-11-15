@@ -156,7 +156,7 @@ EN: Cutlery
 
 @15134 max=359
 JP: 知的でクールな印象のあなたは、<n>食器で言うとカトラリーです。一<n>見すると気難しくとっつきにくい<n>ミステリアスな雰囲気ですが、よ<n>く知り合えば実はとっても気さく<n>な人。そのギャップが魅力となっ<n>て人をひきつけます。
-EN: Smart and cool, you're the cutlery<n>of the tableware world. At first,<n>you seem mysterious, hard to please<n>and hard to approach. Get to know<n>you, though, and you're wonderfully<n>easygoing. That surprising contrast<n>is what draws people to you.
+EN: You're cutlery: smart and cool. You seem mysterious and hard to approach, but you're easygoing once people know you. That contrast draws them in.
 
 @1529C max=359
 JP: 茶碗
@@ -164,7 +164,7 @@ EN: Bowl
 
 @15404 max=359
 JP: ほんわか温かい表情のあなたは、<n>食器で言うと茶碗です。一緒にい<n>る時間が長くなるほど、あなたの<n>よさはじんわりとしみいります。<n>あなた自身は何ごとにも一生懸命<n>な人。その実直さが周りの人に安<n>らぎを与えるのです。
-EN: With your warm, gentle expression,<n>you're a rice bowl in the world of<n>tableware. The longer people spend<n>with you, the more they appreciate<n>your charms. You put your heart into<n>everything you do. Your sincerity<n>helps those around you feel at ease.
+EN: You're a rice bowl: warm and gentle. Your charm grows on people over time. You put your heart into everything, and your sincerity helps others feel at ease.
 
 @1556C max=359
 JP: マグカップ
@@ -172,7 +172,7 @@ EN: Mug
 
 @156D4 max=359
 JP: いつでも元気でサバサバしている<n>あなたは、食器で言うとマグカッ<n>プです。コーヒーでも牛乳でもお<n>茶でもスープだろうが、細かいこ<n>とにこだわらずなんでもオッケー。<n>失敗しても後悔しません。明るい<n>キャラはさっぱり爽やかです。
-EN: Always upbeat and easygoing, you're<n>the mug of the tableware world.<n>Coffee, milk, tea, even soup...<n>You're happy with anything and don't<n>fuss over the details. When you slip<n>up, you don't dwell on regrets.<n>Your sunny outlook is refreshing!
+EN: You're a mug: upbeat and easygoing. Coffee, milk, tea, soup... anything goes! You never fuss over details or dwell on mistakes. Your sunny nature is refreshing.
 
 @1583C max=359
 JP: どんぶり
@@ -180,7 +180,7 @@ EN: Big Bowl
 
 @159A4 max=359
 JP: 楽天的なあなたは、食器で言うと<n>どんぶりです。誰とでもわけへだ<n>てなく親しくつきあえ、何でも器<n>用にこなせるタイプです。人づき<n>あいがよく、けれどもでしゃばっ<n>たところがない気さくさで、同性<n>にも異性にも好かれます。
-EN: An optimist, you're the big bowl<n>of the tableware world. You make<n>friends with anyone, treating all<n>as equals, and can turn your hand<n>to almost anything. Sociable without<n>stealing the spotlight, your relaxed<n>manner wins friends of any gender.
+EN: You're a big bowl: optimistic and versatile. You treat everyone equally and make friends easily. Friendly without hogging the spotlight, you win everyone over.
 
 @15B0C max=359
 JP: 皿
@@ -188,7 +188,7 @@ EN: Plate
 
 @15C74 max=359
 JP: 曲がったことがきらいなあなたは、<n>食器で言うと皿です。まじめで、<n>一途なところが、人によっては融<n>通がきかないと思われがちですが、<n>そんな職人気質こそがあなたの最<n>大の魅力です。しかも実はとって<n>もナイーブな性格です。
-EN: You hate anything underhanded, so<n>you're a plate in the tableware world.<n>Serious and single-minded, you can<n>seem inflexible to some people.<n>But that artisan's dedication is<n>your greatest charm. Deep down,<n>you're also a very sensitive soul.
+EN: You're a plate: honest and devoted. Some find your serious, focused nature rigid, but that craftsperson's dedication is your charm. Deep down, you're very sensitive.
 
 @15DDC max=359
 JP: 湯呑み
@@ -196,7 +196,7 @@ EN: Teacup
 
 @15F44 max=359
 JP: 打たれ強いあなたは、食器で言う<n>と湯呑みです。どんなに熱く渋い<n>お茶をそそがれても、どんと受け<n>止められる度量の大きい人です。<n>きどらない気さくな人柄で多くの<n>人に好かれます。ストレートな感<n>情表現もご愛きょうです。
-EN: Resilient as ever, you're the teacup<n>of the tableware world. However hot<n>or bitter the tea, you take it all<n>in stride. You've got a big heart!<n>Your friendly, unpretentious manner<n>wins people over. Even your blunt<n>way of showing feelings has charm.
+EN: You're a teacup: resilient enough to take even the hottest, bitterest tea in stride. Your big heart and down-to-earth manner win friends. Even your bluntness has charm.
 
 @160AC max=359
 JP: 箸
@@ -204,7 +204,7 @@ EN: Chopsticks
 
 @16214 max=359
 JP: とげとげしいとこがなく周りをリ<n>ラックスさせる才能のあるあなた<n>は、食器で言うと箸です。楽しい<n>ことには、骨身もおしまず情熱を<n>そそぐ快楽至上主義なところがあ<n>りますが、それこそがいつまでも<n>変わらぬ若さの秘訣でしょう。
-EN: With no prickly edges and a gift<n>for putting others at ease, you're<n>the chopsticks of the tableware world.<n>You live for life's pleasures,<n>pouring your heart and energy into<n>anything fun. Perhaps that's your<n>secret to staying forever young!
+EN: You're chopsticks: gentle and gifted at putting others at ease. You live for pleasure and pour your heart into anything fun. Perhaps that's your secret to staying young!
 
 @1637C max=359
 JP: お椀
@@ -212,7 +212,7 @@ EN: Lacquer Bowl
 
 @164E4 max=359
 JP: つき合うほどに魅力が伝わるあな<n>たは、食器で言うと漆のお椀です。<n>とっつきにくそうな外見とは違い、<n>実は包容力たっぷり。歴史や伝統<n>を守る情熱と自立心をかねそなえ<n>た、肝のすわった人です。長くつ<n>きあってこそ愛されます。
-EN: Your charm grows on people, like<n>a fine lacquer bowl. You may look<n>hard to approach, but you're deeply<n>accepting. Independent and unshakable,<n>you have a passion for preserving<n>history and tradition. The longer<n>people know you, the more they love you.
+EN: You're a lacquer bowl: aloof at first, but warm and accepting inside. Independent and steadfast, you cherish history and tradition. Your charm grows with time.
 
 @1664C max=359
 JP: シャンパングラス
@@ -220,4 +220,4 @@ EN: Champagne Glass
 
 @167B4 max=359
 JP: 感受性するどく美意識の高いあな<n>たは、食器で言うとシャンパング<n>ラスです。知的で感受性の鋭いあ<n>なたは、周りの人からちょっと、<n>高嶺の花のイメージに思われてい<n>ます。高いプライドが自分自身を<n>傷つけてしまう危険性も。
-EN: Sensitive, with a keen eye for beauty,<n>you're the champagne glass of the<n>tableware world. Your intellect and<n>delicate sensibilities make you seem<n>like someone to admire from afar.<n>Be careful, though: your great pride<n>could end up hurting you.
+EN: You're a champagne glass: smart, sensitive, with an eye for beauty. Others admire you from afar, feeling you're out of reach. Beware: your pride could hurt you.

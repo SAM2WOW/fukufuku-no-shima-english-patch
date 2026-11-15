@@ -156,7 +156,7 @@ EN: Japanese Teacher
 
 @15134 max=359
 JP: あなたは、環境や人に合わせてい<n>ける柔軟性と協調性とがあり、人<n>あたりがよい国語の先生タイプ。<n>人から相談を受けることも多そう。<n>友達とのトラブルが苦手なので、<n>自分の意見をハッキリいわないと<n>ころも。たまには自己主張を。
-EN: You're the Japanese teacher type: friendly, adaptable, and good at getting along with others. People often turn to you for advice. You dislike falling out with friends, so you may keep your opinions to yourself. Try speaking up for yourself once in a while.
+EN: You're the Japanese teacher type: friendly, flexible, and a trusted adviser. You avoid clashes with friends, so you may hide your views. Speak up for yourself sometimes!
 
 @1529C max=359
 JP: 教頭先生
@@ -164,7 +164,7 @@ EN: Vice Principal
 
 @15404 max=359
 JP: 何ごとにも慎重で、目標に向かっ<n>てコツコツと努力をするあなたは<n>教頭先生タイプ。人の補佐役に回<n>ると実力を発揮します。世話好き<n>で、誰に対してもやさしいのです<n>が、お人好しなところがあるので、<n>人にだまされないように注意。
-EN: You're the vice principal type: cautious in all things, working steadily toward your goals. You shine in a supporting role. You love helping others and are kind to everyone, but you can be too trusting. Be careful nobody takes advantage of your good nature.
+EN: You're the vice principal type: careful, kind, and steady in pursuit of goals. You shine as a helper, but your trusting nature can invite trickery. Keep your wits about you!
 
 @1556C max=359
 JP: 体育の先生
@@ -172,7 +172,7 @@ EN: PE Teacher
 
 @156D4 max=359
 JP: じっとしているのが苦手で、何に<n>対しても積極的なあなたは、負け<n>ずギライで白黒をハッキリつけた<n>がる体育の先生タイプ。楽天的で<n>落ち込んでも立ち直りが早いはず。<n>ただ、見栄っぱりなところがある<n>のでムダ遣いには気をつけて。
-EN: You're the PE teacher type: always on the move and eager to take action. You hate losing and like things settled one way or the other. Your sunny outlook helps you bounce back quickly when you're down. You do like to show off, though, so watch that spending!
+EN: You're the PE teacher type: active, eager, and a fierce competitor. You like clear answers and bounce back fast. Just watch your spending when you're tempted to show off!
 
 @1583C max=359
 JP: 保健の先生
@@ -180,7 +180,7 @@ EN: School Nurse
 
 @159A4 max=359
 JP: 人への気くばりを忘れず、社交性<n>のあるあなたは、人を見守る保健<n>の先生タイプ。興味のあることに<n>は研究熱心です。人を思いやるあ<n>まり、優柔不断と思われることも<n>ありそう。ひとりのときは、空想<n>を楽しむロマンチストな一面も。
-EN: You're the school nurse type: sociable, thoughtful, and always looking out for others. You eagerly study whatever catches your interest. You care so much about people's feelings that you can seem indecisive. Alone, you're a romantic who loves getting lost in daydreams.
+EN: You're the school nurse type: friendly and caring, with a passion for your interests. Concern for others can make you seem indecisive. Alone, you're a romantic daydreamer.
 
 @15B0C max=359
 JP: 美術の先生
@@ -188,7 +188,7 @@ EN: Art Teacher
 
 @15C74 max=359
 JP: 自分の理想に向かって突き進む、<n>マイペースなあなたは、自由で常<n>識に縛られない美術の先生タイプ。<n>好き嫌いがハッキリしてるので、<n>人と衝突することもありますが、<n>心を許した相手は、とことん面倒<n>を見る人情に厚い人です。
-EN: You're the art teacher type: a free spirit who pursues your ideals at your own pace, without being bound by convention. Your strong likes and dislikes can lead to clashes, but you're warmhearted underneath. Once you let someone into your heart, you'll go all out to look after them.
+EN: You're the art teacher type: a free spirit chasing your ideals at your own pace. Strong tastes may cause clashes, but once you trust someone, you'll do anything for them.
 
 @15DDC max=359
 JP: 算数の先生
@@ -196,7 +196,7 @@ EN: Math Teacher
 
 @15F44 max=359
 JP: クールで、物事を客観的に見られ<n>るあなたは算数の先生タイプ。や<n>るべきことは計画を立て、あきら<n>めずに粘り強く取りくみます。陽<n>気さと暗さの二面性があります。<n>正義感が強く、人にそれを押しつ<n>けるところが敬遠されることも。
-EN: You're the math teacher type: coolheaded and able to see things objectively. You make plans and stick with tasks without giving up. You have both a cheerful and a gloomy side. Your strong sense of justice is admirable, but pushing it on others may put them off.
+EN: You're the math teacher type: calm, objective, and persistent, with both sunny and gloomy moods. You plan well, but pushing your sense of justice on others may put them off.
 
 @160AC max=359
 JP: 校長先生
@@ -204,7 +204,7 @@ EN: Principal
 
 @16214 max=359
 JP: 根はまじめですが、頭の回転が速<n>く、人あたりがいい社交家のあな<n>たは校長先生タイプ。好奇心が旺<n>盛で、たまに人が驚くような大胆<n>な行動に出たりします。自分に自<n>信があり、人のいうことを聞かな<n>いところが誤解されやすいかも。
-EN: You're the principal type: serious at heart, but quick-witted, friendly, and sociable. Your boundless curiosity sometimes inspires bold moves that surprise everyone. You're confident in yourself, but your reluctance to listen to others may give people the wrong idea about you.
+EN: You're the principal type: earnest, quick-witted, and friendly. Curiosity leads you to bold moves. You trust yourself, but ignoring others' advice can cause misunderstandings.
 
 @1637C max=359
 JP: 理科の先生
@@ -212,7 +212,7 @@ EN: Science Teacher
 
 @164E4 max=359
 JP: ガンコで、マイペース。信用する<n>まで時間がかかり、人づき合いも<n>慎重なあなたは理科の先生タイプ。<n>何ごとにも堅実で、キチッとした<n>生活を送るのが好きです。自分の<n>こだわるものには情熱を傾けて取<n>り組み、成功するでしょう。
-EN: You're the science teacher type: stubborn and set on doing things your own way. You're cautious with people and take time to trust them. Practical in all things, you like an orderly life. When something matters to you, you pour your passion into it, and that dedication will bring success.
+EN: You're the science teacher type: stubborn, careful, and slow to trust. You like a practical, orderly life. Your passion for what matters to you will help you succeed.
 
 @1664C max=359
 JP: 音楽の先生
@@ -220,4 +220,4 @@ EN: Music Teacher
 
 @167B4 max=359
 JP: センスがよく、流行に敏感で派手<n>な雰囲気のあなたは音楽の先生タ<n>イプ。刺激がない人生はつまらな<n>いと思っているはず。新しいこと<n>にチャレンジするための努力は惜<n>しみません。そんな華やかなあな<n>たに憧れてる人は多いでしょう。
-EN: You're the music teacher type: stylish, trend-savvy, and full of flair. To you, life without excitement is boring. You're willing to put in all the effort it takes to try something new. With such a dazzling personality, you probably have plenty of admirers.
+EN: You're the music teacher type: stylish, flashy, and quick to spot trends. You crave excitement and work hard to try new things. Your dazzling flair wins plenty of admirers.

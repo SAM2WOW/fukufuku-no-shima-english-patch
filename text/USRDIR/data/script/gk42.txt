@@ -156,7 +156,7 @@ EN: Seesaw
 
 @15134 max=359
 JP: 負けず嫌いのシーソーです。人と<n>肩を並べたときに、少しでも自分<n>が上にいないとイヤなタイプ。人<n>とどんなに比べてみたところで、<n>上に行くときも下に下がるときも<n>ギッタンバッタンと交互にくるの<n>だということを学びましょう。
-EN: You're a fiercely competitive seesaw.<n>When you're side by side with someone,<n>you just have to be a little higher.<n>But comparing yourself to others<n>will only get you so far.<n>Learn to accept life's ups and downs:<n>everyone takes a turn at both!
+EN: You're a competitive seesaw: you hate being below anyone! But however much you compare, life's ups and downs take turns. Learn to accept both.
 
 @1529C max=359
 JP: 水飲み場
@@ -164,7 +164,7 @@ EN: Drinking Fountain
 
 @15404 max=359
 JP: 野望を胸に秘めた水飲み場です。<n>いつもは穏やかな人ですが、プラ<n>イドが傷つくと一気に闘争心が吹<n>き上がって周囲を驚かせます。向<n>上心が高く努力家なのはいいので<n>すが、噴水になろうなどという突<n>飛な野心は持たないのが身のため。
-EN: You're a drinking fountain with<n>secret ambitions. Usually calm,<n>you erupt with fighting spirit when<n>your pride is hurt, startling everyone.<n>Ambition and hard work are fine,<n>but don't get carried away dreaming<n>of becoming a grand fountain!
+EN: You're a drinking tap with big dreams. Usually calm, you erupt when your pride is hurt! Hard work is fine, but aiming to become a grand fountain is a bit much.
 
 @1556C max=359
 JP: 花壇
@@ -172,7 +172,7 @@ EN: Flower Bed
 
 @156D4 max=359
 JP: 公園に彩りとやすらぎを与える花<n>壇です。あくせくすることなく、<n>いつも華やかな雰囲気の中にいる<n>ことができる人です。ただし、美<n>しさを追求することにのめりこん<n>で、周りの雰囲気から浮いてしま<n>うこともありそうですよ。
-EN: You're a flower bed, bringing color<n>and calm to the park. Without ever<n>having to rush around, you always<n>seem surrounded by beauty and glamour.<n>Just don't get so caught up<n>in your pursuit of beauty that<n>you look out of place everywhere else!
+EN: You're a flower bed, bringing color and calm. Beauty surrounds you without much fuss. Just don't get so obsessed with beauty that you look out of place!
 
 @1583C max=359
 JP: ジャングルジム
@@ -180,7 +180,7 @@ EN: Jungle Gym
 
 @159A4 max=359
 JP: 公園内でもひときわ威厳を見せる<n>ジャングルジムです。恵まれた知<n>性と豊かな感受性を兼ね備えたリ<n>ーダー的な存在の人です。ただ、<n>自信過剰で押しつけがましくなっ<n>てしまい、人を傷つけることもあ<n>るので気をつけましょう。
-EN: You're a jungle gym, standing tall<n>and proud above the park. With a sharp<n>mind and a sensitive heart, you're<n>a natural leader. Just be careful:<n>too much confidence can make you<n>push your views on others and<n>hurt their feelings along the way.
+EN: You're a proud jungle gym. With a keen mind and a sensitive heart, you're a born leader. But beware: too much confidence can make you pushy and hurt others.
 
 @15B0C max=359
 JP: すべり台
@@ -188,7 +188,7 @@ EN: Slide
 
 @15C74 max=359
 JP: 誰にも愛されるすべり台です。正<n>義感の強さから、自己犠牲を払っ<n>てまでも人に尽くしてしまうよう<n>なお人好し。明るい性格ゆえに友<n>だちも多く、周りにはつねに人が<n>集まってきます。ただし、気前が<n>よすぎて貯金は苦手ですね。
-EN: You're a slide that everyone loves.<n>Your strong sense of justice makes<n>you help others, even at your own<n>expense. Your sunny nature wins you<n>lots of friends, and there's always<n>a crowd around you. But you're so<n>generous that saving money is tough!
+EN: You're a much-loved slide! Fair and sunny, you help others even at your own expense. Friends flock to you, but your generous streak makes saving money tough.
 
 @15DDC max=359
 JP: 砂場
@@ -196,7 +196,7 @@ EN: Sandbox
 
 @15F44 max=359
 JP: 公園のすみっこにある砂場です。<n>コツコツと堅実な働き者。周りか<n>らは面白みのない人と思われがち<n>ですが、まじめで誠実なので安心<n>感や信頼感があります。情に流さ<n>れやすい面もあるので、もっと自<n>分に自信をもった発言が必要。
-EN: You're a sandbox in a corner<n>of the park: steady and hardworking.<n>Others may think you're a little dull,<n>but your honesty and sincerity make<n>you someone they can trust. You can<n>let your feelings sway you, though.<n>Have more faith in yourself and speak up!
+EN: You're a sandbox: steady and hardworking. Some may call you dull, but your honesty earns trust. Don't let feelings sway you so easily. Believe in yourself and speak up!
 
 @160AC max=359
 JP: ブランコ
@@ -204,7 +204,7 @@ EN: Swing
 
 @16214 max=359
 JP: みんなに人気のブランコです。と<n>にかくバイタリティたっぷりな、<n>決断力と行動力の人。義理人情に<n>も厚いので周囲からは慕われてい<n>ます。ただし、あまり自分を強く<n>押し出しすぎるとトラブルの原因<n>に。マイペースを保ちましょう。
-EN: You're a swing, popular with everyone.<n>Full of energy, you make decisions<n>and leap into action. Your loyalty<n>and kindness earn everyone's affection.<n>But pushing yourself to the front<n>too forcefully can lead to trouble.<n>Keep moving at your own pace.
+EN: You're a popular swing! Energetic, decisive and quick to act, your loyalty wins hearts. But pushing your way to the front can cause trouble. Keep your own pace.
 
 @1637C max=359
 JP: 鉄棒
@@ -212,7 +212,7 @@ EN: Horizontal Bar
 
 @164E4 max=359
 JP: 地面にしっかり足を据えた鉄棒で<n>す。礼儀正しく品行方正なあなた<n>は、みんなからはかたぶつだと言<n>われてませんか。周りの目を気に<n>するばかりに行動にブレーキをか<n>けては損です。実力はあるのです<n>からたまには冒険もいいのでは？
-EN: You're a horizontal bar, firmly<n>rooted in the ground. Polite and proper,<n>do people ever call you a bit stiff?<n>Don't let worries about what others<n>think stop you from taking action.<n>You've got the ability, so why not<n>try a little adventure now and then?
+EN: You're a sturdy horizontal bar. Polite and proper, you may seem stiff. Don't let others' opinions hold you back. You've got talent, so try a little adventure!
 
 @1664C max=359
 JP: 噴水
@@ -220,7 +220,7 @@ EN: Fountain
 
 @167B4 max=359
 JP: 公園の真ん中で目立っている噴水<n>です。あなたの独得の個性は、大<n>きく華やかな場でこそ存在価値が<n>認められるものの、小さな場では<n>浮いた存在になりがちです。自分<n>の考えにコリかたまらず、もっと<n>周囲との強調性を持ちましょう。
-EN: You're a fountain, standing out<n>in the middle of the park. Your unique<n>personality shines on a big, glamorous<n>stage, but can seem out of place<n>in smaller settings. Don't get too<n>stuck on your own ideas. Try to work<n>in harmony with the people around you.
+EN: You're a showy fountain! Your unique flair shines on a grand stage, but can seem out of place in smaller settings. Be open to others' ideas and work together.
 
 @1691C max=359
 JP: ベンチ
@@ -228,4 +228,4 @@ EN: Bench
 
 @16A84 max=359
 JP: 公園の木陰に置かれているベンチ<n>です。温厚でやさしいあなたのと<n>ころへは、疲れた人たちがやすら<n>ぎを求めに集まってきます。どん<n>なときでも冷静で思慮深いあなた<n>ですが、自意識過剰になると自分<n>本位になることもあるのでは？
-EN: You're a bench in the park's shade.<n>Warm and gentle, you draw weary people<n>who come to you for comfort.<n>You're always calm and thoughtful,<n>but when you get too caught up<n>in how others see you, do you sometimes<n>make everything about yourself?
+EN: You're a shady park bench. Warm and gentle, you offer weary souls comfort. You're calm and thoughtful, but worrying too much about how you're seen can make you self-centered.

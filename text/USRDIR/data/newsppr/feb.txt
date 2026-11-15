@@ -4,59 +4,59 @@
 
 @#0
 JP: ■テレビ放送記念日：１９５３年、ＮＨＫ東<n>京放送局が、日本初のテレビ本放送を開始。<n>■生活習慣病予防週間：１９５９年から、成<n>人病予防週間としてスタート。名称の変更に<n>伴って生活習慣病に。<n>■においの日：数字の２、０、１の語呂合わ<n>せから。<n>■二月礼者：一カ月遅れの、年始回りの日。
-EN: * Television Broadcasting Day: In 1953, NHK's Tokyo station<n>began Japan's first regular television broadcasts.<n>* Lifestyle Disease Prevention Week: Began in 1959 as<n>Adult Disease Prevention Week. The name changed<n>when the diseases were renamed "lifestyle diseases."<n>* Scent Day: Named for a Japanese number pun<n>on 2, 0 and 1.<n>* February Greetings: A day for New Year's visits, one month late.
+EN: - TV Broadcast Day: NHK Tokyo began Japan's first regular TV broadcasts in 1953.\n- Disease Prevention Week: Began in 1959 as Adult Disease Prevention Week; later renamed.\n- Scent Day: A Japanese 2-0-1 number pun.\n- February Greetings: New Year's visits, one month late.
 
 @#1
 JP: ■頭痛の日：頭痛撲滅委員会により、２００<n>１年に制定。数字の語呂合わせでつけられた。<n>■夫婦の日：１９９７年に制定。<n>■交番設置記念日：１８８１年、一つの管内<n>に、７つの交番を設置することを定めたもの。<n>交番が正式名称になったのは１９９４年。<n>■聖燭節：聖母マリアが天使ガブリエルより、<n>受胎告知を受けた日。別称キャンドルマス。
-EN: * Headache Day: Established in 2001 by the Committee<n>to Eradicate Headaches. The date is a Japanese number pun.<n>* Married Couples Day: Established in 1997.<n>* Police Box Day: In 1881, a rule called for seven<n>police boxes in each precinct. "Koban" became their<n>official name in 1994.<n>* Candlemas: The day the Virgin Mary received the<n>Annunciation from the angel Gabriel.
+EN: - Headache Day: Set in 2001 by an anti-headache group; a number pun.\n- Couples Day: Established in 1997.\n- Police Box Day: An 1881 rule set seven per precinct; "koban" became official in 1994.\n- Candlemas: Mary received Gabriel's news of her pregnancy.
 
 @#2
 JP: ■節分：季節を分ける、の意。鬼やらいの行<n>事は、現在、豆まきとして行われる。<n>■のり巻きの日：１９８７年海苔業者が制定。<n>■大岡越前の日：１７１７年、大岡越前が南<n>町奉行に就任した。在職中、実際に行われた<n>裁判は三回だけだった。<n>■光悦忌：書道家であり工芸家の本阿弥光悦、<n>１６３７年没。
-EN: * Setsubun: Means "dividing the seasons." The old demon-<n>banishing ceremony lives on in today's bean-throwing custom.<n>* Sushi Roll Day: Established by nori sellers in 1987.<n>* Ooka Echizen Day: In 1717, Ooka Echizen became the<n>South Edo magistrate. During his term, he actually<n>presided over only three trials.<n>* Koetsu Memorial: Calligrapher and craftsman Hon'ami Koetsu<n>died on this day in 1637.
+EN: - Setsubun: "Season dividing." Demons are driven off by throwing beans.\n- Sushi Roll Day: Set by nori sellers in 1987.\n- Ooka Echizen Day: In 1717 he became a magistrate; held only three trials.\n- Koetsu Memorial: Calligrapher and craftsman Hon'ami Koetsu died in 1637.
 
 @#3
 JP: ■大石忌：吉良邸に討ち入りした大石内蔵助<n>と赤穂浪士４６人が、切腹を命じられた。<n>■銀閣寺の日：１４８２年、足利義家が造営<n>に着手した。<n>■西の日：数字の語呂合わせより。この日に<n>西方に向かうと幸運になるという。<n>■スリランカ独立記念日：１９４８年、旧セ<n>イロンが独立。
-EN: * Oishi Memorial: Oishi Kuranosuke and the 46 Ako ronin<n>who raided Kira's mansion were ordered to commit seppuku.<n>* Silver Pavilion Day: In 1482, Ashikaga Yoshiie<n>began its construction.<n>* West Day: Named for a Japanese number pun.<n>They say heading west today brings good luck.<n>* Sri Lankan Independence Day: In 1948, the former<n>Ceylon gained independence.
+EN: - Oishi Memorial: Oishi and 46 Ako ronin were ordered to commit seppuku.\n- Silver Pavilion Day: Ashikaga Yoshiie began construction in 1482.\n- West Day: A number pun. Head west for luck today.\n- Sri Lanka Independence Day: Ceylon became independent in 1948.
 
 @#4
 JP: ■プロ野球の日：１９３６年、全日本職業野<n>球連盟が結成され、プロ野球が誕生。<n>■聖アガタの日：キリスト教の聖人、アガタ<n>をまつる日。<n>■長崎２６聖人殉教の日：１５９７年、豊臣<n>秀吉が宣教師６名と信徒２０名を、長崎では<n>りつけの刑に。１９５０年、ローマ教皇によ<n>ってこの地を公式巡礼地に指定。
-EN: * Pro Baseball Day: In 1936, the Japanese Professional<n>Baseball League was formed, launching pro baseball in Japan.<n>* St. Agatha's Day: A day honoring the Christian<n>saint Agatha.<n>* Martyrdom of the 26 Saints of Nagasaki: In 1597, Toyotomi<n>Hideyoshi had six missionaries and 20 believers crucified<n>in Nagasaki. In 1950, the pope officially designated<n>the site as a place of pilgrimage.
+EN: - Pro Baseball Day: Japan's pro league was formed in 1936.\n- St. Agatha's Day: Honors the saint.\n- Nagasaki Martyrs Day: In 1597, Hideyoshi had 6 missionaries and 20 believers crucified. The pope named it a pilgrimage site in 1950.
 
 @#5
 JP: ■抹茶の日：西尾市茶業振興協議会が制定。<n>茶道の道具「風炉」からの語呂合わせ。<n>■海苔の日：１９６７年、全国海苔貝類漁業<n>協同組合連合会が制定。海苔が年貢として指<n>定され、７０２年のこの日に施行された。<n>■句仏忌：東本願寺２３代法主、俳人の大谷<n>光演、１９４３年の忌日。
-EN: * Matcha Day: Established by Nishio's tea promotion council.<n>The date is a pun on "furo," a brazier used in tea ceremonies.<n>* Nori Day: Established in 1967 by Japan's national federation<n>of nori and shellfish fishery cooperatives. Nori was designated<n>as a tax payment under a law effective on this day in 702.<n>* Kubutsu Memorial: Otani Koen, haiku poet and the 23rd head<n>of Higashi Honganji Temple, died on this day in 1943.
+EN: - Matcha Day: Nishio's tea council chose a date pun on "furo," a tea brazier.\n- Nori Day: Set in 1967. Nori became a tax payment under a law enacted this day in 702.\n- Kubutsu Memorial: Haiku poet Otani Koen, 23rd Higashi Honganji head, died in 1943.
 
 @#6
 JP: ■長野の日：別称オリンピックメモリアルデ<n>ー。１９９８年の長野冬季オリンピック開催<n>を記念して。<n>■北方領土の日：１９８１年、閣議により決<n>定。１８５５年に日露通商友好条約が締結さ<n>れ、北方四島が日本の領土として認められた<n>ことによる。<n>■福井県ふるさとの日：１９８２年制定。
-EN: * Nagano Day: Also called Olympic Memorial Day.<n>Commemorates the opening of the 1998 Nagano<n>Winter Olympics.<n>* Northern Territories Day: Established by a Cabinet<n>decision in 1981. The 1855 Treaty of Commerce and Friendship<n>between Japan and Russia recognized the four northern<n>islands as Japanese territory.<n>* Fukui Prefecture Hometown Day: Established in 1982.
+EN: - Nagano Day: Olympic Memorial Day marks the 1998 Winter Olympics' opening.\n- Northern Territories Day: Set in 1981. The 1855 Japan-Russia treaty recognized the four northern islands as Japanese territory.\n- Fukui Hometown Day: Established in 1982.
 
 @#7
 JP: ■〒マークの日：１８８７年、逓信省（現・<n>郵政省）が、テイと丁をもじって丁マークに<n>決定したが、その後、事務上の紛らわしさか<n>ら、テイのテを図案化して〒とした。<n>■針供養：古い針を豆腐やこんにゃくなどに<n>さして流し、供養する日。<n>■ロカビリーの日：１９５８年、有楽町、日<n>劇でウエスタンカーニバルが開かれた日。
-EN: * Postal Symbol Day: In 1887, the Ministry of Communications<n>(later the Postal Ministry) chose a T-shaped symbol as a pun<n>on its name, Teishinsho. To avoid administrative confusion,<n>it later adopted a stylized version of the kana "te."<n>* Needle Memorial: Old needles are stuck into tofu or<n>konjac and set afloat as a gesture of thanks.<n>* Rockabilly Day: In 1958, the Western Carnival was held<n>at the Nichigeki Theater in Yurakucho.
+EN: - Postal Symbol Day: In 1887, a T mark for Teishinsho became a stylized kana "te" to avoid confusion.\n- Needle Memorial: Old needles go in tofu or konjac and are set afloat in thanks.\n- Rockabilly Day: The 1958 Western Carnival opened at Yurakucho's Nichigeki Theater.
 
 @#8
 JP: ■風の日：ふ、く、の語呂合わせより命名。<n>■服の日：ふ、く、の語呂合わせより、全国<n>服飾学校協会などが制定。<n>■福の日：ふ、く、の語呂合わせより。<n>■肉の日：に、く、の語呂合わせより。<n>■漫画の日：漫画本専門古書店が制定。
-EN: * Wind Day: A number pun on "fuku," meaning "to blow."<n>* Clothing Day: Established by Japan's national association<n>of fashion schools and others. "Fuku" also means "clothes."<n>* Good Fortune Day: Another "fuku" pun, this time meaning "luck."<n>* Meat Day: A number pun on "ni-ku," meaning "meat."<n>* Manga Day: Established by a secondhand manga bookstore.
+EN: - Wind Day: "Fuku" (blow), a number pun.\n- Clothing Day: Fashion schools chose it for "fuku" (clothes), a number pun.\n- Luck Day: Another "fuku" number pun.\n- Meat Day: A number pun on "ni-ku."\n- Manga Day: Set by a used manga bookstore.
 
 @#9
 JP: ■観劇の日：１９１１年、日本初の洋風劇場、<n>帝国劇場が完成。<n>■ニットの日：数字の語呂合わせから制定。<n>■ふきのとうの日：数字の語呂合わせから。<n>■左利きの日：２００１年、日本独自の左利<n>きの日として制定。国際的には８月１３日。<n>■ふとんの日：全日本寝具寝装品協会が制定。<n>ふ、と、とう、の数字の語呂合わせ。
-EN: * Theatergoing Day: In 1911, Japan's first Western-style<n>theater, the Imperial Theatre, was completed.<n>* Knitwear Day: Established through Japanese number wordplay.<n>* Butterbur Bud Day: Another Japanese number pun.<n>* Left-Handers Day: Established in 2001 as Japan's own day<n>for lefties. International Left-Handers Day is August 13.<n>* Futon Day: Established by Japan's bedding association.<n>The date is a number pun on the sounds "fu," "to" and "tou."
+EN: - Theater Day: Japan's first Western-style theater, the Imperial, was built in 1911.\n- Knitwear Day: A number pun.\n- Butterbur Bud Day: A number pun.\n- Left-Handers Day: Japan's day began in 2001. The global day is August 13.\n- Futon Day: Bedding group chose it for the number pun "fu-to-tou."
 
 @#10
 JP: ■建国記念の日：１９６７年から実施の国民<n>の祝日。<n>■干支供養の日：漢数字の十と一を組み合わ<n>せると土になることから、陶磁器メーカー等<n>が、干支置物を土へ返すとして制定。<n>■文化勲章制定記念日：１９３７年、文化の<n>発展に貢献した人に送る文化勲章を贈ること<n>に定められた。
-EN: * National Foundation Day: A Japanese national holiday<n>observed since 1967.<n>* Zodiac Figurine Memorial Day: The kanji for ten and one<n>combine to form the character for "earth." Pottery makers<n>chose this day to return Chinese zodiac figurines to the earth.<n>* Order of Culture Anniversary: In 1937, the Order of Culture<n>was established to honor people who contributed<n>to the development of culture.
+EN: - National Foundation Day: A national holiday since 1967.\n- Zodiac Figurine Day: Kanji for 10 and 1 form 'earth.' Potters return zodiac figurines to soil.\n- Order of Culture Day: Established in 1937 to honor cultural contributions.
 
 @#11
 JP: ■ペニシリンの日：１９４１年、イギリス、<n>オックスフォード大学付属病院で、世界初の<n>ペニシリン臨床実験に成功した。<n>■ボブスレーの日：１９３８年に札幌で、全<n>日本ボブスレー選手権が開かれたことを記念。<n>■ブラジャーの日：１９１３年、アメリカで<n>発明されたブラジャーが特許を取得。<n>■菜の花忌：小説家、司馬遼太郎の忌日。
-EN: * Penicillin Day: In 1941, the world's first successful<n>clinical trial of penicillin took place at a hospital<n>affiliated with Oxford University in Britain.<n>* Bobsleigh Day: Marks the All-Japan Bobsleigh<n>Championships held in Sapporo in 1938.<n>* Bra Day: In 1913, an American invention, the bra,<n>received a patent.<n>* Rapeseed Blossom Memorial: The anniversary of novelist Ryotaro Shiba's death.
+EN: - Penicillin Day: First successful trial at Oxford's hospital in Britain, 1941.\n- Bobsleigh Day: Japan's national championship held in Sapporo, 1938.\n- Bra Day: A US bra patent in 1913.\n- Rapeseed Blossom Memorial: Novelist Ryotaro Shiba's death anniversary.
 
 @#12
 JP: ■苗字布告記念日：１８７５年、明治政府の<n>「平民苗字必称義務令」が定められ、すべて<n>の国民が姓を名乗ることを義務付けた。<n>■銀行強盗の日：１８６６年、アメリカでＪ<n>・ジェイムズが世界初の銀行強盗に成功。<n>■地方公務員法施行記念日：１９５１年、地<n>方公務員法が施行される。
-EN: * Surname Decree Day: In 1875, the Meiji government<n>issued a decree requiring all commoners to use surnames,<n>making surnames compulsory for every citizen.<n>* Bank Robbery Day: In 1866, Jesse James carried out<n>the world's first successful bank robbery in America.<n>* Local Public Service Act Anniversary: The act<n>came into force on this day in 1951.
+EN: - Surname Decree Day: In 1875, the Meiji government required all citizens to use surnames.\n- Bank Robbery Day: In 1866, Jesse James pulled off the world's first bank robbery in the US.\n- Local Public Service Act Day: The law took effect in 1951.
 
 @#13
 JP: ■バレンタインデー：世界的には愛の日、日<n>本では、女性からの愛の告白の日として、チ<n>ョコレートを贈る習慣となった。<n>■煮干の日：全国煮干協会が制定。<n>■祇王忌：平清盛の寵愛を受けた白拍子、祇<n>王の忌日。<n>■チョコレートの日：チョコレートのＰＲと<n>して日本チョコレート・ココア協会が制定。
-EN: * Valentine's Day: A day of love around the world.<n>In Japan, it became customary for women to give<n>chocolate as a way of declaring their love.<n>* Dried Sardine Day: Established by Japan's dried sardine association.<n>* Gio Memorial: The anniversary of the death of Gio,<n>a shirabyoshi dancer favored by Taira no Kiyomori.<n>* Chocolate Day: Established to promote chocolate<n>by the Chocolate and Cocoa Association of Japan.
+EN: - Valentine's Day: In Japan, women give chocolate to declare their love.\n- Dried Sardine Day: Set by Japan's dried sardine association.\n- Gio Memorial: Death of Gio, dancer and favorite of Taira no Kiyomori.\n- Chocolate Day: Japan's chocolate and cocoa trade group's PR day.
 
 @#14
 JP: ■春一番名付けの日：気象用語として初めて<n>この言葉が使われたことを記念する日。<n>■兼好忌：「徒然草」で知られる歌人、兼好<n>法師の忌日。
@@ -68,43 +68,43 @@ EN: * Weather Map Day: In 1883, Japan's first seven-color<n>weather map was prod
 
 @#16
 JP: ■雪の特異日：東京で雪の降る確立が高い日。<n>■天使のささやきの日：１９７８年、北海道<n>の幌加内町で国内最低気温を記録したことよ<n>り、寒さと、ダイヤモンドダストを体験する<n>日としてイベントが行われる日。<n>■安吾忌：小説家、坂口安吾の忌日。<n>■ノアの洪水の日：旧約聖書で、ノアの洪水<n>が起きたとされている日。
-EN: * Snow Singularity Day: A date when snow is especially likely in Tokyo.<n>* Angel's Whisper Day: In 1978, Horokanai in Hokkaido<n>recorded Japan's lowest temperature. Events on this day<n>let visitors experience the cold and the sparkling ice crystals<n>known as diamond dust.<n>* Ango Memorial: The anniversary of novelist Ango Sakaguchi's death.<n>* Noah's Flood Day: The date on which Noah's flood<n>is said to have begun in the Old Testament.
+EN: - Snow Day: Tokyo is prone to snow today.\n- Angel's Whisper Day: Horokanai's 1978 record cold inspires events for cold and diamond dust.\n- Ango Memorial: Novelist Ango Sakaguchi's death anniversary.\n- Noah's Flood Day: The Old Testament's date for the start of Noah's flood.
 
 @#17
 JP: ■エアメールの日：１９１１年、インドの博<n>覧会会場から８キロ離れた場所まで、初めて<n>飛行機で手紙が運ばれた日。<n>■冥王星の日：１９３０年、ローウェル天文<n>台のトンボーが、１月に撮影していた写真の<n>比較から、冥王星を発見した。<n>■嫌煙運動の日：１９７８年、東京で「嫌煙<n>権確立をめざす人々の会」を設立。
-EN: * Airmail Day: In 1911, letters were carried by airplane<n>for the first time, traveling eight kilometers from<n>an exhibition site in India.<n>* Pluto Day: In 1930, Tombaugh of Lowell Observatory<n>discovered Pluto by comparing photographs<n>taken in January.<n>* Nonsmokers' Rights Day: In 1978, a group campaigning<n>for nonsmokers' rights was established in Tokyo.
+EN: - Airmail Day: In 1911, the first airplane mail flew 8 km from an Indian fair.\n- Pluto Day: In 1930, Lowell's Tombaugh found Pluto by comparing January photos.\n- Nonsmokers' Rights Day: A campaign group formed in Tokyo in 1978.
 
 @#18
 JP: ■万国郵便連合加盟記念日：１８７７年、郵<n>便の国際機関、万国郵便連合に日本が加盟。<n>■プロレスの日：１９５５年、日本初の本格<n>的なプロレス国際試合が開催された。<n>■強制収容を忘れない日：１９４２年、ルー<n>ズベルト大統領により、アメリカ在住の日系<n>人１１万２千人が強制収容所へ送られたこと<n>に由来。
-EN: * Universal Postal Union Membership Day: In 1877, Japan<n>joined the Universal Postal Union, an international postal organization.<n>* Pro Wrestling Day: In 1955, Japan hosted its first<n>major international professional wrestling match.<n>* Day of Remembrance for Internment: Commemorates<n>President Roosevelt's 1942 order that sent 112,000<n>people of Japanese ancestry living in America<n>to internment camps.
+EN: - Postal Union Day: Japan joined the Universal Postal Union in 1877.\n- Pro Wrestling Day: Japan's first major international pro match was held in 1955.\n- Internment Remembrance Day: Roosevelt's 1942 order sent 112,000 people of Japanese ancestry in the US to camps.
 
 @#19
 JP: ■歌舞伎の日：１６０７年、出雲の阿国が江<n>戸城で将軍徳川家康などの前で初めて歌舞伎<n>踊りを披露した日。<n>■普通選挙の日：１９２８年、日本で初めて<n>の普通選挙が実施されたことから。<n>■旅券の日：１８７８年、海外旅券規則が制<n>定され、旅券という用語が日本の法令上初め<n>て使用された。外務省が１９９８年に制定。
-EN: * Kabuki Day: In 1607, Izumo no Okuni first performed<n>kabuki dances at Edo Castle before Shogun Tokugawa Ieyasu<n>and other dignitaries.<n>* Universal Suffrage Day: Marks Japan's first election<n>under universal suffrage, held in 1928.<n>* Passport Day: In 1878, overseas passport regulations<n>introduced the Japanese term "ryoken" into law.<n>The Foreign Ministry established this day in 1998.
+EN: - Kabuki Day: In 1607, Izumo no Okuni danced at Edo Castle for Shogun Tokugawa Ieyasu.\n- Universal Suffrage Day: Japan's first such election was held in 1928.\n- Passport Day: 'Ryoken' entered Japanese law in 1878. Named by the Foreign Ministry in 1998.
 
 @#20
 JP: ■国際母語の日：１９９９年ユネスコが制定。<n>■日刊新聞創刊の日：１８７２年、日本初の<n>日刊新聞「東京日日新聞」（現・毎日新聞）<n>が創刊された。<n>■食糧管理法公布記念日：１９４２年、国民<n>の食糧の確保と経済の安定を図るため「食糧<n>管理法」が公布。
-EN: * International Mother Language Day: Established by UNESCO in 1999.<n>* Daily Newspaper Launch Day: In 1872, Japan's first<n>daily newspaper, the Tokyo Nichi Nichi Shimbun<n>(now the Mainichi Shimbun), began publication.<n>* Food Control Act Promulgation Day: In 1942, the<n>Food Control Act was promulgated to secure the nation's<n>food supply and stabilize the economy.
+EN: - International Mother Language Day: UNESCO established it in 1999.\n- Daily Newspaper Day: Tokyo Nichi Nichi Shimbun (now Mainichi) debuted in 1872 as Japan's first daily.\n- Food Control Act Day: Enacted in 1942 to secure food supplies and stabilize the economy.
 
 @#21
 JP: ■猫の日：数字の２と、にゃんにゃんにゃん、<n>という鳴き声の語呂合わせで命名。<n>■世界友情の日：ボーイスカウトの創始者パ<n>ウエル卿の誕生日。１９６３年のボーイスカ<n>ウト世界会議で制定。<n>■太子会：６２２年、聖徳太子の没日。<n>■食器洗い乾燥機の日：ふうふ、にっこり、<n>の語呂合わせ。日本電機工業会が制定。
-EN: * Cat Day: A number pun on three twos, which sound like<n>"nyan, nyan, nyan," the Japanese equivalent of "meow."<n>* World Friendship Day: The birthday of Lord Baden-Powell,<n>founder of the Boy Scouts. Established at the 1963<n>World Scout Conference.<n>* Taishi Memorial: Prince Shotoku died on this day in 622.<n>* Dishwasher Day: Established by the Japan Electrical Manufacturers'<n>Association. The date is a pun on "a smiling married couple."
+EN: - Cat Day: 2/22 sounds like 'nyan, nyan, nyan,' the Japanese cat's meow.\n- World Friendship Day: Scout founder Baden-Powell's birthday. Set in 1963.\n- Taishi Memorial: Prince Shotoku's death in 622.\n- Dishwasher Day: Named for a date pun meaning 'smiling married couple.'
 
 @#22
 JP: ■ふろしきの日：数字の、つ、つ、み、の語<n>呂合わせで京都ふろしき会が制定。<n>■富士山の日：ふ、じ、さん、の語呂合わせ<n>で、パソコン通信内のフォーラムが制定。<n>■税理士記念日：１９６９年に日本税理士会<n>連合会が制定。<n>■ロータリー設立記念日：１９０５年の設立<n>を記念して。
-EN: * Furoshiki Day: Established by Kyoto's furoshiki association.<n>The numbers sound like "tsu-tsu-mi," meaning "wrapping."<n>* Mount Fuji Day: The numbers sound like "fu-ji-san."<n>Established by a forum on a dial-up computer network.<n>* Tax Accountant Day: Established in 1969 by the Japan<n>Federation of Certified Public Tax Accountants' Associations.<n>* Rotary Founding Day: Commemorates Rotary's<n>founding in 1905.
+EN: - Furoshiki Day: Kyoto's furoshiki group chose a "tsu-tsu-mi" (wrapping) pun.\n- Mount Fuji Day: A computer forum chose the "fu-ji-san" date pun.\n- Tax Accountant Day: Set in 1969 by Japan's tax accountants' federation.\n- Rotary Day: Marks its founding in 1905.
 
 @#23
 JP: ■地雷を考える日：１９９５年、カンボジア<n>で地雷の根絶を訴える集会が開かれた。<n>■月光仮面登場の日：ラジオ東京（現・ＴＢ<n>Ｓ）で国産初のテレビ映画「月光仮面」開始。<n>■鉄道ストの日：１８９８年、日本初の鉄道<n>ストライキが実施された日。<n>■クロスカントリーの日：１９７７年、クロ<n>スカントリー統一ルール初の大会開催。
-EN: - Landmine Awareness Day: In 1995, a rally was held in Cambodia<n>calling for the eradication of landmines.<n>- Moonlight Mask Debut Day: Japan's first made-for-TV film series,<n>"Moonlight Mask," premiered on Radio Tokyo (now TBS).<n>- Railway Strike Day: In 1898, Japan's first railway strike<n>took place on this day.<n>- Cross-Country Day: In 1977, the first cross-country competition<n>under a unified set of rules was held.
+EN: - Landmine Day: A 1995 Cambodia rally called for an end to landmines.\n- Moonlight Mask Day: Japan's first TV film series debuted on Radio Tokyo.\n- Rail Strike Day: Japan's first railway strike took place in 1898.\n- Cross-Country Day: First race under unified rules held in 1977.
 
 @#24
 JP: ■箱根用水完成の日：深良村（現・裾野市）<n>の名主・大庭源之丞らが５年の歳月をかけ箱<n>根用水を１６７０年に完成させた。<n>■夕刊紙の日：１９６９年、日本初の駅売り<n>専門の夕刊紙「夕刊フジ」が創刊された。<n>■茂吉忌：精神科医でアララギ派の歌人、斎<n>藤茂吉の忌日。
-EN: - Hakone Waterway Completion Day: In 1670, Oba Gennojo, the headman<n>of Fukara Village (now part of Susono City), and his fellow organizers<n>completed the Hakone Waterway after five years of work.<n>- Evening Newspaper Day: In 1969, "Yukan Fuji" was launched as Japan's<n>first evening newspaper sold exclusively at railway stations.<n>- Mokichi Memorial Day: The anniversary of the death of Saito Mokichi,<n>a psychiatrist and poet of the Araragi school.
+EN: - Hakone Waterway Day: Gennojo Oba of Fukara and others finished it in 1670 after five years.\n- Evening Paper Day: Yukan Fuji began in 1969, Japan's first evening paper sold only at stations.\n- Mokichi Memorial: Honors Mokichi Saito, psychiatrist and Araragi poet.
 
 @#25
 JP: ■２．２６事件の日：１９３６年、陸軍の皇<n>道派将校が、対立していた統制派の打倒と国<n>家改造を掲げ、約１５００名の部隊を率いて<n>首相官邸等を襲撃した日。<n>■パナマ運河開通記念日：１９１４年、太平<n>洋と大西洋をつなぐパナマ運河が開通した日。<n>■脱出の日：１８１５年、流刑にされていた<n>ナポレオンがエルバ島を脱出してパリへ。
-EN: - February 26 Incident Day: In 1936, army officers of the Imperial Way<n>Faction led about 1,500 troops in attacks on the prime minister's residence<n>and other sites. They sought to overthrow the rival Control Faction<n>and reorganize the nation.<n>- Panama Canal Opening Anniversary: In 1914, the Panama Canal opened,<n>linking the Pacific and Atlantic Oceans.<n>- Escape Day: In 1815, Napoleon escaped from exile on Elba<n>and headed for Paris.
+EN: - Feb. 26 Incident: In 1936, Imperial Way officers led 1,500 troops against the rival Control Faction, attacking the PM's home to reform Japan.\n- Panama Canal Day: Opened in 1914, linking the Pacific and Atlantic.\n- Escape Day: In 1815, Napoleon escaped Elba and set off for Paris.
 
 @#26
 JP: ■新選組の日：１８６２年、新選組の前身で<n>ある「壬生浪士組」が結成された。「新撰組」<n>を名乗るのは翌年、８月から。
@@ -112,7 +112,7 @@ EN: - Shinsengumi Day: In 1862, the Mibu Roshigumi, the group that would<n>becom
 
 @#27
 JP: ■ビスケットの日：１９８０年、全国ビスケ<n>ット協会が制定。<n>■バカヤローの日：１９５３年、吉田茂首相<n>が衆議院予算委員会の席上、西村栄一議員の<n>質問に対し興奮して「バカヤロー」と発言。<n>これがもとになり衆議院が解散。この解散は<n>「バカヤロー解散」と呼ばれている。<n>■織部の日：土岐市が制定した織部焼きの日。
-EN: - Biscuit Day: Established in 1980 by Japan's National Biscuit<n>Association.<n>- "You Idiot!" Day: In 1953, Prime Minister Shigeru Yoshida lost his temper<n>while answering lawmaker Eiichi Nishimura's questions at a House of<n>Representatives Budget Committee meeting and blurted out, "You idiot!"<n>The incident led to the dissolution of the House of Representatives,<n>which became known as the "You Idiot Dissolution."<n>- Oribe Day: A day celebrating Oribe pottery, established by Toki City.
+EN: - Biscuit Day: Set in 1980 by Japan's National Biscuit Association.\n- "You Idiot!" Day: PM Shigeru Yoshida's 1953 outburst at MP Eiichi Nishimura led to the lower house's "You Idiot Dissolution."\n- Oribe Day: Toki City's celebration of Oribe pottery.
 
 @#28
 JP: ■閏日：１年の日数が３６５日ではなく、３<n>６５．２４２２日なので、そのずれを調整す<n>るため、４年に１度（ただし４００年に９７<n>日）の閏年に、２月２８日の翌日に閏日とし<n>て２９日を入れるもの。

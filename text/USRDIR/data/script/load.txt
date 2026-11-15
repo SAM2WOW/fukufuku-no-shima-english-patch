@@ -68,7 +68,7 @@ EN: Have you been putting yourself last?<n>Before worrying about everyone else,<
 
 @15F44 max=359
 JP: 今あなたは、他人にも自分にも<n>強い誠実さ、潔癖性を求めています。
-EN: Right now, you expect complete honesty<n>and very high moral standards from yourself and others.
+EN: You expect honesty and high moral standards from yourself and others.
 
 @160AC max=359
 JP: 今のあなたは、心身が浄化され、<n>素直で明るい気分になっています。
@@ -104,7 +104,7 @@ EN: Something has really captured your heart.<n>Go ahead and give that goal all 
 
 @16BEC max=359
 JP: 全力投球して、その結果が期待できるとき。<n>今のあなたには実現のパワーがあります。
-EN: Now's the time to give it your all and expect results.<n>You have the power to make things happen.
+EN: Give it your all and expect results. You have the power to succeed.
 
 @16D54 max=359
 JP: やる気が空回りしていませんか？<n>気持ちばかり焦っても、しかたありません。<p>ゆっくり一呼吸することも大切です。
@@ -128,7 +128,7 @@ EN: Pace yourself so you don't wear yourself out<n>or use up every last bit of e
 
 @1745C max=359
 JP: エネルギーが蓄えられて、爆発寸前です。<n>少し気持ちを抑える忍耐力が必要です。
-EN: You've stored up so much energy, you're ready to burst!<n>You'll need some patience to keep yourself in check.
+EN: You're bursting with energy. Be patient and keep your feelings in check.
 
 @175C4 max=359
 JP: 攻撃性や闘争心が、<n>今のあなたを捉えています。<p>内面的な愛情や温かさも大切に。
@@ -168,7 +168,7 @@ EN: What you need right now<n>is a little rest.<p>Take some time to notice what'
 
 @1826C max=359
 JP: 挑戦する気持ちが先走っています。<n>気持ちを着実な行動力へと変えましょう。
-EN: Your eagerness to take on a challenge is racing ahead.<n>Turn that enthusiasm into steady action.
+EN: You're eager for a challenge. Turn that drive into steady action.
 
 @183D4 max=359
 JP: エネルギッシュで心身共にに活力があり、<n>ポジティブ思考になれるときです。
@@ -200,7 +200,7 @@ EN: Has stress been building up?<n>Start by letting your body relax.<p>Take your
 
 @18DAC max=359
 JP: 今のあなたに必要なのは自分のための時間。<n>自分の心に、栄養を与えてあげましょう。
-EN: What you need right now is some time for yourself.<n>Give your heart a little nourishment.
+EN: You need some time to yourself. Give your heart a little care.
 
 @18F14 max=359
 JP: 世間の注目を集めたい<n>気持ちになっています。<p>ちょっと羽目を<n>はずしてしまうことがあるので、<p>自分に軽くブレーキをかけて。
@@ -376,7 +376,7 @@ EN: Move toward your dreams one step at a time,<n>building the strength to make 
 
 @1CB8C max=359
 JP: 他人の意見に心を閉ざしてしまう時期です。<n>頑固になリ過ぎないよう気をつけて。
-EN: You're finding it hard to listen to other views.<n>Be careful not to dig your heels in too far.
+EN: You're shutting out other views. Try not to be too stubborn.
 
 @1CCF4 max=359
 JP: 今のあなたは、<n>人に流されやすくなっています。<p>心ない人から利用されてしまわないように<n>慎重に行動してください。

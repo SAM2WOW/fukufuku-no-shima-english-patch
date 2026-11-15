@@ -156,7 +156,7 @@ EN: Eyeshadow
 
 @15134 max=359
 JP: アイシャドーです。自分の存在を<n>社会に認めてもらいたいと願いま<n>す。流行の物に弱くついつい浪費<n>しているのでは？愛情面でも浪費<n>傾向があります。少し冷静になっ<n>て、じっくりと相手のことを見極<n>めた方がよさそうです。
-EN: Eyeshadow. You long for society to<n>recognize your worth. Do the latest<n>trends tempt you into overspending?<n>You may be just as lavish with your<n>affection. Take a breath, keep a cool<n>head, and get to know someone well<n>before you give your heart away.
+EN: Eyeshadow. You crave recognition and splurge on trends, perhaps on love too. Keep a cool head and get to know someone before giving your heart away.
 
 @1529C max=359
 JP: ファンデーション
@@ -164,7 +164,7 @@ EN: Foundation
 
 @15404 max=359
 JP: ファンデーションです。落ち着き<n>のあるしとやかさが魅力です。さ<n>みしがり屋さんなので、いつでも<n>誰かそばにいて欲しいと願ってい<n>ます。でも相手が本当に好きな人<n>でなければ、そのさみしさはいや<n>されないことを知りましょう。
-EN: Foundation. Your calm, gentle grace<n>is part of your charm. You get lonely<n>easily and always wish you had someone<n>by your side. But just anyone won't<n>do. Remember, that loneliness will<n>only fade when you're with someone<n>you truly love.
+EN: Foundation. Your calm, gentle grace is charming. You always want someone by your side, but only someone you truly love can ease that loneliness.
 
 @1556C max=359
 JP: アイライナー
@@ -172,7 +172,7 @@ EN: Eyeliner
 
 @156D4 max=359
 JP: アイライナーです。知的で一本筋<n>の通った、ブレのないポリシーを<n>持っています。それゆえ人間関係<n>では、情に流されることなくきっ<n>ぱりと線を引きすぎて冷たく思わ<n>れることも。本来のしなやかなや<n>さしさを大切にしてください。
-EN: Eyeliner. You're intelligent, with<n>firm principles you never stray from.<n>You don't let feelings cloud your<n>judgment, but drawing such hard lines<n>with people can make you seem cold.<n>Treasure the gentleness within you,<n>and give yourself room to bend.
+EN: Eyeliner. You're clever and stand by your principles. But drawing firm lines without regard for feelings can seem cold. Let your natural kindness soften those edges.
 
 @1583C max=359
 JP: リップグロス
@@ -180,7 +180,7 @@ EN: Lip gloss
 
 @159A4 max=359
 JP: リップグロスです。色気は少ない<n>けれど、そこがまた魅力となって<n>モテるタイプです。自立心が旺盛<n>ですが、チームになったときには<n>リーダーにも。ただ強引すぎてチ<n>ーム内で孤立しかねません。少し<n>は友だちに頼ることも必要です。
-EN: Lip gloss. You're popular without<n>much overt sex appeal. In fact, that's<n>part of your charm! Independent by<n>nature, you often end up leading a<n>team. But pushing too hard could leave<n>you out in the cold. Let yourself<n>lean on your friends sometimes.
+EN: Lip gloss. Your understated appeal wins hearts. You're independent and a natural leader, but being too pushy can leave you isolated. Lean on your friends sometimes.
 
 @15B0C max=359
 JP: マスカラ
@@ -188,7 +188,7 @@ EN: Mascara
 
 @15C74 max=359
 JP: マスカラです。たくさんの才能に<n>恵まれたデキる人として、周囲に<n>一目置かれる存在です。そのせい<n>か、人を上から見るような態度が<n>うっとうしく思われることも。負<n>けず嫌いもいいですが、競い過ぎ<n>て自分を見失わないように。
-EN: Mascara. Your many talents make you<n>someone others respect and rely on.<n>Still, that may lead you to look down<n>on people, which can get on their<n>nerves. A competitive streak is fine,<n>but don't get so caught up in winning<n>that you lose sight of yourself.
+EN: Mascara. People respect your many talents, but looking down on others can annoy them. A competitive streak is fine. Just don't lose yourself in the race to win.
 
 @15DDC max=359
 JP: ほお紅
@@ -196,7 +196,7 @@ EN: Blush
 
 @15F44 max=359
 JP: ほお紅です。ほんわかキャラのと<n>きと、きっぱりキャラのときとの<n>落差の大きいのが特徴。せっかく<n>多彩な魅力を持っているのに、自<n>分でも持てあまし気味なのかもし<n>れません。自分の才能や個性をあ<n>らためて見つめ直してみましょう。
-EN: Blush. You can be soft and easygoing<n>one moment, then firm and decisive<n>the next. That contrast defines you.<n>You have so many charms, you may not<n>quite know what to do with them all!<n>Take a fresh look at your talents<n>and what makes you uniquely you.
+EN: Blush. You swing from soft and mellow to firm and decisive. Your many charms may leave even you at a loss! Take a fresh look at your talents and individuality.
 
 @160AC max=359
 JP: 口紅
@@ -204,7 +204,7 @@ EN: Lipstick
 
 @16214 max=359
 JP: 口紅です。さまざまな才能と華や<n>かな個性を持ち、いつでもグルー<n>プの中心人物になる人です。セン<n>スもよく、ファッション情報など<n>もいち早く取り入れてはみんなの<n>あこがれのまとに。ただし、あま<n>り目立ち過ぎると孤立します。
-EN: Lipstick. With your many talents and<n>sparkling personality, you're always<n>at the center of the group. Your keen<n>sense of style and knack for spotting<n>new trends make you everyone's idol.<n>Just beware: hogging the spotlight<n>could leave you standing alone.
+EN: Lipstick. Your talents and vivid personality put you at the heart of any group. Your flair for fashion wins admirers, but hogging the spotlight could leave you alone.
 
 @1637C max=359
 JP: マニキュア
@@ -212,7 +212,7 @@ EN: Nail polish
 
 @164E4 max=359
 JP: マニキュアです。個性の活かし方<n>で運命が大きく別れる傾向にあり<n>ます。素直さを活かせば堅実で穏<n>やかな生活が。派手さを活かせば<n>刺激的な毎日が。ある意味で思い<n>通りの道を選びとれる、恵まれた<n>運勢を持っています。
-EN: Nail polish. Your path depends greatly<n>on which side of yourself you embrace.<n>Let your straightforward nature lead,<n>and life will be steady and peaceful.<n>Let your flashy side shine, and expect<n>daily thrills. You're lucky enough to<n>choose the kind of life you want.
+EN: Nail polish. Your fate depends on how you use your gifts. Your sincere side brings peace and stability; your flashy side brings thrills. You're lucky to have the choice.
 
 @1664C max=359
 JP: コンシーラー
@@ -220,7 +220,7 @@ EN: Concealer
 
 @167B4 max=359
 JP: コンシーラーです。安定や理想を<n>求め、それを手にすることのでき<n>る人です。保守的だと思われるの<n>を嫌って、ときには目立つことを<n>したがりますが、それも一時のこ<n>と。安定した暮らしの中でこそ力<n>を発揮できる人です。
-EN: Concealer. You seek stability and your<n>ideal life, and you can achieve both.<n>You dislike being seen as set in your<n>ways, so you sometimes feel the urge<n>to make a splash. But it never lasts<n>long. A stable, settled life is where<n>your abilities really shine.
+EN: Concealer. You can achieve the stable, ideal life you seek. You sometimes make a splash to avoid seeming too conventional, but it's a passing urge. You thrive on stability.
 
 @1691C max=359
 JP: おしろい
@@ -228,7 +228,7 @@ EN: Face powder
 
 @16A84 max=359
 JP: おしろいです。純粋さの中に上品<n>さがただよいます。問題に巻き込<n>まれても、自分を卑下することも<n>おごることもなく、理性的にとら<n>えて解決できる人です。ただ、お<n>となしすぎて存在感が薄いのが少<n>しもったいない感じです。
-EN: Face powder. Your pure nature has a<n>touch of elegance. Even when trouble<n>finds you, you stay levelheaded and<n>solve it without putting yourself down<n>or getting full of yourself. It's just<n>a shame you're so quiet that people<n>sometimes overlook you.
+EN: Face powder. You're pure and elegant. In a crisis, you think clearly, neither belittling yourself nor getting proud. Still, it's a shame your quiet nature lets you go unnoticed.
 
 @16BEC max=359
 JP: つけまつげ
@@ -236,7 +236,7 @@ EN: False eyelashes
 
 @16D54 max=359
 JP: つけまつげです。自分を大きくみ<n>せたり、違う自分になってみたり<n>と、人を驚かせたりするのが好き<n>なタイプです。遊び友だちはたく<n>さんいますが、人を選ぶところが<n>あるため本当に心の許せる人は案<n>外と数少ないのでは？
-EN: False eyelashes. You love surprising<n>people, whether by making yourself<n>seem larger than life or trying on a<n>whole new persona. You have plenty of<n>friends to have fun with, but you're<n>picky about people. How many can you<n>really let your guard down around?
+EN: False eyelashes. You love to wow people by acting larger than life or trying a new persona. You have lots of playmates, but you're choosy. How many can you truly trust?
 
 @16EBC max=359
 JP: アイブロウ
@@ -244,4 +244,4 @@ EN: Eyebrow pencil
 
 @17024 max=359
 JP: アイブロウです。我が道を行くタ<n>イプで、人にとやかく言われるの<n>を嫌うところがあります。でも、<n>たまには周囲の意見にも耳をかた<n>むけましょう。我が道だけしか見<n>てないと、いつのまにか道からは<n>ずれてしまっているかも。
-EN: Eyebrow pencil. You go your own way<n>and don't like people telling you<n>how to live. Still, try listening to<n>other people's views now and then.<n>If you only ever focus on your own<n>path, you might stray off course<n>without even realizing it.
+EN: Eyebrow pencil. You go your own way and hate being told what to do. Still, hear others out sometimes. Focus only on your own path and you may stray off course.

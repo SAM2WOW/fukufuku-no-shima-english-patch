@@ -156,7 +156,7 @@ EN: Straw Hat
 
 @15134 max=359
 JP: 人生には平穏無事を願ってやまな<n>いあなたは、麦わら帽子タイプで<n>す。派手さはないけど、何ごとに<n>もマジメなので、人からも信頼さ<n>れています。慎重すぎてチャンス<n>を逃しがちだけど、地道な努力が<n>将来大きな実を結ぶでしょう。
-EN: You long for a peaceful, trouble-free life, making you a Straw Hat type. You aren't flashy, but you take everything seriously, so people trust you. Being overly cautious can mean missing chances, but your steady efforts will bear plenty of fruit down the road.
+EN: You're a Straw Hat type: you seek peace and quiet. Plain but earnest, you earn people's trust. Caution may cost you chances, but steady effort will bear fruit.
 
 @1529C max=359
 JP: コック帽
@@ -164,7 +164,7 @@ EN: Chef's Hat
 
 @15404 max=359
 JP: ここぞという時にすばらしいアイ<n>デアがひらめくあなたは、コック<n>帽タイプです。でも根気がないの<n>で、アイデアだおれになりがちで<n>す。アイデアを実現できるいいパ<n>ートナーを見つけて、裏方に徹し<n>た方が成功への近道です。
-EN: You're a Chef's Hat type, dreaming up brilliant ideas just when they're needed. But you lack staying power, so those ideas often go nowhere. Your quickest route to success is to find a good partner who can bring them to life while you work behind the scenes.
+EN: You're a Chef's Hat type: full of bright ideas, short on follow-through. Find a partner to bring them to life while you work behind the scenes. That's your recipe for success!
 
 @1556C max=359
 JP: キャップ
@@ -172,7 +172,7 @@ EN: Cap
 
 @156D4 max=359
 JP: 誰からも好かれる人気者のあなた<n>はキャップタイプです。スポーツ<n>でも音楽でも好きなことを好きに<n>やって人生を楽しむあなたのエネ<n>ルギーは、周囲にいる人をも巻き<n>込んで楽しくハッピーにします。<n>ただし一言多いのが玉にキズ。
-EN: Popular and well liked, you're a Baseball Cap type. Whether it's sports, music, or any other passion, you do your own thing and enjoy life. Your energy is infectious, sweeping everyone around you into the fun. Your one little flaw? You never quite know when to stop talking.
+EN: You're a Baseball Cap type: popular and full of infectious energy. Sports, music... you follow your passions and spread joy. Your one flaw? Saying a little too much.
 
 @1583C max=359
 JP: ベレー帽
@@ -180,7 +180,7 @@ EN: Beret
 
 @159A4 max=359
 JP: 金運に恵まれてるあなたは、ベレ<n>ー帽タイプです。どんな時代でも<n>幅広い人々に支持されつづけてい<n>ます。ただ堅実さに欠けるためト<n>ラブルを引き起こす一面も。斜め<n>にかぶりすぎてズリ落とさないよ<n>う、気をくばることも大切です。
-EN: Blessed with money luck, you're a Beret type. No matter the era, you keep winning fans from all walks of life. Still, your lack of good, solid judgment can land you in trouble. A jaunty tilt is all very well, but take care your beret doesn't slide right off!
+EN: You're a Beret type: lucky with money and liked by all sorts. But your lack of sound judgment can cause trouble. Watch that jaunty tilt, or your hat might slip right off!
 
 @15B0C max=359
 JP: サンバイザー
@@ -188,7 +188,7 @@ EN: Sun Visor
 
 @15C74 max=359
 JP: 世渡り上手のあなたは、サンバイ<n>ザータイプです。頭のてっぺんが<n>抜けてても、人あたりのよさで帽<n>子の仲間に入れてもらっています。<n>心の中にある葛藤などはおくびに<n>も出さず、前進あるのみというバ<n>イタリティにあふれています。
-EN: You know how to get along in the world, making you a Sun Visor type. Even with your top missing, your friendly manner earns you a place among the hats. You never let your inner struggles show. Brimming with energy, you just keep charging ahead!
+EN: You're a savvy Sun Visor type. Even without a top, your charm gets you into the hat club. You hide your inner struggles and charge ahead with endless energy.
 
 @15DDC max=359
 JP: 目出し帽
@@ -196,7 +196,7 @@ EN: Balaclava
 
 @15F44 max=359
 JP: 人に頼まれるとイヤとはいえない<n>あなたは、目出し帽タイプです。<n>自分のやりたいことでもないこと<n>までして人に尽くしたのに、裏切<n>られて自分の株を下げることもた<n>びたび。でも純粋な気持ちを大切<n>にしていれば、必ず報われます。
-EN: You can never say no to a favor, making you a Balaclava type. You go out of your way to help, even doing things you'd rather not do, only to be betrayed and have your own reputation suffer. Still, keep that kind heart of yours. Your goodness will be rewarded someday.
+EN: You're a Balaclava type: you can't say no to favors. Helping against your wishes can lead to betrayal and hurt your name. Keep that kind heart; it will be rewarded.
 
 @160AC max=359
 JP: シルクハット
@@ -204,7 +204,7 @@ EN: Top Hat
 
 @16214 max=359
 JP: プライドの高いあなたは、シルク<n>ハットタイプです。過去の実力や<n>栄光にしがみついてばかりいて努<n>力もしないでいると、あなた自身<n>の存在が過去の人になってしまい<n>ます。ハトやウサギでも出すぐら<n>いの心意気で前へ進みましょう。
-EN: Proud as can be, you're a Top Hat type. If you cling to past talents and glories without making any effort, you'll soon be yesterday's news yourself. Move forward with enough flair and ambition to pull a rabbit, or even a dove, out of your hat!
+EN: You're a proud Top Hat type. Cling to past glory without trying, and you'll be old news. Move forward with enough spirit to pull a rabbit or dove out of your hat!
 
 @1637C max=359
 JP: ヘルメット
@@ -212,7 +212,7 @@ EN: Helmet
 
 @164E4 max=359
 JP: 打たれ強いあなたは、ヘルメット<n>タイプです。スタミナたっぷりの<n>体力と、精神的な忍耐強さもかね<n>そなえています。ただ、あれこれ<n>手をつけては中途半端にする傾向<n>なので、ここ一番のときはしっか<n>りあごヒモを締め直しましょう。
-EN: You can take a hit, making you a Helmet type. You've got physical stamina to spare and the mental grit to match. But you tend to start all sorts of things and leave them half done. When it really counts, tighten that chin strap and see the job through!
+EN: You're a Helmet type: tough in body and mind, with stamina to spare. But you leave too many jobs half done. When it counts, buckle that chin strap and see things through!
 
 @1664C max=359
 JP: テンガロンハット
@@ -220,4 +220,4 @@ EN: Ten-Gallon Hat
 
 @167B4 max=359
 JP: 強烈な個性でみんなを圧倒するあ<n>なたは、テンガロンハットタイプ<n>です。トップになれるだけの才能<n>はありますが、良いときと悪いと<n>きの差がはげしいのが難点。気分<n>が弱ると、あやしい世界に逃げ込<n>みがちなので注意しましょう。
-EN: Your powerful personality bowls everyone over, making you a Ten-Gallon Hat type. You've got the talent to reach the top, but your highs and lows can be extreme. When your spirits sink, you're liable to seek escape in shady places, so watch your step.
+EN: You're a Ten-Gallon Hat type: a bold personality with the talent to reach the top. Your highs and lows are extreme. When you're down, beware of escaping into shady worlds.

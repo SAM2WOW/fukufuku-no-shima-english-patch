@@ -156,7 +156,7 @@ EN: Shiba Inu
 
 @15134 max=359
 JP: 柴犬タイプのあなたは、自分自身<n>をしっかりと持った、行動派。い<n>ざというとき頼りになるリーダー<n>的存在です。ただし、負けず嫌い<n>で、新しい物好き、さらに先走る<n>傾向もあるので、あとあと後悔し<n>ないよう、慎重に行動しましょう。
-EN: As a Shiba Inu, you know who you are<n>and take action. You're a natural<n>leader people can rely on in a pinch.<n>But you hate losing, love new things,<n>and tend to rush ahead.<n>Think before you act,<n>or you may regret it later.
+EN: Shiba Inu types are confident, active leaders you can count on. You hate losing, love new things and may rush ahead. Think before you act to avoid regrets.
 
 @1529C max=359
 JP: コリー
@@ -164,7 +164,7 @@ EN: Collie
 
 @15404 max=359
 JP: 一見穏やかで柔軟に見えますが、<n>実は、ものすごく頑固なところが<n>あるのが、このコリータイプ。す<n>べてにおいて堅実で、芯が通った<n>性格です。とはいっても、お堅い<n>だけの面白みのない人間ではなく、<n>感覚的な事柄への理解もあります。
-EN: Collies seem calm and easygoing,<n>but have a surprisingly stubborn streak.<n>You're sensible in all you do,<n>with firm principles at your core.<n>Still, you're no dull stick-in-the-mud.<n>You also appreciate things<n>that speak to the senses.
+EN: Collie types seem calm and easygoing, but can be very stubborn. You're steady and firm in your principles, yet no bore: you appreciate feelings and intuition, too.
 
 @1556C max=359
 JP: プードル
@@ -172,7 +172,7 @@ EN: Poodle
 
 @156D4 max=359
 JP: スマートでオシャレ、知的でなん<n>でもそつなくこなす、スタイリッ<n>シュなプードル。新しいものが好<n>きで、アンテナはいつも、ピンと<n>立っています。その反面、実は飽<n>きっぽいところもあり、他人から<n>は浮ついた人に見えることも。
-EN: Smart, stylish, and quick-witted,<n>Poodles handle most things with ease.<n>You love anything new and always<n>have your feelers out for the next trend.<n>On the flip side, you get bored easily.<n>Others may sometimes see you<n>as a bit flighty.
+EN: Poodle types are smart, stylish and good at almost anything. You love new things and keep up with trends, but bore easily. Others may see you as flighty.
 
 @1583C max=359
 JP: ポメラニアン
@@ -180,7 +180,7 @@ EN: Pomeranian
 
 @159A4 max=359
 JP: ちゃかちゃかと世話好きで、人あ<n>たりも良く、噂や世間話が大好き<n>なのがポメラニアン。うわべの付<n>き合いは、とても上手なのですが、<n>実は慎重な一面も持ち合わせてお<n>り、本当はあまり心を開かない、<n>クールな性格が隠れています。
-EN: Busy, helpful, and friendly,<n>Pomeranians love gossip and small talk.<n>You're great at casual friendships,<n>but there's a cautious side to you, too.<n>Beneath that sociable surface,<n>you keep your cool and rarely<n>let people into your heart.
+EN: Pomeranian types are busy, helpful and friendly. You love gossip and small talk, but beneath that social charm, you're cautious, reserved and slow to let anyone close.
 
 @15B0C max=359
 JP: ハスキー
@@ -188,7 +188,7 @@ EN: Husky
 
 @15C74 max=359
 JP: 派手で華があり、どこにいても目<n>を引くハスキータイプのあなた。<n>集団の先頭に立ち、まわりを引っ<n>張って行く力強さも備えています。<n>ただ、プライドが高すぎる、とい<n>う一面もあり、いざというとき素<n>直になれず損をしてしまうことも。
-EN: Flashy and full of flair,<n>you Huskies turn heads wherever you go.<n>You have the strength to take the lead<n>and bring everyone along with you.<n>But your pride can get a little too big.<n>When it counts, refusing to be honest<n>about your feelings can cost you.
+EN: Husky types turn heads with their flair and have the strength to lead a crowd. But too much pride can keep you from admitting your feelings when it matters, costing you dearly.
 
 @15DDC max=359
 JP: マルチーズ
@@ -196,7 +196,7 @@ EN: Maltese
 
 @15F44 max=359
 JP: 一見、人当たりが良く、やさしげ<n>ですが、実はとても自我の強い人。<n>マルチーズタイプのあなたは、自<n>分の価値観で人を判断し、勝手な<n>おせっかいを焼く傾向があります。<n>常に相手の立場で物事を考える事<n>を、忘れないでください。
-EN: You seem friendly and gentle,<n>but Maltese types have a strong will.<n>You tend to judge people<n>by your own values and meddle<n>without asking if your help is wanted.<n>Remember to see things<n>from the other person's point of view.
+EN: Maltese types seem kind and friendly, but have strong egos. You judge others by your own values and may meddle without being asked. Remember to put yourself in their shoes.
 
 @160AC max=359
 JP: ブルドッグ
@@ -204,7 +204,7 @@ EN: Bulldog
 
 @16214 max=359
 JP: どんと落ち着いたバランス感覚が<n>あり、人の輪、協調性などを重ん<n>じるブルドッグタイプのあなた。<n>何事も確実に、しっかりと進める<n>ことができますが、面白みに欠け<n>る一面もあります。たまには個性<n>を主張してもいいでしょう。
-EN: Steady and well-balanced, you're a<n>Bulldog type who values harmony and<n>teamwork. You take a sure, sensible<n>approach and see things through,<n>though you can be a little dull at<n>times. Let your own personality<n>shine through now and then!
+EN: Bulldog types are calm and balanced, valuing harmony and teamwork. You tackle things steadily and reliably, but can seem a bit dull. Let your personality shine sometimes!
 
 @1637C max=359
 JP: ブルテリア
@@ -212,7 +212,7 @@ EN: Bull Terrier
 
 @164E4 max=359
 JP: 情熱的なのに慎重で、他人へのこ<n>だわりはないのに、自分へのこだ<n>わりはものすごく強い、それがブ<n>ルテリア。重要なことは慎重に考<n>えますが、一度決断すると、その<n>道を一途に突き進みます。また他<n>人との距離を図るのも上手です。
-EN: Passionate yet cautious, Bull Terriers<n>aren't fussy about others, but have<n>very firm ideas about themselves.<n>You weigh big decisions carefully,<n>then follow your chosen path with<n>total dedication. You also know just<n>how much distance to keep from others.
+EN: Bull Terrier types are passionate yet cautious, easy on others but firm about who they are. You weigh big choices, then commit fully. You know how close to get to others.
 
 @1664C max=359
 JP: ダックスフンド
@@ -220,7 +220,7 @@ EN: Dachshund
 
 @167B4 max=359
 JP: 好奇心が強くどこにでも鼻を突っ<n>こんでしまう、ダックスフンドタ<n>イプのあなた。自分の探究心を満<n>足させるためには、多少、世間か<n>ら白い目で見られても平気です。<n>自分が関心を持てることになら、<n>高い能力を発揮できます。
-EN: Curious Dachshund types can't resist<n>poking their noses into everything.<n>To satisfy your thirst for discovery,<n>you're happy to put up with a few<n>disapproving looks. When something<n>really captures your interest,<n>your talents truly shine.
+EN: Curious Dachshund types poke their noses into everything. A few disapproving looks won't stop your quest for discovery. When something interests you, your talents shine.
 
 @1691C max=359
 JP: レトリバー
@@ -228,7 +228,7 @@ EN: Retriever
 
 @16A84 max=359
 JP: 人のために働くこと、尽くすこと<n>を厭わず、努力家で誠実なレトリ<n>バー。何事もまじめに取り組み、<n>能力も高いので、良い結果を出せ<n>るのですが、自分と同等の結果を<n>他人にも要求してしまう、厳しい<n>性格の持ち主でもあります。
-EN: Hardworking and sincere, Retrievers<n>gladly go the extra mile for others.<n>You take every task seriously, and<n>your talents help you get results.<n>But you can be a tough taskmaster,<n>expecting everyone else to live up<n>to your own high standards.
+EN: Retriever types are sincere, hardworking and happy to help others. Your talent and dedication get results, but you can be demanding, expecting others to match your high standards.
 
 @16BEC max=359
 JP: ビーグル
@@ -236,7 +236,7 @@ EN: Beagle
 
 @16D54 max=359
 JP: ビーグルタイプは、感性が鋭く、<n>自由を愛し、刺激を愛す、感覚的<n>な人。常に自分の思いを優先させ<n>て行動し、自分が気持ち良く感じ<n>る方向へと流れていきますが、き<n>ちんとした節度や尺度を持ってい<n>るので羽目をはずしません。
-EN: Sensitive and guided by your senses,<n>you're a Beagle who loves freedom<n>and excitement. You put your own<n>feelings first and follow whatever<n>feels good. Still, you have a clear<n>sense of limits and moderation,<n>so you never get too carried away.
+EN: Beagles love freedom and thrills. You have keen senses and put your feelings first, following what feels good. Still, your sense of limits keeps you from going too far.
 
 @16EBC max=359
 JP: ダルメシアン
@@ -244,4 +244,4 @@ EN: Dalmatian
 
 @17024 max=359
 JP: いつも夢見ているようでいて、実<n>は自分の信念を貫き通す、まっす<n>ぐな志を隠しているダルメシアン。<n>世間の価値観にはとらわれず、自<n>分を信じて進んでいくことができ<n>るタイプです。少し八方美人的な<n>やさしさを持つ人でもあります。
-EN: Dalmatians may seem like dreamers,<n>but underneath lies a firm resolve<n>to stay true to their beliefs.<n>You trust yourself and forge ahead,<n>unbound by society's values.<n>You're kind to everyone, though you<n>can be a bit of a people-pleaser.
+EN: Dalmatians seem dreamy, but stand firm in their beliefs. You trust yourself and follow your own path, unbound by convention. You're kind, but can be a people-pleaser.

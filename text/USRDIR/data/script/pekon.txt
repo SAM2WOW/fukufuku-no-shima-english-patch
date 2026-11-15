@@ -168,7 +168,7 @@ EN: Meaning: Where do you play football?<n>Fill in: (      ) do you play footbal
 
 @1546C max=119
 JP: 日　私達の学校から東京タワーが見えます。<n>英　We （　　　） Tokyo Tower from our school.
-EN: Meaning: We can see Tokyo Tower from our school.<n>Fill in: We (      ) Tokyo Tower from our school.
+EN: Meaning: We can see Tokyo Tower. We (___) Tokyo Tower from our school.
 
 @1552C max=119
 JP: Ａ　What （　　　） is it today?<n>Ｂ　It's Tuesday.
@@ -280,7 +280,7 @@ EN: Meaning: Kindly go up this street.<n>(___) go up this street.
 
 @1672C max=119
 JP: 日　病院へ行く道を教えてくださいませんか？<n>英　Could you tell me （　　） to the hospital?
-EN: Meaning: Could you give me directions to the hospital?<n>Could you tell me (___) to the hospital?
+EN: Asking directions: Could you tell me (___) to the hospital?
 
 @167EC max=119
 JP: 「farm」の意味はどれか？
@@ -528,7 +528,7 @@ EN: True<n>False
 
 @185EC max=119
 JP: （　　　）妙、（　　　）峰、幽（　　　）、<n>三つの（　　　）に入る共通した漢字はどれか？
-EN: Which kanji completes all three words?<n>(...)myo (mystic), (...)ho (sacred peak), yu(...) (ghost).
+EN: Which kanji fits __myo (mystic), __ho (sacred peak), yu__ (ghost)?
 
 @18664 max=63
 JP: 神<n>獄<n>霊
@@ -536,7 +536,7 @@ EN: God<n>Prison<n>Spirit
 
 @186AC max=119
 JP: 豪（　　　）、（　　　）駄、（　　　）崩、<n>三つの（　　　）に入る共通した漢字はどれか？
-EN: Which kanji appears in all three?<n>Gosetsu (heavy snow), setta (sandals), nadare (avalanche).
+EN: Which kanji links gosetsu (heavy snow), setta (sandals), nadare (avalanche)?
 
 @18724 max=63
 JP: 雪<n>屈<n>力
@@ -792,7 +792,7 @@ EN: Clouds of dust<n>Show true collars<n>In the same boat
 
 @19EAC max=119
 JP: 次の赤字部分の正しい読みはどれか？<n>稲麻<col.RED>竹葦</col>。
-EN: How is the Japanese term for <col.RED>bamboo and reeds</col> read?<n>It appears in an idiom for a crowd.
+EN: How is <col.RED>bamboo and reeds</col> read in 'toma ____'?
 
 @19F24 max=63
 JP: ちくし<n>ちくえ<n>ちくい
@@ -928,7 +928,7 @@ EN: Arima Onsen<n>Dogo Onsen<n>Noboribetsu Karurusu
 
 @1AB6C max=119
 JP: 旅行業において、日帰り旅行のみを実施する場合、<n>旅行業の登録は必要としない。
-EN: A travel business that only runs day trips does not need to register as a travel agency.
+EN: Travel firms running only day trips need no travel agency registration.
 
 @1ABE4 max=63
 JP: ○<n>×
@@ -960,7 +960,7 @@ EN: True<n>False
 
 @1AE6C max=119
 JP: 国土交通省令で定められている、業者が旅行者募集の<n>広告に記載しなければならないものはどれか？
-EN: Under Japan's transport ministry rules, what must an agency include in an ad recruiting travelers?
+EN: What must tour ads list under Japan's transport ministry rules?
 
 @1AEE4 max=63
 JP: 責任者の氏名<n>募集人員<n>旅行業者の住所
@@ -968,7 +968,7 @@ EN: Manager's name<n>Group size<n>Agency address
 
 @1AF2C max=119
 JP: 旅行者が契約期日までに旅行代金を支払わなかった<n>場合、旅行業者に対して支払うべきものはなにか？
-EN: What must a traveler pay the travel agency if they fail to pay for their trip by the agreed deadline?
+EN: If travelers miss the payment deadline, what must they pay the agency?
 
 @1AFA4 max=63
 JP: 取消し料<n>違約料<n>迷惑料
@@ -976,7 +976,7 @@ EN: Cancellation fee<n>Contract penalty<n>Inconvenience fee
 
 @1AFEC max=119
 JP: 海外旅行において、最小催行人数に満たない場合、<n>旅行の中止は何日前に知らせなければならないか？
-EN: If an overseas tour lacks the minimum group size, how many days' notice is required to cancel it?
+EN: Overseas tour below minimum size: how many days' notice to cancel?
 
 @1B064 max=63
 JP: １３日<n>２４日<n>３０日
@@ -984,7 +984,7 @@ EN: 13 days<n>24 days<n>30 days
 
 @1B0AC max=119
 JP: 国内旅行において、最小催行人数に満たない場合、<n>旅行の中止は何日前に知らせなければならないか？
-EN: If a domestic tour lacks the minimum group size, how many days' notice is required to cancel it?
+EN: Domestic tour below minimum size: how many days' notice to cancel?
 
 @1B124 max=63
 JP: １４日<n>２１日<n>２８日
@@ -1000,7 +1000,7 @@ EN: Lost passport<n>Quake in Japan<n>Quake abroad
 
 @1B22C max=119
 JP: ＪＲの旅客営業規則において大人運賃、料金が<n>適用されるのは１２歳以上の中学生からである。
-EN: Under JR rules, adult fares and charges apply to junior high students aged 12 and up.
+EN: JR adult fares and fees apply from age 12 in junior high.
 
 @1B2A4 max=63
 JP: ○<n>×
@@ -1024,7 +1024,7 @@ EN: True<n>False
 
 @1B46C max=119
 JP: 国内航空運送約款において、旅客運賃または料金の<n>払い戻し期間は有効期間満了後いつまでか？
-EN: Under domestic airline rules, how long after a ticket expires can fares and charges be refunded?
+EN: Domestic flights: How long after ticket expiry are refunds allowed?
 
 @1B4E4 max=63
 JP: ７日以内<n>１０日以内<n>１４日以内
@@ -1032,7 +1032,7 @@ EN: Within 7 days<n>Within 10 days<n>Within 14 days
 
 @1B52C max=119
 JP: 国際航空運送約款において、旅客運賃または料金の<n>払い戻し期間は有効期間満了後いつまでか？
-EN: Under international airline rules, how long after a ticket expires can fares and charges be refunded?
+EN: International flights: How long after ticket expiry are refunds allowed?
 
 @1B5A4 max=63
 JP: １０日以内<n>２０日以内<n>３０日以内
@@ -1168,7 +1168,7 @@ EN: Tropical low<n>Tropical high<n>Extratropical low
 
 @1C1EC max=119
 JP: 雷雨をもたらす原因となる積乱雲は、<n>発生期、成熟期、（　　　）の３段階に分類される。
-EN: Thunderstorm-producing cumulonimbus clouds have three stages:<n>developing, mature and (   ).
+EN: Cumulonimbus stages: developing, mature and ( ).
 
 @1C264 max=63
 JP: 減退消滅期<n>自然消滅期<n>衰弱消滅期
@@ -1200,7 +1200,7 @@ EN: Foehn<n>Monsoon<n>Jet stream
 
 @1C4EC max=119
 JP: 梅雨前線とは、停滞前線の代表的なものであり、<n>秋雨前線とは閉塞前線の代表的なものである。
-EN: Japan's summer rain front is a typical stationary front;<n>its autumn rain front is a typical occluded front.
+EN: Japan's rainy-season front is stationary; its autumn front is occluded.
 
 @1C564 max=63
 JP: ○<n>×
@@ -1208,7 +1208,7 @@ EN: True<n>False
 
 @1C5AC max=119
 JP: 低気圧には、温帯低気圧、熱帯低気圧、地形性低気圧、<n>熱的低気圧および（　　　）がある。
-EN: Low-pressure systems include extratropical, tropical,<n>orographic and thermal lows, as well as (   ).
+EN: Low types: extratropical, tropical, orographic, thermal and ( ).
 
 @1C624 max=63
 JP: 切離低気圧<n>上昇低気圧<n>散開低気圧
@@ -1224,7 +1224,7 @@ EN: East to west<n>West to east<n>South to north
 
 @1C72C max=119
 JP: 湿潤な空気が山岳などを越えて、<n>乾燥した熱風に変化することを（　　　）現象という。
-EN: When moist air crosses mountains and becomes a hot, dry wind,<n>this is called the ( ) effect.
+EN: Moist air crossing mountains turns hot and dry: the ( ) effect.
 
 @1C7A4 max=63
 JP: フェーン<n>コリオリカ<n>ブロッキング
@@ -1232,7 +1232,7 @@ EN: Foehn<n>Coriolis<n>Blocking
 
 @1C7EC max=119
 JP: 天気図の中に場所と天気を表す天気記号には、<n>日本式と国際式、もう１つは中国式がある。
-EN: Map symbols show location and weather.<n>There are Japanese, international and Chinese systems.
+EN: Weather map symbols use Japanese, international and Chinese systems.
 
 @1C864 max=63
 JP: ○<n>×
@@ -1248,7 +1248,7 @@ EN: WMO<n>WHO<n>WFC
 
 @1C96C max=119
 JP: 気象庁が示す異常気象の定義とは、過去（　　　）年<n>間の気候に対し著しい偏りを示す天気のことをいう。
-EN: The JMA defines abnormal weather as a marked departure<n>from the climate of the past ( ) years.
+EN: JMA: Abnormal weather differs greatly from the past ( ) years' climate.
 
 @1C9E4 max=63
 JP: ２０<n>３０<n>４０
@@ -1280,7 +1280,7 @@ EN: 1<n>2<n>3
 
 @1CC6C max=119
 JP: 都道府県やその細分地域内で洪水のおそれがある場合、<n>洪水警報を発表するのはだれか？
-EN: Who issues flood warnings when flooding is likely<n>within a prefecture or one of its regions?
+EN: Who issues flood warnings for a prefecture or one of its districts?
 
 @1CCE4 max=63
 JP: 市町村長<n>都道府県知事<n>気象庁長官
@@ -1352,7 +1352,7 @@ EN: Wind direction<n>Wind force<n>Humidity
 
 @1D32C max=119
 JP: 天気図では、風向を１６方位であらわし、<n>風力を（　　　）階級であらわす。
-EN: Weather maps show wind direction using 16 compass points<n>and wind force on a ( )-level scale.
+EN: Weather maps use 16 wind directions and ( ) levels of wind force.
 
 @1D3A4 max=63
 JP: ４<n>８<n>１２
@@ -1360,7 +1360,7 @@ EN: 4<n>8<n>12
 
 @1D3EC max=119
 JP: 一日のうち前半がくもりで、後半が晴れの場合は<n>次のうちどれにあてはまるか？
-EN: If the first half of a day is cloudy and the second half sunny,<n>which forecast describes it?
+EN: Cloudy for half the day, then sunny: which forecast describes this?
 
 @1D464 max=63
 JP: くもり時々晴れ<n>くもりのち晴れ<n>くもり一時晴れ
@@ -1376,7 +1376,7 @@ EN: 10 minutes<n>30 minutes<n>60 minutes
 
 @1D56C max=119
 JP: 消防法において、危険物は第１類から<n>第（　　　）類までの性質に分類されている。
-EN: Under Japan's Fire Service Act, hazardous materials<n>are grouped by their properties into classes 1 through ( ).
+EN: Japan's fire law groups hazardous goods by type into classes 1 to ( ).
 
 @1D5E4 max=63
 JP: ５<n>６<n>１６
@@ -1384,7 +1384,7 @@ EN: 5<n>6<n>16
 
 @1D62C max=119
 JP: 地中に設置されたタンクで危険物を貯蔵、<n>取り扱う施設を（　　　）という。
-EN: A facility that stores and handles hazardous materials<n>in tanks below ground is called a ( ).
+EN: A site storing and handling hazardous goods in buried tanks is a ( ).
 
 @1D6A4 max=63
 JP: 地下貯蔵所<n>地下タンク貯蔵室<n>地下タンク貯蔵所
@@ -1400,7 +1400,7 @@ EN: True<n>False
 
 @1D7AC max=119
 JP: 危険物施設保安員の選任または解任を行う場合は、<n>市町村長などに届け出なければならない。
-EN: Notify the mayor or equivalent authority<n>when appointing or dismissing a hazardous materials safety officer.
+EN: Notify the mayor when hazmat site safety staff are appointed or dismissed.
 
 @1D824 max=63
 JP: ○<n>×
@@ -1416,7 +1416,7 @@ EN: Town mayor<n>Prefectural governor<n>Prime minister
 
 @1D92C max=119
 JP: 指定された危険物の取扱作業および立会いが<n>認められるのは（　　　）危険物取扱者である。
-EN: A Class ( ) hazardous materials handler may<n>handle and supervise work with specified hazardous materials.
+EN: Class ( ) hazmat handlers may handle and oversee specified hazardous goods.
 
 @1D9A4 max=63
 JP: 甲種<n>乙種<n>丙種
@@ -1432,7 +1432,7 @@ EN: Indoor tank storage<n>Type 1 sales outlet
 
 @1DAAC max=119
 JP: 第４類危険物の指定数量の倍数が３０００の場合、<n>一般取扱所は自衛消防組織を設置せねばならない。
-EN: A general handling site with 3,000 times the specified<n>quantity of Class 4 materials must have a fire brigade.
+EN: General handling sites at 3,000x Class 4's set amount need their own fire crew.
 
 @1DB24 max=63
 JP: ○<n>×
@@ -1504,7 +1504,7 @@ EN: True<n>False
 
 @1E16C max=119
 JP: 第６類の危険物と同じ車両で<n>運搬できるのは（　　　）である。
-EN: Class 6 hazardous materials may be transported<n>in the same vehicle as ( ) hazardous materials.
+EN: Class 6 hazardous goods may share a transport vehicle with ( ).
 
 @1E1E4 max=63
 JP: 第１類<n>第２類<n>第３類
@@ -1520,7 +1520,7 @@ EN: Vapor pressure<n>Flash point<n>Boiling point
 
 @1E2EC max=119
 JP: 亜鉛に希硫酸を加えると水素と硫酸亜鉛ができる。<n>この現象を（　　　）という。
-EN: Adding dilute sulfuric acid to zinc produces hydrogen<n>and zinc sulfate. This reaction is called ( ).
+EN: Zinc in dilute sulfuric acid forms hydrogen and zinc sulfate. This is ( ).
 
 @1E364 max=63
 JP: 分解<n>置換<n>化合
@@ -1544,7 +1544,7 @@ EN: Sublimation heat<n>Combustion heat<n>Vaporization heat
 
 @1E52C max=119
 JP: 酸と塩基が中和して、<n>生成する熱量を中和熱という。
-EN: The heat produced when an acid and a base neutralize<n>each other is called the heat of neutralization.
+EN: Heat from acid-base neutralization is called the heat of neutralization.
 
 @1E5A4 max=63
 JP: ○<n>×
@@ -1600,7 +1600,7 @@ EN: Potassium nitrate<n>Aluminum powder<n>Benzoyl peroxide
 
 @1EA6C max=119
 JP: 塩素酸カリウムは、強い酸化剤で加熱すると<n>約（　　　）度で分解を始める。
-EN: Potassium chlorate is a strong oxidizer. When heated, it begins to decompose at about (    ) degrees C.
+EN: Potassium chlorate, a strong oxidizer, starts decomposing at about ( ) C.
 
 @1EAE4 max=63
 JP: ２００<n>３００<n>４００
@@ -1616,7 +1616,7 @@ EN: Magnesium powder<n>Red phosphorus<n>Phosphorus trisulfide
 
 @1EBEC max=119
 JP: 電熱器を５分間、２ｋＷで使用した場合の<n>発熱量は何ｋＪか？
-EN: How much heat, in kJ, does an electric heater produce when run at 2 kW for 5 minutes?
+EN: How much heat (kJ) does a 2 kW heater give off in 5 minutes?
 
 @1EC64 max=63
 JP: ４００ｋＪ<n>６００ｋＪ<n>８００ｋＪ
@@ -1624,7 +1624,7 @@ EN: 400 kJ<n>600 kJ<n>800 kJ
 
 @1ECAC max=119
 JP: 三層３線式屋内配線に流れる電流が１．５倍になった<n>場合、配線の電気抵抗による発熱量は３倍になる。
-EN: If current in three-phase, three-wire indoor wiring rises 1.5-fold, resistive heat output triples.
+EN: In 3-phase, 3-wire wiring, 1.5x the current gives 3x the resistive heat.
 
 @1ED24 max=63
 JP: ○<n>×
@@ -1656,7 +1656,7 @@ EN: True<n>False
 
 @1EFAC max=119
 JP: ６０Ｈｚで無負荷運転した三相誘導電動機は、同条件<n>で５０Ｈｚにした時と比べ、回転速度はどうなるか？
-EN: At no load, how does a three-phase induction motor's speed at 60 Hz compare with its speed at 50 Hz?
+EN: At no load, how does a 3-phase induction motor's speed change from 50 to 60 Hz?
 
 @1F024 max=63
 JP: 増加する<n>減少する
@@ -1712,7 +1712,7 @@ EN: True<n>False
 
 @1F4EC max=119
 JP: 低圧配線工事の際、臨時配線以外のビニル外装ケーブ<n>ルを直接設置してはならない場所はどこか？
-EN: Except for temporary wiring, where must low-voltage vinyl-sheathed cable never be installed directly?
+EN: Where is direct laying of permanent low-voltage vinyl-sheathed cable banned?
 
 @1F564 max=63
 JP: モルタル壁の屋側<n>木造家屋の床下<n>コンクリート壁中
@@ -1736,7 +1736,7 @@ EN: 60<n>70<n>80
 
 @1F72C max=119
 JP: 接地抵抗を接地抵抗計で測定する場合、原則として補<n>助接地極は２箇所必要である。
-EN: Measuring earth resistance with an earth resistance tester generally requires two auxiliary earth electrodes.
+EN: Earth resistance testing normally needs two auxiliary earth electrodes.
 
 @1F7A4 max=63
 JP: ○<n>×
@@ -1744,7 +1744,7 @@ EN: True<n>False
 
 @1F7EC max=119
 JP: 電気工事士免状は、電気工事の作業現場では必ず携帯<n>していなければならない。
-EN: Electricians must always carry their electrician's license at electrical work sites.
+EN: Electricians must always carry their license at electrical work sites.
 
 @1F864 max=63
 JP: ○<n>×
@@ -1768,7 +1768,7 @@ EN: True<n>False
 
 @1FA2C max=119
 JP: 電気用品安全法により、<n>特定電気用品に指定されているものはどれか？
-EN: Under Japan's Electrical Appliances and Materials Safety Act, which item is in the specified category?
+EN: Which is a specified electrical product under Japan's electrical safety law?
 
 @1FAA4 max=63
 JP: 電気時計<n>蛍光灯電線<n>ねじ込み接続器
@@ -1776,7 +1776,7 @@ EN: Electric clock<n>Fluorescent lamp wire<n>Screw-in connector
 
 @1FAEC max=119
 JP: 住宅の屋内に施設する白熱電灯まで流れる電路に、<n>原則として使用できる対地電圧の最高値は何Ｖか？
-EN: For a home's indoor incandescent light circuit, what is the usual maximum voltage to ground, in V?
+EN: For indoor home incandescent lights, what is the usual max voltage to ground (V)?
 
 @1FB64 max=63
 JP: １００Ｖ<n>１５０Ｖ<n>２００Ｖ
@@ -1792,7 +1792,7 @@ EN: CV cable<n>MI cable<n>VVF cable
 
 @1FC6C max=119
 JP: ネオン放電灯が１０００Ｖを超える管灯回路の<n>屋内配線工事で正しい方法はどれか？
-EN: For indoor wiring of a neon lamp circuit over 1,000 V,<n>which installation method is correct?
+EN: Which indoor wiring method is correct for a neon lamp circuit over 1,000 V?
 
 @1FCE4 max=63
 JP: 金属管工事<n>ケーブル工事<n>がいし引き工事
@@ -1800,7 +1800,7 @@ EN: Metal conduit<n>Cable wiring<n>Insulator wiring
 
 @1FD2C max=119
 JP: 漏電遮断器は、電気用品安全法による<n>特定電気用品に適用される。
-EN: Earth-leakage breakers are specified appliances<n>under the Electrical Appliances and Materials Safety Act.
+EN: Electrical safety law lists leakage breakers as specified appliances.
 
 @1FDA4 max=63
 JP: ○<n>×
@@ -1816,7 +1816,7 @@ EN: True<n>False
 
 @1FEAC max=119
 JP: 自家用電気工作物の地中電線用暗きょ設置工事は、<n>第２種電気工事士の資格があってもできない。
-EN: A Class 2 electrician cannot install underground cable ducts<n>for private-use electrical systems.
+EN: Class 2 electricians cannot install buried cable ducts for private-use systems.
 
 @1FF24 max=63
 JP: ○<n>×
@@ -1832,7 +1832,7 @@ EN: True<n>False
 
 @2002C max=119
 JP: 低圧屋内配線の接地側と非接地側を、通電中に<n>見分けるのにもっとも簡単なものはどれか？
-EN: What is the simplest way to tell live and neutral wires apart<n>in energized low-voltage indoor wiring?
+EN: Which tool best tells live from neutral in powered low-voltage indoor wiring?
 
 @200A4 max=63
 JP: 検相器<n>ネオン検電器<n>絶縁抵抗計
@@ -1840,7 +1840,7 @@ EN: Phase tester<n>Neon voltage tester<n>Insulation tester
 
 @200EC max=119
 JP: 電気工事士免状を紛失した際、最初に交付を受けた<n>（　　　）に再交付申請書を届けなければならない。
-EN: If you lose your electrician's license, apply for a replacement<n>to the (___) who first issued it.
+EN: Lost electrician's license? Apply to the original issuing (___) for a new one.
 
 @20164 max=63
 JP: 市町村長<n>都道府県知事<n>経済産業局長
@@ -1904,7 +1904,7 @@ EN: True<n>False
 
 @206EC max=119
 JP: 二級建築士は、延べ面積５００平方メートル以上の<n>病院を設計できない。
-EN: Class 2 architects cannot design hospitals<n>with a total floor area of 500 sq. m or more.
+EN: Class 2 architects cannot design hospitals of 500 sq. m or more total floor area.
 
 @20764 max=63
 JP: ○<n>×
@@ -1920,7 +1920,7 @@ EN: Sand<n>Clay
 
 @2086C max=119
 JP: 部材の接合部などをあらかじめ工場で加工しておく方<n>式を、なんというか。
-EN: What is the method of machining component joints<n>in a factory before construction called?
+EN: What is factory machining of joints before construction called?
 
 @208E4 max=63
 JP: プレハブ方式<n>プレカット方式<n>スローダウン方式
@@ -1928,7 +1928,7 @@ EN: Prefabrication<n>Precutting<n>Slowdown
 
 @2092C max=119
 JP: （　　　）水圧が上昇し、<n>せん断抵抗を失う現象を液状化という。
-EN: Liquefaction occurs when (___) water pressure rises<n>and soil loses its shear resistance.
+EN: Liquefaction is loss of soil shear strength as (___) water pressure rises.
 
 @209A4 max=63
 JP: 間隙<n>地中<n>流動
@@ -1968,7 +1968,7 @@ EN: Designated authority<n>Prefectural governor
 
 @20CEC max=119
 JP: 木材の伸縮性を考慮し、ひび割れを防ぐために木材の<n>中心まで切れ目を入れることを背割りという。
-EN: Back kerfing means cutting to a timber's center<n>to prevent cracks from shrinkage or swelling.
+EN: Back kerfing cuts to timber's core to prevent cracks from changes in size.
 
 @20D64 max=63
 JP: ○<n>×
@@ -1992,7 +1992,7 @@ EN: True<n>False
 
 @20F2C max=119
 JP: 建築基準法では、映画館などの場合、<n>客席側からの出口は外開きの戸でなければならない。
-EN: The Building Standards Act requires exits from cinema auditoriums<n>and similar venues to have outward-opening doors.
+EN: Building law requires cinema auditorium exit doors to open outward.
 
 @20FA4 max=63
 JP: ○<n>×
@@ -2040,7 +2040,7 @@ EN: Try frame<n>Truss frame<n>Trice frame
 
 @213AC max=119
 JP: 構造物の加重を基礎スラブから地盤まで<n>伝達させる地業を、杭地業という。
-EN: Pile foundation work transfers a structure's loads<n>from its foundation slab to the ground.
+EN: Pile foundations transfer loads from the foundation slab to the ground.
 
 @21424 max=63
 JP: ○<n>×
@@ -2064,7 +2064,7 @@ EN: True<n>False
 
 @215EC max=119
 JP: 色温度では、赤い色ほど数値が低く、<n>青い色ほど数値が高くなる。
-EN: In color temperature, redder colors have lower values,<n>while bluer colors have higher values.
+EN: Color temperature: redder means lower, bluer means higher.
 
 @21664 max=63
 JP: ○<n>×
@@ -2176,7 +2176,7 @@ EN: Cold<n>Hot<n>Room temperature
 
 @2206C max=119
 JP: 寒中コンクリートとして扱う期間は、<n>平均気温が（　　　）度以下と予想された場合である。
-EN: Cold-weather concreting rules apply when the expected<n>average temperature is (   ) degrees C or lower.
+EN: Cold-weather concreting: forecast mean of (   ) C or below.
 
 @220E4 max=63
 JP: ４<n>５<n>７
@@ -2184,7 +2184,7 @@ EN: 4<n>5<n>7
 
 @2212C max=119
 JP: 暑中コンクリートとして扱う期間は、<n>平均気温が（　　　）度以上と予想された場合である。
-EN: Hot-weather concreting rules apply when the expected<n>average temperature is (   ) degrees C or higher.
+EN: Hot-weather concreting: forecast mean of (   ) C or above.
 
 @221A4 max=63
 JP: ２０<n>２３<n>２５
@@ -2224,7 +2224,7 @@ EN: True<n>False
 
 @224EC max=119
 JP: セメントの強さの試験では質量比がセメント１、<n>標準砂３、水２のモルタルの配合にする。
-EN: For cement strength tests, mix mortar by mass:<n>1 part cement, 3 parts standard sand and 2 parts water.
+EN: Cement strength test mix by mass: cement 1, standard sand 3, water 2.
 
 @22564 max=63
 JP: ○<n>×
@@ -2240,7 +2240,7 @@ EN: True<n>False
 
 @2266C max=119
 JP: 冷水、氷、液体窒素等によってコンクリートの<n>打込み温度を低減させる工法はどれか？
-EN: Which method uses chilled water, ice or liquid nitrogen<n>to lower concrete's placement temperature?
+EN: Which method lowers pour temperature using cold water, ice or liquid nitrogen?
 
 @226E4 max=63
 JP: ブリーディング<n>エトリンガイト<n>プレクーリング
@@ -2248,7 +2248,7 @@ EN: Bleeding<n>Ettringite<n>Precooling
 
 @2272C max=119
 JP: 鉄筋コンクリートの、鉄筋のひずみができる<n>原因のひとつにコンクリートの乾燥収縮がある。
-EN: Drying shrinkage of concrete is one cause<n>of strain in the rebar inside reinforced concrete.
+EN: Concrete's drying shrinkage can cause strain in its rebar.
 
 @227A4 max=63
 JP: ○<n>×
@@ -2280,7 +2280,7 @@ EN: Sludge water<n>Groundwater<n>Tap water
 
 @22A2C max=119
 JP: レディーミクストコンクリートの発注で、生産者と<n>購入者が協議の上でも指定できないものはどれか？
-EN: When ordering ready-mixed concrete, which cannot be<n>specified even by agreement with the producer?
+EN: Which ready-mix detail cannot be specified even by buyer-producer agreement?
 
 @22AA4 max=63
 JP: 骨材の種類<n>混和材料の使用量<n>単位水量の下限値
@@ -2320,7 +2320,7 @@ EN: True<n>False
 
 @22DEC max=119
 JP: コンクリートの力学的性質で、圧縮強度が大きいほど<n>静弾性係数は大きくなる。
-EN: The higher concrete's compressive strength,<n>the greater its static modulus of elasticity.
+EN: Higher concrete compressive strength means a higher static elastic modulus.
 
 @22E64 max=63
 JP: ○<n>×
@@ -2328,7 +2328,7 @@ EN: True<n>False
 
 @22EAC max=119
 JP: 鉄筋やＰＣ剛材の代わりとして使用される連続繊維補<n>強材の特徴として、当てはまらないものはどれか？
-EN: Which is NOT a feature of continuous fiber reinforcement<n>used in place of rebar or prestressing steel?
+EN: Which is NOT a trait of continuous fiber reinforcement that replaces steel?
 
 @22F24 max=63
 JP: 耐火性が高い<n>耐食性が高い<n>非磁性
@@ -2384,7 +2384,7 @@ EN: True<n>False
 
 @233EC max=119
 JP: 都心から人口が減少し、郊外の人口が増えていく<n>現象を（　　　）という。
-EN: The phenomenon of city centers losing people<n>as suburbs gain them is called the (     ) effect.
+EN: City centers losing people while suburbs grow is called (   ).
 
 @23464 max=63
 JP: スプレッド現象<n>ドーナツ現象
@@ -2440,7 +2440,7 @@ EN: 16<n>29<n>37
 
 @2392C max=119
 JP: （　　　）とは、同じ気温や湿度が広範囲に渡って<n>大気に停滞して発生する。
-EN: A(n) ( ) forms when air with similar temperature and humidity<n>stays over a large area.
+EN: A(n) ( ) forms as air of similar temperature and humidity lingers over a wide area.
 
 @239A4 max=63
 JP: 気団<n>気圧配置<n>前線
@@ -2496,7 +2496,7 @@ EN: True<n>False
 
 @23E6C max=119
 JP: ドライアイスは分子が分子間力によって<n>規則正しく配列された結晶である。
-EN: Dry ice is a crystal whose molecules are held in a regular<n>pattern by intermolecular forces.
+EN: Dry ice's molecules form a crystal lattice held by intermolecular forces.
 
 @23EE4 max=63
 JP: ○<n>×
@@ -2512,7 +2512,7 @@ EN: Single<n>Double<n>Triple
 
 @23FEC max=119
 JP: 熱いものに触ったとき、<n>思わず手を引っ込める反応を何というか？
-EN: What is the reaction called when you touch something hot<n>and pull your hand away without thinking?
+EN: What is the automatic withdrawal of your hand from something hot called?
 
 @24064 max=63
 JP: 本能<n>思考<n>反射
@@ -2592,7 +2592,7 @@ EN: Nitrocellulose<n>Dynamite<n>PETN
 
 @2476C max=119
 JP: 爆薬の酸素バランスがマイナスになるにつれ、<n>一酸化炭素の発生量も増えていく。
-EN: As an explosive's oxygen balance becomes more negative,<n>it produces more carbon monoxide.
+EN: A more negative oxygen balance makes explosives release more carbon monoxide.
 
 @247E4 max=63
 JP: ○<n>×
@@ -2616,7 +2616,7 @@ EN: Nitrocellulose<n>Aluminum<n>Potassium nitrate
 
 @249AC max=119
 JP: ニトロセルロースは、水やアルコールを（　　　）<n>パーセント以上含ませると衝撃に強くなる。
-EN: Nitrocellulose becomes more resistant to impact<n>when its water or alcohol content is at least ( ) percent.
+EN: Nitrocellulose resists impact better with at least ( )% water or alcohol.
 
 @24A24 max=63
 JP: ２３<n>２７<n>３２
@@ -2664,7 +2664,7 @@ EN: It decreases<n>It increases<n>It stays the same
 
 @24E2C max=119
 JP: 最小抵抗線とは、<n>装薬の中心から自由面までの最短距離のことをいう。
-EN: The line of least resistance is the shortest distance<n>from a charge's center to a free face.
+EN: The line of least resistance joins a charge's center to the nearest free face.
 
 @24EA4 max=63
 JP: ○<n>×
@@ -2712,7 +2712,7 @@ EN: Gunpowder<n>Pyrotechnic articles<n>High explosives
 
 @252AC max=119
 JP: 火薬類の販売業は、<n>販売所ごとに都道府県知事の許可が必要である。
-EN: Selling explosives requires the prefectural governor's<n>permission for each sales location.
+EN: Each explosives sales outlet needs the prefectural governor's permit.
 
 @25324 max=63
 JP: ○<n>×
@@ -2728,7 +2728,7 @@ EN: True<n>False
 
 @2542C max=119
 JP: 販売業者が火薬類を安全な場所に貯蔵する場合、<n>爆薬は（　　　）まで貯蔵できる。
-EN: When a dealer stores explosives in a safe place,<n>up to (   ) of high explosives may be stored.
+EN: Dealers may store up to ( ) of high explosives in a safe place.
 
 @254A4 max=63
 JP: ５ｋｇ<n>１５ｋｇ<n>５０ｋｇ
@@ -2752,7 +2752,7 @@ EN: True<n>False
 
 @2566C max=119
 JP: 火薬類の運搬終了後は、到達地の市町村に<n>運搬証明書を提出しなければならない。
-EN: After transporting explosives, the transport certificate<n>must be submitted to the destination's municipality.
+EN: On arrival, submit the explosives transit certificate to the destination municipality.
 
 @256E4 max=63
 JP: ○<n>×
@@ -2768,7 +2768,7 @@ EN: Aluminum<n>Iron<n>Wood
 
 @257EC max=119
 JP: 一日の消費量が爆薬２５ｋｇ以下と見込まれる場合は<n>火薬類取扱所を設けなくてよい。
-EN: No explosives handling station is needed if daily use<n>is expected to be 25 kg of high explosives or less.
+EN: No handling station is needed for expected daily explosive use of 25 kg or less.
 
 @25864 max=63
 JP: ○<n>×
@@ -2808,7 +2808,7 @@ EN: 2<n>3<n>12
 
 @25BAC max=119
 JP: 火薬類取扱保安責任者を選任、または解任したとき、<n>都道府県知事にその旨を届け出る必要がある。
-EN: Appointing or dismissing an explosives handling safety officer<n>must be reported to the prefectural governor.
+EN: Notify the governor of explosives safety officer appointments or dismissals.
 
 @25C24 max=63
 JP: ○<n>×
@@ -2824,7 +2824,7 @@ EN: Infant care home<n>Elderly care home<n>Day nursery
 
 @25D2C max=119
 JP: 児童福祉法では、小学校就学から<n>満１８歳に達するまでの者を少年としている。
-EN: Under the Child Welfare Act, a juvenile is a person<n>from elementary school entry until their 18th birthday.
+EN: Under the Child Welfare Act, juveniles are school-age children under 18.
 
 @25DA4 max=63
 JP: ○<n>×
@@ -2856,7 +2856,7 @@ EN: Minerals<n>Vitamins<n>Fats
 
 @2602C max=119
 JP: 児童相談所には、一時的に児童を<n>保護することのできる施設が必要である。
-EN: Child guidance centers must have facilities where children can be taken into temporary protective care.
+EN: Child guidance centers must have facilities for temporary child protection.
 
 @260A4 max=63
 JP: ○<n>×
@@ -2872,7 +2872,7 @@ EN: True<n>False
 
 @261AC max=119
 JP: 乳幼児期に結核に感染すると、<n>比較的軽い症状ですむ場合が多い。
-EN: Tuberculosis infections in infants and young children often cause relatively mild symptoms.
+EN: TB in infants and young children often causes fairly mild symptoms.
 
 @26224 max=63
 JP: ○<n>×
@@ -2888,7 +2888,7 @@ EN: Dewey<n>Erikson<n>Froebel
 
 @2632C max=119
 JP: 過去の自分と比べて進歩の状況を評価することを<n>なんというか？
-EN: What is it called when progress is assessed by comparing your current and past performance?
+EN: What is assessing progress against your past performance called?
 
 @263A4 max=63
 JP: 相対評価<n>個人内評価<n>絶対評価
@@ -2904,7 +2904,7 @@ EN: Japan's Constitution<n>Child Welfare Act<n>Children's Charter
 
 @264AC max=119
 JP: 足裏を刺激すると、足の指が反り返ったり、<n>指が開く反射を（　　　）という。
-EN: The (    ) reflex makes the toes bend upward or fan out when the sole of the foot is stimulated.
+EN: The ( ) reflex bends toes up or fans them out when the sole is stimulated.
 
 @26524 max=63
 JP: ダーウィン反射<n>モロー反射<n>バビンスキー反射
@@ -2968,7 +2968,7 @@ EN: True<n>False
 
 @26AAC max=119
 JP: 少年法によれば触法少年とは、１８歳未満で<n>刑罰法令に触れる行為を行った少年をいう。
-EN: Under Japan's Juvenile Act, "law-breaking juveniles" are under 18 and have committed acts punishable by law.
+EN: Under the Juvenile Act, law-breaking juveniles are offenders under 18.
 
 @26B24 max=63
 JP: ○<n>×
@@ -3016,7 +3016,7 @@ EN: Small family<n>Extended family<n>Nuclear family
 
 @26F2C max=119
 JP: 離乳食で卵を与える場合、アレルギーの少ない<n>（　　　）だけを使うようにする。
-EN: When adding eggs to a baby's diet, use only the (    ), which is less likely to cause allergies.
+EN: For weaning, use only the egg's less allergenic ( ).
 
 @26FA4 max=63
 JP: 卵黄<n>卵白
@@ -3024,7 +3024,7 @@ EN: Yolk<n>White
 
 @26FEC max=119
 JP: 乳幼児期の子どもの精神発達は脳神経系の（　　　）<n>と、周囲の相互作用を通じて促進される。
-EN: Mental development in young children is aided by nervous system (    ) and interaction with their surroundings.
+EN: Early mental growth comes from neural ( ) and interaction with surroundings.
 
 @27064 max=63
 JP: 分化<n>肥大化<n>成熟
@@ -3088,7 +3088,7 @@ EN: Fixed interest<n>Variable interest
 
 @275EC max=119
 JP: 年金法で「子」とは、原則として未婚であり<n>（　　　）歳に達した日以後の３月３１日までをいう。
-EN: Under pension law, a child is generally unmarried<n>and covered through the first March 31 on or after turning ( ).
+EN: Pension law: unwed children qualify through March 31 on/after turning ( ).
 
 @27664 max=63
 JP: １８<n>２０<n>２２
@@ -3104,7 +3104,7 @@ EN: True<n>False
 
 @2776C max=119
 JP: 生命保険料の控除は、その年の４月１日から翌年の<n>３月３１日までに支払った保険料が対象となる。
-EN: Life insurance premium deductions apply to premiums<n>paid from April 1 through March 31 of the next year.
+EN: Life insurance deductions cover premiums paid April 1 to March 31 next year.
 
 @277E4 max=63
 JP: ○<n>×
@@ -3112,7 +3112,7 @@ EN: True<n>False
 
 @2782C max=119
 JP: 病気などで仕事ができなくなったときのために、<n>加入しておくとよいのは（　　　）である。
-EN: To cover periods when illness or other issues prevent work,<n>it is wise to take out ( ).
+EN: To cover time off work due to illness, you should take out ( ).
 
 @278A4 max=63
 JP: 普通障害保険<n>人身傷害補償保険<n>所得補償保険
@@ -3120,7 +3120,7 @@ EN: Accident insurance<n>Auto injury cover<n>Income protection
 
 @278EC max=119
 JP: 自賠責保険では自動車事故で死亡した場合、被害者<n>１名あたり最高（　　　）万円の賠償金が支払われる。
-EN: Compulsory auto insurance pays up to ( ) x 10,000 yen<n>per victim killed in a car accident.
+EN: Compulsory car insurance pays up to ( ) x 10,000 yen per accident death.
 
 @27964 max=63
 JP: ３０００<n>５０００<n>８０００
@@ -3160,7 +3160,7 @@ EN: True<n>False
 
 @27CAC max=119
 JP: 日銀から発表される景気動向指数とは、<n>景気の動向をつかむための代表的な指標である。
-EN: The economic trend index published by the Bank of Japan<n>is a key indicator of business conditions.
+EN: The BOJ's business conditions index is a key gauge of economic trends.
 
 @27D24 max=63
 JP: ○<n>×
@@ -3200,7 +3200,7 @@ EN: True<n>False
 
 @2806C max=119
 JP: 給与所得者は、医療費控除は<n>年末調整で受けることができる。
-EN: Salaried workers can claim medical expense deductions<n>through their year-end tax adjustment.
+EN: Employees can claim medical tax deductions in their year-end adjustment.
 
 @280E4 max=63
 JP: ○<n>×
@@ -3224,7 +3224,7 @@ EN: 120,000 yen<n>380,000 yen<n>640,000 yen
 
 @282AC max=119
 JP: 都市計画税は、市街化区域内にある全ての土地、<n>建物に課税される。
-EN: City planning tax applies to all land<n>and buildings within urbanization promotion areas.
+EN: City planning tax covers all land and buildings in urbanization areas.
 
 @28324 max=63
 JP: ○<n>×
@@ -3240,7 +3240,7 @@ EN: True<n>False
 
 @2842C max=119
 JP: 不動産業者と媒介契約形態の中で、自己発見取引が<n>禁止されているのは一般媒介契約である。
-EN: A general real estate brokerage agreement<n>prohibits sellers from finding buyers themselves.
+EN: General real estate agency contracts ban sellers from finding their own buyers.
 
 @284A4 max=63
 JP: ○<n>×
@@ -3432,7 +3432,7 @@ EN: Nails<n>Hair
 
 @2962C max=119
 JP: 脂肪膜とは、汗と皮脂が混ざり、<n>皮膚の表面で形成される薄い膜のことをいう。
-EN: A lipid film is a thin layer formed on the skin's surface<n>by a mixture of sweat and sebum.
+EN: A lipid film is a thin layer of sweat and sebum on the skin's surface.
 
 @296A4 max=63
 JP: ○<n>×
@@ -3632,7 +3632,7 @@ EN: True<n>False
 
 @2A8EC max=119
 JP: 調理師が死亡または失踪宣告を受けた時は（　　　）<n>以内に名簿の消除を申請しなくてはならない。
-EN: If a cook dies or is legally declared missing, apply<n>for removal from the license register within ( ).
+EN: If a cook dies or is declared dead, apply to delist their license within ( ).
 
 @2A964 max=63
 JP: １０日<n>３０日<n>６０日
@@ -3640,7 +3640,7 @@ EN: 10 days<n>30 days<n>60 days
 
 @2A9AC max=119
 JP: 日本人の２５才の成人男性が普通の労働をするとき、<n>一日に約何カロリー必要とするのか？
-EN: About how many calories a day does a 25-year-old Japanese man<n>need when doing ordinary work?
+EN: How many calories a day does a 25-year-old Japanese man doing normal work need?
 
 @2AA24 max=63
 JP: ２０００カロリー<n>２５００カロリー<n>３０００カロリー
@@ -3760,7 +3760,7 @@ EN: Protein<n>Vitamins<n>Glutamic acid
 
 @2B4EC max=119
 JP: 魚を調理するとき最初に弱火で煮焼きすると、表面が<n>収縮し、うまみがにげないのでおいしくなる。
-EN: Starting fish over low heat makes the surface contract,<n>sealing in flavor and making it tastier.
+EN: Starting fish on low heat shrinks its surface, sealing in flavor.
 
 @2B564 max=63
 JP: ○<n>×
@@ -3784,7 +3784,7 @@ EN: Higher<n>Lower
 
 @2B72C max=119
 JP: 根抵当権は、一定の範囲に属する不特定の債権を<n>極度額まで担保する権利のことである。
-EN: A revolving mortgage secures unspecified claims within a set scope,<n>up to a maximum amount.
+EN: A revolving mortgage secures claims in a set category, up to a fixed limit.
 
 @2B7A4 max=63
 JP: ○<n>×
@@ -3792,7 +3792,7 @@ EN: True<n>False
 
 @2B7EC max=119
 JP: 売買契約が詐欺によって取り消される場合、生ずる<n>原状回復義務は、同時履行の関係にある。
-EN: When a sale is canceled due to fraud, both parties must<n>restore what they received at the same time.
+EN: When fraud voids a sale, both parties must make restitution simultaneously.
 
 @2B864 max=63
 JP: ○<n>×
@@ -3808,7 +3808,7 @@ EN: True<n>False
 
 @2B96C max=119
 JP: （　　　）における市街地再開発事業の施行として行<n>う土地の区画形質変更には、開発許可が不要である。
-EN: Plot or terrain changes for urban redevelopment in a (     )<n>require no development permit.
+EN: Urban redevelopment in ( ) needs no permit to alter plots or terrain.
 
 @2B9E4 max=63
 JP: 都市化区域<n>都市計画区域<n>市街化区域
@@ -3816,7 +3816,7 @@ EN: Urbanized zone<n>City planning zone<n>Urbanization zone
 
 @2BA2C max=119
 JP: 地すべり等防止法によれば、ぼた山崩壊防止区域内で<n>土石の採取を行う場合（　　　）の許可が必要である。
-EN: Taking earth or stone from a protected spoil tip requires<n>(     )'s permit under the Landslide Prevention Act.
+EN: Taking soil or stone in a spoil-tip protection zone needs ( )'s permit.
 
 @2BAA4 max=63
 JP: 役場職員<n>内閣総理大臣<n>都道府県知事
@@ -3832,7 +3832,7 @@ EN: True<n>False
 
 @2BBAC max=119
 JP: 委任による登記申請の代理権は、本人の死亡によって<n>も消滅しない。
-EN: Authority delegated for a registration application<n>does not end when the principal dies.
+EN: Delegated power to apply for registration survives the principal's death.
 
 @2BC24 max=63
 JP: ○<n>×
@@ -3848,7 +3848,7 @@ EN: Prefectural governor<n>Municipal mayor<n>Land Minister
 
 @2BD2C max=119
 JP: 河川保全区域内で、土地の掘削、盛土などを行う場合<n>原則として（　　　）の許可を受けなければならない。
-EN: Digging or adding fill in a river conservation zone<n>generally requires permission from the ( ).
+EN: Digging or filling in a river protection zone normally needs ( )'s permit.
 
 @2BDA4 max=63
 JP: 都道府県知事<n>道路管理者<n>河川管理者
@@ -3856,7 +3856,7 @@ EN: Prefectural governor<n>Road administrator<n>River administrator
 
 @2BDEC max=119
 JP: 土地所有権の移転登記に係る登録免許税の納期限は、<n>登記を受けた一カ月以内である。
-EN: Registration tax on a land ownership transfer<n>is due within one month of registration.
+EN: Tax on registering a land transfer is due within one month of registration.
 
 @2BE64 max=63
 JP: ○<n>×
@@ -3864,7 +3864,7 @@ EN: True<n>False
 
 @2BEAC max=119
 JP: 鉄骨造では、高力ボルトやリベットによる接合は<n>認められていない。
-EN: In steel construction, joints using high-strength bolts<n>or rivets are not permitted.
+EN: Steel-frame joints may not use high-strength bolts or rivets.
 
 @2BF24 max=63
 JP: ○<n>×
@@ -3880,7 +3880,7 @@ EN: Borrower<n>Lender
 
 @2C02C max=119
 JP: 特定行政庁は、都市計画区域内に建築物がある場合は<n>道路としてみなすことはできない。
-EN: The local building authority cannot designate a road<n>where buildings stand within a city planning area.
+EN: In city planning zones, authorities cannot deem land with buildings a road.
 
 @2C0A4 max=63
 JP: ○<n>×
@@ -3904,7 +3904,7 @@ EN: True<n>False
 
 @2C26C max=119
 JP: 平成１０年の住宅・土地統計調査では、<n>全国の住宅戸数は総世帯数よりも多い。
-EN: The 1998 Housing and Land Survey shows that Japan<n>has more housing units than households.
+EN: Japan's 1998 housing survey found more homes than households.
 
 @2C2E4 max=63
 JP: ○<n>×
@@ -3952,7 +3952,7 @@ EN: True<n>False
 
 @2C6EC max=119
 JP: 建物の賃貸人は定期建物賃貸借を締結以前に、その旨<n>を記載した書面を賃借人に交付し説明する義務がある。
-EN: Before a fixed-term lease is signed, the landlord<n>must give the tenant written notice and explain its terms.
+EN: A landlord must give and explain written fixed-term lease notice before signing.
 
 @2C764 max=63
 JP: ○<n>×
@@ -3992,7 +3992,7 @@ EN: True<n>False
 
 @2CAAC max=119
 JP: 国定公園の特別地域内に建物を新築する場合、<n>（　　　）の許可が必要である。
-EN: Building in a special zone of a quasi-national park<n>requires permission from the ( ).
+EN: A new building in a quasi-national park's special zone needs approval from ( ).
 
 @2CB24 max=63
 JP: 市町村長<n>都道府県知事<n>内閣総理大臣
@@ -4048,7 +4048,7 @@ EN: Maintain fishing nets<n>Study the waters
 
 @2CFEC max=119
 JP: プレジャーボートの衝突事故の発生原因として<n>最も多いのは「水域調査不十分」である。
-EN: The most common cause of pleasure boat collisions<n>is 'insufficient study of the waters.'
+EN: Poor study of local waters is the top cause of pleasure boat collisions.
 
 @2D064 max=63
 JP: ○<n>×
@@ -4064,7 +4064,7 @@ EN: 3<n>5<n>10
 
 @2D16C max=119
 JP: 船舶検査証書のない船舶を航行させた場合でも、<n>行政処分の対象とはならない。
-EN: Operating a vessel without an inspection certificate<n>does not result in administrative penalties.
+EN: No administrative penalty applies for sailing without an inspection certificate.
 
 @2D1E4 max=63
 JP: ○<n>×
@@ -4072,7 +4072,7 @@ EN: True<n>False
 
 @2D22C max=119
 JP: 同乗者が小型船舶を操縦した結果起こった事故でも、<n>船長が責任を負わなければならない。
-EN: The captain is responsible even for accidents caused<n>by a passenger operating the small boat.
+EN: The captain is liable for accidents even when a passenger steers the boat.
 
 @2D2A4 max=63
 JP: ○<n>×
@@ -4136,7 +4136,7 @@ EN: Course<n>Speed<n>Compass bearing
 
 @2D82C max=119
 JP: 他船との衝突の回避のため針路を転じる場合、右は短<n>音１回、左は短音（　　　）回の汽笛信号を行なう。
-EN: To avoid a collision, signal a right turn with one short<n>horn blast, or a left turn with ( ) short blasts.
+EN: To avoid collision: right turn, 1 short horn blast; left turn, ( ) short blasts.
 
 @2D8A4 max=63
 JP: ２<n>３<n>４
@@ -4144,7 +4144,7 @@ EN: 2<n>3<n>4
 
 @2D8EC max=119
 JP: 防波堤の突端を左舷に見るときは、<n>出来るだけ防波堤に近寄って航行しなければならない。
-EN: When passing a breakwater's tip on your port side,<n>you must stay as close to the breakwater as possible.
+EN: With a breakwater tip to port, you must sail as close to it as possible.
 
 @2D964 max=63
 JP: ○<n>×
@@ -4184,7 +4184,7 @@ EN: True<n>False
 
 @2DCAC max=119
 JP: 次の電話番号のうち、<n>気象庁予報部の気象情報が聞けるのはどれか？
-EN: Which phone number provides weather information<n>from the Japan Meteorological Agency?
+EN: Which number gives Japan Meteorological Agency weather reports?
 
 @2DD24 max=63
 JP: １１５<n>１１７<n>１７７
@@ -4208,7 +4208,7 @@ EN: True<n>False
 
 @2DEEC max=119
 JP: 水上オートバイでの航行中に他船と衝突し、<n>他船の被害が大きい場合は（　　　）を第一に行なう。
-EN: If your jet ski collides with another boat and badly<n>damages it, your first priority is to ( ).
+EN: If your jet ski badly damages a boat in a crash, your first priority is ( ).
 
 @2DF64 max=63
 JP: 救助要請<n>人命救助
@@ -4232,7 +4232,7 @@ EN: From upwind<n>From downwind
 
 @2E12C max=119
 JP: 小型船舶用信号紅炎は、一定の条件を満たした<n>携帯電話があれば搭載しなくてもよい。
-EN: A small boat need not carry red distress flares<n>if it has a mobile phone that meets certain requirements.
+EN: A small boat may omit red flares if its mobile phone meets set criteria.
 
 @2E1A4 max=63
 JP: ○<n>×
@@ -4248,7 +4248,7 @@ EN: True<n>False
 
 @2E2AC max=119
 JP: 次の中で、水上オートバイ操縦前に行う法定備品の<n>点検項目に適さないのはどれか？
-EN: Which is NOT a legally required piece of equipment<n>to check before operating a jet ski?
+EN: Which is NOT a valid required-gear check before riding a jet ski?
 
 @2E324 max=63
 JP: 信号紅炎<n>救命胴衣<n>消火器
@@ -4256,7 +4256,7 @@ EN: Red distress flares<n>Life jacket<n>Fire extinguisher
 
 @2E36C max=119
 JP: アウトソーシングとは、企業の一部の業務を<n>外部に委託し、コストを削減することである。
-EN: Outsourcing means hiring outside providers<n>to handle some of a company's work and reduce costs.
+EN: Outsourcing cuts costs by contracting out some of a company's work.
 
 @2E3E4 max=63
 JP: ○<n>×
@@ -4320,7 +4320,7 @@ EN: Role-playing<n>On-the-job training<n>Case study
 
 @2E96C max=119
 JP: 多くの人に質問し、その回答の統計をとり、<n>調査することを（　　　）という。
-EN: Asking many people questions and statistically<n>analyzing their answers is called a (      ).
+EN: Surveying many people and tallying their answers is called (      ).
 
 @2E9E4 max=63
 JP: 資料調査<n>観測調査<n>アンケート調査
@@ -4384,7 +4384,7 @@ EN: Scatter plot<n>Pareto chart<n>Histogram
 
 @2EF6C max=119
 JP: インターネットとネットワークの間に、外部からの不<n>正なアクセスを防ぐ目的で設置されるのはどれか？
-EN: Which is placed between a network and the internet<n>to block unauthorized access from outside?
+EN: What blocks unauthorized access between the internet and a network?
 
 @2EFE4 max=63
 JP: ファイアウォール<n>イントラネット<n>プロキシサーバ
@@ -4432,7 +4432,7 @@ EN: Job management<n>Task management<n>Personal management
 
 @2F3EC max=119
 JP: 実行中のプログラムが、お互いに処理が終了するのを<n>待ち続け、処理が進まなくなることを何というか？
-EN: What is it called when running programs stall<n>because each is waiting for another to finish?
+EN: What is it called when programs stall, each waiting for another to finish?
 
 @2F464 max=63
 JP: バックアップ<n>デッドロック<n>ロールバック
@@ -4440,7 +4440,7 @@ EN: Backup<n>Deadlock<n>Rollback
 
 @2F4AC max=119
 JP: インターネット上のコンピュータにログインし、<n>遠隔操作を行うサービスを（　　　）という。
-EN: The service for logging into a computer online<n>and operating it remotely is called (      ).
+EN: Logging in to control a computer over the internet is called (      ).
 
 @2F524 max=63
 JP: ＰＯＰ<n>ＦＴＰ<n>ＴＥＬＮＥＴ
@@ -4456,7 +4456,7 @@ EN: True<n>False
 
 @2F62C max=119
 JP: ディスク装置の障害対策として、データを複数のディ<n>スクに分割して格納する方法を（　　　）という。
-EN: Splitting data across multiple disks as a safeguard<n>against disk failure is called (      ).
+EN: Splitting data across disks to guard against disk failure is called (      ).
 
 @2F6A4 max=63
 JP: ＲＡＩＤ０<n>ＲＡＩＤ１<n>ＲＡＩＤ５
@@ -4496,7 +4496,7 @@ EN: Tree diagram<n>Fishbone diagram<n>Venn diagram
 
 @2F9EC max=119
 JP: 次の有機塩素化合物の中で、<n>排水基準の健康項目に規定されていないのはどれか？
-EN: Which organochlorine compound is NOT regulated<n>by health-based effluent standards?
+EN: Which organochlorine is NOT covered by health-based effluent limits?
 
 @2FA64 max=63
 JP: クロロホルム<n>ジクロロメタン<n>四塩化炭素
@@ -4520,7 +4520,7 @@ EN: Corbicula clams<n>Sludge worms<n>Stoneflies
 
 @2FC2C max=119
 JP: 流達率とは、発生負荷に対する到達負荷の比率のこと<n>である。
-EN: The pollutant delivery ratio is the load reaching a water body<n>divided by the load generated.
+EN: The delivery ratio is the pollutant load received divided by the load generated.
 
 @2FCA4 max=63
 JP: ○<n>×
@@ -4544,7 +4544,7 @@ EN: Sweetfish<n>Char<n>Carp
 
 @2FE6C max=119
 JP: 環境基本法に規定されている<n>「典型七公害」といわれているものはどれか？
-EN: Which is one of the seven major types of pollution<n>under Japan's Basic Environment Act?
+EN: Which is one of the seven pollution types in the Basic Environment Act?
 
 @2FEE4 max=63
 JP: 日照阻害<n>オゾン層破壊<n>騒音
@@ -4584,7 +4584,7 @@ EN: Municipal mayor<n>Prefectural governor<n>Environment Minister
 
 @3022C max=119
 JP: 特定施設の設置をするときに水質汚濁防止法により<n>届出なければならないのは（　　　）である。
-EN: Under the Water Pollution Control Act, what must be reported<n>when installing a specified facility? (      )
+EN: Under the Water Pollution Control Act, who gets facility installation notices?
 
 @302A4 max=63
 JP: 汚水の処理費用<n>特定施設の構造
@@ -4728,7 +4728,7 @@ EN: True<n>False
 
 @30FAC max=119
 JP: 冬場、プランクトンの大量発生により低層に貧酸素水<n>塊ができ、水面に移動した現象を何というか？
-EN: What is it called when a winter plankton bloom creates<n>oxygen-poor bottom water that rises to the surface?
+EN: What is it called when a winter plankton bloom brings oxygen-poor bottom water up?
 
 @31024 max=63
 JP: 赤潮<n>青潮
@@ -4768,7 +4768,7 @@ EN: True<n>False
 
 @3136C max=119
 JP: 道路が混雑しているとき、車両通行帯が二つあれば<n>なるべく流れのよい方を選んで走行するべきである。
-EN: When traffic is heavy and there are two lanes,<n>you should choose whichever lane is moving faster.
+EN: In heavy traffic, you should choose the faster of two available lanes.
 
 @313E4 max=63
 JP: ○<n>×
@@ -4776,7 +4776,7 @@ EN: True<n>False
 
 @3142C max=119
 JP: 定員６名の車に運転手を含め大人３人が乗っている<n>場合、１２歳未満の子供は何人乗れるか？
-EN: A six-seat car has three adults aboard, including the driver.<n>How many children under 12 can also ride?
+EN: A 6-seat car has 3 adults, driver included. How many under-12s can also ride?
 
 @314A4 max=63
 JP: ３人<n>４人<n>５人
@@ -4784,7 +4784,7 @@ EN: 3<n>4<n>5
 
 @314EC max=119
 JP: 路線バスの運行が終了していれば、停留所の<n>１０メートル以内にも駐車や停車をしてよい。
-EN: Once bus service has ended for the day, you may stop<n>or park within 10 meters of a bus stop.
+EN: After daily bus service ends, you may stop or park within 10 m of a bus stop.
 
 @31564 max=63
 JP: ○<n>×
@@ -4816,7 +4816,7 @@ EN: Right side<n>Left side<n>Center
 
 @317EC max=119
 JP: 自家用の普通自動車は、定期点検を<n>（　　　）年ごとに受けなければならない。
-EN: Private passenger cars must undergo<n>a periodic maintenance inspection every ( ) year(s).
+EN: Private cars need a routine maintenance inspection every ( ) year(s).
 
 @31864 max=63
 JP: 半<n>１<n>２
@@ -4840,7 +4840,7 @@ EN: Passenger cars<n>Small special autos<n>Motorcycles
 
 @31A2C max=119
 JP: ほぼ同じ幅の道路の交差点において、<n>進行を妨げてはいけないのはどの方向の車か？
-EN: At an intersection of roads of roughly equal width,<n>vehicles from which direction have priority?
+EN: At a junction of similar-width roads, which direction of traffic has priority?
 
 @31AA4 max=63
 JP: 右<n>左<n>左右両方
@@ -4848,7 +4848,7 @@ EN: Right<n>Left<n>Both sides
 
 @31AEC max=119
 JP: 運転免許試験に合格後、免許証が交付される前に<n>普通自動車を運転しても無免許運転にはならない。
-EN: Driving a car after passing the test but before<n>your license is issued does not count as unlicensed driving.
+EN: After passing the test, driving before your license is issued is legal.
 
 @31B64 max=63
 JP: ○<n>×
@@ -4872,7 +4872,7 @@ EN: 2.5 meters<n>3.5 meters<n>4.5 meters
 
 @31D2C max=119
 JP: 普通免許取得後（　　　）年間は、車の定められた<n>位置に初心者マークをつけなければならない。
-EN: For ( ) year(s) after getting a car license,<n>you must display beginner marks in the required positions.
+EN: For ( ) year(s) after getting a car license, display beginner marks correctly.
 
 @31DA4 max=63
 JP: １<n>２<n>３
@@ -4920,7 +4920,7 @@ EN: 1<n>2<n>3
 
 @321AC max=119
 JP: 車両通行帯のある道路では、追越などのやむをえない<n>状況に限り、車両通行帯からはみ出してもよい。
-EN: On roads with marked lanes, you may cross lane lines<n>only when necessary, such as to overtake.
+EN: You may leave a marked lane only if needed, e.g. to overtake.
 
 @32224 max=63
 JP: ○<n>×
@@ -4928,7 +4928,7 @@ EN: True<n>False
 
 @3226C max=119
 JP: ブレーキが利き始めてから完全に停止するまでに<n>走る距離を、（　　　）という。
-EN: The distance traveled from when the brakes take effect<n>until the vehicle stops is called ( ).
+EN: The distance from when brakes take effect to a full stop is called ( ).
 
 @322E4 max=63
 JP: 空走距離<n>停止距離<n>制動距離
@@ -4936,7 +4936,7 @@ EN: Reaction distance<n>Stopping distance<n>Braking distance
 
 @3232C max=119
 JP: 運転者の疲労が溜まっていると危険を察知してから<n>判断するまで時間がかかるので空走距離は長くなる。
-EN: Fatigue delays a driver's response to danger,<n>increasing the distance traveled before braking.
+EN: Fatigue slows reactions to danger, increasing the distance before braking.
 
 @323A4 max=63
 JP: ○<n>×
@@ -4992,7 +4992,7 @@ EN: Haikei (Dear Sir)<n>Haifuku (In reply)<n>Kyukei (Urgent)
 
 @3286C max=119
 JP: 企業の一定期間の売り上げから使用した経費を<n>差し引いて算出した利益を（　　　）という。
-EN: The profit calculated by subtracting a company's expenses<n>from its sales over a given period is called ( ).
+EN: A firm's sales less expenses for a set period give its ( ).
 
 @328E4 max=63
 JP: 財産目録<n>監査報告書<n>損益計算書
@@ -5008,7 +5008,7 @@ EN: Proofreading<n>Draft<n>Revision
 
 @329EC max=119
 JP: 次のうち、不祝儀袋に<n>「御香典」と書くべき葬儀はどれか？
-EN: For which funeral should a condolence envelope<n>be labeled 'Gokoden' (incense offering)?
+EN: For which funeral is 'Gokoden' used on a condolence envelope?
 
 @32A64 max=63
 JP: 神式<n>キリスト教式<n>仏式
@@ -5104,7 +5104,7 @@ EN: Less<n>More
 
 @332EC max=119
 JP: コンピューターシステムにより銀行と家庭を結ぶ<n>金融サービスを、ホームバンキングという。
-EN: Home banking is a financial service that links banks and households through a computer system.
+EN: Home banking links banks and homes through a computer system.
 
 @33364 max=63
 JP: ○<n>×
@@ -5160,7 +5160,7 @@ EN: Gift inscription<n>Gift description<n>Sender's company
 
 @3382C max=119
 JP: 名刺の整理は、仕事上のものと<n>プライベートなものとに分けてしたほうがよい。
-EN: It is best to file business cards from work separately from those from personal contacts.
+EN: Work and personal contacts' business cards should be filed separately.
 
 @338A4 max=63
 JP: ○<n>×
@@ -5296,7 +5296,7 @@ EN: Refracts<n>Regulates
 
 @344EC max=119
 JP: 日本工業規格では、無彩色の基本色名は、<n>何段階と定めているか？
-EN: How many levels of basic achromatic color names do Japanese Industrial Standards specify?
+EN: How many basic achromatic color names are defined by JIS?
 
 @34564 max=63
 JP: ３段階<n>４段階<n>６段階
@@ -5304,7 +5304,7 @@ EN: 3 levels<n>4 levels<n>6 levels
 
 @345AC max=119
 JP: 色彩体系の中から規則的に選び出された色同士は、<n>調和しやすくなる。これを（　　　）という。
-EN: Colors selected systematically from a color system tend to harmonize.<n>This is the principle of (       ).
+EN: Systematic choices from a color system tend to harmonize. This is ( ).
 
 @34624 max=63
 JP: 近接の原理<n>否不明瞭性の原理<n>秩序の原理
@@ -5328,7 +5328,7 @@ EN: Spectral sensitivity<n>Power spectrum<n>Spectral reflectance
 
 @347EC max=119
 JP: 同時対比の研究から配色調和を６通りに分類した<n>化学者は？
-EN: Which chemist classified color harmony into six types based on studies of simultaneous contrast?
+EN: Which chemist used simultaneous contrast to group color harmony into six types?
 
 @34864 max=63
 JP: シュブルール<n>ルード<n>パーキン
@@ -5384,7 +5384,7 @@ EN: 1920s<n>1930s<n>1940s
 
 @34D2C max=119
 JP: 新築住宅でのインテリアの色彩計画は「事前検討」、<n>「調査分析」「色彩設計」の３段階に区分される。
-EN: Interior color planning for a new home has three stages: preliminary review, survey analysis and color design.
+EN: New-home color planning has 3 stages: review, survey/analysis, color design.
 
 @34DA4 max=63
 JP: ○<n>×
@@ -5512,7 +5512,7 @@ EN: Plains<n>Highlands<n>Wetlands
 
 @3592C max=119
 JP: アロマテラピーに大きな影響をもたらした、<n>「伝承医学」とも呼ばれる医学はどれか？
-EN: Which system, also called "traditional medicine,"<n>had a major influence on aromatherapy?
+EN: Which "traditional medicine" greatly influenced aromatherapy?
 
 @359A4 max=63
 JP: リガベーダ<n>ヤグルベーダ<n>アーユルベーダ
@@ -5696,7 +5696,7 @@ EN: Carbohydrates<n>Minerals<n>Dietary fiber
 
 @36A6C max=119
 JP: 低い背当てと肘掛けが片方だけにある、<n>ソファ状の寝椅子を（　　　）という。
-EN: A sofa-like reclining seat with a low back and<n>an armrest at only one end is called a (   ).
+EN: A low-backed reclining couch with one armrest is called a (   ).
 
 @36AE4 max=63
 JP: カウチ<n>スツール<n>オットマン
@@ -5792,7 +5792,7 @@ EN: 3<n>4<n>5
 
 @3736C max=119
 JP: 連鎖販売取引のクーリングオフ期間は、<n>契約書の交付を受けてから（　　　）日間である。
-EN: For multilevel marketing, the cooling-off period is<n>(   ) days from receipt of the contract.
+EN: Multilevel sales allow (   ) cooling-off days from contract receipt.
 
 @373E4 max=63
 JP: ２０<n>２５<n>３０
@@ -5824,7 +5824,7 @@ EN: Shell<n>SRC<n>Platform
 
 @3766C max=119
 JP: 湿式工法とは、ラスボードやラス下地に<n>（　　　）などを使って仕上げる工法である。
-EN: In wet construction, lath boards or lath bases are finished with materials such as (     ).
+EN: Wet construction finishes lath boards or lath bases with (   ), etc.
 
 @376E4 max=63
 JP: ブロック<n>石膏ボード<n>モルタル

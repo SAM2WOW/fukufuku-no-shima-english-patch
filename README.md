@@ -180,9 +180,10 @@ type an English name. Birthdays are entered as **Year / Month / Day**.
 | Daily newspapers and bottle mail | ✅ Translated |
 | Items, clothes, furniture, places, menus, system messages | ✅ Translated |
 | Buttons, title menu, result banners (Pass!/Fail, Hit!/Miss, Start!/Finish!) | ✅ Redrawn in English |
+| Loading-screen character bios (56 screens), qualification icons | ✅ Redrawn in English |
 | Name-entry keyboard function keys | ✅ Translated (kana keys kept so Japanese names still work) |
 | Crossword puzzles | ❌ Japanese – the puzzles are built on Japanese kana grids |
-| Loading-screen character bios, calligraphy rank certificates, network terms page | ❌ Japanese (text baked into images) |
+| Calligraphy rank certificates, network terms page | ❌ Japanese (text baked into images) |
 | Signs painted on 3D models | ⚠️ Not checked yet |
 
 **Known limitations**
@@ -192,6 +193,8 @@ type an English name. Birthdays are entered as **Year / Month / Day**.
 - Tested in PPSSPP 1.20.4 from the title screen through character creation into the island, the main menu,
   fortune menus and the status screen. Later parts of the game use the same text system but haven't all been
   played through yet – reports are very welcome.
+- Fortune readings, personality results and newspapers are shown in small fixed windows, so their English is
+  condensed to fit (v0.2).
 
 ## ❓ FAQ & troubleshooting
 

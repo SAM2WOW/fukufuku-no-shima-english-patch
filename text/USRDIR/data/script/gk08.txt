@@ -156,7 +156,7 @@ EN: Seahorse
 
 @15134 max=359
 JP: どんな荒波もスイスイとかわして<n>何事もないかのように人生渡って<n>いかれるタツノオトシゴタイプ。<n>恋に夢中になるわりには、仕事も<n>勉強も、器用に両立できるのです<n>が、それが災いしてかわいげのな<n>い人間と思われることも。
-EN: You are the Seahorse type, gliding<n>through life's rough seas as if<n>nothing happened. Even when love<n>sweeps you away, you juggle work<n>and study with ease. But being so<n>capable can backfire: some people<n>find your effortless success hard to love.
+EN: Seahorse type: You sail through life's storms and juggle love, work and study with ease. But being so capable can make you seem less endearing.
 
 @1529C max=359
 JP: マンボウ
@@ -164,7 +164,7 @@ EN: Ocean Sunfish
 
 @15404 max=359
 JP: のんびりじっくり、マイペースな<n>マンボウタイプ。人を見る目がし<n>っかりしているので、簡単なこと<n>では恋に落ちません。しかし、一<n>度好きになったら長期戦。相手が<n>振り向くまで、粘り強く思い続け<n>ます。たまには冒険も必要ですよ。
-EN: The Ocean Sunfish type takes life<n>slowly, at their own pace. A good<n>judge of character, you rarely fall<n>in love easily. But once you do,<n>you are in it for the long haul,<n>patiently waiting to win their heart.<n>A little adventure would do you good!
+EN: Ocean Sunfish type: You take life slowly and judge people well. You rarely fall in love, but once smitten, you persist until you win their heart. Try a little adventure!
 
 @1556C max=359
 JP: アシカ
@@ -172,7 +172,7 @@ EN: Sea Lion
 
 @156D4 max=359
 JP: 頭の回転が早く、話が上手で楽し<n>い雰囲気のアシカタイプ。当然、<n>寄ってくる恋人候補にはこと欠か<n>ないのですが、誰に対してもいま<n>いち本気になれないのは、理想が<n>高いためです。ちょっとじっくり<n>周りを見渡してみましょう。
-EN: Quick-witted and a lively talker,<n>the Sea Lion type is fun to be around.<n>You never lack potential sweethearts,<n>but struggle to get serious about<n>any of them. Your standards may be<n>a little too high. Take a good,<n>long look at the people around you.
+EN: Sea Lion type: Witty and fun, you attract plenty of admirers. Yet your high ideals keep you from falling hard. Take a closer look at the people around you.
 
 @1583C max=359
 JP: ラッコ
@@ -180,7 +180,7 @@ EN: Sea Otter
 
 @159A4 max=359
 JP: 夢見がちなラッコタイプは、ちょ<n>っと不器用ながんばり屋でロマン<n>チスト。勉強や仕事が忙しいと恋<n>人につれなくしてしまったり、逆<n>に、恋に夢中になるとその他のこ<n>とがおろそかになったり。なるべ<n>く多面的に物事を考えて。
-EN: The dreamy Sea Otter type is a<n>hardworking, slightly clumsy romantic.<n>When work or study gets busy, you<n>may give your sweetheart the cold<n>shoulder. When love takes over,<n>everything else suffers. Try to see<n>things from more than one angle.
+EN: Sea Otter type: A dreamy, clumsy romantic who tries hard. Work makes you neglect love; love makes you neglect work. Try to see the bigger picture.
 
 @15B0C max=359
 JP: シャチ
@@ -188,7 +188,7 @@ EN: Orca
 
 @15C74 max=359
 JP: 大雑把な性格に見られがちですが、<n>じつはロマンス願望が隠れている<n>シャチタイプ。理想の相手を見つ<n>けたとたん、一途に突っ走る傾向<n>があります。ドラマチックな恋愛<n>の末結ばれる、というのが理想で<n>すが、時には現実をよく見つめて。
-EN: People may think you are careless,<n>but the Orca type secretly longs<n>for romance. Once your ideal partner<n>appears, you charge ahead with eyes<n>only for them. You dream of a grand<n>romance ending in happily ever after,<n>but take a reality check now and then.
+EN: Orca type: You seem careless, but secretly crave romance. Once you find your ideal, you charge ahead, dreaming of a storybook ending. Stay grounded, too.
 
 @15DDC max=359
 JP: ペンギン
@@ -196,7 +196,7 @@ EN: Penguin
 
 @15F44 max=359
 JP: いつまでも子供の心を持った純粋<n>なペンギンタイプ。いつも理想を<n>高く掲げ、夢見ていますが、自分<n>から積極的に行動をおこしません。<n>恋愛でも完全主義的なところがあ<n>り、相手の欠点がなかなか許せな<n>い、融通の利かないタイプです。
-EN: The pure-hearted Penguin type keeps<n>a child's heart forever. You dream<n>big and set your ideals high, but<n>rarely take the first step yourself.<n>You seek perfection in love, too,<n>and struggle to accept a partner's<n>flaws. You can be quite inflexible.
+EN: Penguin type: Pure and young at heart, you dream big but rarely act first. You want perfect love and struggle to accept a partner's flaws. You can be inflexible.
 
 @160AC max=359
 JP: マンタ
@@ -204,7 +204,7 @@ EN: Manta Ray
 
 @16214 max=359
 JP: どんな人とでもうまく付き合い、<n>争いごとも起こさない、穏やかな<n>マンタタイプ。いろいろな人から<n>好かれますが、なかなか恋に発展<n>しないのは、あなたが誰かを特別<n>扱いしないから。想う人がいたら<n>露骨にひいきしてみてもいいかも。
-EN: The gentle Manta Ray type gets along<n>with everyone and avoids conflict.<n>Lots of people like you, but things<n>rarely turn romantic because you<n>treat everyone equally. If someone<n>has caught your eye, why not make<n>it obvious they are your favorite?
+EN: Manta Ray type: Gentle and easygoing, you get along with everyone. Romance stalls because you treat no one as special. Have a crush? Show a little favoritism!
 
 @1637C max=359
 JP: サメ
@@ -212,7 +212,7 @@ EN: Shark
 
 @164E4 max=359
 JP: 一見穏やか、冷静なのに、実は心<n>のなかにメラメラと情熱の炎が燃<n>えている、サメタイプ。なんでも<n>秘密にしたがる性格が災いして、<n>恋愛もなかなかスムーズに進みま<n>せん。ときにはちょっとガードを<n>ゆるめて、人を信じてみましょう。
-EN: The Shark type seems calm and cool,<n>but a fierce flame of passion burns<n>inside. Your habit of keeping every<n>little thing secret can make romance<n>rough going. Every now and then,<n>try letting your guard down a little<n>and putting your trust in someone.
+EN: Shark type: Cool on the outside, burning with passion within. Your secretive streak makes love tricky. Let your guard down sometimes and learn to trust.
 
 @1664C max=359
 JP: イルカ
@@ -220,7 +220,7 @@ EN: Dolphin
 
 @167B4 max=359
 JP: チャレンジ精神旺盛で、好奇心い<n>っぱいのイルカタイプ。あまり深<n>く考えずに恋に落ちてしまったり、<n>あっという間に冷めてしまったり。<n>たくさんの出会いとたくさんの別<n>れがあなたを成長させ、いつか本<n>物の恋愛の意味を知るでしょう。
-EN: Curious and eager for a challenge,<n>the Dolphin type dives into love<n>without much thought, then loses<n>interest just as quickly. All those<n>hellos and goodbyes help you grow.<n>Someday, they will teach you what<n>it really means to love someone.
+EN: Dolphin type: Curious and bold, you fall in love fast and cool off just as quickly. Each hello and goodbye helps you grow. In time, you'll learn what true love means.
 
 @1691C max=359
 JP: カメ
@@ -228,7 +228,7 @@ EN: Turtle
 
 @16A84 max=359
 JP: 辛抱強く、堅実で、現実的な考え<n>のカメタイプ。恋愛にも慎重で、<n>決してムードにおぼれてしまうこ<n>とはありません。冷静な性格ゆえ、<n>結婚が遅くなることも多いですが、<n>ただ、一度この人と決めると、め<n>ったなことでは別れない誠実さも。
-EN: Patient, steady and practical,<n>the Turtle type takes love slowly<n>and never gets swept up in the mood.<n>Your level head often means you<n>marry later in life. But once you<n>choose someone, your loyalty means<n>it takes a lot to make you leave.
+EN: Turtle type: Patient and practical, you never get swept away by romance. You may marry late, but once you choose someone, it takes a lot to shake your loyalty.
 
 @16BEC max=359
 JP: マグロ
@@ -236,7 +236,7 @@ EN: Tuna
 
 @16D54 max=359
 JP: 行動力＆スピード抜群のマグロタ<n>イプ。たくさんの友人や仲間に恵<n>まれ恋愛相手も選び放題です。が、<n>肝心の自分自身が気持ちを決めら<n>れないため、気づくとみんな去っ<n>っていってしまった、ということ<n>もあるはず。浮気心もほどほどに。
-EN: The Tuna type is always on the move,<n>with energy and speed to spare.<n>Surrounded by friends, you have your<n>pick of partners. But while you are<n>busy making up your mind, you may<n>find they have all moved on.<n>Go easy on that wandering eye!
+EN: The speedy Tuna type has energy and friends to spare. You're spoiled for choice in love, but if you can't decide, everyone may leave. Go easy on that wandering eye!
 
 @16EBC max=359
 JP: クリオネ
@@ -244,4 +244,4 @@ EN: Sea Angel
 
 @17024 max=359
 JP: ゆらゆらとロマンチックな恋の海<n>を漂うクリオネタイプ。悪気はな<n>いのですが、誰にでもやさしく、<n>厳しいことは口にしないので、変<n>な誤解を受けることも多々ありま<n>す。相手に同情するうち、ついつ<n>い恋愛に、を繰り返すタイプです。
-EN: The Sea Angel type drifts through<n>a dreamy sea of romance. You mean<n>well, but being kind to everyone<n>and never saying anything harsh<n>can give people the wrong idea.<n>You often feel sorry for someone,<n>then tumble into love all over again.
+EN: The Sea Angel type drifts through dreamy romance. Kind to all, you never say a harsh word, so people get the wrong idea. Pity turns to love... again and again.

@@ -156,7 +156,7 @@ EN: Neighbor
 
 @15134 max=359
 JP: あなたはとっても負けずギライ。<n>じっとしているよりも、何か目標<n>を持って行動してるほうが生き生<n>きしています。サスペンス劇場の<n>隣人のように、刑事もあっと驚く<n>ような情報を手に入れ、ベンチャ<n>ービジネスの世界で活躍しそう。
-EN: You hate to lose!<n>You feel most alive when working<n>toward a goal instead of sitting still.<n>In a mystery drama, you're the neighbor<n>with a tip that stuns even the detectives.<n>Your knack for digging up information<n>could make you a star in the startup world.
+EN: You hate losing and thrive on goals. In a mystery drama, you're the neighbor with a tip that stuns the detective. Your nose for news could make you a startup star.
 
 @1529C max=359
 JP: 通行人
@@ -164,7 +164,7 @@ EN: Passerby
 
 @15404 max=359
 JP: あなたはとってもシャイ。やさし<n>くて、思いやりがあるけれど、な<n>かなか自己主張できないタイプ。<n>サスペンス劇場ではちょっと地味<n>な通行人の役どころ。でも、そん<n>なあなたを守ってあげたいと思わ<n>れ、恋愛関係は充実でモテモテ！
-EN: You're very shy. You're kind and caring,<n>but have trouble speaking up for yourself.<n>In a mystery drama, you'd have a modest<n>little role as a passerby.<n>Still, you make people want to protect you!<n>Expect plenty of admirers and<n>a thriving love life.
+EN: Shy, kind and caring, you find it hard to speak up. In a mystery drama, you're a quiet passerby. Yet people want to protect you, so expect plenty of admirers and a rich love life!
 
 @1556C max=359
 JP: 探偵
@@ -172,7 +172,7 @@ EN: Detective
 
 @156D4 max=359
 JP: 知識欲が強くて、自分が知らない<n>ことや、新しいことがあると、徹<n>底的に調べて追及するタイプ。サ<n>スペンス劇場では、うんちくを話<n>したがりの探偵役。社交的で話術<n>も得意。ただ警戒心が強いので、<n>心を開ける真の親友は少ないかも。
-EN: You're hungry for knowledge. Anything<n>new or unfamiliar sends you digging<n>until you've learned every last detail.<n>In a mystery drama, you're the detective<n>who loves sharing trivia. You're sociable<n>and a gifted talker, but your guarded nature<n>may leave you with few truly close friends.
+EN: Curious and thorough, you're the mystery drama's trivia-loving detective. You're sociable and a gifted talker, but your guarded heart lets few friends truly close.
 
 @1583C max=359
 JP: 警察官
@@ -180,7 +180,7 @@ EN: Police Officer
 
 @159A4 max=359
 JP: 荒っぽい性格で、人に指示をされ<n>るよりも自分でガンガンと引っ張<n>っていきたいあなた。サスペンス<n>劇場では刑事昇格を目指して、で<n>しゃばる警察官ってところ。気持<n>ちばかりあせりがちなので、何か<n>行動する前には深呼吸をしてね。
-EN: You're a bit rough around the edges.<n>You'd rather charge ahead and lead<n>than take orders from someone else.<n>In a mystery drama, you're the pushy cop<n>angling for a promotion to detective.<n>You tend to get ahead of yourself,<n>so take a deep breath before you act.
+EN: Bold and bossy, you'd rather lead than take orders. In a mystery drama, you're the pushy cop chasing a promotion to detective. You rush ahead, so take a deep breath before acting.
 
 @15B0C max=359
 JP: 遺産相続人
@@ -188,7 +188,7 @@ EN: Heir
 
 @15C74 max=359
 JP: 生まれつき、人の上に立つような<n>運命を持っているあなた。玉の輿<n>に乗ったり、びっくりするような<n>チャンスに恵まれます。サスペン<n>ス劇場では遺産相続人タイプ。頭<n>がよくて文才もあるけれど、人を<n>見下すような態度は取らないよう。
-EN: You were born to rise above the crowd.<n>You may marry into money or land<n>an opportunity beyond your wildest dreams.<n>In a mystery drama, you're the heir<n>to a fortune. You're clever and have<n>a gift for writing, too. Just be sure<n>you don't look down on other people.
+EN: Born to lead, you may marry rich or land a golden chance. In a mystery drama, you're the heir. You're clever and a gifted writer, but beware of looking down on others.
 
 @15DDC max=359
 JP: 犯人
@@ -196,7 +196,7 @@ EN: Culprit
 
 @15F44 max=359
 JP: あなたはときには人にやさしく、<n>ときにはクールにと二面性があり<n>ます。容姿も才能もあり、知らず<n>に人気者になってしまうはず。サ<n>スペンス劇場では、完全犯罪を企<n>む犯人の役どころ。調子に乗り過<n>ぎ落とし穴にはまらぬように注意。
-EN: You have two sides: warm and kind one<n>moment, cool and distant the next.<n>With your looks and talent, you attract<n>admirers without even realizing it.<n>In a mystery drama, you're the culprit<n>plotting the perfect crime. Don't let<n>overconfidence lead you into a trap!
+EN: Warm one moment, cool the next, your looks and talent win fans. In a mystery drama, you're the culprit plotting the perfect crime. Beware: overconfidence could be your downfall!
 
 @160AC max=359
 JP: 目撃者
@@ -204,7 +204,7 @@ EN: Witness
 
 @16214 max=359
 JP: ロマンチックで流行に敏感。何か<n>面白いものが見つからないかと、<n>いつもキョロキョロしているあな<n>た。サスペンス劇場では、偶然犯<n>人を見てしまう目撃者タイプ。観<n>察力も鋭いので、どんな分野でも<n>努力をすればトップを目指せます。
-EN: You're a romantic with an eye for trends,<n>always looking around for something fun.<n>In a mystery drama, you're the witness<n>who happens to catch sight of the culprit.<n>You have sharp powers of observation,<n>so with enough hard work, you could reach<n>the top in just about any field.
+EN: A romantic with an eye for trends, you're always seeking fun. In a mystery drama, you're a chance witness. Your keen eye and hard work could take you to the top in any field.
 
 @1637C max=359
 JP: 家政婦
@@ -212,7 +212,7 @@ EN: Housekeeper
 
 @164E4 max=359
 JP: しっかりもので、物にこだわるあ<n>なたはサスペンス劇場では、キレ<n>イに掃除をする家政婦タイプ。キ<n>チンと貯金をして小金を貯める反<n>面、見栄っぱりで、欲しい物には<n>散財する傾向が。ウワサ好きで人<n>を傷つけることがあるので注意。
-EN: You're dependable and particular about<n>your things. In a mystery drama, you're<n>the housekeeper who leaves everything spotless.<n>You save steadily and build a tidy nest egg,<n>yet splurge on things you want to show off.<n>You also love gossip, so be careful:<n>your words could hurt someone.
+EN: Fussy but dependable, you're the mystery drama's tidy housekeeper. You save well, yet splurge to show off. You love gossip, too, so mind whose feelings you hurt.
 
 @1664C max=359
 JP: 検死官
@@ -220,7 +220,7 @@ EN: Coroner
 
 @167B4 max=359
 JP: 道徳観念が強く、常識やマナーに<n>こだわるあなたは、サスペンス劇<n>場では、細部までしっかり分析す<n>る検死官タイプ。優等生過ぎて、<n>人からはうざったがれることもあ<n>りそう。コツコツと自分の道を極<n>めて、成功する可能性が高いです。
-EN: You have strong morals and care deeply<n>about common sense and good manners.<n>In a mystery drama, you're the coroner<n>who analyzes every tiny detail.<n>Your goody-two-shoes ways may annoy people,<n>but keep steadily honing your skills.<n>You've got a very good chance of success.
+EN: Moral and mannerly, you're the mystery drama's meticulous coroner. Your goody-two-shoes ways may grate, but steady work to master your craft gives you a fine shot at success.
 
 @1691C max=359
 JP: 弁護士
@@ -228,7 +228,7 @@ EN: Lawyer
 
 @16A84 max=359
 JP: 知的向上心が強く、勉強ではいつ<n>でもトップに近い成績を取ってい<n>たはず。サスペンス劇場では、冷<n>静な判断をする弁護士タイプ。観<n>察力も鋭く、人を仕切ることもう<n>まいので、人から頼りにされるで<n>しょう。恋愛にはオクテなほう。
-EN: You're eager to sharpen your mind and<n>were probably near the top of your class.<n>In a mystery drama, you're the lawyer<n>who makes calm, levelheaded judgments.<n>You're observant and good at taking charge,<n>so people know they can count on you.<n>In romance, though, you're a late bloomer.
+EN: An eager learner, you likely ranked near the top. In a mystery drama, you're the coolheaded lawyer. Sharp-eyed and a good leader, you're reliable, but a late bloomer in love.
 
 @16BEC max=359
 JP: 被害者
@@ -236,7 +236,7 @@ EN: Victim
 
 @16D54 max=359
 JP: 男女問わず、華やかな雰囲気をも<n>ち、人の集まる場所で注目される<n>あなた。コンパ、旅行など遊びの<n>達人です。サスペンス劇場では、<n>はめをはずして事件に巻き込まれ<n>る被害者という役どころ。頼まれ<n>ごとは安請け合いをしないように。
-EN: Whatever your gender, you have a dazzling<n>presence that turns heads in a crowd.<n>From parties to trips, you're an expert<n>at having fun. In a mystery drama,<n>you're the victim whose wild antics<n>land them in trouble. Don't be too quick<n>to say yes whenever someone asks a favor.
+EN: You turn heads in a crowd and excel at parties and trips! In a mystery drama, you're the victim whose wild fun spells trouble. Don't agree to every favor.
 
 @16EBC max=359
 JP: 検察官
@@ -244,4 +244,4 @@ EN: Prosecutor
 
 @17024 max=359
 JP: 正義感が強く、人をぐいぐいと引<n>っ張っていくリーダータイプのあ<n>なた。サスペンス劇場の検察官の<n>ように、信頼も厚いはず。やるべ<n>きことは最後までやり通す根性も<n>あります。人に意見を押し付ける<n>ところがあるので気をつけて。
-EN: You're a natural leader with a strong<n>sense of justice and the drive to inspire.<n>Like the prosecutor in a mystery drama,<n>you've probably earned plenty of trust.<n>You have the grit to see your duties<n>through to the end. Just watch your habit<n>of forcing your opinions on others.
+EN: A born leader with a strong sense of justice, you're trusted like a TV prosecutor. You have the grit to see things through. Just don't force your views on others.

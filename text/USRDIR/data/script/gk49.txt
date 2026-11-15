@@ -156,7 +156,7 @@ EN: Momotaro
 
 @15134 max=359
 JP: 桃太郎タイプ。責任感が強く、何<n>事も最後まできちんとやりとおす<n>ことができる信頼できる人。協調<n>性もあるので、他人ともうまくや<n>っていくことができます。ただち<n>ょっと慎重すぎる一面があり、こ<n>れが悪く出ると消極的な印象に。
-EN: You're the Momotaro type. You have a<n>strong sense of duty and always see<n>things through, so people can count<n>on you. You're a team player who gets<n>along well with others. But you can be<n>overly cautious, which may make you<n>seem passive when it gets the better of you.
+EN: Momotaro type: dutiful and reliable, you see things through. You work well with others, but too much caution can make you seem passive.
 
 @1529C max=359
 JP: 浦島太郎
@@ -164,7 +164,7 @@ EN: Urashima Taro
 
 @15404 max=359
 JP: 浦島太郎タイプ。活発で行動派、<n>目標に向かって突き進む人です。<n>自由な発想で、次々といろいろな<n>ことに挑戦する冒険家です。熱し<n>やすく冷めやすいところが欠点で<n>すが、ねばり強さを身につければ<n>運気が上昇します。
-EN: You're the Urashima Taro type. Energetic<n>and active, you charge toward your goals.<n>A free thinker with an adventurous streak,<n>you're always trying something new.<n>Your enthusiasm can fade as quickly as<n>it flares up, but develop some staying<n>power and your luck will improve.
+EN: Urashima Taro type: active and adventurous, you chase goals and try new things with fresh ideas. Your passion fades fast. Learn to persevere and your luck will rise.
 
 @1556C max=359
 JP: 金太郎
@@ -172,7 +172,7 @@ EN: Kintaro
 
 @156D4 max=359
 JP: 金太郎タイプ。おおらかで、人情<n>に厚く、人に尽くして喜びを感じ<n>る人。喜怒哀楽が激しく、それが<n>良い印象を与えるので、人からも<n>とても好かれます。ただ、周りに<n>合わせすぎるのが欠点で、このた<n>め八方美人に見られがち。
-EN: You're the Kintaro type. Easygoing and<n>warmhearted, you find joy in helping<n>others. You wear your heart on your<n>sleeve, and people find that endearing,<n>making you well liked. But you tend to<n>go along with others a little too much,<n>which can make you seem like a people pleaser.
+EN: Kintaro type: easygoing and warm, you love helping others. Your open emotions win hearts, but going along with everyone can make you seem like a people pleaser.
 
 @1583C max=359
 JP: 一寸法師
@@ -180,4 +180,4 @@ EN: Issun-boshi
 
 @159A4 max=359
 JP: 一寸法師タイプのあなたは、頭の<n>回転が早く、何をやっても上手に<n>こなすことができる器用な人です。<n>個性的で客観的でもありますので、<n>まわりに流されず自分の道を突き<n>進むことができる人でもあります。<n>プライドが高すぎるのが欠点です。
-EN: You're the Issun-boshi type. Quick-witted<n>and versatile, you have a knack for<n>anything you try. You're your own person,<n>but you can also see things objectively.<n>You follow your own path without<n>getting swept along by the crowd.<n>Your weakness? A little too much pride.
+EN: Issun-boshi type: quick-witted and versatile, you excel at whatever you try. Unique yet objective, you follow your own path. Your weakness is excessive pride.

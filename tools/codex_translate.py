@@ -49,6 +49,8 @@ Translate every item below. Rules:
 9. Japanese-specific wordplay or kanji/kana trivia: translate the meaning and adapt naturally; if the joke depends on Japanese script, keep it understandable (romanize briefly if needed).
 10. If an item is clearly binary garbage or a programmer debug label that is not real text, return "<SKIP>".
 11. Fortune-telling, trivia and quiz answers must stay factually consistent with the Japanese (a true/false quiz must stay true/false).
+12. Items with a "window" field are shown in a small fixed text window ("7 lines x 40 chars" etc.). The patch word-wraps the English to that width; the wrapped text MUST fit in that many lines, so the English must be clearly shorter than lines x chars (aim for about 85% of it, counting spaces). Condense and paraphrase as needed, keep the key advice/meaning and the speaker's tone, drop filler. Do not use <n> in these.
+13. Items with "previous_attempt" failed validation for the reason in "problem": fix exactly that problem.
 
 GLOSSARY (follow strictly):
 {glossary}
@@ -148,6 +150,11 @@ def translate_batch(batch, glossary, errors=None):
         d = {'id': str(i), 'file': u['file'], 'type': u['kind'], 'jp': u['jp']}
         if u['cap']:
             d['max_bytes'] = u['cap']
+        box = render.window(u['fmt'], u['meta'], u['key'], u['jp'])
+        if box:
+            d['window'] = '%d lines x %d chars' % (box[1], box[0])
+            if u['fmt'] == 'rec' and render.rec_box(u['meta'])[2]:
+                d['window'] += ' (each item starts on a new line with "- ")' 
         if errors and u['jp'] in errors:
             d['previous_attempt'] = errors[u['jp']][0]
             d['problem'] = errors[u['jp']][1]
@@ -179,12 +186,32 @@ def translate_batch(batch, glossary, errors=None):
     return ok, bad
 
 
-def write_back(results, only=None):
+def failing_units(files):
+    """Already translated entries that fail validation (too long for their
+    field/window...), with the current English as the previous attempt."""
+    units, errors, seen = [], {}, set()
+    for fn, meta, ents in files:
+        src = os.path.splitext(os.path.basename(fn))[0]
+        for e in ents:
+            if not e.en or e.en == '<SKIP>' or e.jp in seen:
+                continue
+            en = e.en.split('||')[0]
+            b, err = render.check(en, e.jp, meta['format'], e.key, meta, e.cap)
+            if err:
+                seen.add(e.jp)
+                fmt, kind = unit_info(meta, e)
+                units.append({'jp': e.jp, 'cap': e.cap, 'fmt': fmt, 'kind': kind, 'key': e.key,
+                              'meta': meta, 'file': src})
+                errors[e.jp] = (e.en, err)
+    return units, errors
+
+
+def write_back(results, only=None, overwrite=()):
     n = 0
     for fn, meta, ents in load_all(only):
         changed = False
         for e in ents:
-            if not e.en and e.jp in results:
+            if (not e.en or e.jp in overwrite) and e.jp in results and e.en != results[e.jp]:
                 r = results[e.jp]
                 if r == '<SKIP>':
                     continue
@@ -207,26 +234,32 @@ def main():
     ap.add_argument('--only', default=None, help='regex on text file path')
     ap.add_argument('--limit', type=int, default=0, help='max batches (testing)')
     ap.add_argument('--rounds', type=int, default=3)
+    ap.add_argument('--refit', action='store_true',
+                    help='re-translate existing entries that fail validation (too long etc.)')
     a = ap.parse_args()
     os.makedirs(WORK, exist_ok=True)
     with open(os.path.join(WORK, 'schema.json'), 'w') as f:
         json.dump(SCHEMA, f)
     glossary = open(os.path.join(ROOT, 'glossary.md'), encoding='utf-8').read()
 
-    units = build_units(load_all(a.only))
+    overwrite = ()
+    if a.refit:
+        units, errors = failing_units(load_all(a.only))
+        overwrite = set(errors)
+    else:
+        units, errors = build_units(load_all(a.only)), {}
     print('units to translate:', len(units), 'chars:', sum(len(u['jp']) for u in units))
     results = {}
-    errors = {}
     todo = units
     for rnd in range(a.rounds):
-        bl = list(batches(todo, a.batch if rnd == 0 else 10, a.chars))
+        bl = list(batches(todo, a.batch if rnd == 0 and not a.refit else 10, a.chars))
         if a.limit:
             bl = bl[:a.limit]
         print('round %d: %d batches' % (rnd + 1, len(bl)))
         done = 0
         t0 = time.time()
         with cf.ThreadPoolExecutor(a.jobs) as ex:
-            futs = [ex.submit(translate_batch, b, glossary, errors if rnd else None) for b in bl]
+            futs = [ex.submit(translate_batch, b, glossary, errors if (rnd or a.refit) else None) for b in bl]
             for fu in cf.as_completed(futs):
                 ok, bad = fu.result()
                 with lock:
@@ -241,8 +274,8 @@ def main():
                               % (done, len(bl), len(results), len(errors), el,
                                  el / done * (len(bl) - done)), flush=True)
                     if done % 20 == 0:
-                        write_back(dict(results), a.only)
-        n = write_back(results, a.only)
+                        write_back(dict(results), a.only, overwrite)
+        n = write_back(results, a.only, overwrite)
         print('written %d entries' % n)
         todo = [u for u in units if u['jp'] in errors]
         if not todo:

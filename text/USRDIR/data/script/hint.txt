@@ -52,7 +52,7 @@ EN: Experience is your treasure and your guide.<n>The elder shall be your compas
 
 @169E4 max=639
 JP: 負けることこそが、三匹の兄弟の望み。<n>兄が一人立つ時に、贈り物は贈られる。
-EN: Defeat is what the three brothers desire.<n>When an older brother stands alone, a gift shall be given.
+EN: The three brothers wish to lose. A gift awaits when one elder stands alone.
 
 @16C64 max=639
 JP: 老いたる庭師が、そのありかを知る。
@@ -68,7 +68,7 @@ EN: Win the sweet gentleman's heart,<n>and he shall reveal where it lies.
 
 @173E4 max=639
 JP: 武の道を進む者の心に叶うとき<n>思いもかけぬ恩賞があるだろう。
-EN: Win the favor of one who walks the warrior's path,<n>and an unexpected reward shall be yours.
+EN: Win a warrior's favor for an unexpected reward.
 
 @17664 max=639
 JP: 学識深き者は語ることを好む。<n>彼の言葉に耳傾けよ。
@@ -76,7 +76,7 @@ EN: The learned one delights in speaking.<n>Lend him your ear.
 
 @178E4 max=639
 JP: 運命の押し印が六の数字を超え<n>商人は歓喜とともに道を開くだろう。
-EN: When the stamps of fate number more than six,<n>the merchant shall joyfully open the way.
+EN: Once fate's stamps exceed six, the joyful merchant will open the way.
 
 @17B64 max=639
 JP: 星座を作る者たちと出会い<n>契りを結ぶことは重要である。
@@ -92,7 +92,7 @@ EN: Help your avatar grow. Only then<n>shall the recycling shop's owner answer y
 
 @182E4 max=639
 JP: 妖精の導きに従い、拾い集めて組合せよ。<n>三度行えたなら、妖精は答えをくれるだろう。
-EN: Follow the fairy's guidance: gather the pieces and fit them together.<n>Do this three times, and the fairy shall give you an answer.
+EN: Follow the fairy: gather and fit pieces three times to get an answer.
 
 @18564 max=639
 JP: 地には全ての賢者たちが集い<n>もはや我に語るべき言葉はない。

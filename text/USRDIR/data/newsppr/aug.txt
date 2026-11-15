@@ -4,43 +4,43 @@
 
 @#0
 JP: ■水の日：国土庁（現・国土交通省）が節水<n>を呼びかける意味で１９７７年に制定。<n>■観光の日：１９６５年に制定。<n>■肺の日：日本呼吸器学会が制定、実施。<n>■麻雀の日：数字の語呂合わせから、全国麻<n>雀業組合総連合会が、健全な娯楽としての麻<n>雀を広めるため制定。<n>■世界母乳の日：世界母乳連盟が制定。
-EN: - Water Day: Established in 1977 by the National Land Agency<n>(now part of the Ministry of Land, Infrastructure, Transport and Tourism) to encourage water conservation.<n>- Tourism Day: Established in 1965.<n>- Lung Day: Established and observed by the Japanese Respiratory Society.<n>- Mahjong Day: Chosen for a Japanese pun on the date.<n>The national federation of mahjong business associations established it<n>to promote mahjong as wholesome entertainment.<n>- World Breastfeeding Day: Established by the World Alliance for Breastfeeding Action.
+EN: - Water Day: Set in 1977 to save water.\n- Tourism Day: Established in 1965.\n- Lung Day: Japan's respiratory society.\n- Mahjong Day: A date pun for wholesome play.\n- World Breastfeeding Day: Set by the global breastfeeding alliance.
 
 @#1
 JP: ■ホコ天記念日：１９７０年、銀座、新宿で<n>初めて歩行者天国が実施されたことを記念。<n>■ハーブの日：数字の語呂合わせから。<n>■博多人形の日：博多人形の生産者の組合な<n>どが中心となって制定。<n>■パンツの日：下着メーカーが、数字の語呂<n>合わせから制定。<n>■学制発布記念日：１８７２年、発布。
-EN: - Pedestrian Paradise Anniversary: Commemorates the first pedestrian-only street events<n>held in Ginza and Shinjuku in 1970.<n>- Herb Day: Chosen for a Japanese pun on the date.<n>- Hakata Doll Day: Established through the efforts of<n>Hakata doll makers' associations and other groups.<n>- Underwear Day: Established by an underwear manufacturer,<n>based on a Japanese pun on the date.<n>- Education System Proclamation Day: Japan's education system was proclaimed in 1872.
+EN: - Pedestrian Paradise Day: Ginza and Shinjuku first went car-free in 1970.\n- Herb Day: A Japanese date pun.\n- Hakata Doll Day: Set by doll makers.\n- Underwear Day: A maker's date pun.\n- Education System Day: Marks Japan's 1872 education decree.
 
 @#2
 JP: ■はちみつの日：数字の語呂合わせから、全<n>日本はちみつ協同組合と日本養蜂はちみつ協<n>会が制定。<n>■ハサミの日：美容家の山野愛子さんが、<n>「ハサミ供養」を提唱、実施。<n>■破産の日：数字の語呂合わせから。
-EN: - Honey Day: Chosen for a Japanese pun on the date.<n>Established by the All Japan Honey Cooperative<n>and the Japan Beekeeping and Honey Association.<n>- Scissors Day: Beauty expert Aiko Yamano proposed<n>and held memorial services for scissors.<n>- Bankruptcy Day: Chosen for a Japanese pun on the date.
+EN: - Honey Day: A date pun, set by Japan's honey and beekeeping associations.\n- Scissors Day: Beauty expert Aiko Yamano began memorial rites for scissors.\n- Bankruptcy Day: A Japanese date pun.
 
 @#3
 JP: ■箸の日：数字の語呂合わせから、わりばし<n>組合が制定。<n>■ゆかたの日：城崎温泉観光協会が制定。<n>■橋の日：「橋の日実行委員会」が制定。<n>■ビアホールの日：ビアホールチェーンのサ<n>ッポロライオンが、現存するうちで日本で最<n>も古いビアホール「エビスビヤホール」の開<n>店日を記念し制定。
-EN: - Chopsticks Day: Chosen for a Japanese pun on the date.<n>Established by a disposable chopstick makers' association.<n>- Yukata Day: Established by the Kinosaki Onsen Tourism Association.<n>- Bridge Day: Established by the Bridge Day Executive Committee.<n>- Beer Hall Day: Established by the beer hall chain Sapporo Lion.<n>It marks the opening anniversary of Ebisu Beer Hall,<n>Japan's oldest beer hall<n>still in existence.
+EN: - Chopsticks Day: A date pun, set by disposable chopstick makers.\n- Yukata Day: Set by Kinosaki's tourism association.\n- Bridge Day: Set by its organizing committee.\n- Beer Hall Day: Sapporo Lion honors Ebisu, Japan's oldest surviving beer hall.
 
 @#4
 JP: ■ハンコの日：山梨県甲府市の印判総合商社、<n>モテギ株式会社が制定。<n>■タクシーの日：東京乗用旅客自動車協会が<n>１９８４年に制定。<n>■ハコの日：数字の語呂合わせから、東京紙<n>器工業組合が制定し、全国の紙器段ボール箱<n>工業組合が実施。
-EN: - Personal Seal Day: Established by Motegi Co., Ltd.,<n>a seal wholesaler in Kofu, Yamanashi Prefecture.<n>- Taxi Day: Established by the Tokyo Passenger Vehicle Association<n>in 1984.<n>- Box Day: Chosen for a Japanese pun on the date.<n>Established by the Tokyo paper container industry association and observed<n>by paper container and corrugated box industry associations nationwide.
+EN: - Personal Seal Day: Set by Motegi, a seal wholesaler in Kofu, Yamanashi.\n- Taxi Day: Set in 1984 by Tokyo's passenger car association.\n- Box Day: A date pun, set by Tokyo's paper box makers and observed by box makers nationwide.
 
 @#5
 JP: ■広島平和記念日：１９４５年８月６日米軍<n>のＢ２９爆撃機が、広島市上空で世界初の原<n>子爆弾を投下。約１４万人が犠牲となった。<n>広島市ではこの日に原爆慰霊祭を行っている。<n>■雨水の日：１９９４年、墨田区で世界初の<n>雨水利用国際会議が開かれたことにちなんで。<n>■ハムの日：数字の語呂合わせから。<n>■ハローの日：数字の語呂合わせから。
-EN: - Hiroshima Peace Memorial Day: On August 6, 1945,<n>an American B-29 bomber dropped the world's first atomic bomb on Hiroshima.<n>About 140,000 people lost their lives.<n>Hiroshima holds a memorial ceremony for the victims on this day.<n>- Rainwater Day: Commemorates the world's first international conference<n>on rainwater use, held in Sumida Ward in 1994.<n>- Ham Day: Chosen for a Japanese pun on the date.<n>- Hello Day: Chosen for a Japanese pun on the date.
+EN: - Hiroshima Peace Day: The first atomic attack, by US B-29 on Aug. 6, 1945, killed about 140,000. Victims are honored today.\n- Rainwater Day: Marks 1994's world-first rainwater use conference in Sumida.\n- Ham Day: A Japanese date pun.\n- Hello Day: A Japanese date pun.
 
 @#6
 JP: ■鼻の日：日本耳鼻咽喉科学会が制定。<n>■花の日：数字の語呂合わせから。<n>■バナナの日：日本バナナ輸入組合が制定。<n>■月遅れの七夕：旧暦の季節に従って、一カ<n>月遅らせて七夕を祝う地域がある。
-EN: - Nose Day: Established by the Oto-Rhino-Laryngological Society of Japan.<n>- Flower Day: Chosen for a Japanese pun on the date.<n>- Banana Day: Established by the Japan Banana Importers Association.<n>- Month-Late Tanabata: Some regions celebrate Tanabata one month later<n>to better match the season of the old lunar calendar.
+EN: - Nose Day: Set by Japan's ENT society.\n- Flower Day: A Japanese date pun.\n- Banana Day: Set by Japan's banana importers.\n- Late Tanabata: Some regions celebrate a month later to match the old lunar season.
 
 @#7
 JP: ■そろばんの日：全国珠算教育連盟が制定。<n>■ヒゲの日：１９７８年に制定。<n>■親孝行の日：１９８９年に制定。<n>■ひょうたんの日：数字の８がひょうたんの<n>形をしていることから、全日本愛瓢会が制定。<n>■タコの日：タコの足が８本であることから。<n>■笑いの日：は、は、の笑い声の語呂合わせ<n>で「笑いの日を作る会」が制定。
-EN: - Abacus Day: Established by the National Federation of Abacus Education.<n>- Facial Hair Day: Established in 1978.<n>- Honor Your Parents Day: Established in 1989.<n>- Gourd Day: Established by the All Japan Gourd Lovers Association<n>because the number 8 resembles a gourd.<n>- Octopus Day: Chosen because octopuses have eight arms.<n>- Laughter Day: Established by the Society for Creating Laughter Day.<n>The date sounds like "ha ha" in Japanese.
+EN: - Abacus Day: Set by abacus educators.\n- Beard Day: Established in 1978.\n- Honor Your Parents Day: Began in 1989.\n- Gourd Day: Japan's gourd fans say 8 looks like a gourd.\n- Octopus Day: For its eight arms.\n- Laughter Day: Its founders chose a Japanese date pun on "ha ha."
 
 @#8
 JP: ■長崎原爆の日：１９４５年８月９日、米軍<n>のＢ２９爆撃機がプルトニウム原爆を投下。<n>１４万人近くの犠牲者が出た。この日は長崎<n>で原爆犠牲者慰霊平和祈念式が行われている。<n>■野球の日：数字の語呂合わせから、スポー<n>ツ用品店エスポートミズノが制定。<n>■形状記憶合金の日：１９８２年、ベルギー<n>で東北大学のグループが形状記憶合金を発表。
-EN: - Nagasaki Atomic Bomb Memorial Day: On August 9, 1945,<n>an American B-29 bomber dropped a plutonium atomic bomb on Nagasaki.<n>There were nearly 140,000 victims. On this day, Nagasaki holds<n>a peace ceremony in memory of those lost to the bombing.<n>- Baseball Day: Chosen for a Japanese pun on the date.<n>Established by the sporting goods store Esport Mizuno.<n>- Shape-Memory Alloy Day: In 1982, a group from Tohoku University<n>presented a shape-memory alloy in Belgium.
+EN: - Nagasaki Atomic Bomb Day: A US B-29 dropped a plutonium bomb on Aug. 9, 1945. Nearly 140,000 victims; a peace memorial is held today.\n- Baseball Day: Esport Mizuno's date pun.\n- Shape-Memory Alloy Day: Tohoku Univ. presented one in Belgium in 1982.
 
 @#9
 JP: ■帽子の日：数字の語呂合わせから全日本帽<n>子協会が制定。<n>■道の日：建設省道路局が１９８６年に制定。<n>■宿の日：国際観光旅館連盟、日本観光旅館<n>連盟、全日本旅館連盟、日本観光協会の４団<n>体が制定。<n>■健康ハートの日：１９８５年に制定。<n>■ホームヘルパーの日：富山県が制定。
-EN: - Hat Day: Chosen for a Japanese pun on the date.<n>Established by the All Japan Hat Association.<n>- Road Day: Established in 1986 by the Ministry of Construction's Road Bureau.<n>- Inn Day: Established jointly by the International Tourism Ryokan Federation,<n>Japan Tourist Ryokan Federation, All Japan Ryokan Federation<n>and Japan Tourism Association.<n>- Healthy Heart Day: Established in 1985.<n>- Home Helper Day: Established by Toyama Prefecture.
+EN: - Hat Day: A date pun, set by Japan's hat association.\n- Road Day: Set by the Road Bureau, 1986.\n- Inn Day: Set by four tourism and inn associations.\n- Healthy Heart Day: Established in 1985.\n- Home Helper Day: Set by Toyama Pref.
 
 @#10
 JP: ■ガンバレの日：１９３６年のオリンピック<n>ベルリン大会の女子２００メートル平泳ぎ決<n>勝で、ラジオ中継でアナウンサーが「前畑頑<n>張れ」と連呼した。前畑選手は優勝。
@@ -48,7 +48,7 @@ EN: - Go for It Day: During the women's 200-meter breaststroke final<n>at the 19
 
 @#11
 JP: ■航空安全の日、茜雲忌：１９８５年、日航<n>機１２３便が群馬県御巣鷹山に墜落、生存者<n>４名犠牲者５２０名の大惨事となった。<n>■日中平和友好条約調印の日：１９７８年、<n>日本と中国の間で「平和友好条約」が調印。<n>■国際青少年デー：１９９９年、制定。<n>■晴れの特異日：晴れる確率が高い日。
-EN: - Aviation Safety Day / Akane-gumo Memorial: In 1985, Japan Airlines Flight 123<n>crashed on Mount Osutaka in Gunma Prefecture.<n>The disaster claimed 520 lives, with just four survivors.<n>- Japan-China Peace and Friendship Treaty Signing Day:<n>Japan and China signed the Treaty of Peace and Friendship in 1978.<n>- International Youth Day: Established in 1999.<n>- Fair Weather Day: A date with a high likelihood of clear skies.
+EN: - Aviation Safety / Akane-gumo Memorial: JAL 123 crashed on Mt. Osutaka, Gunma, in 1985: 520 dead, 4 survivors.\n- Japan-China peace treaty signed, 1978.\n- International Youth Day: Set in 1999.\n- Fair Weather Day: Clear skies likely.
 
 @#12
 JP: ■左利きの日：提唱者の誕生日と伝えられる。<n>■函館夜景の日：１９９１年、制定。<n>■女神ヘカテに捧げる日：出産を控えた女性<n>の家に宿る女神の日。
@@ -60,11 +60,11 @@ EN: - Patent Day: Marks the date in 1885<n>when Japan's first patent was issued.
 
 @#14
 JP: ■終戦記念日、敗戦記念日：１９４５年のこ<n>の日、昭和天皇による玉音放送によって日本<n>が無条件降伏したことが国民に伝えられ、こ<n>れにより第二次世界大戦が終結。<n>■刺身の日：１４４８年、刺身が初めて文書<n>に登場した日を記念して。<n>■全国戦没者追悼式：１９６３年から、政府<n>主催による「全国戦没者追悼式」が実施。
-EN: - End of the War Day / Defeat Memorial Day: On this day in 1945,<n>a radio broadcast by Emperor Hirohito informed the Japanese people<n>that Japan had surrendered unconditionally,<n>bringing World War II to an end.<n>- Sashimi Day: Commemorates the first written mention of sashimi,<n>which appeared on this date in 1448.<n>- National Memorial Ceremony for the War Dead:<n>The government has held this ceremony since 1963.
+EN: - War's End / Defeat Memorial: In 1945, Emperor Hirohito's radio address announced Japan's unconditional surrender, ending WWII.\n- Sashimi Day: First written record, 1448.\n- War Dead Memorial: Government ceremony held since 1963.
 
 @#15
 JP: ■女子大生の日：１９１３年、東北帝国大学<n>が女子受験生３人の合格を発表、日本初の女<n>子大生が誕生。<n>■ベーブ・ルース忌：アメリカのヒーロー的<n>存在であり、大リーグで７１４本のホームラ<n>ンを放ったベーブルースが死去。<n>■プレスリー忌：１９７７年、ロック界のス<n>ーパースター、プレスリーが心臓発作で死去。
-EN: - Women College Students Day: In 1913, Tohoku Imperial University<n>announced that three female applicants had passed its entrance exams,<n>making them Japan's first women university students.<n>- Babe Ruth Memorial Day: Marks the death of Babe Ruth,<n>the American sporting hero who hit 714 home runs<n>during his major league career.<n>- Elvis Presley Memorial Day: In 1977, rock superstar<n>Elvis Presley died of a heart attack.
+EN: - Women Students Day: In 1913, Tohoku Imperial University admitted Japan's first 3 female students.\n- Babe Ruth Memorial: The US baseball hero hit 714 major-league home runs.\n- Elvis Memorial: The rock star died of a heart attack in 1977.
 
 @#16
 JP: ■プロ野球ナイター記念日：１９４８年、横<n>浜ゲーリッグ球場で日本初のナイター開催。<n>■パイナップルの日：数字の語呂合わせから。
@@ -72,15 +72,15 @@ EN: - Pro Baseball Night Game Anniversary: In 1948, Japan's first night baseball
 
 @#17
 JP: ■高校野球記念日：１９１５年、大阪で第１<n>回全国中等学校優勝野球大会が開会。その後<n>学制改革により全国高校野球選手権大会へ。<n>■米の日：岩手県農政部農産物流通課が１９<n>９８年に制定。<n>■猛暑の特異日：過去のデータから猛暑とな<n>る確率の高い日。<n>■太閤忌：豊臣秀吉の１５９８年の忌日。
-EN: - High School Baseball Anniversary: In 1915, the first National Middle School<n>Baseball Championship opened in Osaka. After education reforms,<n>it became the National High School Baseball Championship.<n>- Rice Day: Established by the agricultural products distribution division<n>of Iwate Prefecture's agriculture department in 1998.<n>- Extreme Heat Day: Past weather records show<n>an unusually high likelihood of extreme heat on this date.<n>- Taiko Memorial Day: Marks Toyotomi Hideyoshi's death in 1598.
+EN: - Baseball Day: Osaka hosted the first national school tournament in 1915, now the high school championship.\n- Rice Day: Set by Iwate officials, 1998.\n- Extreme Heat Day: Hot weather likely.\n- Taiko Memorial: Toyotomi Hideyoshi died in 1598.
 
 @#18
 JP: ■俳句の日：数字の語呂合わせから、正岡子<n>規研究家の坪内稔典氏らの発案で制定。<n>■バイクの日：総務庁交通対策本部が制定。<n>■警察手帳交付の日：１８７４年、警察手帳<n>が警察官に交付された。
-EN: - Haiku Day: Chosen for a Japanese pun on the date.<n>Proposed by Masaoka Shiki scholar Nenten Tsubouchi and others.<n>- Motorcycle Day: Established by the Management and Coordination Agency's traffic safety headquarters.<n>- Police ID Issuance Day: On this date in 1874,<n>police officers were issued police identification booklets.
+EN: - Haiku Day: A date pun proposed by Shiki scholar Nenten Tsubouchi and others.\n- Motorcycle Day: Set by Japan's government traffic safety office.\n- Police ID Day: Officers received police ID booklets in 1874.
 
 @#19
 JP: ■蚊の日：１８９７年、ハマダラカ類の蚊か<n>らマラリアの原虫を発見したのにちなんで、<n>イギリスで制定。<n>■交通信号の日：１９３１年、東京の銀座や<n>京橋などに赤・黄・青の交通信号機が設置。<n>■ＮＨＫ創立記念日：１９２６年、社団法人<n>日本放送協会（ＮＨＫ）が設立された。<n>■定家忌：歌人、藤原定家の忌日。
-EN: - Mosquito Day: Established in Britain to commemorate<n>the discovery of malaria parasites in Anopheles mosquitoes<n>in 1897.<n>- Traffic Signal Day: In 1931, red, yellow and green traffic lights<n>were installed in Tokyo's Ginza, Kyobashi and other areas.<n>- NHK Founding Anniversary: In 1926,<n>the Japan Broadcasting Corporation, NHK, was established.<n>- Teika Memorial Day: Marks the death of poet Fujiwara no Teika.
+EN: - Mosquito Day: Britain marks the 1897 discovery of malaria parasites in Anopheles mosquitoes.\n- Traffic Light Day: Lights installed in Tokyo's Ginza and Kyobashi, 1931.\n- NHK Day: Broadcaster founded in 1926.\n- Teika Memorial: Poet Fujiwara no Teika's death anniversary.
 
 @#20
 JP: ■噴水の日：１８７７年、東京の上野公園に<n>日本初の西洋式の噴水が設置。<n>■献血記念日：１９６４年、それまでの売血<n>制度が廃止され、献血の推進が閣議決定され<n>たことを記念して制定。
@@ -96,7 +96,7 @@ EN: - International Day for the Remembrance of the Slave Trade and its Abolition
 
 @#23
 JP: ■ラグビー発祥の日：１８２３年、イングラ<n>ンドのパブリックスクール、ラグビー校で、<n>サッカーの試合中に生徒がボールを手で扱っ<n>たことから、ラグビーが生まれた。<n>■ポンペイ最後の日：７９年、イタリアのヴ<n>ェスビアス火山が突然噴火、麓のポンペイの<n>市街が火山灰により埋没。
-EN: - Birth of Rugby Day: In 1823, at Rugby School,<n>a public school in England, a student picked up the ball<n>during a soccer match.<n>This gave birth to the sport of rugby.<n>- Last Day of Pompeii: In AD 79, Mount Vesuvius in Italy<n>suddenly erupted, burying the city of Pompeii<n>at its foot under volcanic ash.
+EN: - Rugby's Birthday: In 1823, a pupil at England's Rugby School picked up the ball in a soccer match, creating rugby.\n- Pompeii's Last Day: In AD 79, Italy's Mount Vesuvius erupted, burying Pompeii in ash.
 
 @#24
 JP: ■即席ラーメン記念日：１９５８年、日清食<n>品が世界初の即席ラーメン「チキンラーメン」<n>を発売。<n>■サマークリスマス：ＴＢＳの林美雄アナウ<n>ンサーがラジオ番組の中で、「夏にもクリス<n>マスのようなイベントを作ろう」と始めた。
@@ -104,23 +104,23 @@ EN: - Instant Ramen Anniversary: In 1958, Nissin Foods released<n>"Chicken Ramen
 
 @#25
 JP: ■人権宣言記念日：１７８９年、フランスの<n>国民会議が「人権および市民権の宣言」を採<n>択した。<n>■シルマンデー、ユースホステルの日：ユー<n>スホステルの創始者シルマンを記念。<n>■レインボーブリッジの日：１９９３年、レ<n>インボーブリッジが開通。
-EN: - Declaration of the Rights of Man Anniversary: In 1789,<n>France's National Assembly adopted the Declaration<n>of the Rights of Man and of the Citizen.<n>- Schirrmann Day / Youth Hostel Day:<n>Honors Schirrmann, founder of the youth hostel movement.<n>- Rainbow Bridge Day: In 1993,<n>Rainbow Bridge opened to traffic.
+EN: - Human Rights Declaration Day: France's National Assembly adopted the Rights of Man and Citizen declaration in 1789.\n- Schirrmann / Youth Hostel Day: Honors the youth hostel founder.\n- Rainbow Bridge Day: The bridge opened in 1993.
 
 @#26
 JP: ■寅さんの日：１９６９年、山田洋次監督、<n>渥美清主演の映画「男はつらいよ」シリーズ<n>の第一弾が公開。<n>■日本に原子の火がともった日：１９５７年、<n>８月２７日午前２時２３分に茨城県東海村の<n>日本原子力研究所で臨界実験に成功した。
-EN: * Tora-san Day: In 1969, the first film in the<n>"It's Tough Being a Man" series, directed by Yoji Yamada<n>and starring Kiyoshi Atsumi, was released.<n>* Japan's First Nuclear Reaction Day: In 1957,<n>on August 27 at 2:23 a.m., a criticality experiment succeeded<n>at the Japan Atomic Energy Research Institute in Tokai, Ibaraki.
+EN: - Tora-san Day: Yoji Yamada's first "It's Tough Being a Man" film, starring Kiyoshi Atsumi, opened in 1969.\n- Japan's Nuclear Dawn: First criticality at the Japan Atomic Energy Research Institute, Tokai, Ibaraki: Aug. 27, 1957, 2:23 a.m.
 
 @#27
 JP: ■気象予報士の日：１９９４年、第一回目の<n>気象予報士国家試験が行われた。<n>■民法テレビスタートの日：１９５３年、日<n>本テレビが民間放送として国内で初のテレビ<n>放送を開始した。<n>■バイオリンの日：１８８０年、東京、深川<n>の楽器職人、松永定次郎氏によって国産第一<n>号のバイオリンが創られたことを記念して。
-EN: * Weather Forecasters' Day: In 1994, Japan held its first<n>national certification exam for weather forecasters.<n>* Commercial Television Day: In 1953,<n>Nippon Television began Japan's first<n>commercial television broadcasts.<n>* Violin Day: Commemorates Japan's first domestically made<n>violin, crafted in 1880 by Teijiro Matsunaga,<n>an instrument maker in Fukagawa, Tokyo.
+EN: - Forecasters' Day: Japan's first national exam, 1994.\n- Commercial TV Day: Nippon TV began Japan's first commercial TV service in 1953.\n- Violin Day: Teijiro Matsunaga made Japan's first violin in Fukagawa, Tokyo, in 1880.
 
 @#28
 JP: ■ベルばらの日：１９７４年、宝塚歌劇で初<n>めて「ベルサイユのばら」が上演された。<n>■ケーブルカーの日：１９１８年、大阪電気<n>軌道が日本初のケーブルカーを開業。 <n>■焼肉の日：数字の語呂合わせから。<n>■文化財保護法施行記念日：１９５０年、国<n>宝や重要文化財などを保護するため文化財保<n>護法が施行されたことを記念して翌年に制定。
-EN: * Rose of Versailles Day: In 1974, the Takarazuka Revue<n>staged "The Rose of Versailles" for the first time.<n>* Cable Car Day: In 1918, Osaka Electric Tramway<n>opened Japan's first cable car line.<n>* Yakiniku Day: The date's numbers sound like "yakiniku," or grilled meat.<n>* Cultural Properties Protection Act Day: Established in 1951<n>to mark the law's enactment in 1950, protecting national treasures<n>and other important cultural properties.
+EN: - Rose of Versailles Day: Takarazuka's first staging, 1974.\n- Cable Car Day: Osaka Electric Tramway opened Japan's first, 1918.\n- Yakiniku Day: A date pun: grilled meat.\n- Cultural Property Law Day: Set in 1951 to mark the 1950 law protecting national treasures.
 
 @#29
 JP: ■富士山測候所記念日：１８９５年、富士山<n>頂に野中測候所が開設した。<n>■冒険家の日：１９７０年に植村直巳がマッ<n>キンリーに単独登頂など、数々の冒険家がい<n>ろいろな挑戦に成功した日。<n>■マッカーサー進駐記念日：１９４５年、連<n>合国日本占領軍最高司令官、ダグラス・マッ<n>カーサー元帥が厚木飛行場に到着。
-EN: * Mount Fuji Weather Station Day: In 1895,<n>Nonaka Weather Station opened on Mount Fuji's summit.<n>* Adventurers' Day: A day when many adventurers achieved<n>remarkable feats, including Naomi Uemura's solo ascent<n>of Mount McKinley in 1970.<n>* MacArthur's Arrival Day: In 1945, General of the Army<n>Douglas MacArthur, Supreme Commander of the Allied occupation<n>forces in Japan, arrived at Atsugi Airfield.
+EN: - Mt. Fuji Weather Station Day: Nonaka's summit station opened in 1895.\n- Adventurers' Day: Marks feats like Naomi Uemura's 1970 solo climb of McKinley.\n- MacArthur Arrival Day: Allied occupation commander Douglas MacArthur reached Atsugi Airfield in 1945.
 
 @#30
 JP: ■天長節：大正天皇の誕生日。１９１４年以<n>降は「天長節祝日」で大正天皇の誕生日を祝<n>うように。<n>■野菜の日：１９８３年に、全国青果商業協<n>同組合連合会が制定。

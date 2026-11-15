@@ -156,7 +156,7 @@ EN: Chicken Hot Pot
 
 @15134 max=359
 JP: 自尊心が強いあなたは水炊きタイ<n>プです。たかが水炊きと言われる<n>ことを嫌い、鳥の質にこだわって<n>誰にも負けない味を出すことに熱<n>心です。勝ち気な性格はいいので<n>すが、アクが出過ぎるとせっかく<n>の鳥の味も台無しです。
-EN: You're a proud Chicken Hot Pot type.<n>Call it 'just chicken' at your peril!<n>You insist on the finest bird<n>and strive for unbeatable flavor.<n>A competitive streak is fine,<n>but let too much scum rise up<n>and you'll spoil even the best chicken.
+EN: You're a proud Chicken Hot Pot type. You insist on the finest bird and unbeatable flavor. A fighting spirit is fine, but too much ego can spoil the broth.
 
 @1529C max=359
 JP: チゲ鍋
@@ -164,7 +164,7 @@ EN: Jjigae Hot Pot
 
 @15404 max=359
 JP: 闘争心旺盛なあなたはチゲ鍋タイ<n>プです。見るからに辛そうな色合<n>いのわりには食べやすい。しかし、<n>やはり辛味があとから効いてくる、<n>ちょっ複雑な性格を持った野心家<n>です。仕事や勉強では一心に汗を<n>流せるがんばり屋さんです。
-EN: You're a fiery Jjigae Hot Pot type.<n>You look spicy, but seem quite mild...<n>until that heat kicks in later!<n>You're an ambitious soul<n>with a few surprising layers.<n>At work or school, you give it your all<n>and aren't afraid to break a sweat.
+EN: You're a fiery Jjigae Hot Pot type. You seem mild until the heat kicks in! Complex and ambitious, you're a hard worker who gives work or school your all.
 
 @1556C max=359
 JP: 石狩鍋
@@ -172,7 +172,7 @@ EN: Ishikari Hot Pot
 
 @156D4 max=359
 JP: 才能に恵まれたあなたは石狩鍋タ<n>イプです。大地と海の幸をふんだ<n>んに使った、鍋の開拓者です。あ<n>くせくせず、楽天的なキャラクタ<n>ーはまさに人徳。しかし、才能だ<n>けで労せずに成功してしまうこと<n>が落とし穴にもなりかねません。
-EN: You're a gifted Ishikari Hot Pot type.<n>A hot-pot pioneer, you draw on<n>the bounty of both land and sea.<n>Your easygoing optimism<n>is a charm all its own.<n>But success without effort can be a trap:<n>don't coast on talent alone!
+EN: You're a gifted Ishikari Hot Pot type, a pioneer mixing land and sea. Your relaxed optimism wins hearts, but easy success is a trap. Don't coast on talent!
 
 @1583C max=359
 JP: すき焼き
@@ -180,7 +180,7 @@ EN: Sukiyaki
 
 @159A4 max=359
 JP: 自信家のあなたはすき焼きタイプ<n>です。人もうらやむ才能と感受性<n>に恵まれたあなたはプライドも人<n>一倍。しかもそれが態度に出やす<n>いために、戦闘的なイメージすら<n>あります。おごりをなくせば一目<n>置かれるリーダーになれますよ。
-EN: You're a confident Sukiyaki type.<n>Your enviable talent and sensitivity<n>come with an extra helping of pride.<n>It shows so plainly in your attitude<n>that you can even seem combative.<n>Set that arrogance aside,<n>and you'll be a leader people respect.
+EN: You're a confident Sukiyaki type. Your enviable talent and sensitivity come with pride that can seem hostile. Set ego aside to become a respected leader.
 
 @15B0C max=359
 JP: しゃぶしゃぶ
@@ -188,7 +188,7 @@ EN: Shabu-shabu
 
 @15C74 max=359
 JP: 気前のいいあなたはしゃぶしゃぶ<n>タイプです。コツコツとためるこ<n>となくお金をひきよせる才能に恵<n>まれますが、惜しげもなく使って<n>しまいます。その様子は、まさに<n>しゃぶしゃぶ。宵越しの金は持た<n>ず、ゆで過ぎの肉も食いません。
-EN: You're a generous Shabu-shabu type.<n>You have a gift for attracting money<n>without scrimping and saving,<n>but you spend it just as freely.<n>That's shabu-shabu style:<n>no cash left over till morning,<n>and no meat left boiling too long!
+EN: You're a generous Shabu-shabu type. Money comes easily, and you spend it just as fast! No cash left by morning, no meat left cooking too long. That's your style!
 
 @15DDC max=359
 JP: 寄せ鍋
@@ -196,7 +196,7 @@ EN: Mixed Hot Pot
 
 @15F44 max=359
 JP: 信用の厚いあなたは寄せ鍋タイプ<n>です。個性的ではありませんが、<n>そのぶん失敗もないので安心です。<n>ぜいたくさもありませんが、ダシ<n>の味には信頼感があります。何よ<n>りも、面白みよりも堅実さが持ち<n>味だと自負するタイプです。
-EN: You're a dependable Mixed Hot Pot type.<n>You may not stand out from the crowd,<n>but you rarely go wrong, either.<n>Nothing fancy, just a broth<n>whose flavor people can count on.<n>You take pride in being steady<n>more than in being entertaining.
+EN: You're a trusted Mixed Hot Pot type. Nothing flashy or fancy, just a reliable broth that never lets anyone down. You pride yourself on being steady over being fun.
 
 @160AC max=359
 JP: 闇鍋
@@ -204,7 +204,7 @@ EN: Mystery Hot Pot
 
 @16214 max=359
 JP: 変わり者のあなたは闇鍋タイプで<n>す。思い切った発想力と大胆な行<n>動力で、思いもよらぬことをしで<n>かします。それが意外な成果をあ<n>げることもあるのであなどれませ<n>ん。短気で強引な性格が悪く出る<n>と、かなり暴力的で危険です。
-EN: You're an eccentric Mystery Hot Pot type.<n>With daring ideas and bold action,<n>you're always doing the unexpected.<n>Sometimes it brings surprising success,<n>so nobody should count you out.<n>But when your temper and pushiness flare,<n>you can turn dangerously violent.
+EN: You're an oddball Mystery Hot Pot type. Bold ideas and daring deeds bring surprising success. But let your temper and pushiness boil over, and you can turn violent.
 
 @1637C max=359
 JP: ふぐちり
@@ -212,7 +212,7 @@ EN: Pufferfish Hot Pot
 
 @164E4 max=359
 JP: 地位や名声に恵まれたあなたはふ<n>ぐちりタイプです。鍋を中心とし<n>てふぐ刺しからヒレ酒まで、トー<n>タルでその才知をよりよく発揮で<n>き、バランス感覚にも富んでいま<n>す。普段は品行方正ですが、踏み<n>外すと大変危険な性格です。
-EN: You're a prestigious Pufferfish Hot Pot type.<n>From sashimi to sake with grilled fins,<n>you shine across the whole menu,<n>with hot pot at its heart.<n>You're clever and well balanced, too.<n>Usually a model of good behavior,<n>you're dangerous if you go astray.
+EN: You're a prestigious Pufferfish Hot Pot type. From sashimi to fin sake, your talents shine. Clever and balanced, you're usually proper, but dangerous if you go astray.
 
 @1664C max=359
 JP: チーズフォンデュ
@@ -220,7 +220,7 @@ EN: Cheese Fondue
 
 @167B4 max=359
 JP: 型破りなあなたはチーズフォンデ<n>ュタイプです。鍋と言えないこと<n>もないけれど、存在が個性的すぎ<n>て別格扱いされます。対人関係が<n>苦手なので、大人数ではかこまな<n>いのが身のため。また、自信過剰<n>になりすぎるとひからびます。
-EN: You're an unconventional Cheese Fondue type.<n>Technically, you could count as a hot pot,<n>but you're so unique you stand apart.<n>Socializing isn't your strong suit,<n>so keep the crowd around your pot small.<n>And don't get too full of yourself,<n>or you'll end up all dried out!
+EN: You're a quirky Cheese Fondue type, a hot pot in a class of its own. Socializing is tricky, so keep your crowd small. Get too full of yourself and you'll dry out!
 
 @1691C max=359
 JP: 湯豆腐
@@ -228,4 +228,4 @@ EN: Simmered Tofu
 
 @16A84 max=359
 JP: 穏やかでやさしいあなたは湯豆腐<n>タイプです。どんなパートナーと<n>つきあってもしっくりと調和でき<n>ますが、一人でもりりしく仕事の<n>できる聡明な人です。ごく単純な<n>ところもありますが、それもまた<n>広く愛されつづける理由です。
-EN: You're a gentle Simmered Tofu type.<n>You blend harmoniously with any partner,<n>yet you're bright and capable enough<n>to do a fine job all on your own.<n>You can be a little simple at times,<n>but that's part of why so many people<n>keep coming back for more.
+EN: You're a gentle Simmered Tofu type. You blend well with any partner, yet you're smart and capable on your own. Your simplicity is part of your lasting charm.

@@ -156,7 +156,7 @@ EN: Huff and Puff
 
 @15134 max=359
 JP: ヒーヒーです。精神的に息切れし<n>てしまっていませんか？自分に完<n>ぺきさを求めるあまり、周りの状<n>況がまったく目に入らなくなって、<n>気がつけば一人ぼっち。熱中する<n>のもいいけれど、たまには深呼吸<n>してみることも大切です。
-EN: You're Huff and Puff. Feeling<n>emotionally out of breath? You demand<n>such perfection of yourself that you<n>lose sight of everything around you.<n>Before you know it, you're all alone.<n>It's fine to get absorbed in things,<n>but remember to stop and take a breath.
+EN: You're Huff and Puff. Chasing perfection can leave you too drained to notice others, until you're all alone. It's fine to be absorbed, but pause and take a deep breath.
 
 @1529C max=359
 JP: グズグズ
@@ -164,7 +164,7 @@ EN: Dilly-Dally
 
 @15404 max=359
 JP: グズグズです。いちいち考えすぎ<n>ちゃってはいませんか？慎重にな<n>るのはいいことですが、人の意見<n>や世間の常識に振り回されすぎ。<n>その間にチャンスは去ってしまっ<n>てます。悩んだら、まず自分はど<n>うしたいのか再確認しましょう。
-EN: You're Dilly-Dally. Do you overthink<n>every little thing? Being careful is<n>good, but you let others' opinions<n>and conventional wisdom push you around.<n>Meanwhile, your chance slips away.<n>When you're torn, ask yourself again:<n>what do YOU want to do?
+EN: You're Dilly-Dally. Overthinking? Caution is wise, but following others' views can cost you chances. When in doubt, ask yourself what YOU really want.
 
 @1556C max=359
 JP: ギスギス
@@ -172,7 +172,7 @@ EN: Prickle Prickle
 
 @156D4 max=359
 JP: ギスギスです。自分の気持ちばか<n>りを人に押しつけすぎて、周囲と<n>の関係がうまくいかなくなってま<n>せんか？尻込みしない積極性は大<n>切ですが、思い通りにいかないか<n>らとキレたりしていると、孤立す<n>ることにもなりかねません。
-EN: You're Prickle Prickle. Are you pushing<n>your feelings onto others so much that<n>your relationships are suffering?<n>It's good to take the initiative<n>without shrinking back. But if you<n>snap whenever things don't go your way,<n>you could end up all alone.
+EN: You're Prickle Prickle. Pushing your feelings on others can strain ties. Being bold is good, but snapping when things go wrong may leave you all alone.
 
 @1583C max=359
 JP: レロレロ
@@ -180,7 +180,7 @@ EN: Blah Blah
 
 @159A4 max=359
 JP: レロレロです。あなたのユニーク<n>さは魅力だけれど、何を言ってる<n>のか誰も理解してくれてないので<n>は？そこが神秘的だと好意を持っ<n>てくれる人もいますが、もっと考<n>えを伝える努力をすれば世界はさ<n>らに豊かに広がりますよ。
-EN: You're Blah Blah. Your quirky side<n>is charming, but does anyone actually<n>understand what you're saying?<n>Some people find that air of mystery<n>appealing. Still, make a little more<n>effort to get your ideas across,<n>and a richer, wider world awaits!
+EN: You're Blah Blah. Your quirks are charming, but do people understand you? Mystery has its fans, yet sharing your ideas more clearly will open up your world.
 
 @15B0C max=359
 JP: ズブズブ
@@ -188,7 +188,7 @@ EN: Squelch Squelch
 
 @15C74 max=359
 JP: ズブズブです。泥にはまるとぬけ<n>られないタイプじゃないですか？<n>いつもは自信に満ちてるけど、い<n>ざトラブルに巻き込まれるとなる<n>と案外と打たれ弱くてヤケになっ<n>ちゃう。そんなときこそ、いつも<n>の前向きさを発揮しましょうよ。
-EN: You're Squelch Squelch. Once you're<n>stuck in the mud, do you struggle<n>to get out? You're usually confident,<n>but when trouble hits, you're more<n>fragile than you seem and may give in<n>to despair. That's exactly when you<n>need your usual positive attitude!
+EN: You're Squelch Squelch. Usually confident, you can get stuck in despair when trouble hits. That's when you need to bring out your usual positive outlook!
 
 @15DDC max=359
 JP: バンバン
@@ -196,7 +196,7 @@ EN: Bang Bang
 
 @15F44 max=359
 JP: バンバンです。なんでも手に入れ<n>ないと気がすまないのではありま<n>せんか？華やかさはあなたの魅力<n>ですが、実はとってもナイーブな<n>ので、身のほどをこえた出費はス<n>トレスになるだけだといいかげん<n>学習して、堅実に。
-EN: You're Bang Bang. Do you have to buy<n>everything that catches your eye?<n>Your flair is part of your charm,<n>but deep down, you're very sensitive.<n>It's time you learned that spending<n>beyond your means only brings stress.<n>Keep your feet on the ground!
+EN: You're Bang Bang. Must you buy it all? Your flair is charming, but you're sensitive inside. Spending beyond your means only brings stress. Be sensible.
 
 @160AC max=359
 JP: ズンズン
@@ -204,4 +204,4 @@ EN: Stomp Stomp
 
 @16214 max=359
 JP: ズンズンです。周りの人に対して<n>自分から一方的になりすぎてませ<n>んか？面倒見のよさが過ぎると、<n>仕切りすぎてみんなを窮屈にさせ<n>てしまうこともあるので気をつけ<n>ましょう。さみしがり屋のあなた<n>をたまには人に見せてみて。
-EN: You're Stomp Stomp. Do you make all<n>the decisions without asking anyone?<n>Looking after people is lovely, but<n>too much can turn into bossing them<n>around and leave everyone feeling boxed<n>in. Let them see the side of you that<n>gets lonely sometimes, too.
+EN: You're Stomp Stomp. Caring can turn bossy if you make all the decisions. Give others room to breathe, and let them see that you get lonely sometimes, too.

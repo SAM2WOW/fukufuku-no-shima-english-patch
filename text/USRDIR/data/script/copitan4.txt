@@ -232,7 +232,7 @@ EN: Happy news is on its way!<n>If you hear about an interesting job,<n>a good s
 
 @18F14 max=359
 JP: 異動や引越しで親しい人が離れていくかもし<n>れません。大事な物もなくしそう。今日は変<n>化の日です。騒がず、流れに身をまかせまし<n>ょう。新しい出会いもすぐそこに来ています。
-EN: Someone close may move away or transfer<n>to another workplace. You might lose<n>something precious, too. Today brings change.<n>Don't make a fuss. Go with the flow! New friendships are just around the corner.
+EN: Someone close may move away. You may lose a prized item, too. Today brings change. Don't fuss; go with the flow! New friends are just ahead.
 
 @1907C max=359
 JP: 焦ってはいけません。あわててやったことは、<n>結局、時間とお金のムダ遣いになってしまい<n>ます。周りの人々の動きが激しくても、それ<n>につられることなく自分で予定していたこと<n>だけをこなしましょう。「人は人、自分は自<n>分」です。
@@ -240,7 +240,7 @@ EN: Don't rush! Anything done in haste<n>will only waste your time and money.<n>
 
 @191E4 max=359
 JP: 初対面の異性が楽しいことを教えてくれそう<n>な暗示です。人の話はよく聞いて、質問した<n>り上手にあいづちを打って吉。ただし、見た<n>目のいい人にポーッとなるのではなく、その<n>隣にいる堅そうな人のほうがよさそうです。<n>あまり周りにいないタイプの人でも人見知り<n>しない方が吉。
-EN: Someone of the opposite sex you've just<n>met may introduce you to something fun.<n>Listen well, ask questions and show interest!<n>Don't get dazzled by the good-looking one.<n>The serious type beside them is a better bet.<n>Even if they're unlike anyone you know,<n>don't be shy. Get acquainted!
+EN: Someone of the opposite sex you've just met may show you some fun. Listen well and ask questions! Skip the pretty face; try the serious one beside them. Don't be shy just because they're unlike anyone you know.
 
 @1934C max=359
 JP: 理想論を振りかざしたくなっても、今日はや<n>めておきましょう。「自分はどうなの？」と<n>突っ込まれたり、周りの人たちからの信頼度<n>が下がったりというはめになりそうです。具<n>体的な方法を挙げるとか、黙って行動で示す<n>方がよさそうです。
@@ -252,7 +252,7 @@ EN: Today's perfect for fun in a big group!<n>Get the boys and girls together fo
 
 @1961C max=359
 JP: 家族とギクシャクしそうです。自分で勝手に<n>解釈し、決めつけていることがあるのでは？<n>家族だからとなれあいにならず、不満はちゃ<n>んと伝え、理由を聞きましょう。思っていた<n>こととまるで違う結論が出るかもしれません<n>よ。今夜は早めの就寝を。今日からの睡眠不<n>足は明日に大きく影響します。
-EN: Things may get tense with your family.<n>Are you jumping to conclusions?<n>Don't take them for granted. Say what's<n>bothering you and hear their reasons.<n>The truth may be nothing like you imagined!<n>Get to bed early tonight, too.<n>Losing sleep now will really affect you tomorrow.
+EN: Family friction is brewing. Jumping to conclusions, are you? Don't take family for granted. Explain your complaints and hear their reasons. The truth may surprise you! Turn in early; lost sleep will hit hard tomorrow.
 
 @19784 max=359
 JP: チャレンジ精神がかき立てられそうな日です。<n>仕事や研究への挑戦ならだれも文句を言わな<n>いばかりか、応援も得られるでしょう。ただ<n>し、異性に対する挑戦は、面白くない気持ち<n>で見ている人がいそうです。むやみに周囲を<n>挑発しないことです。
@@ -320,7 +320,7 @@ EN: Losing interest a little too easily?<n>If you've already slacked off on some
 
 @1AE04 max=359
 JP: ちょっとしたことで、あなたの評判が上がる<n>日です。掃除をしたり、用具を揃えたりと、<n>気が利くところを見せましょう。先輩を持ち<n>上げるのも効果的。苦労話を聞いて感心する<n>と、おごってもらえたりと、得することもあ<n>りそうです。
-EN: Little gestures can boost your reputation today.<n>Show your thoughtfulness by tidying up<n>or getting supplies ready.<n>A little flattery for your seniors works, too.<n>Listen admiringly to tales of their struggles,<n>and they may even treat you to something!
+EN: Small favors boost your reputation today. Tidy up or get supplies ready to show you care. A little flattery for your seniors helps, too. Listen admiringly to their tales of hardship, and they might even treat you!
 
 @1AF6C max=359
 JP: 人から褒められることがありそうです。立場<n>が一段上がる、力を認められるといったうれ<n>しい日です。欲のない態度でいると、ますま<n>す人気が上がるでしょう。ただし、ウワサ話<n>は聞いているだけにするのが無難。「そうい<n>えば……」なんて話を膨らませると、イメー<n>ジダウンは確実です。
@@ -336,7 +336,7 @@ EN: Feeling timid?<n>You need a bold attitude today.<n>Look clean and neat to he
 
 @1B3A4 max=359
 JP: 友達との話がエスカレートしがちな日です。<n>その場にいない人の悪口を言えば止まらなく<n>なり、最悪の事態になるかもしれません。中<n>座するなど、意識してムードを変える工夫を。<n>特に、まだあまり親しくない人には要注意。<n>誤解されて、驚くようなことを言われる恐れ<n>もあります。
-EN: Chats with friends could get carried away today.<n>Start badmouthing someone who isn't there,<n>and you may not stop until real damage is done.<n>Try stepping away to change the mood.<n>Be especially careful around people<n>you don't know well yet.<n>They may misread you and say something shocking.
+EN: Chats with friends could get out of hand. Gossip about someone who's absent may snowball into real trouble! Step away to change the mood. Take care with new acquaintances; they may misread you and say something shocking.
 
 @1B50C max=359
 JP: 異性問題、特にお金が絡むトラブルが近づい<n>ている暗示です。つい本音が出て相手を怒ら<n>せてしまい、出してくれるはずのお金をふい<n>にしたり、よけいに費用がかかる結果になっ<n>たり。不誠実なことをしないように注意しま<n>しょう。
@@ -380,7 +380,7 @@ EN: Romance could be in the air.<n>If someone has caught your eye, arrange<n>som
 
 @1C31C max=359
 JP: ドキドキする出来事に遭遇する日です。何を<n>していても落ち着かないほど心を動かされる<n>かもしれません。たまには一日ぐらい浮かれ<n>ていてもいいものです。ただし、それが三角<n>関係や不倫につながりそうな異性とのハプニ<n>ングなら、空想を楽しむ程度にしておいた方<n>が無難です。
-EN: Something could set your heart racing today.<n>You may be so stirred up that you can't<n>settle down, whatever you're doing.<n>A day with your head in the clouds won't hurt!<n>But if this romantic encounter could lead<n>to a love triangle or an affair,<n>you'd best keep it a pleasant fantasy.
+EN: Something may set your heart racing so much you can't settle down. A day with your head in the clouds won't hurt! But if romance could lead to a love triangle or an affair, you'd best keep it a pleasant fantasy.
 
 @1C484 max=359
 JP: 好きな異性を意識するあまり、無視するよう<n>な態度を取ってはダメです。照れて目をふせ<n>たら、「嫌がっている」とすっかり誤解され<n>そうです。目が合ったら、ほほえむこと。た<n>とえ、相手に不審がられても、です。今日は、<n>何か話そうと焦るよりも、ニコニコしていま<n>しょう。
@@ -388,7 +388,7 @@ EN: Don't get so shy around your crush<n>that you end up giving them the cold sh
 
 @1C5EC max=359
 JP: ボーッとして乗り過ごしてしまうなどのドジ<n>を踏みそうな日です。ムダなお金を使うハメ<n>になれば、自己嫌悪に陥るでしょう。特にお<n>金に関することには注意深くなりましょう。<n>悪友とのつきあいは、時間とお金の浪費です。<n>楽しくないのに惰性で遊ぶくらいなら、ひと<n>りでいた方がよさそうです。
-EN: You could make a silly blunder today,<n>like daydreaming past your stop.<n>Having to waste money on it will leave you<n>kicking yourself, so mind your money.<n>Bad company wastes both time and cash.<n>If you're only hanging out out of habit<n>and having no fun, enjoy your own company.
+EN: Daydreaming could make you miss your stop or cause another silly blunder. Wasting money will leave you kicking yourself, so mind your cash! Bad company wastes time and money. If it isn't fun, spend some time alone.
 
 @1C754 max=359
 JP: 好奇心のおもむくままに動いてください。気<n>になっていたなら、愛用のアイテムを競合メ<n>ーカーのものに取り替えるとか、いつもの店<n>とは違うところに行ってみると吉。違和感が<n>刺激になり、新しい発見もあります。ただし、<n>交際中の場合は浮気心が起こっても、行動に<n>移さないこと。
@@ -396,11 +396,11 @@ EN: Follow your curiosity today.<n>Try that rival brand you've been eyeing,<n>or
 
 @1C8BC max=359
 JP: 憧れの人と接近できそうです。実際に近づけ<n>ない場合でも、相手の人柄がわかる情報を得<n>るはず。「人生の師匠」と呼びたくなるよう<n>な感動があるかもしれません。「自分は同じ<n>ようにできない」なんてひねくれず、素直に<n>マネしましょう。それが自分を伸ばすヒケツ<n>です。
-EN: You could get closer to someone you admire.<n>Even if you don't meet, you may learn<n>something that reveals their character.<n>They might inspire you to call them your mentor!<n>Don't sulk and say, "I could never do that."<n>Take a leaf out of their book.<n>That's the secret to growing.
+EN: You may grow closer to someone you admire, or learn what they're really like. They could become a true mentor! Don't sulk and say, "I could never do that." Follow their example. That's how you'll grow!
 
 @1CA24 max=359
 JP: ガマンが大事な日です。自分のことは置いと<n>いて、人のために力を尽くしましょう。人助<n>けが結局、自分を助けることになるはずです。<n>仕事や活動に関しては、イージーミスに気を<n>つけて。うっかりして抜けていることはあり<n>ませんか？忘れている約束に気づいたら、す<n>ぐに連絡を。
-EN: Patience matters today.<n>Set your own concerns aside and do your best<n>for others. Helping them should end up<n>helping you, too. Watch for careless mistakes<n>in your work and other activities.<n>Have you overlooked anything? If you remember<n>a forgotten promise, get in touch right away.
+EN: Be patient today. Set your own needs aside and lend others a hand; it'll help you in the end, too. Watch for careless mistakes at work and elsewhere. Forgotten anything? If you've let a promise slip, get in touch at once!
 
 @1CB8C max=359
 JP: 雰囲気に流されてはダメです。今日のあなた<n>は決断のパワーがないので、人の言いなりに<n>なったり、体に無理を強いたりしそうです。<n>特に、よく知らない異性に深入りしないこと。<n>後悔のもとです。夜遊びや夜更かしをせず、<n>今夜は早く休みましょう。
@@ -416,19 +416,19 @@ EN: A friend's happy news may surprise you<n>and stir up a little envy.<n>But ch
 
 @1CFC4 max=359
 JP: 年上の人とうまくいかない日です。しかも、<n>複数の目上が、それぞれまったく違うことを<n>言うので、調整に手間取りそうです。混乱し<n>たら、いっときその場を離れましょう。時間<n>稼ぎが意外と効果的な日です。意地を張って、<n>心にもない返事をしないように注意を。
-EN: You may clash with older people today.<n>Several people above you could all be saying<n>different things, leaving you stuck in the middle.<n>If it gets confusing, step away for a while.<n>Buying time can work wonders today.<n>Don't stubbornly give an answer you don't mean.
+EN: Older people may be hard to please today, each telling you something different. Sorting it out could be tricky! If you're confused, step away. Buying time works wonders. Don't let pride make you say things you don't mean.
 
 @1D12C max=359
 JP: 素直な反応が幸運を呼ぶ日です。誘われたら<n>乗ってみて、褒められたら大げさなくらいに<n>うれしがってみましょう。好感度がアップし<n>ます。新しく勉強しなければならないテーマ<n>が浮上しそうな暗示もあります。面倒がらず<n>に調べてみると、興味深い世界が広がります。
-EN: An honest reaction brings good luck today.<n>Accept an invitation, and if someone praises you,<n>let your delight show! People will warm to you.<n>A new subject you need to study may come up, too.<n>Don't groan at the extra work. Look into it,<n>and a fascinating world could open up.
+EN: Let your feelings show today! Accept invitations and show your delight at praise. People will warm to you. A new subject may need studying, too. Don't groan about the work; look into it, and a fascinating world may open up.
 
 @1D294 max=359
 JP: 楽しみにしていたことは延期や中止になりそ<n>うです。あてにしていた知らせや、待ち合わ<n>せた人が来なかったりするかもしれません。<n>すぐに気持ちを切り替えないと、ほかのこと<n>まで滞ってしまいます。達成感を味わえそう<n>な単純作業を進めるといいでしょう。
-EN: Something you've looked forward to may be<n>postponed or canceled. The news you're expecting<n>or the person you're meeting might not arrive.<n>Move on quickly, or everything else<n>will grind to a halt, too. Tackle a simple task<n>that will give you a sense of accomplishment.
+EN: Plans you're excited about may fall through. News or someone you're waiting for may never arrive. Don't dwell on it, or other things will stall too. Tackle a simple job you can finish and feel good about!
 
 @1D3FC max=359
 JP: 忙しさから、何かと手抜きになりがちな日で<n>す。デスクや自室が乱雑になってはいません<n>か？手続きすべきことで放りっぱなしのもの<n>があるのなら、思い切って時間を取りましょ<n>う。後回しにするほど、面倒になってしまい<n>ます。創作意欲がわく日でもあるので、何か<n>手づくりするのはラッキーです。
-EN: You may be so busy that you start cutting corners.<n>Is your desk or room a mess?<n>If you've left any paperwork or errands undone,<n>set aside some time to deal with them.<n>The longer you wait, the bigger the headache.<n>Your creative urge is strong today, too.<n>Making something by hand will bring good luck.
+EN: Being busy is no excuse to cut corners! Is your room a mess? Got paperwork piling up? Make time for it now. Waiting only makes it worse. Your creative spark is strong, too. Making something by hand brings luck!
 
 @1D564 max=359
 JP: 言葉では言い表せないような不思議な体験を<n>しそうです。初めてのことにびっくりするか<n>もしれませんが、素直に受けとめましょう。<n>驚くくらいカンも冴えているので、理屈で考<n>えないで直感で決断を。迷っていてはチャン<n>スを逃してしまいます。
@@ -440,11 +440,11 @@ EN: A few things aren't going your way?<n>That's no reason to keep running from 
 
 @1D834 max=359
 JP: 自分のことばかり考えて、家族や友達の気持<n>ちを無視しがちではありませんか？気配りを<n>してもらって、とても嬉しかったことを思い<n>出してみてください。つまらないことで落ち<n>込んでいるヒマがあるなら、身近な人の助け<n>になることを、まずやりましょう。
-EN: Have you been so wrapped up in yourself<n>that you've ignored your family and friends?<n>Remember how happy you felt when someone<n>showed you a little kindness. If you've got time<n>to mope over little things, start by doing<n>something helpful for someone close to you.
+EN: Too caught up in yourself to notice how family and friends feel? Remember how good a little kindness made you feel. If you've got time to mope over trifles, you've got time to help someone close to you!
 
 @1D99C max=359
 JP: 門限に遅れたり、連絡しなかったりで家族に<n>いろいろと注意されるかもしれません。おま<n>けに、日ごろのことでひと悶着ある暗示も。<n>今後のことで意見されたとしても、できるだ<n>け素直な気持ちで聞きましょう。あなたを思<n>っての苦言ですよ。
-EN: Your family may scold you for coming home late<n>or failing to let them know where you are.<n>Everyday grievances could spark a squabble, too.<n>Even if they start telling you how to plan<n>your future, try to listen with an open mind.<n>Those stern words come from caring about you.
+EN: Your family may scold you for staying out late or failing to call. Old gripes could cause a row, too. If they offer advice about your future, keep an open mind. Those stern words mean they care about you.
 
 @1DB04 max=359
 JP: 久しぶりに心のふれあいを感じる日になりそ<n>うです。友達や家族の優しい気配りに、感謝<n>せずにはいられないでしょう。変に照れたり<n>しないで、素直に喜びを表現してください。<n>また、何か自分の記念になるものを買って、<n>大切にしまっておくと幸運を呼び込めます。
@@ -484,7 +484,7 @@ EN: Other people's drama could make this<n>a restless day. You may well wonder,<
 
 @1E7AC max=359
 JP: 朝起きてから夜寝るまで、ツキまくる一日の<n>ようです。嬉しい知らせや、待ち望んでいた<n>ことが次々と舞い込んできて、思わずほっぺ<n>たをつねりたくなる気分でしょう。思いがけ<n>ないプレゼントなどもらって、怖いくらいに<n>感じるかもしれません。今日はたっぷり幸福<n>感を味わいましょう。
-EN: Luck is on your side from the moment<n>you wake until your head hits the pillow!<n>Good news and things you've long wished for<n>will arrive one after another. Pinch yourself!<n>An unexpected gift might even make you<n>wonder if all this luck is too good to be true.<n>Today, enjoy every happy moment!
+EN: Luck's with you from morning till night! Good news and long-awaited wishes will have you pinching yourself. An unexpected gift may even make all this luck seem too good to be true. Enjoy every happy moment!
 
 @1E914 max=359
 JP: 気になっている異性の新情報が舞い込んでく<n>る日です。良い評判ばかりじゃないので、ち<n>ょっと混乱してしまうかもしれませんが、結<n>局は、自分の判断を求められるということで<n>す。この機会に、いろいろな見方があること<n>を勉強しましょう。
@@ -500,7 +500,7 @@ EN: Your concentration is likely to wander today.<n>You may make one little mist
 
 @1ED4C max=359
 JP: 気力も体力も充実の日です。ふだんなら尻込<n>みしそうなことも、今日なら何とかなりそう<n>です。思いきって挑戦してみるのがいいでし<n>ょう。うまくいけば自信につながり、今後に<n>役に立つことになるはずです。たとえうまく<n>いかなくても、気持ちが充実して心穏やかに<n>なれます。
-EN: You're full of energy in body and spirit!<n>Today, even something you'd usually shy away<n>from may be within reach. Take the plunge!<n>Success will build confidence you can draw on<n>in the future. And even if it doesn't work out,<n>the satisfaction of trying will leave you<n>feeling fulfilled and at peace.
+EN: You've got energy to spare today! Try something you'd usually shy away from. Success will give you confidence for the future. Even if it doesn't work out, giving it a go will leave you fulfilled and at peace.
 
 @1EEB4 max=359
 JP: 自分に関係ないことで、ちょっとしたトラブ<n>ルに巻き込まれてしまうかもしれません。不<n>本意でしょうが、流れに身を任せてやりすご<n>すことです。強引に解決しようとすると、か<n>えっておかしくなります。静観していれば、<n>すぐに何もなかったように落ち着くはずです。
@@ -552,7 +552,7 @@ EN: You're in for a cheerful day!<n>Get moving if you can. How about inviting<n>
 
 @1FF94 max=359
 JP: たまたま会った人が、自分より経験豊富なこ<n>とを思い知らされて落ち込む暗示です。だか<n>らといって、人と比べて、ねたんだり、自分<n>をさげすんだりするのはやめましょう。上を<n>見ても、下を見てもキリはありません。異性<n>とは、子供のころの話をすると楽しく過ごせ<n>るでしょう。
-EN: A chance meeting may leave you feeling down<n>when you see how much more experience<n>the other person has. Don't get jealous<n>or put yourself down! There's no end to<n>comparing yourself with those above or below you.<n>With someone you're attracted to, childhood<n>stories should make for a lovely chat.
+EN: Meeting someone more experienced may get you down. Don't turn jealous or belittle yourself! Comparing never ends. For a fun chat with someone of the opposite sex, try swapping childhood stories.
 
 @200FC max=359
 JP: 意外な人からプレゼントが届いたり、食事に<n>誘われたりしそうです。理由がわからず、不<n>審に思うかもしれませんが、とりあえず受け<n>て吉。情報収集して真意を確かめましょう。<n>意外なところで好評価を受けていることがわ<n>かったりするかもしれません。
@@ -572,7 +572,7 @@ EN: Today, you'll realize what good people<n>you have around you. Their help at 
 
 @2069C max=359
 JP: 腐れ縁の人と区切りをつけられそうです。特<n>に家族や友達に前から反対されていた異性に<n>は、ハッキリした態度を取ってください。わ<n>だかまりを捨てて、すっきりしてしまうこと<n>が重要です。むしろ、新たな出会いに期待し<n>たほうが展望は明るいでしょう。
-EN: You may finally break free of a relationship<n>that's dragged on too long. Be especially firm<n>with a romantic partner your family or friends<n>have long disapproved of. Let go of lingering<n>resentment and make a clean break.<n>Your future looks brighter with new encounters!
+EN: You can finally end a stale relationship. Be firm with a partner your family and friends have long objected to. Let go of old grudges and make a clean break. Looking forward to new encounters will brighten your future!
 
 @20804 max=359
 JP: 何をやってもうまくいかず、落ち込みそうな<n>暗示があります。誰かに迷惑をかけているの<n>ならともかく、自分のことだけであれば、こ<n>んな日もあるさ、くらいに考えてやりすごす<n>ことです。今夜は早めに休んで、リフレッシ<n>ュしましょう。
@@ -580,7 +580,7 @@ EN: Nothing may go right today, leaving you<n>feeling low. If someone else is su
 
 @2096C max=359
 JP: 今日はお金の出入りが激しくなりそうです。<n>それも、まとまった金額が動くかもしれない<n>ので、慎重に行動してください。貸し借りは<n>避けたほうが賢明です。また、一瞬期待を持<n>った事柄が、ぬか喜びに終わってしまいそう<n>な気配です。その場合はさっさとあきらめま<n>しょう。
-EN: Money may come and go rapidly today,<n>possibly in large sums, so tread carefully.<n>You'd be wise to avoid borrowing or lending.<n>Something that briefly raises your hopes<n>may also turn out to be a false alarm.<n>If that happens, let it go<n>and move on without dwelling on it.
+EN: Money may come and go in large sums today, so be careful! Avoid borrowing or lending. Something that raises your hopes may turn out to be a letdown, too. If it does, let it go and move on.
 
 @20AD4 max=359
 JP: おいしい話には落とし穴があるということを、<n>身をもって経験しそうです。裏のある誘いに<n>うっかり乗らないように用心しましょう。契<n>約や約束事は、細部まで確認してください。<n>ウワサ話にもほんろうされそうです。くれぐ<n>れも慎重な行動を。
@@ -588,7 +588,7 @@ EN: You may learn the hard way that a tempting offer comes with a catch. Don't g
 
 @20C3C max=359
 JP: 自分の思うようにいかなくて、ずっとスッキ<n>リしなかったことがありますか？その問題は、<n>今日をきっかけに、まるで霧が晴れるように<n>うまく進展していくでしょう。大切な人との<n>誤解が解けたり、夢に向かって一歩踏み出す<n>ことができたりして、希望がわいてくるはず<n>です。おめでとう。
-EN: Has something been nagging at you because it just won't go your way? Starting today, the fog should lift and things will move along nicely. You may clear up a misunderstanding with someone dear or take a step toward your dream. Whatever happens, you'll have hope in your heart again. Good for you!
+EN: Has something refused to go your way? Today, the fog should lift! You may clear up a misunderstanding with someone dear or take a step toward your dream. Hope is on its way back. Good for you!
 
 @20DA4 max=359
 JP: 大切な人との間で、ささいなことから誤解が<n>生まれてしまう恐れがあります。放っておけ<n>ば縁は切れます。今後もつきあっていきたい<n>と願う相手なら、誠意を込めて修復に全力を<n>つくしましょう。ちゅうちょしている時間は<n>ありません。
@@ -604,7 +604,7 @@ EN: You could land yourself in a pickle today by agreeing too readily to help a 
 
 @211DC max=359
 JP: 予想や期待があなたの思惑とは大きく違って<n>しまい、がっかりしそうです。世の中はそう<n>そううまくはいかないものです。あっさりあ<n>きらめるのも道のひとつと考えましょう。今<n>日は気持ちを平静に保つことがなによりも大<n>切です。イライラやゴリ押しは、解決には結<n>びつきませんよ。
-EN: Things may turn out very differently from what you hoped or expected, leaving you disappointed. The world doesn't always play along! Sometimes, letting go is a perfectly good choice. Above all, keep your cool today. Getting worked up or trying to force things won't solve a thing.
+EN: Things may turn out far from what you hoped, leaving you disappointed. That's life! Letting go is an option, too. Keep your cool today. Getting worked up or forcing your way won't solve anything.
 
 @21344 max=359
 JP: 予想していなかったハプニングが起きて、大<n>切なものを手放すことになるかもしれません。<n>または、親しい人と一時的に距離ができてし<n>まうのかもしれません。急なことなのでショ<n>ックでしょうが、希望を捨ててはダメです。<n>この試練はきっと乗り越えられます。
@@ -620,4 +620,4 @@ EN: A mix of circumstances may separate you from someone close, or let someone y
 
 @2177C max=359
 JP: あなたの周りで、結婚や転職や転居といった<n>話題が次々と起き、何となくせわしない感じ<n>です。でも、決して惑わされたりしないで、<n>自分のペースを守りましょう。それぞれに事<n>情が違うのですから、いちいち比べて落ち込<n>んでいてもしょうがありませんよ。
-EN: People around you seem to be getting married, changing jobs or moving house one after another. It's enough to make your head spin! Don't let it throw you. Keep your own pace. Everyone's circumstances are different, so there's no sense getting yourself down over every comparison.
+EN: Weddings, new jobs, moves... All the news from people around you may leave you feeling rushed! Keep your own pace. Everyone's circumstances are different, so don't get yourself down by comparing.

@@ -156,7 +156,7 @@ EN: Boys' Festival
 
 @15134 max=359
 JP: あなたは端午の節句です。とにか<n>く負けずキライで、お隣さんより<n>ももっと大きい鯉のぼりを、あの<n>子のうちのより立派な五月人形を<n>と、人と比べては勝ちたいと願い<n>ます。自己主張が強すぎて敵をつ<n>くりやすいので気をつけて。
-EN: You're the Boys' Festival type.<n>You hate losing! You want bigger carp<n>streamers than the neighbors' and<n>grander warrior dolls than your<n>friends'. You compare yourself to<n>others and always want to win.<n>Careful! Being too pushy makes enemies.
+EN: You're the Boys' Festival type. You hate losing and want the finest carp flags and warrior dolls. Always comparing, you crave victory. Go easy: pushiness makes enemies.
 
 @1529C max=359
 JP: 酉の市
@@ -164,7 +164,7 @@ EN: Rooster Fair
 
 @15404 max=359
 JP: あなたは酉の市です。印象的には<n>穏やかで明るい人ですが、実はプ<n>ライドが高く、心の中には闘争心<n>や野心がたぎっています。毎年ひ<n>と回り大きな熊手飾りに買い替え<n>るあなた。そろそろ身の丈以上の<n>散財になってきてはいませんか？
-EN: You're the Rooster Fair type.<n>You seem calm and cheerful, but<n>you're proud, with ambition and a<n>fighting spirit burning inside.<n>You buy a bigger lucky rake each<n>year... but is all that spending<n>starting to stretch your budget?
+EN: You're the Rooster Fair type. Calm and cheerful outside, proud and ambitious inside! Each year, you buy a bigger lucky rake. Is your spending outgrowing your means?
 
 @1556C max=359
 JP: 土用の丑の日
@@ -172,7 +172,7 @@ EN: Summer Ox Day
 
 @156D4 max=359
 JP: あなたは土用の丑の日です。本人<n>は特に思い入れがあるわけでもな<n>いけれど、恩恵を受けてしまえる<n>恵まれた人です。特に食べ物には<n>苦労しません。ただし大きなチャ<n>ンスをつかむには受け身すぎて力<n>不足の一面もいなめません。
-EN: You're the Summer Ox Day type.<n>Good things fall into your lap,<n>even when you aren't that interested.<n>You'll never struggle to find a meal!<n>But when a big chance comes along,<n>you may be too passive to grab it<n>and lack the strength to pull it off.
+EN: You're the Summer Ox Day type. Good things fall into your lap, especially food, even without much interest or effort. But you may be too passive to seize a big chance.
 
 @1583C max=359
 JP: 羽子板市
@@ -180,7 +180,7 @@ EN: Decorative Paddle Fair
 
 @159A4 max=359
 JP: あなたは羽子板市です。感性豊か<n>で才能にあふれたあなたは、とも<n>すれば人を上から見下ろしがち。<n>実用性よりも感性に価値があるの<n>ですから、自信過剰になりすぎて<n>周囲から非難を受けるのは得策で<n>はありません。もっと謙虚に。
-EN: You're the Decorative Paddle Fair type.<n>Sensitive and brimming with talent,<n>you sometimes look down on others.<n>Your gift is artistic flair rather<n>than practicality. Getting cocky<n>will only earn you criticism.<n>A little humility goes a long way.
+EN: You're the Paddle Fair type. Artistic and talented, you can look down on others. Your gift is flair over function. Too much pride invites criticism. Stay humble.
 
 @15B0C max=359
 JP: 初詣
@@ -188,7 +188,7 @@ EN: First Shrine Visit
 
 @15C74 max=359
 JP: あなたは初詣です。気前がよくっ<n>て、ついついお金を使いすぎてし<n>まいます。商才がありお金もたま<n>るのに、世話好きなうえにお金に<n>執着心が不足しているため、金銭<n>の出入りがはげしいタイプです。<n>でもおかげで人に好かれます。
-EN: You're the First Shrine Visit type.<n>You're generous and tend to overspend.<n>You have a head for business and<n>can build up savings, but you love<n>helping people more than hoarding cash.<n>Money flows in and out of your hands,<n>but your kindness wins you friends.
+EN: You're the First Shrine Visit type. Generous and good at business, you earn well but spend freely. You love helping others more than money, and people love you for it.
 
 @15DDC max=359
 JP: 節分
@@ -196,7 +196,7 @@ EN: Setsubun
 
 @15F44 max=359
 JP: あなたは節分です。真面目な性格<n>でコツコツ働き、石橋をたたいて<n>渡る用心深さで浪費や不真面目の<n>鬼を退治しています。しかし情に<n>弱い部分もあるので、鬼につけこ<n>まれて利用される心配も。しっか<n>りした強い意志を養いましょう。
-EN: You're the Setsubun type.<n>Earnest and hardworking, you look<n>before you leap, driving out the<n>demons of waste and irresponsibility.<n>But you're softhearted, so those demons<n>may still find a way to exploit you.<n>Work on building a stronger will!
+EN: You're the Setsubun type. Hard work and caution ward off the demons of waste and sloth. But your soft heart leaves you open to tricks. Build a stronger will!
 
 @160AC max=359
 JP: ひな祭り
@@ -204,7 +204,7 @@ EN: Doll Festival
 
 @16214 max=359
 JP: あなたはひな祭りです。義理がた<n>く人情味にあふれるため、周りに<n>は人がたくさん集まり、いつもに<n>ぎやかです。頼りにされるとほっ<n>とけず、我が身をおいてでも精力<n>的に動きますが、小さなことでク<n>ヨクヨする弱さもあります。
-EN: You're the Doll Festival type.<n>Loyal and warmhearted, you draw<n>a crowd wherever you go.<n>When people need you, you can't say no.<n>You throw yourself into helping them,<n>even at your own expense. Still,<n>little things can really get you down.
+EN: You're the Doll Festival type. Loyal and warmhearted, you always draw a crowd. You rush to help anyone in need, even at your own expense, but little things get you down.
 
 @1637C max=359
 JP: 海開き
@@ -212,7 +212,7 @@ EN: Beach Season Opening
 
 @164E4 max=359
 JP: あなたは海開きです。ごくごく自<n>然体で歩んでいくタイプです。他<n>からの情報を気にはしていますが、<n>かといって冒険することもなく、<n>時が訪れるのをじっと待っていま<n>す。大きな組織の中でこそ力を発<n>揮できる人です。
-EN: You're the Beach Season Opening type.<n>You take life at your own pace.<n>You keep an ear out for news,<n>but rarely venture into the unknown.<n>You prefer to wait patiently<n>for the right moment to arrive.<n>You shine as part of a big organization.
+EN: You're the Beach Opening type. You take life as it comes, keeping up with news but avoiding risks. You wait for the right moment and do your best within a large organization.
 
 @1664C max=359
 JP: ほおずき市
@@ -220,7 +220,7 @@ EN: Chinese Lantern Fair
 
 @167B4 max=359
 JP: あなたはほおずき市です。とって<n>も個性的な存在感があり、発想も<n>ユニークです。あまり社交性があ<n>る方でもなく、自分のカラに閉じ<n>こもりがちですが、芸術的情緒あ<n>ふれる天才肌が、風情を愛する趣<n>味人たちを強く魅了します。
-EN: You're the Chinese Lantern Fair type.<n>You have a truly distinctive presence<n>and a head full of original ideas.<n>You're no social butterfly and tend<n>to retreat into your shell, but your<n>artistic genius captivates people<n>with an eye for beauty and atmosphere.
+EN: You're the Chinese Lantern Fair type. Original and full of artistic flair, you stand out. Though shy and prone to hiding in your shell, you charm anyone with an eye for beauty.
 
 @1691C max=359
 JP: 仲秋の名月
@@ -228,4 +228,4 @@ EN: Mid-Autumn Moon
 
 @16A84 max=359
 JP: あなたは仲秋の名月です。冷静沈<n>着でありながら、その表情は温厚<n>でやさしい笑顔の理知的な人です。<n>たとえ状況に恵まれず、その姿を<n>見ることができないときがあった<n>としても、ちゃんと見守っていて<n>くれている存在感があります。
-EN: You're the Mid-Autumn Moon type.<n>Calm, collected and intelligent,<n>you greet others with a gentle smile.<n>Even when circumstances keep you<n>hidden from view, people can still<n>sense your reassuring presence,<n>quietly watching over them.
+EN: You're the Mid-Autumn Moon type. Calm and wise, you wear a warm, gentle smile. Even when life's clouds hide you from view, people feel your presence watching over them.

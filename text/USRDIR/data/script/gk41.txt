@@ -156,7 +156,7 @@ EN: Anklet
 
 @15134 max=359
 JP: 踏み出した足に輝くアンクレット<n>です。家にいるより外で活躍する<n>ことに喜びを感じるタイプです。<n>みんなと同じなのがなによりもキ<n>ライ。個性的でいたいと、ついつ<n>い前に出てしまうため、人によっ<n>てはキレたりキレられたり。
-EN: An anklet gleaming as you step forward.<n>You thrive out in the world, not at home.<n>Nothing bugs you more than blending in.<n>Eager to stand out, you tend to push<n>your way to the front. That can lead to<n>clashes: sometimes you lose your temper,<n>and sometimes someone loses theirs.
+EN: A gleaming anklet. You thrive out in the world and hate blending in. Eager to stand out, you push ahead, sparking tempers... yours or someone else's.
 
 @1529C max=359
 JP: スカーフ
@@ -164,7 +164,7 @@ EN: Scarf
 
 @15404 max=359
 JP: 首もとに寄り添うことで安心でき<n>るスカーフです。誰かと一緒にい<n>ることで心の安定を得られる恋愛<n>体質。といっても派手な遊び上手<n>というのではありません。好きな<n>人の個性を活かし、わがままも許<n>せる包容力のある人です。
-EN: A scarf nestled snugly around the neck.<n>You're a romantic who finds peace of<n>mind in being with someone special.<n>That doesn't make you a flashy flirt.<n>You bring out your partner's character<n>and have a heart big enough to forgive<n>even their selfish little whims.
+EN: A snug scarf. A romantic, you find peace in companionship. You're no flashy flirt: you let your partner shine and have room for their selfish whims.
 
 @1556C max=359
 JP: イヤリング
@@ -172,7 +172,7 @@ EN: Earrings
 
 @156D4 max=359
 JP: 耳もとでキラリと存在感をあらわ<n>すイヤリングです。ピアスのよう<n>に身を削って一心同体になる情熱<n>的な恋ではなく、知的好奇心を満<n>たしてくれる相手との、互いに高<n>めあえる恋愛を楽しむタイプ。た<n>だし、ひとりよがりは厳禁です。
-EN: Earrings sparkling beside the ear.<n>Unlike piercings, you don't seek fiery<n>love that makes you sacrifice yourself<n>to become one. You prefer a partner who<n>feeds your curiosity, so you can both<n>grow together. Enjoy that meeting of<n>minds, but don't make it all about you.
+EN: Sparkling earrings. You seek a meeting of minds over all-consuming passion. Love feeds your curiosity and helps you both grow. Don't make it all about you.
 
 @1583C max=359
 JP: ベルト
@@ -180,7 +180,7 @@ EN: Belt
 
 @159A4 max=359
 JP: 腰もとでキュッとしばられたベル<n>トです。サバサバと現実的な考え<n>で行動するタイプです。同じベル<n>トでも飾りのベルトは認めていま<n>せん。機能あってのベルト、堅実<n>に生きての人生と考えます。おか<n>げで生涯お金には困りません。
-EN: A belt fastened snugly at the waist.<n>You're practical, frank, and sensible.<n>A purely decorative belt? You won't<n>stand for it! A belt should do its job,<n>just as life should be lived sensibly.<n>Thanks to that steady approach, money<n>will never be a problem throughout life.
+EN: A snug belt. Frank and practical, you reject useless frills. Belts must work; life must be lived sensibly. Your steady ways mean you'll never lack money.
 
 @15B0C max=359
 JP: ネックレス
@@ -188,7 +188,7 @@ EN: Necklace
 
 @15C74 max=359
 JP: 胸もとでジャラジャラとゆれるネ<n>ックレスです。ゴージャスな生き<n>方のできるタイプです。ただし、<n>自分を安売り早売りしないことが<n>大事です。自分の価値に自信を持<n>って大丈夫。ただし自信をひけら<n>かし過ぎるのは敵を増やすだけ。
-EN: A necklace jangling across the chest.<n>You can live a life of luxury, provided<n>you don't sell yourself short or settle<n>too soon. Have confidence in your worth!<n>Just remember that flaunting all that<n>confidence a little too freely will<n>only earn you more enemies.
+EN: A jangling necklace. Luxury suits you! Know your worth: don't sell yourself short or settle too soon. Be confident, but flaunting it only makes enemies.
 
 @15DDC max=359
 JP: 香水
@@ -196,7 +196,7 @@ EN: Perfume
 
 @15F44 max=359
 JP: つけ過ぎてせっかくの香りもだい<n>なしの香水です。もともとは才能<n>に満ちあふれているのに、調子に<n>のってると周囲から人がいなくな<n>っていた、なんてことにならない<n>ように注意しましょう。謙虚さや<n>ひかえめの態度が吉を招きます。
-EN: Perfume applied so heavily that even<n>its lovely scent has been spoiled.<n>You're brimming with natural talent,<n>but don't let it go to your head, or<n>you may look around one day and find<n>everyone has left. A little humility<n>and restraint will bring good fortune.
+EN: Perfume spoiled by spraying too much. You're full of talent, but letting it go to your head could drive everyone away. Humility and restraint bring luck.
 
 @160AC max=359
 JP: ブレスレット
@@ -204,7 +204,7 @@ EN: Bracelet
 
 @16214 max=359
 JP: 手首でチラリと見えかくれするブ<n>レスレットです。神秘的な力を持<n>ったロマンチストで、幅広い人か<n>ら愛される引力を持っています。<n>それだけに、恋の相手がとっかえ<n>ひっかえになり過ぎる傾向が。ほ<n>どほどが身のためです。
-EN: A bracelet peeking out at the wrist.<n>You're a romantic with mysterious powers<n>and a magnetism that draws all sorts<n>of people to you. With so many admirers,<n>you tend to change partners a little<n>too often. For your own sake, try to<n>keep those romantic adventures in check.
+EN: A bracelet peeking from a sleeve. You're a romantic with mystical powers and charm that draws all sorts. But don't change partners too often, for your own sake!
 
 @1637C max=359
 JP: 指輪
@@ -212,7 +212,7 @@ EN: Ring
 
 @164E4 max=359
 JP: 指に光る大粒天然石の指輪です。<n>ちょっぴり見栄っ張りなあなた。<n>物質的なことにばかり価値を求め<n>て、本来持っている才能を活かし<n>きれてないのではありませんか？<n>肩書きやブランドに頼らなくても<n>充分魅力的な自分を再発見して。
-EN: A ring with a large natural gemstone<n>glittering on your finger. You do like<n>to show off a little! Are you so caught<n>up in material worth that your own<n>talents go to waste? Rediscover your<n>natural charm. You're appealing enough<n>without fancy titles or designer labels.
+EN: A large gemstone ring. A bit of a show-off, are you? Chasing material worth may waste your talents. Rediscover your charm: you don't need titles or designer labels.
 
 @1664C max=359
 JP: ブローチ
@@ -220,7 +220,7 @@ EN: Brooch
 
 @167B4 max=359
 JP: 清楚なブラウスのえりもとにつけ<n>られたブローチです。なんでもそ<n>つなくこなせる優等生タイプで、<n>周囲からも信頼を寄せられます。<n>本人は地味さがイヤだと思ったり<n>もしているようですが、実際には<n>充分な存在感を示しています。
-EN: A brooch at the collar of a neat blouse.<n>You're the model student who handles<n>everything with ease. People know they<n>can count on you. You may sometimes<n>wish you weren't quite so plain, but<n>give yourself some credit: you already<n>make quite an impression.
+EN: A brooch on a neat blouse. You're a capable all-rounder whom others trust. You may wish you weren't so plain, but you already make quite an impression.
 
 @1691C max=359
 JP: バレッタ
@@ -228,7 +228,7 @@ EN: Barrette
 
 @16A84 max=359
 JP: 無造作にたばねられた長い髪をと<n>めたバレッタです。まっすぐで、<n>しっかりした考えの持ち主です。<n>しかし、こと恋愛に関しては消極<n>的な面があるようです。相手に思<n>いが伝わってないのに、一人で失<n>恋したと思い込んでいませんか？
-EN: A barrette holding long hair in a<n>casual bundle. You're straightforward<n>and know your own mind, but when it<n>comes to romance, you tend to hold back.<n>Have you decided your heart is broken<n>before the other person even knows<n>how you feel about them?
+EN: A barrette holding long hair. You're direct and know your mind, but shy in love. Have you decided you've been rejected before your crush even knows how you feel?
 
 @16BEC max=359
 JP: ボディピアス
@@ -236,7 +236,7 @@ EN: Body Piercing
 
 @16D54 max=359
 JP: え、そんなとこに！？と驚くよう<n>なボディピアスです。個性が強烈<n>すぎて、つきあえる人とつきあえ<n>ない人がはっきり二分するタイプ<n>の人です。しかし本人にはそれが<n>望むところ。でも、たまには身構<n>えない時間も必要です。
-EN: A body piercing that makes people say,<n>"You pierced WHERE?!" Your personality<n>is so strong that people fall into two<n>camps: those who get along with you and<n>those who don't. That's just how you<n>like it! Still, it helps to let your<n>guard down every once in a while.
+EN: A piercing that screams "You pierced WHERE?!" People either click with your bold personality or don't. You like it that way, but let your guard down sometimes.
 
 @16EBC max=359
 JP: カチューシャ
@@ -244,4 +244,4 @@ EN: Headband
 
 @17024 max=359
 JP: 前髪をきっちりとあげているカチ<n>ューシャです。何ごともすっきり<n>きっちりしてないと気がすまない<n>人です。遅れ髪が１本でもおちて<n>くると気が散ってしまうタイプ。<n>ＴＰＯに合わせて臨機応変になれ<n>る柔軟性を持つとよりステキに。
-EN: A headband holding every hair in place.<n>You need everything neat and tidy, or<n>you just can't relax. Even one stray<n>lock falling loose can distract you.<n>You'll be even more charming if you<n>learn to loosen up and adapt to suit<n>the time, the place, and the occasion.
+EN: A headband holding every hair in place. You need things neat; one stray hair distracts you! Learn to loosen up and adapt to the occasion, and you'll shine even more.

@@ -132,7 +132,7 @@ EN: Which city was called 'the nation's kitchen'<n>back in the Edo period, do yo
 
 @1529C max=359
 JP: 江戸時代、大阪は「天下の台所」と呼ばれた。<n>当時、経済の中心地であり、<n>商人の町、交通の要所であったから、<n>一流の食材が集まっていたため。
-EN: In the Edo period, Osaka was called 'the nation's kitchen.'<n>It was the economic center of the time,<n>a city of merchants and a transport hub,<n>so the finest ingredients gathered there.
+EN: Edo-era Osaka was 'the nation's kitchen': a trade and transport hub where the finest ingredients gathered.
 
 @15404 max=359
 JP: みかんをたくさん食べたときに、<n>手が黄色くなった経験はあるかね？<p>みかんに含まれる「βクリプトキサンチン」という<n>橙色の色素が蓄積されて、血管を通して<p>皮膚に出てくるからなんだわなあ。
@@ -164,7 +164,7 @@ EN: Did you know 'nureginu,' or 'false accusation,' means 'wet clothes'?<p>A ste
 
 @15DDC max=359
 JP: 「濡衣（ぬれぎぬ）」の語源は、<n>先妻の娘の美しさを妬む継母が、<n>娘の部屋に濡れた着物を置いたため、<n>漁師の恋人がいると誤解した、<n>父親は怒って、娘を殺してしまったことから。
-EN: 'Nureginu' means 'false accusation,' literally 'wet clothes.'<n>A stepmother, jealous of her stepdaughter's beauty,<n>left a wet kimono in the girl's room.<n>Her father thought she had a fisherman for a lover<n>and killed her in a rage. That's where the saying comes from.
+EN: Nureginu ('wet clothes') means a false charge. Jealous of her beauty, a stepmother planted a wet kimono. Thinking his daughter had a fisherman lover, her father killed her.
 
 @15F44 max=359
 JP: 日本には、いくつの世界遺産があるか、<n>知ってるかね？<p>１３箇所あるんだと。
@@ -196,7 +196,7 @@ EN: The Japanese word 'tonchinkan' came from blacksmiths:<n>two smiths striking 
 
 @1691C max=359
 JP: 「トンチンカン」という言葉は、もともとは鍛冶屋で、<n>二人が交互に鎚を打つ音がそろわないことから、<n>「つじつまが合わない」という意味になった。
-EN: The Japanese word 'tonchinkan' came from blacksmiths:<n>two smiths striking in turns, their hammers out of sync.<n>It came to mean 'inconsistent' or 'not adding up'.
+EN: Tonchinkan ('inconsistent') comes from the out-of-sync hammering of two blacksmiths taking turns.
 
 @16A84 max=359
 JP: ハンカチーフを四角に決めたのは<n>マリーアントワネットだったんだと。<p>それまではいろんな形があって、<n>装飾品として競いあってたんだわなあ。
@@ -220,7 +220,7 @@ EN: Did you know the deep yellow dye from gardenia fruit<n>is called 'kuchinashi
 
 @1718C max=359
 JP: クチナシの実で染めた濃いキイロのことを、<n>昔は「口無し」にかけて、「言わぬ色」とも<n>言っていた。
-EN: The deep yellow dye from gardenia fruit was called<n>'the color that says nothing,' a pun on 'kuchinashi,'<n>which sounds like 'no mouth' in Japanese.
+EN: Gardenia yellow was called 'the silent color': kuchinashi, or gardenia, also sounds like 'no mouth'.
 
 @172F4 max=359
 JP: きんぴらごぼうの「きんぴら」の語源は知ってるかね？<p>江戸時代に流行った金平浄瑠璃の主人公、<n>坂田金平からきたんだと。<p>金平は、怪力で有名だったので、<n>硬いごぼうを使った料理にも<p>その名がついたんだわなあ。
@@ -252,7 +252,7 @@ EN: Did you know track races are always<n>run counterclockwise?<p>They once ran 
 
 @17CCC max=359
 JP: １９１２年、国際陸上競技連盟にて、<n>陸上のトラックは、左回りと統一された。
-EN: In 1912, the international athletics federation<n>made counterclockwise the standard direction for track races.
+EN: In 1912, the IAAF made counterclockwise the standard for track races.
 
 @17E34 max=359
 JP: 「木で鼻をくくる」というのは、<n>相手への冷淡な態度のたとえなんだと。<p>ほかにも、杵で鼻こすったよう、拍子木で鼻かむ、<n>とも言うんだが、それにしても、<p>どれも痛そうなんだわなあ。
@@ -260,7 +260,7 @@ EN: In Japan, 'wipe your nose with wood'<n>means to give someone a cold receptio
 
 @17F9C max=359
 JP: 「木で鼻をくくる」とは、<n>相手への冷淡な態度のたとえのこと。<n>ほかにも、杵で鼻こすったよう、拍子木で鼻かむ、<n>とも言う。
-EN: The Japanese saying 'wipe your nose with wood'<n>means to give someone a cold reception.<n>Similar sayings include 'rub your nose with a mallet'<n>and 'blow your nose with wooden clappers.'
+EN: 'Wipe your nose with wood' means a cold reception. Other versions say 'rub your nose with a mallet' or 'blow it with wooden clappers'.
 
 @18104 max=359
 JP: さまざまなビタミンの種類、いくつ知ってるかね？<p>現在、１３種類も発見されているんだと。<p>ちなみに、ビタミンの名前についた<n>アルファベットや数字は、発見された順番に<p>つけられたものなんだわなあ。
@@ -284,7 +284,7 @@ EN: Long ago, Japanese people called trousers<n>'Western hakama' or 'stepped sac
 
 @1880C max=359
 JP: ズボンのことを、明治時代、<n>「洋袴」とか「段袋」と呼んでいた。
-EN: During the Meiji period, trousers were called<n>'Western hakama' or 'stepped sacks' in Japan.
+EN: In Meiji Japan, trousers were 'Western hakama' or 'stepped sacks'.
 
 @18974 max=359
 JP: キューピッドとエンジェルを見分けられるかね？<p>弓矢を持っていたらキューピッドで、<p>ハープやラッパを持っていたら<n>エンジェルなんだわなあ。
@@ -300,7 +300,7 @@ EN: Do you know what 'yakubusoku' really means?<p>It means a person's assigned r
 
 @18DAC max=359
 JP: 「役不足」<n>人物の力量に対して、役目の方が不足していること。<n>謙遜して「役不足ですが…」と使うのは、間違い。
-EN: 'Yakubusoku'<n>A Japanese term for a role too small for someone's talents.<n>Using it to humbly say 'I'm not up to the job' is incorrect.
+EN: 'Yakubusoku' means a job beneath your talents. Using it to humbly say 'I'm not up to the job' is wrong.
 
 @18F14 max=359
 JP: 日本のトイレットペーパーの幅は<n>ほとんどが１１４ミリなんだわなあ。<p>日本でトイレットパーパーが発売される時に<n>在日アメリカ軍からの注文があり、<p>アメリカの主流サイズの４．５インチに合わせたら<n>１１４ミリになったんだと。
@@ -332,7 +332,7 @@ EN: Makunouchi means 'between the curtains.' These boxed lunches<n>got their nam
 
 @198EC max=359
 JP: 「幕の内弁当」は、芝居の幕間の休憩時間に<n>食べるお弁当だから「幕の内」となった。<n>握り飯に煮物、カマボコ、卵焼きなどの<n>おかずがついたものがもともとの原型。
-EN: Makunouchi boxed lunches got their name, 'between the curtains,'<n>from being eaten during theater intermissions.<n>The original version had rice balls with side dishes<n>like simmered vegetables, fish cake and rolled omelet.
+EN: Makunouchi means 'between the curtains': a theater-interval lunch, originally rice balls, simmered foods, fish cake and omelet.
 
 @19A54 max=359
 JP: 「けんもほろろ」って聞いたことがあるかね？<p>あまりにも、あっさりとあしらわれる様子だわな。<p>「けん」と「ほろろ」は両方とも、キジの鳴き声。<n>その無愛想な声の響きが、語源なんだわなあ。
@@ -356,7 +356,7 @@ EN: Did you know two pieces of nigiri sushi make one 'kan'?<p>Edo-period sushi s
 
 @1A15C max=359
 JP: 握り鮨は、二個で一貫と数える。<n>一貫は、江戸時代の屋台で出された鮨が、<n>穴あき銭で一貫分の大きさと同じくらいだったから。
-EN: Two pieces of nigiri sushi count as one 'kan.'<n>The name comes from Edo-period sushi stalls, whose sushi<n>was about the same size as a kan's worth of coins with holes in them.
+EN: Two nigiri pieces count as one 'kan': Edo stall sushi was about the size of a kan's worth of holed coins.
 
 @1A2C4 max=359
 JP: どうして、おなかが鳴るんだと思うかね？<p>それは飢餓収縮と言う胃の働きによるものなんだと。<p>空腹によって、胃に強い収縮が起こると<n>胃袋の上の方に溜まっていた空気が圧迫されて<p>「グーッ」と鳴るんだわなあ。
@@ -452,7 +452,7 @@ EN: Kishimen noodles are a Nagoya specialty.<p>The dough was once cut into shape
 
 @1C31C max=359
 JP: 「きしめん」の名の由来は、<n>練って伸ばした小麦粉を碁石の形に打ち抜いたので、<n>「碁石のめん」が「きしめん」になった。<n>また、平たいめんの形を考案したそば屋の主人が<n>紀州出身だったからという説もある。
-EN: One theory about the name 'kishimen':<n>The dough was cut into shapes like Go stones,<n>and 'Go-stone noodles' became 'kishimen.'<n>Another says the owner who devised the flat noodles<n>came from Kishu, which gave them their name.
+EN: Kishimen may come from 'Go-stone noodles,' once cut like Go stones. Another theory credits a noodle shop owner from Kishu with inventing the flat noodles.
 
 @1C484 max=359
 JP: アメリカで採用されているサマータイムが、<n>日本でも実施されていたのは、知ってたかね？<p>昭和２３年から２６年まで<n>行われていたんだと。<p>ただし、日本人の生活習慣に合わないと言う理由で<n>廃止されたんだわなあ。
@@ -468,7 +468,7 @@ EN: Typhoons spin counterclockwise north of the equator,<n>and clockwise south o
 
 @1C8BC max=359
 JP: 台風の渦巻きは、北半球では左巻き、<n>南半球では右巻きに回転して進む。<n>これは、「コリオリ」という、地球の自転によって<n>風の進行方向を曲げる力によって起きている。<n>ちなみに、コリオリは赤道ではゼロになるので、<n>赤道上の台風というのはない。
-EN: Typhoons spin counterclockwise in the Northern Hemisphere<n>and clockwise in the Southern Hemisphere.<n>This is due to the Coriolis force,<n>which bends the wind's path as Earth rotates.<n>The force is zero at the equator,<n>so typhoons don't occur right on it.
+EN: Typhoons spin counterclockwise north of the equator, clockwise south of it. Earth's rotation bends winds via the Coriolis force. This force is zero at the equator, so no typhoons form there.
 
 @1CA24 max=359
 JP: 沖縄本島に鉄道が走っていたのは<n>知っていたかね？<p>実は、第二次世界大戦前までは、沖縄県営鉄道が<n>沖縄本島の重要な交通路のひとつだったんだわなあ。
@@ -484,7 +484,7 @@ EN: The most common kanji in Japan's 47 prefecture names<n>is 'yama,' meaning mo
 
 @1CE5C max=359
 JP: ４７都道府県名で、最も多く使われている漢字は、<n>「山」。<n>山形、山梨、山口、富山、和歌山、岡山。<n>６県で使われてる。
-EN: The most common kanji in Japan's 47 prefecture names<n>is 'yama,' meaning mountain.<n>It appears in Yamagata, Yamanashi, Yamaguchi, Toyama,<n>Wakayama and Okayama. Six prefectures in all.
+EN: Japan's most common prefecture-name kanji is 'yama' (mountain): Yamagata, Yamanashi, Yamaguchi, Toyama, Wakayama and Okayama. Six in all!
 
 @1CFC4 max=359
 JP: 右利き、左利きは、手だけじゃないんだと。<p>足を組んだり、ウインクをするときに、<n>利き足や利き目が無意識に使われているんだわなあ。<p>ちなみに、利き手でいうと、<n>日本人は右利きの人が９０％以上なんだと。
@@ -604,7 +604,7 @@ EN: Know how the Meiji-era writer Futabatei Shimei got his pen name?<p>His fathe
 
 @1F88C max=359
 JP: 二葉亭四迷のペンネームは、<n>父親から「くたばってしめえ」と怒鳴られたことから。
-EN: Futabatei Shimei's pen name echoes "Kutabatte shimee!" ("Drop dead!"), which his father yelled at him.
+EN: Futabatei Shimei's pen name mimics his dad's cry of 'Drop dead!' in Japanese.
 
 @1F9F4 max=359
 JP: ハチミツは、アルカリ性食品だって知ってたかね？<p>ミツバチが花の蜜に、体内で転化酵素を加えて、<n>ブドウ糖と果糖に分解したもの、<p>それがハチミツなんだわな。<p>ちなみに、ハチミツ自体が強い殺菌力を持っていて<n>何年も腐敗しない優秀な健康食品なんだわなあ。
@@ -612,7 +612,7 @@ EN: Did you know honey is an alkaline food?<p>Bees add an enzyme called invertas
 
 @1FB5C max=359
 JP: ハチミツは、アルカリ性食品。<n>ミツバチが花の蜜に、体内で転化酵素を加えて、<n>ブドウ糖と果糖に分解したもの、<n>それがハチミツ。<n>ちなみに、ハチミツ自体が強い殺菌力を持っていて<n>何年も腐敗しない優秀な健康食品である。
-EN: Honey is an alkaline food.<n>Bees add the enzyme invertase to flower nectar, breaking it down into glucose and fructose to make honey.<n>Honey has strong germ-killing properties and keeps for years without spoiling, making it an excellent health food.
+EN: Honey is an alkaline health food. Bees add invertase to nectar, splitting it into glucose and fructose. Honey kills germs and can keep for years without spoiling.
 
 @1FCC4 max=359
 JP: タイではナンプラー、ベトナムではニョクマム、<n>秋田ではしょっつる、北海道や石川ではイカ醤油、<p>香川ではイカナゴ醤油。<p>これらみんな魚から作る醤油、魚醤のことなんだと。<n>国は変わっても基本の調味料はにてるんだわなあ。
@@ -636,7 +636,7 @@ EN: Did you know "ohako," meaning a specialty, is written with the kanji for "ei
 
 @203CC max=359
 JP: 「十八番（おはこ）」の語源は、<n>江戸歌舞伎の市川家が得意演目「歌舞伎十八番」の<n>台本を箱に入れて大切にしまっていたから。
-EN: "Ohako," meaning a specialty, comes from the Ichikawa kabuki family in Edo keeping scripts for their eighteen signature plays safe in boxes, or "hako."
+EN: Ohako (specialty) comes from the Ichikawa kabuki family storing their 18 signature plays' scripts in boxes (hako).
 
 @20534 max=359
 JP: 秋の七草を知っているかね？<p>はぎ、ききょう、くず、おみなえし、<n>なでしこ、おばな、ふじばかま、なんだわなあ。
@@ -652,7 +652,7 @@ EN: Never produce, possess or allow in nuclear weapons. Those are Japan's Three 
 
 @2096C max=359
 JP: 核兵器を作らない、持たない、持ち込ませない。<n>これが非核三原則。
-EN: Japan's Three Non-Nuclear Principles: never produce, possess or allow in nuclear weapons.
+EN: Three Non-Nuclear Principles: never make, own or allow in nuclear weapons.
 
 @20AD4 max=359
 JP: その美しい花の形にもかかわらず、<n>シチリア島の野生のブタがその地下茎を食べるので、<p>シクラメンは「ブタのパン」と呼ばれていたんだと。<p>明治時代に日本に伝わったときも、<n>当時まだ一般的でなかった「パン」の代わりに<p>「ブタのマンジュウ」と呼ばれたんだわなあ。
@@ -668,7 +668,7 @@ EN: Did you know the left slot in a Japanese wall outlet is larger?<p>Household 
 
 @20F0C max=359
 JP: コンセントの穴は、左の穴の方が大きい。<n>家庭用電気の変圧器の故障に備えて、<n>家庭用電線の片方をアースしてあるから。
-EN: The left slot in a Japanese wall outlet is larger.<n>One of the home's wires is grounded as a precaution against a household transformer failure.
+EN: A Japanese outlet's left slot is larger: its wire is grounded to guard against transformer failure.
 
 @21074 max=359
 JP: 特異日というのを知ってるかね？<p>ある天気が高い確率で現れる日のことなんだと。<p>ちなみに１１月３日は、<n>晴れの特異日なんだわなあ。
@@ -684,7 +684,7 @@ EN: BMI is used to judge whether someone is obese.<p>You calculate it as weight 
 
 @214AC max=359
 JP: 肥満であるかどうかの指標として使われるＢＭＩ。<n>体重（Ｋｇ）÷身長（ｍ）の２乗で計算する。<n>最も健康なＢＭＩ値は、２２。<n>２５以上だと肥満になる。
-EN: BMI is used to judge whether someone is obese.<n>Calculate it as weight in kg divided by height in meters squared.<n>The healthiest BMI is 22.<n>A value of 25 or more means obesity.
+EN: BMI gauges obesity: weight in kg divided by height in meters squared. The healthiest score is 22; 25 or above counts as obese.
 
 @21614 max=359
 JP: 「卵の殻で海を渡る」という<n>ことわざがあるのを知ってるかね？<p>やってもできないこと、<n>危険なことをするたとえなんだと。<p>なんとも極端なたとえなんだわなあ。
@@ -700,7 +700,7 @@ EN: The world's shortest letter is said to have been written<n>by the great auth
 
 @21A4C max=359
 JP: 世界で最も短い手紙は、文豪ビクトル・ユゴーの<n>ものだと言われている。<n>「レ・ミゼラブル」の売れ行きが気になった彼が<n>版元に送った一通の手紙は、「？」という一字だけ。<n>版元の返事は、大きく「！」。<n>「売れている」の意味だった。
-EN: The world's shortest letter is said to have been written<n>by the great author Victor Hugo.<n>Wondering how Les Miserables was selling,<n>he sent his publisher a letter containing only '?'.<n>The publisher replied with a big '!'.<n>That meant it was selling well.
+EN: Victor Hugo is said to have sent the world's shortest letter: '?', asking his publisher how Les Miserables was selling. The reply was a big '!', meaning sales were great.
 
 @21BB4 max=359
 JP: 日本で一番透明度が高い湖は、<n>北海道の摩周湖なんだと。<p>１９３１年の調査では、<n>４１．６メートルを記録したんだと。
@@ -724,7 +724,7 @@ EN: One reason paulownia wood is prized for Japanese dressers<n>is that it stand
 
 @222BC max=359
 JP: 桐タンスが火事に強いとされるのは、<n>燃えにくく、水をかけると<n>膨張して引き出しの隙間をふさいで<n>中の衣類を守るため。
-EN: Paulownia dressers are said to withstand fires because<n>the wood is hard to burn, and water makes it<n>swell and seal the gaps around the drawers,<n>protecting the clothes inside.
+EN: Paulownia dressers resist fire: the wood burns poorly and swells when wet, sealing drawer gaps to protect the clothes.
 
 @22424 max=359
 JP: 「千鳥格子」っていう柄を知ってるかね？<p>同じ柄を英語だとハウンド・トゥースと呼ぶんだと。<p>イギリス人には犬のキバが並んでるように見えて、<n>日本人には千鳥が列をなして飛んでくように<p>見えたという違いなんだわなあ。
@@ -764,7 +764,7 @@ EN: Hakuju, or 'white longevity,' celebrates a 99th birthday.<p>Remove the top s
 
 @230CC max=359
 JP: 「白寿」<n>九十九歳の長寿のお祝い。<n>「百」の字から「一」をとると「白」になるから。
-EN: 'Hakuju,' or 'white longevity':<n>A celebration of someone's 99th birthday.<n>Removing the top stroke from the kanji for '100' gives the kanji for 'white.'
+EN: 'Hakuju' marks age 99: remove 'one' from the kanji for 'hundred' and you get 'white.'
 
 @23234 max=359
 JP: すき焼きをするとき、シラタキのとなりに<n>肉を置かないようにと言われたことがないかね？<p>シラタキに含まれるカルシウムが、<n>肉を変色させたり、硬くしてしまうからなんだわなあ。
@@ -796,7 +796,7 @@ EN: Did you know the brain's left half handles logic and analysis,<n>while the r
 
 @23C0C max=359
 JP: 人間の左脳は論理的・分析的な働きをし、<n>右脳は直感的・感覚的な働きをする。<n>虫の声や鳥のさえずりを、<n>欧米人が右脳で「音」として受け取るのに対し、<n>日本人は「言葉」と同じ、左脳で受け取る。
-EN: The brain's left half handles logic and analysis,<n>while the right handles intuition and the senses.<n>Westerners process insect calls and birdsong<n>as 'sounds' in the right half of the brain.<n>Japanese people process them in the left half, like words.
+EN: The left brain handles logic; the right, intuition. Westerners process bird and insect calls on the right as sounds; Japanese use the left, like words.
 
 @23D74 max=359
 JP: 日本の鉄道開業当時、蒸気機関車は、<n>陸蒸気（おかじょうき）と呼ばれていたのを<p>知ってるかね？<p>陸を走る蒸気船ってことなんだと。<p>そういうわけで、運転士は「陸蒸気の船頭」って<n>よばれていたんだわなあ。
@@ -804,7 +804,7 @@ EN: When Japan's railways first opened, steam locomotives<n>were called 'okajoki
 
 @23EDC max=359
 JP: 日本の鉄道開業当時、<n>蒸気機関車は、陸蒸気（おかじょうき）と、<n>運転士は「陸蒸気の船頭」と呼ばれていた。
-EN: When Japan's railways first opened,<n>steam locomotives were called 'okajoki,' or 'land steamers.'<n>Their drivers were called 'land-steamer captains.'
+EN: Japan's first steam trains were called 'land steamers,' and their drivers 'land-steamer captains.'
 
 @24044 max=359
 JP: 「さしがね」の語源は、歌舞伎の小道具なんだと。<p>観客から見えないように、蝶などを動かす<n>竹ざおが「差し金」というんだわなあ。<p>まさに「裏で操る」ことなんだわな。
@@ -852,7 +852,7 @@ EN: Do you know how beer differs from happoshu?<p>Both are fermented from malt, 
 
 @24FBC max=359
 JP: ビールと発泡酒の違いは、麦芽使用率。<n>２／３以上がビール、２／３未満なら発泡酒。
-EN: Beer and happoshu differ in their malt content.<n>At least two-thirds means beer; less means happoshu.
+EN: Malt content: beer is at least 2/3 malt; happoshu is less.
 
 @25124 max=359
 JP: 江戸時代、大名行列が通り過ぎるまで、<n>庶民が道を横切ることは許されなかったんだが、<p>産婆さんだけは、大名行列を横切って<n>妊婦のところへ行くことができたんだと。
@@ -860,7 +860,7 @@ EN: In the Edo period, common folk couldn't cross the road<n>until a feudal lord
 
 @2528C max=359
 JP: 江戸時代、妊婦のもとへ急ぐ産婆は<n>大名行列を横切ることが許されていた。
-EN: In the Edo period, a midwife hurrying to a woman in labor<n>was allowed to cross a feudal lord's procession.
+EN: In Edo Japan, midwives rushing to a birth could cross a lord's procession.
 
 @253F4 max=359
 JP: 仕事の分量を数えるとき、「人日」や「人月」という<n>単位を使うことを知ってるかね？<p>１人が１日でこなす仕事の量が「１人日」なんだと。<p>プログラマーなどの人件費を計算するときも<n>同じように計算して、「工数」などと呼ぶんだわなあ。
@@ -884,7 +884,7 @@ EN: Do you know Japan's longest station name?<p>It's 'Louis C. Tiffany Teien Bij
 
 @25AFC max=359
 JP: 日本一長い駅名は、一畑鉄道の<n>「ルイス・Ｃ．ティファニー庭園美術館前」駅。
-EN: Japan's longest station name belongs to Ichibata Railway:<n>'Louis C. Tiffany Teien Bijutsukan-mae.'
+EN: Japan's longest station name: Louis C. Tiffany Teien Bijutsukan-mae (Ichibata).
 
 @25C64 max=359
 JP: いなり寿司を「しのだ寿司」と呼ぶのを<n>聞いたことがあるかね？<p>大阪の信太（しのだ）という森に<p>美女に化けて人をだます白狐が、<n>住んでいたんだわなあ。<p>いなり寿司は、狐の好物、油揚げを使っているので<n>「しのだ寿司」と呼ばれるようになったんだと。
@@ -892,7 +892,7 @@ EN: Have you ever heard inari sushi<n>called 'Shinoda sushi'?<p>In Osaka, there'
 
 @25DCC max=359
 JP: いなり寿司を「しのだ寿司」と呼ぶのは、<n>狐の好物が油揚げなのと<n>大阪の信太（しのだ）の森に<n>美女に化けて人をだましたという白狐が<n>住んでいたから。
-EN: Inari sushi is also called 'Shinoda sushi.'<n>It uses fried tofu, said to be a fox's favorite food.<n>Osaka's Shinoda Forest was said to be home<n>to a white fox that took the form of a beautiful woman<n>and tricked people. That's where the name comes from.
+EN: Inari sushi is also called 'Shinoda sushi': foxes love its fried tofu, and Osaka's Shinoda Forest had a white fox said to fool people by posing as a beauty.
 
 @25F34 max=359
 JP: 魚の数え方は、その状態で様々に変化するのを<n>知っていたかね？<p>生きているうちは「匹」、<n>食材として取引されると「尾」になるんだと。<p>サンマやイワシなどの細長い魚は、「本」、<n>平たいヒラメやカレイは「枚」で数えるんだわなあ。
@@ -908,7 +908,7 @@ EN: Do you know how a sport qualifies for the Olympics?<p>Men's sports must be w
 
 @2636C max=359
 JP: オリンピック競技になる条件は、<n>男性競技は「少なくとも四大陸にわたって<n>７５か国以上で広く行われている競技」、<n>女性競技では「少なくとも三大陸にわたって<n>４０か国以上で広く行われている競技」と<n>オリンピック憲章で定められている。
-EN: The Olympic Charter sets these requirements<n>for a sport to become an Olympic event:<n>Men's sports must be widely practiced in at least<n>75 countries across four continents.<n>Women's sports must be widely practiced in at least<n>40 countries across three continents.
+EN: To qualify for the Olympics, the Charter requires men's sports to be widely played in at least 75 countries on four continents; women's, in at least 40 countries on three continents.
 
 @264D4 max=359
 JP: 「弱冠」は、もともと二十歳のことだったんだと。<p>「二十を弱といい、元服して冠をつける」と<n>「礼記」には、書かれているんだわな。<p>最近は、二十歳でなくても年の若いことをいうんだと。
@@ -916,7 +916,7 @@ EN: 'Jakkan,' meaning 'at the tender age of,' originally meant 20.<p>The Book of
 
 @2663C max=359
 JP: 「弱冠」は、もともと二十歳のことだったが、<n>最近は、年の若い人のことをいう。
-EN: 'Jakkan' originally meant being 20 years old.<n>These days, it refers more generally to being young.
+EN: 'Jakkan' once meant age 20. Today it just means young.
 
 @267A4 max=359
 JP: 「むしずがはしる」は「虫酸が走る」って書くのは<n>知ってたかね？<p>「虫酸」とは、胃からあがってくる<n>胃液のことなんだと。<p>とにかくむかついて気分が悪いときに<n>つかう言葉なんだわなあ。
@@ -924,7 +924,7 @@ EN: The Japanese phrase 'mushizu ga hashiru' means<n>something really makes you 
 
 @2690C max=359
 JP: 「虫酸が走る（むしずがはしる）」<n>「虫酸」とは、胃からあがってくる胃液のこと。<n>転じて、不快な気分になること。
-EN: 'Mushizu ga hashiru': to feel sick with disgust.<n>'Mushizu' means stomach acid that rises into the throat.<n>The phrase came to describe a feeling of intense revulsion.
+EN: 'Mushizu ga hashiru' means to feel disgust. 'Mushizu' is stomach acid rising in the throat.
 
 @26A74 max=359
 JP: 相撲では、勝負に勝つことを白星というが、<n>平幕力士が横綱に勝った場合は金星なんだわなあ。<p>金星ひとつに対しては、四万円の報奨金が<n>支給されるんだと。
@@ -932,7 +932,7 @@ EN: In sumo, a win is a 'white star.' But when a rank-and-file<n>wrestler beats 
 
 @26BDC max=359
 JP: 相撲では、勝負に勝つことを白星、<n>平幕力士が横綱に勝った場合は金星という。
-EN: In sumo, a win is a 'white star.' A 'gold star' is earned<n>when a rank-and-file wrestler defeats a yokozuna.
+EN: In sumo: a win is a white star; a maegashira beating a yokozuna, gold.
 
 @26D44 max=359
 JP: 日本で最初の蒸気機関車を運転していたのは、<n>イギリス人だったって、知ってたかね？<p>当時、機関車を運転できる日本人はいなかったんだと。<p>日本人運転士が誕生したのは、開業からなんと<n>７年も後の１８７９年からだったんだわなあ。
@@ -948,7 +948,7 @@ EN: In Japanese recipes, 'hitotsumami,' or a pinch,<n>means the amount you can p
 
 @2717C max=359
 JP: 料理の「ひとつまみ」は、指三本でつまんだ量、<n>「少々」は指二本でつまんだ量。
-EN: In Japanese recipes, a 'pinch' means a three-finger pinch.<n>'A little' means a two-finger pinch.
+EN: Japanese recipes: a 'pinch' uses 3 fingers; 'a little' uses 2.
 
 @272E4 max=359
 JP: 男性１８歳、女性１６歳になると<n>親の同意のもとに結婚できるのは知ってたかね？<p>ちなみに未成年でも民法上は結婚すると<n>成年扱いなんだと。<p>しかも未成年のまま離婚しても、<n>そのまま成人扱いなんだわなあ。
@@ -972,7 +972,7 @@ EN: Which of the Edo period's 15 shoguns<n>do you think lived the longest?<p>The
 
 @279EC max=359
 JP: 江戸幕府、１５代の将軍の中で、一番長生きしたのは、<n>最後の将軍、徳川慶喜の７７歳。
-EN: Of the Edo period's 15 shoguns, the longest-lived<n>was the last, Tokugawa Yoshinobu, who lived to 77.
+EN: Of Edo's 15 shoguns, the last, Tokugawa Yoshinobu, lived longest: 77 years.
 
 @27B54 max=359
 JP: 濃口醤油と薄口醤油、<n>どっちがしょっぱいと思うかね？<p>色の印象だと濃口の方がしょっぱそうだけど、<n>実際はその逆なんだと。<p>薄口醤油は濃口より約一割食塩を多くしてるんで、<n>塩分は約２％多いんだわなあ。
@@ -988,7 +988,7 @@ EN: Did you know dishes browned only on top<n>can be called 'matsukaze,' or 'win
 
 @27F8C max=359
 JP: 「松風」は、表面にだけ焦げ目や焼き目をつけた<n>菓子や料理のこと。<n>表は華やかなのに裏はさびしいので、裏さびしい。<n>浦さびしい松風の音から、松風となった。
-EN: 'Matsukaze' means dishes or sweets browned only on top.<n>The fancy top leaves the underside looking lonely:<n>'ura sabishii.' That sounds like a lonely shore,<n>where 'matsukaze,' the wind in the pines, blows.<n>That's the pun behind the name.
+EN: Matsukaze foods brown only on top. The plain 'ura' (back) puns on 'ura' (shore): a lonely shore swept by matsukaze, wind in the pines.
 
 @280F4 max=359
 JP: 「木枯らし」と呼ばれるのは、<n>晩秋から初冬に吹く北寄りの風のことなんだと。<p>ちなみに、「１０月半ばから１１月末日までに<n>初めて吹く北または西寄りの秒速８メートル以上」<p>の風が、気象庁の定める木枯らし１号なんだわなあ。
@@ -996,7 +996,7 @@ EN: 'Kogarashi' is a northerly wind that blows<n>from late autumn into early win
 
 @2825C max=359
 JP: 「１０月半ばから１１月末日までに<n>初めて吹く北または西寄りの秒速８メートル以上」<n>の風が、気象庁の定める木枯らし１号。
-EN: The weather agency defines 'Kogarashi No. 1' as<n>the first northerly or westerly wind of at least 8 meters<n>per second between mid-October and the end of November.
+EN: Japan defines Kogarashi No. 1 as the first N/W wind of 8 m/s or more from mid-October through November.
 
 @283C4 max=359
 JP: 第一次ベビーブームと第二次ベビーブーム、<n>どちらの出生数が多いと思うかね？<p>正解は、１９４９年の第一次ベビーブームの方で、<n>２７０万人なんだと。<p>１９７３年の第二次ベビーブームは、<n>２０９万人なんだわなあ。
@@ -1036,7 +1036,7 @@ EN: 'Shinmai' means a newcomer, but it was<n>once written 'shinmae,' you know.<p
 
 @2906C max=359
 JP: 新人などを指す「新米」は、もとは「新前」と書いた。<n>江戸時代、店の主人は、新しく来た奉公人に<n>「新しい前かけ」を与え、「新前」と呼んだから。
-EN: 'Shinmai,' meaning a newcomer, was once<n>written 'shinmae.' In Edo times, shopkeepers<n>gave new servants fresh aprons, or 'shinmae,'<n>and called the servants that too.
+EN: 'Shinmai' (newbie) was once 'shinmae': a new apron, like those given to new shop servants in Edo times.
 
 @291D4 max=359
 JP: お祝い料理につきものの鯛が「尾頭つき」なのは、<n>頭から尾まで欠けることなく揃っているという<p>縁起をかついでいるからなんだわなあ。<p>赤い色と「めでたい」に<n>通じるだけじゃないんだわな。
@@ -1044,7 +1044,7 @@ EN: Why is sea bream served head and tail intact<n>at celebrations? Having every
 
 @2933C max=359
 JP: お祝い料理につきものの鯛が「尾頭つき」なのは、<n>頭から尾まで欠けることなく揃っているという<n>縁起をかついでいるから。
-EN: Celebratory sea bream is served with its<n>head and tail intact for good luck:<n>it is complete from head to tail,<n>with nothing missing.
+EN: For good luck, festive sea bream keeps its head and tail: nothing is missing, so it symbolizes completeness.
 
 @294A4 max=359
 JP: ダイヤモンドの「４つのＣ」は、<n>カット、カラット、カラー、クオリティの<p>ことなんだと。<p>この４つのＣでダイヤモンドの品質が<n>決まるんだわなあ。
@@ -1068,7 +1068,7 @@ EN: Railway Day, October 14, marks the opening<n>of Japan's first railway. Did y
 
 @29BAC max=359
 JP: １０月１４日（旧暦の９月１２日）は、<n>日本で初めて鉄道が開通した鉄道記念日。<n>本来は旧暦の９月９日、重陽の節句の日に<n>予定されていたが、悪天候のため延期された。
-EN: Railway Day, October 14, marks the opening<n>of Japan's first railway: September 12 on<n>the old calendar. It was planned for the<n>Chrysanthemum Festival on September 9,<n>but bad weather delayed it.
+EN: Japan's Railway Day: Oct. 14 (old calendar: Sept. 12). Bad weather delayed the first railway's opening from Sept. 9, the Chrysanthemum Festival.
 
 @29D14 max=359
 JP: 競走馬には、同じ父親を持つ馬が多いが、<n>父親が同じだけでは、兄弟とは呼ばないんだわな。<p>母親も同じ場合のみ、兄弟姉妹とみなされるんだと。
@@ -1116,7 +1116,7 @@ EN: Do you know what breed of dog stands beside<n>the statue of Saigo Takamori i
 
 @2AC8C max=359
 JP: 上野にある西郷隆盛の銅像がつれている<n>犬は、薩摩犬で「ツン」という名前だった。
-EN: The dog beside the statue of<n>Saigo Takamori in Ueno is<n>a Satsuma dog named Tsun.
+EN: The dog with Saigo Takamori's statue in Ueno is Tsun, a Satsuma dog.
 
 @2ADF4 max=359
 JP: 「ひいき」は、「贔屓」と書くのを知ってたかね？<p>「贔屓」は「ひき」と呼ばれた亀のことなんだと。<p>石碑を支える台として<n>石造りの大きな亀（ひき）が使われたことから、<p>気に入った役者や店に対して<n>特別に支援するという意味になったんだわなあ。
@@ -1132,7 +1132,7 @@ EN: Do you know which prefecture<n>makes the most eyeglasses in Japan?<p>Fukui m
 
 @2B22C max=359
 JP: 眼鏡の生産が、日本一の都道府県は、福井県。<n>約６割が生産されている。
-EN: Fukui is Japan's leading prefecture<n>for eyeglass production.<n>It makes about 60 percent of them.
+EN: Fukui leads Japan in eyeglass production, making about six in ten.
 
 @2B394 max=359
 JP: 一期一会の「一期」は、一生涯という意味なのは<n>知ってたかね？<p>ただし、仏教では修行期間のことを指すんだと。<n>比叡山では１２年間。<p>高野山では６年間が一期なんだわなあ。
@@ -1156,7 +1156,7 @@ EN: 'Nogaki' means bragging about yourself.<n>It comes from 'konogaki,' a medici
 
 @2BA9C max=359
 JP: 「能書き」<n>薬の説明書のことを「効能書き」という。<n>薬の効能がいくつも書いてあることから<n>自分のすぐれた点を並べ立てた言葉となった。
-EN: 'Nogaki' means bragging.<n>It comes from 'konogaki,' a medicine leaflet.<n>Since those leaflets list a medicine's<n>many benefits, the word came to mean<n>listing all your own fine qualities.
+EN: Nogaki, 'bragging,' comes from konogaki, a leaflet listing a medicine's benefits. It came to mean listing your own fine points.
 
 @2BC04 max=359
 JP: 世界で初めて自動改札機が設置されたのは、<n>阪急電鉄の北千里駅なんだと。<p>１９６７年の導入当時は、定期券専用なのに、<n>切符や現金を入れる客が多くて、<p>故障続きだったんだと。
@@ -1164,7 +1164,7 @@ EN: The world's first automatic ticket gates, I'm told,<n>were at Hankyu Railway
 
 @2BD6C max=359
 JP: 世界初の自動改札機が設置されたのは、<n>阪急電鉄の北千里駅。<n>定期券専用だったが、<n>切符や現金を入れてしまう客が多く、<n>故障がたえなかった。
-EN: The world's first automatic ticket gates were installed<n>at Hankyu Railway's Kita-Senri Station.<n>They only accepted season passes,<n>but passengers often inserted tickets or cash,<n>causing frequent breakdowns.
+EN: The world's first automatic ticket gates were at Hankyu's Kita-Senri Station. They took only season passes, but people inserted tickets and cash, causing frequent breakdowns.
 
 @2BED4 max=359
 JP: 会席料理と懐石料理の違いを知っているかね？<p>会席料理はお酒を楽しむための宴会料理で、<n>懐石料理は茶の湯の席で出す軽い食事なんだと。<p>同じ読み方でも随分違うんだわなあ。
@@ -1172,7 +1172,7 @@ EN: Did you know there are two kinds of kaiseki cuisine?<p>One is a banquet meal
 
 @2C03C max=359
 JP: 会席料理と懐石料理の違いは、<n>会席料理はお酒を楽しむための宴会料理で、<n>懐石料理は茶の湯の席で出す軽い食事のこと。
-EN: Two kinds of Japanese cuisine share the name kaiseki.<n>One is a banquet meal enjoyed with sake.<n>The other is a light meal served at a tea ceremony.
+EN: Kaiseki has two forms: banquet fare to enjoy with sake, and a light meal served at a tea ceremony.
 
 @2C1A4 max=359
 JP: ハンカチにアイロンがけするときのコツは、<n>アイロン台に真四角に整えたハンカチを置き、<p>高温のアイロンを真ん中から四方へとかけること。<p>きちんと正方形に仕上がらないのは、<n>アイロンのかけ方が間違っているからなんだわなあ。
@@ -1188,7 +1188,7 @@ EN: Do you know the panda's Japanese name?<p>Shirokuroguma. That means "black-an
 
 @2C5DC max=359
 JP: パンダの和名は「シロクログマ」。<n>ちなみに中国語では「大熊猫」、<n>学名は「アイルロポーダ・メラノレウカ」。
-EN: A panda's Japanese name, shirokuroguma, means "black-and-white bear."<n>Its Chinese name means "big bear-cat."<n>Its scientific name is Ailuropoda melanoleuca.
+EN: Panda: 'black-white bear' in Japanese, 'big bear-cat' in Chinese; scientific name: Ailuropoda melanoleuca.
 
 @2C744 max=359
 JP: 外国映画の字幕の文字数は、決まっているんだと。<n>映画がサイレントからトーキーに変わった昭和初期、<p>字幕製作部員が試行錯誤して発見したルールは<n>「フィルム１フィートに対して３文字」。<p>時間にすると１秒間に４文字で、<n>このルールが現在でも使われているんだわなあ。
@@ -1196,7 +1196,7 @@ EN: Japanese subtitles for foreign films have a character limit.<n>When talkies 
 
 @2C8AC max=359
 JP: 外国映画の字幕のルールは、<n>「フィルム１フィートに対して３文字」。<n>時間にすると１秒間に４文字。
-EN: The rule for Japanese subtitles in foreign films is<n>three characters per foot of film.<n>That works out to four characters per second.
+EN: For foreign films, Japanese subtitles allow three characters per foot of film, or four per second.
 
 @2CA14 max=359
 JP: 酔いを早く覚ましたいときには、<n>柿を食べるといいんだと。<p>アルコールを分解するフルクトース、<n>血中アルコール濃度を下げるペクチン、<p>胃の粘膜を引き締めるタンニン。<n>３拍子揃った優れものなんだわなあ。
@@ -1236,7 +1236,7 @@ EN: Nabehada means "pot skin," but unlike rough or soft skin,<n>it means the ins
 
 @2D6BC max=359
 JP: 「鍋肌」は鍋の内側のこと。<n>「最後に醤油を鍋肌から回し入れ」のように使う。
-EN: Nabehada, or "pot skin," means the inside surface of a cooking pot.<n>As in, "Finish by drizzling soy sauce around the inside of the pot."
+EN: Nabehada means a pot's inner surface: 'Drizzle soy sauce around the edge.'
 
 @2D824 max=359
 JP: 「ガリバー旅行記」のガリバーが、<n>日本も旅行したことは知ってたかね？<p>ガリバーは小人国、巨人国の旅のあと、<n>第三の旅の中で日本にも立ち寄っているんだと。<p>江戸に上陸して、徳川将軍に謁見したことに<n>なってるんだわなあ。
@@ -1260,7 +1260,7 @@ EN: Some stations still draw tourists, I'm told,<n>even after losses forced thei
 
 @2DF2C max=359
 JP: 北海道の広尾線は廃線になったが、<n>その「愛国」と「幸福」駅舎は、<n>取り壊されず、観光スポットとなっている。
-EN: Hokkaido's Hiroo Line has closed,<n>but its Aikoku and Kofuku station buildings were preserved<n>and have become tourist attractions.
+EN: Hokkaido's Hiroo Line closed, but Aikoku and Kofuku's station buildings remain as tourist attractions.
 
 @2E094 max=359
 JP: 酔っぱらいが、訳のわからないことをしゃべるのを<n>「くだをまく」って言うわな？<p>この「くだ（管）」は、糸車の軸のことなんだと。<p>糸車を回すとブウブウという音がするんで、<n>こう言うようになったんだと。<p>酔っぱらいの言うことは、ブウブウ程度なんだわなあ。
@@ -1284,7 +1284,7 @@ EN: Do you know the trick to slicing freshly baked bread?<p>Heat the knife blade
 
 @2E79C max=359
 JP: 焼きたてのパンを上手に切るコツは、<n>包丁の刃をコンロで充分に熱してから使うと<n>切り口がぼろぼろにならず、滑らかに切れる。
-EN: To slice freshly baked bread neatly,<n>heat the knife blade well over the stove before using it.<n>This gives you smooth slices instead of crumbly edges.
+EN: For neat slices of fresh bread, heat the knife blade well on the stove. It will cut smoothly, without crumbling.
 
 @2E904 max=359
 JP: 「切磋琢磨」の意味は知ってたかね？<p>骨を切る。象牙を磋ぐ。玉を琢つ。石を磨くという<n>４つの加工のことなんだと。<p>それが互いに競い合い、磨きあうという意味に<n>なったんだわなあ。
@@ -1292,7 +1292,7 @@ EN: Do you know the saying sessatakuma?<p>Its four parts mean cutting bone, fili
 
 @2EA6C max=359
 JP: 「切磋琢磨」<n>骨を切る。象牙を磋ぐ。玉を琢つ。石を磨くという<n>４つの加工のこと。<n>互いに競い合い、磨きあうという意味。
-EN: Sessatakuma is a Japanese saying.<n>Its four parts mean cutting bone, filing ivory,<n>carving jade and polishing stone.<n>It means improving one another through friendly competition.
+EN: Sessatakuma: cutting bone, filing ivory, carving jade, polishing stone. It means helping each other improve through friendly competition.
 
 @2EBD4 max=359
 JP: 「いちご煮」という料理を知ってるかね？<n>苺の煮込みじゃないんだと。<p>青森県の八戸地方の名物で<n>切ったアワビとウニを<p>潮汁で煮たものなんだわなあ。<n>煮込んだウニが野苺に似ていたんだわなあ。
@@ -1300,7 +1300,7 @@ EN: Ever heard of ichigoni, or "strawberry stew"?<n>There isn't a strawberry in 
 
 @2ED3C max=359
 JP: 「いちご煮」とは、<n>青森県の八戸地方の名物で<n>切ったアワビとウニを潮汁で煮たもの。<n>煮込んだウニが野苺に似ていたことから<n>ついた名前。
-EN: Ichigoni, or "strawberry stew,"<n>is a specialty of Hachinohe in Aomori Prefecture.<n>It's sliced abalone and sea urchin in a salty seafood broth.<n>The name comes from the cooked sea urchin's<n>resemblance to wild strawberries.
+EN: Ichigoni, Hachinohe's specialty in Aomori, is sliced abalone and sea urchin in salty broth. Its name, "strawberry stew," comes from the cooked urchin's likeness to wild strawberries.
 
 @2EEA4 max=359
 JP: 鶏肉を「カシワ」というのは知ってるかね？<p>その訳は実に簡単で、<n>柏の葉に似ているからなんだと。<p>ところで、鶏肉の「ササミ」は、<n>笹の葉にその形が似ているからなんだわなあ。
@@ -1308,7 +1308,7 @@ EN: Did you know chicken is also called kashiwa in Japanese?<p>The reason is sim
 
 @2F00C max=359
 JP: 鶏肉を「カシワ」というのは<n>柏の葉に形が似ているから。<n>ササミは、笹の葉にその形が似ているから。
-EN: Chicken is called kashiwa in Japanese<n>because its shape resembles a kashiwa oak leaf.<n>Tenderloin is called sasami because it resembles a bamboo leaf.
+EN: Chicken is called kashiwa for its oak-leaf shape; tenderloin is sasami for its bamboo-leaf shape.
 
 @2F174 max=359
 JP: 新しく買った陶器を使い始める前には、<n>一度、煮立てて冷めるまで放っておくといいんだと。<p>熱湯消毒になるだけでなく、<n>割れにくくなるんだわなあ。
@@ -1316,7 +1316,7 @@ EN: Before using new pottery, I'm told,<n>you should boil it once and leave it u
 
 @2F2DC max=359
 JP: 新しく買った陶器を使い始める前には、<n>一度、煮立てて冷めるまで放っておくと、<n>熱湯消毒になるだけでなく、割れにくくなる。
-EN: Before using new pottery,<n>boil it once and leave it until it cools.<n>This both sterilizes it and makes it less likely to crack.
+EN: Before using new pottery, boil it and let it cool in the water to sterilize it and help prevent cracks.
 
 @2F444 max=359
 JP: イタリア料理のオードブル「カルパッチョ」って<n>食べたことあるかね？<p>画家カルパッチョからその名がついたんだと。<p>生の牛肉の赤とカルパッチョの描く絵の具の赤が<n>似てたらしいんだわなあ。
@@ -1356,7 +1356,7 @@ EN: In Chinese, 'laopo' means your wife. Those same written characters mean 'old
 
 @300EC max=359
 JP: 中国語では、「老婆」は、<n>自分の妻のこと。
-EN: The Chinese word 'laopo' means your wife.<n>The same written characters mean 'old woman' in Japanese.
+EN: The characters for "old woman" in Japanese mean "one's wife" in Chinese.
 
 @30254 max=359
 JP: 「ろくでなし」は、「陸でなし」って書くんだと。<p>陸（ろく）とは、土地が平らで、<n>物事がまっすぐで正しいという意味があるんだと。<p>つまり、それを否定した「ろくでなし」は、<n>役に立たない者、ってことなんだわなあ。
@@ -1388,7 +1388,7 @@ EN: Did you think Yanagawa hot pot was named for Yanagawa in Fukuoka, famous for
 
 @30C2C max=359
 JP: 「柳川鍋」の名前の由来は、<n>福岡県柳川がどじょうの産地であるという説と、<n>初めてこの料理を出した江戸のどじょう屋の<n>店名「柳川屋」からとったという説がある。
-EN: There are two theories about the name of Yanagawa hot pot.<n>One links it to Yanagawa in Fukuoka, known for loaches.<n>The other links it to Yanagawa-ya, the Edo loach restaurant that first served it.
+EN: Yanagawa hot pot may be named for loach-producing Yanagawa, Fukuoka, or Yanagawa-ya, the Edo loach eatery said to have first served it.
 
 @30D94 max=359
 JP: 馬肉を「さくら肉」というのは、知っているかね？<p>肉が新鮮なときには、<n>桜の花のような色をしているからなんだと。<p>ちなみに、馬肉を食べるのは、<n>日本人とフランス人くらいなんだわなあ。
@@ -1396,7 +1396,7 @@ EN: Did you know horsemeat is called 'sakura meat,' or 'cherry blossom meat'?<p>
 
 @30EFC max=359
 JP: 「さくら肉」は馬肉のこと。<n>肉の色が、桜の花のような色をしていることから。
-EN: 'Sakura meat,' or 'cherry blossom meat,' means horsemeat.<n>The name comes from its cherry blossom color.
+EN: Horsemeat is called "sakura meat" for its cherry-blossom color.
 
 @31064 max=359
 JP: 世界で初めての自動販売機は、<n>いつ頃できたと思うかね？<p>紀元前２１５年頃、エジプトの<n>アレキサンドリア神殿に置かれた自動販売機では、<p>聖水が売られていたんだと。<n>まさにこれが、最初の自動販売機なんだわなあ。
@@ -1532,7 +1532,7 @@ EN: Did you know 'kakiire-doki,' the Japanese term for peak business season, is 
 
 @33ECC max=359
 JP: 「書き入れ時（かきいれどき）」<n>帳簿に書き入れる作業が最も多くて忙しい時期が、<n>一番儲かるとき、という意味になった。
-EN: 'Kakiire-doki' means peak business season.<n>Originally the busiest time for writing entries in the ledger, it came to mean the most profitable time.
+EN: Kakiire-doki, or peak business season, takes its name from the busy task of filling in ledgers.
 
 @34034 max=359
 JP: ジグソーパズルの数え方を知ってるかね？<p>パズルのピースは「片」、<n>完成した作品は、「枚」や「点」で数えるんだと。<p>ジグソーパズルの盤自体は、「枚」なんだわなあ。
@@ -1548,7 +1548,7 @@ EN: 'Trousers' in British English, 'pants' in American English, 'pantalon' in Fr
 
 @3446C max=359
 JP: ズボンは、<n>英語でトラウザーズ、米語でパンツ、<n>仏語でパンタロン、独語でホーゼンという。
-EN: The same garment is called 'trousers' in British English, 'pants' in American English, 'pantalon' in French, and 'Hosen' in German.
+EN: Pants are "trousers" in Britain, "pants" in the US, "pantalon" in French and "Hosen" in German.
 
 @345D4 max=359
 JP: 人間の身長は、朝と夜では、<n>１．５センチから２センチくらい違うんだと。<p>朝の方が高く、小学生で１．３センチ、<n>大学生では１．８センチくらい変わるんだわなあ。
@@ -1556,7 +1556,7 @@ EN: Your height can change by about 1.5 to 2 cm between morning and night, so th
 
 @3473C max=359
 JP: 人間の身長は、朝と夜では、<n>１．５センチから２センチくらい違う。<n>朝の方が高く、小学生で１．３センチ、<n>大学生では１．８センチくらい変わる。
-EN: Human height varies by about 1.5 to 2 cm between morning and night.<n>People are taller in the morning, with a difference of about 1.3 cm for primary school children and 1.8 cm for university students.
+EN: We're 1.5-2 cm taller in the morning than at night: about 1.3 cm for elementary school kids and 1.8 cm for college students.
 
 @348A4 max=359
 JP: 「板ずり」というのは、まな板の上にのせた<n>キュウリやフキなんかに塩をふって、<p>手で押さえながらずりずりっと転がすことなんだと。<n>緑が鮮やかになって、表面がザラっとすることで<p>味もしみやすくなるんだわなあ。
@@ -1572,7 +1572,7 @@ EN: Did you know sumo patrons and supporters' clubs are called 'tanimachi'?<p>Th
 
 @34CDC max=359
 JP: 相撲力士のひいきや後援会を「谷町」というのは、<n>明治時代の末ごろ、大阪の谷町筋の医者が、<n>相撲取りたちの面倒を見たことから。
-EN: Sumo patrons and supporters' clubs are called 'tanimachi' because a doctor on Osaka's Tanimachi-suji cared for sumo wrestlers late in the Meiji era.
+EN: Sumo patrons are called tanimachi after a doctor on Osaka's Tanimachi-suji who cared for wrestlers in late Meiji times.
 
 @34E44 max=359
 JP: 日本産の牛肉には、<n>「国産牛」と「和牛」があるのは知ってたかね？<p>「和牛」の表示が認められてるのは、<n>黒毛和種、褐毛和種、無角和種、日本短角種の<p>４種類だけなんだわなあ。
@@ -1636,7 +1636,7 @@ EN: Do you know tabi, those traditional split-toe socks?<p>They fasten at the an
 
 @3635C max=359
 JP: 足袋の足首を止める<n>爪のような金具は「こはぜ」という。
-EN: The little claw-shaped metal hooks that fasten tabi socks at the ankle are called 'kohaze.'
+EN: Tabi socks fasten at the ankle with claw-like metal hooks called "kohaze."
 
 @364C4 max=359
 JP: 「狐の嫁入り」って聞いたことがあるかね？<p>お天気なのに雨がパラパラ降ることを言うんだと。<p>不思議な感じを、狐の嫁入り行列にたとえた<n>なんともシャレた言い方なんだわなあ。
@@ -1692,7 +1692,7 @@ EN: The swirling pattern on ramen bowls<n>is a stylized lightning bolt, they say
 
 @3770C max=359
 JP: ラーメンのどんぶりにある渦巻き模様は<n>「雷文」という雷の稲妻を図案化したもの。
-EN: The swirling design on ramen bowls<n>is a stylized lightning bolt called a "thunder pattern."
+EN: Ramen bowls' "raimon" swirls are stylized lightning bolts.
 
 @37874 max=359
 JP: 銀行の「頭取」。もともとは「音頭取」という<n>雅楽の首席奏者のことだったんだと。<p>江戸時代に、歌舞伎の興行で<n>お金を取り仕切る人を「頭取」と呼ぶようになり<p>明治になって銀行の前身の為替会社が設立されると、<n>出資者の代表を「頭取」と呼び、<p>その後、銀行ができたときにも<n>その代表を「頭取」としたんだと。
@@ -1708,7 +1708,7 @@ EN: Japan's three most common surnames<n>are Sato, Suzuki and Takahashi, they sa
 
 @37CAC max=359
 JP: 日本人に多い名字ベストスリーは、<n>佐藤、鈴木、高橋。<n>名字に使われる最も多い漢字は、「田」。
-EN: Japan's three most common surnames<n>are Sato, Suzuki and Takahashi.<n>The most common surname character is "ta," meaning "rice field."
+EN: Japan's top surnames: Sato, Suzuki, Takahashi. The most used surname kanji is "ta" (rice field).
 
 @37E14 max=359
 JP: 雁の味に似せて作った「がんもどき」の別名が<n>「飛竜頭」というのを知ってたかね？<p>ポルトガルの揚げ菓子ヒリウズが語源なんだと。<p>生地が油の中でうごめく様子が、<n>竜の頭が飛んでるように見えたんだわなあ。
@@ -1716,7 +1716,7 @@ EN: Did you know ganmodoki, tofu fritters made to taste like goose,<n>are also c
 
 @37F7C max=359
 JP: 雁の味に似せて作った「がんもどき」の別名は<n>「飛竜頭（ひりょうず）」。<n>ポルトガルの揚げ菓子ヒリウズが語源。<n>生地が油の中でうごめく様子が、<n>竜の頭が飛んでるように見えたから。
-EN: Ganmodoki, tofu fritters made to taste like goose,<n>are also called "hiryozu," written "flying dragon head."<n>The name comes from Portuguese filhos fritters.<n>The batter moving about in the oil<n>looked like a dragon's head flying.
+EN: Ganmodoki tofu fritters mimic goose meat. Also called "hiryozu," from Portuguese filhos fritters, their name means "flying dragon head": the batter writhing in oil looked like one.
 
 @380E4 max=359
 JP: 結婚３５周年が、「珊瑚婚式」なのは知ってたかね？<p>英国式で、ザ・コーラル・ウェディングなんだと。<n>３５周年で、サンゴ、なのは偶然なんだわなあ。
@@ -1748,7 +1748,7 @@ EN: "Ugai," the Japanese word for gargling or rinsing your mouth,<n>comes from "
 
 @38ABC max=359
 JP: 歯磨き後や風邪予防にする「うがい」は、<n>もともとは「鵜飼い」からきている。<n>鵜が飲み込んだ魚を吐き出すさまが、<n>口をすすいだあとに水を吐き出す様子に<n>にているから。
-EN: "Ugai," the Japanese word for gargling or rinsing your mouth,<n>comes from "ukai," meaning cormorant fishing.<n>The birds spit out fish they've swallowed,<n>which resembles someone rinsing their mouth<n>and spitting out the water.
+EN: Japanese "ugai" (gargling) comes from "ukai" (cormorant fishing). Birds spitting out swallowed fish looked like people spitting out rinse water.
 
 @38C24 max=359
 JP: 「おやつ」は、八どきの食事という意味なんだと。<p>八どきは今の午後２時から４時だから、<n>江戸時代から３時はおやつの時間だったんだわなあ。
@@ -1756,7 +1756,7 @@ EN: "Oyatsu," the Japanese word for a snack, means a meal at "yatsu."<p>That old
 
 @38D8C max=359
 JP: 「おやつ」は、八どきの食事という意味。<n>八どきは今の午後２時から４時のこと。
-EN: "Oyatsu," Japanese for a snack, means a meal at "yatsu."<n>That old time period corresponds to 2 to 4 p.m. today.
+EN: "Oyatsu" (snack) means a meal at "yatsu," an old time slot: 2-4 p.m.
 
 @38EF4 max=359
 JP: １９２６年に世界で初めて、ブラウン管による<n>電子式受像に成功したのは、日本人だったんだと。<p>ちなみに、そのときブラウン管に映し出されたのは、<n>「イ」という文字だったんだわな。
@@ -1764,7 +1764,7 @@ EN: In 1926, a Japanese person was the first in the world<n>to receive an electr
 
 @3905C max=359
 JP: １９２６年に世界で初めて、ブラウン管による<n>電子式受像に成功したのは、日本人だった。<n>ちなみに、そのときブラウン管に映し出されたのは、<n>「イ」という文字だった。
-EN: In 1926, a Japanese person was the first in the world<n>to receive an electronic image on a cathode-ray tube.<n>The image shown on the screen<n>was the Japanese katakana character "i."
+EN: In 1926, a Japanese inventor first displayed an electronic image on a cathode-ray tube: the katakana letter "i."
 
 @391C4 max=359
 JP: 東京の大崎と埼玉の大宮を結ぶ埼京線。<n>この名前が、通称名だって知ってたかね？<p>正式名称は、大崎ー池袋が山手線、<n>池袋ー赤羽は、赤羽線、<p>赤羽ー大宮は、東北本線なんだと。<p>大宮ー大船の京浜東北線も実は通称名なんだわなあ。
@@ -1780,7 +1780,7 @@ EN: Did you know the "gori" in "gorioshi," meaning brute force,<n>is the name of
 
 @395FC max=359
 JP: ゴリ押しのゴリは、淡水の小魚の名前。<n>石の間でじっとして動かないのを<n>無理矢理に捕ることを、ゴリ押しと言う。
-EN: The "gori" in "gorioshi," meaning brute force, is a freshwater fish.<n>They sit still between rocks, and forcing them out<n>to catch them was called "gorioshi."
+EN: "Gorioshi" (brute force) comes from forcing gori, small freshwater fish, out from between rocks.
 
 @39764 max=359
 JP: 「いなばの白うさぎ」には、「わに」が出てくるが、<n>古事記の時代にはワニがいたのか、と思ったら<p>大間違いなんだと。<p>「わに」は、爬虫類のワニではなくて<n>サメのことなんだわなあ。
@@ -1796,7 +1796,7 @@ EN: Know which Japanese prefecture has the highest homeownership rate?<n>It's To
 
 @39B9C max=359
 JP: 持ち家率が最も高い都道府県は、富山県。<n>ほぼ８割にもなる。
-EN: Toyama has Japan's highest homeownership rate.<n>Nearly 80 percent of households own their homes.
+EN: Toyama leads Japan in homeownership, at nearly 80%.
 
 @39D04 max=359
 JP: ラジオの電波のＡＭとＦＭの違い、知ってるかね？<p>ＡＭは、振幅変調、ＦＭは周波数変調なんだと。<p>テレビの映像や音声も<n>ＦＭで伝えられているんだわなあ。
@@ -1876,7 +1876,7 @@ EN: Edo's three delicacies were Hizen's dried mullet roe,<n>Mikawa's salted sea 
 
 @3B7BC max=359
 JP: 江戸の三珍味は、<n>肥前のからすみ、三河のこのわた、越前のうに。<n>ちなみに中国の三大珍味は、<n>ふかひれ、あわび、つばめの巣。
-EN: Edo's three delicacies were<n>Hizen's dried mullet roe, Mikawa's salted sea cucumber innards, and Echizen's sea urchin.<n>China's three great delicacies, meanwhile, are<n>shark fin, abalone, and edible bird's nests.
+EN: Edo's three delicacies: Hizen mullet roe, Mikawa sea cucumber guts, Echizen sea urchin. China's: shark fin, abalone, bird's nests.
 
 @3B924 max=359
 JP: 「三行半」と書いて「みくだりはん」と読むんだと。<p>もとは、江戸時代に離婚するときに<n>夫が妻に渡した離縁状のことなんだと。<p>離婚することと、その後の再婚を許すことが、<n>３．５行で書かれていたからなんだわなあ。
@@ -1924,7 +1924,7 @@ EN: You'll see "kamo nanban" at soba noodle shops.<p>Think "nanban" means "south
 
 @3C89C max=359
 JP: 「鴨なんばん」の「なんばん」は<n>「南蛮」ではなく、ネギの産地「難波」のこと。
-EN: The "nanban" in "kamo nanban" means Namba, a green onion growing area,<n>rather than "southern barbarian."
+EN: In kamo nanban, "nanban" means onion-growing Namba, not "southern barbarian."
 
 @3CA04 max=359
 JP: 昔の武士がちょんまげを結うときに<n>前頭部を剃っていたのは、<p>兜をかぶっても頭が蒸れないようにという<n>戦国時代の習慣が始まりなんだと。<p>ちなみに、その剃った部分は、<n>「月代（さかやき）」と呼ぶんだわなあ。
@@ -1940,7 +1940,7 @@ EN: Know an easy way to peel a boiled egg?<p>Once the eggs are boiled, drain the
 
 @3CE3C max=359
 JP: ゆで卵の殻を簡単にむく方法は、<n>卵が茹で上がったら鍋の中の湯を捨てて、<n>フタをしたまま鍋を振り、殻に細かいひびを入れる。<n>この卵を水に浸ければ簡単にむける。
-EN: To peel boiled eggs easily,<n>drain the pot once the eggs are cooked.<n>Put the lid on and shake it to make little cracks in the shells.<n>Soak the eggs in water, and they'll peel easily.
+EN: For easy-peel boiled eggs, drain the pot, cover it and shake to crack the shells. Then soak the eggs in water and peel.
 
 @3CFA4 max=359
 JP: レストランで、コーヒーカップの中に<n>スプーンを入れっぱなしにしたことはないかね？<p>これって、マナー違反なんだと。<n>ちょっぴり恥ずかしいことだったんだわなあ。
@@ -1964,7 +1964,7 @@ EN: They say vegetables with at least 600 micrograms of carotene per 100 grams c
 
 @3D6AC max=359
 JP: カロテンが１００グラムに６００マイクログラム以上<n>含まれている野菜は緑黄色野菜。<n>それ以外は淡色野菜。<n>キャベツもレタスもキュウリも見た目は緑色でも<n>淡色野菜である。
-EN: Vegetables with at least 600 micrograms of carotene per 100 grams are classed as green and yellow vegetables.<n>The rest are pale vegetables.<n>Cabbage, lettuce and cucumbers count as pale vegetables despite looking green.
+EN: Vegetables with at least 600 mcg of carotene per 100 g count as green/yellow. The rest count as pale, even green-looking cabbage, lettuce and cucumbers.
 
 @3D814 max=359
 JP: 有名な巨匠・ピカソ。正式な名前は知ってるかね？<p>パブロ・ディエゴ・ホセ・フランシスコ・デ・<n>パウラ・ファン・ネポムセノ・マリア・デ・ロス・<p>レメディオス・クリスピン・クリスピニャーノ・<n>デ・ラ・サンテシマ・トリニダット・ルイス・<p>イ・ピカソ、なんだわなあ。
@@ -2004,7 +2004,7 @@ EN: In 1960, the Toei Asakusa subway line and the private Keisei Oshiage Line be
 
 @3E4BC max=359
 JP: 地下鉄と私鉄の相互乗り入れは、<n>１９６０年の都営地下鉄浅草線と京成電鉄押上線が<n>日本での第一号。
-EN: Japan's first through service between a subway and a private railway began in 1960, linking the Toei Asakusa Line and the Keisei Oshiage Line.
+EN: Japan's first subway/private rail through service linked Toei Asakusa and Keisei Oshiage in 1960.
 
 @3E624 max=359
 JP: 節分は、旧暦の時代、年に４回あったというのは、<n>知っていたかね？<p>立春の前日だけでなく、立夏、立秋、立冬の前日も<n>節分といったんだと。<p>節分に豆まきをするようになったのは、平安時代で<n>庶民に広まったのは江戸時代からなんだわなあ。
@@ -2012,7 +2012,7 @@ EN: Did you know Setsubun came four times a year under the old calendar?<p>It ma
 
 @3E78C max=359
 JP: 節分は、旧暦の時代、年に４回あった。<n>節分に豆まきをするようになったのは、平安時代で<n>庶民に広まったのは江戸時代から。
-EN: Under the old calendar, Setsubun occurred four times a year.<n>The custom of throwing beans began in the Heian period and spread among ordinary people in the Edo period.
+EN: Under the old calendar, Setsubun was quarterly. Bean tossing began in Heian times, spreading to the masses in Edo.
 
 @3E8F4 max=359
 JP: 指がむくんで指輪が抜けなくなったら、<n>鉄観音茶やプーアール茶をたくさん飲んで、<p>水分の排出を促すのがいいんだと。<p>早く抜きたいときには、石鹸水に手を入れて、<n>指輪を回すようにして抜くといいんだわなあ。
@@ -2020,7 +2020,7 @@ EN: If a swollen finger traps your ring, they say drinking plenty of Tieguanyin 
 
 @3EA5C max=359
 JP: 指がむくんで指輪が抜けなくなったら、<n>鉄観音茶やプーアール茶をたくさん飲んで、<n>水分の排出を促すのがよい。<n>早く抜きたいときには、石鹸水に手を入れて、<n>指輪を回すようにして抜くといい。
-EN: If swelling leaves a ring stuck on your finger, drinking plenty of Tieguanyin or pu-erh tea helps your body shed excess water.<n>For quicker removal, dip your hand in soapy water and twist the ring as you slip it off.
+EN: For a ring stuck on a swollen finger, drink Tieguanyin or pu-erh tea to help shed water. For quicker removal, soak your hand in soapy water and gently twist the ring off.
 
 @3EBC4 max=359
 JP: 焼酎には、乙類と甲類があるのを知ってたかね？<p>単式蒸留器で蒸留した、<n>アルコール４５度以下のものが乙類で、<p>連続式蒸留器で蒸留した、<n>アルコール３６度未満のものが甲類なんだと。<p>本格焼酎と言われるのは乙類なんだわなあ。
@@ -2076,7 +2076,7 @@ EN: They say you can make dried flowers in a microwave.<p>Put the flowers in a c
 
 @3FE0C max=359
 JP: 電子レンジを使ってドライフラワーができる。<n>乾燥剤を入れた容器に花を詰めて、<n>電子レンジに約９０秒入れた後、<n>乾燥剤の上に花を並べて、５分間おけばいい。
-EN: You can make dried flowers in a microwave.<n>Put flowers in a container with a drying agent and microwave for about 90 seconds.<n>Then arrange the flowers on top of the drying agent and leave them for five minutes.
+EN: To dry flowers, microwave them in a container with desiccant for about 90 seconds. Then lay them on the desiccant for five minutes.
 
 @3FF74 max=359
 JP: 飲食店の開業に必要な資格は、何だと思うかね？<p>「調理師免許」は必要ではなく、<n>「食品衛生責任者」の資格が必要なんだわなあ。
@@ -2100,7 +2100,7 @@ EN: When do you suppose Japan has 'koharubiyori,' or 'little spring weather'?<p>
 
 @4067C max=359
 JP: 「小春日和」とは、陰暦の１０月のこと。<n>初冬の頃の、春のような陽気な日のこと。
-EN: 'Koharubiyori,' or 'little spring weather,' refers to the tenth lunar month.<n>It describes warm, springlike days in early winter.
+EN: Koharubiyori: springlike days in early winter, in the tenth lunar month.
 
 @407E4 max=359
 JP: 「閑古鳥が鳴く」の閑古鳥はカッコウの別名なんだと。<p>「カッコー」というもの淋しい鳴き声のイメージから<n>商売が流行らない様子を<p>「閑古鳥が鳴く」というんだわなあ。
@@ -2116,7 +2116,7 @@ EN: Did you know there's a surname written 'August 1' in Japanese?<n>It's pronou
 
 @40C1C max=359
 JP: 「八月一日」と書いて「ほずみ」と読む<n>名字がある。<n>８月１日には、稲の穂を神棚に供えて<n>豊作を祈るという風習からきている。
-EN: The Japanese surname Hozumi is written with the characters for 'August 1.'<n>It comes from the custom of offering ears of rice at a household shrine on August 1 to pray for a good harvest.
+EN: The surname Hozumi can be written "August 1," from the custom of offering rice ears at a home shrine that day to pray for a good harvest.
 
 @40D84 max=359
 JP: 「おじゃんになる」の「おじゃん」は、<n>火の見櫓の鐘の音なんだと。<p>火事が消えると「ジャン、ジャン」と鐘を２回鳴らし<n>これを繰り返して火事の終わりを告げたんだと。<p>「じゃん」に「お」をつけた「おじゃん」で、<n>「物事が終わる」という意味になったんだわなあ。
@@ -2124,7 +2124,7 @@ EN: The "ojan" in "ojan ni naru" ("come to nothing")<n>is the sound of a fire wa
 
 @40EEC max=359
 JP: 「おじゃんになる」の「おじゃん」は、<n>火の見櫓の鐘の音のこと。<n>火事が消えると「ジャン、ジャン」と<n>鐘を２回鳴らして消火を告げていたことから、<n>「物事が終わる」という意味になった。
-EN: The "ojan" in "ojan ni naru" ("come to nothing")<n>comes from the sound of a fire watchtower's bell.<n>Once a fire was out, the bell rang "jan, jan"<n>in pairs to announce that it had been put out.<n>That's how it came to mean "something is over."
+EN: Ojan ni naru means "come to nothing." Its "ojan" echoes a fire watchtower's bell, rung twice ("jan, jan") when a fire was out. This came to mean "it's over."
 
 @41054 max=359
 JP: 岩手県、盛岡の名物料理「わんこそば」の<n>名前の由来を知ってるかね？<p>岩手県出身の政治家、原敬が<n>「そばはわんこで食べるに限る」と<p>力説していたからだと言われてるんだと。<n>わんこそば約１５杯で、かけそば１杯分なんだわなあ。
@@ -2132,7 +2132,7 @@ EN: Know how Morioka's famous wanko soba,<n>from Iwate Prefecture, got its name?
 
 @411BC max=359
 JP: 岩手県、盛岡の名物料理「わんこそば」の<n>名前の由来は、岩手県出身の政治家、原敬が<n>「そばはわんこで食べるに限る」と<n>力説していたからだと言われている。<n>ちなみに、わんこそば約１５杯で、かけそば１杯分。
-EN: Morioka's famous wanko soba, from Iwate Prefecture,<n>is said to owe its name to local politician Takashi Hara.<n>He insisted, "Soba is best eaten from wanko bowls!"<n>"Wanko" means a little bowl.<n>About 15 servings equal one regular bowl of soba.
+EN: Morioka's wanko soba is said to be named for Iwate politician Takashi Hara's claim: "Soba is best in wanko bowls!" About 15 servings equal one regular bowl.
 
 @41324 max=359
 JP: 「阪神タイガース」の名前は、<p>大リーグのデトロイト・タイガースに<n>ちなんでつけられたんだと。<p>本拠地が同じ工業地帯という共通性が理由なんだと。
@@ -2148,7 +2148,7 @@ EN: Tokyo's Kunitachi took its name from its station.<p>It lies between Kokubunj
 
 @4175C max=359
 JP: 国立駅は、国分寺駅と立川駅の<n>中間にあるので、そう名付けられ、<n>その駅名から、国立市となった。
-EN: Kunitachi Station lies between Kokubunji and Tachikawa.<n>Its name combines their first written characters,<n>and that station name became the city's name.
+EN: Kunitachi Station, between Kokubunji and Tachikawa, blends their names. The city was named for the station.
 
 @418C4 max=359
 JP: ちゃきちゃきの江戸っ子の「ちゃきちゃき」。<p>嫡子から嫡子へ家を継ぐこと<n>を意味するんだと。<p>江戸にある家を代々受け継いできたから<n>「ちゃきちゃきの江戸っ子」なんだわなあ。
@@ -2172,7 +2172,7 @@ EN: Did you know pasta is meant to be cooked "al dente,"<n>with a little bite to
 
 @41FCC max=359
 JP: パスタの茹で加減、「アルデンテ」は、<n>パスタを１本手で切ってみて、<n>中心に芯がちょっと残っているくらいの状態。<n>ちなみに茹ですぎは「スコタッタ」と言う。
-EN: For pasta, "al dente" means cooked until firm.<n>Break a strand in half by hand to check:<n>there should still be a tiny firm core in the center.<n>Overcooked pasta is called "scotta."
+EN: "Al dente" pasta has a tiny firm core when you break a strand in two. Overcooked pasta is called "scotta."
 
 @42134 max=359
 JP: 日本のデパート第一号は、どこだと思うかね？<p>それは「三越」なんだと。<p>江戸時代に創業した日本橋の呉服店「越後屋」が<n>１９０４年に「三越呉服店」となって、<p>日本で初めて「デパートメントストア宣言」を<n>したんだわなあ。
@@ -2212,7 +2212,7 @@ EN: Do you know what the four card suits mean?<p>Spades are swords for royalty; 
 
 @42DDC max=359
 JP: トランプの４つのマークは、<n>スペードは剣で王侯、<n>ダイヤは貨幣で商人、<n>クローバーは棍棒で農民、<n>ハートは聖杯で聖職者をあらわしている。
-EN: The four card suits have these meanings:<n>Spades are swords, representing royalty.<n>Diamonds are coins, representing merchants.<n>Clubs are cudgels, representing farmers.<n>Hearts are holy chalices, representing the clergy.
+EN: Card suits symbolize social classes: spades, swords for royalty; diamonds, coins for merchants; clubs, cudgels for farmers; hearts, holy chalices for clergy.
 
 @42F44 max=359
 JP: 四十肩や五十肩という病名を聞いたことがあるかね？<p>肩関節周囲炎というのが、正しい名称なんだと。<p>加齢によって肩関節が痛み、運動範囲が狭まるんだが、<n>１～２年で、自然に治ることが多いんだわなあ。
@@ -2220,7 +2220,7 @@ EN: Ever heard of "forties shoulder" or "fifties shoulder"?<p>The proper name is
 
 @430AC max=359
 JP: 四十肩や五十肩の正式名称は、<n>肩関節周囲炎。
-EN: The formal name for "forties shoulder" and "fifties shoulder"<n>is periarthritis of the shoulder.
+EN: Frozen shoulder's formal name is periarthritis of the shoulder.
 
 @43214 max=359
 JP: 「七夕」が「たなばた」と読まれるようになったのは、<n>織女と牽牛が年に一度だけ会える日という伝説が<p>有名になったからなんだと。<p>織女が布を織る機（はた）には、棚がついていたので<n>「棚機（たなばた）」と呼ばれていたのが、<p>その日の呼び名にまでなったんだわなあ。
@@ -2228,7 +2228,7 @@ EN: The characters for "seventh night" are read "Tanabata"<n>thanks to a famous 
 
 @4337C max=359
 JP: 「七夕」が「たなばた」と読まれるようになったのは、<n>織女と牽牛が年に一度だけ会える日という伝説が<n>有名になったから。<n>織女が布を織る機（はた）には、棚がついていたので<n>「棚機（たなばた）」と呼ばれていたのが、<n>その日の呼び名にまでなった。
-EN: The characters for "seventh night" are read "Tanabata"<n>thanks to the famous legend of the Weaver Girl and Cowherd,<n>who can meet only once a year.<n>Her loom, or "hata," had a shelf, or "tana,"<n>so it was called a "tanabata."<n>The loom's name became the name of their special day.
+EN: Tanabata marks the Weaver Girl and Cowherd's yearly meeting. Her loom, "hata," had a shelf, "tana," hence "tanabata." The loom's name became the festival's name, written with the kanji for "seventh night."
 
 @434E4 max=359
 JP: お相撲さんのちゃんこ鍋のルーツは、<n>長崎のしっぽく料理なんだと。<p>しっぽく料理で使う中華鍋を<n>「ちゃんこ」と呼ぶんだが、<p>お相撲さんが長崎巡業のおみやげに<n>それを持ち帰ったのがはじまりなんだわなあ。
@@ -2300,7 +2300,7 @@ EN: In Japan, a licensed driver who rarely drives is called a "paper driver." Th
 
 @44CCC max=359
 JP: ペーパードライバーは、和製英語。<n>海外では通じない。
-EN: "Paper driver" is Japanese-made English for someone licensed to drive who rarely does.<n>The term isn't understood abroad.
+EN: A "paper driver" rarely drives. It's Japanese English, not used abroad.
 
 @44E34 max=359
 JP: 「飾り包丁」って知ってるかね？<p>装飾がいっぱいされた包丁でも、<n>飾っておくだけの包丁ではないんだと。<p>盛り付けるとき表になる側に、飾り模様のように<n>切り目を入れることなんだわなあ。
@@ -2316,7 +2316,7 @@ EN: When do you suppose Japan got its first taxis?<p>It all began with Taxi Moto
 
 @4526C max=359
 JP: タクシー第一号は、１９１２年の８月１５日に<n>東京の有楽町にできた「タクシー自働車株式会社」。<n>たった、６台でのスタートだった。
-EN: Japan's first taxi service was Taxi Motor Co., which opened in Yurakucho, Tokyo, on August 15, 1912.<n>It started with just six cars.
+EN: Taxi Motor Co., Japan's first taxi firm, opened in Tokyo's Yurakucho on Aug. 15, 1912, with just six cars.
 
 @453D4 max=359
 JP: 日本で最初に、駅弁と一緒にお茶を売ったのは、<n>東海道線が開通した昭和２２年頃の静岡駅なんだと。<p>弁当業者がプラットフォームで売ったお茶の第一号は、<n>当時、土瓶に入っていて<p>「汽車土瓶」と呼ばれてたんだわなあ。
@@ -2324,7 +2324,7 @@ EN: Tea was first sold with station boxed lunches at Shizuoka Station around 194
 
 @4553C max=359
 JP: 日本で最初に、駅弁と一緒にお茶を売ったのは、<n>東海道線が開通した昭和２２年頃の静岡駅。<n>当時は、「汽車土瓶」と呼ばれていた。
-EN: Tea was first sold with station boxed lunches at Shizuoka Station around 1947, when the Tokaido Line opened.<n>It came in pots called "train teapots."
+EN: Shizuoka first sold tea with station lunches around 1947. The pots were called "train teapots."
 
 @456A4 max=359
 JP: 「尻が割れる」ってことわざを知ってるかね？<p>かくし事や、たくらみがばれることを言うんだと。<n>ちなみに「尻が来る」ってのは、<p>とばっちりが来ることなんだわなあ。
@@ -2332,7 +2332,7 @@ EN: Do you know the Japanese saying "shiri ga wareru"? Literally, it means "one'
 
 @4580C max=359
 JP: 「尻が割れる」とは、<n>かくし事や、たくらみがばれることを言う。<n>ちなみに「尻が来る」は、<n>とばっちりが来ること。
-EN: "Shiri ga wareru" literally means "one's backside splits." It means a secret or scheme is exposed.<n>"Shiri ga kuru," or "the backside comes," means suffering the fallout of someone else's trouble.
+EN: "Shiri ga wareru" ("backside splits") means a secret or plot is exposed. "Shiri ga kuru" ("backside comes") means catching someone else's flak.
 
 @45974 max=359
 JP: １０月の和名は、「神無月」というんだと。<p>日本の神様が出雲大社に集まる月なので、<n>出雲以外の地方では<p>神様がいなくなってしまうからなんだわな。
@@ -2340,7 +2340,7 @@ EN: October's traditional Japanese name is "Kannazuki," the "month without gods.
 
 @45ADC max=359
 JP: 「神無月」<n>１０月の和名。<n>日本の神様が出雲大社に集まる月なので、<n>出雲以外の地方では神が不在になるため。
-EN: "Kannazuki," or "month without gods," is October's traditional Japanese name.<n>Japan's gods gather at Izumo Grand Shrine that month, leaving the rest of the country without them.
+EN: October is "Kannazuki," the month without gods. They gather at Izumo Grand Shrine, leaving the rest of Japan without them.
 
 @45C44 max=359
 JP: 沖縄の星の砂を知ってるかね？<p>小さな星の形をした白い砂なんだと。<n>でも実はバキュロジプシナという<p>有孔虫の死がいなんだわなあ。
@@ -2372,7 +2372,7 @@ EN: "Nuta" is a dish of greens or shellfish dressed with vinegared miso. Its kan
 
 @4661C max=359
 JP: 青菜や貝を酢みそであえた「ぬた」は、<n>漢字では「沼田」と書く。
-EN: "Nuta," a dish of greens or shellfish dressed with vinegared miso, is written with kanji meaning "swampy rice paddy."
+EN: Nuta: greens or shellfish in vinegar-miso. Its kanji mean "swampy paddy."
 
 @46784 max=359
 JP: 「お茶を濁す」という言葉を知ってるかね？<p>その場を適当にごまかすという意味なんだわな。<p>もともとは、お茶の作法をよく知らないものが、<n>いいかげんな点前で適当に振舞うことからなんだと。
@@ -2380,7 +2380,7 @@ EN: Have you heard the Japanese phrase "o-cha o nigosu," or "muddy the tea"?<p>I
 
 @468EC max=359
 JP: 「お茶を濁す」<n>もともとは、お茶の作法をよく知らないものが、<n>いいかげんな点前で適当に振舞うことから、<n>その場を適当にごまかすという意味。
-EN: "O-cha o nigosu," or "muddy the tea," means fudging things to get through a situation.<n>It comes from people unfamiliar with tea ceremony etiquette making a sloppy attempt at the proper motions.
+EN: "Muddy the tea" means bluffing your way through. It comes from novices faking the proper steps in a tea ceremony.
 
 @46A54 max=359
 JP: チョーカー、プリンセス、マチネ、オペラ、ロープ。<p>これらは、ネックレスの種類なんだと。<p>チョーカーがいちばん短くて、<n>ロープがいちばん長いんだわなあ。
@@ -2428,7 +2428,7 @@ EN: Did you know kimono come in "hitoe" and "awase" styles?<p>Those are the read
 
 @479CC max=359
 JP: 着物の「単衣（ひとえ）」には、裏地がなく<n>「袷（あわせ）」には裏地がある。<n>着物は、季節や気温に合わせて着わけする。
-EN: A "hitoe" kimono is unlined, while an "awase" kimono has a lining.<n>People choose which to wear according to the season and temperature.
+EN: "Hitoe" kimonos are unlined; "awase" are lined. The choice depends on the season and temperature.
 
 @47B34 max=359
 JP: フリスビーの起源は、エール大学の学生が<n>パイ皿を投げて遊んでいたことなんだと。<p>投げていたパイ皿が「フリスビー・ベーカリー」<n>というパン屋のものだったので、<p>フリスビーという名前になったんだわなあ。
@@ -2452,7 +2452,7 @@ EN: Have you heard the saying, "Words are the fabric of character"?<p>It means o
 
 @4823C max=359
 JP: 「言葉は身のあや」とは、<n>言葉はその人の品性のあらわれだと言う意味。
-EN: "Words are the fabric of character" means<n>that a person's speech reveals their character.
+EN: "Words reveal character": how you speak shows what sort of person you are.
 
 @483A4 max=359
 JP: 広島県では、「わにの刺身」を食べるんだと。<p>この「わにの刺身」は、<n>山間部の三次地方に伝わる料理で、<p>鮫のことを「わに」と言うんだわなあ。<n>生のままでも５日以上保存できたんだと。

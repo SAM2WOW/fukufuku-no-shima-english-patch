@@ -156,7 +156,7 @@ EN: Tulip
 
 @15134 max=359
 JP: 全てにストレートに対応する直球<n>勝負の行動派。下手な小細工をす<n>るのは大嫌いです。熱しやすく冷<n>めやすいところは、ぱっと咲いて<n>ぱっと散るチューリップのよう。<n>まっすぐ伸びる茎のように、気に<n>入った相手には誠実です。
-EN: You meet everything head-on, a doer who<n>can't stand sneaky tricks or fancy schemes.<n>Like a tulip that blooms and fades quickly,<n>your passions flare up fast, then cool<n>just as quickly. But like its straight,<n>upright stem, you're honest and true<n>to anyone who wins your heart.
+EN: A tulip type, you face life head-on and hate sly tricks. Your passions bloom and fade fast, but like its straight stem, you're true to whoever wins your heart.
 
 @1529C max=359
 JP: タンポポ
@@ -164,7 +164,7 @@ EN: Dandelion
 
 @15404 max=359
 JP: ほのぼの、のんびりという言葉が<n>ぴったりで、あどけなさを失わな<n>いあなたは、タンポポタイプ。地<n>面にしっかり張った根っこのよう<n>に強い忍耐力も特徴のひとつ。時<n>に、プライドを守ろうとして横柄<n>になることがあるので注意。
-EN: Warm, easygoing, and still innocent at<n>heart, you're a dandelion through and<n>through. Like roots gripping the earth,<n>you have remarkable patience and grit.<n>Just watch that pride of yours:<n>sometimes, trying to protect it<n>can make you act high and mighty.
+EN: Warm, easygoing and young at heart, you're a dandelion. Your patience is as firm as its roots. Beware: defending your pride can make you act high and mighty.
 
 @1556C max=359
 JP: アジサイ
@@ -172,7 +172,7 @@ EN: Hydrangea
 
 @156D4 max=359
 JP: 好奇心が強いということは、浮気<n>性でもあるということ。<n>次々と目移りする様子は、アジサ<n>イの花の色が移ろうがごとし。恋<n>愛では相手の感情が強いと逃げ腰<n>になり、優柔不断なところが表面<n>化してきます。
-EN: All that curiosity comes with a fickle<n>streak. Your interests shift as often<n>as a hydrangea's flowers change color.<n>In romance, a partner whose feelings<n>run too deep can send you backing away.<n>That's when your indecisive side<n>really starts to show.
+EN: Curious but fickle, your interests shift like a hydrangea's colors. In love, a partner's intense feelings make you back away, bringing out your indecisive side.
 
 @1583C max=359
 JP: スミレ
@@ -180,7 +180,7 @@ EN: Violet
 
 @159A4 max=359
 JP: 男性、女性ともに、スミレのよう<n>に優しく他人を包み込む母性の強<n>いタイプです。恋愛の相手に対し<n>ても真剣な恋をして結婚を考える<n>ところがあります。相手にも真剣<n>さを求め、よそ見をされることで<n>プライドが傷つきます。
-EN: Whatever your gender, you're a violet:<n>gentle, nurturing, and full of motherly<n>warmth. You take romance seriously,<n>often with marriage in mind.<n>You expect the same commitment in return.<n>A partner with a wandering eye<n>can really wound your pride.
+EN: Like a violet, you're gentle and nurturing, whatever your gender. You love with marriage in mind and expect commitment. A partner's wandering eye wounds your pride.
 
 @15B0C max=359
 JP: ひまわり
@@ -188,7 +188,7 @@ EN: Sunflower
 
 @15C74 max=359
 JP: 世界は自分を中心に回っているか<n>のような錯覚さえおぼえることが<n>あるほどの自己中心タイプは、ま<n>さにヒマワリです。人前で自分の<n>感情をさらけ出さない代わりに欠<n>点も見せません。おだてに弱くお<n>人好しなところはご愛嬌。
-EN: You're such a sunflower, you sometimes<n>feel the whole world revolves around you!<n>You keep your feelings under wraps<n>in public, and your flaws out of sight.<n>Flattery gets everywhere with you,<n>but your trusting, good-natured side<n>is all part of your charm.
+EN: A sunflower type, you feel the world revolves around you! You hide your feelings and flaws in public. You're a sucker for flattery, but charmingly good-natured.
 
 @15DDC max=359
 JP: スイセン
@@ -196,7 +196,7 @@ EN: Daffodil
 
 @15F44 max=359
 JP: 人から受けた親切には、必ず真心<n>で応える律儀な性格。スーッと伸<n>びたスイセンの立ち姿にその潔さ<n>がにじみ出ています。好き嫌いが<n>激しく、人の好みも人一倍難しい<n>ようです。そのくせ誉められたが<n>りやだったりもします。
-EN: You repay every kindness with heartfelt<n>sincerity. That honorable nature shines<n>through, like a daffodil standing tall.<n>Your likes and dislikes are strong,<n>and you're especially picky about people.<n>For all that, you still have quite<n>a craving for praise.
+EN: Upright as a daffodil, you repay kindness from the heart. You have strong likes and dislikes, especially about people. Yet you're quite hungry for praise yourself.
 
 @160AC max=359
 JP: ユリ
@@ -204,7 +204,7 @@ EN: Lily
 
 @16214 max=359
 JP: さわやかですっきりとした印象を<n>もち、センスのいい高級志向は、<n>まるで大輪のユリの花。人前では、<n>決して自分の取り乱した姿を見せ<n>ることはありません。その反面、<n>みえっぱりなところも否めないの<n>でぜいたく好みもほどほどに。
-EN: Fresh and polished, with elegant taste<n>and a love of luxury, you're like<n>a magnificent lily in full bloom.<n>You never let anyone see you flustered<n>or falling apart. Still, you do have<n>a vain streak, so try to keep<n>those expensive tastes in check.
+EN: Like a grand lily, you're poised, stylish and fond of luxury. You never let others see you flustered. Still, you can be vain, so keep those lavish tastes in check.
 
 @1637C max=359
 JP: ヒヤシンス
@@ -212,7 +212,7 @@ EN: Hyacinth
 
 @164E4 max=359
 JP: 努力は、人のためではなく自己満<n>足を得るための手段。基本は無邪<n>気なナルシストタイプがヒヤシン<n>スです。恋愛に際しては、何も求<n>めることなく深い愛情を注ぎます。<n>それでいて、復讐に回ると相手を<n>追い込む冷酷な面も。
-EN: You work hard for your own satisfaction,<n>rather than for others. Like a hyacinth,<n>you're an innocent soul in love with<n>yourself. In romance, though, you give<n>deep affection and ask for nothing back.<n>But when you seek revenge, you can be<n>ruthless, backing your foe into a corner.
+EN: A hyacinth type, you're innocently in love with yourself and work for your own satisfaction. In love, you give freely, but in revenge, you can be ruthless.
 
 @1664C max=359
 JP: スズラン
@@ -220,7 +220,7 @@ EN: Lily of the Valley
 
 @167B4 max=359
 JP: 仲間や友人を何よりも大切に思い、<n>相手の気持ちや感情を尊重します。<n>あれこれと好奇心が強い様は、一<n>度にたくさんの花をつけるスズラ<n>ン。うまくいかないことはさっさ<n>とあきらめる潔さが、やりっぱな<n>しといわれることも。
-EN: Friends come first with you, and you<n>respect their feelings. Your many interests<n>are like the many blooms on a lily of<n>the valley. If something isn't working,<n>you're quick to let it go and move on.<n>Some admire that decisiveness; others<n>say you never finish what you start.
+EN: Friends and their feelings come first. Your many interests bloom like lily of the valley. You readily drop what isn't working, but others may say you never finish.
 
 @1691C max=359
 JP: キク
@@ -228,7 +228,7 @@ EN: Chrysanthemum
 
 @16A84 max=359
 JP: 逆境に強く精神力も人一倍強いキ<n>クタイプ。物事を長い目で見られ<n>るので、目先のことに振り回され<n>ることはありません。<n>自分の強さに自信があるので、弱<n>者への同情心は薄く、弱点を鋭く<n>見抜くシビアさも特徴です。
-EN: You're a chrysanthemum: tough in adversity,<n>with exceptional mental strength. You take<n>the long view, so short-term concerns<n>don't push you around. Confident in your<n>own strength, you have little sympathy<n>for the weak, and a harsh knack for<n>spotting other people's weak points.
+EN: A chrysanthemum type, you're tough in adversity and take the long view. Sure of your own strength, you have little pity for the weak and a sharp eye for their flaws.
 
 @16BEC max=359
 JP: バラ
@@ -236,7 +236,7 @@ EN: Rose
 
 @16D54 max=359
 JP: 一輪一輪が表情を変え、それぞれ<n>に美しさを競うオールドローズの<n>ようなあなた。個性的でオリジナ<n>リティのある発想が得意です。他<n>人にあれこれ干渉することを嫌い<n>自分と比べることもありません。<n>束縛を好まないタイプ。
-EN: You're like old roses, each bloom with<n>its own look, each vying to be loveliest.<n>A true individual, you have a gift<n>for fresh, original ideas. You dislike<n>meddling in other people's lives and<n>don't compare yourself to them, either.<n>You need freedom, with no strings attached.
+EN: Like an old rose, you bloom in your own way. Original ideas are your gift. You avoid meddling or comparing yourself to others, and hate being tied down.
 
 @16EBC max=359
 JP: カスミソウ
@@ -244,4 +244,4 @@ EN: Baby's Breath
 
 @17024 max=359
 JP: 他人をいたわり、引き立てようと<n>するカスミソウタイプのあなた。<n>愛情表現が素直で、そこに駆け引<n>きや見栄は存在しません。そのく<n>せ自分に酔いやすく、泣いて謝れ<n>ば誰もが許してくれるという甘い<n>考えも強いといえます。
-EN: Like baby's breath, you care for others<n>and help them shine. You show affection<n>openly, with no games or showing off.<n>Still, you can get carried away with<n>your own emotions. You also tend to think<n>a tearful apology will get anyone<n>to forgive you. If only it were that easy!
+EN: Like baby's breath, you help others shine. Your love is sincere, with no games or vanity. But you get swept up in your feelings and think a tearful apology can earn anyone's forgiveness.

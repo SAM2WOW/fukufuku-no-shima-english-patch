@@ -156,7 +156,7 @@ EN: Amino Acids
 
 @15134 max=359
 JP: 活動的でエネルギッシュに行動す<n>るあなたは、アミノ酸タイプ。か<n>らだを動かすのが好きなので、運<n>動するのはお勧めですが、やりす<n>ぎには注意。アミノ酸の補給をし<n>てエクササイズの疲れをためない<n>ように注意しましょう。
-EN: Active and full of energy,<n>you're the amino acid type.<n>You love to get moving, so<n>exercise is a great fit.<n>Just don't overdo it!<n>Replenish those amino acids to keep<n>workout fatigue from piling up.
+EN: You're the active, energetic amino acid type! Exercise suits you, but don't overdo it. Replenish your amino acids to keep workout fatigue from piling up.
 
 @1529C max=359
 JP: キトサン
@@ -164,7 +164,7 @@ EN: Chitosan
 
 @15404 max=359
 JP: おおらかな性格をあらわす大柄で<n>ふっくらした体型が多いのが、こ<n>の、キトサンタイプ。おいしいも<n>のが大好きでつい食べ過ぎてしま<n>うので、ダイエットを気にする人<n>も多いでしょう。キトサンで、カ<n>ロリーカットがおすすめ。
-EN: Chitosan types often have big, plump<n>builds that reflect their easygoing<n>nature. You love good food and tend<n>to eat a little too much, so your<n>weight may be on your mind.<n>Chitosan is recommended to help<n>cut down on absorbed calories.
+EN: Easygoing chitosan types tend to be big and plump. You love good food and may overeat or worry about your weight. Try chitosan to cut calories.
 
 @1556C max=359
 JP: コエンザイム
@@ -172,7 +172,7 @@ EN: Coenzyme
 
 @156D4 max=359
 JP: あなたのタイプはいつまでも若々<n>しく、スラリと長い手足でスマー<n>トな身のこなしができる、コエン<n>ザイム。いきいきとした若々しい<n>からだを作るサプリのようです。<n>落ち着きなく見えたりするのだけ<n>は、注意。
-EN: Forever youthful, with long, slender<n>limbs and graceful movements...<n>You're the coenzyme type!<n>Like a supplement that builds<n>a lively, youthful body, you have<n>energy to spare. Just be careful<n>you don't come across as restless.
+EN: You're the coenzyme type: youthful, with long, slim limbs and graceful moves. Like a vitality supplement, you keep things lively. Just try not to seem restless!
 
 @1583C max=359
 JP: ローヤルゼリー
@@ -180,7 +180,7 @@ EN: Royal Jelly
 
 @159A4 max=359
 JP: 色白で透き通るような肌の人が多<n>いのが、このタイプの特徴。バイ<n>タリティのある美しい体を作るロ<n>ーヤルゼリーのように、体つきも<n>しなやかです。ただし、むくみや<n>すいので水分を摂り過ぎに注意し<n>ましょう。
-EN: Fair, almost translucent skin is<n>common among royal jelly types.<n>Like royal jelly, said to build<n>a beautiful body full of vitality,<n>you have a supple physique.<n>You're prone to puffiness, though,<n>so watch how much fluid you drink.
+EN: Royal jelly types often have fair, clear skin and supple bodies full of vitality. You're prone to puffiness, though, so avoid drinking too much fluid.
 
 @15B0C max=359
 JP: グルコサミン
@@ -188,7 +188,7 @@ EN: Glucosamine
 
 @15C74 max=359
 JP: 堂々とした雰囲気があって、落ち<n>着いた話し方が特徴のあなたは、<n>節々に効くグルコサミンタイプ。<n>腰がウィークポイントになるので、<n>腰を鍛える運動をするといいかも。<n>ダイエットをするなら、心臓に負<n>担のかからないものを。
-EN: With your dignified presence and<n>calm way of speaking, you're the<n>glucosamine type, named for a joint<n>supplement. Your lower back is your<n>weak spot, so try strengthening it<n>with exercise. If you plan to lose<n>weight, choose a heart-friendly way.
+EN: Dignified and calm, you're the glucosamine type, a helper for joints. Your lower back needs strengthening. If you diet, choose a method that's easy on your heart.
 
 @15DDC max=359
 JP: カルシウム
@@ -196,7 +196,7 @@ EN: Calcium
 
 @15F44 max=359
 JP: 神経質でストレスが溜まりやすい<n>あなたは、カルシウムタイプ。カ<n>ルシウムを上手に補給して神経の<n>イライラを静めましょう。胃が痛<n>んだりお腹を壊しやすいので、消<n>化のいい食べ物を選ぶことも体調<n>維持のポイントです。
-EN: Sensitive and quick to feel stressed,<n>you're the calcium type.<n>Keep your calcium topped up<n>to help soothe those frazzled nerves.<n>You're prone to stomachaches and<n>digestive upsets, so easy-to-digest<n>foods are a key to staying well.
+EN: Sensitive and easily stressed, you're the calcium type. Top up your calcium to soothe your nerves. Your stomach upsets easily, so choose foods that digest well.
 
 @160AC max=359
 JP: ポリフェノール
@@ -204,7 +204,7 @@ EN: Polyphenols
 
 @16214 max=359
 JP: ぽっちゃり型に見られがちですが、<n>実はなかなかのナイスボディ。ポ<n>リフェノールタイプのあなたの弱<n>点は、腎臓です。からだの錆びつ<n>きを防ぐポリフェノールを補給し<n>て、若々しいスタイルを保つよう<n>に心がけましょう。
-EN: People may think you're a bit plump,<n>but you've actually got quite a figure!<n>You're the polyphenol type, and<n>your kidneys are your weak spot.<n>Top up on polyphenols to help keep<n>your body from getting rusty,<n>and maintain that youthful shape.
+EN: You may look plump, but you've got a fine figure! You're the polyphenol type. Your kidneys are your weak spot. Take polyphenols to fight body 'rust' and stay youthful.
 
 @1637C max=359
 JP: マカ
@@ -212,7 +212,7 @@ EN: Maca
 
 @164E4 max=359
 JP: 感情の起伏が激しいわりに、意外<n>とポーカーフェイスも得意なあな<n>たはマカタイプ。仕事や趣味に熱<n>中すると、食事も忘れてしまうス<n>トイックな傾向もあります。マカ<n>は、そんなあなたのタフな毎日を<n>サポートします。
-EN: Your emotions have their ups and downs,<n>but you're surprisingly good at<n>keeping a poker face. You're the maca<n>type! You can get so absorbed in work<n>or hobbies that you even forget to<n>eat. Maca helps support you through<n>those demanding days.
+EN: You're the maca type: moody, yet great at keeping a poker face. Work or hobbies can absorb you so much you forget to eat! Maca supports your demanding days.
 
 @1664C max=359
 JP: クエン酸
@@ -220,7 +220,7 @@ EN: Citric Acid
 
 @167B4 max=359
 JP: 骨太でスポーツ選手っぽいイメー<n>ジのあなたのタイプは、クエン酸。<n>からだを動かすのが好きなタイプ<n>なので、疲労をためないようにク<n>エン酸を摂ることをおすすめしま<n>す。運動で腰を痛めやすいので、<n>無理せずマイペースに。
-EN: With your sturdy frame and athletic<n>look, you're the citric acid type.<n>You love being active, so citric acid<n>is recommended to keep fatigue<n>from building up. You're prone to<n>hurting your lower back during exercise,<n>so take it easy and go at your own pace.
+EN: Sturdy and athletic, you're the citric acid type. You love activity, so take citric acid to ward off fatigue. Your lower back hurts easily, so go at your own pace.
 
 @1691C max=359
 JP: ビタミン
@@ -228,7 +228,7 @@ EN: Vitamins
 
 @16A84 max=359
 JP: あなたは、丈夫で長生きできるビ<n>タミンタイプです。ただし、肌は<n>弱い方なので、バランスのとれた<n>ビタミン摂取を心がけましょう。<n>小じわもできやすいので、普段の<n>お手入れやスキンケアにも気を配<n>りたいものです。
-EN: You're the vitamin type:<n>sturdy and built for a long life!<n>Your skin is delicate, though,<n>so aim for a balanced vitamin intake.<n>You're also prone to fine lines,<n>so give your everyday skin care<n>a little extra attention.
+EN: You're the vitamin type: sturdy and long-lived! Your skin is delicate and prone to fine lines, so keep your vitamin intake balanced and give your skin daily care.
 
 @16BEC max=359
 JP: イソフラボン
@@ -236,7 +236,7 @@ EN: Isoflavones
 
 @16D54 max=359
 JP: あなたは、中性的で少年的な体型<n>の人が多いイソフラボンタイプ。<n>不調を感じたら体調を整えるサプ<n>リメントを上手に取り入れましょ<n>う。循環器系が弱い傾向もあるの<n>で代謝にも気を配りたいものです。
-EN: You're the isoflavone type, often<n>with an androgynous, boyish build.<n>When you're feeling off, make good use<n>of supplements to help restore balance.<n>Your circulatory system tends to be weak,<n>so keep an eye on your metabolism, too.
+EN: Isoflavone types often have an androgynous, boyish build. Feeling off? Try supplements to restore balance. Your circulation may be weak, so watch your metabolism.
 
 @16EBC max=359
 JP: ギムネマ
@@ -244,4 +244,4 @@ EN: Gymnema
 
 @17024 max=359
 JP: ぽってりとした唇の人が多いあな<n>たのタイプは、ギムネマです。ち<n>ょっと太りやすい傾向があるので、<n>甘いものを食べ過ぎたと思ったら、<n>ギムネマで糖分カットしてみて。<n>感受性が強く、アレルギーにも注<n>意が必要です。
-EN: Gymnema types often have full lips.<n>You tend to put on weight easily,<n>so if you've overdone the sweets,<n>try gymnema to cut sugar absorption.<n>You're highly sensitive, too,<n>so allergies are something else<n>to watch out for.
+EN: You're the gymnema type, often with full lips. You gain weight easily, so try gymnema after too many sweets to cut sugar uptake. You're sensitive, too, so watch for allergies.

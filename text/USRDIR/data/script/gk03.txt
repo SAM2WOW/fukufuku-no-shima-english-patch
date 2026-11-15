@@ -156,7 +156,7 @@ EN: Fried Shrimp Set Meal
 
 @15134 max=359
 JP: ぴんと跳ね上がったエビフライの<n>しっぽは、食欲をそそります。活<n>きのいいエビフライのように活動<n>的なあなたは、金銭感覚にやや浪<n>費的なところがあります。<n>結婚よりも仕事を優先する傾向が<n>強いかもしれません。
-EN: The upturned tails on fried shrimp<n>are enough to make your mouth water.<n>You're just as lively and active,<n>but you can be a bit of a big spender.<n>When it comes to settling down,<n>you may be more inclined to put<n>your career ahead of marriage.
+EN: Fried shrimp's perky tail whets the appetite! Just as lively, you're an active soul, but a bit of a big spender. You tend to put work before marriage.
 
 @1529C max=359
 JP: 目玉焼き定食
@@ -164,7 +164,7 @@ EN: Fried Egg Set Meal
 
 @15404 max=359
 JP: シンプルで質素ながら、ソースか<n>醤油か塩コショウか、はたまたケ<n>チャップか？と人によってこだわ<n>りが深いのが目玉焼き。内気で従<n>順なあなたはかけられる調味料で<n>味が変わるように、相手にあわせ<n>て服の趣味も変えるタイプです。
-EN: Fried eggs are simple and humble,<n>yet everyone has a favorite topping:<n>sauce, soy sauce, salt and pepper,<n>or ketchup! You're shy and agreeable.<n>Just as seasonings change an egg's flavor,<n>you tend to change your taste in clothes<n>to suit the person you're with.
+EN: A humble fried egg changes flavor with each topping. Shy and agreeable, you change your taste in clothes just as easily to suit whoever you're with.
 
 @1556C max=359
 JP: 肉じゃが定食
@@ -172,7 +172,7 @@ EN: Meat & Potato Stew Set Meal
 
 @156D4 max=359
 JP: 知識欲が旺盛で、いろんなことを<n>吸収しようとするあなたは、肉の<n>うまみが染み込んだジャガイモが<n>たくさん入った肉じゃが定食のよ<n>うです。親友が少ない傾向がある<n>ことから、真の愛情で結ばれる恋<n>のチャンスは大切に！
-EN: Always eager to learn, you soak up<n>all sorts of knowledge, like potatoes<n>soaking up the meat's rich flavor<n>in a hearty stew.<n>You tend to have few close friends,<n>so treasure any chance at a romance<n>built on true affection!
+EN: You soak up knowledge like potatoes soaking up meaty flavor in a stew! You tend to have few close friends, so treasure each chance at love built on true affection.
 
 @1583C max=359
 JP: しょうが焼き定食
@@ -180,7 +180,7 @@ EN: Ginger Pork Set Meal
 
 @159A4 max=359
 JP: 活動的で、ちょっとおおざっぱな<n>あなたは、スタミナとビタミン満<n>点のしょうが焼きといったところ。<n>年下の異性との恋愛の方がうまく<n>いく可能性、大です。<n>しょうが焼き定食タイプ同士なら、<n>さらに相性もぴったりです。
-EN: Active and a little rough around the edges,<n>you're like ginger pork, packed with<n>vitamins and energy!<n>Romance is especially likely to blossom<n>with someone younger of the opposite sex.<n>Another Ginger Pork Set Meal type<n>would be an even better match.
+EN: Active but a bit rough, you're hearty ginger pork! A younger partner of the opposite sex suits you, and a fellow Ginger Pork type is an even better match.
 
 @15B0C max=359
 JP: ハンバーグ定食
@@ -188,7 +188,7 @@ EN: Hamburger Steak Set Meal
 
 @15C74 max=359
 JP: リーダーシップが強いあなたは、<n>ボリューム満点のハンバーグ定食<n>のように存在感があり、周囲の人<n>に慕われるタイプ。<n>ただし、その頭のよさで同僚など<n>から敬遠されるかも。<n>エビフライ定食との相性良し。
-EN: Like a hefty hamburger steak meal,<n>you make your presence felt!<n>A natural leader, you're the sort<n>people admire and look up to.<n>Still, your sharp mind may make<n>coworkers keep their distance.<n>Fried Shrimp Set Meal types suit you well.
+EN: Like a hearty hamburger steak meal, you stand out! You're a leader people admire, but your sharp mind may put coworkers off. Fried Shrimp types are a good match.
 
 @15DDC max=359
 JP: 刺身定食
@@ -196,7 +196,7 @@ EN: Sashimi Set Meal
 
 @15F44 max=359
 JP: 脂がのったトロと淡白な白身。一<n>皿で二つの違った味を楽しめる刺<n>身定食のように、あなたもまた二<n>面性を秘めた人です。<n>タレント顔負けの美男美女が多い<n>のもこのタイプ。恋多き人生を送<n>る人も多いでしょう。
-EN: Rich, fatty tuna and delicate white fish:<n>a sashimi meal offers two distinct flavors<n>on a single plate. You, too,<n>have two sides to your personality.<n>Many of this type have movie-star looks,<n>and quite a few can look forward to<n>a life full of love affairs.
+EN: Like rich tuna and mild white fish sharing a sashimi plate, you have two sides. This type often has movie-star looks and a life full of romances.
 
 @160AC max=359
 JP: お子様ランチ
@@ -204,7 +204,7 @@ EN: Kids' Meal
 
 @16214 max=359
 JP: 夢見がちなヒロイン、ロマンを追<n>い求めるヒーロー。そんなあなた<n>は、大人になってもお子様ランチ<n>を注文したいと思っているのでは<n>ありませんか？さりげなく流行を<n>取り入れるセンスも抜群。華やか<n>な恋愛を手に入れます。
-EN: A dreamy heroine or a starry-eyed hero,<n>you probably still wish you could order<n>a kids' meal, even as a grown-up!<n>You also have a wonderful knack<n>for working trends into your look<n>without making a fuss.<n>A glamorous romance awaits you!
+EN: A dreamer chasing romance, you still fancy a kids' meal even as an adult! You weave trends into your style with ease. A glamorous romance awaits.
 
 @1637C max=359
 JP: 麻婆豆腐定食
@@ -212,7 +212,7 @@ EN: Mapo Tofu Set Meal
 
 @164E4 max=359
 JP: 味付け次第でヒーヒーいうほど辛<n>い麻婆豆腐定食。でも、実はその<n>辛さの内に旨みがぎゅっと凝縮さ<n>れています。派手好きが多いこの<n>タイプは、その程度によってゴー<n>ジャスにも、ただの浪費家にもな<n>る可能性があるようです。
-EN: Mapo tofu can be so spicy<n>it leaves you gasping for water!<n>Yet all that heat hides rich flavor.<n>This type often loves a bit of flash.<n>Depending on how far you take it,<n>you could live in lavish style...<n>or simply turn into a big spender.
+EN: Mapo tofu packs rich flavor beneath its fiery heat! You love to dazzle, but how far you take it decides whether you're living in style or just wasting money.
 
 @1664C max=359
 JP: コロッケ定食
@@ -220,7 +220,7 @@ EN: Croquette Set Meal
 
 @167B4 max=359
 JP: 安いわりには食べごたえもあるコ<n>ロッケ定食。バランスの取れた金<n>銭感覚とモラルの持ち主が多い、<n>コロッケ定食タイプは、あまり派<n>手なことは好みません。<n>家族を大切にし、堅実な家庭を築<n>くでしょう。
-EN: A croquette meal is filling<n>without costing a fortune.<n>This type tends to have sound morals<n>and a balanced approach to money.<n>You're not one for flashy displays.<n>You treasure your family and will likely<n>build a stable, dependable home life.
+EN: Cheap yet filling, a croquette meal is great value! You have sound morals and good money sense. You shun flash, cherish family, and will build a stable home.
 
 @1691C max=359
 JP: 焼き魚定食
@@ -228,7 +228,7 @@ EN: Grilled Fish Set Meal
 
 @16A84 max=359
 JP: 常に冷静な判断力を持ち、的確な<n>進路を歩むことが多い焼き魚定食<n>タイプ。焼き加減が魚の旨みを引<n>き出すように、高い教養が人生の<n>岐路で正しい判断を下すのです。<n>ただ、恋愛には臆病なところがあ<n>り、回数は少ないかも。
-EN: Grilled Fish Set Meal types stay calm<n>and tend to choose the right path.<n>Just as careful grilling brings out flavor,<n>your broad knowledge helps you make<n>wise choices at life's crossroads.<n>You're rather timid about romance, though,<n>so you may have relatively few partners.
+EN: Grilled Fish types calmly choose their path. Like good grilling drawing out flavor, your learning brings out sound judgment. Shy in love, you may have few romances.
 
 @16BEC max=359
 JP: 野菜炒め定食
@@ -236,7 +236,7 @@ EN: Stir-Fried Vegetable Set Meal
 
 @16D54 max=359
 JP: とにかく強火で手早く料理するの<n>が野菜炒めをおいしく仕上げるコツ。まさに野菜炒め定食タイプの<n>あなたは、独身時代は思い切り遊<n>ぶべきだと思っているはず。<n>同じタイプ同士の結婚なら、落ち<n>着いた結婚生活を送れます。
-EN: The secret to a tasty vegetable stir-fry<n>is high heat and quick cooking!<n>As this type, you believe in having<n>all the fun you can while you're single.<n>Marry someone of the same type,<n>and you'll enjoy a settled married life.
+EN: Great veggie stir-fry takes high heat and quick cooking. You stir-fry set types believe in living it up while single. Marry your own type for a calm, settled life.
 
 @16EBC max=359
 JP: 唐揚げ定食
@@ -244,4 +244,4 @@ EN: Fried Chicken Set Meal
 
 @17024 max=359
 JP: 冷めてもおいしい鳥の唐揚げ定食<n>は、自信家で正義感の強いあなた<n>のように、ちょっぴり頑固。自分<n>で決めた道を自分で切り開くタイ<n>プでもあります。やや浮気性なと<n>ころがあるので、そこも自らコン<n>トロールが必要です。
-EN: Fried chicken is tasty even when cold.<n>Like this enduring meal, you're confident,<n>strong on justice, and a little stubborn.<n>You choose your own path<n>and forge ahead under your own steam.<n>You do have a bit of a wandering eye,<n>so you'll need to keep that in check!
+EN: Like fried chicken, tasty even cold, you're confident, fair and a bit stubborn. You forge your own path, but need to keep that wandering eye in check!

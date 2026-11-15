@@ -156,7 +156,7 @@ EN: Loving Wife's Bento
 
 @15134 max=359
 JP: 人の役に立つことがうれしくて、<n>好きな人にはとことんつくすあな<n>たは、愛妻弁当のように人を癒す<n>力があります。マジメで人を気づ<n>かうので、どんな人からも好かれ<n>ます。ただ、マナーや礼儀にはう<n>るさくてガンコなところも。
-EN: You love helping others and give<n>your all to those you love. Like a<n>bento made by a loving wife, you<n>have a gift for comforting people.<n>Earnest and thoughtful, you're liked<n>by all sorts. But you can be stubborn<n>and fussy about manners and etiquette.
+EN: Like a bento made with love, you comfort others. You gladly help and dote on loved ones. Your sincere care wins friends, but you can be stubborn and fussy about manners.
 
 @1529C max=359
 JP: ピクニック弁当
@@ -164,7 +164,7 @@ EN: Picnic Bento
 
 @15404 max=359
 JP: 楽しいことが大好きなあなたは、<n>ピクニック弁当のように、興味が<n>あることをどんどんと詰め込むタ<n>イプ。物怖じせずに、思ったこと<n>にはチャレンジしていく前向きさ<n>は人にうらやましがられてるはず。<n>時間にルーズなところを注意。
-EN: You love having fun! Like a picnic<n>bento, you pack your life with things<n>that catch your interest. You're bold<n>and eager to try whatever comes to<n>mind. Others surely envy your upbeat,<n>can-do attitude. Just watch that habit<n>of being a little too casual about time!
+EN: Like a picnic bento, you pack life with fun and new interests. Others envy your bold, upbeat drive to try things. Just watch your timekeeping!
 
 @1556C max=359
 JP: 日の丸弁当
@@ -172,7 +172,7 @@ EN: Rice-and-Plum Bento
 
 @156D4 max=359
 JP: 白黒をハッキリさせ、勝負事にこ<n>だわるあなたは、日の丸弁当のよ<n>うにキッパリした性格。困ってる<n>人がいるとほおっておけない親分<n>肌です。目標があるほど、心が燃<n>えますが、挑戦する対象がないと<n>とたんにズボラになる傾向が。
-EN: Like a rice-and-plum bento, you like<n>clear contrasts. You see things in<n>black and white and take winning<n>seriously. A natural leader, you can't<n>ignore anyone in need. A goal fires<n>you up, but without a challenge,<n>you can suddenly get very lazy.
+EN: Like a rice-and-plum bento, you're clear-cut and keen to win. A born leader, you help those in need. Goals fire you up, but without a challenge, you get lazy.
 
 @1583C max=359
 JP: 幕の内弁当
@@ -180,4 +180,4 @@ EN: Variety Bento
 
 @159A4 max=359
 JP: 社交性があり、誰とでも合わせら<n>れるあなたは、幕の内弁当のよう<n>にそつない人間関係を築きます。<n>冷静な観察力と判断力で、友達同<n>士のけんかの仲裁をすることも多<n>そう。ただ、カッコ悪い部分は見<n>せたがらないプライドの高い面も。
-EN: Sociable and adaptable, you get along<n>with anyone. Like a variety bento,<n>you bring everyone together smoothly.<n>Your cool head and sound judgment<n>often help settle fights among friends.<n>But you also have a proud streak:<n>you hate letting anyone see you look bad.
+EN: Like a varied bento, you mix well with anyone. Your cool head and sound judgment help settle friends' fights. But pride makes you hide your flaws.

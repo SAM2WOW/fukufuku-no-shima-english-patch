@@ -156,7 +156,7 @@ EN: Cedar
 
 @15134 max=359
 JP: ひとことでいうと「まじめ」。そ<n>れが杉タイプのあなたです。他の<n>人がかったるいと思うようなこと<n>も、地道にコツコツやり遂げるこ<n>とができる頑張りやさんです。目<n>上の人に可愛がられるので、意外<n>にも大金持ちに化けるかも。
-EN: You in a word? "Earnest."<n>That's the Cedar type. You're a hard<n>worker who steadily gets things done,<n>even when others find them a drag.<n>Older people tend to take a shine<n>to you, so you might just surprise<n>everyone by striking it rich!
+EN: You're a Cedar: earnest and hardworking, even at jobs others find tedious. Your steady effort wins over your elders. With their favor, you might just strike it rich!
 
 @1529C max=359
 JP: イチョウ
@@ -164,7 +164,7 @@ EN: Ginkgo
 
 @15404 max=359
 JP: いざというときにユニークなアイ<n>デアを思いつくあなたは、独特な<n>形の葉を持つイチョウ。飽きっぽ<n>いところや、他人の評価を気にし<n>過ぎる面もあります。悪口を言わ<n>れて落ち込むと、立ち直れなくな<n>る気弱さを克服しては？
-EN: You dream up unusual ideas when it<n>counts, making you a Ginkgo, with its<n>distinctive leaves. You get bored<n>easily and worry too much about what<n>others think. A nasty comment can<n>leave you down for ages. Try building<n>the confidence to bounce back!
+EN: You're a Ginkgo: full of fresh ideas when it counts, but quick to get bored. You fret over others' opinions and take insults hard. Build the confidence to bounce back!
 
 @1556C max=359
 JP: ヤシ
@@ -172,7 +172,7 @@ EN: Palm
 
 @156D4 max=359
 JP: 南の島ですくすく育つヤシの木は、<n>お気楽もののあなたのようです。<n>明るくて好奇心も強く、趣味も広<n>いので、仲のいい友人もたくさん。<n>人望があるので、将来大物になる<n>可能性も大。ただ、色んな事に首<n>をつっこみ過ぎないで。
-EN: Like a palm thriving on a sunny island,<n>you're a carefree soul. Cheerful and<n>curious, you have lots of interests<n>and plenty of close friends. You're<n>well liked, so you could become a<n>real big shot someday! Just don't<n>stick your nose into everything.
+EN: You're a Palm: sunny, carefree and curious! Your many interests win you close friends. With all that goodwill, you could go far. Just don't poke your nose into everything!
 
 @1583C max=359
 JP: メイプル
@@ -180,7 +180,7 @@ EN: Maple
 
 @159A4 max=359
 JP: 実は少々、見栄っ張りなところが<n>あるあなたは、メイプルタイプ。<n>外見はしっかり頼れるようでいて、<n>本当はデリケートで寂しがりやの<n>ところも。甘い樹液を内に隠した<n>メイプルのように、内面に優しさ<n>があふれています。
-EN: You're a Maple type, with a bit of<n>a weakness for keeping up appearances.<n>You seem steady and dependable, but<n>deep down, you're sensitive and prone<n>to loneliness. Like a maple hiding<n>sweet sap beneath its bark, you have<n>a heart brimming with kindness.
+EN: You're a Maple: a bit vain, with a sturdy, dependable front. Inside, you're sensitive and lonely. Like sweet sap hidden under bark, your heart is full of kindness.
 
 @15B0C max=359
 JP: 柳
@@ -188,7 +188,7 @@ EN: Willow
 
 @15C74 max=359
 JP: 仕切り上手のあなたは、知らない<n>うちにグループのリーダー的存在<n>になっていませんか？敵を作らな<n>い世渡り上手なあなたは、柳です。<n>自分の意見を無理に押し通さない<n>優しさが人気の源。現実逃避しが<n>ちなのは、注意。
-EN: With your knack for taking charge,<n>do you end up leading the group<n>without even noticing? You're a Willow,<n>skilled at getting along without making<n>enemies. People love that you never<n>force your views on them. Just watch<n>that tendency to escape from reality!
+EN: You're a Willow: a natural leader who gets along without making enemies. People like you because you don't force your views on them. Just don't keep hiding from reality!
 
 @15DDC max=359
 JP: 菩提樹
@@ -196,7 +196,7 @@ EN: Bodhi Tree
 
 @15F44 max=359
 JP: 人に頼られることが負担にならず、<n>逆に他人のために尽くすこともい<n>とわないあなたは、菩提樹タイプ。<n>友人に相談を持ちかけられること<n>も多いのでは？どんな難題でもぶ<n>つかっていくそのパワーで明るい<n>将来を切り開いて！
-EN: Being relied on never feels like<n>a burden. In fact, you're happy to<n>go out of your way for others.<n>You're a Bodhi Tree type! Do friends<n>often come to you for advice? Use<n>that drive to tackle any challenge<n>and carve out a bright future!
+EN: You're a Bodhi Tree: happy to help, even when others lean on you. Friends often seek your advice. Use that drive to face tough problems and build a bright future!
 
 @160AC max=359
 JP: 竹
@@ -204,7 +204,7 @@ EN: Bamboo
 
 @16214 max=359
 JP: 未知の経験に対して好奇心いっぱ<n>い。チャレンジ精神旺盛のあなた<n>は、竹タイプ。物事を勝ち負けで<n>見がちなところも、まさに竹のよ<n>うにまっすぐ。自分勝手でわがま<n>まな人、と誤解されないようにプ<n>ライドもたまには控えめに。
-EN: Full of curiosity about new experiences,<n>you love a challenge. You're a Bamboo<n>type! You tend to see things in terms<n>of winning and losing, as straight<n>as bamboo itself. Set your pride<n>aside sometimes, so people don't<n>mistake you for selfish or demanding.
+EN: You're Bamboo: curious, bold and eager for new challenges. You see life in wins and losses. Ease up on the pride now and then, or people may mistake you for selfish!
 
 @1637C max=359
 JP: モミの木
@@ -212,7 +212,7 @@ EN: Fir
 
 @164E4 max=359
 JP: 寒い冬でも元気に硬い葉を青々と<n>茂らせる針葉樹、モミの木があな<n>たのタイプ。自分の体力に自信が<n>あって、何でも、やればできると<n>思っています。困った人を放って<n>おけない世話好きなところは、年<n>上の人には評価が高いようです。
-EN: Your type is the Fir, whose tough<n>needles stay green even in winter.<n>You trust your stamina and believe<n>you can do anything if you try.<n>You love helping out and can't leave<n>anyone in trouble. Older people<n>especially admire that about you.
+EN: You're a Fir: green even in winter! You trust your stamina and believe you can do anything if you try. You can't ignore someone in need, and your elders admire that.
 
 @1664C max=359
 JP: ユーカリ
@@ -220,4 +220,4 @@ EN: Eucalyptus
 
 @167B4 max=359
 JP: 神秘的なものに惹かれやすく、他<n>人からもミステリアスな人物だと<n>思われてるあなたは、強い毒性を<n>隠し持つユーカリタイプ。自分に<n>はカリスマ的な力があると信じて<n>いたりするところも。ナルシスト<n>ぶりもほどほどが、マル。
-EN: Drawn to all things mysterious, you<n>seem mysterious to others, too.<n>You're a Eucalyptus type, concealing<n>a potent poison within. You may even<n>believe you have a special, magnetic<n>charisma. A little less gazing in<n>the mirror would do you good!
+EN: You're a Eucalyptus, a tree with hidden poison. You love mysteries and seem mysterious yourself. You believe in your own charisma. Just keep that vanity in check!

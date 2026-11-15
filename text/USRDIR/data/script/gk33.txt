@@ -156,7 +156,7 @@ EN: Action
 
 @15134 max=359
 JP: つねに元気でパワフルなあなたは、<n>アクション映画のようです。ガン<n>ガン突き進んでいたかと思うと、<n>ちょっとうまくいかなくてすぐに<n>諦めてしまう面もあります。思い<n>通りに行動する反面、強引過ぎな<n>いように気をつけて。
-EN: Lively and full of energy, you're like an<n>action movie! You charge ahead at full<n>speed, but a small setback can make you<n>give up just as fast. You love doing<n>things your own way. Just take care<n>not to push too hard and steamroll<n>everyone else along the way.
+EN: You're an action movie: bursting with energy! You charge ahead, yet a small setback can make you quit. Do things your way, but don't push others around.
 
 @1529C max=359
 JP: ドキュメンタリー
@@ -164,7 +164,7 @@ EN: Documentary
 
 @15404 max=359
 JP: 一度決めたら、どんなことがあろ<n>うともやり遂げようとするあなた<n>は、ドキュメンタリー映画。粘り<n>強いところが、あなたの長所では<n>ありますが、意固地になってガン<n>コものだと思われるときもあるの<n>で、気をつけましょう。
-EN: Once you make up your mind, you see<n>things through, come what may. You're<n>a documentary! Your persistence is<n>one of your strengths, but there's<n>a fine line between being determined<n>and being stubborn. Take care not to<n>dig in your heels just for the sake of it.
+EN: You're a documentary! Once you decide, you see things through, whatever happens. Persistence is your strength, but take care: determination can turn into stubbornness.
 
 @1556C max=359
 JP: ミュージカル
@@ -172,7 +172,7 @@ EN: Musical
 
 @156D4 max=359
 JP: 同時にたくさんのことをやろうと<n>して、しかも普通の人よりそれを<n>上手に器用にこなせるあなたは、<n>ミュージカル映画。楽しくてフレ<n>ンドリーなムード満載です。一方<n>で心配性な内面があり、ときどき<n>自分でも混乱しそう。
-EN: You like to juggle lots of things at<n>once, and you're better at it than most!<n>You're a musical, bursting with fun<n>and friendly energy. Behind the scenes,<n>though, you're something of a worrier.<n>With so much going on, you sometimes<n>get yourself all tangled up!
+EN: You're a musical! You juggle tasks better than most, spreading fun and friendly vibes. Yet deep down, you're a worrier, and sometimes get yourself in a tangle.
 
 @1583C max=359
 JP: ラブロマンス
@@ -180,7 +180,7 @@ EN: Romance
 
 @159A4 max=359
 JP: 自分の感情をあまり外に出さない<n>方でありながら、恋人や家族には<n>愛情こまやかなあなたは、ラブロ<n>マンス映画。それでいて、愛に飢<n>えていて、自分がどんなに愛され、<n>どれだけ必要とされているかを確<n>かめずにいられません。
-EN: You tend to keep your feelings to<n>yourself, but you shower your partner<n>and family with affection. You're a<n>romance movie! Still, you crave love<n>in return. You can't help wanting<n>reassurance about just how much<n>you're loved and needed.
+EN: You're a romance movie! You hide your feelings but lavish love on your partner and family. Still, you crave affection and need to know how loved and needed you are.
 
 @15B0C max=359
 JP: スペクタクル
@@ -188,7 +188,7 @@ EN: Epic
 
 @15C74 max=359
 JP: 夢や理想が大きく、持ち物や環境<n>も大きなものを選ぶことが多いあ<n>なたは、スペクタクル映画。やる<n>こともダイナミックで、情熱的、<n>誰にでも親切なのも特徴です。意<n>外にも失敗を恐れがち。ときには<n>新しいことにチャレンジ！
-EN: Big dreams, grand ideals, big belongings<n>and spacious surroundings... You like<n>life on a grand scale. You're an epic!<n>You're bold in action, passionate,<n>and kind to everyone. Surprisingly,<n>you also tend to fear failure. Try<n>taking on something new now and then!
+EN: You're an epic! You dream big and like everything grand. Bold, passionate and kind to all, you still fear failure. Dare to try something new!
 
 @15DDC max=359
 JP: サスペンス
@@ -196,7 +196,7 @@ EN: Suspense
 
 @15F44 max=359
 JP: 物事に対して常にカンペキを目指<n>し、神経がピーンとはりつめてい<n>ることが多いあなたはサスペンス<n>映画。自分だけでなく、相手にも<n>カンペキを求めるあまり、ストレ<n>スをためやすいのでは？もっと、<n>おおらかに考えてみては？
-EN: Always striving for perfection, you're<n>often wound tight as a spring. You're<n>a suspense movie! You demand perfection<n>from yourself and everyone around you.<n>Could all those high standards be<n>leaving you stressed out? Try taking<n>a more relaxed view of things.
+EN: You're a suspense movie! Always chasing perfection, you're wound tight. Expecting yourself and others to be perfect piles on the stress. Try to take things more easily.
 
 @160AC max=359
 JP: ファンタジー
@@ -204,7 +204,7 @@ EN: Fantasy
 
 @16214 max=359
 JP: 優雅なもの、きれいなものに囲ま<n>れているのが好きなあなたは、フ<n>ァンタジー映画。普段の行動はエ<n>レガントに見えても、実は、怒り<n>や悲しみを心の奥にじっと隠して<n>いたりするので、突然爆発して周<n>りを驚かすことも。
-EN: You love to surround yourself with<n>beauty and elegance. You're a fantasy<n>movie! Your graceful manner doesn't<n>always tell the whole story, though.<n>You may keep anger and sadness buried<n>deep inside until they suddenly erupt,<n>giving everyone quite a surprise!
+EN: You're a fantasy movie! You love beauty and elegance. Beneath that graceful manner, you hide anger and sadness until they burst out, taking everyone by surprise.
 
 @1637C max=359
 JP: ホラー
@@ -212,7 +212,7 @@ EN: Horror
 
 @164E4 max=359
 JP: なんとなく謎めいた雰囲気のある<n>あなたは、ホラー映画です。周り<n>から見るとつかみどころがないの<n>ですが、実は感受性が鋭く、感動<n>や悲しみも人一倍です。本気で怒<n>ると相手を縮み上がらせるくらい<n>強く攻撃することも。
-EN: There's something mysterious about you.<n>You're a horror movie! Others find you<n>hard to read, but you're deeply sensitive.<n>Joy and sorrow move you more than most.<n>When you're truly angry, though,<n>you can lash out so fiercely that<n>the other person quakes in their boots!
+EN: You're a horror movie! Mysterious and hard to read, you feel joy and sorrow deeply. When truly angry, you can lash out fiercely enough to make others tremble.
 
 @1664C max=359
 JP: ＳＦ
@@ -220,7 +220,7 @@ EN: Sci-Fi
 
 @167B4 max=359
 JP: いつも自由に世界を飛び回ってい<n>たい冒険好きなあなたはＳＦ映画。<n>あえてトラブルに飛び込んでいく<n>ことも多いのですが、実際にやり<n>遂げてしまうパワフルさも持って<n>います。軽はずみな一言で相手を<n>傷つけないように。
-EN: An adventurer who longs to roam the<n>world freely, you're a sci-fi movie!<n>You often leap straight into trouble,<n>but you've got the drive to see things<n>through, too. Just watch what you say:<n>a thoughtless remark could hurt<n>someone more than you realize.
+EN: You're a sci-fi movie! You love adventure and long to roam free. You leap into trouble but have the drive to see it through. Beware: careless words can hurt others.
 
 @1691C max=359
 JP: シリアスドラマ
@@ -228,7 +228,7 @@ EN: Serious Drama
 
 @16A84 max=359
 JP: 礼儀正しく、控えめで、大変まじ<n>めで、仕事熱心。まさにあなたは<n>シリアスドラマです。ゼロから成<n>功するサクセスストーリーが似合<n>います。自分に厳しすぎる傾向が<n>あるので、もっとリラックスした<n>気分になることも大切です。
-EN: Polite, modest, serious and hardworking:<n>you're a serious drama! A story about<n>starting with nothing and working your<n>way to success would suit you perfectly.<n>You do tend to be too hard on yourself,<n>though. Making time to relax is<n>an important part of life, too.
+EN: You're a serious drama! Polite, modest and hardworking, you'd suit a tale of rising from nothing to success. You can be too hard on yourself, so make time to relax.
 
 @16BEC max=359
 JP: アニメーション
@@ -236,7 +236,7 @@ EN: Animation
 
 @16D54 max=359
 JP: 常識や伝統にとらわれず、個性的<n>なおしゃれを楽しむことが好きで、<n>周りの人をびっくりさせることも<n>好きなあなたは、アニメーション<n>映画のようです。メジャーなもの<n>よりマイナーなものに興味がある<n>のも特徴です。
-EN: You don't let convention or tradition<n>cramp your style. You love expressing<n>yourself through fashion and giving<n>people a surprise. You're an animated<n>movie! You're also more interested in<n>obscure little gems than whatever<n>happens to be popular with the crowd.
+EN: You're an animated movie! You love quirky fashion and surprising people. You break with tradition and prefer obscure gems to mainstream hits.
 
 @16EBC max=359
 JP: コメディ
@@ -244,4 +244,4 @@ EN: Comedy
 
 @17024 max=359
 JP: ロマンチストで空想家のあなたは、<n>コメディ映画。他人の気持ちに敏<n>感で、誰にでも優しくすることが<n>できます。傷つきやすく、涙もろ<n>いところもありますので、いつも<n>明るい気分でハッピーにすごすこ<n>とが大切です。
-EN: A romantic and a dreamer, you're a<n>comedy movie! You're sensitive to<n>other people's feelings and can show<n>kindness to anyone. You're also easily<n>hurt and quick to shed a tear, so<n>keeping your spirits up and finding<n>joy in each day is important for you.
+EN: You're a comedy movie! A romantic dreamer, you're kind and sensitive to others' feelings. You're easily hurt and moved to tears, so keep your spirits up and enjoy each day.

@@ -4,23 +4,23 @@
 
 @#0
 JP: ■メーデー：シカゴで行われた「８時間労働<n>制」を求めるストを記念し、１８８６年の第<n>二インターナショナル創立大会でこの日を国<n>際的な万国労働者団結の日と定めた。<n>■日本赤十字社創立記念日：佐野常民らが設<n>立し、敵味方の区別なく負傷者を救護した博<n>愛社が、日本の万国赤十字条約に加盟に伴い<n>日本赤十字社と改称した。
-EN: - May Day: Commemorates the Chicago strike<n>for an eight-hour working day. At the founding<n>congress of the Second International in 1886,<n>this date was designated an international day<n>of solidarity among workers everywhere.<n>- Japanese Red Cross Founding Anniversary:<n>Sano Tsunetami and others founded Hakuaisha to treat wounded soldiers on both sides.<n>When Japan joined the Geneva Convention,<n>the society became the Japanese Red Cross.
+EN: - May Day: Honors Chicago's eight-hour-day strike. The Second International named it a day of worker solidarity in 1886.\n- Japanese Red Cross Anniversary: Sano Tsunetami's Hakuaisha aided wounded on both sides. Renamed when Japan joined the Geneva Convention.
 
 @#1
 JP: ■エンピツ記念日：１８８７年、東京・新宿<n>に「真崎鉛筆製造所（現・三菱鉛筆）」が創<n>立、日本初の鉛筆の工場生産が始まった。<n>■郵便貯金の日：１８７５年、東京と横浜の<n>郵便局で郵便貯金の業務を開始した。<n>■交通広告の日：数字の語呂合わせから、関<n>東交通広告協議会が制定。
-EN: - Pencil Day: In 1887, Masaki Pencil Manufacturing<n>(now Mitsubishi Pencil) was founded in Shinjuku, Tokyo,<n>starting Japan's first factory production of pencils.<n>- Postal Savings Day: Postal savings services began<n>at post offices in Tokyo and Yokohama in 1875.<n>- Transit Advertising Day: Established by the Kanto Transit Advertising Council<n>based on Japanese number wordplay.
+EN: - Pencil Day: In 1887, Masaki Pencil, now Mitsubishi Pencil, opened Japan's first pencil factory in Shinjuku, Tokyo.\n- Postal Savings Day: Service began in Tokyo and Yokohama in 1875.\n- Transit Ad Day: Set by Kanto's transit ad council for Japanese number wordplay.
 
 @#2
 JP: ■憲法記念日：日本国憲法の施行を記念し、<n>国の成長を期する、国民の祝日。<n>■世界報道の自由の日：表現の自由を守る活<n>動を記念する日。１９９３年、国連で制定。<n>■ゴミの日：数字の語呂合わせから。<n>■リカちゃんの誕生日：国民的人気を誇った<n>着せ替え人形、リカちゃんの誕生日。
-EN: - Constitution Memorial Day: A national holiday marking<n>the Japanese Constitution taking effect and celebrating the nation's growth.<n>- World Press Freedom Day: Honors efforts to protect<n>freedom of expression. Established by the UN in 1993.<n>- Garbage Day: Japanese number wordplay: 5 and 3 suggest gomi, or garbage.<n>- Licca's Birthday: The birthday of Licca,<n>Japan's much-loved dress-up doll.
+EN: - Constitution Memorial Day: Honors Japan's constitution and national growth.\n- World Press Freedom Day: UN day for free expression, set in 1993.\n- Garbage Day: 5/3 suggests gomi, garbage.\n- Licca's Birthday: Celebrates Japan's beloved dress-up doll.
 
 @#3
 JP: ■国民の休日：祝日法の改正により、祝日に<n>はさまれた日を休日としたもの。<n>■ラムネの日：１８７２年、実業家、千葉勝<n>五郎が、ラムネの製造販売の許可を取得した。<n>■ノストラダムスの日：１５５５年、フラン<n>スの占星術師、ノストラダムスが「百篇詩集<n>（諸世紀）」を出版した。<n>■競艇の日：下関競艇場が制定。
-EN: - Citizens' Holiday: A revision to Japan's holiday law<n>made a day between two national holidays a holiday too.<n>- Ramune Day: In 1872, businessman Chiba Katsugoro<n>received permission to produce and sell ramune soda.<n>- Nostradamus Day: In 1555, French astrologer<n>Nostradamus published his book of predictions,<n>Les Propheties, also known as The Centuries.<n>- Boat Racing Day: Established by Shimonoseki Boat Race Course.
+EN: - Citizens' Holiday: A day between two national holidays is also a holiday.\n- Ramune Day: In 1872, Chiba Katsugoro got a permit to make and sell the soda.\n- Nostradamus Day: He published The Centuries in France in 1555.\n- Boat Racing Day: Set by Shimonoseki Boat Race Course.
 
 @#4
 JP: ■こどもの日：こどもの人格を重んじ、こど<n>もの幸福をはかるとともに、母に感謝する国<n>民の祝日。<n>■わかめの日：日本わかめ協会が１９８３年<n>に制定。<n>■自転車の日：自転車月間推進協議会が制定。<n>■薬の日：推古天皇が、薬草を採取する薬狩<n>りの日を「薬日」と定めたことにちなんで。
-EN: - Children's Day: A national holiday honoring children's<n>individuality, wishing them happiness,<n>and giving thanks to mothers.<n>- Wakame Day: Established by the Japan Wakame Association<n>in 1983.<n>- Bicycle Day: Established by the Bicycle Month Promotion Council.<n>- Medicine Day: Named for Empress Suiko's designation of a day<n>for gathering medicinal herbs as Medicine Day.
+EN: - Children's Day: Honors children, their happiness and mothers.\n- Wakame Day: Set in 1983 by the Japan Wakame Association.\n- Bicycle Day: Set by the Bicycle Month Promotion Council.\n- Medicine Day: Marks Empress Suiko's day for gathering healing herbs.
 
 @#5
 JP: ■ゴムの日：数字の語呂合わせから、制定。<n>■鑑真忌：日本に渡って日本律宗を開いた唐<n>の高僧、鑑真の忌日。
@@ -32,7 +32,7 @@ EN: - Doctorate Day: In 1888, 25 scholars<n>received Japan's first doctoral degr
 
 @#7
 JP: ■世界赤十字デー：赤十字の創設者アンリ・<n>デュナンの誕生日にちなんで第２０回赤十字<n>社連盟理事会で決定。<n>■松の日：日本の代表的な樹木の松を大切に<n>保護するため、日本の松を守る会が制定。<n>■ゴーヤーの日：数字の語呂合わせなどから、<n>ＪＡ沖縄経済連と沖縄県が制定。
-EN: - World Red Cross Day: Chosen at the 20th Board of Governors meeting<n>of the League of Red Cross Societies to mark the birthday<n>of Red Cross founder Henry Dunant.<n>- Pine Day: Established by the Society for the Preservation of Japanese Pines<n>to protect one of Japan's most iconic trees.<n>- Bitter Melon Day: Established by JA Okinawa's economic federation and Okinawa Prefecture,<n>partly because 5 and 8 suggest goya, or bitter melon.
+EN: - World Red Cross Day: Marks founder Henry Dunant's birthday.\n- Pine Day: Set by a Japanese pine conservation group to protect these iconic trees.\n- Bitter Melon Day: Set by Okinawa and its farm federation. 5/8 suggests goya, bitter melon.
 
 @#8
 JP: ■アイスクリームの日：横浜で、日本初のア<n>イスクリームが販売された日。<n>■黒板の日：こ、く、の語呂合わせなどから、<n>全国黒板工業連盟が制定。<n>■メイクの日：ＭＡＹ、く、の語呂合わせ。
@@ -40,27 +40,27 @@ EN: - Ice Cream Day: Marks the day Japan's first ice cream<n>went on sale in Yok
 
 @#9
 JP: ■バードウィーク：「愛鳥週間」の１日目。<n>■日本気象協会創立記念日：１９５０年、日<n>本気象協会が業務を開始した。<n>■コットンの日：数字の語呂合わせなどから、<n>日本紡績協会が１９９５年に制定。
-EN: - Bird Week: The first day of Japan's Bird Protection Week.<n>- Japan Weather Association Founding Anniversary:<n>The association began operations in 1950.<n>- Cotton Day: Established by the Japan Spinners' Association in 1995,<n>partly through Japanese number wordplay on cotton.
+EN: - Bird Week: Japan's Bird Protection Week begins.\n- Japan Weather Association Anniversary: Operations began in 1950.\n- Cotton Day: Set by the Japan Spinners' Association in 1995, partly for Japanese number wordplay.
 
 @#10
 JP: ■大津事件の日：１８９１年、訪日中のロシ<n>ア皇太子が男に突然斬りつけられるという事<n>件が起きた日。後の裁判で、政府の判断を覆<n>して大審院が独自の判決を出し、司法の独立<n>が守られたと証明された事件でもある。<n>■鵜飼い開き：岐阜県長良川で、その年の鵜<n>飼漁が始まる日。
-EN: - Otsu Incident Anniversary: In 1891, a man suddenly<n>attacked the visiting Russian crown prince with a sword.<n>In the trial that followed, Japan's highest court<n>issued its own ruling despite the government's wishes.<n>The case demonstrated the independence of the judiciary.<n>- Cormorant Fishing Season Opens: The year's cormorant fishing<n>begins on the Nagara River in Gifu Prefecture.
+EN: - Otsu Incident Day: In 1891, a man slashed the visiting Russian crown prince. Japan's top court defied government pressure in its ruling, upholding judicial independence.\n- Cormorant Fishing Opens: The season starts on Gifu's Nagara River.
 
 @#11
 JP: ■ナイチンゲールデー：赤十字社がナイチン<n>ゲールの誕生日にちなんで制定。<n>■海上保安の日：海上保安庁が「開庁記念日」<n>として制定、後、「海上保安の日」に改称。<n>■アセロラの日：アセロラの初収穫の時期で<n>あることから、沖縄県本部町が制定。<n>■看護の日：厚生省（現・厚生労働省）や日<n>本看護協会等が制定。
-EN: - Nightingale Day: Established by the Red Cross<n>to mark Florence Nightingale's birthday.<n>- Coast Guard Day: Established by the Japan Coast Guard as its Founding Anniversary,<n>and later renamed Coast Guard Day.<n>- Acerola Day: Established by Motobu, Okinawa,<n>because this is the season's first acerola harvest.<n>- Nursing Day: Established by the Ministry of Health and Welfare (now the Ministry of Health, Labour and Welfare),<n>the Japanese Nursing Association, and other organizations.
+EN: - Nightingale Day: The Red Cross marks Florence Nightingale's birthday.\n- Coast Guard Day: Began as the Japan Coast Guard's founding anniversary.\n- Acerola Day: Motobu, Okinawa, marks the season's first harvest.\n- Nursing Day: Set by Japan's health ministry and nursing association.
 
 @#12
 JP: ■愛犬の日：ジャパンケンネルクラブが制定<n>した、人と犬との共存を願う日。ドッグショ<n>ーなどのイベントも行っている。<n>■カクテルの日：アメリカの雑誌「バランス」<n>の１８０６年５月１３日号に、カクテルとい<n>う名称が初めて登場。<n>■メイストームデー：バレンタインから数え<n>て、別れ話を切り出すのに最適とされる日。
-EN: - Dog Lovers' Day: Established by the Japan Kennel Club<n>to encourage people and dogs to live happily together.<n>Events include dog shows and more.<n>- Cocktail Day: The word cocktail first appeared<n>in the May 13, 1806 issue of the American publication<n>The Balance.<n>- May Storm Day: Counting forward from Valentine's Day,<n>this is said to be the ideal day to bring up a breakup.
+EN: - Dog Lovers' Day: Japan Kennel Club day for harmony between people and dogs, with dog shows.\n- Cocktail Day: The name debuted in the US magazine The Balance on May 13, 1806.\n- May Storm Day: Counted from Valentine's Day, supposedly the ideal day to bring up a breakup.
 
 @#13
 JP: ■種痘の日：１７９６年、イギリスの外科医<n>ジェンナーが初めて種痘の接種に成功した。<n>この後、天然痘による死亡者は激減、１９７<n>９年に世界保健機構によって根絶が確認。<n>■温度計の日：水銀温度計を発明し、華氏温<n>度表記（°Ｆ）に名前を使われているドイツ<n>の物理学者ファーレンハイトの誕生日。
-EN: - Smallpox Vaccination Day: In 1796, British surgeon<n>Edward Jenner successfully performed his first smallpox vaccination.<n>Deaths from smallpox then fell dramatically, and in 1979,<n>the World Health Organization confirmed its eradication.<n>- Thermometer Day: The birthday of German physicist<n>Daniel Gabriel Fahrenheit, inventor of the mercury thermometer<n>and namesake of the Fahrenheit temperature scale.
+EN: - Vaccination Day: Jenner's first smallpox vaccine (1796) led to fewer deaths; WHO confirmed eradication in 1979.\n- Thermometer Day: Birthday of Fahrenheit, inventor of the mercury thermometer and namesake of the Fahrenheit scale.
 
 @#14
 JP: ■沖縄本土復帰記念日：１９７２年５月１５<n>日をもって、前年結ばれた「沖縄返還協定」<n>が発効し、施政権がアメリカから日本に返還、<n>沖縄県が誕生した。<n>■ストッキングの日：１９４０年、アメリカ<n>のデュポン社がナイロン・ストッキングを全<n>米で発売した。<n>■国際家族デー：１９９３年、国連で制定。
-EN: - Okinawa Reversion Day: On May 15, 1972,<n>the Okinawa Reversion Agreement, signed the previous year,<n>took effect. Administrative control passed from the US to Japan,<n>and Okinawa Prefecture was established.<n>- Stockings Day: In 1940, the American company<n>DuPont put nylon stockings on sale<n>throughout the United States.<n>- International Day of Families: Established by the UN in 1993.
+EN: - Okinawa Reversion Day: US rule ended on May 15, 1972; Okinawa became a Japanese prefecture.\n- Stockings Day: DuPont launched nylon stockings across the US in 1940.\n- International Day of Families: Set by the UN in 1993.
 
 @#15
 JP: ■旅の日：旧暦でこの日にあたる日に、松尾<n>芭蕉が「奥の細道」の旅へ旅立ったとされる<n>ことから、日本旅のペンクラブが制定。
@@ -68,11 +68,11 @@ EN: - Travel Day: Established by the Japan Travel Pen Club to mark<n>the date, u
 
 @#16
 JP: ■生命・きずなの日：日本ドナー家族クラブ<n>が制定した、生命の大切さ、生命の絆につい<n>て考える日。<n>■世界電気通信の日：電気通信の普及と理解<n>を深めるため、国際電気通信連合が１９６８<n>年に制定。<n>■パック旅行の日：１９６１年、イギリスで<n>世界初のパック旅行が行われた。
-EN: - Life and Bonds Day: Established by the Japan Donor Family Club<n>as a day to reflect on the value of life<n>and the bonds that connect us.<n>- World Telecommunication Day: Established by the International Telecommunication Union<n>in 1968 to promote telecommunications<n>and a deeper understanding of them.<n>- Package Tour Day: In 1961, the world's first<n>package tour took place in Britain.
+EN: - Life and Bonds Day: Japan Donor Family Club's day to value life and its bonds.\n- World Telecommunication Day: Set by the ITU in 1968 to promote understanding of telecoms.\n- Package Tour Day: The world's first package tour took place in Britain in 1961.
 
 @#17
 JP: ■ことばの日：数字の語呂合わせから制定。<n>■１８リットル缶の日：「５ガロン缶」と呼<n>ばれていたサイズが「１８リットル缶」に統<n>一されたことから、５ガロンの５と、１８リ<n>ットルの１８より制定。<n>■国際親善デー：１８９９年、ロシアのニコ<n>ライ２世の提唱で第１回平和会議が開催。<n>■国際博物館の日：国際博物館会議が制定。
-EN: - Words Day: Established through Japanese number wordplay on kotoba, or words.<n>- 18-Liter Can Day: These containers were once called<n>five-gallon cans before the name was standardized<n>as 18-liter cans. The date combines the 5 from five gallons<n>with the 18 from 18 liters.<n>- International Goodwill Day: In 1899, the first Peace Conference<n>was held at the suggestion of Russia's Nicholas II.<n>- International Museum Day: Established by the International Council of Museums.
+EN: - Words Day: The date sounds like kotoba, Japanese for "words."\n- 18-Liter Can Day: May 18 pairs the old 5-gallon name with 18 liters.\n- Goodwill Day: Nicholas II proposed the first Peace Conference, held in 1899.\n- Museum Day: Founded by the International Council of Museums.
 
 @#18
 JP: ■ボクシング世界チャンピオン誕生記念日：<n>１９５２年、挑戦者、白井義男が世界フライ<n>級チャンピオンのマリノに判定勝ちし、日本<n>初のボクシングのチャンピオンになった。
@@ -80,7 +80,7 @@ EN: - Japan's First World Boxing Champion Day:<n>In 1952, challenger Yoshio Shir
 
 @#19
 JP: ■東京港開港記念日：１９４１年、芝浦と竹<n>芝の両ふ頭が完成し、外国貿易港として開港。<n>■世界計量記念日：メートル条約の締結１２<n>５周年を記念して２０００年から実施。<n>■新東京国際空港開港記念日：空港建設が閣<n>議決定されてから１２年後の１９７８年、<n>千葉県成田市に新東京国際空港が開港した。<n>■ローマ字の日：日本のローマ字社が制定。
-EN: - Port of Tokyo Opening Anniversary: In 1941, the Shibaura and Takeshiba<n>piers were completed, and the port opened to foreign trade.<n>- World Metrology Day: Observed since 2000 to mark<n>the 125th anniversary of the signing of the Metre Convention.<n>- New Tokyo International Airport Opening Anniversary:<n>In 1978, 12 years after the cabinet approved its construction,<n>New Tokyo International Airport opened in Narita, Chiba Prefecture.<n>- Romanization Day: Established by the Nippon Romaji-Sya.
+EN: - Tokyo Port Day: Opened to foreign trade in 1941.\n- World Metrology Day: Began in 2000, 125 years after the Metre Convention.\n- Narita Airport Day: Opened in 1978, 12 years after cabinet approval.\n- Romanization Day: Set by Nippon Romaji-Sya.
 
 @#20
 JP: ■リンドバーグ翼の日：１９２７年、チャー<n>ルス・リンドバーグがニューヨークからパリ<n>に到着、大西洋無着陸横断飛行に成功。<n>■小学校開校の日：１８６９年、京都市に日<n>本初の「上京第二十七番組小学校」開校。
@@ -104,7 +104,7 @@ EN: - Kojien Dictionary Day: In 1955, Iwanami Shoten published<n>the first editi
 
 @#25
 JP: ■ル・マンの日：１９２３年、自動車耐久レ<n>ースの最高峰である、ル・マン２４時間耐久<n>レースの第１回大会が開催された日。<n>■東名高速全線開通記念日：１９６９年、大<n>井松田ＩＣ～御殿場ＩＣが開通、東京と愛知<n>県を結ぶ東名高速道路が全線開通した。<n>■ラッキーゾーンの日：１９４７年、甲子園<n>球場にラッキーゾーンが設置された日。
-EN: - Le Mans Day: In 1923, the first 24 Hours of Le Mans,<n>the premier automobile endurance race,<n>was held.<n>- Tomei Expressway Completion Anniversary: In 1969, the section<n>between Oi-Matsuda and Gotemba interchanges opened,<n>completing the expressway linking Tokyo and Aichi Prefecture.<n>- Lucky Zone Day: In 1947, Koshien Stadium installed its Lucky Zone,<n>an area inside the outfield fence that made home runs easier to hit.
+EN: - Le Mans Day: The first 24 Hours of Le Mans race was held in 1923.\n- Tomei Expressway Day: The Oi-Matsuda-Gotemba link completed the Tokyo-Aichi route in 1969.\n- Lucky Zone Day: Koshien Stadium added its Lucky Zone in 1947.
 
 @#26
 JP: ■海軍記念日：１９０５年、東郷平八郎率い<n>る日本艦隊が、ロシアのバルチック艦隊に対<n>し大勝利を収めた日本海海戦にちなんで。<n>■百人一首の日：１２３５年、藤原定家によ<n>って小倉百人一首が完成されたとされる日。
@@ -112,16 +112,16 @@ EN: - Navy Day: Commemorates the 1905 Battle of Tsushima,<n>when the Japanese fl
 
 @#27
 JP: ■国際アムネスティ記念日：１９６１年、政<n>治的権力からの人権侵害を防ぐための国際民<n>間機関アムネスティ・インターナショナルが<n>発足した日。<n>■花火の日：１７３３年、隅田川、水神祭り<n>の川開きに花火が上げられたことにちなんで。<n>■ゴルフ記念日：スポーツ用品メーカーの直<n>営店・エスポートミズノが制定。
-EN: * Amnesty International Anniversary: On this day in 1961,<n>Amnesty International was founded as an international<n>nongovernmental organization to protect human rights<n>from abuses of political power.<n>* Fireworks Day: Commemorates the fireworks set off in 1733<n>at the Sumida River's season-opening Water God Festival.<n>* Golf Anniversary: Established by Esport Mizuno, a store<n>run directly by sporting goods manufacturer Mizuno.
+EN: - Amnesty Day: Amnesty International was founded in 1961 to fight human rights abuses.\n- Fireworks Day: Marks fireworks at the Sumida River's Water God Festival in 1733.\n- Golf Day: Created by Mizuno's Esport Mizuno store.
 
 @#28
 JP: ■エベレスト登頂記念日：１９５３年、ニュ<n>ージーランドのヒラリーとシェルパのノルゲ<n>イが、世界初のエベレストの登頂に成功。<n>■呉服の日：数字の語呂合わせから全国呉服<n>小売組合総連合会が制定。<n>■こんにゃくの日：種芋の植え付け期と、日<n>付の語呂合わせから、全国こんにゃく協同組<n>合連合会が制定。
-EN: * Everest Summit Anniversary: In 1953, New Zealand's<n>Edmund Hillary and Sherpa Tenzing Norgay became the first<n>people to reach the summit of Mount Everest.<n>* Kimono Fabric Day: Established by Japan's national federation<n>of kimono retailers. The date sounds like gofuku, "kimono fabric."<n>* Konnyaku Day: Established by Japan's national federation of<n>konnyaku cooperatives to mark planting season. The date's<n>pronunciation also sounds like "konnyaku."
+EN: - Everest Day: Hillary and Sherpa Tenzing Norgay made the first ascent in 1953.\n- Kimono Fabric Day: Kimono retailers chose the date for gofuku wordplay.\n- Konnyaku Day: Co-ops chose the date for its wordplay and planting season.
 
 @#29
 JP: ■消費者の日：経済企画庁（現・内閣府）が<n>主催、１９７８年に政府が制定。<n>■掃除機の日：梅雨どきに向けて、掃除の大<n>切さを知る日として日本電機工業会が制定。<n>■ゴミゼロの日：数字の語呂合わせから、各<n>都道府県の環境美化推進協議会が実施。<n>■文化財保護法公布記念日：１９５０年、文<n>化財保護法が公布。
-EN: * Consumer Day: Established by the government in 1978 and<n>organized by the Economic Planning Agency (now the Cabinet Office).<n>* Vacuum Cleaner Day: Established by the Japan Electrical<n>Manufacturers' Association to promote cleaning before the rainy season.<n>* Zero Garbage Day: A play on the date's pronunciation, marked<n>by environmental beautification councils across Japan.<n>* Cultural Properties Protection Act Promulgation Anniversary:<n>The law was promulgated on this day in 1950.
+EN: - Consumer Day: Set by Japan's government in 1978.\n- Vacuum Cleaner Day: A reminder to clean before the rainy season.\n- Zero Garbage Day: May 30 sounds like "zero garbage" in Japanese.\n- Heritage Protection Law Day: The law was promulgated in 1950.
 
 @#30
 JP: ■郵政省設置記念日：１９４９年、逓信省が<n>分離して、郵政省と電気通信省（電電公社を<n>経て現在のＮＴＴ）が設置されたことを記念<n>して。<n>■総理府設置記念日：１９４９年、総理府が<n>設置された日。<n>■世界禁煙デー：世界保健機関が１９８９年<n>に制定した国際デー。
-EN: * Ministry of Posts and Telecommunications Anniversary: In 1949,<n>the Ministry of Communications was split into the Ministry of Posts and<n>Telecommunications and the Ministry of Telecommunications. The latter<n>eventually became NTT, via the public telecom corporation.<n>* Prime Minister's Office Anniversary: Established on this day in 1949.<n>* World No Tobacco Day: An international observance established<n>by the World Health Organization in 1989.
+EN: - Postal Ministry Day: In 1949, the Communications Ministry split into postal and telecom ministries; the latter became NTT.\n- Prime Minister's Office Day: Established in 1949.\n- World No Tobacco Day: Created by WHO in 1989.

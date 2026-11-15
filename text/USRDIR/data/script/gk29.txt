@@ -156,7 +156,7 @@ EN: Courtesy
 
 @15134 max=359
 JP: 「礼」。礼儀を最も大事にし、失<n>礼を最も嫌う人です。人が守るべ<n>きことを常に念頭において行動し<n>ています。おもしろみのないヤツ<n>と他人に言われることが気にはな<n>りますが、最後に笑うのは自分だ<n>とひそかに思っています。
-EN: "Courtesy." Manners mean everything to you,<n>and rudeness is your pet peeve.<n>You always act with a clear sense of<n>how people ought to behave.<n>Being called dull does bother you,<n>but deep down, you're sure<n>you'll have the last laugh.
+EN: "Courtesy." You prize manners and hate rudeness. You always follow the rules of good conduct. Being called dull stings, but secretly you're sure you'll have the last laugh.
 
 @1529C max=359
 JP: 誠
@@ -164,7 +164,7 @@ EN: Sincerity
 
 @15404 max=359
 JP: 「誠」。人生には誠実さが大切だ<n>と考える人です。偉い人にゴマを<n>すったり、納得のいかないことで<n>形式的に謝ることがいちばん許せ<n>ません。人にも事がらにもまっす<n>ぐに誠心誠意ぶちあたります。そ<n>のためには労をおしみません。
-EN: "Sincerity." You believe honesty<n>is what matters most in life.<n>You can't stand flattery of the powerful<n>or empty apologies for things you don't regret.<n>You face people and problems head-on,<n>with all your heart,<n>and spare no effort to do so.
+EN: "Sincerity." Honesty comes first. You hate flattery of the powerful and apologies you don't mean. You give your all to people and problems, sparing no effort.
 
 @1556C max=359
 JP: 義
@@ -172,7 +172,7 @@ EN: Duty
 
 @156D4 max=359
 JP: 「義」。義理と人情を大事にし、<n>不義理をいちばん嫌う人です。小<n>さくまとまることなく、大きな夢<n>の実現にチャレンジしてこそ吉。<n>強い正義感を発揮しながら上へ上<n>へと目指しましょう。ただし周囲<n>に自己犠牲を強いてはダメです。
-EN: "Duty." You cherish loyalty and compassion,<n>and hate letting people down.<n>Don't settle for a small, safe life.<n>Luck favors those who chase big dreams!<n>Let your strong sense of justice<n>guide you ever higher. Just don't<n>demand that others sacrifice themselves.
+EN: "Duty." You value loyalty and kindness, and hate betrayal. Aim high: luck favors big dreams! Let justice guide you, but don't force others to make sacrifices.
 
 @1583C max=359
 JP: 夢
@@ -180,7 +180,7 @@ EN: Dream
 
 @159A4 max=359
 JP: 「夢」。自分の理想のためになら<n>時を忘れて無我夢中になれる人で<n>す。決してせかせかしたとこはな<n>く、ゆったりと構える印象です。<n>その様子から、ともすれば現実離<n>れしていると思われがちですが、<n>実は地に足がついた現実派です。
-EN: "Dream." When pursuing your ideals,<n>you can get so absorbed that time flies by.<n>You never seem rushed,<n>and take life at an easy pace.<n>This can make you seem<n>out of touch with reality, but actually,<n>you're a realist with both feet on the ground.
+EN: "Dream." Pursuing your ideals makes you lose track of time. Your easygoing pace may make you seem out of touch, but you're a realist with your feet firmly on the ground.
 
 @15B0C max=359
 JP: 極
@@ -188,7 +188,7 @@ EN: Perfection
 
 @15C74 max=359
 JP: 「極」。極上を愛し、究極を追い<n>求める人です。独立心が強く、セ<n>ンスも抜群ですが、人から意見を<n>言われることを極端に嫌う傾向が<n>あるのが欠点です。逆に人を追い<n>つめるような言動を好みます。勝<n>負へこだわりもほどほどが大事。
-EN: "Perfection." You love the finest things<n>and always seek the ultimate.<n>Independent and blessed with great taste,<n>you really hate being told what others think.<n>Yet you enjoy putting others on the spot<n>with your words and actions.<n>Try not to make winning everything.
+EN: "Perfection." You seek the very best. Independent, with great taste, you hate others' advice yet enjoy putting them on the spot. Ease up on your need to win.
 
 @15DDC max=359
 JP: 忍
@@ -196,7 +196,7 @@ EN: Endurance
 
 @15F44 max=359
 JP: 「忍」。忍耐を美徳とする物静か<n>な人です。強じんな精神力でコツ<n>コツと趣味や仕事をこなし、大き<n>な成果をあげることができるでし<n>ょう。本来は他人の過ちにも寛容<n>ですが、いったん信頼をうらぎら<n>れると、残忍な一面も見せます。
-EN: "Endurance." Quiet by nature,<n>you see patience as a virtue.<n>Your mental strength and steady effort<n>can bring great results in work and hobbies.<n>You're usually forgiving of others' mistakes,<n>but once someone betrays your trust,<n>you can show a cruel streak.
+EN: "Endurance." Quiet and patient, your inner strength and steady work bring great results. You forgive mistakes, but betray your trust and you can show a cruel streak.
 
 @160AC max=359
 JP: 命
@@ -204,7 +204,7 @@ EN: Life
 
 @16214 max=359
 JP: 「命」。運命を信じる人で、与え<n>られた事がらを自分なりの方法で<n>楽しくこなす才能に恵まれていま<n>す。友だちとの他愛のない会話や<n>毎日の暮らしの中にこそ喜びを見<n>い出すことができるでしょう。快<n>楽主義に走らないよう慎んで。
-EN: "Life." You believe in fate,<n>and have a gift for finding your own fun<n>in whatever life hands you.<n>You find joy in everyday living<n>and carefree chats with friends.<n>Just take care not to let<n>the pursuit of pleasure rule your life.
+EN: "Life." You trust in fate and find your own fun in whatever it brings. Joy lies in daily life and idle chats with friends. Just don't let pleasure become your only goal.
 
 @1637C max=359
 JP: 智
@@ -212,7 +212,7 @@ EN: Wisdom
 
 @164E4 max=359
 JP: 「智」。智恵や知識に恵まれた人<n>です。未知のものに対しては、既<n>成の常識にとらわれることなく自<n>分なりに本質をあきらかにしたい<n>と考えるタイプです。それゆえ、<n>こもりがちなところも。くよくよ<n>しないことを心がけて吉です。
-EN: "Wisdom." You are blessed with<n>both knowledge and insight.<n>When faced with the unknown, you seek<n>its true nature in your own way,<n>unbound by conventional wisdom.<n>This can make you a bit of a recluse.<n>For better luck, try not to dwell on worries.
+EN: "Wisdom." You have knowledge and insight. You seek the truth behind the unknown in your own way, free of accepted ideas. This can make you reclusive. Try not to brood.
 
 @1664C max=359
 JP: 愛
@@ -220,7 +220,7 @@ EN: Love
 
 @167B4 max=359
 JP: 「愛」。いつくしむ心を大事にし<n>たいと願う人です。人に頼られる<n>ことも多く、お世話することも大<n>好き。が、単に用事をいいつけら<n>れていると受け止めてしまい拒絶<n>することも。情を持つことで、人<n>生の幅が広がるでしょう。
-EN: "Love." You want to keep<n>a caring heart.<n>People often rely on you,<n>and you love looking after them.<n>But if it feels like they're ordering you<n>around, you may refuse to help.<n>Compassion will open up your world.
+EN: "Love." You value a caring heart. People rely on you, and you love helping, but may refuse if you feel you're being ordered around. Let compassion broaden your world.
 
 @1691C max=359
 JP: 炎
@@ -228,7 +228,7 @@ EN: Flame
 
 @16A84 max=359
 JP: 「炎」。野心のたぎる情熱の人で<n>す。厳しい状況におかれればおか<n>れるほど、実力を発揮して問題を<n>解決へと導きます。どんなときで<n>も一人で考えすみやかに決断を下<n>せますが、たまには人に相談して<n>みる心のゆとりも必要です。
-EN: "Flame." You burn with passion and ambition.<n>The tougher things get,<n>the more your talents shine,<n>helping you find a way through.<n>You think for yourself and decide quickly<n>in any situation. Still, leave yourself<n>room to ask others for advice sometimes.
+EN: "Flame." You burn with ambition. The tougher the problem, the more your talents shine. You think and decide quickly on your own, but make time to seek advice, too.
 
 @16BEC max=359
 JP: 侍
@@ -236,7 +236,7 @@ EN: Samurai
 
 @16D54 max=359
 JP: 「侍」。やりがいがあると思える<n>ことは実直にやりとげられる強い<n>精神力を持った人です。尊敬する<n>人につかえるためには辛抱もいと<n>わないのですが、少々ガンコなき<n>らいも。たまにはタイプの違う人<n>とも積極的に話してみては？
-EN: "Samurai." You have the strength of mind<n>to see worthwhile tasks through<n>with honesty and dedication.<n>You'll endure hardship to serve<n>someone you respect, but you can<n>be a little stubborn. Why not try<n>chatting with people unlike yourself?
+EN: "Samurai." Strong and sincere, you see worthy tasks through and endure hardship for those you respect. A bit stubborn? Try talking to people unlike you.
 
 @16EBC max=359
 JP: 魂
@@ -244,4 +244,4 @@ EN: Soul
 
 @17024 max=359
 JP: 「魂」。自分の信念に率直に行動<n>したいと願う人です。仲間うちで<n>もなくてはならない存在感があり<n>ます。心の中の鬼とつねに葛藤し<n>ているのか、自分の内面にこだわ<n>りがある反面で見た目や形にもと<n>らわれる一面も。浪費に注意。
-EN: "Soul." You want to act true<n>to your convictions.<n>Your friends see you as indispensable.<n>Perhaps you're always battling inner demons:<n>you dwell on your inner self, yet also<n>get caught up in appearances and formalities.<n>Watch out for wasteful spending.
+EN: "Soul." You strive to live by your beliefs. Your friends need you. You may wrestle with inner demons, yet appearances matter too. Watch your spending.

@@ -156,7 +156,7 @@ EN: Alarm Clock
 
 @15134 max=359
 JP: 意志が強く責任感があり、計画的<n>な目覚し時計のようなあなたは、<n>自然とリーダーになってしまうタ<n>イプ。そんなあなたを信頼して、<n>周りは友達でいっぱい。ただ、自<n>分の意見を押しつけすぎると、う<n>るさがれてしまうので注意。
-EN: Strong-willed, responsible and organized, you're like an alarm clock: a natural leader! People trust you, so you're surrounded by friends. Just be careful not to push your opinions too hard, or people may start tuning you out.
+EN: Like an alarm clock, you're strong-willed, responsible and organized: a born leader! Friends trust you, but pushing your views too hard may get on their nerves.
 
 @1529C max=359
 JP: 懐中時計
@@ -164,7 +164,7 @@ EN: Pocket Watch
 
 @15404 max=359
 JP: あなたは人あたりがよく、懐中時<n>計のように人をホッとさせる雰囲<n>気をもっています。でも、芯はし<n>っかりしていて、目標に向かって、<n>とことんがんばる強い人です。<n>ただ、誰が何をいっても自分のス<n>タイルを変えないガンコさも。
-EN: Like a pocket watch, you're friendly and have a comforting presence. But beneath that gentle manner is a strong spirit that keeps you working hard toward your goals. You can also be stubborn, sticking to your own ways no matter what anyone says.
+EN: Like a pocket watch, you put people at ease. Friendly yet strong at heart, you work hard for your goals. Your stubborn streak means you rarely change your ways.
 
 @1556C max=359
 JP: 日時計
@@ -172,7 +172,7 @@ EN: Sundial
 
 @156D4 max=359
 JP: 太陽を浴びる日時計のように、あ<n>なたはエネルギッシュで思い立っ<n>たら即行動するタイプ。社交的で、<n>華やかな雰囲気をもち、パーティ<n>ーなどでは盛り上げ役として、人<n>気者になるはず。少し短気なとこ<n>ろがあるのが玉にキズかも。
-EN: Like a sundial basking in the sun, you're full of energy and spring into action the moment inspiration strikes. Sociable and lively, you're sure to be the life of the party! Your one little flaw? You can be a bit quick-tempered.
+EN: Like a sunlit sundial, you're full of energy and quick to act. Outgoing and lively, you're the life of the party! Your flaw? A bit of a quick temper.
 
 @1583C max=359
 JP: 腕時計
@@ -180,7 +180,7 @@ EN: Wristwatch
 
 @159A4 max=359
 JP: 次々と新しいデザインがでる腕時<n>計のように、あなたは好奇心が旺<n>盛で、流行にも敏感なオシャレさ<n>ん。話題も豊富でユーモアのセン<n>スもあるので、友達から憧れられ<n>ています。欲しい物をガマンでき<n>ず散財する傾向があるので注意。
-EN: Like wristwatches with their ever-changing designs, you're curious, stylish and always up on the latest trends. With plenty to talk about and a great sense of humor, you're the envy of your friends. Watch your spending, though. You have trouble resisting things you want!
+EN: Like a stylish wristwatch, you're curious and quick to spot trends. Friends admire your wit and lively chat. Watch your wallet: you can't resist things you want!
 
 @15B0C max=359
 JP: 砂時計
@@ -188,7 +188,7 @@ EN: Hourglass
 
 @15C74 max=359
 JP: 新しいことが大好きで、自分がコ<n>レだと思ったらすぐに行動に移し、<n>多少のリスクは気にしないあなた。<n>砂時計のように、人と少し違って<n>ると思われても、自分の感性を一<n>番に考えるタイプです。束縛を嫌<n>うので浮気っぽい一面も。
-EN: You love new things and jump into action when something feels right, undaunted by a little risk. Like an hourglass, you don't mind seeming a bit different. You trust your own instincts above all. You hate being tied down, which can give you a wandering eye in love.
+EN: Like an hourglass, you stand out and trust your instincts. You love new things and leap in despite the risks. You hate being tied down, so your eye may wander in love.
 
 @15DDC max=359
 JP: ストップウォッチ
@@ -196,7 +196,7 @@ EN: Stopwatch
 
 @15F44 max=359
 JP: 物事を客観的に見れるクールさを<n>持つあなたは、ストップウォッチ<n>のように何ごとにも慎重。どんな<n>ことにも自分のこだわりを持ち、<n>マイペースにこなしていきます。<n>恋愛はロマンチストで、好きな人<n>にはとことんつくすタイプです。
-EN: Cool-headed and objective, you're like a stopwatch: careful in everything you do. You have your own standards and tackle things at your own pace. In love, though, you're a true romantic who gives your all to the person you adore.
+EN: Like a stopwatch, you're cool, objective and careful. You follow your own standards at your own pace. In love, you're a romantic who gives your all to your sweetheart.
 
 @160AC max=359
 JP: 壁掛け時計
@@ -204,4 +204,4 @@ EN: Wall Clock
 
 @16214 max=359
 JP: あなたは、部屋をじっと見守って<n>いる壁掛け時計のように、ガマン<n>強いタイプ。自立心があり、人に<n>頼らず、努力して自分でやり遂げ<n>ようとします。そんな堅実さが人<n>から信頼されています。正義感が<n>強すぎて人ともめることも。
-EN: Like a wall clock quietly watching over a room, you're patient and steadfast. Independent by nature, you work hard to see things through without relying on others. People trust your dependable ways, though your strong sense of justice can sometimes lead to clashes.
+EN: Like a wall clock, you're patient and steady. You work hard to see things through on your own. People trust you, but your strong sense of justice can lead to clashes.

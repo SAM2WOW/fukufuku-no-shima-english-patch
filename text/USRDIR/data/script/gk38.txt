@@ -156,7 +156,7 @@ EN: Tart
 
 @15134 max=359
 JP: 大胆なファッションを好む傾向の<n>あるあなたは、どんなフィーリン<n>グでもそれなりにマッチさせてし<n>まうタルトタイプ。個性的なセン<n>スで流行の服もおしゃれに着こな<n>せます。帽子が似合う人が多いの<n>もタルトタイプの特徴。
-EN: You're the tart type, with a taste for<n>bold fashion. Whatever the mood,<n>you know how to make it work.<n>Your unique sense of style lets you<n>wear the latest trends with flair.<n>Another hallmark of the tart type?<n>Hats tend to look great on you!
+EN: You're the tart type! You love bold fashion and can make any style work. Your unique flair gives trends a stylish twist. Hats tend to suit your type, too.
 
 @1529C max=359
 JP: バームクーヘン
@@ -164,7 +164,7 @@ EN: Baumkuchen
 
 @15404 max=359
 JP: ナチュラル系のファッションを好<n>むあなたは、バームクーヘンタイ<n>プ。コットンやウールなどの天然<n>素材を使った服を選ぶことが多い<n>のでは？色の好みもブラウンやカ<n>ーキ系の落ち着いた色で、それが<n>よく似合うでしょう。
-EN: Your love of natural styles makes you<n>the Baumkuchen type. Do you often<n>choose clothes made from natural<n>fabrics like cotton and wool?<n>You probably favor earthy shades<n>like brown and khaki, too.<n>Those calm colors really suit you.
+EN: You're the Baumkuchen type! You love natural styles, often choosing cotton or wool. Earthy colors like brown and khaki are likely favorites, and they suit you well.
 
 @1556C max=359
 JP: パイ
@@ -172,7 +172,7 @@ EN: Pie
 
 @156D4 max=359
 JP: とっても流行に敏感なあなたは、<n>いつも同じファッションでは満足<n>できないパイタイプ。時にはアッ<n>プル、時にはチョコと気分に合わ<n>せてイメージも変える方。選ぶ色<n>も流行に左右されながら、色々試<n>している人が多いでしょう。
-EN: You're the trend-savvy pie type.<n>The same old look just won't do!<n>Apple one day, chocolate the next...<n>You change your image with your mood.<n>You also love trying different colors,<n>taking your cues from the latest trends.<n>Variety is the spice of your wardrobe!
+EN: You're the pie type! You love trends and variety: apple today, chocolate tomorrow! Your look changes with your mood, and you try new colors as fashions change.
 
 @1583C max=359
 JP: ショートケーキ
@@ -180,7 +180,7 @@ EN: Shortcake
 
 @159A4 max=359
 JP: ロマンチックなおしゃれが似合う<n>あなたは、ショートケーキタイプ。<n>シャープなラインよりはエレガン<n>トなラインを選ぶといいでしょう。<n>上半身が太りやすいので、うまく<n>カバーする着こなしを身に付ける<n>とより引き立ちます。
-EN: Romantic styles suit you, shortcake type.<n>Choose elegant shapes and flowing lines<n>over sharp, angular cuts.<n>You tend to gain weight in your upper body,<n>so learn to dress in ways that flatter<n>that area. A few clever styling tricks<n>will help you look your very best.
+EN: You're the shortcake type! Romantic styles suit you. Choose elegant lines over sharp cuts. You tend to gain weight up top, so learn to dress to flatter that area.
 
 @15B0C max=359
 JP: ミルフィーユ
@@ -188,7 +188,7 @@ EN: Mille-feuille
 
 @15C74 max=359
 JP: 上品で質のいい洋服が好きなあな<n>たは、気に入れば、どんなに高価<n>でも手に入れようとするミルフィ<n>ーユタイプ。ＴＰＯに合わせたト<n>レンディなファッションも得意で<n>す。ゴールドのアクセサリーが、<n>活躍と幸運のカギに。
-EN: You're the mille-feuille type, drawn to<n>elegant, well-made clothes. If you love<n>something, you'll find a way to get it,<n>no matter the price. You're also good at<n>choosing trendy looks to suit the occasion.<n>Gold accessories hold the key to<n>success and good luck.
+EN: You're the mille-feuille type! You love fine clothes, whatever the price, and pick trendy looks for any occasion. Gold accessories are your key to success and luck.
 
 @15DDC max=359
 JP: プリン
@@ -196,7 +196,7 @@ EN: Custard Pudding
 
 @15F44 max=359
 JP: バーゲンで手に入れた服でも、コ<n>ーディネート次第で上手に着こな<n>してしまうあなた。アラモードに<n>なったとたんゴージャスになるプ<n>リンタイプです。たまには鮮やか<n>な色を着てみると、気持ちも華や<n>かになるでしょう。
-EN: Even bargain clothes look great on you<n>when you put an outfit together.<n>You're the custard pudding type!<n>Like pudding with all the trimmings,<n>you turn glamorous when dressed up.<n>Try wearing a vivid color now and then.<n>It could brighten your mood, too!
+EN: You're the pudding type! You make bargain clothes look chic. Like pudding with fancy toppings, you glam up beautifully. Try vivid colors now and then to lift your mood.
 
 @160AC max=359
 JP: ゼリー
@@ -204,7 +204,7 @@ EN: Jelly
 
 @16214 max=359
 JP: おしゃれが大好きでなんでも似合<n>ってしまうあなたは、ゼリータイ<n>プ。柔らかいドレープや優雅なオ<n>ーガンジーなども着こなせます。<n>直感的に好きだと思った色には、<n>どんどん挑戦してみましょう。<n>きっと似合ってしまいます。
-EN: You love fashion, and just about<n>anything suits you. You're the jelly type!<n>You can pull off softly draped fabrics<n>and elegant organza with ease.<n>If a color catches your eye,<n>go ahead and give it a try.<n>Chances are, it'll look fabulous on you!
+EN: You're the jelly type! You love fashion, and almost anything suits you, even soft drapes and elegant organza. Try any color that catches your eye. You'll wear it well!
 
 @1637C max=359
 JP: サバラン
@@ -212,7 +212,7 @@ EN: Savarin
 
 @164E4 max=359
 JP: エスニックスタイルなど、雰囲気<n>のあるファッションが似合うあな<n>たは、サバランタイプ。お酒のし<n>みた大人の味が、あなたの神秘的<n>なムードを引き立てます。パール<n>系や光沢のあるベルベットも魅力<n>アップの素材でしょう。
-EN: You're the savarin type. Styles with<n>an exotic flair really suit you.<n>This alcohol-soaked cake's grown-up<n>flavor reflects your air of mystery.<n>Pearly accents and lustrous velvet<n>are also wonderful choices for<n>bringing out your natural charm.
+EN: You're the savarin type! Exotic styles suit you. Like this rum-soaked cake, your charm is mature and mysterious. Pearly accents and glossy velvet bring out your allure.
 
 @1664C max=359
 JP: チーズケーキ
@@ -220,7 +220,7 @@ EN: Cheesecake
 
 @167B4 max=359
 JP: シンプル・イズ・ベスト。そんな<n>飾り気のないファッションが最も<n>似合うあなたは、チーズケーキ。<n>スポーティーにさっぱりとまとめ<n>ることで、魅力も高まります。ロ<n>イヤルブルーが似合うはずですの<n>で、試してみて。
-EN: Simple is best! You're the cheesecake<n>type, looking your best in clean,<n>unfussy outfits. A fresh, sporty look<n>really brings out your charm.<n>Keep your styling crisp and simple.<n>Royal blue should look great on you,<n>so why not give it a try?
+EN: You're the cheesecake type! Simple is best: unfussy outfits suit you most. A fresh, sporty look brings out your charm. Give royal blue a try. It should look great on you!
 
 @1691C max=359
 JP: ティラミス
@@ -228,7 +228,7 @@ EN: Tiramisu
 
 @16A84 max=359
 JP: 気が付いたら、クローゼットの中<n>は黒か茶色ばかり、そんなことは<n>ありませんか？ティラミスタイプ<n>のあなたの好きな色です。たまに<n>は、ビビッドカラーにも挑戦して<n>みましょう。スタイリストに向い<n>ているタイプでもあります。
-EN: Ever open your closet and realize<n>it's full of nothing but black and brown?<n>Those are favorite colors of yours,<n>tiramisu type! Try branching out into<n>something bright and bold now and then.<n>You also have the makings of a stylist.<n>Put that eye for fashion to work!
+EN: Is your closet full of black and brown? You're the tiramisu type, and those are your favorite colors! Try vivid shades now and then. You'd also make a good stylist.
 
 @16BEC max=359
 JP: モンブラン
@@ -236,7 +236,7 @@ EN: Mont Blanc
 
 @16D54 max=359
 JP: 最先端のファッションも着こなし<n>てしまうあなたは、モンブランタ<n>イプ。オリジナルなアレンジで個<n>性を引き出します。古着屋で掘り<n>出し物を見つけ出す才能も、人一<n>倍。インディアンジュエリーなど<n>も似合ってしまいます。
-EN: You're the Mont Blanc type, able to<n>pull off even the latest cutting-edge looks.<n>Your own creative touches let your<n>personality shine. You've also got<n>a real talent for finding hidden gems<n>in secondhand shops. Native American<n>jewelry looks great on you, too.
+EN: You're the Mont Blanc type! You make the latest looks your own. You have a knack for thrift-shop treasures, and Native American jewelry suits you, too.
 
 @16EBC max=359
 JP: シュークリーム
@@ -244,4 +244,4 @@ EN: Cream Puff
 
 @17024 max=359
 JP: ロマンティックでフェミニンなフ<n>ァッションが似合うあなたは、シ<n>ュークリーム。ふんわりスイート<n>なムードがぴったりです。小物使<n>いや足元のおしゃれに気を配ると、<n>さらに着こなしが洗練されて魅力<n>的に装えます。
-EN: You're the cream puff type, looking lovely<n>in romantic, feminine fashions.<n>A soft, sweet look suits you perfectly.<n>Pay a little extra attention to<n>your accessories and footwear.<n>Those finishing touches will make your<n>outfits even more polished and charming.
+EN: You're the cream puff type! Soft, sweet, romantic and feminine looks suit you. Choose shoes and accessories with care for an even more polished, charming look.

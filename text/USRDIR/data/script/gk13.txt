@@ -156,7 +156,7 @@ EN: Peeler
 
 @15134 max=359
 JP: あなたは野菜の皮むき、ピーラー<n>です。どんな困難が訪れてもバツ<n>グンの行動力で果敢に挑みます。<n>難点は、熱中しすぎると目先のこ<n>としか見えなくなってしまうとこ。<n>皮をむいてるつもりが、いつのま<n>にか身を削ってしまいます。
-EN: You're a vegetable peeler. Whatever<n>trouble comes your way, you tackle it<n>head-on with energy to spare. But get<n>too caught up in the action, and you<n>lose sight of the bigger picture.<n>You mean to peel away the skin, but<n>end up shaving yourself down too.
+EN: You're a peeler. You boldly tackle any trouble, but get so absorbed you lose perspective. You mean to peel the skin, yet end up shaving away your own flesh!
 
 @1529C max=359
 JP: 三角コーナー
@@ -164,7 +164,7 @@ EN: Corner Strainer
 
 @15404 max=359
 JP: あなたは三角コーナーです。どん<n>なシンクにも合わせられる余裕と<n>落ち着きでデンとかまえています。<n>困難に負けず、のんびりほんわか<n>とした個性で周囲に安心感を与え<n>ますが、実はガンコ。裏切られた<n>りしたら一生忘れません。
-EN: You're a corner strainer. Calm and<n>easygoing, you settle comfortably<n>into any sink. Nothing gets you down,<n>and your mellow nature puts everyone<n>at ease. But you've got a stubborn<n>streak, too. If someone betrays you,<n>you'll remember it for life.
+EN: You're a corner strainer. Calm and adaptable, you fit any sink and put others at ease. But beneath that mellow manner, you're stubborn. Betrayal? You'll never forget!
 
 @1556C max=359
 JP: トング
@@ -172,7 +172,7 @@ EN: Tongs
 
 @156D4 max=359
 JP: あなたはトングです。合理的な発<n>想をする人で、とっても器用でユ<n>ニーク。そして好奇心旺盛にあっ<n>ちこっちへと飛び回ります。恋愛<n>ではドライな関係を好むため、相<n>手の感情があんまり重いと食指が<n>動きません。しかも浮気性です。
-EN: You're a pair of tongs. Practical,<n>clever and one of a kind, you flit<n>from place to place, driven by your<n>curiosity. In love, you like to keep<n>things casual. Clingy partners leave<n>you cold, and your wandering eye can<n>get you into trouble.
+EN: You're tongs. Practical, clever and quirky, you follow your curiosity everywhere. You like casual romance: clingy partners turn you off, and your eye tends to wander.
 
 @1583C max=359
 JP: 蒸し器
@@ -180,7 +180,7 @@ EN: Steamer
 
 @159A4 max=359
 JP: あなたは蒸し器です。母性本能に<n>あふれた優しい人で、好きな相手<n>は温かく包み込んでたっぷりと愛<n>情をそそぎこみます。ただし、気<n>分屋なところがあるので、ヒステ<n>リックになって相手に火傷させて<n>しまわないように注意しましょう。
-EN: You're a steamer. Kind and nurturing,<n>you wrap those you love in warmth<n>and shower them with affection.<n>But your moods can turn up the heat.<n>Be careful not to lose your temper<n>and let all that steam leave your<n>loved one feeling burned!
+EN: You're a steamer. Kind and nurturing, you wrap loved ones in warmth and affection. But you're moody, too. Watch that temper, or someone you love could get burned!
 
 @15B0C max=359
 JP: 包丁
@@ -188,7 +188,7 @@ EN: Kitchen Knife
 
 @15C74 max=359
 JP: あなたは包丁です。キッチンでも<n>いちばん目立ち、風格と落ち着き<n>で一目置かれています。<n>そして周囲の意見にも耳を貸す寛<n>容さも持っています。堂々として<n>いるわりには実は寂しがり屋さん。<n>おおぜいに愛されたいタイプです。
-EN: You're a kitchen knife. You stand out<n>in the kitchen, earning respect with<n>your poise and presence. You're also<n>open-minded enough to hear others<n>out. For all your confidence, though,<n>you get lonely. Deep down, you want<n>to be loved by lots of people.
+EN: You're a kitchen knife. Your poise commands respect, and you listen to others. Yet beneath that confidence, you're lonely and long to be loved by lots of people.
 
 @15DDC max=359
 JP: すりこぎ
@@ -196,7 +196,7 @@ EN: Pestle
 
 @15F44 max=359
 JP: あなたはすりこぎです。律儀で、<n>なんでも完璧にやりとげたいタイ<n>プです。仕事もテキパキとこなし<n>ます。好き嫌いがあるので誰とで<n>もうまくいくわけではないけれど、すり鉢のような相手が見つかれば<n>絶対に裏切りません。
-EN: You're a pestle. Conscientious and<n>efficient, you want everything done<n>perfectly. You're picky about people,<n>so you won't hit it off with everyone.<n>But find the mortar to your pestle,<n>and you'll never betray their trust.
+EN: You're a pestle. Dutiful and efficient, you want every job done perfectly. You're picky about people, but find the mortar to your pestle and you'll be loyal for life.
 
 @160AC max=359
 JP: やかん
@@ -204,7 +204,7 @@ EN: Kettle
 
 @16214 max=359
 JP: あなたはやかんです。たとえ相手<n>が水だろうがお茶だろうが、公平<n>に対することのできる社交的な人<n>です。美的センスにも優れていて、<n>自分を魅力的にみせるすべもよく<n>知っています。それだけに、八方<n>美人に思われてしまうことも。
-EN: You're a kettle. Water or tea, you<n>give everyone the same warm welcome.<n>You're sociable, with a keen eye for<n>beauty, and you know just how to<n>play up your charms. Still, all that<n>charm can leave people thinking<n>you're trying to please everyone.
+EN: You're a kettle. Water or tea, you treat everyone equally. Sociable and stylish, you know how to turn on the charm. Still, some may think you try to please everyone.
 
 @1637C max=359
 JP: おたま
@@ -212,7 +212,7 @@ EN: Ladle
 
 @164E4 max=359
 JP: あなたはおたまです。おたまで鍋<n>の中をかきまぜるように、探究心<n>に満ちあふれています。そしてね<n>らった具は確実にすくいます。秘<n>密主義のところがあるので、いっ<n>たい何をすくいだすのかと周囲の<n>人には神秘性すら感じさせます。
-EN: You're a ladle. Full of curiosity,<n>you love stirring things up to see<n>what's in the pot. Once you spot a<n>morsel you want, you scoop it up<n>without fail. You're secretive, too.<n>No one knows what you'll fish out<n>next, giving you an air of mystery.
+EN: You're a ladle. Curious, you stir the pot and always scoop up the morsel you want. Your secretive streak adds mystery: no one knows what you'll fish out next!
 
 @1664C max=359
 JP: フライパン
@@ -220,7 +220,7 @@ EN: Frying Pan
 
 @167B4 max=359
 JP: あなたはフライパンです。興味の<n>あるものなら、なんでも大胆に楽<n>しくチャレンジできる人です。た<n>だし、安易に手をつけてのヤリっ<n>ぱなしはダメ。フライパンも使っ<n>たあと手入れをしないとすぐにダ<n>メになってしまいます。
-EN: You're a frying pan. If something<n>catches your eye, you dive right in<n>with courage and a sense of fun.<n>But don't start things on a whim<n>and leave them unfinished. Even a<n>frying pan won't last long if you<n>don't look after it once you're done.
+EN: You're a frying pan. You boldly try anything that looks fun. Just don't start on a whim and leave things unfinished. Even a pan needs care after use, or it won't last!
 
 @1691C max=359
 JP: ナベ
@@ -228,7 +228,7 @@ EN: Cooking Pot
 
 @16A84 max=359
 JP: あなたはナベです。キッチンでは<n>いちばん頼りにされている存在で<n>す。コツコツと努力を重ねて実績<n>を残す人で、その責任感の強さに<n>はみんなが一目を置いています。<n>実は野心家の一面もあり、食卓の<n>主役の座もねらっています。
-EN: You're a cooking pot, the one everyone<n>in the kitchen relies on. You work<n>steadily to get results, and your<n>strong sense of responsibility earns<n>everyone's respect. You've got an<n>ambitious side, too: you're eyeing<n>the starring role at the dinner table.
+EN: You're a cooking pot. Everyone relies on your steady effort and respects your sense of duty. Secretly ambitious, you're also eyeing the starring role at the table!
 
 @16BEC max=359
 JP: おろし金
@@ -236,7 +236,7 @@ EN: Grater
 
 @16D54 max=359
 JP: あなたはおろし金です。独創的な<n>発想で、物事をサクサクとすすめ<n>ていきます。人は人、自分は自分<n>と割り切っているため、誰に対し<n>てもその人の立場になって考えよ<n>うとする平等な人ですが、サバサ<n>バしすぎてて冷たい印象も。
-EN: You're a grater. Your original ideas<n>help you make quick work of things.<n>You know everyone is different, so<n>you treat people fairly and try to<n>see things from their point of view.<n>But your matter-of-fact approach<n>can sometimes come across as cold.
+EN: You're a grater. Original ideas get things done fast. You accept differences and try to see everyone's side. You're fair to all, but your brisk manner can seem cold.
 
 @16EBC max=359
 JP: まな板
@@ -244,4 +244,4 @@ EN: Cutting Board
 
 @17024 max=359
 JP: あなたはまな板です。誰にでも献<n>身的で慈愛に満ちた人です。自分<n>のことはさておき、つねに他人を<n>傷つけないようにということを先<n>に考えます。その反面で、失敗し<n>ても洗い流せばすべて許されると<n>いう甘えたところもあります。
-EN: You're a cutting board. Caring and<n>devoted, you always put others first.<n>Before thinking of yourself, you<n>make sure no one else gets hurt.<n>Still, you can be a little too easy<n>on yourself, assuming every mistake<n>can simply be washed away.
+EN: You're a cutting board. Kind and devoted, you put others first, careful not to hurt anyone. Yet you go easy on yourself, expecting every mistake to simply wash away.

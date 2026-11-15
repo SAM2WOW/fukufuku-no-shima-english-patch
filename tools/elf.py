@@ -25,6 +25,7 @@ class ElfHandler:
         0x1F1FE4: 19,     # 賢者の像: item category record, name ends at the id at +0x14
         0x1F2024: 19,     # 髪型: same table
         0x2A74C4: 31,     # 起動回数: stats list, 0x20-byte entries
+        0x240FC8: 23,     # 福福先生: first entry of the speaker-name table (0x18-byte entries, マリアン at +0x18)
     }
 
     # ------------------------------------------------------------ ELF layout
@@ -118,6 +119,18 @@ class ElfHandler:
                 # float tails, control codes) belong to the previous field
                 while a < b and (d[a] in (0x80, 0xA0, 0xFD, 0xFE, 0xFF) or d[a] < 0x20):
                     a += 1
+                # Game text uses <n> tags, not raw control codes: control bytes
+                # in front of Japanese are the tail of other data (the speaker
+                # table had "Z\n\x1e<...Z福福先生"). Start after the last one,
+                # at the next aligned Japanese character.
+                # (\n and \t are legitimate in system-dialog messages)
+                ctl = max((i for i in range(a, b) if d[i] < 0x20 and d[i] not in (0x09, 0x0A)), default=None)
+                if ctl is not None and is_japanese(d[ctl + 1:b]):
+                    na = ctl + 1
+                    while na < b and d[na] < 0x80:          # skip ASCII junk
+                        na += 1
+                    if na < b and na % 4 == 0 and 0x81 <= d[na] <= 0xEF:
+                        a = na
                 if b - a < 2:
                     continue
                 # A lone single-byte char glued in front of the Japanese is the

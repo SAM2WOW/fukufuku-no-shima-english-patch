@@ -1,0 +1,282 @@
+{
+ "l01": {
+  "jp": "■マリアン\n星座占いを得意とする新人占い師。１９歳。\n福福先生の孫娘で、まれびとの浜のチヨさんは大叔母。\n両親も高名な占い師という、占い一族の生まれである。",
+  "name": "Marian",
+  "en": "A 19-year-old rookie fortune-teller specializing in star signs. Master Fukufuku is her grandpa, and Granny Chiyo of Stranger's Beach is her great-aunt. With two famous fortune-tellers for parents, it runs in the family!"
+ },
+ "l02": {
+  "jp": "■マリアン\n偉大な占い師たちの血脈を受け継ぐ\n占い界のプリンセスであるが\n性格は明るく気さく。\n祖父の住む島に、修行に来ているものの\nやや退屈しているようである。",
+  "name": "Marian",
+  "en": "Heir to a line of great fortune-tellers, she's fortune-telling royalty, but cheerful and easygoing. She's come to her grandpa's island to train, though she seems a little bored."
+ },
+ "l03": {
+  "jp": "■マリアン\n独特の髪型は、遠い祖先の賢者マリアナーダの時代から\n彼女の家系に、脈々と伝えられてきた由緒あるもの。\n「セットが大変で困っちゃう」といいつつ\nけっこう気に入っているようである。",
+  "name": "Marian",
+  "en": "Her distinctive hairdo has been passed down through the family since her distant ancestor, the sage Marianada. She says, \"It's such a pain to style!\" but seems rather fond of it."
+ },
+ "l04": {
+  "jp": "■マツバラくん\n切り株に隠れて顔だけ出している青年。\n星座占いを得意とする。２４歳。\nかつてこの島に住んでいた大占い師、\nビルビドゥーの最後の弟子である。\n切り株の中にいるのは、\nビルビドゥー考案の修行法のひとつ。\n師匠の死後も、その教えを忠実に守り、\n占いの道を極めようとしている。",
+  "name": "Matsubara",
+  "en": "A 24-year-old star-sign reader peeking out of a stump. The last pupil of Bilbidoo, the great fortune-teller who lived on this island, he still trains in the stump as his late master taught him, hoping to master fortune-telling."
+ },
+ "l05": {
+  "jp": "■コピタン\nビルビドゥーが作った占い人形。本人？の願いにより、\nいまはマツバラくんの手で\n海岸沿いの木にもたれて日がな海を見ている。\n別に思い出に浸っているわけではなく\nそのシチュエーションの俺が一番カッコいい、\nと思っているかららしい。",
+  "name": "Copitan",
+  "en": "A fortune-telling doll made by Bilbidoo. At his own (?) request, Matsubara set him against a seaside tree to gaze at the sea all day. He's not lost in memories; he just thinks he looks coolest that way."
+ },
+ "l06": {
+  "jp": "■コピタン\nとにかく口が悪く、カッコつけで、そのうえ妙に哲学的。\nその性格は、生前のビルビドゥーに\nそっくりだと言われている。\n普段は休眠モードに入っているので、\n話をするには捧げものが必要。",
+  "name": "Copitan",
+  "en": "Foul-mouthed, a show-off, and oddly philosophical. They say he's just like Bilbidoo was in life. He's usually in sleep mode, so you'll need an offering to get him talking."
+ },
+ "l07": {
+  "jp": "■福福先生\n伝説の占い師にして、この島の長老格。７５歳。\n世界中の占い師で、\nこの人を知らない者はモグリといわれる。",
+  "name": "Master Fukufuku",
+  "en": "A legendary fortune-teller and this island's elder, aged 75. Any fortune-teller in the world who hasn't heard of him is considered a phony."
+ },
+ "l08": {
+  "jp": "■福福先生\n世界の運を司るというこの島に、研究のため\n旧友のビルビドゥーとともにやってきたのが十年前。\n親友が死んだあとも、この島で暮らしている。\nチヨさんは妹、マリアンは孫である。",
+  "name": "Master Fukufuku",
+  "en": "Ten years ago, he came to study this island, said to govern the world's luck, with his old friend Bilbidoo. He stayed on after his dear friend died. Granny Chiyo is his younger sister, and Marian his granddaughter."
+ },
+ "l09": {
+  "jp": "■福福先生\n温厚な老人で、茶目っ気もある。\n中国系の重厚で複雑な占いの名手であるが、\n最近はシンプルな干支占いに凝っている。",
+  "name": "Master Fukufuku",
+  "en": "A kindly old man with a mischievous streak. A master of elaborate Chinese fortune-telling, he's recently taken a shine to simple readings based on Chinese zodiac signs."
+ },
+ "l10": {
+  "jp": "■チヨさん\nまれびとの浜に住む熟年婦人。\n福福先生の、年の離れた妹である。６０歳。\n静かな浜で隠遁しているように見えるが、\n意外に性格はおしゃべりでおせっかい。\n甥の子供であるマリアンをかわいがっている。",
+  "name": "Granny Chiyo",
+  "en": "A 60-year-old resident of Stranger's Beach and Master Fukufuku's much younger sister. She may look like a quiet recluse, but she's a chatterbox who can't resist meddling. She dotes on her nephew's daughter, Marian."
+ },
+ "l11": {
+  "jp": "■チヨさん\n昔はたいへんな美人で、国が出来るほどの数の男を\n泣かせてきた（らしい）。\n血液型が人を決めるというのが持論で、\n血液型については誰より熱く語る。",
+  "name": "Granny Chiyo",
+  "en": "Once such a beauty, she broke enough hearts to populate a whole country (or so they say). She's convinced blood type defines who you are, and nobody gets more fired up talking about it."
+ },
+ "l12": {
+  "jp": "■ジル\nビルビドゥーの孫。\n１０年前、とある事故で両親とともに死んでいる。\n享年７歳。\nビルビドゥーがこの島に来てからは、ちょくちょくあの世から\n遊びに来るようになり、マリアンとも友達になった。\nいまはビルビドゥーとあの世でともに暮らしているが、\n気まぐれにこの島にも現れる。",
+  "name": "Jill",
+  "en": "Bilbidoo's granddaughter. She died with her parents in an accident ten years ago, aged seven. Since he came to this island, she's visited from the afterlife and befriended Marian. She lives there with him now, but still drops by the island on a whim."
+ },
+ "l13": {
+  "jp": "■ジル\n生きていれば１７歳のはずだが、\n死んでいるので姿は基本的には７歳のまま。\n心はそれなりに年経ているので、\n外見よりはしっかりしているが\n基本的にはあっけらかんとした性格である。\n人にテキトーなあだなをつけるのが好き。\n祖父から習ったタロット占いを試したくてしかたない。",
+  "name": "Jill",
+  "en": "She'd be 17 if she were alive, but being dead keeps her looking seven. She's more mature than she looks, yet carefree at heart. She loves giving people random nicknames and can't wait to try the tarot readings her grandfather taught her."
+ },
+ "l14": {
+  "jp": "■ガイコツナンバーズ\nガイコツキングの部下たち。\n邪悪な占いでこの世を支配するべく、\n魔界から送り込まれた悪の軍団。全部で５０体いる。\n世界一の大都市、ニュープアレスを恐怖に陥れる予定だったのだが\n何の手違いかこんな辺境の島に出現してしまった。\n仕方がないので、この島を邪悪に染めるべく、\n悪の占い活動を続けている。\nが、今のところ、さしたる成果は挙がっていない。",
+  "name": "the Skull Numbers",
+  "en": "The Skull King's 50 minions came from the demon world to rule through evil fortunes. Sent to terrorize New Puares, the world's biggest city, they landed on this remote island by mistake. They're making do, spreading evil fortunes with little success."
+ },
+ "l15": {
+  "jp": "■ガイコツナンバーズ\nいまいちわけのわからないあだな占いで\n占った相手に、精神的ダメージを与えようとしてくる。\n要注意。",
+  "name": "the Skull Numbers",
+  "en": "They try to crush your spirits with baffling nickname fortunes. Watch out!"
+ },
+ "l16": {
+  "jp": "■ガイコツキング\nガイコツ大魔王とも呼ばれる。\n５０体ものガイコツナンバーズを従え、\n世界征服を狙う悪の化身。\nしかしこの世界の空気が合わなかったらしく\n花粉症とギックリ腰で苦しんでいるらしい。\n今もどこかの洞窟で、養生につとめつつ\n悪の計画を練っているはず。",
+  "name": "the Skull King",
+  "en": "Also called the Skull Overlord, this evil being leads the 50 Skull Numbers in a bid for world conquest. This world's air seems to give him hay fever and a bad back. He's probably resting in a cave somewhere, nursing his aches and plotting evil."
+ },
+ "l17": {
+  "jp": "■チワワさん\n人間の歴史の裏側で、知性ある動物として\nひっそりと活動してきた偉大なる動物たち。\n彼もその一人であり動物でありながら、\n人間心理の研究に魅せられた心理学者である。",
+  "name": "Ms. Chihuahua",
+  "en": "Throughout human history, brilliant animals have quietly worked behind the scenes. Ms. Chihuahua is one of these unsung greats, a psychologist fascinated by the human mind."
+ },
+ "l18": {
+  "jp": "■チワワさん\n一大決心して入った大学で、\n医者のアメショー先生と親友になり\n二人してこの島に移住してきた。\n変わり者ばかりのこの島では、その知性を隠す必要もなく\nのびのびと歩き回り、意識調査にいそしんでいる。",
+  "name": "Ms. Chihuahua",
+  "en": "Ms. Chihuahua took the plunge and went to university, where she befriended Professor Amesho. They moved here together. On this island of oddballs, she can let her smarts show and roam freely, busily polling the locals."
+ },
+ "l19": {
+  "jp": "■アメショー先生\nこの島で唯一のお医者さん。といっても精神分析医である。\n親友のチワワさんに誘われ、島にやってきた。\nこの島には普通じゃない者が多いので、得意の心理分析も\nなかなか出番がなく、苦労しているようだが\nぬぼーっとしていて、その苦労はみじんも見せない。",
+  "name": "Professor Amesho",
+  "en": "The island's only doctor is a psychoanalyst, invited here by his good friend Ms. Chihuahua. With so many oddballs around, his specialty rarely gets a look-in. It's a struggle, but his dreamy air never lets it show."
+ },
+ "l20": {
+  "jp": "■モグやん親方\n「有限会社モグやん建設」の社長。\n地面クロスワード作りの名人だが、\n需要がないので経営は苦しい。\n古い知り合いの福福先生がそんな彼を見かねて\nこの島に呼んで仕事をさせている。\nキップのいいオヤジさん。\n年頃の娘が一人いて、コミュニケーションに\n苦労しているらしい。",
+  "name": "Boss Moguyan",
+  "en": "Boss of Moguyan Construction, he's a whiz at making crosswords in the ground. Work is scarce, so old friend Master Fukufuku hired him here. A bighearted guy with a daughter at that awkward age, he struggles to connect with her."
+ },
+ "l21": {
+  "jp": "■モグやん課長\n「有限会社モグやん建設」の中間管理職。\nモグやん親方の下で、\n地面クロスワード作りにいそしんでいる。\n職場の人間関係にちょっと疲れているらしい。\nクロスワードの全ての答えを教えてくれる。",
+  "name": "Moguyan Section Chief",
+  "en": "A middle manager at Moguyan Construction. He builds crosswords in the ground under Boss Moguyan, though office politics seem to be wearing him down. He'll give you every answer to a crossword."
+ },
+ "l22": {
+  "jp": "■モグやん主任\n「有限会社モグやん建設」の中堅社員。\nモグやん親方の下で、\n地面クロスワード作りにいそしんでいる。\n親方の信奉者で、働き者である。\nクロスワードの、そのマスの答えを教えてくれる。",
+  "name": "Moguyan Supervisor",
+  "en": "A seasoned employee at Moguyan Construction who builds crosswords in the ground under Boss Moguyan. A hard worker and a devoted fan of the boss, he'll reveal the answer for your current crossword square."
+ },
+ "l23": {
+  "jp": "■モグやん平社員\n「有限会社モグやん建設」の社員。\nモグやん親方の下で、\n地面クロスワード建設にいそしんでいる。\nいつも課長に怒られているが、\n気楽な性格であまりこたえた様子はない。\nクロスワードの答えを、１文字だけ教えてくれる。",
+  "name": "Moguyan Staffer",
+  "en": "A Moguyan Construction employee who builds crosswords in the ground under Boss Moguyan. The Section Chief is always scolding him, but he's too easygoing to let it get to him. He'll reveal just one letter of a crossword answer."
+ },
+ "l24": {
+  "jp": "■キーノ\n木の妖精。\nジグソーパズルを作っては、ピースを島にバラまいている。\n本人いわく「世界の運を司る場所だから、\nボクもがんばってる」らしいのだが\nその行動になんの意味があるのかは謎。\n全体的に、何を考えているのかわからない性格。",
+  "name": "Kino",
+  "en": "A tree fairy who makes jigsaw puzzles and scatters the pieces around the island. He says, \"This place governs the world's luck, so I'm doing my part!\" How that helps is anyone's guess. What goes on in his head is a mystery."
+ },
+ "l25": {
+  "jp": "■サガシニコフ\nユーリ・サガシニコフ。\n白系ロシア人の血をひく小汚いおじさん。\n「探し道」なる武道に一生を捧げている。",
+  "name": "Sagashnikov",
+  "en": "Yuri Sagashnikov, a scruffy fellow of White Russian descent, has devoted his life to a martial art called the Way of Searching."
+ },
+ "l26": {
+  "jp": "■サガシニコフ\n探し道というのは、ロシア式健康体操から派生した武道で\n戦場での注意力を高めることを目的としていたらしいのだが\nいまはもう、珍しいお宝を探し当てるという\n武道であるかどうかも怪しいものになっている。",
+  "name": "Sagashnikov",
+  "en": "Born from Russian calisthenics, the Way of Searching supposedly sharpened battlefield awareness. These days, it's all about hunting rare treasure. Calling it a martial art is a bit of a stretch."
+ },
+ "l27": {
+  "jp": "■サガシニコフ\n彼は、世界に数人しかいないという、探し道の師範。\n珍しいアイテムがたくさん眠ると聞き、\n１０年ほど前にこの島に乗り込んできて\n数々の珍宝を探し当てたという。\n今は、後継者選びの時期が来たと考えている。",
+  "name": "Sagashnikov",
+  "en": "Said to be one of the world's few Master Instructors of the Way of Searching. He came to this island about ten years ago on rumors of rare items and unearthed many treasures. Now he feels it's time to choose a successor."
+ },
+ "l28": {
+  "jp": "■ホシダケ組\n殴り込みに行くはずが場所を間違え\nこの世界に漂着してしまったキノコ型宇宙人たち。\n宇宙に帰るために、おまじないの力で\n異次元に消えてしまった宇宙船を召還しようとしている。\nそのためには、この島に降る星のかけらの\n神秘のパワーが必要らしい。\nしかし、なにせキノコで歩けないので、\n他の人間に頼めないかと思っている。\n性格はずうずうしい。",
+  "name": "the Hoshidake Gang",
+  "en": "These pushy mushroom aliens took a wrong turn on a raid and landed here. To get home, they need this island's star fragments to magically recall their ship from another dimension. Since mushrooms can't walk, they want a human to do the legwork."
+ },
+ "l29": {
+  "jp": "■ノックス\nしゃべる鳥。千里眼を持つ神秘の鳥、\nヤタガラスの末裔である。\n遠い昔から、マリアンの一族と行動をともにしており\nノックスも、得意の情報収集能力を生かし\n忘れっぽい福福先生の代わりに\n日記を書くことを仕事にしていた。\n先生に頼まれ、あなたのガイド役をつとめることになる。\n口はやや悪いが、基本的に親切でフランク。\nこの島で起きたことを、誰よりよく知っている。",
+  "name": "Nox",
+  "en": "A talking, clairvoyant descendant of Yatagarasu, long allied with Marian's family. He kept forgetful Master Fukufuku's diary and now guides you at his request. Blunt but kind, this ace snoop knows this island's past better than anyone."
+ },
+ "l30": {
+  "jp": "■ペンタゴン\nペン、ター、ゴンの３人組の兄弟ペンギン。\n由緒ただしいペンギン一族の後裔らしい。\nギャンブル好きのダメ兄弟。\n悪の道に引き込まれないよう要注意。\nどういうわけかホシダケ組と仲が悪い。",
+  "name": "the Pentagon trio (Pen, Ta and Gon)",
+  "en": "Pen, Ta and Gon are three penguin brothers, supposedly descended from a distinguished clan. These gambling-loving layabouts could lead you astray, so watch out! For some reason, they can't stand the Hoshidake Gang."
+ },
+ "l31": {
+  "jp": "■サラオ\n不思議の泉の水中に棲むカッパ。\n年齢は６０歳を過ぎているが、\nカッパとしてはまだ成人していない。\n同じ池にすむコイとつきあっているらしいのだが\nとにかく寝ぼすけで、いつもデートに寝過ごしてしまうらしい。\n池にモノを投げて起こしてあげると、感謝されることも。",
+  "name": "Sarao",
+  "en": "A kappa living in a mysterious spring. Over 60, but still a minor by kappa standards! He's apparently dating a carp in the same pond, but always oversleeps their dates. Toss something into the pond to wake him, and he may thank you."
+ },
+ "l32": {
+  "jp": "■ダホー\nなんだかわからない巨大な生き物。\nその外見に反して、高い知性と教養を持ち、\n高度な知識を授けてくれる。\n妖精の世界では、かなり偉い存在らしく\n人間世界と妖精世界の交渉事は、彼がまとめているようだ。\nだが、仕事をしているところを見た者はいない。",
+  "name": "Daho",
+  "en": "A huge creature of unknown nature. Despite his looks, he's cultured, brilliant and full of wisdom. He seems to be a big shot in the fairy world, handling talks with the human world. Yet no one has ever seen him work."
+ },
+ "l33": {
+  "jp": "■マシュー博士\n妖精界では最高の学者と名高い。\n妖精王の側近にしてダホーの幼なじみ。\n人間の科学に強い興味を持ち、\n王に願い出てこの島で研究をしている。",
+  "name": "Dr. Matthew",
+  "en": "Famed as the fairy world's greatest scholar, he's the Fairy King's aide and Daho's childhood friend. Fascinated by human science, he asked the king's permission to conduct research on this island."
+ },
+ "l34": {
+  "jp": "■ドリアードシニア\n妖精王の庭師。王の命によりこの島の樹木を手入れしている。\nダホーとマシューをこよなく尊敬しており、\n自分もうんちくを語りたいと思っている。",
+  "name": "Dryad Senior",
+  "en": "The Fairy King's gardener, sent to tend this island's trees. He deeply admires Daho and Dr. Matthew, and dreams of sharing some trivia of his own."
+ },
+ "l35": {
+  "jp": "■ドリアードジュニア\nシニアの息子。\nうんちくばかり語る父に反発し、「言葉より力」と考えて\n武道を習いにいっている。\nただ問題は、それが探し道だったこと。\nいまはサガシニコフの弟子として、地面で宝探しをする日々。\n彼が強い男になる日は、まだまだ遠い。",
+  "name": "Dryad Junior",
+  "en": "Dryad Senior's son chose martial arts over his dad's endless trivia: strength over words! The catch? He chose the Way of Searching. Now he hunts treasure as Sagashnikov's pupil. He's still a long way from becoming a tough guy."
+ },
+ "l36": {
+  "jp": "■ストーニー兄弟\n異次元から修学旅行にやってきた岩石タイプの生物。\n年齢は人間でいうと小学生くらい。\n岩石生物はひじょうに寿命が長く時の流れが遅いので、\nもう１０年近く修学旅行は続いている。\nたわいない質問をしつこくしてくる。",
+  "name": "the Stony Brothers",
+  "en": "Rock creatures on a school trip from another dimension, about elementary school age in human terms. Their long lives make time pass slowly, so the trip has lasted nearly ten years! They never stop asking silly questions."
+ },
+ "l37": {
+  "jp": "■モークス\n闇の妖精。縁起のわるい存在として、\n妖精界でいじめられていた。\nしかしそれにも負けず、強く明るく生きようと考えている。\n「多くの人の心の支えになれば、やがて天使になれる」\nという妖精王の言葉を信じ、人を励ます日々を送っている。\nノックスと仲良し。",
+  "name": "Mokus",
+  "en": "A dark fairy bullied as bad luck in the fairy world. He strives to stay strong and cheerful, encouraging others in faith that, as the Fairy King said, supporting people's hearts will make him an angel someday. Good friends with Nox."
+ },
+ "l38": {
+  "jp": "■クレレ\n通りかかる人にアイテムをねだる。\nたいがいはもらいっぱなしだが、\nたまに大きなお返しをしてくれる。\nじつはまだ生まれたての貧乏神。",
+  "name": "Kurere",
+  "en": "Begs passersby for items. Usually he just takes them, but now and then he'll give you something big in return. He's actually a newborn god of poverty."
+ },
+ "l39": {
+  "jp": "■ヒヨピー\n外宇宙からやってきた冒険商人。\nなぜか大阪弁でしゃべり、\nヒヨピースタンプなる謎のシステムで\n大儲けすることを夢見ている。\nだがスタンプでどうやって儲けるのかは、\n誰にもわからない。\nコピタンとは激烈に仲が悪く、\nプッカおじさんを一方的にライバル視している。",
+  "name": "Hiyopi",
+  "en": "An adventuring space merchant with an Osaka twang, dreaming of big bucks from his baffling Hiyopi Stamp system. How does it make money? Nobody knows. He and Copitan can't stand each other, and he has a one-sided rivalry with Uncle Pukka."
+ },
+ "l40": {
+  "jp": "■パコン王子\n異次元にあるブリッキ国から、\nマシュー博士のもとへ留学している双子の王子様。\nパコンは兄である。\n仲が悪いわけではないが、\nなにかというと弟を意識してしまうお年頃。\n王子として、ちゃんとしなくてはと思い詰めている。\nプレイヤーに専門的なクイズを出してくる。",
+  "name": "Prince Pakon",
+  "en": "A twin prince from the Kingdom of Brikki in another dimension, studying under Dr. Matthew. Pakon is the elder and gets along with his brother, but keeps comparing himself to him. He frets over being a proper prince and gives you specialist quizzes."
+ },
+ "l41": {
+  "jp": "■ペコン王子\n異次元にあるブリッキ国から、\nこの世界に留学している双子の王子様。\nペコンは弟である。\n兄と正反対ののんびりした性格で、兄を尊敬している。\nプレイヤーに専門的な試験を出してくる。",
+  "name": "Prince Pekon",
+  "en": "One of twin princes studying in this world, from the Kingdom of Brikki in another dimension. Pekon is the younger twin. Easygoing, he's the opposite of his brother, whom he admires. He gives you specialized exams."
+ },
+ "l42": {
+  "jp": "■ゴーストバルーン\n昔からこの島にいるモンスター。\nどうやら火山にあるという次元の隙間から出てくるらしい。\n言葉は通じない。",
+  "name": "Ghost Balloon",
+  "en": "A monster that has been on this island for ages. Apparently, these creatures emerge from a rift between dimensions said to lie inside the volcano. You can't communicate with them."
+ },
+ "l43": {
+  "jp": "■カラメル伯爵\n異世界の英国から訪れたふしぎなジェントルマン。\n最初にこの島に現れた異次元の生き物である。\n元の世界では、相当な地位を持つ有力貴族だったらしい。\n母国語でうんちくを語ってくれる。\n本当はこちらの言葉もペラペラではないかと思われるが\nなぜか本人はそれを隠したい様子。",
+  "name": "Count Caramel",
+  "en": "A curious gent from another world's Britain, and this island's first arrival from another dimension. Said to have been a powerful noble, he shares trivia in his own tongue. He seems fluent in ours, too, but hides it for some reason."
+ },
+ "l44": {
+  "jp": "■プッカおじさん\n島で唯一の商店、プッカ商店を経営するプッカルライト星人。\n昔は宇宙の果てで宇宙石掘りをやっていたという。\n性格はマイペース。ヘンな歌が好きで、ジルと仲がいい。",
+  "name": "Uncle Pukka",
+  "en": "An alien from Pukkarulite who runs Pukka's General Store, the island's only shop. He says he once mined space rocks at the edge of the universe. He goes at his own pace, loves odd songs, and is good friends with Jill."
+ },
+ "l45": {
+  "jp": "■ポッコ\nプッカおじさんのいとこにあたるプッカルライト星人。\nリサイクルショップを経営している。\n見かけと違い、まだ青年である。\n最近、ナウな若者言葉を身につけたらしい。",
+  "name": "Pokko",
+  "en": "Uncle Pukka's cousin, an alien from Pukkarlight, runs a secondhand shop. Despite his looks, he's still a young man. Apparently, he's picked up some 'hip' youth slang lately."
+ },
+ "l46": {
+  "jp": "■デイジー\n妖精王づきの理髪師。彼女自身は妖精ではなく、\nポリットという森に住む動物である。\nポリットは代々、妖精王の髪を切る仕事をしてきたが、\n不幸なことに現妖精王には髪がなく、彼女のおじいさんも\n散髪の仕事をしないまま生涯を送ったという。\nおじいさんの跡をついだばかりの彼女は、\nとにかく髪が切りたくて仕方がないので、\nダホーの許可を得て店を出している。",
+  "name": "Daisy",
+  "en": "A Polit, a forest animal, and the Fairy King's barber. Her family has held the job for generations, but the current king is bald. Grandpa never cut a hair! She just took over and is itching to snip, so Daho let her open a salon."
+ },
+ "l47": {
+  "jp": "■カトレア\n理髪師デイジーの姉。\n美容室を開くという妹を心配してこの島にやってきたが\nヒマなので、趣味の洋裁を生かして洋服店を開くことにした。\n売り上げは少ないが、気にしている様子はない。\n妖精の世界では、魔性の女として知らぬものなく\n超がつくほどのモテモテっぷりであった。",
+  "name": "Cattleya",
+  "en": "Daisy's big sister came to this island worried about her new salon. Bored, she turned her sewing hobby into a clothes shop. Slow sales don't bother her. Back in the fairy world, she was a famed femme fatale with admirers galore."
+ },
+ "l48": {
+  "jp": "■ガイドフーセン\n物言うふしぎな風船。\nとある場所で案内役をやっている。",
+  "name": "Guide Balloon",
+  "en": "A mysterious talking balloon who works as a guide in a certain place."
+ },
+ "l49": {
+  "jp": "■クロゼニーギョ\nゼニーを背負ったおちゃめな魚。\nクロゼニーギョは貧乏なのか、\nたいしたゼニーは背負っていない。",
+  "name": "Black Zenygyo",
+  "en": "A playful fish with money on its back. Maybe Black Zenygyo is broke... it doesn't carry much cash."
+ },
+ "l50": {
+  "jp": "■シロゼニーギョ\nゼニーを背負ったおちゃめな魚。\nシロゼニーギョはちょっとニヒルなやり手の魚。",
+  "name": "White Zenygyo",
+  "en": "A playful fish with money on its back. White Zenygyo is a shrewd operator with a bit of a cynical streak."
+ },
+ "l51": {
+  "jp": "■マルゼニーギョ\nゼニーを背負ったおちゃめな魚。\nマルゼニーギョは裕福な生まれの坊ちゃん。\nお金もいっぱい持っている。",
+  "name": "Round Zenygyo",
+  "en": "A playful fish with money on its back. Round Zenygyo is a rich kid born into wealth, with plenty of cash to show for it."
+ },
+ "l52": {
+  "jp": "■ドン・ゼニーギョ\nゼニーを背負ったおちゃめな魚。\nドン・ゼニーギョはゼニーギョ界の大立て者。\nおおぜいの子分を率いる大物。",
+  "name": "Don Zenygyo",
+  "en": "A playful fish with money on its back. Don Zenygyo is a big shot in the Zenygyo world, with a whole mob of underlings at his command."
+ },
+ "l53": {
+  "jp": "■フクフク蝶\n福福島のみに生息する珍しい蝶。\nどうやら妖精世界から来たらしい。\n妖精たちの間を行き来して、いろいろな小さいものを運んでいる。\nほとんどは花粉だが、たまにお金を運んでいることも。\nいろいろなハネの模様を持つものがいる。",
+  "name": "Fukufuku Butterfly",
+  "en": "A rare butterfly found only on Fukufuku Island, said to come from the fairy world. It flits between fairies carrying little things, mostly pollen, but sometimes money! Its wings come in all sorts of patterns."
+ },
+ "l54": {
+  "jp": "■ビルビドゥー\n福福先生の旧友にして、先生と並ぶ腕を持った占い師だった。\n大がかりな仕掛けをほどこした、けれんみたっぷりの占いで\nハリウッドスターばりの人気を誇ったという。\n世界中を巡業していたが、突如として引退を発表\n友や弟子とともに学究生活を送るべく、この島へ移住した。\nしかし３年前、大福餅をノドに詰まらせて急逝。\n享年７０歳であった。\n性格は豪快で、とにかく異性にモテモテだったらしい。",
+  "name": "Bilbidoo",
+  "en": "Master Fukufuku's old friend and equal, his elaborate fortune shows made him a global star. He retired here with friends and pupils to study, but choked on daifuku three years ago, aged 70. A larger-than-life charmer, he was a hit with the opposite sex."
+ },
+ "l55": {
+  "jp": "■大天使\n守護天使たちを束ねるえらい天使。\n性格は…会ってみればわかる。",
+  "name": "the Archangel",
+  "en": "The big-shot angel in charge of the guardian angels. What's he like? Well... meet him and find out."
+ },
+ "l56": {
+  "jp": "■大天使（弟）\nぶっとんだ兄の補佐として、\n守護天使の面倒を見るえらい天使。\nいろいろ苦労しているらしい。",
+  "name": "the Archangel (Younger Brother)",
+  "en": "An important angel who helps his off-the-wall older brother look after the guardian angels. Sounds like he's got his work cut out for him."
+ }
+}

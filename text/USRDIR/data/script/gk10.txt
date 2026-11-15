@@ -156,7 +156,7 @@ EN: Turquoise
 
 @15134 max=359
 JP: 倹約家で地道に何かをひとつ、や<n>り遂げることのできる素質の持ち<n>主。大きな勝負や、賭け事、浮つ<n>いた遊びなどは不得意で、小さな<n>成功をこつこつと重ねて、渋く光<n>る人です。辛抱強い人でもあるの<n>で、教師などにも向いています。
-EN: Thrifty and steady, you have the grit<n>to see a task through. Big risks,<n>gambling and frivolous fun aren't<n>your strengths. You shine quietly,<n>building on one small success after<n>another. Your patience also makes<n>you well suited to teaching.
+EN: Thrifty and patient, you finish what you start. You shine through small, steady wins. Big risks, gambling and frivolous fun aren't for you. Teaching could be your calling.
 
 @1529C max=359
 JP: ひすい
@@ -164,7 +164,7 @@ EN: Jade
 
 @15404 max=359
 JP: 物静かであまり大勢の人との接触<n>を好まないひすいタイプ。実は、<n>肉体派の仕事で大成する素質の持<n>ち主。己の記録に黙々と挑戦した<n>り、大きな建物をこつこつと設計<n>したり、あるいは、修行にその身<n>を費やす僧侶などが適職です。
-EN: Quiet Jade types prefer to avoid<n>crowds. You have a gift for work<n>that demands physical effort.<n>Quietly chasing athletic records,<n>patiently designing great buildings,<n>or devoting yourself to a monk's<n>training would all suit you.
+EN: Quiet Jade types shun crowds and have a gift for physical work. Chasing sports records, designing grand buildings or devoting yourself to a monk's training could suit you.
 
 @1556C max=359
 JP: ダイヤモンド
@@ -172,7 +172,7 @@ EN: Diamond
 
 @156D4 max=359
 JP: どんなことをやっても大胆かつ器<n>用にこなし、トップに立てる素質<n>の持ち主。ただし、人に指図され<n>たり、細かなやりくりしたりする<n>のが苦手なので、商売やサービス<n>業には向いていません。成功して<n>も、自慢話はほどほどに。
-EN: Bold and capable in all you do,<n>you have what it takes to reach<n>the top. Taking orders and managing<n>small details aren't your strengths,<n>so commerce and service work don't<n>suit you. When success comes,<n>go easy on the bragging!
+EN: Bold and skilled, you can reach the top. Taking orders and juggling budgets aren't your strengths, so trade and service work don't suit you. Succeed, but keep the boasting down!
 
 @1583C max=359
 JP: 水晶
@@ -180,7 +180,7 @@ EN: Crystal
 
 @159A4 max=359
 JP: 争いごとが嫌いで、凝り性の水晶<n>タイプは芸術、創作などを極める<n>ことができる素質の持ち主。その<n>場のムードに流されることが多い<n>のでお酒の席や、押しの強い人に<n>口説かれたときは注意が必要。人<n>にこびない独立精神の持ち主。
-EN: Peace-loving Crystal types have<n>a passion for detail and the talent<n>to master an art or creative craft.<n>You get swept up in the mood, so<n>beware at drinking parties or when<n>a pushy admirer woos you. Still,<n>you're independent and don't flatter.
+EN: Peace-loving Crystal types have the focus to master the arts. You don't flatter others, but moods sway you. Take care at drinking parties and with pushy admirers.
 
 @15B0C max=359
 JP: コハク
@@ -188,7 +188,7 @@ EN: Amber
 
 @15C74 max=359
 JP: 独立心が旺盛で、マスコミ関係の<n>仕事などで成功する素質の持ち主。<n>指図を受けるのが嫌いなので、会<n>社勤めにはまったく向きません。<n>負けず嫌いなところが強く出すぎ<n>るので、たまには人に譲る、とい<n>うことができるようになれば吉。
-EN: Fiercely independent, you have<n>the talent to succeed in media.<n>You hate taking orders, so<n>company life really doesn't suit you.<n>Your competitive streak can get<n>the better of you. Learn to let<n>others have their way sometimes.
+EN: Fiercely independent, you could thrive in media. You hate taking orders, so company life doesn't suit you. Your urge to win can get out of hand. Let others have their way sometimes.
 
 @15DDC max=359
 JP: 猫目石
@@ -196,7 +196,7 @@ EN: Cat's Eye
 
 @15F44 max=359
 JP: 頭の回転が早く知的で、研究熱心<n>な猫目石タイプ。古美術や絵画、<n>ブランド品などの収集で財を成す<n>素質の持ち主。ただし、快活すぎ<n>るおしゃべり、営業トークなどに<n>は不向きなので、商売するにして<n>も、落ち着いた店のほうが吉。
-EN: Quick-witted, clever Cat's Eye types<n>love research. You could make a<n>fortune collecting antiques, art<n>or designer goods. Bubbly chatter<n>and sales pitches don't suit you,<n>though. If you run a shop, choose<n>one with a calm atmosphere.
+EN: Clever Cat's Eye types love research. Collecting art, antiques or designer goods could make you rich. Bubbly chatter and sales pitches aren't for you. A quiet shop suits you.
 
 @160AC max=359
 JP: 金
@@ -204,7 +204,7 @@ EN: Gold
 
 @16214 max=359
 JP: にぎやかで明るく、快活で明朗、<n>いつも楽しい雰囲気をかもし出す<n>金タイプ。商才があり、説得力も<n>あるのでセールスにかけては突出<n>した素質の持ち主。ただし、恋愛<n>におぼれる傾向があり、決まった<n>相手のいる人はつつしみが必要。
-EN: Lively and cheerful, Gold types<n>make every gathering fun.<n>Business sense and persuasive charm<n>give you a special gift for sales.<n>You tend to get carried away<n>in love, though. If you already<n>have a partner, show some restraint.
+EN: Lively Gold types make life fun. Business sense and a knack for persuasion make you a gifted salesperson. Love can sweep you away, though. If you have a partner, show restraint!
 
 @1637C max=359
 JP: 銀
@@ -212,7 +212,7 @@ EN: Silver
 
 @164E4 max=359
 JP: 物静かで、芸術、文学などに造詣<n>が深い銀タイプ。その特技を生か<n>してファッション、マスコミ関係<n>に就職すると才能が花開く素質の<n>持ち主です。過去に囚われたり、<n>いつまでも失敗を気に病む癖を克<n>服できるとよりいっそうの成功が。
-EN: Quiet Silver types know a great deal<n>about art and literature. Put that<n>knowledge to work in fashion or<n>the media, and your talents can bloom.<n>Stop dwelling on the past or<n>brooding over old mistakes,<n>and even greater success awaits.
+EN: Quiet Silver types know art and literature well. Your talents could bloom in fashion or media. Stop dwelling on the past and brooding over mistakes, and you'll go further.
 
 @1664C max=359
 JP: ジルコニア
@@ -220,7 +220,7 @@ EN: Zirconia
 
 @167B4 max=359
 JP: 忙しく動くのが苦にならず、人を<n>使う素質に長けているジルコニア<n>タイプ。頼みごとをされたり、人<n>の世話をしたりするのが好きなわ<n>りには、情に流されない冷たいと<n>ころもあります。小さな商店など<n>を経営すると成功する人です。
-EN: Zirconia types enjoy keeping busy<n>and have a knack for managing people.<n>You like being asked for favors<n>and taking care of others, yet<n>you can be cool and unswayed<n>by emotion. Running a small shop<n>could bring you success.
+EN: Zirconia types thrive on activity and manage people well. You like helping others and being asked for favors, yet can be cool and unswayed by feelings. A small shop could prosper.
 
 @1691C max=359
 JP: プラチナ
@@ -228,7 +228,7 @@ EN: Platinum
 
 @16A84 max=359
 JP: 専門的な知識に長け、計画的に物<n>事を進めるのが得意なプラチナタ<n>イプ。自分で何か事業を起こすよ<n>りは、誰かのアドバイザー、コン<n>サルタントのようなサブの立場を<n>選ぶと成功する素質の持ち主です。<n>自分の欲望を抑えられると吉。
-EN: Platinum types excel at specialist<n>knowledge and careful planning.<n>Your talents shine in a supporting<n>role, such as an adviser or<n>consultant, rather than starting<n>your own business. Keeping your<n>desires in check brings good luck.
+EN: Platinum types excel at specialist knowledge and planning. You'll thrive as an adviser or consultant more than by starting a business. Keep your desires in check for good luck.
 
 @16BEC max=359
 JP: 銅
@@ -236,7 +236,7 @@ EN: Copper
 
 @16D54 max=359
 JP: 辛抱強く、理論派で、まじめな性<n>格の銅タイプ。秘書や看護士など、<n>誠実さが求められる仕事で成功す<n>る素質の持ち主です。ただし、ち<n>ょっと怒りっぽいところ、頑固な<n>ところもあり、これをコントロー<n>ルできるようになるとさらに吉。
-EN: Patient, logical and earnest,<n>Copper types have a gift for work<n>that calls for integrity, such as<n>secretarial work or nursing.<n>You can be a little quick-tempered<n>and stubborn. Learn to control<n>those traits, and you'll do even better.
+EN: Patient, logical and earnest, Copper types excel in jobs that demand honesty, like nursing or secretarial work. Curb your temper and stubborn streak for even greater success.
 
 @16EBC max=359
 JP: ルチル
@@ -244,4 +244,4 @@ EN: Rutile
 
 @17024 max=359
 JP: どんな職業でも器用にこなし、信<n>念をもって進んでいくことができ<n>るルチルタイプ。人の助言に耳を<n>傾けるタイプではないが、人との<n>共同作業はかなりうまくいくほう<n>です。グループや会社の一員とし<n>てなくてはならない存在です。
-EN: Versatile Rutile types can handle<n>any job and move forward with<n>firm conviction. You aren't one<n>to take advice, but you work<n>remarkably well with others.<n>You're an indispensable member<n>of any group or company.
+EN: Versatile Rutile types tackle any job with conviction. You rarely heed advice, but work well with others, making you vital to any team or company.

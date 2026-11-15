@@ -4,47 +4,47 @@
 
 @#0
 JP: ■行進曲の日：別名マーチの日。行進曲と三<n>月のＭａｒｃｈが同じスペリングということ<n>から制定。<n>■豚の日：１９７２年に、アメリカのスタン<n>リー＆レイブ姉妹が、豚への感謝をこめて制<n>定。合衆国の各地で豚の品評会が行われる。<n>■労働組合法施行記念日：１９４６年、労働<n>者の地位向上を目的として施行された。
-EN: - Marching Music Day: Also called March Day.<n>Established because "march," the musical form,<n>and "March," the month, share the same spelling.<n>- Pig Day: Established in 1972 by American sisters<n>Stanley and Rave to show their appreciation for pigs.<n>Pig shows are held across the United States.<n>- Trade Union Act Anniversary: The act took effect<n>in 1946 to improve the status of workers.
+EN: - March Day: "March" means both a month and a marching tune.\n- Pig Day: Founded in 1972 by the Stanley and Rave sisters in the US to honor pigs.\n- Union Law Day: Japan's 1946 law improved workers' status.
 
 @#1
 JP: ■遠山の金さんの日：１８４０年、遠山の金<n>さんこと遠山左衛門尉影元が北町奉行に任命<n>された日。<n>■ミニチュアの日：み、に、の語呂合わせ。<n>■中国残留孤児の日：１９８１年、中国残留<n>日本人孤児たちが、初めて公式に来日した日。
-EN: - Kin-san of Toyama Day: In 1840, Kagemoto Toyama,<n>also known as Kin-san, was appointed magistrate<n>of Edo's northern district on this day.<n>- Miniature Day: A pun on 3/2, read as "mi-ni."<n>- Japanese Orphans in China Day: In 1981, Japanese<n>orphans left in China made their first official visit to Japan.
+EN: - Kin-san Day: In 1840, Kagemoto Toyama became magistrate of Edo's northern district.\n- Miniature Day: 3/2 reads "mi-ni."\n- Orphans in China Day: In 1981, Japanese orphans left in China made their first official visit to Japan.
 
 @#2
 JP: ■雛祭り：別名、上巳の節句、桃の節句。か<n>つては川や海に汚れを移した人形を流してい<n>たが、次第に流さずに飾っておくようになり、<n>雛祭りとして発展。<n>■耳の日：み、み、の語呂合わせより。１９<n>５４年日本耳鼻咽喉科学会が制定した。<n>■金魚の日：日本鑑賞魚振興会が制定。<n>■結納の日：全国結納品組合連合会が制定。
-EN: - Doll Festival: Also called the Double Third Festival<n>or Peach Festival. People once set dolls afloat<n>on rivers or the sea to carry away impurities.<n>Over time, they began displaying the dolls instead.<n>- Ear Day: A pun on 3/3, "mi-mi," meaning "ear."<n>Established in 1954 by Japan's otolaryngology society.<n>- Goldfish Day: Established by Japan's ornamental fish promotion association.<n>- Betrothal Gift Day: Established by the national federation of betrothal gift dealers.
+EN: - Doll Festival: Dolls once carried impurities away on water; now they're displayed.\n- Ear Day: 3/3 reads "mi-mi" (ear). Set in 1954.\n- Goldfish Day: Set by Japan's ornamental fish association.\n- Betrothal Gift Day: Set by the national betrothal gift dealers' federation.
 
 @#3
 JP: ■円の日：１８６９年、明治政府が貨幣を円<n>形とし、円貨の制度を定めた。<n>■ミシンの日：１９９０年、日本家庭用ミシ<n>ン工業会が制定。み、し、の語呂合わせより。<n>■サッシの日：サ、シ、の語呂合わせより。<n>■三線の日：沖縄県の琉球放送が制定。三線<n>は、蛇味線とも呼ばれる沖縄の楽器。
-EN: - Yen Day: In 1869, the Meiji government decided<n>that coins would be round and established the yen system.<n>- Sewing Machine Day: Established in 1990 by Japan's<n>household sewing machine industry association. A pun on 3/4, "mi-shi."<n>- Window Sash Day: A pun on 3/4, read as "sa-shi."<n>- Sanshin Day: Established by Okinawa's Ryukyu Broadcasting.<n>The sanshin is an Okinawan instrument also called the snakeskin shamisen.
+EN: - Yen Day: In 1869, Japan set up the yen system with round coins.\n- Sewing Machine Day: Set in 1990; 3/4 sounds like "mi-shi."\n- Window Sash Day: 3/4 reads "sa-shi."\n- Sanshin Day: Ryukyu Broadcasting honors Okinawa's snakeskin lute.
 
 @#4
 JP: ■ミスコンの日：１９０８年、日本初のミス<n>コンテストとなる「良家の淑女」という企画<n>が時事新報社によって行われた日。<n>■珊瑚の日：さん、ご、の語呂合わせと、三<n>月の誕生石が珊瑚であることより。<n>■スチュワーデスの日：１９３１年、東京航<n>空輸送が実施した日本初のスチュワーデス採<n>用試験の結果発表日。
-EN: - Beauty Pageant Day: In 1908, the Jiji Shimpo newspaper<n>held Japan's first beauty pageant,<n>a contest called "Ladies of Good Families."<n>- Coral Day: A pun on 3/5, "san-go," meaning "coral."<n>Coral is also a March birthstone.<n>- Flight Attendant Day: In 1931, Tokyo Air Transport<n>announced the results of Japan's first recruitment exam<n>for female flight attendants.
+EN: - Beauty Pageant Day: Jiji Shimpo held Japan's first pageant in 1908.\n- Coral Day: 3/5 reads "san-go" (coral), a March birthstone.\n- Flight Attendant Day: In 1931, Tokyo Air Transport posted Japan's first hiring exam results.
 
 @#5
 JP: ■スポーツ新聞の日：１９４６年、日本初の<n>スポーツ新聞「日刊スポーツ」創刊。<n>■ジャンヌ・ダルクの日：１４２９年、百年<n>戦争で苦戦するフランスに、神の命を受けた<n>というジャンヌ・ダルクが現れ、活躍。翌年<n>イギリス軍に捕えられ、火あぶりとなる。<n>■世界一周記念日：１９６７年、日本航空の<n>世界一周路線が営業を開始。
-EN: - Sports Newspaper Day: In 1946, Japan's first sports<n>newspaper, Nikkan Sports, began publication.<n>- Joan of Arc Day: In 1429, Joan of Arc appeared<n>in France, which was struggling in the Hundred Years' War.<n>Claiming a mission from God, she played an active role.<n>The next year, she was captured by the English and burned at the stake.<n>- Around-the-World Anniversary: In 1967, Japan Airlines<n>began operating its round-the-world route.
+EN: - Sports Newspaper Day: Japan's first, Nikkan Sports, launched in 1946.\n- Joan of Arc Day: In 1429, Joan fought for France, claiming God's orders. The English captured her in 1430; she was burned at the stake.\n- World Tour Day: JAL's global route opened in 1967.
 
 @#6
 JP: ■消防記念日：１９４８年、「消防組織法」<n>が施行、これに従って市町村長が消防を管理<n>する「自治体消防制度」となる。<n>■警察制度改正記念日：１９４８年、警察制<n>度の改正により、国家警察と地方自治警察が<n>設置された日。<n>■未成年喫煙禁止法制定の日：１９００年の<n>この日、制定された。
-EN: - Fire Service Day: In 1948, the Fire Service Organization Act<n>took effect, establishing a municipal fire service system<n>with fire services managed by municipal leaders.<n>- Police System Reform Anniversary: In 1948, reforms<n>established national police and local municipal<n>police forces on this day.<n>- Underage Smoking Prohibition Act Day:<n>The act was enacted on this day in 1900.
+EN: - Fire Service Day: A 1948 law put fire services under municipal leaders.\n- Police Reform Day: Japan set up national and municipal police in 1948.\n- Underage Smoking Ban Day: Japan passed the law on this day in 1900.
 
 @#7
 JP: ■国際女性デー：１９１０年、コペンハーゲ<n>ン第７回大会で正式に制定された、国際的な<n>婦人解放記念日。<n>■ミツバチの日：みつ、ばち、の語呂合わせ。<n>■みやげの日：み、や、の語呂合わせ。全国<n>観光物産振興協会が制定。<n>■赤ちゃん＆こどもカットの日：１９９９年<n>制定の、幼児専用の理容室ＰＲの日。
-EN: - International Women's Day: An international day<n>commemorating women's liberation, officially established<n>at the seventh congress in Copenhagen in 1910.<n>- Honeybee Day: A pun on 3/8, read as "mitsu-bachi."<n>- Souvenir Day: A pun on 3/8, "mi-ya." Established<n>by Japan's national tourism products promotion association.<n>- Baby and Children's Haircut Day: Established in 1999<n>to promote barbershops specializing in young children.
+EN: - International Women's Day: Set in 1910 at Copenhagen's congress.\n- Honeybee Day: 3/8 reads "mitsu-bachi."\n- Souvenir Day: 3/8 reads "mi-ya." Set by Japan's tourism goods association.\n- Kids' Haircut Day: Set in 1999 to promote barbers for young children.
 
 @#8
 JP: ■記念切手記念日：日本初の記念切手が発行。<n>■関門国道トンネル開通記念日：１９５８年、<n>下関・門司間の海底道路トンネル、関門国道<n>トンネルが開通。<n>■ありがとうの日：英語のさん、きゅーの語<n>呂合わせより制定。<n>■バービーの誕生日：マテル社のバービー人<n>形が発表された日。
-EN: - Commemorative Stamp Anniversary: Japan issued its first commemorative stamps.<n>- Kanmon Road Tunnel Opening Anniversary: In 1958,<n>the undersea road tunnel connecting Shimonoseki and Moji,<n>the Kanmon Road Tunnel, opened to traffic.<n>- Thank You Day: A pun on 3/9, "san-kyu,"<n>which sounds like the English "thank you."<n>- Barbie's Birthday: The day Mattel introduced<n>its Barbie doll.
+EN: - Stamp Day: Japan issued its first commemorative stamps.\n- Kanmon Tunnel Day: The Shimonoseki-Moji undersea road opened in 1958.\n- Thank You Day: 3/9, "san-kyu," sounds like "thank you."\n- Barbie's Birthday: Mattel unveiled its Barbie doll.
 
 @#9
 JP: ■東京大空襲記念日：１９４５年、アメリカ<n>軍により焼夷弾爆撃された日。<n>■東京都平和の日：東京都が１９９０年に、<n>東京都平和の日条例で制定。<n>■砂糖の日：数字の語呂合わせより制定。<n>■佐渡の日：佐渡島観光協会が１９９８年に、<n>数字の語呂合わせより制定。<n>■水戸の日：数字の語呂合わせより制定。
-EN: - Great Tokyo Air Raid Anniversary: In 1945, American forces<n>carried out an incendiary bombing raid on Tokyo on this day.<n>- Tokyo Peace Day: Established by the Tokyo government<n>in 1990 through its Tokyo Peace Day ordinance.<n>- Sugar Day: Based on a Japanese number pun.<n>- Sado Day: Established by the Sado Island Tourism Association<n>in 1998, based on a Japanese number pun.<n>- Mito Day: Based on a Japanese number pun.
+EN: - Tokyo Air Raid Day: US forces firebombed Tokyo on this day in 1945.\n- Tokyo Peace Day: Set by city ordinance in 1990.\n- Sugar Day: A Japanese number pun.\n- Sado Day: A 1998 tourism tribute, based on a Japanese number pun.\n- Mito Day: A Japanese number pun.
 
 @#10
 JP: ■パンダ発見の日：１８６９年、四川省ムー<n>ピンの民家で、フランス人神父ダビットが、<n>パンダ熊の毛皮を発見。西洋でパンダが知ら<n>れるきっかけとなった。<n>■コラムの日：１７５１年、イギリスの「ロ<n>ンドン・アドバイザー・リテラリー・ガゼッ<n>ト」誌が、世界初のコラム連載を開始。
-EN: - Panda Discovery Day: In 1869, the French priest David<n>found a panda pelt in a home in Muping,<n>Sichuan Province. This discovery introduced<n>the panda to the Western world.<n>- Newspaper Column Day: In 1751, Britain's<n>London Advertiser and Literary Gazette began publishing<n>the world's first regular newspaper column.
+EN: - Panda Discovery Day: In 1869, French priest David found a panda pelt in Muping, Sichuan, introducing pandas to the West.\n- Column Day: In 1751, Britain's London Advertiser and Literary Gazette began the world's first column series.
 
 @#11
 JP: ■サイフの日：さ、い、ふ、の語呂合わせ。<n>■サンデーホリデーの日：１８７６年、官公<n>庁で欧米式の土曜半休・日曜休日が実施。<n>■奈良東大寺二月堂お水取り：東大寺の僧侶<n>たちが代苦者となる祈願法要。
@@ -56,39 +56,39 @@ EN: - Seikan Tunnel Opening Anniversary: In 1988, the JR Tsugaru<n>Kaikyo Line o
 
 @#13
 JP: ■ホワイトデー：全国飴菓子工業協同組合関<n>東地区部会が催事化した、バレンタインデー<n>の返礼のプレゼントをする日。<n>■数学の日：円周率の近似値３．１４にちな<n>み、日本数学検定協会が制定。<n>■国際結婚の日：１８７３年、政府が国際結<n>婚を認める布告を出した日。
-EN: - White Day: A day for giving return gifts for Valentine's Day,<n>promoted as an event by the Kanto branch of Japan's<n>national candy manufacturers' cooperative.<n>- Mathematics Day: Established by the Mathematics Certification<n>Institute of Japan in honor of 3.14, an approximation of pi.<n>- International Marriage Day: In 1873, the government<n>issued a proclamation permitting international marriages.
+EN: - White Day: Japan's candy makers promoted this day for Valentine's return gifts.\n- Math Day: Japan's math certification body chose 3/14 for pi's value, 3.14.\n- International Marriage Day: In 1873, Japan allowed international marriages.
 
 @#14
 JP: ■靴の日：日本靴連盟が１９３２年に制定。<n>■世界消費者権利デー：国際消費者機構の消<n>費者運動の統一行動日。１９８３年から実施。<n>■万国博デー：１９７０年、大阪万博で一般<n>入場が開始された日。<n>■オリーブの日：小豆島で実施されている。<n>■ねはん会：釈迦の遺徳を偲ぶ法会が行われ<n>る日。元々は旧暦の２月１５日だった。
-EN: - Shoe Day: Established by the Japan Shoe Federation in 1932.<n>- World Consumer Rights Day: A day of coordinated action<n>by Consumers International, observed since 1983.<n>- World Expo Day: In 1970, the Osaka Expo<n>opened to the general public on this day.<n>- Olive Day: Observed on Shodoshima Island.<n>- Nirvana Day: Buddhist services honor the Buddha's legacy.<n>Originally observed on the 15th day of the second lunar month.
+EN: - Shoe Day: Set by Japan's shoe federation in 1932.\n- World Consumer Rights Day: Global action for consumers since 1983.\n- Expo Day: Osaka Expo opened in 1970.\n- Olive Day: Observed on Shodoshima.\n- Nirvana Day: Honors Buddha; once held on the lunar calendar's 2/15.
 
 @#15
 JP: ■国立公園指定記念日：１９３４年、内務省<n>が、瀬戸内海・雲仙天草・霧島屋久を国立公<n>園に指定、日本初の国立公園が誕生。<n>■十六団子：田の神が山から戻ってくるとさ<n>れる日。東北地方では団子を１６個供え、神<n>を迎える行事が行われる。
-EN: - National Park Designation Anniversary: In 1934, the Home Ministry<n>designated Setonaikai, Unzen-Amakusa and Kirishima-Yaku<n>as Japan's first national parks.<n>- Sixteen Dumplings Day: The day the rice-field deity is said<n>to return from the mountains. In the Tohoku region,<n>people welcome the deity with an offering of 16 dumplings.
+EN: - National Parks Day: In 1934, Setonaikai, Unzen-Amakusa and Kirishima-Yaku became Japan's first national parks.\n- Sixteen Dumplings Day: Tohoku welcomes the rice-field god back from the mountains with 16 dumplings.
 
 @#16
 JP: ■セント・パトリックデー：アイルランドの<n>守護聖人、セント・パトリックの日。クロー<n>バーがシンボルとされ、この日に緑色のもの<n>を身につけていると幸せになれると言われて<n>いる。<n>■漫画週刊誌の日：１９５９年、日本初の少<n>年向け週刊誌「少年マガジン」「少年サンデ<n>ー」創刊。読み物中心の雑誌だった。
-EN: - St. Patrick's Day: Celebrates St. Patrick,<n>the patron saint of Ireland. The shamrock<n>is its symbol, and wearing something green<n>on this day is said to bring<n>good luck.<n>- Weekly Manga Magazine Day: In 1959, Japan's first<n>weekly magazines for boys, Shonen Magazine and Shonen Sunday,<n>began publication. They initially focused on prose stories and articles.
+EN: - St. Patrick's Day: Honors Ireland's patron saint. Its symbol is the shamrock; wearing green is said to bring luck.\n- Weekly Manga Day: In 1959, Shonen Magazine and Shonen Sunday debuted as Japan's first boys' weeklies, mostly featuring prose.
 
 @#17
 JP: ■明治村開村記念日：１９６５年、愛知県犬<n>山市に博物館明治村が開村。<n>■精霊の日：柿本人麻呂、和泉式部、小野小<n>町の三人の忌日がこの日であると伝えられて<n>いることより。<n>■三月革命の日：１８４８年、ベルリンで起<n>きた市民革命。
-EN: - Meiji Mura Opening Anniversary: In 1965, the Meiji Mura<n>open-air museum opened in Inuyama, Aichi Prefecture.<n>- Spirits Day: The poets Kakinomoto no Hitomaro, Izumi Shikibu<n>and Ono no Komachi are all said to have died on this date.<n>- March Revolution Day: Commemorates the citizens' revolution<n>that broke out in Berlin in 1848.
+EN: - Meiji Mura Day: The museum opened in Inuyama, Aichi, in 1965.\n- Spirits Day: Poets Kakinomoto no Hitomaro, Izumi Shikibu and Ono no Komachi are said to have died on this date.\n- March Revolution Day: Berlin's citizens rose up in 1848.
 
 @#18
 JP: ■ミュージックの日：日本音楽家ユニオンが<n>１９９１年に制定。音楽文化と音楽家の現状<n>について広く理解を求めるための活動を行う。<n>■アカデミー賞設立記念日：１９２７年、ア<n>メリカで映画芸術科学アカデミーが設立。<n>■カメラ発明の日：１８３９年、フランスの<n>ルイ・マンデ・ダゲールが写真機を発明。<n>■聖ヨセフの祝日：イエスの育て親を祝う日。
-EN: - Music Day: Established by the Musicians' Union of Japan<n>in 1991. Activities promote wider understanding<n>of musical culture and the circumstances of musicians.<n>- Academy Awards Foundation Anniversary: In 1927, the Academy<n>of Motion Picture Arts and Sciences was founded in America.<n>- Camera Invention Day: In 1839, France's<n>Louis-Mande Daguerre invented a camera.<n>- Feast of St. Joseph: Honors Jesus' foster father.
+EN: - Music Day: Set in 1991 by Japan's musicians' union to promote music and musicians.\n- Academy Day: The US film academy was founded in 1927.\n- Camera Day: France's Louis-Mande Daguerre invented a camera in 1839.\n- St. Joseph's Day: Jesus' foster father.
 
 @#19
 JP: ■上野動物園開園記念日：１８８２年、日本<n>初の近代動物園として、上野動物園、開園。<n>■東京国立博物館開館記念日：上野動物園と<n>同時に、上野寛永寺跡に東京国立博物館が開<n>館した。<n>■卵の日：エッグアートのカリフォルニア・<n>ファンシーエッグが制定。命の芽生える日、<n>として、春分の日と同じ日が選ばれた。
-EN: - Ueno Zoo Opening Anniversary: In 1882, Ueno Zoo opened<n>as Japan's first modern zoo.<n>- Tokyo National Museum Opening Anniversary: The museum<n>opened at the former site of Ueno's Kan'ei-ji Temple<n>at the same time as Ueno Zoo.<n>- Egg Day: Established by the egg-art company<n>California Fancy Egg. The spring equinox was chosen<n>as a day celebrating the beginnings of life.
+EN: - Ueno Zoo Day: Opened in 1882 as Japan's first modern zoo.\n- Tokyo National Museum Day: Opened with Ueno Zoo on the former Kan'ei-ji Temple site.\n- Egg Day: Egg-art firm California Fancy Egg chose the spring equinox to celebrate new life.
 
 @#20
 JP: ■国際人種差別撤廃デー：１９６６年の国連<n>総会で制定された国際デー。<n>■催眠術の日：催眠術をかける時のかけ声、<n>「３、２、１」から。<n>■カラー映画の日：１９５１年、初の国産総<n>天然色映画「カルメン故郷に帰る」が公開。<n>■ランドセルの日：３＋２＋１が小学校の修<n>業年数の６になることから提唱。
-EN: - International Day for the Elimination of Racial Discrimination:<n>Established by the UN General Assembly in 1966.<n>- Hypnosis Day: Inspired by the hypnotist's countdown,<n>"3, 2, 1," matching the date 3/21.<n>- Color Film Day: In 1951, Carmen Comes Home,<n>Japan's first domestically produced full-color film, was released.<n>- School Backpack Day: Proposed because 3 + 2 + 1 equals 6,<n>the number of years spent in Japanese elementary school.
+EN: - End Racial Discrimination Day: Set by the UN in 1966.\n- Hypnosis Day: 3/21 echoes "3, 2, 1..."\n- Color Film Day: Japan's first full-color film, Carmen Comes Home, debuted in 1951.\n- School Backpack Day: 3+2+1=6 years of elementary school in Japan.
 
 @#21
 JP: ■世界水の日：１９９２年の国連総会で決定。<n>地球的な視点から水の大切さ、貴重さを考え<n>る日。<n>■放送記念日：１９４３年、日本放送協会が<n>制定。逓信省から正式に免許を受けて仮放送<n>を開始した日。<n>■ジャパンタイムズ創刊日：１８９７年、日<n>刊英字新聞ジャパンタイムズが創刊。
-EN: - World Water Day: Designated by the UN General Assembly in 1992.<n>A day to reflect on the importance and value of water<n>from a global perspective.<n>- Broadcasting Anniversary: Established by NHK in 1943.<n>Marks the day provisional broadcasts began after an official<n>license was granted by the Ministry of Communications.<n>- The Japan Times Launch Anniversary: In 1897, the daily<n>English-language newspaper The Japan Times began publication.
+EN: - World Water Day: Set by the UN in 1992 to reflect on water's global value.\n- Broadcasting Day: Set by NHK in 1943, marking the start of licensed trial broadcasts.\n- Japan Times Day: The daily English-language paper launched in 1897.
 
 @#22
 JP: ■世界気象デー：世界気象機関が、発足１０<n>周年を記念して１９６０年に制定した。
@@ -96,11 +96,11 @@ EN: - World Meteorological Day: Established in 1960 by the World Meteorological 
 
 @#23
 JP: ■ホスピタリティ・デー：１９９４年に、思<n>いやりのある社会、ホスピタリティを意識的<n>に実践する日として制定。<n>■マネキン記念日：１９２８年、高島屋呉服<n>店が日本初のマネキンガールを登場させた日。<n>マネキンは人形ではなく売り場の女性のこと。<n>■壇ノ浦の戦いの日：１１８５年、長州沖の<n>壇ノ浦で、源氏軍が平家軍を破った日。
-EN: - Hospitality Day: Established in 1994 to encourage a caring society<n>and the conscious practice of hospitality.<n>- Mannequin Day: In 1928, Takashimaya's kimono store<n>introduced Japan's first live fashion models.<n>Here, "mannequin" means a woman working on the sales floor,<n>not a display dummy.<n>- Battle of Dan-no-ura Day: In 1185, the Minamoto defeated the Taira<n>at Dan-no-ura, off the coast of Choshu.
+EN: - Hospitality Day: Set in 1994 to promote a caring society and hospitality.\n- Mannequin Day: In 1928, Takashimaya introduced Japan's first live shop models.\n- Dan-no-ura Day: In 1185, the Minamoto beat the Taira off Choshu.
 
 @#24
 JP: ■電気記念日：１９２７年、日本電気協会が<n>制定。日本で初めて電灯がともった日。<n>■聖母マリアの受胎告知の祝日：天使ガブリ<n>エルが聖母マリアに受胎告知した日。<n>■蓮如忌：浄土真宗中興、蓮如上人の忌日。
-EN: - Electricity Day: Established by the Japan Electric Association in 1927.<n>Marks the day Japan's first electric light was lit.<n>- Feast of the Annunciation: The day the angel Gabriel told<n>the Virgin Mary she would bear a child.<n>- Rennyo Memorial Day: Remembers Rennyo, who revived Jodo Shinshu Buddhism.
+EN: - Electricity Day: Set in 1927 to mark Japan's first electric light.\n- Annunciation: Gabriel told the Virgin Mary she would bear a child.\n- Rennyo Memorial: Honors the monk who revived Jodo Shinshu Buddhism.
 
 @#25
 JP: ■カチューシャの歌の日：１９１４年、芸術<n>座で公演された「復活」の劇中歌の日。<n>■楽聖忌：ドイツの作曲家、ベートーベンが<n>１８２７年のこの日に亡くなった。
@@ -112,11 +112,11 @@ EN: - Cherry Blossom Day: Established by the Japan Cherry Blossom Association in
 
 @#27
 JP: ■三つ葉の日：み、つ、ば、の語呂合わせ。<n>■スリーマイル島記念日：１９７９年、アメ<n>リカのペンシルベニア州、スリーマイル島原<n>発で放射能漏れ事故が発生。世界初の原発事<n>故だった。<n>■シルクロードの日：１９００年、スウェー<n>デンの探検家ヘディンによって、シルクロー<n>ドの古代都市・楼蘭が発見。
-EN: - Mitsuba Day: A number pun on mi-tsu-ba, or 3-2-8, meaning Japanese parsley.<n>- Three Mile Island Day: In 1979, a radiation leak occurred<n>at the Three Mile Island nuclear power plant<n>in Pennsylvania, USA.<n>It was the world's first nuclear power plant accident.<n>- Silk Road Day: In 1900, Swedish explorer<n>Sven Hedin discovered Loulan,<n>an ancient city on the Silk Road.
+EN: - Mitsuba Day: 3-2-8 sounds like mitsuba, Japanese parsley.\n- Three Mile Island Day: A 1979 radiation leak in Pennsylvania was the world's first nuclear plant accident.\n- Silk Road Day: Swedish explorer Sven Hedin found ancient Loulan in 1900.
 
 @#28
 JP: ■マリモの日：１９５２年、阿寒湖のマリモ<n>が特別天然記念物に指定。<n>■八百屋お七の日：１６８３年、八百屋の娘<n>お七が放火し、その後、捕らえられて火あぶ<n>りとなった日。<n>■東インド会社設立：１６０２年、オランダ<n>インド間で独占的貿易の特許状を持つ会社を<n>設立した。
-EN: - Marimo Day: In 1952, Lake Akan's marimo algae balls<n>were designated a Special Natural Monument.<n>- Greengrocer Oshichi Day: On this day in 1683, Oshichi,<n>a greengrocer's daughter, was burned at the stake after her arrest for arson.<n>- Founding of the Dutch East India Company: In 1602,<n>the company was established with an exclusive charter<n>to trade between the Netherlands and India.
+EN: - Marimo Day: Lake Akan's algae balls became a Special Natural Monument in 1952.\n- Oshichi Day: A grocer's daughter, burned at the stake for arson in 1683.\n- Dutch East India Company: Founded in 1602 with a monopoly on Netherlands-India trade.
 
 @#29
 JP: ■マフィアの日：１２８２年、マフィアの名<n>前の由来となったとされる「シチリアの晩鐘<n>事件」が起こった日。<n>■国立競技場落成記念日：１９５８年、神宮<n>外苑に競技場が完成、落成式が行われた日。
@@ -124,4 +124,4 @@ EN: - Mafia Day: On this day in 1282, the Sicilian Vespers uprising occurred.<n>
 
 @#30
 JP: ■エッフェル塔の日：１８８９年、フランス<n>革命１００周年記念とパリ万国博覧会のため<n>に建設された。<n>■教育基本法・学校教育法公布の日：学校教<n>育の６、３、３、４制を定める教育法が１９<n>４７年に公布された。<n>■普通選挙法成立の日：この法律制定の翌年<n>から女性の参政権が認められ実践された。
-EN: - Eiffel Tower Day: Built in 1889 to celebrate<n>the French Revolution's centenary<n>and the Paris World's Fair.<n>- Basic Act on Education and School Education Act Day:<n>These education laws were promulgated in 1947, establishing<n>the 6-3-3-4 system of schooling.<n>- Universal Suffrage Act Day: Women were granted voting rights<n>and began exercising them the year after this law was enacted.
+EN: - Eiffel Tower Day: Built in 1889 for the Paris World's Fair and the French Revolution's centenary.\n- Education Laws Day: The 1947 laws set the 6-3-3-4 school system.\n- Universal Suffrage Day: Women gained and used voting rights the year after the law passed.

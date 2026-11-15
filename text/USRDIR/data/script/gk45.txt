@@ -156,7 +156,7 @@ EN: Volleyball
 
 @15134 max=359
 JP: バレーボールです。目標を達成す<n>るためなら厳しい練習もなんのそ<n>の、チームワークで勝利を目指せ<n>る努力家さん。慎重さゆえに好機<n>を逸することもありますが、その<n>慎重さが大きな勝利を呼び込むの<n>です。努力は必ず実を結びます！
-EN: Volleyball. You're a hard worker who<n>takes tough training in stride to reach<n>a goal, aiming for victory as a team.<n>Your caution may cost you chances,<n>but that same care can bring big wins.<n>Keep at it! All that effort is sure<n>to pay off!
+EN: Volleyball. You train hard and aim to win as a team. Caution may cost you chances, but it can also bring big victories. Your hard work will bear fruit!
 
 @1529C max=359
 JP: １００メートル走
@@ -164,7 +164,7 @@ EN: 100-Meter Dash
 
 @15404 max=359
 JP: １００メートル走です。根気がな<n>く、なんでも中途半端になりがち<n>なあなた。でもその分、誰にも負<n>けないヒラメキという瞬発力に恵<n>まれています。その才能を活かし<n>きれば、未だ誰も成しとげてない<n>記録も出るかもしれませんよ。
-EN: The 100-meter dash. You lack patience<n>and tend to leave things half done.<n>But you make up for it with lightning<n>flashes of inspiration that nobody<n>can match. Make full use of that gift,<n>and you might just set a record<n>the world has never seen!
+EN: 100-meter dash. You lack patience and often leave things half done, but your flashes of genius are unrivaled. Use that gift fully, and you could set a whole new record!
 
 @1556C max=359
 JP: 卓球
@@ -172,7 +172,7 @@ EN: Table Tennis
 
 @156D4 max=359
 JP: 卓球です。限られた状況の中もフ<n>ルに動きまわっては運を呼び込め<n>る、エネルギッシュな人です。わ<n>がままだの口が悪いだのと言われ<n>てもぜんぜん平気で、我が道を行<n>きます。でもなぜか憎まれない、<n>天然系の人気者です。
-EN: Table tennis. You're bursting with<n>energy, making the most of tight spots<n>and drawing luck your way. Call you<n>selfish or sharp-tongued? You don't<n>mind a bit. You go your own way!<n>Yet somehow, nobody can dislike you.<n>You're a born crowd favorite.
+EN: Table tennis. Your energy draws luck even in tight spots. Selfish? Sharp-tongued? You shrug it off and go your own way. Yet your natural charm makes you a crowd favorite.
 
 @1583C max=359
 JP: 野球
@@ -180,7 +180,7 @@ EN: Baseball
 
 @159A4 max=359
 JP: 野球です。お金と人気には不自由<n>しないタイプです。それだけに浪<n>費を浪費と思っていないふしがあ<n>ります。しかも心には悩みやトラ<n>ブルをつねに抱えていて、ちっと<n>も満たされていないのでは？あな<n>たにはもっと堅実さが必要です。
-EN: Baseball. Money and popularity come<n>easily to you. So easily, in fact,<n>that you hardly notice how much you<n>waste. Yet worries and troubles are<n>always weighing on your heart.<n>Does anything ever feel like enough?<n>You need to be more sensible.
+EN: Baseball. Money and popularity come easily, so you barely notice your wasteful spending. Yet worries leave you feeling unfulfilled. You need a more sensible approach.
 
 @15B0C max=359
 JP: 競泳
@@ -188,7 +188,7 @@ EN: Competitive Swimming
 
 @15C74 max=359
 JP: 競泳です。つねに前に向かって進<n>むことが宿命づけられている人で<n>す。心の内には激しい炎がもえた<n>ぎっていますが、それを顔にまっ<n>たく出さず、いつでもクールに世<n>の中を泳いでみせます。あるとき<n>キッパリ転身なんて意外性も。
-EN: Competitive swimming. You're destined<n>to keep moving forward. A fierce fire<n>burns inside you, but you'd never<n>let it show on your face. You always<n>swim through life looking cool.<n>Still, you might surprise everyone<n>with a sudden change of course!
+EN: Competitive swimming. Born to move forward, you hide a blazing spirit behind a cool face as you swim through life. Still, you may surprise everyone by changing course!
 
 @15DDC max=359
 JP: マラソン
@@ -196,7 +196,7 @@ EN: Marathon
 
 @15F44 max=359
 JP: マラソンです。長くつらい時間を<n>過ごすことに出くわすことがあっ<n>ても、そこからふんばって華やか<n>なゴールテープを切ることのでき<n>る人です。してきた努力はかなら<n>ず報われることを、身を持って体<n>験することができるでしょう。
-EN: The marathon. Even when life puts you<n>through a long, painful stretch,<n>you have the grit to keep going<n>and break that finish tape in style.<n>You'll discover through your own<n>experience that all the hard work<n>you put in will surely be rewarded.
+EN: Marathon. Even through long, painful stretches, you have the grit to push on and cross the finish line in style. You'll see for yourself that hard work brings rewards.
 
 @160AC max=359
 JP: サッカー
@@ -204,7 +204,7 @@ EN: Soccer
 
 @16214 max=359
 JP: サッカーです。小さな頃から才能<n>に恵まれ、数々のチャンスをもの<n>にしながら波にのってこれた人で<n>す。世界に目を向け、大きな目標<n>をかかげれば、それに向かってま<n>っしぐらに突き進んでいくことが<n>できるでしょう。
-EN: Soccer. You've been gifted since<n>childhood, seizing one chance after<n>another and riding a wave of success.<n>Look beyond your own little world<n>and set yourself an ambitious goal.<n>You'll be able to charge straight<n>toward it without looking back!
+EN: Soccer. Gifted since childhood, you've seized chances and ridden a wave of success. Set your sights on the world and choose a bold goal. You can charge straight toward it!
 
 @1637C max=359
 JP: 柔道
@@ -212,7 +212,7 @@ EN: Judo
 
 @164E4 max=359
 JP: 柔道です。ねばり強さで夢を勝ち<n>取る人です。そのためなら辛抱だ<n>って厳しい稽古だっていとわない<n>タイプ。自分で自分に試練を与え<n>て、一つずつ越えていける体力と<n>精神力に恵まれています。ただ、<n>気がそれると足をすくわれます。
-EN: Judo. You win your dreams through<n>persistence, gladly enduring hardship<n>and tough training to get there.<n>You set yourself challenges and have<n>the strength of body and mind to<n>overcome each one. But lose focus,<n>and you could get swept off your feet!
+EN: Judo. Persistence wins you your dreams. You welcome tough training and have the body and mind to beat each challenge you set yourself. Lose focus, though, and you'll trip!
 
 @1664C max=359
 JP: シンクロ
@@ -220,4 +220,4 @@ EN: Synchronized Swimming
 
 @167B4 max=359
 JP: シンクロです。女性なら世界のト<n>ップにもたてる実力を持っていま<n>す。でもリズムをいったん崩して<n>しまうと弱い面があります。まれ<n>に男性でも話題の存在になれる人<n>も。どちらにしても人気を呼び込<n>める強運を味方につけています。
-EN: Synchronized swimming. If you're a<n>woman, you have the talent to reach<n>the top of the world. But losing your<n>rhythm can leave you vulnerable.<n>Occasionally, a man can make a splash,<n>too. Either way, you have powerful<n>luck that draws popularity your way.
+EN: Synchronized swimming. Women can reach the top; even men may make a splash. Losing your rhythm leaves you vulnerable, but either way, strong luck brings you popularity.

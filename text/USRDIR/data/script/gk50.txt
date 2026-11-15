@@ -156,7 +156,7 @@ EN: Blood Pressure Monitor
 
 @15134 max=359
 JP: 血圧計タイプのあなたは、いつも<n>自分は特別、というプライドの高<n>さと、それを裏付ける個性を兼ね<n>備えた人。他人に世話を焼かれる<n>のを嫌い、人並みのことでは満足<n>しない理想の高い人でもあります。<n>強運にも恵まれています。
-EN: Blood pressure monitor types have<n>pride to spare and the personality<n>to back it up. You know you're special!<n>You hate being fussed over and set<n>your sights high. Ordinary just won't<n>do for you. You're also blessed with<n>great luck.
+EN: Blood pressure monitor types are proud, unique, and lucky. You know you're special, hate being fussed over, and set your sights high. Ordinary just won't do!
 
 @1529C max=359
 JP: 注射器
@@ -164,7 +164,7 @@ EN: Syringe
 
 @15404 max=359
 JP: 注射器タイプのあなたは、一見、<n>おとなしく慎重なのですが、何か<n>身内が攻撃されるような事態にな<n>ると、恐れを知らず向かっていく<n>一点集中型の人。普段は、行動に<n>出るまでの迷いが長いので、優柔<n>不断に思われがちなタイプです。
-EN: Syringe types seem quiet and cautious<n>at first. But if someone close to you<n>comes under attack, you charge in<n>fearlessly, focused on defending them.<n>Usually, though, you spend so long<n>agonizing before you act that people<n>tend to think you're indecisive.
+EN: Syringe types are quiet and cautious, but fiercely defend loved ones without fear. You focus on one thing at a time. Taking ages to act can make you seem indecisive.
 
 @1556C max=359
 JP: 点滴
@@ -172,7 +172,7 @@ EN: IV Drip
 
 @156D4 max=359
 JP: 点滴タイプのあなたは、周囲を圧<n>倒するようなパワーと、チャレン<n>ジ精神を兼ね備えた人。理想に向<n>かって努力を怠らず、目標を達成<n>しようとします。ただ、好き嫌い<n>が激しく、自分の思い通りになら<n>ないと攻撃的になるのが欠点です。
-EN: IV drip types have boundless energy<n>and a taste for challenges. You work<n>tirelessly toward your ideals and<n>strive to achieve your goals. But your<n>likes and dislikes can be extreme.<n>When things don't go your way, you<n>have a tendency to turn aggressive.
+EN: IV drip types are energetic and love a challenge. You work hard toward your ideals, but have strong likes and dislikes. When things don't go your way, you can lash out.
 
 @1583C max=359
 JP: カルテ
@@ -180,7 +180,7 @@ EN: Medical Chart
 
 @159A4 max=359
 JP: カルテタイプのあなたは、知性的<n>で、物静か、そして発想力が豊か<n>で、個性的な人です。束縛を嫌い、<n>いつも自由に羽ばたいていたいと<n>思うあまり、周りからの理解が得<n>られず苦労することも。研究者や<n>作家などに向いている人です。
-EN: Medical chart types are intelligent,<n>quiet, imaginative, and distinctive.<n>You hate being tied down and always<n>want the freedom to spread your wings.<n>That can make it hard for others to<n>understand you. Research or writing<n>would be a good career fit.
+EN: Medical chart types are quiet, bright, creative, and unique. You crave freedom, even when others struggle to understand you. Research or writing would suit you.
 
 @15B0C max=359
 JP: 白衣
@@ -188,7 +188,7 @@ EN: Lab Coat
 
 @15C74 max=359
 JP: 白衣タイプのあなたは、秀才でな<n>おかつ社交的。負けず嫌いで、他<n>人に弱みを握られることを何より<n>嫌う人です。一度決めたことは、<n>周りの状況や障害にも関らず突き<n>進め、自分の感情に対して素直す<n>ぎる行動が誤解を招くことも。
-EN: Lab coat types are bright and sociable.<n>You hate losing, and above all, you<n>hate giving anyone a hold over you.<n>Once your mind is made up, you push on<n>regardless of circumstances or hurdles.<n>You act so openly on your feelings<n>that others may misunderstand you.
+EN: Lab coat types are bright, sociable, and hate losing or showing weakness. Once decided, nothing stops you. Acting on every feeling can lead to misunderstandings.
 
 @15DDC max=359
 JP: 聴診器
@@ -196,7 +196,7 @@ EN: Stethoscope
 
 @15F44 max=359
 JP: 聴診器タイプのあなたは、人の心<n>をとらえる天才です。華やかでカ<n>リスマ性に満ち、センス抜群。タ<n>レントなどに向いている人です。<n>しかしそんな印象を与える反面、<n>ナイーブで神経質なところもあり、<n>ストレスをためやすい性格です。
-EN: Stethoscope types are naturals at<n>winning hearts. Glamorous, charismatic,<n>and full of style, you'd make a great<n>entertainer. Beneath that dazzling<n>exterior, though, you have a sensitive,<n>anxious side. That makes it easy for<n>stress to build up.
+EN: Stethoscope types win hearts with charisma, glamour, and great style. You'd make a fine entertainer, but you're also sensitive and anxious, so stress builds up easily.
 
 @160AC max=359
 JP: 体温計
@@ -204,4 +204,4 @@ EN: Thermometer
 
 @16214 max=359
 JP: 体温計タイプのあなたは、好奇心<n>旺盛でがんばりや、上昇志向の強<n>い人です。根は淋しがり屋なので<n>すが、外では元気いっぱいに振舞<n>うタイプです。物事を仕切りたが<n>ったり、勇み足が激しかったりす<n>るところが要注意です。
-EN: Thermometer types are curious,<n>hardworking, and eager to get ahead.<n>Deep down, you get lonely easily,<n>but around others, you're full of life.<n>Watch out for your urge to take charge<n>of everything, and your tendency to<n>rush in before thinking things through.
+EN: Thermometer types are curious, hardworking, and ambitious. You act lively around others but feel lonely inside. Beware of taking over or rushing in before you think.

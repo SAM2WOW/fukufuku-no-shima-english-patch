@@ -156,7 +156,7 @@ EN: Natto
 
 @15134 max=359
 JP: 気の合う仲間とはうまくいくけれ<n>ど、それ以外の人とは口をきくこ<n>とも少ないあなたは、納豆タイプ。<n>一緒にあわせる具には、相性が必<n>要です。それでも、もう少し周り<n>のペースに合わせるとさらに大勢<n>と仲良くなれるはず。
-EN: You're the natto type!<n>You get along with kindred spirits,<n>but barely talk to anyone else.<n>Like ingredients in a soup,<n>you need a compatible mix.<n>Try matching other people's pace a little,<n>and your circle of friends will grow.
+EN: You're the natto type! You stick to kindred spirits and rarely talk to others. Like natto toppings, you need a good match. Try matching others' pace to make more friends.
 
 @1529C max=359
 JP: ワカメ
@@ -164,7 +164,7 @@ EN: Wakame
 
 @15404 max=359
 JP: 友人関係はそれほど広くないかも<n>しれませんが、一旦親しくなると<n>一生の友人として付き合うあなた<n>は、ワカメタイプ。ちょっとした<n>トラブルがあったときに、周囲に<n>気付かれずに上手に処理して人望<n>をアップさせます。
-EN: You're the wakame type!<n>Your circle of friends may be small,<n>but once you grow close to someone,<n>you stay friends for life.<n>You quietly smooth over little problems<n>before anyone even notices,<n>earning people's trust along the way.
+EN: You're the wakame type! Your circle may be small, but your friendships last a lifetime. You quietly resolve little problems before anyone notices, earning trust.
 
 @1556C max=359
 JP: 豆腐
@@ -172,7 +172,7 @@ EN: Tofu
 
 @156D4 max=359
 JP: 初対面の人ともすぐ仲良くなれる、<n>コミュニケーション上手なあなた<n>は、豆腐タイプ。相手に合わせて<n>行動できるので、対人面のトラブ<n>ルは少ないでしょう。苦手かもし<n>れないけど、一人の人と深く関わ<n>ることにも挑戦してみて。
-EN: You're the tofu type!<n>A gifted communicator, you can make<n>friends with someone you've just met.<n>You adapt well to others, so friction<n>is rarely a problem. Getting close<n>to one particular person may be harder,<n>but why not give it a try?
+EN: You're the tofu type! You befriend new people easily and adapt to others, so quarrels are rare. A deeper bond with one person may be harder, but give it a try!
 
 @1583C max=359
 JP: なめこ
@@ -180,7 +180,7 @@ EN: Nameko Mushrooms
 
 @159A4 max=359
 JP: 家族を大切にするあなたは、友人<n>も家族同様にとても大切にする、<n>なめこタイプ。大切に思うあまり、<n>おせっかいを焼きすぎると、粘っ<n>こいと敬遠されてしまうかも。仕<n>事とプライベートの線引きをしっ<n>かり頭に入れておくこと。
-EN: You're the nameko mushroom type!<n>You treasure your family and treat<n>your friends as if they were family too.<n>But caring too much can turn into meddling,<n>and people may avoid you if you get clingy.<n>Be sure to keep a clear boundary<n>between work and your personal life.
+EN: You're the nameko mushroom type! You cherish friends like family, but too much fussing can seem clingy and drive them away. Keep work and your private life separate.
 
 @15B0C max=359
 JP: ジャガイモ
@@ -188,7 +188,7 @@ EN: Potato
 
 @15C74 max=359
 JP: 誰にでも優しくて思いやりもある<n>あなたは、ジャガイモタイプ。あ<n>なたの周りには、常にあなたに賛<n>成してくれる取り巻きが多いので<n>は？ときには、苦言を呈してくれ<n>る数少ない友人からのアドバイス<n>も素直に聞きましょう。
-EN: You're the potato type!<n>You're kind and considerate to everyone.<n>Could it be that you're always surrounded<n>by people who agree with everything you say?<n>Now and then, listen with an open mind<n>to those few friends who care enough<n>to tell you the hard truths.
+EN: You're the potato type! Kind to everyone, you may attract a crowd who always agree with you. Listen openly to the few friends who tell you hard truths, too.
 
 @15DDC max=359
 JP: タマネギ
@@ -196,7 +196,7 @@ EN: Onion
 
 @15F44 max=359
 JP: 意外に対人関係のトラブルが多い<n>あなたは、タマネギタイプ。時間<n>やマナーにルーズな友人にはイラ<n>イラすることも多いでしょう。学<n>歴や職業で付き合う人を選びがち<n>ですが、人間味のある人と付き合<n>うとリラックスできます。
-EN: You're the onion type!<n>You have a surprising amount of friction<n>with others. Friends with poor manners<n>or timekeeping often get on your nerves.<n>You tend to judge people by education<n>or career, but warm, down-to-earth friends<n>can help you relax.
+EN: You're the onion type! Friction is common: lateness and bad manners irk you. You judge people by education or career, but warm, down-to-earth friends help you relax.
 
 @160AC max=359
 JP: 油揚げ
@@ -204,7 +204,7 @@ EN: Fried Tofu
 
 @16214 max=359
 JP: 話し上手、聞き上手のあなたは、<n>油揚げタイプ。誰とでもうまく調<n>和できて、対人関係のトラブルは<n>皆無に近いでしょう。初対面の人<n>でもうまく付き合えるかどうか直<n>感でわかるのも特技。その直感を<n>信じて行動しても大丈夫。
-EN: You're the fried tofu type!<n>You're as good at listening as talking,<n>and you blend in well with anyone.<n>Friction with others is almost unheard of.<n>Even when you first meet someone,<n>you can sense whether you'll get along.<n>Go ahead and trust that intuition!
+EN: You're the fried tofu type! A fine talker and listener, you get along with almost anyone. You can sense at first meeting who you'll click with. Trust that instinct!
 
 @1637C max=359
 JP: あさり
@@ -212,7 +212,7 @@ EN: Clam
 
 @164E4 max=359
 JP: とても用心深くて、誰かと親しく<n>なるまでに時間がかかるあなたは、<n>あさりタイプ。なかなか自分の殻<n>を開かないので、周りから誤解さ<n>れることも多いのでは？もう少し<n>オープンに心を開いて、あなたの<n>良さをアピールしてみて。
-EN: You're the clam type!<n>You're very cautious, and it takes time<n>for you to grow close to someone.<n>You rarely come out of your shell,<n>so people may often misunderstand you.<n>Try opening your heart a little more<n>and letting your good qualities shine!
+EN: You're the clam type! Cautious and slow to make friends, you stay in your shell, so people may misjudge you. Open your heart a little and let your good qualities shine!
 
 @1664C max=359
 JP: ねぎ
@@ -220,7 +220,7 @@ EN: Green Onion
 
 @167B4 max=359
 JP: ひとりで自由に飛び回るのが好き<n>なあなたは、ねぎタイプ。周りと<n>ペースを合わせるのは苦手ですが、<n>一旦仲良くなれば深く付き合おう<n>とするのも特徴です。ビジネスで<n>は、きちんと報告、説明すること<n>が、トラブル回避のカギ。
-EN: You're the green onion type!<n>You love roaming freely on your own.<n>Keeping pace with others isn't your forte,<n>but once you make a friend, you want<n>a deep bond. At work, the key to avoiding<n>trouble is keeping people informed<n>and explaining things clearly.
+EN: You're the green onion type! You love roaming alone and struggle to keep pace with others, but form deep bonds with friends. At work, clear updates help prevent trouble.
 
 @1691C max=359
 JP: ホウレン草
@@ -228,7 +228,7 @@ EN: Spinach
 
 @16A84 max=359
 JP: 集団行動がちょっと苦手なあなた<n>は、あくのあるホウレン草タイプ。<n>周りからは不機嫌そうに見えるの<n>で、近寄り難いと思われているよ<n>うです。実はとても孤独で、理解<n>者を求めているのですから、時に<n>はプライドも脱ぎ捨てて！
-EN: You're the spinach type, with a bitter edge!<n>Group activities aren't really your thing.<n>People think you look grumpy,<n>which makes you hard to approach.<n>Deep down, you're lonely and wish<n>someone would understand you.<n>Try setting your pride aside sometimes!
+EN: You're the bitter spinach type! Groups aren't your thing, and you look too grumpy to approach. Deep down, you're lonely and want to be understood. Let go of your pride!
 
 @16BEC max=359
 JP: ダイコン
@@ -236,7 +236,7 @@ EN: Daikon Radish
 
 @16D54 max=359
 JP: 誰にでも優しい反面、誰かと親密<n>になるのもあまり好きではないあ<n>なたは、ダイコンタイプ。友人か<n>らあれこれ干渉されるのが嫌いで<n>す。一風変わった人から気に入ら<n>れやすいのはいいのですが、偽善<n>者にだまされないように！
-EN: You're the daikon radish type!<n>You're kind to everyone, but you aren't<n>keen on getting too close to anyone.<n>You dislike friends meddling in your life.<n>Unusual people tend to take a liking to you,<n>which is fine, but beware of being fooled<n>by people who only pretend to be kind!
+EN: You're a daikon radish: kind to all, but you like your distance and hate meddling friends. Oddballs take to you, but beware of those who only pretend to be kind!
 
 @16EBC max=359
 JP: きぬさや
@@ -244,4 +244,4 @@ EN: Snow Peas
 
 @17024 max=359
 JP: 控えめで優しく、人に尽くすのが<n>好きなあなたはきぬさやタイプ。<n>わがままな人とでも仲良くできて<n>しまいます。周りの影響を受けや<n>すいので、意地悪な人と付き合っ<n>て、自分もそうならないように注<n>意したいものです。
-EN: You're the snow pea type!<n>Gentle and modest, you love helping others.<n>You can even get along with selfish people.<n>But those around you can easily<n>influence your behavior.<n>Be careful that spending time with mean people<n>doesn't make you mean too!
+EN: You're a snow pea: modest, kind, and eager to help. You get along even with selfish people. Others influence you easily, so don't let mean friends rub off on you!

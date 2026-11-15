@@ -156,7 +156,7 @@ EN: HB
 
 @15134 max=359
 JP: あなたは、ＨＢの鉛筆ってところ<n>でしょう。多くの人に愛され、安<n>心して付き合える存在。使う人に<n>よって濃くも薄くもなるＨＢは協<n>調性抜群のあなたそのもの。運気<n>をさらにアップさせるには、ユー<n>モアと明るさを意識しましょう。
-EN: You're an HB pencil, loved by many<n>and easy to get along with. An HB<n>can write light or dark depending<n>on who's using it, just as you adapt<n>so well to others. To give your luck<n>an extra boost, bring out your sense<n>of humor and your sunny side.
+EN: You're an HB pencil: loved, reliable and adaptable, like an HB that writes light or dark in different hands. Let humor and cheer shine to boost your luck.
 
 @1529C max=359
 JP: Ｆ
@@ -164,7 +164,7 @@ EN: F
 
 @15404 max=359
 JP: あなたは、Ｆの鉛筆ってところ。<n>枠に縛られず、型にはまることが<n>嫌いなあなたは、Ｆ鉛筆の人生に<n>重なります。短気で怒りっぽいと<n>ころが、付き合いにくさに繋がる<n>場合もあるので、何事もあきらめ<n>ない姿勢を大切に。
-EN: You're an F pencil. You hate being<n>boxed in or forced to fit a mold,<n>much like this unconventional grade.<n>Your short fuse can make you a bit<n>hard to get along with, though.<n>Whatever comes your way, hold on<n>to your determination and never quit.
+EN: You're an F pencil: a free spirit who hates fitting a mold. Your short fuse can make you hard to get along with. Whatever happens, don't give up!
 
 @1556C max=359
 JP: ４Ｂ
@@ -172,7 +172,7 @@ EN: 4B
 
 @156D4 max=359
 JP: あなたは、４Ｂの鉛筆というとこ<n>ろでしょう。柔軟で図太いその性<n>格は、まさに４Ｂ鉛筆の特徴その<n>まま。おおらかすぎる面が、「だ<n>らしがない」と思われないように<n>注意も必要です。社交性のアピー<n>ルが運気向上のカギ。
-EN: You're a 4B pencil. Flexible and<n>thick-skinned, you're just like this<n>soft pencil with its bold strokes.<n>Just take care that your easygoing<n>ways don't come across as sloppy.<n>Let your sociable side shine through:<n>that's the key to boosting your luck.
+EN: You're a 4B pencil: flexible, thick-skinned and easygoing. Just don't let relaxed turn into sloppy! Show your sociable side to boost your luck.
 
 @1583C max=359
 JP: 赤鉛筆
@@ -180,4 +180,4 @@ EN: Red Pencil
 
 @159A4 max=359
 JP: あなたは、赤鉛筆タイプです。プ<n>ライドが高く目立ちたがりやなと<n>ころは、筆箱で我が物顔の赤鉛筆<n>にそっくり。ここぞというときに<n>使われる赤鉛筆のように、個性を<n>輝かせています。「自然」を心が<n>けることで運気向上の兆し。
-EN: You're a red pencil. Proud and fond<n>of the spotlight, you rule the pencil<n>case! Like a red pencil brought out<n>for special jobs, you let your unique<n>character shine when it counts.<n>Keep things natural, and your luck<n>should take a turn for the better.
+EN: You're a red pencil: proud and eager to stand out! You rule the pencil case and shine when it counts. Keep things natural to boost your luck.

@@ -404,7 +404,7 @@ EN: The new school term has started,<n>and I'm feeling a little unsettled.<n>I'm
 
 @#100
 JP: 桜の花が散り始めましたね！<n>いよいよ春本番、という感じ。<n>この季節は意味もなくわくわくします。<n>これを拾ったあなたは、<n>春は好きですか？
-EN: The cherry blossoms are starting to fall!<n>It really feels like spring is in full swing.<n>This season gets me excited for no reason.<n>So, whoever found this bottle...<n>Do you like spring?
+EN: The cherry blossoms are starting to fall! Spring's in full swing. I'm excited for no reason! Whoever found this bottle, do you like spring?
 
 @#101
 JP: 卒業式で、ちょっと泣いてしまった<n><HORO>の<BLOOD>型、<n><AGE>歳の<SEX>性です。<n>今までそんなことなかったんだけど。<n>あなたは涙もろいほうかなぁ？
@@ -412,7 +412,7 @@ EN: I got a little teary at graduation.<n>I'm a <HORO> with type <BLOOD> blood,<
 
 @#102
 JP: 初夏の日差しになってきましたね！<n>このボトルを拾った誰かは<n>どんな風に過ごしているのかな？<n>私は、ちょっと五月病。<n>早くもやもやから脱出したいです。
-EN: The sunshine's starting to feel like early summer!<n>I wonder how you're spending your days,<n>whoever found this bottle.<n>I've got a bit of the springtime blues.<n>I hope this funk clears up soon.
+EN: The sun feels like early summer! How are you spending your days, bottle finder? I've got the springtime blues. I hope this funk lifts soon.
 
 @#103
 JP: 花粉症がまだまだ続く、<n>鼻がぐずぐずの私です。<n>早く花粉、終わって欲しい。<n>毎日マスクをかけて出かけたい気分です。
@@ -452,7 +452,7 @@ EN: Well, that was something.<n>I was walking down the street the other day<n>wh
 
 @#112
 JP: 突然だけど、歯磨きで悩んでます。<n>右手で磨いてるとき、私の左手ったら<n>無意識に、とてもアヤシイ動きを<n>してしまうんです。<n>どうしたらいいんでしょう？
-EN: This is out of the blue, but brushing my teeth is a problem.<n>While my right hand does the brushing,<n>my left hand starts making these very suspicious movements<n>without me even realizing it.<n>What am I supposed to do?
+EN: Here's my toothbrushing problem: as my right hand brushes, my left hand makes suspicious moves all on its own! What should I do?
 
 @#113
 JP: こんにちは。<n>当方、小さな島に暮らす<n>平凡な<SEX>性ですが<n>豆腐を手のひらの上で切れます。<n>えへん。
@@ -468,7 +468,7 @@ EN: Along with this letter,<n>this bottle is packed with<n>invisible things, lik
 
 @#116
 JP: 昨日、すごい発明を思いつきました。<n>固い羽を電気でくるくる回すと<n>風が起きて、とても涼しくなるんです。<n>扇風機と名付けました。<n>これで大金持ちですね。えへへ。
-EN: Yesterday, I thought up an amazing invention.<n>You use electricity to spin some stiff blades,<n>and they make a lovely, cooling breeze.<n>I've decided to call it an electric fan.<n>I'm going to be rich! Hee hee.
+EN: I had a great idea yesterday! Spin stiff blades with electricity for a cool breeze. I'll call it an electric fan. I'll be rich! Hee hee.
 
 @#117
 JP: 海よ…<n>わたしの想いを伝えておくれ<n>エビチリのエビは大きいほうがいいと<n>心から想う　わたしの気持ちを<n>海よ…
